@@ -3,8 +3,8 @@ aliases:
 tags:
   - Logic
 "References:":
-  - "[[Logic_Resource_Theorems and Derived Rules.Combined.pdf]]"
-cssclasses:
+  - "[[Logic_Resource_Theorems and Derived Rules Combined.pdf]]"
+cssclasses: 
 ---
 # Intro to the course: 
 ![[Logic_Theory_Ch 0_Intro]]

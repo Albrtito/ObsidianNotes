@@ -67,9 +67,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6de8ba0e58b648ff",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240501 - 225136 - Clauses.md",
+                "file": "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240501 - 225136 - Clauses.md",
+                "file": "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240501 - 225136 - Clauses.md",
+                "file": "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240501 - 225136 - Clauses.md"
+                "file": "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md"
               }
             }
           }
@@ -257,12 +267,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a94269a781f00c1f",
+  "active": "bcf85d45e3f0280b",
   "lastOpenFiles": [
+    "02 - Atomic/Logic_Resource_Theorems.md",
     "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
-    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+    "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "02 - Atomic/20240501 - 225136 - Clauses.md",
-    "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
+    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
     "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
     "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
     "Home.md",
@@ -287,7 +298,6 @@
     "02 - Atomic/20240501 - 123051 - Unit testing.md",
     "02 - Atomic/20240423 - 100332 - Perfect matchings.md",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",
-    "02 - Atomic/PythonLib-Unittest.md",
     "99 - Meta/0. Attachments/Pasted image 20240501124333.png",
     "99 - Meta/0. Attachments/Pasted image 20240501124251.png",
     "00.References/OS_Resources_Lab3Statement.pdf",
