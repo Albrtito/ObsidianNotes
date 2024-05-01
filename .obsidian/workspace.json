@@ -34,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
-                "mode": "source",
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -64,8 +64,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,14 +254,14 @@
   },
   "active": "dd17373ab2dd70e1",
   "lastOpenFiles": [
-    "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
-    "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
-    "01.Areas/1.UC3M/Logic.md",
-    "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
-    "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
     "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
-    "02 - Atomic/Predicate Logic.md",
+    "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
+    "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
+    "01.Areas/1.UC3M/Logic.md",
+    "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
+    "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
+    "02 - Atomic/Predicate Logic.md",
     "Home.md",
     "02 - Atomic/Logic_Submission4.md",
     "02 - Atomic/20240501 - 155450 - Theorem - Equivalence theorem.md",
