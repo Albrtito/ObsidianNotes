@@ -20519,6 +20519,7 @@ replacements
 rWp
 rGnA
 rUs
+rid
 here
 hour
 home
@@ -54322,6 +54323,7 @@ OEe
 ObRu
 Obyig
 OJq
+Out
 varias
 verde
 visita

@@ -64,7 +64,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,10 +255,11 @@
   },
   "active": "dd17373ab2dd70e1",
   "lastOpenFiles": [
-    "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
-    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
     "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
+    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
     "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
+    "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
+    "02 - Atomic/20240501 - 222156 -.md",
     "01.Areas/1.UC3M/Logic.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
     "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
@@ -281,7 +283,6 @@
     "02 - Atomic/20240423 - 100332 - Perfect matchings.md",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",
     "02 - Atomic/PythonLib-Unittest.md",
-    "02 - Atomic/Test-Driven Development.md",
     "99 - Meta/0. Attachments/Pasted image 20240501124333.png",
     "99 - Meta/0. Attachments/Pasted image 20240501124251.png",
     "00.References/OS_Resources_Lab3Statement.pdf",
