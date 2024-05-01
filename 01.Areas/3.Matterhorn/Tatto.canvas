@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"2df5193c30826fd9","type":"file","file":"99 - Meta/0. Attachments/Pasted image 20240428173305.png","x":-1840,"y":160,"width":400,"height":400},
+		{"id":"ad47da9d7f4ede52","type":"file","file":"99 - Meta/0. Attachments/Pasted image 20240428173235.png","x":-2320,"y":160,"width":400,"height":385},
+		{"id":"e2cb2d5e80335bdb","type":"file","file":"99 - Meta/0. Attachments/Pasted image 20240428173214.png","x":-2640,"y":153,"width":225,"height":399},
+		{"id":"4be9ea97ba2bdc3a","type":"file","file":"99 - Meta/0. Attachments/Pasted image 20240428173244.png","x":-1240,"y":40,"width":400,"height":400},
+		{"id":"230ba8b1d1b5b8fd","type":"file","file":"99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.04.19.png","x":-2655,"y":636,"width":1015,"height":557},
+		{"id":"599890da97f8191c","type":"text","text":"","x":-1524,"y":845,"width":250,"height":60},
+		{"id":"5a76652b7abefd76","type":"file","file":"99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.05.06.png","x":-1546,"y":636,"width":976,"height":536},
+		{"id":"e2b9c813c031dcb1","type":"file","file":"99 - Meta/0. Attachments/Pasted image 20240428173413.png","x":-2014,"y":2071,"width":374,"height":400},
+		{"id":"2d7ca9bbe89c2e8e","type":"file","file":"99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.05.48.png","x":-2596,"y":1219,"width":898,"height":493},
+		{"id":"8305b6697136a6e8","type":"file","file":"99 - Meta/0. Attachments/Pasted image 20240428173433.png","x":-3352,"y":127,"width":400,"height":226},
+		{"id":"042ed6d6f9575ffa","type":"file","file":"99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.07.11.png","x":-1524,"y":1235,"width":884,"height":1236},
+		{"id":"42670b9c6247c2e7","type":"file","file":"99 - Meta/0. Attachments/Pasted image 20240428173251.png","x":-3552,"y":1963,"width":400,"height":400},
+		{"id":"cd84c0aa582c61d3","type":"file","file":"99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.08.27.png","x":-3440,"y":545,"width":756,"height":1057,"color":"1"},
+		{"id":"f6dc25a9584c2583","type":"file","file":"99 - Meta/0. Attachments/Pasted image 20240428173615.png","x":-3084,"y":2271,"width":400,"height":400},
+		{"id":"2bb148bc6bd3c3e8","type":"file","file":"99 - Meta/0. Attachments/Pasted image 20240428173636.png","x":-2817,"y":-458,"width":805,"height":585},
+		{"id":"9aac044df12f5daf","x":-570,"y":695,"width":874,"height":1541,"type":"file","file":"99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.10.06.png"}
+	],
+	"edges":[]
+}

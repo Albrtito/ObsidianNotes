@@ -1,0 +1,49 @@
+---
+Date: 2024-03-18
+tags:
+  - review
+  - OS
+"References:":
+  - https://aulaglobal.uc3m.es/pluginfile.php/6794419/mod_resource/content/1/T3.L1-Concurrency-Intro-Concepts.pdf
+sr-due: 2024-05-19
+sr-interval: 32
+sr-ease: 224
+---
+
+## Models: 
+**Multiprogramming:**
+
+
+# Advantages of concurrent execution: 
+**Sometimes** (not in most cases) is easier to program in parallel. An example is web servers as they can be seen as a parallel system where each client works in parallel. However if the problem being solved is not initially  parallel then it is not that of an advantage.
+
+Since the late 2000 the clocks inside the CPU cores cannot go faster. This means that we cannot make clocks that go faster without overheating. 
+We have however developed better transistors, this means that we can now input more into the CPU. This resolves into concurrent execution as **making programs parallel** is the key for **program speed** 
+
+But there where also big advantages of concurrency before there where even multicore CPUs. Why was it better? The main difference is based in the user experience. The advantage of having multiple users using the same core with concurrent execution make it so both users have a better experience. w
+
+The last main advantage is on the usage of IO. Concurrency lets the CPU work on another process while the IO work is being done in another process.
+
+# Kinds of concurrent processes
+## Independent: 
+Processes run without interaction between them. **The easy way of doing concurrency**
++ No communication 
++ No synchronisation
+## Cooperating: 
+Process that run concurrently with some interaction.Something about one of the process is needed for the other one. 
+This is **way harder** than independent concurrency as managing the interaction gets really complicated. 
++ Possible communication
++ Possible synchronisation (they have to finish together at one time)
+
+### Interactions between processes: 
++ Shared resource
+	Both processes use the same data or compete for that data. Competing for the data happens in a [[Race condition]]
++ Communication 
+	Shared global variables or some messaging between processes
++ Synchronisation: 
+	A process having to wait for events in other processes. This is using resources until the other process ends. In order to ensure synchronisation the [[Semaphores Dijkstra method]] is used
+
+# Algorithms to solve problems. 
+Based on all explained for this chapter two possible algorithms appear in order to solve process concurrence. This algorithms are explained from the point of view of the problem they are created to solve. 
++ [[Algorithm - Producer-Consumer problem]]
++ [[Algorithm - Readers-Writers problem]]

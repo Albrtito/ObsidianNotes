@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"945fce51bd36ff25","type":"file","file":"02 - Atomic/Files_Theory_Ch 0_Presentation.md","x":-880,"y":-760,"width":400,"height":1520},
+		{"id":"ecc9dd84d20d6bc7","type":"text","text":"# Notes\n[[Introduction to Databases]]\n[[Relational Data Models]]\n[[Relational Dynamics]]\n### Uni project:\nFor this course project we'll be doing an SQL database based on the proposed data. The process of creating this dataset can be divided in different parts stated below. \n1. Creating the [[Relational Model]]\n2. \nThe SQL engine we'll be using is Oracles's, based on  [[SQLplus]]. In the referenced page are all the commands and procedures used for everything. \nIn order to use this engine and the DB given for the course it is needed to connect to [VirtualMachines](https://aulavirtual.uc3m.es/uds/page/services) . Use the EPS W10 with the user and password given during the first class.\n\nThe specific application of all methods into this project will be gathered in this file, named after our group name:[[The Pickers]]\n### Self: BBDD Matterhorn\nBesides from the main SQL needed for this course to work in my own machine I'm using a [[MySQL]] server. In the referenced page are commands used with this SQL. Most of them are the same as the ones in [[SQLplus]] but some differ.\n","x":-280,"y":-720,"width":565,"height":1360}
+	],
+	"edges":[]
+}

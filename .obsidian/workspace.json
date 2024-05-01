@@ -1,0 +1,308 @@
+{
+  "main": {
+    "id": "17d7a5216cd24ae3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed2aa96fc43345e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0e0e9238a5cd003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9f426e5f7b7204f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b2f1d603bc6bd63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd17373ab2dd70e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "145a221e0e2d66f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "499a66215ecf4828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b89f836cb1d8a8cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb67b24a9341e2ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11873d04252143b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8881aa8c79e29157",
+    "type": "split",
+    "children": [
+      {
+        "id": "5997a5c0c99a8696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ac2d010ad26804a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19bec87b90240b33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d9e8083eba3a4a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fea6a7bd9cb3093d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f97aefa6b972e655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36d1a43796975b90",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2758c03c7f8ca0ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1223c0f85c541969",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 623
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": true,
+      "obsidian-importer:Open Importer": true,
+      "zk-prefixer:Create new unique note": true,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-spaced-repetition:Review flashcards": true,
+      "templater-obsidian:Templater": true,
+      "omnisearch:Omnisearch": false,
+      "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "d0e0e9238a5cd003",
+  "lastOpenFiles": [
+    "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
+    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+    "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
+    "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
+    "Home.md",
+    "01.Areas/1.UC3M/Logic.md",
+    "02 - Atomic/Logic_Submission4.md",
+    "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
+    "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
+    "02 - Atomic/20240501 - 155450 - Theorem - Equivalence theorem.md",
+    "02 - Atomic/20240501 - 123349 - White box testing.md",
+    "02 - Atomic/20240501 - 123332 - Black box testing.md",
+    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+    "02 - Atomic/20240418 - 190338 - Fourier series.md",
+    "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
+    "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
+    "02 - Atomic/20240501 - 140129 - Double factorial.md",
+    "02 - Atomic/fouriere ser.md",
+    "02 - Atomic/Syntax analysis.md",
+    "02 - Atomic/20240501 - 143420 - Control flow testing.md",
+    "02 - Atomic/20240501 - 141727 -Problem- Telephone number.md",
+    "02 - Atomic/system-testing.md",
+    "02 - Atomic/20240501 - 123051 - Unit testing.md",
+    "02 - Atomic/20240423 - 100332 - Perfect matchings.md",
+    "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",
+    "02 - Atomic/PythonLib-Unittest.md",
+    "02 - Atomic/Test-Driven Development.md",
+    "01.Areas/1.UC3M/Software Dev.md",
+    "02 - Atomic/20240501 - 124636 - Equivalent test classes.md",
+    "99 - Meta/0. Attachments/Pasted image 20240501124333.png",
+    "99 - Meta/0. Attachments/Pasted image 20240501124251.png",
+    "00.References/OS_Resources_Lab3Statement.pdf",
+    "00.References/Discrete_Theory_All.pdf",
+    "00.References/SoftwareDev_Resources_GE3_Statement.pdf",
+    "00.References/Discreta_Exercises_All_Solved.pdf",
+    "01.Areas/3.Matterhorn/Tatto.canvas",
+    "99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.10.06.png",
+    "99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.08.27.png",
+    "99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.07.11.png",
+    "99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.05.48.png",
+    "99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.05.06.png",
+    "99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.04.19.png",
+    "99 - Meta/0. Attachments/Pasted image 20240428180416.png",
+    "00.References/SoftwareDev_PracticeTheory_Session08.pdf",
+    "00.References/DiffCalc_Resources_Laplace_Transforms.pdf",
+    "01.Areas/1.UC3M/Movilidad.canvas",
+    "01.Areas/1.UC3M/Files and data bases.canvas",
+    "01.Areas/1.UC3M/Discrete Math.canvas",
+    "99 - Meta/0. Attachments/IMG_0188.heic",
+    "99 - Meta/0. Attachments/IMG_0189.heic",
+    "01.Areas/1.UC3M/Operating Systems.canvas",
+    "01.Areas/1.UC3M/Software Dev.canvas",
+    "01.Areas/1.UC3M/Logic.canvas",
+    "01.Areas/1.UC3M/Diff Calculus.canvas",
+    "01.Areas/2.TIto/HTB_Linux Fundamentals.canvas"
+  ]
+}

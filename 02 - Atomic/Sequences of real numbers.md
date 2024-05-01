@@ -1,0 +1,42 @@
+---
+Date: 2024-03-19
+tags:
+  - review
+  - Calc
+"References:":
+sr-due: 2024-05-21
+sr-interval: 49
+sr-ease: 270
+---
+# Intro and definition: 
+A sequence is an application that assign to each natural number n a unique real number $a_n$ . 
++ No two natural numbers can have the same real number
+
+Move from the  space of natural numbers to the space of real numbers. 
+$$
+s: \mathbb{N} \rightarrow \mathbb{R}
+$$
+## Definition: 
+In order to define sequences we usually define the general term of the sequence $a_n$ . This term gives a description of every term in the sequence based on n
+A sequence can be defined for an specific number of elements inside N. 
+This means that even though usually n would take all possible values in N, it's domain can also be defined as N $\cup \{0\}$ or $n \in N , n > 3$ 
+
+f.e: 
+$$
+s_1 = ({1\over n}_{n\in N}) = \{1, 1/2, 1/3, 1/4...\}
+$$
+
+During the calculus 1 course three main properties of sequences will be seen **convergence** (wether or not a sequence, when approaching infinity, tends to one specific value), **boundedness** (wether or not the sequence has upper or lower bounds, see [[Boundedness]]) and **monotonicity** (wether or not the sequence is getting bigger or smaller all the time)
+
+# Properties: 
++ [[Convergence of sequences]]
++ [[Boundedness of sequences]]
++ [[Monotonicity of sequences]]
+## Theorems: 
+Really careful with how we use this two theorems. They really help to determine if a sequence is bounded, if it decreases or increases. However it is really easy to misread and obtain a conclusion based on some relation that is not stated in this two theorems. 
+
+![[Theorem 2 Convergent, then bounded. Not bounded, divergent]]
+![[Theorem 3  Monotonicity + Boundedness = Convergence?]]
+# Computation methods for sequences. 
+## Limits of sequences:
+ ![[Limits of sequences]]

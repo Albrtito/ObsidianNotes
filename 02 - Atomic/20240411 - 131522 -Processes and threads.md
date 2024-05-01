@@ -1,0 +1,15 @@
+---
+aliases:
+  - Processes and threads
+tags:
+  - OS
+"References:": 
+cssclasses:
+---
+# Processes and threads: 
+This note contains a map of content to all the theory on processes and threads obtained during the OS UC3M course. 
+What are processes in terms of an OS? Can we differentiate between a process and a program? For this note the basics about process management in an OS is explained. Starting from the creation and lifecycle of a process in order to later explain complex concepts such as threads. 
+
+## Map of content: 
++ [[20240411 - 132633 - Intro to processes|Intro to processes]]
++ [[Threads]]

@@ -1,0 +1,550 @@
+{
+  "workspaces": {
+    "Main": {
+      "main": {
+        "id": "17d7a5216cd24ae3",
+        "type": "split",
+        "children": [
+          {
+            "id": "050148f6e21413ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5824e14fc33d945b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01.Areas/0.DailyNote/2024-04-11.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "145a221e0e2d66f9",
+        "type": "split",
+        "children": [
+          {
+            "id": "499a66215ecf4828",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b89f836cb1d8a8cd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fb67b24a9341e2ad",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "11873d04252143b6",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "8881aa8c79e29157",
+        "type": "split",
+        "children": [
+          {
+            "id": "5997a5c0c99a8696",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "89073f15576efae5",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6ac2d010ad26804a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "01.Areas/0.DailyNote/2024-04-11.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "19bec87b90240b33",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "01.Areas/0.DailyNote/2024-04-11.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4d9e8083eba3a4a2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "fea6a7bd9cb3093d",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "f97aefa6b972e655",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "36d1a43796975b90",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "01.Areas/0.DailyNote/2024-04-11.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2758c03c7f8ca0ae",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1223c0f85c541969",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "01.Areas/0.DailyNote/2024-04-11.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 242
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": true,
+          "obsidian-importer:Open Importer": true,
+          "zk-prefixer:Create new unique note": true,
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-spaced-repetition:Review flashcards": true,
+          "templater-obsidian:Templater": true,
+          "omnisearch:Omnisearch": false,
+          "graph:Open graph view": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "5824e14fc33d945b",
+      "mtime": "2024-04-11T10:59:37+02:00"
+    },
+    "Layout1": {
+      "main": {
+        "id": "17d7a5216cd24ae3",
+        "type": "split",
+        "children": [
+          {
+            "id": "7fab866fb8d2421a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5824e14fc33d945b",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "00.References/Discrete_Theory_All.pdf"
+                  }
+                }
+              },
+              {
+                "id": "3fbe94d0e9a5939c",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "00.References/Discreta_Exercises_All_Solved.pdf"
+                  }
+                }
+              },
+              {
+                "id": "1e8a21f43fdea373",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "00.References/Discreta_Exercises_All_Solved.pdf"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "050148f6e21413ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "740d996d3e61dde6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/Graph Theory.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2fc5ec811c121f4e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/20240423 - 100403 - Proper colorings.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "198e9afde9225800",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/20240423 - 101520 - The chromatic polynomial.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b73cd38c8b077844",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/20240423 - 121056 - Chromatic poly of a cycle graph..md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "db6ac136d8526725",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/20240423 - 105748 - Chromatic poly of a tree graph.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "534a717a597d444a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "145a221e0e2d66f9",
+        "type": "split",
+        "children": [
+          {
+            "id": "499a66215ecf4828",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b89f836cb1d8a8cd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fb67b24a9341e2ad",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "11873d04252143b6",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "8881aa8c79e29157",
+        "type": "split",
+        "children": [
+          {
+            "id": "5997a5c0c99a8696",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "89073f15576efae5",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6ac2d010ad26804a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02 - Atomic/20240423 - 101520 - The chromatic polynomial.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "19bec87b90240b33",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "02 - Atomic/20240423 - 101520 - The chromatic polynomial.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4d9e8083eba3a4a2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "fea6a7bd9cb3093d",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "f97aefa6b972e655",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "36d1a43796975b90",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "02 - Atomic/20240423 - 101520 - The chromatic polynomial.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 3,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.08749535921658169,
+                      "close": false
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2758c03c7f8ca0ae",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1223c0f85c541969",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02 - Atomic/20240423 - 101520 - The chromatic polynomial.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 242
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": true,
+          "obsidian-importer:Open Importer": true,
+          "zk-prefixer:Create new unique note": true,
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-spaced-repetition:Review flashcards": true,
+          "templater-obsidian:Templater": true,
+          "omnisearch:Omnisearch": false,
+          "graph:Open graph view": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "198e9afde9225800",
+      "mtime": "2024-04-23T17:32:27+02:00"
+    }
+  },
+  "active": "Main"
+}

@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#review  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048339
+      }
+    },
+    {
+      "query": "tag:#incomplete  ",
+      "color": {
+        "a": 1,
+        "rgb": 7323105
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.621175130208333,
+  "repelStrength": 15.3011067708333,
+  "linkStrength": 0.880777994791667,
+  "linkDistance": 30,
+  "scale": 0.05286373314657414,
+  "close": true
+}

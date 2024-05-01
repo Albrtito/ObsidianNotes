@@ -1,0 +1,19 @@
+{
+  "accentColor": "#8a5fec",
+  "cssTheme": "Catppuccin",
+  "translucency": false,
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "Daily Note Themes",
+    "Notebook Backgrounds",
+    "CyanVoxel_Colored Sidebar Items",
+    "CyanVoxel_Daily Note Themes",
+    "CyanVoxel_Notebook Backgrounds",
+    "Center_Images"
+  ]
+}
