@@ -16,9 +16,11 @@ SKOLEM normal form is a formula structure key for several automatic proof proced
 > + Quantifiers must be in the head of the formula
 > + Only universal quantifiers are allowed
 > + The matrix of the formula is a conjuction of clauses 
-> 	Namely: 
+> 	**Namely**: 
 > 	The matrix formula is composed by valid formulas that only contain the $\lor$ connective cunjucted between them: $(Universal)[(F_1)\land(F_2)\land…\land (F_n)]$
-> 	Where: $F_i$ only contains connectives of type $\lor$
+> 	**Remark:**
+> 	$F_n$ Is a literal, this is either an atomic formula or a negation of an atomic formula.
+> 	
 > 	
 
 ## Procedure to obtain SKOLEM NORMAL FORM (SNF)
