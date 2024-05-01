@@ -68,10 +68,17 @@ $$
 	$$
 	3. If $\exists$ has any $\forall$ on the left, replace the variable with a function depending on as many arguments as $\forall$’s on the left, using those very same variables as arguments.
 
-	The variable x is replaced with f(y,z) as the existential has the genralisation of y and z before itse.f
+	The variable x is replaced with f(y,z) as the existential has the generalisation of y and z before itself.
 
 $$
 \forall y\forall z\exists x(P(x,y)) \lor Q(x,z)) \Rightarrow \forall y \forall z (P(f(y,z), y ) \lor Q(f(y,z),z))
 $$
 + See that the variable x has been substituted by the function f(y,z)
 + If there where more existential quantifiers, **use different functions.** 
+   
+  
+	In the example: Our final solution for our example would be: 
+	$$
+	 \boxed{\forall x [((R(x,f(x),a)\lor \lnot P(x,f(x))) \land ((R(x,f(x),a)\lor Q(x,g(x)))]}
+	 $$
+	
