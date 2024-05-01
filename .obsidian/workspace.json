@@ -62,8 +62,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md"
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md"
               }
             }
           }
@@ -251,13 +250,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dd17373ab2dd70e1",
+  "active": "d0e0e9238a5cd003",
   "lastOpenFiles": [
-    "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
+    "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
     "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
+    "02 - Atomic/Predicate Logic.md",
+    "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
     "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
-    "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
     "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
     "Home.md",
     "01.Areas/1.UC3M/Logic.md",

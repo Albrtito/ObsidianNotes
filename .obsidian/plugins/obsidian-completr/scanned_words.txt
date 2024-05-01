@@ -32237,6 +32237,7 @@ snK
 stO
 swP
 satisfiable
+skolem
 No
 NOTE
 Normalmente
