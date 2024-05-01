@@ -7,6 +7,9 @@ tags:
   - Logic
 "References:": 
 cssclasses:
+sr-due: 2024-05-10
+sr-interval: 9
+sr-ease: 250
 ---
 # SKOLEM Normal Form (SKN)
 SKOLEM normal form is a formula structure key for several automatic proof procedures (whatever that is)

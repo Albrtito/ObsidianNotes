@@ -19125,6 +19125,7 @@ Mincho
 MCOi
 MJs
 MEF
+Morgan
 reflections
 reels
 routine
@@ -49413,6 +49414,7 @@ CGw
 Cwa
 Csd
 Combined
+Considering
 your
 ya
 yo
@@ -54329,6 +54331,7 @@ ObRu
 Obyig
 OJq
 Out
+Our
 varias
 verde
 visita

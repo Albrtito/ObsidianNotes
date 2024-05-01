@@ -2,10 +2,13 @@
 aliases:
   - Resolution proof method
 tags:
-  - review
   - Logic
+  - incomplete
 "References:": 
-cssclasses:
+cssclasses: 
+sr-due: 2024-05-02
+sr-interval: 1
+sr-ease: 230
 ---
 # Proof method: Resolution
 
