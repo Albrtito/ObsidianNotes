@@ -2,7 +2,8 @@
 aliases: 
 tags:
   - Logic
-"References:": 
+"References:":
+  - "[[Logic_Resource_Theorems and Derived Rules.Combined.pdf]]"
 cssclasses:
 ---
 # Intro to the course: 

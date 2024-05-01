@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
+                "file": "01.Areas/1.UC3M/Logic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +194,7 @@
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -207,7 +208,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.9570253616183655,
                   "close": false
                 }
               }
@@ -254,15 +255,15 @@
   },
   "active": "dd17373ab2dd70e1",
   "lastOpenFiles": [
-    "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
-    "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
-    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
-    "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
-    "02 - Atomic/Predicate Logic.md",
     "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
+    "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
+    "01.Areas/1.UC3M/Logic.md",
+    "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
+    "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
+    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+    "02 - Atomic/Predicate Logic.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
     "Home.md",
-    "01.Areas/1.UC3M/Logic.md",
     "02 - Atomic/Logic_Submission4.md",
     "02 - Atomic/20240501 - 155450 - Theorem - Equivalence theorem.md",
     "02 - Atomic/20240501 - 123349 - White box testing.md",
@@ -282,7 +283,6 @@
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",
     "02 - Atomic/PythonLib-Unittest.md",
     "02 - Atomic/Test-Driven Development.md",
-    "01.Areas/1.UC3M/Software Dev.md",
     "99 - Meta/0. Attachments/Pasted image 20240501124333.png",
     "99 - Meta/0. Attachments/Pasted image 20240501124251.png",
     "00.References/OS_Resources_Lab3Statement.pdf",
