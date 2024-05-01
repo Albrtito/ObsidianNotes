@@ -17,9 +17,10 @@ SKOLEM normal form is a formula structure key for several automatic proof proced
 > + Only universal quantifiers are allowed
 > + The matrix of the formula is a conjuction of clauses 
 > 	**Namely**: 
-> 	The matrix formula is composed by valid formulas that only contain the $\lor$ connective cunjucted between them: $(Universal)[(F_1)\land(F_2)\land…\land (F_n)]$
+> 	The matrix formula is composed by clauses that only contain the $\land$ connective cunjucted between them: $(Universal)[(C_1)\land(C_2)\land…\land (C_n)]$
 > 	**Remark:**
-> 	$F_n$ Is a literal, this is either an atomic formula or a negation of an atomic formula.
+> 	$C_n$: Is a clause this means that is composed by literals that are connected though the or connective.
+> 	
 > 	
 > 	
 

@@ -64,8 +64,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
+                "file": "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
+                "file": "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
+                "file": "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md"
+                "file": "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf"
               }
             }
           }
@@ -253,11 +252,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bcf85d45e3f0280b",
+  "active": "949d7caa89899014",
   "lastOpenFiles": [
+    "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
     "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
     "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
-    "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
     "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
     "01.Areas/1.UC3M/Logic.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
