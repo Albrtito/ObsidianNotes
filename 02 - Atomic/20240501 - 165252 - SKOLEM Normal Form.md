@@ -36,13 +36,13 @@ $$
 4. Remove all existential quantifiers, to do so: 
 	1. Start processing existential quantifiers from left to right
 	2. If $\exists$ as no $\forall$ on the left. Replace the variables with constants: 
-$$
-\exists x \forall y \forall x(P(x,y)\lor Q(x,z)) \Rightarrow \forall y \forall z(a,y) \lor Q(a,z))
-$$
-3. If $\exists$ has any $\forall$ on the left, replace the variable with a function depending on as many arguments as $\forall$’s on the left, using those very same variables as arguments.
+		$$
+			\exists x \forall y \forall x(P(x,y)\lor Q(x,z)) \Rightarrow \forall y \forall z(a,y) \lor Q(a,z))
+	$$
+	3. If $\exists$ has any $\forall$ on the left, replace the variable with a function depending on as many arguments as $\forall$’s on the left, using those very same variables as arguments.
+
 $$
 \forall y\forall z\exists x(P(x,y)) \lor Q(x,z)) \Rightarrow \forall y \forall z (P(f(y,z), y ) \lor Q(f(y,z),z))
 $$
 + See that the variable x has been substituted by the function f(y,z)
 + If there where more existential quantifiers, **use different functions.** 
-4. 
