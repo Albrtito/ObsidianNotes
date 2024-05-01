@@ -4,6 +4,25 @@
     "type": "split",
     "children": [
       {
+        "id": "b8936e6e598732a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd17373ab2dd70e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "ed2aa96fc43345e2",
         "type": "tabs",
         "children": [
@@ -34,32 +53,17 @@
             }
           },
           {
-            "id": "0b2f1d603bc6bd63",
+            "id": "949d7caa89899014",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd17373ab2dd70e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md"
+                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md"
               }
             }
           }
@@ -247,17 +251,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d0e0e9238a5cd003",
+  "active": "dd17373ab2dd70e1",
   "lastOpenFiles": [
-    "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
+    "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
+    "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
     "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+    "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
     "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
     "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
     "Home.md",
     "01.Areas/1.UC3M/Logic.md",
     "02 - Atomic/Logic_Submission4.md",
-    "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
-    "00.References/Logic_Resource_Theorems and Derived Rules.Combined.pdf",
     "02 - Atomic/20240501 - 155450 - Theorem - Equivalence theorem.md",
     "02 - Atomic/20240501 - 123349 - White box testing.md",
     "02 - Atomic/20240501 - 123332 - Black box testing.md",
@@ -277,7 +281,6 @@
     "02 - Atomic/PythonLib-Unittest.md",
     "02 - Atomic/Test-Driven Development.md",
     "01.Areas/1.UC3M/Software Dev.md",
-    "02 - Atomic/20240501 - 124636 - Equivalent test classes.md",
     "99 - Meta/0. Attachments/Pasted image 20240501124333.png",
     "99 - Meta/0. Attachments/Pasted image 20240501124251.png",
     "00.References/OS_Resources_Lab3Statement.pdf",
