@@ -124,9 +124,36 @@ init sem_init(sem_t *sem, int shared, int val);
 ```
 
 **Destroy unnamed semaphore:**
-
 ```c
 int sem_destroy(sem_t *sem)
 ```
 
 **Open(create) a named semaphore:**
+```c
+sem_t *sem_open(char* name, int flag, mode_t mode, int val);
+```
+
+**Closes a named semaphore:*
+```c
+int sem_close(sem_t *sem);
+```
+
+**Delete a named semaphore:**
+```c
+int sem_unlink(char* name);
+```
+
+**Wait operation on a semaphore:**
+```c
+int sem_wait(sem_t *sem);
+```
+
+**Try wait operation on a semaphore:**
+```c
+int sem_trywait(sem_t *sem);
+```
+
+**Signal operation on a semaphore:**
+```c
+int sem_post(sem_t *sem);
+```
