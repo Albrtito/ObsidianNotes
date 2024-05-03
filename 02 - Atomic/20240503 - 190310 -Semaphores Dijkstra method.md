@@ -1,36 +1,41 @@
 ---
+aliases:
+  - Semaphores, Dijkstra method
+  - Semaphores
 Date: 2024-03-18
 tags:
   - review
   - OS
-"References:":
+"References:": 
 sr-due: 2024-06-10
 sr-interval: 41
 sr-ease: 210
 ---
-# Intro:
-Dijkstra's method for managing synchronisation between processes is based on a **signalling mechanism** 
+# Semaphores
+## Intro:
+Dijkstra's method for managing synchronisation between processes is based on a **signalling mechanism** within **the same machine**.  
 
-A semaphore is a really basic concept, it’s just a counter. We start by initialising it with any value we want (f.e: semaphoreName = 0) and from that point onwards we’ll subtract to the counter 1 when a process wants to be executed (semWait(semaphoreName)) and adds one when a process has finished to execute (semSignal(semaphoreName)).
+A semaphore is a really basic concept, it’s **just a counter.** We start by initialising it with any value we want (f.e: semaphoreName = 0) and from that point onwards we’ll subtract to the counter 1 when a process wants to be executed (semWait(semaphoreName)) and adds one when a process has finished to execute (semSignal(semaphoreName)).
+Both operations, signal and wait are **atomic**
 
 A process can get the resource if **there is no process running and the count is negative.**
 
 
 f.e: If there are 4 processes, all require the same resource. 
-1. Semaphore is created → **semaphoreName = 0** 
-2. P1 get’s the resource → **semaphoreName = -1**
-3. P2 want’s to get it but it can’t as there is another process using it, so it waits → **semaphoreName = -2**
-4. P1 finishes→ **semaphoreName = -1**
-5. P2 gets the resource 
-6. P3 enters → **semaphoreName = -2**
-7. P4 enters → **semaphoreName = -3**
-8. P2 finishes → **semaphoreName = -2**
-9. P4 gets the resource 
-10. P4 finishes → **semaphoreName = -1**
-11. P3 gets the resource
-12. P3 finishes → **semaphoreName = 0**
-
-**Remark:** See that there is no order specified, P4 can get the resource first even though P3 arrived first.
+	1. Semaphore is created → **semaphoreName = 0** 
+	2. P1 get’s the resource → **semaphoreName = -1**
+	3. P2 want’s to get it but it can’t as there is another process using it, so it waits → **semaphoreName = -2**
+	4. P1 finishes→ **semaphoreName = -1**
+	5. P2 gets the resource 
+	6. P3 enters → **semaphoreName = -2**
+	7. P4 enters → **semaphoreName = -3**
+	8. P2 finishes → **semaphoreName = -2**
+	9. P4 gets the resource 
+	10. P4 finishes → **semaphoreName = -1**
+	11. P3 gets the resource
+	12. P3 finishes → **semaphoreName = 0**
+	
+	**Remark:** See that there is no order specified, P4 can get the resource first even though P3 arrived first.
 
 ## Things to have in mind when implementing semaphores:
 
@@ -41,8 +46,8 @@ f.e: If there are 4 processes, all require the same resource.
 
 + Most of the problems can be done with the two models described below: [[Algorithm - Producer-Consumer problem]] and [[Algorithm - Readers-Writers problem]]
 
-# Basic usage and implementation:
-## Initialisation: 
+## Basic usage and implementation:
+### Initialisation: 
 As we have already seen, semaphores are signalling mechanisms. To use them we’ll include the library `semaphore.h`:
 
 ```c
@@ -58,14 +63,14 @@ sem_t semaphoreName; //semaphore "semaphoreName"
 
 Then to add and subtract from the semaphore we’ll use the following methods: 
 
-## Methods: 
-### semWait(semaphoreName)
+### Methods: 
+#### semWait(semaphoreName)
 semWait subtracts one from the semaphore, then makes the process wait until **the semaphore is negative and no process is running**
 + Why wait until then? Because if the count is negative → Processes are waiting. And if no process is running, this process can start running 
 **Remark:** It is important to notice that semaphores by themselves won’t impose an order of execution between processes. So all processes waiting will be executed on any order once a process releases the resource.
-### semSignal(semaphoreName)
+#### semSignal(semaphoreName)
 semSignal adds one to the count. It let’s the other processes know that the resource is now free to use. 
-## Basic model:
+### Basic model:
 1. Initialise the semaphore to 1
 2. Indicate the entry point for a critical section with a semWait(s) 
 3. Indicate the  exit code from a a critical section with a semSignal(s)
@@ -87,6 +92,41 @@ semSignal(semaphoreName) // Once the critical section is over, signal exit
 ```
 
 
-## Idea of the semaphore / Implement a semaphore: 
+### Idea of the semaphore / Implement a semaphore: 
 We’ll use the semaphore library of c. However how would it look if we wanted to actually implement semaphores as something new:
 	The easiest way is to create a queue. When a process is blocked it gets added into the queue. If there is no process running and the count is negative get one process out of the queue. 
+
+## POSIX semaphores
+In POSIX semaphores are implemented as a synchronization mechanism for processes or threads running in the same machine.There are two types of POSIX semaphores:
+
+### Types:
+
++ **Named semaphores:**  These are semaphores that can be used by different processes just by knowing the name of the semaphores, it does not require shared memory to use them. 
+
+```c
+#inlcude <semaphore.h>
+sem_t *semaphore; //named semaphore
+```
+
+Adding it as a pointer as it is pointing to the systems semaphore.
++ **Unnamed semaphores:** They can be only used by processes that created them (with threads) or using a shared memory region.
+```c
+#inlcude <semaphore.h>
+sem_t semaphore; //unnamed semaphore semaphore
+```
+
+### Implementation of POSIX semaphores:
+#### Methods:
+
+**Initialisation of unnamed semaphore**
+```c
+init sem_init(sem_t *sem, int shared, int val);
+```
+
+**Destroy unnamed semaphore:**
+
+```c
+int sem_destroy(sem_t *sem)
+```
+
+**Open(create) a named semaphore:**
