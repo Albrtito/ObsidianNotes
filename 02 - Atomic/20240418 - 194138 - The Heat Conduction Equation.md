@@ -6,9 +6,9 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses: 
-sr-due: 2024-05-02
+sr-due: 2024-05-04
 sr-interval: 1
-sr-ease: 150
+sr-ease: 130
 ---
 # The heat conduction equation
 ## Description of the model used in DiffCalc UC3M course:

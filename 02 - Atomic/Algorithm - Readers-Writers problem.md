@@ -5,9 +5,9 @@ tags:
   - OS
 "References:":
   - https://en.wikipedia.org/wiki/Readers%E2%80%93writers_problem
-sr-due: 2024-05-02
-sr-interval: 9
-sr-ease: 166
+sr-due: 2024-05-29
+sr-interval: 26
+sr-ease: 186
 ---
 # Intro: 
 The readers-writers problem is an specific case take out from the [[Algorithm - Producer-Consumer problem]]. 

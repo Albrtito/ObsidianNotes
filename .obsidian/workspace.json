@@ -6,7 +6,7 @@
       {
         "id": "b8936e6e598732a5",
         "type": "tabs",
-        "dimension": 50.565302144249515,
+        "dimension": 27.481542247744052,
         "children": [
           {
             "id": "dd17373ab2dd70e1",
@@ -40,7 +40,7 @@
       {
         "id": "ed2aa96fc43345e2",
         "type": "tabs",
-        "dimension": 49.434697855750485,
+        "dimension": 72.51845775225596,
         "children": [
           {
             "id": "0042c8e97ecbac34",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Algorithm - Readers-Writers problem.md",
+                "file": "02 - Atomic/The Laplace transform.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/Algorithm - Readers-Writers problem.md",
+                "file": "02 - Atomic/The Laplace transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/Algorithm - Readers-Writers problem.md",
+                "file": "02 - Atomic/The Laplace transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/Algorithm - Readers-Writers problem.md",
+                "file": "02 - Atomic/The Laplace transform.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/Algorithm - Readers-Writers problem.md"
+                "file": "02 - Atomic/The Laplace transform.md"
               }
             }
           }
@@ -248,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623
+    "width": 251
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,6 +269,8 @@
   },
   "active": "0042c8e97ecbac34",
   "lastOpenFiles": [
+    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+    "02 - Atomic/Algorithm - Readers-Writers problem.md",
     "02 - Atomic/20240409 - 171554 - Refactoring.md",
     "01.Areas/0.DailyNote/2024-05-03.md",
     "02 - Atomic/Some Journaling prompts by ChatGPT.md",
@@ -289,14 +291,12 @@
     "02 - Atomic/Logic_Submission4.md",
     "02 - Atomic/20240501 - 123349 - White box testing.md",
     "02 - Atomic/20240501 - 123332 - Black box testing.md",
-    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/20240418 - 190338 - Fourier series.md",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
     "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
     "02 - Atomic/20240501 - 140129 - Double factorial.md",
     "02 - Atomic/fouriere ser.md",
     "02 - Atomic/Syntax analysis.md",
-    "02 - Atomic/20240501 - 143420 - Control flow testing.md",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",
     "99 - Meta/0. Attachments/Pasted image 20240501124333.png",
     "99 - Meta/0. Attachments/Pasted image 20240501124251.png",
