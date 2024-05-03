@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Journal Promts
-tags: []
+  - Journal Prompts
+tags: 
 "References:": 
 DateCreated: 2024-04-03
 ---
