@@ -157,3 +157,42 @@ int sem_trywait(sem_t *sem);
 ```c
 int sem_post(sem_t *sem);
 ```
+#### Working with critical sections:
+
+**Entering a critical section:**
+```c
+sem_wait("semaphore");
+```
+The code behind this would be similar to:
+
+```c
+sem_wait(s)
+{
+	s = s-1
+		if(s<0)
+		{
+		<Block process>
+		}
+}
+
+```
++ Add one to the semaphore
+**Exiting a critical section**
+
+```c
+sem_post("semaphore");
+```
+The code behind this would be similar to: 
+
+```c
+sem_post(s)
+{
+	s = s+1;
+	if (s<= 0)
+	{
+		<Unblock a process by wait operation>
+	}
+}
+
+```
+ + Post means unblocking one waiting process.
