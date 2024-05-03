@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240409 - 171554 - Refactoring.md",
+                "file": "02 - Atomic/Algorithm - Readers-Writers problem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240409 - 171554 - Refactoring.md",
+                "file": "02 - Atomic/Algorithm - Readers-Writers problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240409 - 171554 - Refactoring.md",
+                "file": "02 - Atomic/Algorithm - Readers-Writers problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240409 - 171554 - Refactoring.md",
+                "file": "02 - Atomic/Algorithm - Readers-Writers problem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240409 - 171554 - Refactoring.md"
+                "file": "02 - Atomic/Algorithm - Readers-Writers problem.md"
               }
             }
           }
@@ -269,6 +269,7 @@
   },
   "active": "0042c8e97ecbac34",
   "lastOpenFiles": [
+    "02 - Atomic/20240409 - 171554 - Refactoring.md",
     "01.Areas/0.DailyNote/2024-05-03.md",
     "02 - Atomic/Some Journaling prompts by ChatGPT.md",
     "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
@@ -296,7 +297,6 @@
     "02 - Atomic/fouriere ser.md",
     "02 - Atomic/Syntax analysis.md",
     "02 - Atomic/20240501 - 143420 - Control flow testing.md",
-    "02 - Atomic/20240501 - 141727 -Problem- Telephone number.md",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",
     "99 - Meta/0. Attachments/Pasted image 20240501124333.png",
     "99 - Meta/0. Attachments/Pasted image 20240501124251.png",
