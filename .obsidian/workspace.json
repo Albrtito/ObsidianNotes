@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8936e6e598732a5",
+        "id": "050148f6e21413ba",
         "type": "tabs",
-        "dimension": 27.481542247744052,
         "children": [
           {
-            "id": "dd17373ab2dd70e1",
+            "id": "5824e14fc33d945b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
+                "file": "02 - Atomic/Concurrency and synchronisation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -22,12 +21,12 @@
             }
           },
           {
-            "id": "bcf85d45e3f0280b",
+            "id": "b895f735fe54ceaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Some Journaling prompts by ChatGPT.md",
+                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,49 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "ed2aa96fc43345e2",
-        "type": "tabs",
-        "dimension": 72.51845775225596,
-        "children": [
-          {
-            "id": "0042c8e97ecbac34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/The Laplace transform.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a94269a781f00c1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240501 - 225136 - Clauses.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6de8ba0e58b648ff",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:review",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,12 +95,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "89073f15576efae5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "6ac2d010ad26804a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md",
+                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md",
+                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "f97aefa6b972e655",
@@ -199,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md",
+                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +171,7 @@
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": true,
+                  "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -222,8 +185,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9570253616183655,
-                  "close": false
+                  "scale": 1,
+                  "close": true
                 }
               }
             }
@@ -240,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md"
+                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md"
               }
             }
           }
@@ -248,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 534
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,15 +230,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0042c8e97ecbac34",
+  "active": "b895f735fe54ceaa",
   "lastOpenFiles": [
+    "02 - Atomic/Concurrency and synchronisation.md",
+    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
+    "01.Areas/1.UC3M/Operating Systems.md",
+    "02 - Atomic/20240429 - 112738 - Computation of the gcd and lcm.md",
+    "02 - Atomic/20240429 - 121006 - Congruent relation.md",
+    "02 - Atomic/The Laplace transform.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/Algorithm - Readers-Writers problem.md",
     "02 - Atomic/20240409 - 171554 - Refactoring.md",
     "01.Areas/0.DailyNote/2024-05-03.md",
     "02 - Atomic/Some Journaling prompts by ChatGPT.md",
     "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
-    "02 - Atomic/The Laplace transform.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
     "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
     "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
@@ -291,12 +259,7 @@
     "02 - Atomic/Logic_Submission4.md",
     "02 - Atomic/20240501 - 123349 - White box testing.md",
     "02 - Atomic/20240501 - 123332 - Black box testing.md",
-    "02 - Atomic/20240418 - 190338 - Fourier series.md",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
-    "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
-    "02 - Atomic/20240501 - 140129 - Double factorial.md",
-    "02 - Atomic/fouriere ser.md",
-    "02 - Atomic/Syntax analysis.md",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",
     "99 - Meta/0. Attachments/Pasted image 20240501124333.png",
     "99 - Meta/0. Attachments/Pasted image 20240501124251.png",

@@ -4,8 +4,8 @@ tags:
   - review
   - DiffCalc
 "References:":
-sr-due: 2024-05-03
-sr-interval: 18
+sr-due: 2024-06-09
+sr-interval: 37
 sr-ease: 208
 ---
 # Intro

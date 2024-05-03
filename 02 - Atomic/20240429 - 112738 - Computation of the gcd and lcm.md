@@ -6,9 +6,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
-sr-due: 2024-05-03
-sr-interval: 3
-sr-ease: 252
+sr-due: 2024-06-14
+sr-interval: 42
+sr-ease: 292
 ---
 The greatest common divisor (gcd) and lowest common multiple (lcm) can be computed based on the [[20240429 - 112402 - Theorem - Fundamental theorem of Arithmetic|Fundamental theorem of Arithmetic]]. It can be said that for two composite numbers a and b bigger than 1. 
 $$

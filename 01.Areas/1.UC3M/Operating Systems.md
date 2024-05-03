@@ -7,8 +7,7 @@ tags:
 cssclasses:
 ---
 # Course presentation:
-Schedules, deadlines, percentages for exams and lab-works..
-+ [[OS_Theory_Ch_0_Presentation]]
+Schedules, deadlines, percentages for exams and lab-works.. ![[OS_Theory_Ch_0_Presentation]]
 
 # Course Sylabus: 
 [[OS_THeory_Ch1_Concepts&Services]]
