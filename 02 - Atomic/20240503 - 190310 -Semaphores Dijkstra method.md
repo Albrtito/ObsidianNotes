@@ -196,3 +196,5 @@ sem_post(s)
 
 ```
  + Post means unblocking one waiting process.
+
+## Mutex:
