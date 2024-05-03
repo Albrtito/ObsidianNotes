@@ -41,7 +41,7 @@ This is **way harder** than independent concurrency as managing the interaction 
 + Communication 
 	Shared global variables or some messaging between processes
 + Synchronisation: 
-	A process having to wait for events in other processes. This is using resources until the other process ends. In order to ensure synchronisation the [[Semaphores Dijkstra method]] is used
+	A process having to wait for events in other processes. This is using resources until the other process ends. In order to ensure synchronisation the [[20240503 - 190310 -Semaphores Dijkstra method]] is used
 
 # Algorithms to solve problems. 
 Based on all explained for this chapter two possible algorithms appear in order to solve process concurrence. This algorithms are explained from the point of view of the problem they are created to solve. 

@@ -77,4 +77,4 @@ Any other alternatives rely solely on the OS.
 ## Semaphores:
 As said in:[[#Conditions for mutual exclusion]], any process must signal when entering the section and when exiting it. This is on what semaphores rely on:
 
-![[Semaphores Dijkstra method]]
+![[20240503 - 190310 -Semaphores Dijkstra method]]
