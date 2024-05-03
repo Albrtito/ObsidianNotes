@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-03.md",
+                "file": "02 - Atomic/20240409 - 171554 - Refactoring.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-03.md",
+                "file": "02 - Atomic/20240409 - 171554 - Refactoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-03.md",
+                "file": "02 - Atomic/20240409 - 171554 - Refactoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-03.md",
+                "file": "02 - Atomic/20240409 - 171554 - Refactoring.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-03.md"
+                "file": "02 - Atomic/20240409 - 171554 - Refactoring.md"
               }
             }
           }
@@ -269,8 +269,8 @@
   },
   "active": "0042c8e97ecbac34",
   "lastOpenFiles": [
-    "02 - Atomic/Some Journaling prompts by ChatGPT.md",
     "01.Areas/0.DailyNote/2024-05-03.md",
+    "02 - Atomic/Some Journaling prompts by ChatGPT.md",
     "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
     "02 - Atomic/The Laplace transform.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
