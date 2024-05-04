@@ -116,7 +116,7 @@ reader() {
 ### 2. **Writers have priority**
 
 To solve the problem of writers starving another solution was proposed. **Writers-preference** solution gives preference to those processes that have arrived earlier. This way if a writer arrives, it’ll only have to wait for the readers that are already inside the file, if any reader arrives after the writer, they will have to wait for the writer to enter. 
-### Implementation: 
+#### Implementation: 
 
 ```c
 int readcount, writecount;                   //(initial value = 0)
@@ -160,4 +160,59 @@ writer() {
   wmutex.V();                  //release exit section
 }
 
+```
+
+## Implementation with mutex: 
+Actual code for the implementation with mutex. 
++ This implementation is the one used during the OS course.
+### Code:
+```c
+int data= 5; /* resource*/
+int nreaders = 0; /* number of readers */
+pthread_mutex_t data_mutex; /* Control access to data*/
+pthread_mutex_t mutex_rd; /* Controls access to nreaders */
+main(int argc, char *argv[]) {
+	//Initialisation of threads
+    pthread_t th1, th2, th3, th4;
+    // Initialisation of mutex. No conditional variables
+    pthread_mutex_init(&data_mutex, NULL);
+    pthread_mutex_init(&mutex_rd, NULL);
+    // Create threads
+    pthread_create(&th1, NULL, Lector, NULL);
+    pthread_create(&th2, NULL, Escritor, NULL);
+    pthread_create(&th3, NULL, Lector, NULL);
+    pthread_create(&th4, NULL, Escritor, NULL);
+    
+    pthread_join(th1, NULL);
+    pthread_join(th2, NULL);
+    pthread_join(th3, NULL);
+    pthread_join(th4, NULL);
+    pthread_mutex_destroy(&data_mutex);
+    pthread_mutex_destroy(&mutex_rd);
+    exit(0);
+}
+```
+
+```c
+void writer() { /* writer code*/
+    pthread_mutex_lock(&data_mutex);
+    data = data + 2; /* modify resource*/
+    pthread_mutex_unlock(&data_mutex);
+    pthread_exit(0);
+}
+```
+
+```c
+void reader() { /* codigo del lector */
+    pthread_mutex_lock(&mutex_rd);
+    nreaders++;
+    if (nreaders == 1) pthread_mutex_lock(&data_mutex);
+    pthread_mutex_unlock(&mutex_rd);
+    printf("%d\n", data); /* read data and print it*/
+    pthread_mutex_lock(&mutex_rd);
+    nreaders--;
+    if (nreaders == 0) pthread_mutex_unlock(&data_mutex);
+    pthread_mutex_unlock(&mutex_rd);
+    pthread_exit(0);
+}
 ```
