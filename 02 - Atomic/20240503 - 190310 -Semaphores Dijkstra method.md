@@ -198,3 +198,10 @@ sem_post(s)
  + Post means unblocking one waiting process.
 
 ## Mutex:
+Mutes are synchronization mechanisms for threads.**Based on semaphores** we can say that: 
++ Mutex are binary semaphores
++ They perform atomic operations lock(m) and unlock(m) to block or unblock the mutex.
+### Methods:
+**lock**
+
+

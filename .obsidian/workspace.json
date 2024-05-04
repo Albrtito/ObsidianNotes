@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Concurrency and synchronisation.md",
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,35 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aaa31aef67ee498a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-04.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a1b255dcdc0022d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-03.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -134,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-03.md",
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-03.md",
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-03.md",
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-03.md"
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md"
               }
             }
           }
@@ -237,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 534
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,13 +230,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7a1b255dcdc0022d",
+  "active": "5824e14fc33d945b",
   "lastOpenFiles": [
+    "02 - Atomic/Concurrency and synchronisation.md",
+    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
     "01.Areas/0.DailyNote/2024-05-04.md",
+    "01.Areas/0.DailyNote/2024-05-03.md",
     "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
     "02 - Atomic/20240503 - 190310 -.md",
-    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
-    "02 - Atomic/Concurrency and synchronisation.md",
     "01.Areas/1.UC3M/Operating Systems.md",
     "02 - Atomic/20240429 - 112738 - Computation of the gcd and lcm.md",
     "02 - Atomic/20240429 - 121006 - Congruent relation.md",
@@ -270,7 +245,6 @@
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/Algorithm - Readers-Writers problem.md",
     "02 - Atomic/20240409 - 171554 - Refactoring.md",
-    "01.Areas/0.DailyNote/2024-05-03.md",
     "02 - Atomic/Some Journaling prompts by ChatGPT.md",
     "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
