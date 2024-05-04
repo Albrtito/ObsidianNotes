@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +224,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.4855103786318818,
                   "close": true
                 }
               }
@@ -243,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md"
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md"
               }
             }
           }
@@ -270,14 +269,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6e8c34cfdcc62549",
+  "active": "5824e14fc33d945b",
   "lastOpenFiles": [
-    "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
     "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
+    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
     "02 - Atomic/20240504 - 162427 -POSIX.md",
+    "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
     "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
     "02 - Atomic/Concurrency and synchronisation.md",
-    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
     "01.Areas/0.DailyNote/2024-05-04.md",
     "01.Areas/0.DailyNote/2024-05-03.md",
     "02 - Atomic/20240503 - 190310 -.md",

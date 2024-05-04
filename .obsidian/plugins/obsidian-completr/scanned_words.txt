@@ -5778,6 +5778,7 @@ lXjXo
 literals
 lock
 locked
+labs
 First
 Fechas
 Familias
@@ -11212,6 +11213,7 @@ unblocking
 unlock
 unblock
 unlocked
+utility
 in
 is
 important
@@ -12695,6 +12697,7 @@ ifL
 iTc
 interacting
 intended
+interfaces
 Enough
 Esta
 Est
@@ -27090,6 +27093,10 @@ IIf
 ICEXq
 IgZo
 Implication
+Interface
+IEEE
+Interfaces
+Initialize
 Keep
 Key
 Kinds
@@ -30778,6 +30785,7 @@ PxQ
 Propositions
 Pipes
 POSIX
+Portable
 something
 start
 st
@@ -32307,6 +32315,8 @@ sports
 saturday
 synchronise
 synchronization
+society
+shells
 No
 NOTE
 Normalmente
@@ -36398,6 +36408,7 @@ UDQSVF
 Unnamed
 Unlock
 Unblocks
+Unblock
 Achieved
 Antes
 Ah
@@ -37635,6 +37646,7 @@ Acs
 Alternate
 Awv
 Akq
+APIs
 all
 at
 aliases
@@ -39022,6 +39034,8 @@ aware
 arriving
 achieving
 acquire
+along
+acquired
 of
 otro
 opciones
@@ -55632,6 +55646,7 @@ vZmJ
 vGF
 vFA
 vVf
+var
 que
 quieren
 quedo

@@ -23,7 +23,7 @@ Synchronisation between processes is the concept of managing how the processes s
 Synchronisation mechanisms **allow to enforce that a process stops its execution until an event happens in some other process**
 
 In order to synchronise processes we use services provided by the OS such as: 
-+ Semaphores 
-+ Mutex and condition variables
++ [[20240503 - 190310 -Semaphores Dijkstra method|Semaphores]] 
++ [[20240504 - 162315 - Mutex and conditional variables|Mutex and conditional variables]]
 During the OS course we’ll focus on those two with an entasis on mutex and condition variables as semaphores can be to fixed to models. 
 These methods are based on the concept of how synchronization operations must be **atomic**. 

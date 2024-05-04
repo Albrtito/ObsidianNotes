@@ -59,6 +59,6 @@ unlock(mutex);
 ```
 
 ## POSIX services:
-![[]]
+![[20240504 - 162928 -POSIX - Mutex and Conditional var.|POSIX-Mutex and Conditional var.]]
 
 
