@@ -5,8 +5,8 @@ tags:
   - OS
 "References:":
   - https://en.wikipedia.org/wiki/Readers%E2%80%93writers_problem
-sr-due: 2024-05-29
-sr-interval: 26
+sr-due: 2024-06-20
+sr-interval: 47
 sr-ease: 186
 ---
 # Intro: 
@@ -177,16 +177,17 @@ main(int argc, char *argv[]) {
     // Initialisation of mutex. No conditional variables
     pthread_mutex_init(&data_mutex, NULL);
     pthread_mutex_init(&mutex_rd, NULL);
-    // Create threads
+    // Create threads. Two readers, two writers
     pthread_create(&th1, NULL, Lector, NULL);
     pthread_create(&th2, NULL, Escritor, NULL);
     pthread_create(&th3, NULL, Lector, NULL);
     pthread_create(&th4, NULL, Escritor, NULL);
-    
+    // Wait for the threads to end and join them
     pthread_join(th1, NULL);
     pthread_join(th2, NULL);
     pthread_join(th3, NULL);
     pthread_join(th4, NULL);
+    // Destroy the two mutex
     pthread_mutex_destroy(&data_mutex);
     pthread_mutex_destroy(&mutex_rd);
     exit(0);
@@ -195,8 +196,10 @@ main(int argc, char *argv[]) {
 
 ```c
 void writer() { /* writer code*/
+	//Check if the resource is locked. If not go for it and lock it.
     pthread_mutex_lock(&data_mutex);
     data = data + 2; /* modify resource*/
+    // When finished, unlock the resource
     pthread_mutex_unlock(&data_mutex);
     pthread_exit(0);
 }
@@ -204,13 +207,20 @@ void writer() { /* writer code*/
 
 ```c
 void reader() { /* codigo del lector */
+	// Lock the reader mutex so that the addition of one reader is not tampered with from another reader thread
     pthread_mutex_lock(&mutex_rd);
+    // Add the reader that just came in.
     nreaders++;
+    // If the first reader, lock the resource.
     if (nreaders == 1) pthread_mutex_lock(&data_mutex);
+    // Unlock the readers mutex.
     pthread_mutex_unlock(&mutex_rd);
+    // Reading data
     printf("%d\n", data); /* read data and print it*/
+    //Lock the readers mutex to change the nreaders variable.
     pthread_mutex_lock(&mutex_rd);
     nreaders--;
+    // If last reader, unlock the shared resource.
     if (nreaders == 0) pthread_mutex_unlock(&data_mutex);
     pthread_mutex_unlock(&mutex_rd);
     pthread_exit(0);
