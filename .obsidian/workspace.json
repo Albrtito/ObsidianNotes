@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e8c34cfdcc62549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240504 - 162427 -POSIX.md",
+                "file": "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240504 - 162427 -POSIX.md",
+                "file": "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240504 - 162427 -POSIX.md",
+                "file": "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240504 - 162427 -POSIX.md"
+                "file": "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md"
               }
             }
           }
@@ -257,10 +270,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "64b9a83911c0d0e9",
+  "active": "6e8c34cfdcc62549",
   "lastOpenFiles": [
-    "02 - Atomic/20240504 - 162427 -POSIX.md",
+    "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
     "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
+    "02 - Atomic/20240504 - 162427 -POSIX.md",
     "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
     "02 - Atomic/Concurrency and synchronisation.md",
     "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
@@ -285,7 +299,6 @@
     "02 - Atomic/20240501 - 225136 - Clauses.md",
     "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
     "Home.md",
-    "02 - Atomic/20240501 - 222156 -.md",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",
     "99 - Meta/0. Attachments/Pasted image 20240501124333.png",
