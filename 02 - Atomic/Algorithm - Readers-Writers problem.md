@@ -64,10 +64,12 @@ This solution is based on the following algorithm:
 + Writer will stop writing when the write semaphore has reached 0
 + Reader will stop reading when the read semaphore has reached 0
 # Solutions and implementations
-## 1. **Readers have priority**
+## Types of solutions:
+
+### 1. **Readers have priority**
 If readers have priority, a writer won’t be able to writer up until all readers are out. A reader that has arrived after the writer will still be able to enter and read if more readers are reading. This can cause **starvation** as the writer may never enter. This solution is called **readers-preference**
 
-### Implementation:
+#### Implementation:
 ```c
 semaphore resource=1;
 semaphore rmutex=1;
@@ -111,7 +113,7 @@ reader() {
 + Once a writer is in, no readers can go in until the writer is out
 
 
-## 2. **Writers have priority**
+### 2. **Writers have priority**
 
 To solve the problem of writers starving another solution was proposed. **Writers-preference** solution gives preference to those processes that have arrived earlier. This way if a writer arrives, it’ll only have to wait for the readers that are already inside the file, if any reader arrives after the writer, they will have to wait for the writer to enter. 
 ### Implementation: 
