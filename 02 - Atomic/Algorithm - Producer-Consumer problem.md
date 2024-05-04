@@ -136,3 +136,62 @@ void consumer(void) {
 
 # Sol. and implementation with mutex:
 ## Code: 
+```c
+#define MAX_BUFFER 1024 /* size of buffer*/
+#define DATA_SIZE 100000 /* number of data items to be produced*/
+pthread_mutex_t mutex; /* mutex to access shared buffer */
+pthread_cond_t non_full; /* can we add more elements? */
+pthread_cond_t non_empty; /* can we remove elements? */
+int n_elements; /* number of elements in buffer */
+int buffer[MAX_BUFFER]; /* common buffer */
+int main() {
+    pthread_t th1, th2;
+    pthread_mutex_init(&mutex, NULL);
+    pthread_cond_init(&non_full, NULL);
+    pthread_cond_init(&non_empty, NULL);
+    pthread_create(&th1, NULL, producer, NULL);
+    pthread_create(&th2, NULL, consumer, NULL);
+    pthread_join(th1, NULL);
+    pthread_join(th2, NULL);
+    pthread_mutex_destroy(&mutex);
+    pthread_cond_destroy(&non_full);
+    pthread_cond_destroy(&non_empty);
+    exit(0);
+}
+```
+
+```c
+void producer() { /* Producer code */
+    int data, i ,pos = 0;
+    for(i=0; i < DATA_SIZE; i++ ) {
+        data= i; /* generate data */
+        pthread_mutex_lock(&mutex); /* access to buffer*/
+        while (n_elements == MAX_BUFFER) /* when buffer is full*/
+            pthread_cond_wait(&non_full, &mutex);
+        buffer[pos] = data;
+        pos = (pos + 1) % MAX_BUFFER;
+        n_elements ++;
+        pthread_cond_signal(&non_empty); /* buffer is not empty */
+        pthread_mutex_unlock(&mutex);
+    }
+    pthread_exit(0);
+}
+```
+
+```c
+void consumer() { /* consumer code */
+    int dato, i ,pos = 0;
+    for(i=0; i < DATA_SIZE; i++ ) {
+        pthread_mutex_lock(&mutex); /* access to buffer */
+        while (n_elements == 0) /* when buffer empty */
+            pthread_cond_wait(&non_empty, &mutex);
+        dato = buffer[pos];
+        pos = (pos + 1) % MAX_BUFFER;
+        n_elements --;
+        pthread_cond_signal(&non_full); /* buffer is not full */
+        pthread_mutex_unlock(&mutex);
+        printf("Consumed %d \n", data); /* Use data*/
+    }
+    pthread_exit(0);
+}
+```
