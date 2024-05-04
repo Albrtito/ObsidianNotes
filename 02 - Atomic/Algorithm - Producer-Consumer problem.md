@@ -134,3 +134,5 @@ void consumer(void) {
 
 ```
 
+# Sol. and implementation with mutex:
+## Code: 
