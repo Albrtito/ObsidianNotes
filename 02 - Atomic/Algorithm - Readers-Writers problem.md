@@ -11,7 +11,7 @@ sr-ease: 186
 ---
 # Intro: 
 The readers-writers problem is an specific case take out from the [[Algorithm - Producer-Consumer problem]]. 
-When developing for a producer-consumer problem there is no more than two processes, then what happens if there are several processes producing? Or several processes consuming?
+- [ ] When developing for a producer-consumer problem there is no more than two processes, then what happens if there are several processes producing? Or several processes consuming?
 This is what happens with readers and writers. 
 Readers are those processes consuming  while writers are the one producing. **No reader can read while a writer produces and vice versa**. 
 While several readers can read at the same time, **no two writers can write at the same time**. 
