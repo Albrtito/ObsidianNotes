@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240507 - 153848 - The wave.md",
+                "file": "02 - Atomic/20240507 - 153848 - The wave Equation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
+                "file": "02 - Atomic/20240507 - 153848 - The wave Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
+                "file": "02 - Atomic/20240507 - 153848 - The wave Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
+                "file": "02 - Atomic/20240507 - 153848 - The wave Equation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf"
+                "file": "02 - Atomic/20240507 - 153848 - The wave Equation.md"
               }
             }
           }
@@ -253,12 +253,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bed78f97775b1d55",
+  "active": "002e0992579b3f32",
   "lastOpenFiles": [
-    "02 - Atomic/20240507 - 153848 - The wave.md",
-    "01.Areas/1.UC3M/DiffCalc.md",
     "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+    "02 - Atomic/20240507 - 153848 - The wave Equation.md",
+    "01.Areas/1.UC3M/DiffCalc.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
@@ -281,7 +281,6 @@
     "02 - Atomic/20240429 - 121006 - Congruent relation.md",
     "02 - Atomic/The Laplace transform.md",
     "02 - Atomic/20240409 - 171554 - Refactoring.md",
-    "02 - Atomic/Some Journaling prompts by ChatGPT.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",
