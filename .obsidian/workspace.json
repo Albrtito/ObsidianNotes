@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
+                "file": "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
+                "file": "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
+                "file": "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
+                "file": "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md"
+                "file": "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md"
               }
             }
           }
@@ -246,6 +246,7 @@
   },
   "active": "1251570f873ce406",
   "lastOpenFiles": [
+    "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
     "01.Areas/1.UC3M/Logic.md",
     "02 - Atomic/Algorithm - Readers-Writers problem.md",
     "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
@@ -272,7 +273,6 @@
     "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
     "02 - Atomic/20240501 - 155450 - Theorem - Equivalence theorem.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
-    "02 - Atomic/Logic_Resource_Theorems.md",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",
     "99 - Meta/0. Attachments/Pasted image 20240501124333.png",
