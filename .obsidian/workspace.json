@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240501 - 123051 - Unit testing.md",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240501 - 123051 - Unit testing.md",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240501 - 123051 - Unit testing.md",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240501 - 123051 - Unit testing.md",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240501 - 123051 - Unit testing.md"
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md"
               }
             }
           }
@@ -255,6 +255,7 @@
   },
   "active": "002e0992579b3f32",
   "lastOpenFiles": [
+    "02 - Atomic/20240501 - 123051 - Unit testing.md",
     "02 - Atomic/20240408 - 191229 - GF list.md",
     "02 - Atomic/20240507 - 191007 -.md",
     "02 - Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
@@ -281,7 +282,6 @@
     "02 - Atomic/Concurrency and synchronisation.md",
     "01.Areas/0.DailyNote/2024-05-04.md",
     "01.Areas/0.DailyNote/2024-05-03.md",
-    "02 - Atomic/20240503 - 190310 -.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",
