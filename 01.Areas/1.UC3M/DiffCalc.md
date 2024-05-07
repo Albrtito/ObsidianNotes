@@ -1,6 +1,7 @@
 ---
 aliases:
   - DiffCalc
+  - Calculus III
 tags:
   - DiffCalc
 "References:": 
@@ -21,3 +22,5 @@ Highlight ==what’s important!==
 4. …
 5. [[Systems of First-Order ODEs]]
 6. [[20240418 - 193416 - Partial Differential Equations (PDEs)|PDEs]]
+7. [[20240418 - 194138 - The Heat Conduction Equation|The Heat Conduction Eq.]]
+8. 
