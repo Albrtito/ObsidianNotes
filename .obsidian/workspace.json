@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
+                "file": "02 - Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
+                "file": "02 - Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
+                "file": "02 - Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
+                "file": "02 - Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md"
+                "file": "02 - Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md"
               }
             }
           }
@@ -255,6 +255,7 @@
   },
   "active": "002e0992579b3f32",
   "lastOpenFiles": [
+    "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
     "02 - Atomic/20240409 - 171554 - Refactoring.md",
     "02 - Atomic/20240507 - 153848 - The wave Equation.md",
     "02 - Atomic/20240411 - 173829 - Refactoring Presentation.md",
@@ -281,7 +282,6 @@
     "01.Areas/1.UC3M/Operating Systems.md",
     "02 - Atomic/20240429 - 112738 - Computation of the gcd and lcm.md",
     "02 - Atomic/20240429 - 121006 - Congruent relation.md",
-    "02 - Atomic/The Laplace transform.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",

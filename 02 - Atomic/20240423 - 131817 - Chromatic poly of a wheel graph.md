@@ -6,8 +6,8 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
-sr-due: 2024-05-06
-sr-interval: 6
+sr-due: 2024-05-19
+sr-interval: 12
 sr-ease: 188
 ---
 **Remark:** Before defining the polynomial, it is important to notice that the wheel graphs are defined as following: 
