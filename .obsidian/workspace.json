@@ -45,8 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3fa5f363a9623b74",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "file": "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "file": "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "file": "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md"
+                "file": "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf"
               }
             }
           }
@@ -242,8 +253,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5824e14fc33d945b",
+  "active": "3fa5f363a9623b74",
   "lastOpenFiles": [
+    "02 - Atomic/20240501 - 225136 - Clauses.md",
+    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
     "01.Areas/1.UC3M/Logic.md",
     "02 - Atomic/Predicate Logic.md",
     "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
@@ -278,8 +291,6 @@
     "02 - Atomic/20240507 - 153848 - The wave Equation.md",
     "02 - Atomic/Critical sections.md",
     "02 - Atomic/20240501 - 123349 - White box testing.md",
-    "02 - Atomic/20240501 - 123332 - Black box testing.md",
-    "02 - Atomic/Syntax analysis.md",
     "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
