@@ -12741,6 +12741,7 @@ igtj
 interpretations
 iMcNNK
 interpret
+interpretation
 Enough
 Esta
 Est
@@ -32447,6 +32448,7 @@ sentences
 scope
 scenarios
 ssso
+semantically
 No
 NOTE
 Normalmente
@@ -45900,6 +45902,7 @@ DsxI
 Dalc
 DSCPAK
 Disjunction
+Deductions
 HH
 Highlight
 Hay
@@ -49725,6 +49728,8 @@ CUL
 CJLLCY
 Conjunction
 Counterexamples
+Contradiction
+Contingency
 your
 ya
 yo
@@ -53549,6 +53554,7 @@ LLwA
 LlG
 LFM
 Lui
+Like
 Otras
 Otros
 OS
