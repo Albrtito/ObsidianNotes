@@ -71,6 +71,9 @@ As in propositional calculus, there is a way of using the axioms and rules in or
 
 See the following note for the whole theory explanation: [[20240409 - 121336 -Proof Theory in Predicate Calculus| Proof theory in predicate calculus]]
 
-
+## Semantic theory:
+Semantic theory defines another method for deducing whether a formula is valid or not by the usage of truth tables and counterexamples. 
+See the following for the whole theory explanation: 
+[[20240411 - 110836 -Semantic theory in Predicates|Semantic theory in Predicates]]
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
+                "file": "02 - Atomic/Predicate Logic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
+                "file": "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
+                "file": "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
+                "file": "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,11 +162,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
+                "file": "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -179,13 +180,13 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "collapse-forces": false,
+                  "centerStrength": 0.364579256360078,
+                  "repelStrength": 13.7514677103718,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "linkDistance": 187,
+                  "scale": 0.17197703227505517,
+                  "close": true
                 }
               }
             }
@@ -202,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md"
+                "file": "02 - Atomic/20240411 - 110543 -Semantic Theory.md"
               }
             }
           }
@@ -229,8 +230,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5824e14fc33d945b",
+  "active": "17553a8b4daea948",
   "lastOpenFiles": [
+    "02 - Atomic/Predicate Logic.md",
+    "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
+    "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
+    "01.Areas/1.UC3M/Logic.md",
+    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
     "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
     "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
     "02 - Atomic/20240507 - 153848 - The wave Equation.md",
@@ -245,7 +251,6 @@
     "02 - Atomic/20240429 - 112402 - Theorem - Fundamental theorem of Arithmetic.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/Mutual exclusion.md",
-    "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
     "02 - Atomic/Algorithm - Producer-Consumer problem.md",
     "02 - Atomic/20240409 - 122918 -Definition - Test System S.md",
     "02 - Atomic/20240501 - 155450 - Theorem - Equivalence theorem.md",
@@ -253,10 +258,6 @@
     "Home.md",
     "01.Areas/1.UC3M/DiffCalc.md",
     "02 - Atomic/20240501 - 123051 - Unit testing.md",
-    "02 - Atomic/20240408 - 191229 - GF list.md",
-    "02 - Atomic/20240507 - 191007 -.md",
-    "02 - Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
-    "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
     "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
