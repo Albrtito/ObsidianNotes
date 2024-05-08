@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Logic.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1be9b33ceba1d662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240411 - 110836 -Semantic theory in Predicates.md",
+                "file": "02 - Atomic/20240409 - 115536 -Logic Set 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240411 - 110836 -Semantic theory in Predicates.md",
+                "file": "02 - Atomic/20240409 - 115536 -Logic Set 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240411 - 110836 -Semantic theory in Predicates.md",
+                "file": "02 - Atomic/20240409 - 115536 -Logic Set 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240411 - 110836 -Semantic theory in Predicates.md",
+                "file": "02 - Atomic/20240409 - 115536 -Logic Set 5.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240411 - 110836 -Semantic theory in Predicates.md"
+                "file": "02 - Atomic/20240409 - 115536 -Logic Set 5.md"
               }
             }
           }
@@ -256,28 +242,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1be9b33ceba1d662",
+  "active": "5824e14fc33d945b",
   "lastOpenFiles": [
+    "02 - Atomic/20240508 - 121916 - Exercises -  Logic_Submission 6.2.md",
+    "02 - Atomic/20240411 - 110836 -Semantic theory in Predicates.md",
+    "01.Areas/1.UC3M/Logic.md",
+    "02 - Atomic/20240409 - 115536 -Logic Set 5.md",
+    "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
+    "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.44.50.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.43.42.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.39.50.png",
-    "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
-    "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
-    "02 - Atomic/20240508 - 121916 - Exercises -  Logic_Submission 6.2.md",
-    "01.Areas/1.UC3M/Logic.md",
     "02 - Atomic/20240501 - 155450 - Theorem - Equivalence theorem.md",
     "02 - Atomic/20240429 - 111944 - Theorem - Euclid's proof of infinite prime numbers.md",
     "02 - Atomic/The Handshaking Theorem.md",
     "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
     "02 - Atomic/20240418 - 150156 -Logic_Submission 6.1.md",
-    "02 - Atomic/20240411 - 110836 -Semantic theory in Predicates.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 11.34.11.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 11.30.16.png",
     "02 - Atomic/20240508 - 112735 -.md",
     "02 - Atomic/20240411 - 110543 -Semantic Theory~.md",
     "01.Areas/1.UC3M/Calculus I.md",
     "00.References/Calc_Theory_All.pdf",
-    "02 - Atomic/20240409 - 115536 -Logic Set 5.md",
     "02 - Atomic/Predicate Logic.md",
     "99 - Meta/0. Attachments/AND (Conjunction) Truth table.png",
     "99 - Meta/0. Attachments/OR(Disjunction) truth table.png",
@@ -297,7 +283,6 @@
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",
-    "99 - Meta/0. Attachments/Pasted image 20240501124333.png",
     "00.References/OS_Resources_Lab3Statement.pdf",
     "00.References/Discrete_Theory_All.pdf",
     "00.References/SoftwareDev_Resources_GE3_Statement.pdf",

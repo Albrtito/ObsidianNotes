@@ -1429,6 +1429,7 @@ tUO
 tYd
 tQqma
 tIM
+tell
 dailyNote
 day
 during
@@ -2925,6 +2926,7 @@ deducing
 direct
 deductions
 degrees
+domains
 check
 classes
 cssclasses
@@ -5808,6 +5810,7 @@ lYm
 lkM
 lAjs
 lOE
+lies
 First
 Fechas
 Familias
@@ -25868,6 +25871,7 @@ ehj
 evaluates
 evaluation
 evaluated
+evaluating
 Instagram
 IRIS
 Intendencia
@@ -30920,6 +30924,7 @@ Pdp
 PLa
 PHw
 PDlshW
+Prepositions
 something
 start
 st
@@ -37829,6 +37834,8 @@ Awz
 AXLQWW
 APmYY
 AXl
+Assign
+Assigns
 all
 at
 aliases
@@ -39229,6 +39236,7 @@ ant
 approach
 arduous
 attach
+ary
 of
 otro
 opciones
@@ -43316,6 +43324,7 @@ mentally
 mutex
 mIq
 mRvLRUy
+marked
 YYYY
 YYYYMMDD
 YU
@@ -47093,6 +47102,8 @@ HnUG
 HMwKn
 HjP
 Hby
+HUGE
+Holds
 Journal
 January
 Jacobo
@@ -52313,6 +52324,7 @@ SzX
 SGb
 SFHSXL
 SGSu
+Semantically
 La
 Las
 Lanz
@@ -58382,6 +58394,7 @@ goR
 gVb
 ggggf
 guide
+giving
 junio
 julio
 journaling
@@ -62407,6 +62420,7 @@ QwT
 Qrf
 QVi
 QIII
+Quantified
 kindness
 key
 kept
