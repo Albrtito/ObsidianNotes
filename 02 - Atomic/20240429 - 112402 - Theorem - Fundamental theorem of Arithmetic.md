@@ -6,9 +6,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
-sr-due: 2024-05-04
-sr-interval: 4
-sr-ease: 270
+sr-due: 2024-06-08
+sr-interval: 31
+sr-ease: 290
 ---
 
 > [!NOTE] Theorem:  

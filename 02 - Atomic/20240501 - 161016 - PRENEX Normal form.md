@@ -7,9 +7,9 @@ tags:
   - Logic
 "References:": 
 cssclasses:
-sr-due: 2024-05-04
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-06-02
+sr-interval: 25
+sr-ease: 270
 ---
 # PRENEX Normal Form (PNF)
 PRENEX normal form is a formula structure. For the logic course it is mainly used to obtain the SKOLEM Normal Form.

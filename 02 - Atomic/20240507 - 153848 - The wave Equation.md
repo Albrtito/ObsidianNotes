@@ -2,8 +2,8 @@
 aliases:
   - The wave equation
 tags:
-  - review
   - DiffCalc
+  - incomplete
 "References:": 
 cssclasses:
 ---

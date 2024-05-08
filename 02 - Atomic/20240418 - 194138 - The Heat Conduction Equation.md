@@ -6,7 +6,7 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses: 
-sr-due: 2024-05-04
+sr-due: 2024-05-09
 sr-interval: 1
 sr-ease: 130
 ---
@@ -142,7 +142,7 @@ If we know that f(x) = u(x,0) then, because u(x,0) = $\sum^\infty_{n=1}c_ne^{-(\
 $$
 \sum^\infty_{n=1}c_ne^0sin(\frac{n\pi}{L}x) = \sum^\infty_{n=1}c_nsin(\frac{n\pi}{L}x)
 $$
-
+ 
 This means that:
 
 $$

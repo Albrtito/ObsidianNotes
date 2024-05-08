@@ -7,8 +7,8 @@ tags:
   - "#incomplete"
 "References:": 
 cssclasses:
-sr-due: 2024-05-04
-sr-interval: 3
+sr-due: 2024-05-21
+sr-interval: 13
 sr-ease: 252
 ---
 # Normal forms and resolutions: 

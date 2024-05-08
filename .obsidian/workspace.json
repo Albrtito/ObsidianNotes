@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md"
+                "file": "02 - Atomic/20240503 - 185543 - Process Synchronisation.md"
               }
             }
           }
@@ -231,6 +231,19 @@
   },
   "active": "5824e14fc33d945b",
   "lastOpenFiles": [
+    "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
+    "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
+    "02 - Atomic/20240507 - 153848 - The wave Equation.md",
+    "02 - Atomic/Critical sections.md",
+    "02 - Atomic/20240501 - 123349 - White box testing.md",
+    "02 - Atomic/20240501 - 123332 - Black box testing.md",
+    "02 - Atomic/Syntax analysis.md",
+    "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
+    "02 - Atomic/20240408 - 185315 - Definition 113 Generating function.md",
+    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+    "02 - Atomic/20240409 - 122243 -Proof theory.md",
+    "02 - Atomic/20240429 - 112402 - Theorem - Fundamental theorem of Arithmetic.md",
+    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/Mutual exclusion.md",
     "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
     "02 - Atomic/Algorithm - Producer-Consumer problem.md",
@@ -239,25 +252,12 @@
     "01.Areas/0.DailyNote/2024-05-08.md",
     "Home.md",
     "01.Areas/1.UC3M/DiffCalc.md",
-    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/20240501 - 123051 - Unit testing.md",
     "02 - Atomic/20240408 - 191229 - GF list.md",
     "02 - Atomic/20240507 - 191007 -.md",
     "02 - Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
     "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
-    "02 - Atomic/20240409 - 171554 - Refactoring.md",
-    "02 - Atomic/20240507 - 153848 - The wave Equation.md",
-    "02 - Atomic/20240411 - 173829 - Refactoring Presentation.md",
     "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
-    "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
-    "01.Areas/1.UC3M/Calculus I.md",
-    "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
-    "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
-    "01.Areas/1.UC3M/Logic.md",
-    "02 - Atomic/Algorithm - Readers-Writers problem.md",
-    "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
-    "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
-    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",

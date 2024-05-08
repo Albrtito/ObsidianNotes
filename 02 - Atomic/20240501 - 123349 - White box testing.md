@@ -7,8 +7,8 @@ tags:
   - SoftwareDev
 "References:": 
 cssclasses:
-sr-due: 2024-05-05
-sr-interval: 4
+sr-due: 2024-05-25
+sr-interval: 17
 sr-ease: 277
 ---
 # White box testing: 

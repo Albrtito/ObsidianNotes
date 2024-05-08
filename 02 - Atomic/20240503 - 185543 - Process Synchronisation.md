@@ -6,6 +6,9 @@ tags:
   - OS
 "References:": 
 cssclasses:
+sr-due: 2024-05-14
+sr-interval: 6
+sr-ease: 243
 ---
 
 # Process synchronisation:
