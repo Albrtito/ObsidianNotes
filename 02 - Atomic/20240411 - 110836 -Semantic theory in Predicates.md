@@ -54,11 +54,20 @@ In predicate logic one single formula can be given several domains in which to e
 
 > [!NOTE] Definition: Valid in a domain
 > A formula is valid in the domain D if in that domain it is a tautology. 
-> **Remark:** **If** a formula is valid in a domain $D_n$ **it is then valid in all domains $D_k : k < n$**
+> **Remarks:**
+> + **If** a formula is valid in a domain $D_n$ **it is then valid in all domains $D_k : k < n$**
+> + A formula that is not valid for D1 cannot be valid for any Dn with n ≥ 1
+
 
 
 > [!NOTE] Definition: Semantically valid
 > A formula is semantically valid if it is **valid in any domain**
 + Testing for semantically valid predicates is not easy
 + Usually we’ll try to find a **domain where the formula is not valid**
-+ 
+
+## Counterexample: 
+Finding counterexamples in a domain works the same way as with propositional logic. The main difference lies on what we have to determine when the counterexample is finished. 
+
+If we find that for a counterexample to appear then some quantified predicate needs to be false, then we need to see if it is possible this by giving values to the free variables and functions. 
+
+For these counterexamples we not only need to specify free variables and functions but also the parity of the domain that needs to be used as there could be a domain D1 where the formula does not have any counterexample but then in a domain 
