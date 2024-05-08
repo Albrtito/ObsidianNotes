@@ -9,7 +9,7 @@ cssclasses: []
 ---
 # Semantic theory in propositional calculus.
 
-This note presents information about how the semantic theory can be applied specifically to [[Propositional logic]]. 
+This note presents information about how the semantic theory can be applied specifically to [[Propositional logic]]. There is not really much to say besides what was explained in semantic theory. Here there is a more step by step solving guide.
 
 ## Solving: 
 In propositional calculus we’ll apply semantic theory to obtain whether a formula or a deduction is valid. 
@@ -26,5 +26,6 @@ Deductions can be evaluated as deductions or as formulas (personal recommendatio
 **As deduction:** Find there is no counterexample. Premises positive conclusion negative
 **As formula:** Either apply deduction theorem and use the formula steps or transform the formula to: 
 $$
-p_1 \land p
+p_1 \land p_2\land ...\land p_n \land \lnot q
 $$
++ The deduction is correct if this formula is **unsatisfiable**

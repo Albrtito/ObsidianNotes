@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
+                "file": "02 - Atomic/20240411 - 110836 -Semantic theory in Predicates.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
+                "file": "02 - Atomic/20240411 - 110836 -Semantic theory in Predicates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
+                "file": "02 - Atomic/20240411 - 110836 -Semantic theory in Predicates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
+                "file": "02 - Atomic/20240411 - 110836 -Semantic theory in Predicates.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md"
+                "file": "02 - Atomic/20240411 - 110836 -Semantic theory in Predicates.md"
               }
             }
           }
@@ -256,8 +256,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "81de77e059dfdb0e",
+  "active": "1be9b33ceba1d662",
   "lastOpenFiles": [
+    "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.39.50.png",
     "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
     "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
     "02 - Atomic/20240508 - 121916 - Exercises -  Logic_Submission 6.2.md",
@@ -290,7 +291,6 @@
     "02 - Atomic/20240501 - 123332 - Black box testing.md",
     "02 - Atomic/Syntax analysis.md",
     "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
-    "02 - Atomic/20240408 - 185315 - Definition 113 Generating function.md",
     "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
