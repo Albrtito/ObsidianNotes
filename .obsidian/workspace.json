@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Predicate Logic.md",
+                "file": "02 - Atomic/20240418 - 150156 -Logic_Submission 6.1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,6 +31,14 @@
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "15bfb41f82016c40",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -232,12 +240,16 @@
   },
   "active": "d9531a4cb7adc498",
   "lastOpenFiles": [
-    "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 11.02.02.png",
-    "02 - Atomic/Predicate Logic.md",
-    "99 - Meta/0. Attachments/Truth table of the negation connective.png",
-    "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
-    "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
+    "02 - Atomic/20240418 - 150156 -Logic_Submission 6.1.md",
     "01.Areas/1.UC3M/Logic.md",
+    "02 - Atomic/20240409 - 115536 -Logic Set 5.md",
+    "02 - Atomic/Predicate Logic.md",
+    "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
+    "99 - Meta/0. Attachments/AND (Conjunction) Truth table.png",
+    "99 - Meta/0. Attachments/OR(Disjunction) truth table.png",
+    "99 - Meta/0. Attachments/Conditional Truth table.png",
+    "99 - Meta/0. Attachments/Truth table of the negation connective.png",
+    "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
     "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
     "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
     "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
@@ -258,7 +270,6 @@
     "02 - Atomic/20240501 - 155450 - Theorem - Equivalence theorem.md",
     "01.Areas/0.DailyNote/2024-05-08.md",
     "Home.md",
-    "01.Areas/1.UC3M/DiffCalc.md",
     "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
@@ -273,9 +284,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.10.06.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.08.27.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.07.11.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.05.48.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.05.06.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.04.19.png",
     "00.References/SoftwareDev_PracticeTheory_Session08.pdf",
     "00.References/DiffCalc_Resources_Laplace_Transforms.pdf",
     "01.Areas/1.UC3M/Movilidad.canvas",
