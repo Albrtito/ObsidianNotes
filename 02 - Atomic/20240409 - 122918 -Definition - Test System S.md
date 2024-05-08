@@ -6,8 +6,8 @@ tags:
   - Logic
 "References:": 
 cssclasses:
-sr-due: 2024-05-06
-sr-interval: 21
+sr-due: 2024-07-11
+sr-interval: 64
 sr-ease: 290
 ---
 

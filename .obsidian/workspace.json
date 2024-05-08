@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-08.md",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17553a8b4daea948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-08.md",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-08.md",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-08.md",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-08.md"
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md"
               }
             }
           }
@@ -197,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242
+    "width": 485
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,6 +231,11 @@
   },
   "active": "5824e14fc33d945b",
   "lastOpenFiles": [
+    "02 - Atomic/Mutual exclusion.md",
+    "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
+    "02 - Atomic/Algorithm - Producer-Consumer problem.md",
+    "02 - Atomic/20240409 - 122918 -Definition - Test System S.md",
+    "02 - Atomic/20240501 - 155450 - Theorem - Equivalence theorem.md",
     "01.Areas/0.DailyNote/2024-05-08.md",
     "Home.md",
     "01.Areas/1.UC3M/DiffCalc.md",
@@ -238,13 +256,8 @@
     "01.Areas/1.UC3M/Logic.md",
     "02 - Atomic/Algorithm - Readers-Writers problem.md",
     "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
-    "02 - Atomic/Algorithm - Producer-Consumer problem.md",
-    "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
     "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
     "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
-    "02 - Atomic/20240504 - 162427 -POSIX.md",
-    "02 - Atomic/20240504 - 164653 - POSIX - Semaphores.md",
-    "02 - Atomic/Concurrency and synchronisation.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",

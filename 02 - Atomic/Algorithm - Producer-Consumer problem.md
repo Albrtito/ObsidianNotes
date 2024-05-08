@@ -4,9 +4,9 @@ tags:
   - review
   - OS
 "References:": 
-sr-due: 2024-05-08
-sr-interval: 8
-sr-ease: 130
+sr-due: 2024-05-23
+sr-interval: 15
+sr-ease: 150
 cssclasses: []
 ---
 # Intro: 

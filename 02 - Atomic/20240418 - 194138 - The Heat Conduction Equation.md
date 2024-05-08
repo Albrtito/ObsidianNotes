@@ -121,7 +121,7 @@ $$
 Finally, we get…
 $$
 \begin{gather}
-u_n(x,t) = T_n(t)X_n(x) = e^{-(\frac{n^2\pi^2\alpha^2}{L^2})t} sin(\frac{n\pi}{L}x); & n = 1,2,---
+u_n(x,t) = T_n(t)X_n(x) = \boxed{\boxed{e^{-(\frac{n^2\pi^2\alpha^2}{L^2})t} sin(\frac{n\pi}{L}x)}}; & n = 1,2,---
 \end{gather}
 $$
 + This is **the fundamental solution of the heat equation**
@@ -141,7 +141,8 @@ The **formal solution of the heat equation** (<font color="#ff0000">MAY BE AN EX
 If we know that f(x) = u(x,0) then, because u(x,0) = $\sum^\infty_{n=1}c_ne^{-(\frac{n^2\pi^2\alpha^2}{L^2})t}sin(\frac{n\pi}{L}x)$ if t = 0, then 
 $$
 \sum^\infty_{n=1}c_ne^0sin(\frac{n\pi}{L}x) = \sum^\infty_{n=1}c_nsin(\frac{n\pi}{L}x)
-$$. 
+$$
+
 This means that:
 
 $$

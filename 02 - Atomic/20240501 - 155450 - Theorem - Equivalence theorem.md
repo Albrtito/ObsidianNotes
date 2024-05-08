@@ -6,9 +6,9 @@ tags:
   - Logic
 "References:": 
 cssclasses:
-sr-due: 2024-05-05
-sr-interval: 4
-sr-ease: 270
+sr-due: 2024-06-06
+sr-interval: 29
+sr-ease: 290
 ---
 
 ## Propositional logic: 
