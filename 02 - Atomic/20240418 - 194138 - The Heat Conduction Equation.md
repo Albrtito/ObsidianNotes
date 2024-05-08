@@ -42,7 +42,7 @@ $$
 + f is the initial temp. distribution in the bar. 
 
 #### Solving: 
-In order to solve the model we’ll use the [[20240418 - 193802 - Method - Separation of variables|Method of separation of variables]]…
+In order to solve the model we’ll use the [Method of separation of variables](20240418%20-%20193802%20-%20Method%20-%20Separation%20of%20variables.md)…
 
 1. Substituting into the PDE…
 ^SeparationOfvariables
@@ -128,7 +128,7 @@ $$
 + This solution is linearly independent for all t grater than 0
 + $u_n(x,t)$ satisfies the PDE + BCs
 
-Using the [[Principle of Superposition]] we make a “combination" of all these solutions, we get: 
+Using the [Principle of Superposition](Principle%20of%20Superposition) we make a “combination" of all these solutions, we get: 
 $$
 u(x,t) = \sum^\infty_{n = 1} c_nu_n(x,t)
 $$
@@ -154,7 +154,7 @@ Based on this, if we know the expression for some function f(x), we can obtain t
 $$
 f(x) = \sum^\infty_{n=1}c_nsin(\frac{n\pi}{L}x) = 1
 $$
-For this type of function we know that, based on what is said in [[20240418 - 190338 - Fourier series|Fourier series]] : 
+For this type of function we know that, based on what is said in [Fourier series](20240418%20-%20190338%20-%20Fourier%20series.md) : 
 $$
 \begin{gather}
 \int^{L}_{-L}sin(\frac{n\pi}{L}x)sin(\frac{m\pi}{L}x)dx = \\\\
@@ -254,7 +254,7 @@ $$
 + New intervals for which x is defined: The intervals are given based on a defined length equal to $\pi\over 3$
 #### Solving:
 
-1. Again, the [[20240418 - 193802 - Method - Separation of variables|Method of separation of variables]] is used.
+1. Again, the [Method of separation of variables](20240418%20-%20193802%20-%20Method%20-%20Separation%20of%20variables.md) is used.
 	Rolling back to the first model… we can see this solved in step 1. However in this case as alpha is 1. The resulting solution would be: 
 $$
 \begin{gather}

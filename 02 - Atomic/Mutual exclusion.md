@@ -9,10 +9,10 @@ sr-interval: 42
 sr-ease: 186
 ---
 # Intro: 
-Mutual exclusion is **a method used in order to solve the [[Race condition]]**. 
+Mutual exclusion is **a method used in order to solve the [Race condition](Race%20condition.md)**. 
 	The race condition is when two processes want to alter the same resource at the same time. In order to avoid this from happening mutual exclusion is used. 
 
-Mutual exclusion is the blocking of a resource when a process is using it, defining [[Critical sections]] for each of the processes. 
+Mutual exclusion is the blocking of a resource when a process is using it, defining [Critical sections](Critical%20sections.md) for each of the processes. 
 **Namely:** If a process uses a resource no one else can use it till it finishes. **Avoid two processes in need of the same resource from executing at the same time**
 # Problems with mutual exclusion: 
 In the following sections we’ll see implementation of mutual sections. This methods for implementation sometime make it hard to create this problems, however they can almost always appear if not being careful about them.
@@ -75,6 +75,6 @@ There are several ways of implementing mutual exclusion, we’ll se a few of the
 Any other alternatives rely solely on the OS. 
 
 ## Semaphores:
-As said in:[[#Conditions for mutual exclusion]], any process must signal when entering the section and when exiting it. This is on what semaphores rely on:
+As said in:[#Conditions for mutual exclusion](#Conditions%20for%20mutual%20exclusion), any process must signal when entering the section and when exiting it. This is on what semaphores rely on:
 
-![[20240503 - 190310 -Semaphores Dijkstra method]]
+![20240503 - 190310 -Semaphores Dijkstra method](20240503%20-%20190310%20-Semaphores%20Dijkstra%20method.md)

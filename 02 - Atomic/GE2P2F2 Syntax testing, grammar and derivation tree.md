@@ -23,10 +23,10 @@ Value2 ::= 0-9 {8} a-z {1}
 
 # Derivation tree 
 
-![[Pasted image 20240401143908.png]]
-![[Pasted image 20240401144301.png]]
+![Pasted image 20240401143908](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240401143908.png)
+![Pasted image 20240401144301](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240401144301.png)
 
 Numbered derivation tree: 
-![[Pasted image 20240401144739.png]]
-![[Pasted image 20240401181326.png]]
+![Pasted image 20240401144739](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240401144739.png)
+![Pasted image 20240401181326](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240401181326.png)
 #  

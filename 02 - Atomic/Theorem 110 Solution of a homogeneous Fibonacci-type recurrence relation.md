@@ -10,7 +10,7 @@ sr-ease: 270
 ---
 
 > [!NOTE]  Theorem:
-> For a sequence like the [[Fibonacci sequence]]: 
+> For a sequence like the [Fibonacci sequence](Fibonacci%20sequence): 
 >$$
 >a_n = Aa_{n-1} + Ba_{n-2}: n>= 3
 >$$

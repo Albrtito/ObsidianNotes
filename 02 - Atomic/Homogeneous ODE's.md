@@ -20,12 +20,12 @@ $$
 ### Solving: 
 Once checked that the ODE is homogeneous we apply the following: 
 1. Obtain F() where the function only depends on x/y or y/x and equals to the derivative of y wrt x. 
-2. Apply [[u-substitution]] where u = x/y or y/x depending on what F() depends of. 
+2. Apply [u-substitution](u-substitution.md) where u = x/y or y/x depending on what F() depends of. 
 3. Based on the u-substitution there will be a value for y based on u: 
 	1. For y/x: $y/x = u : y = ux$
 	2. For x/y: $x/y = u : y = x/u$
 4. Then there will also be a value for the derivative of y based on u. 
 	1. $y/x = u : y = ux \Rightarrow {dy\over dx} = u + x{du\over dx}$
 	2. $x/y = u : y = u/x \Rightarrow {dy\over dx} ={u - x{du\over dx} \over x^2}$
-5. This new ODE we obtain based on u has to be [[Separable ODE's]] after we simplify. Then we can solve it as such
+5. This new ODE we obtain based on u has to be [Separable ODE's](Separable%20ODE's.md) after we simplify. Then we can solve it as such
 6. Finally just undo the u-substitution

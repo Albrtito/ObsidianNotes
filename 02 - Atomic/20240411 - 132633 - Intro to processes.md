@@ -39,17 +39,17 @@ When a process is created it’ll start running in the CPU. However the CPU cann
 
 The following image describes how a process is run. 
 
-![[Screenshot 2024-04-11 at 13.42.45.png|400]]
+![400](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-11%20at%2013.42.45.png)
 + Time-slice finished: This means that the CPU stops working on the process, but the process is not blocked as there is no event it needs waiting to.
 
 With a one-processor CPU we’ll get: 
 
-![[Screenshot 2024-04-11 at 13.46.57.png|400]]
+![400](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-11%20at%2013.46.57.png)
 + The processor takes a queue of processes and starts processing them in order, new processes are added to the list, terminated processes just exit the CPU directly
 + If a process needs to wait for an event, the CPU stops working on it and sends the process to the queue of processes waiting for that event. Once the event finishes, that process will go back to the queue of the CPU (in the last place)
 
 For a multicore CPU we get the following model: 
-![[Screenshot 2024-04-11 at 13.50.55.png|400]]
+![400](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-11%20at%2013.50.55.png)
 
 **Remark:** See that for both models, the end of time-slice means taking the process back to the queue of the CPU
 
@@ -78,7 +78,7 @@ Therefore many UNIX systems use COW.
 Copy on write is a technique to delay or avoid copying the data when performing a fork. With this model the fork **only copies the page table from parent, not the pages. Just creates a new PCB for the child.**
 
 Structure created with the COW model:Two page tables redirecting to the same pages. 
-![[Screenshot 2024-04-11 at 16.35.29.png]]
+![Screenshot 2024-04-11 at 16.35.29](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-11%20at%2016.35.29.png)
 
 
 
@@ -113,7 +113,7 @@ The creation of swap creates **two new process states**
 + Ready and suspended
 And results on the following diagram:
 
-![[Screenshot 2024-04-11 at 16.55.26.png]]
+![Screenshot 2024-04-11 at 16.55.26](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-11%20at%2016.55.26.png)
 
 ## Scheduling:
 Scheduling is how the OS decides which process is going to run next. During the process lifecycle we’ve only seen processes as in a queue. However 
@@ -134,7 +134,7 @@ The processor has two main states, user and privileged(kernel) mode.
 Of course, a process cannot access every part of the computer, it would not be secure if the data of the process could be store anywhere. 
 The memory image consists of **memory spaces that the process is authorised to use**
 
-+ A **[[20240411 - 135931 - System trap|trap]]** is generated if the process tries to access any address outside it’s memory image
++ A **[trap](20240411%20-%20135931%20-%20System%20trap)** is generated if the process tries to access any address outside it’s memory image
 + The process memory storage could be virtual or physical memory
 
 	+ If there is no virtual memory: Fixed size region is the best way to go. Using variable memory turns into a memory waste
@@ -146,12 +146,12 @@ The memory image consists of **memory spaces that the process is authorised to u
 
 Using multiple regions and virtual memory, the gap between the data and stack can grow without a misusage of resources. 
 
-![[Screenshot 2024-04-11 at 14.06.36.png|100]]
+![100](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-11%20at%2014.06.36.png)
 
 But what if there are several growing data regions. In the previous example there where only two (easy). In current versions of OS systems processes have several growing data regions, these regions may differ in permissions or might be shared between processes. 
 
 An example of the memory image of a process, with several variable data regions
-	![[Screenshot 2024-04-11 at 14.10.38.png|400]]
+	![400](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-11%20at%2014.10.38.png)
 
 ## OS process information: 
 The OS has to manage the processes, what is done on it’s part to do so? What info is kept by the OS on processes?
@@ -251,7 +251,7 @@ wait()
 + If called from a parent process: Blocks process until child terminates and then **returns the PID of the terminated child**
 ### Usage of fork, exec, wait and exit:
 
-![[Screenshot 2024-04-11 at 15.48.21.png]]
+![Screenshot 2024-04-11 at 15.48.21](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-11%20at%2015.48.21.png)
 
 ## Multitasking
 Multitasking is when the processor is working on several processes at the same time. All these **processes are running at the same time**.
@@ -292,12 +292,12 @@ In order to generate an executable we need the following:
 	  (input: binary files “.o”, output: executable file (no extension))
 
 Example with two .c files a and b. 
-![[Screenshot 2024-04-11 at 16.09.33.png]]
+![Screenshot 2024-04-11 at 16.09.33](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-11%20at%2016.09.33.png)
 
 **Static libraries:** Are those pieces of code that are needed for the execution of the binaries.  (the .h)
 
 If an static library needs to be added it’s done during the linking. 
-![[Screenshot 2024-04-11 at 16.11.41.png]]
+![Screenshot 2024-04-11 at 16.11.41](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-11%20at%2016.11.41.png)
 
 # Dynamic and static libraries: 
 **Static libraries:** Are those pieces of code that are needed for the execution of the binaries.  (the .h)
@@ -307,4 +307,4 @@ The drawback of static libraries is that code could potentially be duplicated, w
 Dynamic libraries are loaded in memory and executed **at runtime**, the functions from those libraries may be shared by multiple processes
 
 Example of how a dynamic library would be loaded.
-![[Screenshot 2024-04-11 at 16.15.38.png]]
+![Screenshot 2024-04-11 at 16.15.38](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-11%20at%2016.15.38.png)

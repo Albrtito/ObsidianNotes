@@ -4,7 +4,7 @@ aliases:
 tags:
   - SoftwareDev
 "References:":
-  - "[[SoftwareDev_Resources_GE3_Statement.pdf]]"
+  - "[SoftwareDev_Resources_GE3_Statement](../00.References/SoftwareDev_Resources_GE3_Statement.pdf)"
 cssclasses:
 ---
 # Intro: 
@@ -52,7 +52,7 @@ Search in [google scholar](https://scholar.google.com) for an article related to
 # Step 5: Task to do
 - [x] Create a git repo. Name it GXX.2024.TYY.EG3
 - [x] Clone the project and include the code and folders structure in AulaGlobal
-- [ ] Apply the refactoring in [[#2.1 Refactoring cases]] . Detect where to apply and apply. 
+- [ ] Apply the refactoring in [#2.1 Refactoring cases](#2.1%20Refactoring%20cases) . Detect where to apply and apply. 
 - [ ] Make the code comply with PEP8 using pylint tool.
 - [ ] Include the word document with the selected Publications
 - [ ] Upload the refactored and redesigned code. Along with the test and reports generated before the last commit (xml format)
@@ -88,5 +88,5 @@ The code is in the slides, everything is in the slides. Applying refactoring tec
 + For some unittest we’ll have to change the calls to the classes: First update the test, then after it fails, change the classes.
 + 
 
-+ [[20240411 - 173829 - Refactoring Presentation|Refactoring Presentation]]
++ [Refactoring Presentation](20240411%20-%20173829%20-%20Refactoring%20Presentation)
 + 

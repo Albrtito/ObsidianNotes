@@ -10,7 +10,7 @@ sr-ease: 225
 ---
 
 > [!NOTE]  Generalisation
-> Based on the [[Theorem 110 Solution of a homogeneous Fibonacci-type recurrence relation]] we now know that or solving an order two recurrence relation we can transform it into a polynomial of degree 2. This concept can be generalised
+> Based on the [Theorem 110 Solution of a homogeneous Fibonacci-type recurrence relation](Theorem%20110%20Solution%20of%20a%20homogeneous%20Fibonacci-type%20recurrence%20relation.md) we now know that or solving an order two recurrence relation we can transform it into a polynomial of degree 2. This concept can be generalised
 > For any order homogeneous recurrence with constant coefficients, the relation can be transformed into a polynomial of degree k (order of the relation) starting from the first term that appears (the lowest n-i). This term will be transformed into x to the power of 0. From that point, following terms each get transform to the following power of x. 
 > But what happens now with the **repeated roots**? Same thing it happened before but for each group of repeated roots we do the following. 
 > + If the root $x_i$ is simple: $a_n ^î = K_ix_i^n

@@ -12,7 +12,7 @@ aliases:
 ---
 
 # Intro: 
-[[Propositional logic]] is really useful if there are only minimal unit (atomic) propositions. However reality does not work that way. In order to detail reality in a more accurate way we use predicate logic. 
+[Propositional logic](Propositional%20logic) is really useful if there are only minimal unit (atomic) propositions. However reality does not work that way. In order to detail reality in a more accurate way we use predicate logic. 
 
 Predicate logic divides between **what is said: PREDICATE** and **about whom is said: SUBJECT OR TERM** . This way a predicate can be associated to one or more subjects.
 
@@ -53,27 +53,27 @@ $$
 	\exists x P(x,b,c)
 $$
 ### Syntactically correct formulas: 
-![[Screenshot 2024-04-09 at 12.58.02.png]]
+![Screenshot 2024-04-09 at 12.58.02](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-09%20at%2012.58.02.png)
 ### Connectives
-Same connectives as in [[Propositional logic]] are defined. Their hierarchy is also maintained.
+Same connectives as in [Propositional logic](Propositional%20logic) are defined. Their hierarchy is also maintained.
 
 ## Axioms: 
-![[Screenshot 2024-04-09 at 12.56.05.png]]
+![Screenshot 2024-04-09 at 12.56.05](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-09%20at%2012.56.05.png)
 
 
 ---
 
 # Solving:
-+ [[Construction of formulas]]
-+ [[Negation with existential vs universal]]
++ [Construction of formulas](Construction%20of%20formulas.md)
++ [Negation with existential vs universal](Negation%20with%20existential%20vs%20universal.md)
 ## Proof theory in predicarte calculus:
 As in propositional calculus, there is a way of using the axioms and rules in order to solve and validate logic expressions. This “way” is defined by **proof theory** and it’s application to predicate calculus. 
 
-See the following note for the whole theory explanation: [[20240409 - 121336 -Proof Theory in Predicate Calculus| Proof theory in predicate calculus]]
+See the following note for the whole theory explanation: [ Proof theory in predicate calculus](20240409%20-%20121336%20-Proof%20Theory%20in%20Predicate%20Calculus.md)
 
 ## Semantic theory:
 Semantic theory defines another method for deducing whether a formula is valid or not by the usage of truth tables and counterexamples. 
 See the following for the whole theory explanation: 
-[[20240411 - 110836 -Semantic theory in Predicates|Semantic theory in Predicates]]
+[Semantic theory in Predicates](20240411%20-%20110836%20-Semantic%20theory%20in%20Predicates.md)
 
 

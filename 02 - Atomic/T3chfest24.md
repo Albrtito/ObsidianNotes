@@ -4,4 +4,4 @@ tags: []
 "References:":
 ---
 ###  Charlas: 
-+ [[Quantum Games]]
++ [Quantum Games](Quantum%20Games.md)

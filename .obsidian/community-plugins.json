@@ -19,5 +19,6 @@
   "dataview",
   "obsidian-charts",
   "obsidian-style-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-link-converter"
 ]

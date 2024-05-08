@@ -4,12 +4,12 @@ tags:
   - review
   - Calc
 "References:":
-  - "[[Calc_Theory_All.pdf]]"
+  - "[Calc_Theory_All](../00.References/Calc_Theory_All.pdf)"
 sr-due: 2024-05-25
 sr-interval: 53
 sr-ease: 290
 ---
-This note explains two different concepts [[Sequences of real numbers]] and [[Series of real numbers]] that are related in in the following way: 
+This note explains two different concepts [Sequences of real numbers](Sequences%20of%20real%20numbers.md) and [Series of real numbers](Series%20of%20real%20numbers) that are related in in the following way: 
 
 **A sequence of real numbers is represented as a list** of real numbers computed based on some natural number n. A valid example would be: 
 $$
@@ -26,5 +26,5 @@ $$
 
 When studying sequences and series we'll try to find if they are decreasing, increasing, what values do they take at infinity...
 
-+ [[Sequences of real numbers]]
-+ [[Series of real numbers]]
++ [Sequences of real numbers](Sequences%20of%20real%20numbers.md)
++ [Series of real numbers](Series%20of%20real%20numbers)

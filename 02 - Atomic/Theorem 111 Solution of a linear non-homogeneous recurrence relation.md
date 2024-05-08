@@ -21,7 +21,7 @@ Of course for this course (#Discrete ) we'll always work with **constant coeffic
 >+ $t_n$ is a function  or n taking natural numbers and outputting real numbers
 >
 >**General Solution:**
->The solution for this recurrence will be the sum of the solution for the homogeneous part of the recurrence. (see [[Theorem 109 Solution of a homogeneous first-order recurrence relation]]) plus the solution for any particular solution of the full recurrence. **The key (the only harder part) is finding the particular solution**
+>The solution for this recurrence will be the sum of the solution for the homogeneous part of the recurrence. (see [Theorem 109 Solution of a homogeneous first-order recurrence relation](Theorem%20109%20Solution%20of%20a%20homogeneous%20first-order%20recurrence%20relation.md)) plus the solution for any particular solution of the full recurrence. **The key (the only harder part) is finding the particular solution**
 >$$
 >a_n =a_n^h + a_n^p 
 >$$

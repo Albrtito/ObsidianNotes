@@ -46,7 +46,7 @@ Poner las cosas de mas actual a menos actual a menos de que uno de ellos sea má
 
 ### Método DAFO
 + Para hacer un estudio respecto a como tiene q ser el curriculum para dicha oferta. 
-![[Pasted image 20240207101002.png]]
+![Pasted image 20240207101002](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240207101002.png)
 
 # Como hago un curriculum: 
 + En la parte de arriba siempre lo que más importe. Lo más visible tiene que ser lo que más les importe
@@ -55,9 +55,9 @@ Poner las cosas de mas actual a menos actual a menos de que uno de ellos sea má
 + Utilizar las palabras claves de la oferta en tu CV. Esos mismos conceptos claves tienen que estar : En gran parte para la parte de IA
 + Referencias que podamos poner en el curriculum siempre son buenas. 
 ## Formatos: 
-![[Pasted image 20240207104407.png]]
+![Pasted image 20240207104407](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240207104407.png)
 
 # Video curriculum: 
-![[Pasted image 20240207105046.png]]
+![Pasted image 20240207105046](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240207105046.png)
 ### Summary
 Highlight ==what’s important!==

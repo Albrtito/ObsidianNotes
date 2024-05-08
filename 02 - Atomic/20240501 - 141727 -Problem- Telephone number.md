@@ -9,7 +9,7 @@ cssclasses:
 ---
 The telephone number problem solves the **ways that persons can be connected through person to person phone calls in a net of n persons**. This is the same as solving the number of matchings on the complete graph of degree n. 
 
-+ To see the number of [[20240501 - 140204 - Perfect matchings on complete graphs|Perfect matchings on complete graphs]].
++ To see the number of [Perfect matchings on complete graphs](20240501%20-%20140204%20-%20Perfect%20matchings%20on%20complete%20graphs.md).
 ## Recurrence: 
 The telephone number problem satisfies: 
 $$

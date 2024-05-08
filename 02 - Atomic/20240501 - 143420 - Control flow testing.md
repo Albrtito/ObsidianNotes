@@ -21,7 +21,7 @@ Analysis of the graphs define the test cases.
 #### Drawing the graphs: 
 Easy: Everything is a circle, specify conditions inside of them. If some node represents an if write if inside of the circle. Two or more paths will branch from the node. 
 **Example:**
-	![[Control Flow Graph Example.png]]
+	![Control Flow Graph Example](../99%20-%20Meta/0.%20Attachments/Control%20Flow%20Graph%20Example.png)
 ### Coverage levels
 Coverage is defined as the percentage of the code that has been tested. Following levels are defined from less coverage (level 0) to max coverage( level 3)
 1. **Level 0:**  Below 100% coverage. Test something, but not all of it

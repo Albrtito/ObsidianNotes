@@ -14,5 +14,5 @@ mysql -u root -p
 + After this enter the password that was created in setup
 
 ## Commands: 
-[[Create and select a database]]
-[[Creating and deleting Tables]] : The main difference is in the type of values it can take. Check the names for variable type
+[Create and select a database](Create%20and%20select%20a%20database.md)
+[Creating and deleting Tables](Creating%20and%20deleting%20Tables.md) : The main difference is in the type of values it can take. Check the names for variable type

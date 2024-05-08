@@ -11,7 +11,7 @@ sr-ease: 330
 ****
 
 
-> [!NOTE] Definition 6: [[Boundedness]]
+> [!NOTE] Definition 6: [Boundedness](Boundedness.md)
 > 
 > 
 

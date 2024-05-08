@@ -4,7 +4,7 @@ Tags:
 
 ---
 + Learn some vim first
-An upgrade to [[vim]], could be used like an IDE once the IDE's are really controlled and there's no problem working with them. 
+An upgrade to [vim](vim), could be used like an IDE once the IDE's are really controlled and there's no problem working with them. 
 
 Initially install packages for neoVim, then go to use some other things like nvchad
 

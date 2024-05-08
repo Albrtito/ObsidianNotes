@@ -13,7 +13,7 @@ sr-ease: 248
 ---
 # Def:
 
-The congruent relation is defined as an [[Equivalence relations]].Where two elements are related if they are congruent: 
+The congruent relation is defined as an [Equivalence relations](Equivalence%20relations.md).Where two elements are related if they are congruent: 
 
 > [!NOTE] Congruent relation
 > Two elements a and b are **congruent modulo m** if m | (a-b). This relation is denoted as: 

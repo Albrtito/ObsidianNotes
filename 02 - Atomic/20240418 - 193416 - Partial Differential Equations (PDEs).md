@@ -17,7 +17,7 @@ The partial differential equations involve functions(solutions) depending on 2 (
 	f.e: $u(x,t)$
 
 + This equations are usually really difficult to solve analytically, they are usually solved using numerical approaches. 
-+ For the differential calculus course we’ll use only one method to solve few examples. ([[20240418 - 193802 - Method - Separation of variables|Separation of variables in solving PDEs]])
++ For the differential calculus course we’ll use only one method to solve few examples. ([Separation of variables in solving PDEs](20240418%20-%20193802%20-%20Method%20-%20Separation%20of%20variables.md))
 + The course will discuss three different examples/models
 	+ Heat EQ.
 	+ Wave EQ.

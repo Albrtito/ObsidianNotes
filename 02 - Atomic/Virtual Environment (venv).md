@@ -19,4 +19,4 @@ Is like having the whole python in one single folder. When building a project th
 	+ Config files 
 
 # Moving between machines: 
-Using [[pip freeze]]
+Using [pip freeze](pip%20freeze)

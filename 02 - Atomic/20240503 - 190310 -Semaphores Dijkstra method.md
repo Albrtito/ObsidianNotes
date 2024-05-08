@@ -39,12 +39,12 @@ f.e: If there are 4 processes, all require the same resource.
 
 ## Things to have in mind when implementing semaphores:
 
-+ Always follow a known pattern/algorithm that works before doing it yourself: Such as [[Algorithm - Producer-Consumer problem]] or [[Algorithm - Readers-Writers problem]]
++ Always follow a known pattern/algorithm that works before doing it yourself: Such as [Algorithm - Producer-Consumer problem](Algorithm%20-%20Producer-Consumer%20problem.md) or [Algorithm - Readers-Writers problem](Algorithm%20-%20Readers-Writers%20problem.md)
 
 + Semaphores are known for causing problems, if you deviate from the basic algorithms be reaaaly careful.
 	+ Is an example of somethings simple that should work but doesn't.There are usually problems ur not seeing
 
-+ Most of the problems can be done with the two models described below: [[Algorithm - Producer-Consumer problem]] and [[Algorithm - Readers-Writers problem]]
++ Most of the problems can be done with the two models described below: [Algorithm - Producer-Consumer problem](Algorithm%20-%20Producer-Consumer%20problem.md) and [Algorithm - Readers-Writers problem](Algorithm%20-%20Readers-Writers%20problem.md)
 
 ## Basic usage and implementation:
 ### Initialisation: 
@@ -98,4 +98,4 @@ We’ll use the semaphore library of c. However how would it look if we wanted t
 
 
 ## POSIX: 
-![[20240504 - 164653 - POSIX - Semaphores|POSIX - Semaphores]]
+![POSIX - Semaphores](20240504%20-%20164653%20-%20POSIX%20-%20Semaphores.md)

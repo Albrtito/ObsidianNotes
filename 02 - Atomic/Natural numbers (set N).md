@@ -13,9 +13,9 @@ $$
 
 **Remarks:**
 + By convention $0! =1$ 
-In  [[ElementaryCombinatorics]] the factorial is used to compute permutations.
+In  [ElementaryCombinatorics](ElementaryCombinatorics.md) the factorial is used to compute permutations.
 
 > [!NOTE] Definition 2: Binomial coefficient 
->![[Binomial coefficients]]
+>![Binomial coefficients](Binomial%20coefficients.md)
 + Useful when computing unordered subsets
 

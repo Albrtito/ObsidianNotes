@@ -1,11 +1,11 @@
-![[Pasted image 20240205120348.png]]
+![Pasted image 20240205120348](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240205120348.png)
 
 # Properties: 
-+ Symmetric due to the  nature of [[Binomial coefficients]] and their computation. 
++ Symmetric due to the  nature of [Binomial coefficients](Binomial%20coefficients.md) and their computation. 
 $$
 \binom {n}{r} = \binom{n}{n-r}
 $$
-+ Also related with [[Newton's Binomial Theorem]]
++ Also related with [Newton's Binomial Theorem](Newton's%20Binomial%20Theorem.md)
 +
 $$
 

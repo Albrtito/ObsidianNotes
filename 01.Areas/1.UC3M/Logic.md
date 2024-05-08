@@ -3,25 +3,25 @@ aliases:
 tags:
   - Logic
 "References:":
-  - "[[Logic_Resource_Theorems and Derived Rules Combined.pdf]]"
+  - "[Logic_Resource_Theorems and Derived Rules Combined](../../00.References/Logic_Resource_Theorems%20and%20Derived%20Rules%20Combined.pdf)"
 cssclasses: 
 ---
 # Intro to the course: 
-![[Logic_Theory_Ch 0_Intro]]
+![Logic_Theory_Ch 0_Intro](../../02%20-%20Atomic/Logic_Theory_Ch%200_Intro.md)
 # Course program: 
-+ [[Propositional logic]]
-+ [[Predicate Logic]]
-+ [[20240411 - 110543 -Semantic Theory|Semantic Theory]]
-+ [[20240501 - 154905 - Normal forms and resolution|Normal forms and resolution]] 
++ [Propositional logic](Propositional%20logic)
++ [Predicate Logic](../../02%20-%20Atomic/Predicate%20Logic.md)
++ [Semantic Theory](../../02%20-%20Atomic/20240411%20-%20110543%20-Semantic%20Theory.md)
++ [Normal forms and resolution](../../02%20-%20Atomic/20240501%20-%20154905%20-%20Normal%20forms%20and%20resolution.md) 
 
 ## Submission sets:
-[[Logic_Submission1&2]]
-[[Logic_Submission3.1]]
-[[Logic_Submission3.2]]
-[[Logic_Submission4]]
-[[20240409 - 115536 -Logic Set 5|Logic_Submission5]]
-[[20240418 - 150156 -Logic_Submission 6.1|Logic_Submission 6.1]]
-[[20240501 - 181254 -Logic_Submission 7|Logic_Submission 7]]
+[Logic_Submission1&2](../../02%20-%20Atomic/Logic_Submission1&2.md)
+[Logic_Submission3.1](../../02%20-%20Atomic/Logic_Submission3.1.md)
+[Logic_Submission3.2](../../02%20-%20Atomic/Logic_Submission3.2.md)
+[Logic_Submission4](../../02%20-%20Atomic/Logic_Submission4.md)
+[Logic_Submission5](../../02%20-%20Atomic/20240409%20-%20115536%20-Logic%20Set%205.md)
+[Logic_Submission 6.1](../../02%20-%20Atomic/20240418%20-%20150156%20-Logic_Submission%206.1.md)
+[Logic_Submission 7](../../02%20-%20Atomic/20240501%20-%20181254%20-Logic_Submission%207.md)
 
 
 

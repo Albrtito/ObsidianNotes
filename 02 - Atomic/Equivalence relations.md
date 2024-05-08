@@ -15,16 +15,16 @@ sr-ease: 232
 > An relation R is an **equivalence relation**: 
 > IF: It is reflexive, symmetric and transitive
 > This means that it complies with the properties of: 
-> + [[20240415 - 123134 - Transitivity property|Transitivity]]
-> + [[20240415 - 123138 - Symmetry property|Symmetry]]
-> + [[20240415 - 123128 - Reflexivity property|Reflexivity]]
+> + [Transitivity](20240415%20-%20123134%20-%20Transitivity%20property.md)
+> + [Symmetry](20240415%20-%20123138%20-%20Symmetry%20property.md)
+> + [Reflexivity](20240415%20-%20123128%20-%20Reflexivity%20property.md)
 
 **Remarks:**
 + If R is an equivalence relation such as aRb. This can be denoted.  
 $$
   a \equiv b (mod R)
 $$
-This is further studied in [[Integer and modular arithmetic]]
+This is further studied in [Integer and modular arithmetic](Integer%20and%20modular%20arithmetic)
 
 ## Theorem function - relation: 
 

@@ -26,7 +26,7 @@ Division of the architecture framing the databases structures through three leve
 **External level:** focused on users, view of the database. **External schema**. **data - users** : for users.
 
 ### Data model: 
-Creation of the data model is what describes the associations and structure of the data. This is what translates into the [[Relational Model]]
+Creation of the data model is what describes the associations and structure of the data. This is what translates into the [Relational Model](Relational%20Model.md)
 in the relational databases. 
 Data models have the static model: **Objects, associations and restrictions** 
 And the dynamic model: **Things that change over time**
@@ -36,12 +36,12 @@ Aside from the data model type there are always **restrictions, constrains** tha
 ## OLTP (On-Line Transaction Processing)
 Based on interactivity and on-line batching, this online processing and connection to a database called **transactions** needs to have some characteristics. 
 + **Atomicity** any operation must be or completed or not done
-+ **Consistence** the integrity is a really important part in a DB. When speaking about it in relational databases we talk about the [[Referential Integrity]]
++ **Consistence** the integrity is a really important part in a DB. When speaking about it in relational databases we talk about the [Referential Integrity](Referential%20Integrity.md)
 + **Isolation** operations must be independent
 + **Durability** once committed , the transaction effect is permanent.
 ## OLAP: (On-Line Analytic Processing)
 The next thing that appears is big data and managing efficiently the searches ,etc. This creates the analytic processing. 
-There are types of analytic processing: **ROLAP, MOLAP, HOLAP, WOLAP...** during this course we'll be talking and looking at [[ROLAP]]
+There are types of analytic processing: **ROLAP, MOLAP, HOLAP, WOLAP...** during this course we'll be talking and looking at [ROLAP](ROLAP)
 databases (relational databases) and MOLAP databases. 
 
 

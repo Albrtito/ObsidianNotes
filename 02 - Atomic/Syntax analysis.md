@@ -14,7 +14,7 @@ Syntax analysis is used for compilers and parsers that need to understand a lang
 + Used for **grammar like input data**
 + Reduces number of test cases
 + Identification of grammar done using system requirements
-+ Useful with [[20240501 - 123051 - Unit testing|Unit testing]] 
++ Useful with [Unit testing](20240501%20-%20123051%20-%20Unit%20testing.md) 
 + Not so useful with system testing
 + Not useful for acceptance testing
 

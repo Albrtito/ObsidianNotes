@@ -56,7 +56,7 @@ int z = 34;
 ```
 
 
-[[Pointers]]
+[Pointers](Pointers.md)
 
 ---
 ### Summary

@@ -32,7 +32,7 @@ $$
 There are several methods to obtain the chromatic polynomial: 
 + sf
 + **Contraction-Deletion theorem**
-	![[20240423 - 104039 - Theorem - Contraction-Deletion theorem|Contration Deletion theorem]]
+	![Contration Deletion theorem](20240423%20-%20104039%20-%20Theorem%20-%20Contraction-Deletion%20theorem.md)
 ### Theorems: 
 
 
@@ -55,17 +55,17 @@ There are several methods to obtain the chromatic polynomial:
 
 The polynomial will be computed as the quotient between the product of the polynomial of both parts divided by the polynomial of the complete graph, this one is easily computed as: 
 
-![[20240423 - 105604 - Chromatic poly of a complete graph|Chromatic polynomial of a complete graph]]
+![Chromatic polynomial of a complete graph](20240423%20-%20105604%20-%20Chromatic%20poly%20of%20a%20complete%20graph.md)
 
 **REMARKS:**
 When computing the chromatic polynomial, the first idea is to use the product principle. If one vertex has q possible colours, then the one adjacent will have q-1. And so on. However when problems with this method appear it’s when we start applying any other method (almost always there will be problems)
 ## Polys of some known graphs: 
 ### Tree graph:
-![[20240423 - 105748 - Chromatic poly of a tree graph|Chromatic poly of a tree graph]]
+![Chromatic poly of a tree graph](20240423%20-%20105748%20-%20Chromatic%20poly%20of%20a%20tree%20graph.md)
 
 ### Cycle graph: 
-![[20240423 - 121056 - Chromatic poly of a cycle graph.#^7039f1]]
+![](20240423%20-%20121056%20-%20Chromatic%20poly%20of%20a%20cycle%20graph..md#^7039f1)
 
 ### Wheel graph: 
-![[20240423 - 131817 - Chromatic poly of a wheel graph#^FinalSol]]
+![](20240423%20-%20131817%20-%20Chromatic%20poly%20of%20a%20wheel%20graph.md#^FinalSol)
 ## Solved problems: 

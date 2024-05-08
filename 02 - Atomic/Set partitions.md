@@ -1,4 +1,4 @@
-[[Distributions]] with non identical elements: But nothing about sets is ever a distribution (cause their subsets **have non-identical elements**)
+[Distributions](Distributions.md) with non identical elements: But nothing about sets is ever a distribution (cause their subsets **have non-identical elements**)
 
 > [!NOTE] Partition
 > For a set S we can create a partition of the set by cutting the set into subsets such as each subset $\{S_i\}_{i=1}^k$  complies with the following properties: 

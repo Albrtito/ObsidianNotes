@@ -7,7 +7,7 @@ For any file certain permissions are set, this permissions can be of three types
 + (x) - Execute 
 	+ The execute permission let's the specified groups or users run the file. For directories, it is impossible to open a directory without the x permission over it. 
 
-In order to see the permissions that a file has we can simply use the [[ls]] command with the flag `-l` . 
+In order to see the permissions that a file has we can simply use the [ls](ls) command with the flag `-l` . 
 
 ```shell-session
 cry0l1t3@htb[/htb]$ ls -l
@@ -34,6 +34,6 @@ cry0l1t3@htb[/htb]$ ls -l /etc/passwd
 ```
 
 ### Changing permissions and owners: 
-+ In order to change the permission types of a file use the [[chmod]] command. 
-+ In order to change the owner/s of a file use the [[chown]] command. 
++ In order to change the permission types of a file use the [chmod](chmod.md) command. 
++ In order to change the owner/s of a file use the [chown](chown) command. 
 + 

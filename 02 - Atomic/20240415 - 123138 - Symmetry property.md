@@ -21,4 +21,4 @@ sr-ease: 290
 + A relation is not symmetric if this does not comply. 
 
 
-**REMARK:** Careful not to confuse symmetry property to [[20240423 - 180447 - Property -Antisymmetry|Antisymmetry property]]
+**REMARK:** Careful not to confuse symmetry property to [Antisymmetry property](20240423%20-%20180447%20-%20Property%20-Antisymmetry.md)

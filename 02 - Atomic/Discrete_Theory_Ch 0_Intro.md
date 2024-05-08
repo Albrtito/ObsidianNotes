@@ -1,6 +1,6 @@
 Date: 2024-02-04
 Class: #Discrete
-References: [[Discrete_Theory_All.pdf]]  [[Discreta_Exercises_All_Solved.pdf]]
+References: [Discrete_Theory_All](../00.References/Discrete_Theory_All.pdf)  [Discreta_Exercises_All_Solved](../00.References/Discreta_Exercises_All_Solved.pdf)
 
 ---
 Teacher: 

@@ -1,4 +1,4 @@
 Tools to find specific files, directories, programs...
-+ [[Which]]
-+ [[Find]]
++ [Which](Which.md)
++ [Find](Find.md)
 + Locate

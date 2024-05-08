@@ -10,7 +10,7 @@ sr-ease: 150
 cssclasses: []
 ---
 # Intro: 
-The producer-consumer problem is a possible solution for the race conditions involving the [[20240503 - 190310 -Semaphores Dijkstra method]] **when the order of processes is importan**. Using semaphores is really tricky as it can easily not work. This is why sticking to algorithms such as this one is always a good idea.
+The producer-consumer problem is a possible solution for the race conditions involving the [20240503 - 190310 -Semaphores Dijkstra method](20240503%20-%20190310%20-Semaphores%20Dijkstra%20method.md) **when the order of processes is importan**. Using semaphores is really tricky as it can easily not work. This is why sticking to algorithms such as this one is always a good idea.
 
 This algorithm is based on a simple model: 
 

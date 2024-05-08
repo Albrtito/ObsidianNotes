@@ -7,14 +7,14 @@ tags:
 cssclasses:
 ---
 # Course presentation:
-Schedules, deadlines, percentages for exams and lab-works.. ![[OS_Theory_Ch_0_Presentation]]
+Schedules, deadlines, percentages for exams and lab-works.. ![OS_Theory_Ch_0_Presentation](../../02%20-%20Atomic/OS_Theory_Ch_0_Presentation.md)
 
 # Course Sylabus: 
-[[OS_THeory_Ch1_Concepts&Services]]
-+ [[20240411 - 131522 -Processes and threads|Processes and threads]]
-+ [[Concurrency and synchronisation|Process Concurrency and synchronisation]]
+[OS_THeory_Ch1_Concepts&Services](../../02%20-%20Atomic/OS_THeory_Ch1_Concepts&Services.md)
++ [Processes and threads](../../02%20-%20Atomic/20240411%20-%20131522%20-Processes%20and%20threads.md)
++ [Process Concurrency and synchronisation](../../02%20-%20Atomic/Concurrency%20and%20synchronisation.md)
 + 
 # Exercises:
-[[OS_Exercises_W1_IntroToC]]
+[OS_Exercises_W1_IntroToC](../../02%20-%20Atomic/OS_Exercises_W1_IntroToC.md)
 
 

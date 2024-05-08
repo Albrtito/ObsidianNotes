@@ -26,7 +26,7 @@ Then there's a general solution for the ODE of the form:
 $$
 y(t) = c_1y_1(t)+ c_2y_2(t)
 $$
-Finally, the [[Initial value problem]] can be used to obtain the values of C1 and C2 given some values of y and it's derivative
+Finally, the [Initial value problem](Initial%20value%20problem) can be used to obtain the values of C1 and C2 given some values of y and it's derivative
 **REMARK:** This determinant is called the WRONKSKIAN of those solutions based on who invented it. 
 
 
@@ -36,7 +36,7 @@ $$
 C_1y''+ C_2y'+C_3(t)y = 0
 $$
 
-+ When solving this type of equations normally it's asked to solve the [[Initial value problem]] and obtain a concrete solution to it. 
++ When solving this type of equations normally it's asked to solve the [Initial value problem](Initial%20value%20problem) and obtain a concrete solution to it. 
 #### Solving: 
 The objective is to find two solutions to the equations as the general solution will be the sum of those. 
 The easy thing about constant coefficients is the solution is to **just compute the solutions of the following second degree equation:** 

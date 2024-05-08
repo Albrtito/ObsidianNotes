@@ -5,7 +5,7 @@ sr-due: 2024-05-28
 sr-interval: 56
 sr-ease: 286
 ---
-For this period I'll follow the  General, specific and operative objectives strategy. I'll divide the period in two. From march to July (une included as there are a few exams taking place in those dates) and July to September (the summer season). To keep track of the set objectives the [[dailyNote]] template will be updated with all the task extracted in the operative objectives. 
+For this period I'll follow the  General, specific and operative objectives strategy. I'll divide the period in two. From march to July (une included as there are a few exams taking place in those dates) and July to September (the summer season). To keep track of the set objectives the [dailyNote](../99%20-%20Meta/1.%20Templates/dailyNote.md) template will be updated with all the task extracted in the operative objectives. 
 This note will be reviewed periodically to modify any objectives and check that the chosen strategy is working. #review 
 # General objectives: 
 ## 1. Use of RRSS and online learning resources

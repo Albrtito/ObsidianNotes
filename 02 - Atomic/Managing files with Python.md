@@ -19,7 +19,7 @@ open(file,mode = "", buffereing = -1, encoding = None, errors = None, newline = 
 ```
 
 The possible **modes** in order to open are: 
-![[Pasted image 20240331165059.png]]
+![Pasted image 20240331165059](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240331165059.png)
 
 It is recommended to use the **with statement** this goes as the following: 
 
@@ -52,7 +52,7 @@ Using with statement makes the code cleaner  as with with statement **the file i
 # Types of files: 
 
 Python can manage a ton of filetypes, some of them: 
-## [[Json]]
+## [Json](Json.md)
  
 Json files are use to stored data in a serialise way. With python the conversion between python variables and the data in the Json files goes in the following way: 
 
@@ -60,7 +60,7 @@ Json files are use to stored data in a serialise way. With python the conversion
 
 #### Load: (Read)
 **json.load** : Deserialises the contests of a Json into a python object. According to this table. 
-![[Pasted image 20240331172145.png]]
+![Pasted image 20240331172145](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240331172145.png)
 
 Basic code learned in softwareDev to read: (Example)
 
@@ -83,7 +83,7 @@ except json.JSONDecodeError as ex:
 
 #### Dump(write)
 **json.dump** : Serialises the contents of a python object and converts it into a json formatted string according to this table: 
-![[Pasted image 20240331172158.png]]
+![Pasted image 20240331172158](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240331172158.png)
 
 The following code example can be used as reference: 
 ```python

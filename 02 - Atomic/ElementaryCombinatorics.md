@@ -1,7 +1,7 @@
 
 Date: 2024-02-05
 Class: #Discrete 
-References: [[Basic Set Operations]]
+References: [Basic Set Operations](Basic%20Set%20Operations.md)
 
 ---
 
@@ -79,7 +79,7 @@ n^r
 $$
 
 > [!NOTE] Subsets
-> + Using the [[Binomial coefficients]]
+> + Using the [Binomial coefficients](Binomial%20coefficients.md)
 > + **The order does not matter**
 > + " From n choose r": Choose pairs of r from a set of n elements
 >
@@ -87,7 +87,7 @@ $$
 $$
 \binom {n}{r} = {n!\over r!(n-r)!}
 $$
-The [[Pascal's triangle]] represents the number of possible subsets for different size's of sets. 
+The [Pascal's triangle](Pascal's%20triangle.md) represents the number of possible subsets for different size's of sets. 
 
 ## Cardinality of the power set: 
 
@@ -98,12 +98,12 @@ The [[Pascal's triangle]] represents the number of possible subsets for differen
 > $$
 >
 
-**Proof:** Sum all the possible subsets for each of the possible number of elements in the subset. Based on the [[Newton's Binomial Theorem]] when x = 1 and y = 1.
-## [[Inclusion exclusion principle]]
+**Proof:** Sum all the possible subsets for each of the possible number of elements in the subset. Based on the [Newton's Binomial Theorem](Newton's%20Binomial%20Theorem.md) when x = 1 and y = 1.
+## [Inclusion exclusion principle](Inclusion%20exclusion%20principle.md)
 + We'll se cases with 3 sets, a maximum of 4 in the worst case. 
-## [[Pigeonhole principle]]
+## [Pigeonhole principle](Pigeonhole%20principle.md)
 + Useful for problems
-## [[Distributions]]
+## [Distributions](Distributions.md)
 For a set of r distinct elements, division into r sets so that there are always those sets and elements but **the number of elements in each set varies** , compute possibilities. Applications in equations
-### [[Set partitions]]
+### [Set partitions](Set%20partitions.md)
 Given a set S, divide it into a certain number of partitions and compute the possible number of n partitions. The cardinality of those partitions is usually specified. 

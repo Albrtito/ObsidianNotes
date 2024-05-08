@@ -9,7 +9,7 @@ sr-interval: 65
 sr-ease: 294
 ---
 # Intro: 
-The set of real numbers is indicated by the letter R. This set is the union of the rational and irrational sets. R contains all numbers defined in [[Natural numbers (set N)]][[Integer numbers (set Z)]][[Rational and irrational numbers(set Q and I)]]. 
+The set of real numbers is indicated by the letter R. This set is the union of the rational and irrational sets. R contains all numbers defined in [Natural numbers (set N)](Natural%20numbers%20(set%20N).md)[Integer numbers (set Z)](Integer%20numbers%20(set%20Z).md)[Rational and irrational numbers(set Q and I)](Rational%20and%20irrational%20numbers(set%20Q%20and%20I).md). 
 
 + Real numbers can be represented as points in the real line. 
 + When representing real numbers the whole line is filled up with them. (continuous space)
@@ -17,8 +17,8 @@ The set of real numbers is indicated by the letter R. This set is the union of t
 # Properties: 
 ## 1.  R is a completely ordered set
 The set R increases. Given two real numbers either one is bigger than the other or they are equal.
-## 2. ![[Absolute value of x]]
-## 3. ![[Intervals]]
-## 4. ![[neighbourhoods]]
-## 5. ![[Subsets of  R, Bounds, Supremum, máximum, infimum, minimum]]
+## 2. ![Absolute value of x](Absolute%20value%20of%20x.md)
+## 3. ![Intervals](Intervals.md)
+## 4. ![neighbourhoods](neighbourhoods.md)
+## 5. ![Subsets of  R, Bounds, Supremum, máximum, infimum, minimum](Subsets%20of%20%20R,%20Bounds,%20Supremum,%20máximum,%20infimum,%20minimum.md)
 

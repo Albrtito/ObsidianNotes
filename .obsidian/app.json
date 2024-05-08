@@ -15,5 +15,6 @@
   "showLineNumber": true,
   "readableLineLength": true,
   "propertiesInDocument": "visible",
-  "spellcheck": true
+  "spellcheck": true,
+  "newLinkFormat": "relative"
 }

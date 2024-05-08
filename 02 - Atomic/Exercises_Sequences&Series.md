@@ -3,7 +3,7 @@ aliases:
 tags:
   - Calc
 "References:":
-  - "[[Sequences and series of real numbers]]"
+  - "[Sequences and series of real numbers](Sequences%20and%20series%20of%20real%20numbers.md)"
 DateCreated: 2024-04-05
 sr-due: 2024-04-11
 sr-interval: 3

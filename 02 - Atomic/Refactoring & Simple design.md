@@ -9,8 +9,8 @@ sr-interval: 4
 sr-ease: 270
 ---
 
-+ [[20240409 - 171554 - Refactoring|Refactoring]]
-+ [[20240409 - 181151 -Refactoring techniques in Pycharm|Pycharm refactoring]]
++ [Refactoring](20240409%20-%20171554%20-%20Refactoring.md)
++ [Pycharm refactoring](20240409%20-%20181151%20-Refactoring%20techniques%20in%20Pycharm.md)
 
 # Projects: 
-[[20240409 - 173243 - SofwareDev guided exercise 3|GE3]]
+[GE3](20240409%20-%20173243%20-%20SofwareDev%20guided%20exercise%203.md)

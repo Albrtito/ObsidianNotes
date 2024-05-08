@@ -9,7 +9,7 @@ cssclasses: []
 ---
 # Semantic theory in propositional calculus.
 
-This note presents information about how the semantic theory can be applied specifically to [[Propositional logic]]. There is not really much to say besides what was explained in semantic theory. Here there is a more step by step solving guide.
+This note presents information about how the semantic theory can be applied specifically to [Propositional logic](Propositional%20logic). There is not really much to say besides what was explained in semantic theory. Here there is a more step by step solving guide.
 
 ## Solving: 
 In propositional calculus we’ll apply semantic theory to obtain whether a formula or a deduction is valid. 

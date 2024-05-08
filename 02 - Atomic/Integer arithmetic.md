@@ -19,7 +19,7 @@ cssclasses:
 ## Least common multiple
 
 ## Prime numbers: 
-![[20240429 - 111500 - Prime numbers|Prime numbers]]
+![Prime numbers](20240429%20-%20111500%20-%20Prime%20numbers.md)
 
 
 

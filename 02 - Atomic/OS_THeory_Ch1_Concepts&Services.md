@@ -4,7 +4,7 @@
 + Restriction of permissions and resources for use of the hardware
 + Running more than one program at the same time 
 + Most of the OS is interrupt driven. This means that most of the processes are actually handled by the interruption manager
-+ **Remember:**[[Computer Structure]] : 
++ **Remember:**[Computer Structure](Computer%20Structure) : 
 	+ A ECall is a type of interruption
 	+ Storage-Hierarchy: Where to look in case of a miss?
 + Manages data flow between the other storage units and the main memory

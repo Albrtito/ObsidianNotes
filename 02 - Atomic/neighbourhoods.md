@@ -20,4 +20,4 @@ E(x_0;\epsilon) =\{x \in R : |x-x_o| < \epsilon\} \\ \text{see figure below}
 \end {gathered}
 $$
 
-![[Pasted image 20240313214058.png]]
+![Pasted image 20240313214058](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240313214058.png)

@@ -44,16 +44,16 @@ $$
 
 
 **Remark: What if V = W?** 
-![[20240415 - 113458 - Binary relation on one set|Binary relation R on V]] ^420fb6
+![Binary relation R on V](20240415%20-%20113458%20-%20Binary%20relation%20on%20one%20set.md) ^420fb6
 ## Properties: 
 ### Reflexivity: 
-![[20240415 - 123128 - Reflexivity property|Reflexivity]]
+![Reflexivity](20240415%20-%20123128%20-%20Reflexivity%20property.md)
 ### Symmetry:
 
-![[20240415 - 123138 - Symmetry property|Symmetry]]
+![Symmetry](20240415%20-%20123138%20-%20Symmetry%20property.md)
 ### Antisymmetry:
 
-![[20240423 - 180447 - Property -Antisymmetry|Antisymmetry property]]
+![Antisymmetry property](20240423%20-%20180447%20-%20Property%20-Antisymmetry.md)
 
 ### Transitivity: 
-![[20240415 - 123134 - Transitivity property|Transitivity]]
+![Transitivity](20240415%20-%20123134%20-%20Transitivity%20property.md)

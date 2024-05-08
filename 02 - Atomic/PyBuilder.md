@@ -3,7 +3,7 @@ aliases:
 tags:
   - SoftwareDev
 "References:":
-  - "[[SoftwareDev_Resources_GE2_Presentation_PyBuild_Unittest.pdf]]"
+  - "[SoftwareDev_Resources_GE2_Presentation_PyBuild_Unittest](../00.References/SoftwareDev_Resources_GE2_Presentation_PyBuild_Unittest.pdf)"
   - https://pybuilder.io/documentation/tutorial
 DateCreated: 2024-03-31
 ---
@@ -11,7 +11,7 @@ DateCreated: 2024-03-31
 PyBuilder is an automation python tool to release code. 
 + Official tutorial and page in references. This guide has a lot of info that hasn't been described in this note. This is because the description is really well explained and I saw no need to summarise
 # Installation: 
-Installation is done through [[pip]]
+Installation is done through [pip](pip.md)
 ```zsh
 pip install pybuilder
 ```
@@ -20,7 +20,7 @@ Notice that during the installation the following folders must be added into the
 
 ==.pybuilder and target must be ignored in the .gitignore file==
 
-If using some requirements.txt update them using [[pip freeze]] so that pybuilder is stored. 
+If using some requirements.txt update them using [pip freeze](pip%20freeze) so that pybuilder is stored. 
 
 The default command for pybuilder actions is **pyb**
 # Config: 
@@ -50,7 +50,7 @@ Now in order to configure the pybuilder project we need to create the following 
 
 ### For PyCharm:
 Set it up such as src/main/python is sourced. 
-![[Pasted image 20240331153806.png]]
+![Pasted image 20240331153806](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240331153806.png)
 
 # Adding test files: 
 In order to add any test file remember that ==all tes files must have a name such as==

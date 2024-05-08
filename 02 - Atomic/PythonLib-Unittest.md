@@ -14,9 +14,9 @@ sr-ease: 252
 + Default testing tool in PyCharm
 
 # IDE's
-+ [[PyCharm Unittesting]]
++ [PyCharm Unittesting](PyCharm%20Unittesting.md)
 
 # Detecting and solving problems and challenges: 
 ## Time differences and testing time values: 
 When using some data the time values may not work with the system current time, this means that even though the data is correct, it is older or won't work on the current date. 
-By using the [[Freezegun]] library we can freeze time so that all methods that should output the current date and time output the one specified.
+By using the [Freezegun](Freezegun.md) library we can freeze time so that all methods that should output the current date and time output the one specified.

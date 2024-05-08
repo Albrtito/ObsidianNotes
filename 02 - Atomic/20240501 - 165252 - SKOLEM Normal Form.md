@@ -33,7 +33,7 @@ SKOLEM normal form is a formula structure key for several automatic proof proced
 
 ## Procedure to obtain SKOLEM NORMAL FORM (SNF)
 Given any formula A, it is possible to derive the SNF using:
-1. Get the [[20240501 - 161016 - PRENEX Normal form|PRENEX Normal form]] of A
+1. Get the [PRENEX Normal form](20240501%20-%20161016%20-%20PRENEX%20Normal%20form.md) of A
 
 for example: The PRENEX form: 
 $$

@@ -11,7 +11,7 @@ sr-ease: 261
 ---
 # Proof Theory in Predicate Calculus:
 ## Intro: 
-Once understood the concept of [[20240409 - 122243 -Proof theory|Logic proof theory]] we can say the following: 
+Once understood the concept of [Logic proof theory](20240409%20-%20122243%20-Proof%20theory.md) we can say the following: 
 
 In order to define a formal proof in Predicate theory we’ll need to identify: 
 1. **A: Alphabet** 
@@ -23,7 +23,7 @@ In order to define a formal proof in Predicate theory we’ll need to identify:
 4. **R: Inference rules**
 	What is legal to do with the SCF?
 	
-Most of these have already been defined in [[Predicate Logic]], however the Inference rules haven’t been previously defined: 
+Most of these have already been defined in [Predicate Logic](Predicate%20Logic.md), however the Inference rules haven’t been previously defined: 
 
 ## Inference rules in predicate logic (R):
 
@@ -137,7 +137,7 @@ $$
 ##### LIMITS: 
 This rule is usually used by introducing assumptions (as in propositional calculus)
 
-![[Screenshot 2024-04-09 at 14.08.46.png]]
+![Screenshot 2024-04-09 at 14.08.46](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-09%20at%2014.08.46.png)
 + The variable introduced cannot be used again in another E.S
 + To cancel the assumption B cannot have y as free variable. (Use E.G on it: Then get out some x)
 + To carry out step $A(y) \rightarrow B$, **y cannot be previously subject of U.G, don’t use U.G inside the assumption**
@@ -149,7 +149,7 @@ This rule is usually used by introducing assumptions (as in propositional calcul
 #### COMMON PITFALLS WITH E.S / U.G  :
 
 1. Assumption of E.S inside another E.S assumptions, variables to generalise to.
-   ![[Screenshot 2024-04-09 at 14.17.06.png]]
+   ![Screenshot 2024-04-09 at 14.17.06](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-09%20at%2014.17.06.png)
 	1. IF creating an E.S inside another E.S, it cannot be on the same variable as that variable might not be the same that satisfies both
 	2. Going out of the assumption, we cannot generalise y with an universal generalisation as it comes from E.S
 2. With universal specification, <u>the quantifier must affect the whole formula</u>: 

@@ -7,7 +7,7 @@ tags:
  There are two types: 
  
  **Simple:** The **implementation is where the restriction is set**, only  applied on **one relational element**
- + With respect to [[MySQL]] language the simple semantic restriction is applied when [[Creating and deleting Tables]].
+ + With respect to [MySQL](MySQL.md) language the simple semantic restriction is applied when [Creating and deleting Tables](Creating%20and%20deleting%20Tables.md).
 
 **Assertion:** A **general restriction** imposed in the whole DB. 
 + It concerns several relational elements.

@@ -18,12 +18,12 @@ The objective of normalising formulas is to reduce the complexity required to de
 
 
 ## The equivalence theorem: 
-![[20240501 - 155450 - Theorem - Equivalence theorem|The equivalence theorem]]
+![The equivalence theorem](20240501%20-%20155450%20-%20Theorem%20-%20Equivalence%20theorem.md)
 ## PRENEX Normal Form: 
-![[20240501 - 161016 - PRENEX Normal form|PRENEX Normal form]]
+![PRENEX Normal form](20240501%20-%20161016%20-%20PRENEX%20Normal%20form.md)
 ## SKOLEM Normal form: 
-![[20240501 - 165252 - SKOLEM Normal Form|SKOLEM Normal form]]
+![SKOLEM Normal form](20240501%20-%20165252%20-%20SKOLEM%20Normal%20Form.md)
 
 ## Resolution:
 (This part is not jet finished)
-![[20240501 - 171518 - Proof method Resolution|Resolution proof method]]
+![Resolution proof method](20240501%20-%20171518%20-%20Proof%20method%20Resolution.md)

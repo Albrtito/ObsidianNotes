@@ -49,6 +49,6 @@ is unsatisfiable.
 5. If the algorithm does not finish we cannot be sure that we have checked all possibilities, cannot conclude anything
 
 1. Join together all the premises and conclusion negated.
-2. Obtain the PRENEX equivalent: [[20240501 - 161016 - PRENEX Normal form|PRENEX Normal form]]
-3. Obtain SKOLEM equivalent: [[20240501 - 165252 - SKOLEM Normal Form|SKOLEM Normal form]]
+2. Obtain the PRENEX equivalent: [PRENEX Normal form](20240501%20-%20161016%20-%20PRENEX%20Normal%20form.md)
+3. Obtain SKOLEM equivalent: [SKOLEM Normal form](20240501%20-%20165252%20-%20SKOLEM%20Normal%20Form.md)
 4. Try to get an empty clause with variable substitution.

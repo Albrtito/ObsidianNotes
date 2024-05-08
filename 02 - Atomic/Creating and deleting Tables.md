@@ -7,7 +7,7 @@ tags:
 ### Before creating the table
  Have as little data as possible, ex: do not have age and birthdate
 
-When writing relations we need to note what is done to each relation on delete nd on update ([[Referential Integrity]])
+When writing relations we need to note what is done to each relation on delete nd on update ([Referential Integrity](Referential%20Integrity.md))
 **Convention**: 
 + Names always  go in singular, the table will contain courses. But it's name will be course.
 # Query:
@@ -22,7 +22,7 @@ CONSTRAINT ck_value CHECK(condition)
 );
 ```
 ### Restrictions: 
-Restrictions during the creation of tables are part of the simple [[Semantic restrictions]] . They take the form in the last part of the query. And are such as:
+Restrictions during the creation of tables are part of the simple [Semantic restrictions](Semantic%20restrictions.md) . They take the form in the last part of the query. And are such as:
 ```sql 
 CONSTRAINT ck_value CHECK(condition)
 CONSTRAINT ck_value CHECK(condition)	

@@ -4,7 +4,7 @@ References: [WeeklyPlan](https://aulaglobal.uc3m.es/pluginfile.php/6796548/mod_r
 
 ---
 
-+ **Collection of prev exams problems:**[[DiffCalc_Exercises_All_ExamExercises.pdf]]
++ **Collection of prev exams problems:**[DiffCalc_Exercises_All_ExamExercises](../00.References/DiffCalc_Exercises_All_ExamExercises.pdf)
 
 ## Assesment system: 
 + **Continuous:** 40%

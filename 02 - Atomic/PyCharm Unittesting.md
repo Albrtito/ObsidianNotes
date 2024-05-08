@@ -19,7 +19,7 @@ Unittest based classes must have the following structure:
 + Inheritance from the unittest.TestCase class
 + Use assertion methods defined in the unittest.TestCase, the following methods are given: 
 
-![[Pasted image 20240331145020.png]]
+![Pasted image 20240331145020](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240331145020.png)
 
 The structure for **each of the test classes** is the following: 
 This structure is an example. The importance lays in the assert and inheritance

@@ -1,6 +1,6 @@
 **NOT:** $K_n$ 
 
-+ is a [[Regular Graph]] 
++ is a [Regular Graph](Regular%20Graph) 
 	+ All vertices have the same degree
 + Every vertex is connected to every other vertex
 ### Properties: 

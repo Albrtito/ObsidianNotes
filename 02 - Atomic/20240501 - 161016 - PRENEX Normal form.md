@@ -33,7 +33,7 @@ The PRENEX formula can **always** be obtained.
 ## Method to obtain PRENEX NORMAL FORM (PNF):
 Given a formula A, we derive the PNF with the following steps:
 1. Eliminate connectives different to $\land, \lnot, \lor$
-	+ This is done using the formula 9. Implication with respect to disjunction of the [[Logic_Resource_Theorems and Derived Rules Combined.pdf|Theorems and rules]]. 
+	+ This is done using the formula 9. Implication with respect to disjunction of the [Theorems and rules](../00.References/Logic_Resource_Theorems%20and%20Derived%20Rules%20Combined.pdf). 
 	The theorem is:
 	
 	Considering:

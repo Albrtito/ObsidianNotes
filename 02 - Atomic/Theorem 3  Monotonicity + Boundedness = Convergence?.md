@@ -10,7 +10,7 @@ sr-ease: 270
 ---
 
 > [!NOTE] Theorem
-> Sometimes when looking at the [[Monotonicity of sequences]] and [[Boundedness of sequences]] we can obtain wether or not they are [[Convergence of sequences]]. 
+> Sometimes when looking at the [Monotonicity of sequences](Monotonicity%20of%20sequences.md) and [Boundedness of sequences](Boundedness%20of%20sequences.md) we can obtain wether or not they are [Convergence of sequences](Convergence%20of%20sequences.md). 
 > This cases are two and the following: 
 > 
 > 1. **Conditions:**

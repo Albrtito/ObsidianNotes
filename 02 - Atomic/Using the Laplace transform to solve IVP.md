@@ -4,8 +4,8 @@ tags:
   - review
   - DiffCalc
 "References:":
-  - "[[Initial value problem]]"
-  - "[[ODEs]]"
+  - "[Initial value problem](Initial%20value%20problem)"
+  - "[ODEs](ODEs.md)"
 sr-due: 2024-05-09
 sr-interval: 37
 sr-ease: 258
@@ -29,7 +29,7 @@ $y'' -y' -2y = 0, y(0) = 1, y'(0) = 0$
 $$
 \zeta\{y''-y'-2y\} = \zeta\{0\}
 $$
-Use 1st property of the [[The Laplace transform]]: **Linearity of the transform**
+Use 1st property of the [The Laplace transform](The%20Laplace%20transform.md): **Linearity of the transform**
 $$
 \zeta\{y''\} - \zeta\{y'\} - 2\zeta\{y\} = 0
 $$
@@ -54,7 +54,7 @@ $$
  + The bottom part is the characteristic equation
  + We **obtained the Laplace transform of the solution of the ODE.** Final step is to obtain the actual ODE solution. 
 
-Find y(t) wh0se Laplace transform is Y(s). In order to do so we'll use the [[Partial fractions Method]] 
+Find y(t) wh0se Laplace transform is Y(s). In order to do so we'll use the [Partial fractions Method](Partial%20fractions%20Method.md) 
 $$
 Y(s) = {1\over 3}{1\over s-2} + {2 \over 3}{1\over s+1}(k_1, k_2 \in R): k_1 = 1/3, k_2 = 2/3
 $$
@@ -84,7 +84,7 @@ $$
 $$
 Y(s) = {s^3 + 1\over s^2(s^2-2s+5)} 
 $$
-Using the [[Partial fractions Method]] we obtain: 
+Using the [Partial fractions Method](Partial%20fractions%20Method.md) we obtain: 
 $$
 Y(s) = \frac{A}{s} + \frac{B}{s^2}+ \frac {Cs + D}{s^2 - 2s + 5}
 $$
@@ -98,7 +98,7 @@ Then we get the following expression:
 $$
 Y(s) = \frac{2/25}{s} + \frac{1/5}{s^2}+ \frac {1}{25}\frac {23s -1}{s^2 - 2s + 5}
 $$
-**Note:** We use the following trick to manipulate all so that we can get an expression that appears in the table given in [[DiffCalc_Resources_Laplace_Transforms.pdf]]
+**Note:** We use the following trick to manipulate all so that we can get an expression that appears in the table given in [DiffCalc_Resources_Laplace_Transforms](../00.References/DiffCalc_Resources_Laplace_Transforms.pdf)
 $$
 \frac {23s -1} {(s-1)^2 + 4} = \frac {23(s -1) + 22} {(s-1)^2 + 4} = 23\frac {(s -1)} {(s-1)^2 + 4} + 11\frac{2}{(s-1)^2+4}
 $$
@@ -114,7 +114,7 @@ After these two examples we can say the following steps are used to compute IVP 
 4. Apply the initial conditions 
 5. Now u have obtained Y(s) = (some expression) here comes the difficult part
 6. Compute the **inverse Laplace transform** of Y(s) obtaining y(t). 
-	1. For this step use [[Partial fractions Method]] and the [[DiffCalc_Resources_Laplace_Transforms.pdf]] . We could also use the [[Convolution product]] of the function if we knew had the initial conditions in order to apply the convolution on Y(t)
+	1. For this step use [Partial fractions Method](Partial%20fractions%20Method.md) and the [DiffCalc_Resources_Laplace_Transforms](../00.References/DiffCalc_Resources_Laplace_Transforms.pdf) . We could also use the [Convolution product](Convolution%20product.md) of the function if we knew had the initial conditions in order to apply the convolution on Y(t)
 	3. This table contains most of the inverse transformations we'll use. However some tricks could be needed in order to obtain expressions that can be used with the table. 
 
 ## Remarks: What if we don't know the values at 0 but at another point $t0$ ?

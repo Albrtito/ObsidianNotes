@@ -12,6 +12,6 @@ Once known the concepts and ways of working of processes we can start to care ab
 
 ## Map of content:
 
-+ [[Concurrency]]: What happens when processes need access to the same resource? How can we establish an order between processes? 
-+ [[Server concurrency]]
-+ [[20240503 - 185543 - Process Synchronisation|Process Synchronisation]]
++ [Concurrency](Concurrency.md): What happens when processes need access to the same resource? How can we establish an order between processes? 
++ [Server concurrency](Server%20concurrency.md)
++ [Process Synchronisation](20240503%20-%20185543%20-%20Process%20Synchronisation.md)

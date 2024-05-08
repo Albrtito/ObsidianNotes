@@ -15,8 +15,8 @@ Differential equations appear everywhere. The thing is that most of the times th
 The diff equations that can be solved analytical are few, in most of the cases **numeric methods** are used with the help of some computing power.
 
 + Appear when it's **easier to describe change than absolute amounts**
-+ There are two types of diffEquations. [[ODEs]] (Ordinary differential equations) and [[PDEs]] (Partial differential equations)
-+ It is important to do a quick notice to [[The essentials of two variable calculus]]
++ There are two types of diffEquations. [ODEs](ODEs.md) (Ordinary differential equations) and [PDEs](PDEs) (Partial differential equations)
++ It is important to do a quick notice to [The essentials of two variable calculus](The%20essentials%20of%20two%20variable%20calculus.md)
 
 ### Some tips for solving all Diff Equations: 
 + **When <font color="#c00000">dividing by anything check for extra solutions</font> in the cases that were created in the division**

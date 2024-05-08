@@ -35,6 +35,6 @@ $$
 $$
 
 ## Types of pseudo-graphs: 
-+ [[Simple Graph]]: **No multiedges, no loops**
-+ [[Multigraphs]]: **Multiedges okay, no loops**
-+ [[Regular Graph]]: **All vertices must have the same degree**
++ [Simple Graph](Simple%20Graph.md): **No multiedges, no loops**
++ [Multigraphs](Multigraphs): **Multiedges okay, no loops**
++ [Regular Graph](Regular%20Graph): **All vertices must have the same degree**

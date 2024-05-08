@@ -17,7 +17,7 @@ Structural or white box testing focuses on the **internal structure of methods.*
 + Test **all paths**
 
 We care about whatever is in the box.
-![[Pasted image 20240501124251.png]]
+![Pasted image 20240501124251](../99%20-%20Meta/0.%20Attachments/Pasted%20image%2020240501124251.png)
 
 There are different techniques: 
 + **Control flow** : Look at the execution paths and create test for each of them. 
@@ -35,4 +35,4 @@ All these techniques are **applied during unit-testing**
  
 
 ## Types of white box testing: 
-+ [[20240501 - 143420 - Control flow testing|Control flow testing]]
++ [Control flow testing](20240501%20-%20143420%20-%20Control%20flow%20testing.md)

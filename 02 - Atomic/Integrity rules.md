@@ -2,7 +2,7 @@
 tags:
   - FilesAndDB
 ---
-Referential integrity rules are used to keep and maintain the [[Referential Integrity]]
+Referential integrity rules are used to keep and maintain the [Referential Integrity](Referential%20Integrity.md)
 
 This five rules state what to do when an association is going to be deleted or updated.
 

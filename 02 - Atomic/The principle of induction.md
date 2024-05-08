@@ -9,7 +9,7 @@ sr-interval: 45
 sr-ease: 270
 ---
 ### Conditions
-The principle of induction is a method used with [[Natural numbers (set N)]] in order to **prove** some property. 
+The principle of induction is a method used with [Natural numbers (set N)](Natural%20numbers%20(set%20N).md) in order to **prove** some property. 
 
 **CONDITIONS:**
 + The domain of the variables must be $\mathbb{N}$
@@ -30,4 +30,4 @@ All natural numbers satisfy the property P
 + We need to obtain step 3 using step 2. That's the way to do it
 + If 1 is not on the specified domain. Then get the smallest possible natural number
 ### Examples: 
-This property can be used to prove theorems such as [[Gauss sum theorem]]
+This property can be used to prove theorems such as [Gauss sum theorem](Gauss%20sum%20theorem.md)

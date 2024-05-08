@@ -13,7 +13,7 @@ This equations are of the type:
 $$
 a *x + b*y = c
 $$
-This equation has solutions if and only if gcd(a,b) | c. This can be better understood once read and understood the [[20240429 - 114501 - Bézout's Identity|Bézout's Identity]] that poofs that for d = gcd(a,b) then there exist some integer values for x and y such as: 
+This equation has solutions if and only if gcd(a,b) | c. This can be better understood once read and understood the [Bézout's Identity](20240429%20-%20114501%20-%20Bézout's%20Identity.md) that poofs that for d = gcd(a,b) then there exist some integer values for x and y such as: 
 $$
 ax + by = d
 $$

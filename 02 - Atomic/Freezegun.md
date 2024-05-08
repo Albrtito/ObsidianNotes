@@ -3,7 +3,7 @@ aliases:
 tags:
   - SoftwareDev
 "References:":
-  - "[[pip]]"
+  - "[pip](pip.md)"
   - https://pypi.org/project/freezegun/
 DateCreated: 2024-03-31
 ---

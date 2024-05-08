@@ -28,5 +28,5 @@ There's one part that is easier, the third condition. This is where the neighbou
 I'll ask for some tutoring sessions in the future for the rest of the definition. #Duda 
 
 **Remarks:**
-+ The definition of limit depends on the definition of [[neighbourhoods]]
++ The definition of limit depends on the definition of [neighbourhoods](neighbourhoods.md)
 + 

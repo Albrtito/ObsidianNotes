@@ -1,6 +1,6 @@
 Date: 2024-02-08
 Class: #DiffCalc 
-References: [[Integration tips&tricks]]
+References: [Integration tips&tricks](Integration%20tips&tricks.md)
 
 ---
 

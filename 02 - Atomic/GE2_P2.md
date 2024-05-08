@@ -18,7 +18,7 @@ For this second part the following will be developed:
 + Practice functional and structural testing techniques
 ## Goals: 
 **Define, automate and execute tests** In order to check if the components developed work correctly
-+ Automate the testing with [[PyBuilder]]
++ Automate the testing with [PyBuilder](PyBuilder.md)
 + Follow TDD (CREATE FIRST THE TEST, THEN THE CODE)
 
 # Function 2: Arrival at the hotel
@@ -52,10 +52,10 @@ Given an input: **guest_arrival(input_file):** with the path of the file
 Output the string of the room key or an exception
 
 ## Help and tips for this exercise: 
-+ Stored in [[SoftwareDev_Resources_GE2_Presentation_Hands-onLab.pdf]]
++ Stored in [SoftwareDev_Resources_GE2_Presentation_Hands-onLab](../00.References/SoftwareDev_Resources_GE2_Presentation_Hands-onLab.pdf)
 
 # Requirements: 
-Requirements are explained and detailed in the [[Kanban_GE2]] page. For each funcitonal requirement some inputs are defined. 
+Requirements are explained and detailed in the [Kanban_GE2](Kanban_GE2.md) page. For each funcitonal requirement some inputs are defined. 
 # To- Do: 
 1. Always use the github repo
 2. Configure the project with pybuilder

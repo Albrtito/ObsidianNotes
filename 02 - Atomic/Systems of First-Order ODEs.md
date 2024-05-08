@@ -171,7 +171,7 @@ By extracting the common term $e^{\lambda t}$ we get:
 $$
 \underline U\lambda = \underline{\underline A}\underline U
 $$
-The problem now is to find some values for lambda and for U such as the relation holds,this problem is the [[Eigenvalue problem]] seen in linear algebra. 
+The problem now is to find some values for lambda and for U such as the relation holds,this problem is the [Eigenvalue problem](Eigenvalue%20problem) seen in linear algebra. 
 
 (If u don’t get eigenvalues or have forgotten them take a quick break to revisit. Go back to see how nice algebra and all first course courses where.)
 
@@ -181,7 +181,7 @@ Based on the solution of the eigenvalue problem we know that:
 + We’ll note eigenvalues as: $\lambda _j$ 
 + We’ll note eigenvectors as: $\Phi _j$ 
 
-**THEN:** The [[Principle of Superposition]] states that the general solution of the equation is the following linear combination: 
+**THEN:** The [Principle of Superposition](Principle%20of%20Superposition) states that the general solution of the equation is the following linear combination: 
 $$
 \underline u (t) = \sum ^n _{j=1}c_je^{\lambda _j t}\underline\Phi _j
 $$
@@ -196,7 +196,7 @@ where:
 
 + we'll use the **principle of superposition.** As we have already done during the course. A linear combination of the solutions obtained is also a solution for the ODE.
 
-![[Theorem syst,first order, linear ODE]]
+![Theorem syst,first order, linear ODE](Theorem%20syst,first%20order,%20linear%20ODE.md)
 
 # Cases: 
 ## Case with constant coefficients. 

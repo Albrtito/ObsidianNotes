@@ -1,5 +1,5 @@
  A graph is bipartite if it can be divided into two disjoint subsets such as every edge in the graph connects a vertex in one of the subsets with a vertex in the other one. 
- A concrete case of the bipartite graph is the [[Complete bipartite graph]], where **all the vertices in one of the subsets are connected to all the ones in the other one**
+ A concrete case of the bipartite graph is the [Complete bipartite graph](Complete%20bipartite%20graph), where **all the vertices in one of the subsets are connected to all the ones in the other one**
  
  **Example:**
  This graph is bipartite: $V_1 = A,D; V_2 = B,C$ 
@@ -15,5 +15,5 @@ D:::red<-->B
 ```
 
 ### Properties: 
-+ For [[Cycle graph]]s there need to be **an even number of vertices** in order for it to be bipartite.
++ For [Cycle graph](Cycle%20graph)s there need to be **an even number of vertices** in order for it to be bipartite.
 + Vertices can be disconnected and the graph would still be bipartite, only need to separe into the two teams

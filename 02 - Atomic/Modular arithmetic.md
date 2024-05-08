@@ -24,7 +24,7 @@ $$
 $$
 Given this definition we can define **congruent relations** 
 # Congruent relation: 
-![[20240429 - 121006 - Congruent relation|Congruent relation]]
+![Congruent relation](20240429%20-%20121006%20-%20Congruent%20relation.md)
 
 # Operating with modular arithmetic.
 The congruent relation makes it so the operations we are used to for regular mathematics change. 
@@ -70,7 +70,7 @@ and
 $a\equiv b mod m$
 
 # Linear congruence equations: 
-Linear congruence equations are a way of proposing the [[20240429 - 113931 - Linear Diophantine equations|Linear Diophantine equations]]. For this type of equations we ask whether there is a number x such as if multiplied by a the following relation would comply.  
+Linear congruence equations are a way of proposing the [Linear Diophantine equations](20240429%20-%20113931%20-%20Linear%20Diophantine%20equations.md). For this type of equations we ask whether there is a number x such as if multiplied by a the following relation would comply.  
 $$
 a \cdot x \equiv b \mod m 
 $$

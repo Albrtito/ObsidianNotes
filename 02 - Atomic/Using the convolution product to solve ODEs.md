@@ -8,9 +8,9 @@ sr-due: 2024-05-11
 sr-interval: 39
 sr-ease: 230
 ---
-How is the [[Convolution product]] used to solve ODEs?
-+ We are given an [[Initial value problem]] 
-+ The final function Y(s) is a product (or maybe has a term that's a product) of two transformed functions from which we know their initial functions (see [[#Practice cases]])
+How is the [Convolution product](Convolution%20product.md) used to solve ODEs?
++ We are given an [Initial value problem](Initial%20value%20problem) 
++ The final function Y(s) is a product (or maybe has a term that's a product) of two transformed functions from which we know their initial functions (see [#Practice cases](#Practice%20cases))
 # Practice cases: 
 ## Example 1: 
 For the following ODE, find the value of y using the convolution product. 
@@ -24,7 +24,7 @@ After solving for Y(s) = $\zeta\{y(t)\}$  and for G(t) = $\zeta\{g(t)\}$we get:
 $$
 Y(s) = \frac{3s -1}{s^2 + 4} + \frac{G(s)}{s^2 + 4}
 $$
-Because the transformation we know by the table [[DiffCalc_Resources_Laplace_Transforms.pdf]] needs a to be squared below and non squared above we do the following: 
+Because the transformation we know by the table [DiffCalc_Resources_Laplace_Transforms](../00.References/DiffCalc_Resources_Laplace_Transforms.pdf) needs a to be squared below and non squared above we do the following: 
 $$
 Y(s) = \frac{3s -1}{s^2 + 4} + \frac{2}{2(s^2 + 4)}G(s)
 $$

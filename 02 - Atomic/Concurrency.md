@@ -37,13 +37,13 @@ This is **way harder** than independent concurrency as managing the interaction 
 
 ### Interactions between processes: 
 + Shared resource
-	Both processes use the same data or compete for that data. Competing for the data happens in a [[Race condition]]
+	Both processes use the same data or compete for that data. Competing for the data happens in a [Race condition](Race%20condition.md)
 + Communication 
 	Shared global variables or some messaging between processes
 + Synchronisation: 
-	A process having to wait for events in other processes. This is using resources until the other process ends. In order to ensure synchronisation the [[20240503 - 190310 -Semaphores Dijkstra method]] is used
+	A process having to wait for events in other processes. This is using resources until the other process ends. In order to ensure synchronisation the [20240503 - 190310 -Semaphores Dijkstra method](20240503%20-%20190310%20-Semaphores%20Dijkstra%20method.md) is used
 
 # Algorithms to solve problems. 
 Based on all explained for this chapter two possible algorithms appear in order to solve process concurrence. This algorithms are explained from the point of view of the problem they are created to solve. 
-+ [[Algorithm - Producer-Consumer problem]]
-+ [[Algorithm - Readers-Writers problem]]
++ [Algorithm - Producer-Consumer problem](Algorithm%20-%20Producer-Consumer%20problem.md)
++ [Algorithm - Readers-Writers problem](Algorithm%20-%20Readers-Writers%20problem.md)

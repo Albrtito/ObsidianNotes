@@ -27,7 +27,7 @@ Ask for both of the relations. How many of class1 can take class2? This gives th
 + 1 to n: One is the parent of the other one
 + n to n: This can't really happen as both would be child classes. We need an intermediary that has a 1 to n relation with both of them and both primary keys in the middle. 
 	+ Try to avoid these
-	+ create a junction table or [[bridging table]] to solve this issue
+	+ create a junction table or [bridging table](bridging%20table.md) to solve this issue
 	
 
 
@@ -39,7 +39,7 @@ Ask for both of the relations. How many of class1 can take class2? This gives th
 	+ Both need to have the same value 
 	+ 
 **Associations:**
-Associations are represented with a directed arrow departing from the foreign key and pointing to the referenced key: This way the parent would be the referenced key and the child the foreign key. (This is where [[Referential Integrity]] appears so that if the referenced key is deleted what do we do?)
+Associations are represented with a directed arrow departing from the foreign key and pointing to the referenced key: This way the parent would be the referenced key and the child the foreign key. (This is where [Referential Integrity](Referential%20Integrity.md) appears so that if the referenced key is deleted what do we do?)
 + If the referenced key is the primary one: The arrow can be pointing at the whole relation. 
 #### Semantic coverage: 
 This part is really the worst part of computer science, the client. The way to go with this is to **SEPARE ALL THE STATEMENT IN IMPLICIT AND EXPLICIT CONSTRAINTS FROM THE START**
@@ -64,5 +64,5 @@ This is really important as it really explains you what is a possible thing to d
 
 ## Relations
 
-## [[Referential Integrity]]
-In order to maintain the referential integrity all relations must have some  [[Integrity rules]] 
+## [Referential Integrity](Referential%20Integrity.md)
+In order to maintain the referential integrity all relations must have some  [Integrity rules](Integrity%20rules.md) 

@@ -2,7 +2,7 @@ Is based on the Bar&Stars problem. distributions give the **number of possible o
 + The number of sets is set
 + The number of objects is set
 In oder to solve the problem with distributions the idea is to think about positions of the symbols (bars and objects), where bars are going to limit the groups of objects. 
-If we think about it this way, for r identical objects and n boxes we need n-1 bars to limit the boxes. Then there are n + r - 1 symbols. From these symbols, we can compute the possible groups of bars or objects as they would be the same due to how the [[Pascal's triangle]] works.
+If we think about it this way, for r identical objects and n boxes we need n-1 bars to limit the boxes. Then there are n + r - 1 symbols. From these symbols, we can compute the possible groups of bars or objects as they would be the same due to how the [Pascal's triangle](Pascal's%20triangle.md) works.
 
 Example: 
 If we had 10 identical balls and 3 children to distribute the balls, and some children could be with no balls at all then there are: 
