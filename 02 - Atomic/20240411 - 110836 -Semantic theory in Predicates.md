@@ -49,5 +49,16 @@ When evaluating quantifiers the is is just evaluating whether the condition give
 + Universal quantifier: Holds if for all elements in the domain P(x) is true
 + Existential quantifier: Holds if for P(x) at least with one element in the domain is true.
 
+## Evaluation in a domain: 
+In predicate logic one single formula can be given several domains in which to evaluate it. For some of them it may be true while for others not. 
+
+> [!NOTE] Definition: Valid in a domain
+> A formula is valid in the domain D if in that domain it is a tautology. 
+> **Remark:** **If** a formula is valid in a domain $D_n$ **it is then valid in all domains $D_k : k < n$**
 
 
+> [!NOTE] Definition: Semantically valid
+> A formula is semantically valid if it is **valid in any domain**
++ Testing for semantically valid predicates is not easy
++ Usually we’ll try to find a **domain where the formula is not valid**
++ 
