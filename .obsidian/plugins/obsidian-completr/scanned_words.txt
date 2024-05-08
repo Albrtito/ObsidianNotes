@@ -2922,6 +2922,8 @@ dshD
 dxSN
 dii
 deducing
+direct
+deductions
 check
 classes
 cssclasses
@@ -4432,6 +4434,7 @@ contends
 cteV
 counterexamples
 csK
+correction
 lifeOS
 liking
 las
@@ -20643,6 +20646,7 @@ repetitively
 recipe
 rsE
 rSC
+row
 here
 hour
 home
@@ -32450,6 +32454,7 @@ scope
 scenarios
 ssso
 semantically
+syntactically
 No
 NOTE
 Normalmente
@@ -39211,6 +39216,8 @@ ahU
 acceptance
 aUL
 ant
+approach
+arduous
 of
 otro
 opciones
@@ -40471,6 +40478,7 @@ odM
 oIZ
 oUb
 onS
+obtaining
 References
 RRI
 RUTAS
@@ -55902,6 +55910,8 @@ vli
 vVI
 voaty
 vPD
+verify
+verifying
 que
 quieren
 quedo
