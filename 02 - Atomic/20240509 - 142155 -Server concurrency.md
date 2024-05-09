@@ -10,12 +10,22 @@ cssclasses:
 
 # Server concurrency: 
 
+
+
+## Generic server structure: 
+Any server contains an infinite loop with three blocks. 
+
+…→Request **reception** → Request **processing** → Reply **sending** → …
+
+Once the sending is finished the server goes back to waiting for reception
+
+**Remarks:**
++ When processing the **importance lies in the CPU time** 
+
 ## Practical example: 
-This practical example is based on the following video of the OS UC3M course: [Video](https://eu-lti.bbcollab.com/collab/ui/session/playback)
+This practical example is based on the following video of the OS UC3M course: [Video](https://eu-lti.bbcollab.com/collab/ui/session/playback). This video goes through the theory while creating a prototype of a server using a library.
 
-
-
-
+The library used **simulates** reception, processing and sending of information. 
 
 
 
