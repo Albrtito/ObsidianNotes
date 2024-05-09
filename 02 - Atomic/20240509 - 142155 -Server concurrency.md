@@ -57,7 +57,8 @@ The thread per-request solution focusses on creating a new thread each time a re
 + If a request arrives, a new thread is created and a copy of the request is passed to the new created thread
 	+ **Must be a copy of the request**
 
-#### Implementation:
+#### Simulations:
+![[20240509 - 161400 - Simulation - Threads on-demand server|Simulation - Threads on-demand server]]
 
 
 
