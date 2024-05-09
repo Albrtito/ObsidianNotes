@@ -21,7 +21,9 @@ Once the sending is finished the server goes back to waiting for reception
 
 ## Types of servers: 
 ### Process-based server:
-This types of servers create a child process each time a re
+This types of servers create a child process each time a request arrives. The child process performs the request processing while the parent process waits for the next request. 
++ This solves the problem of several requests arriving together or processing processes at the same time. 
+
 ## Practical example: 
 This practical example is based on the following video of the OS UC3M course: [Video](https://eu-lti.bbcollab.com/collab/ui/session/playback). This video goes through the theory while creating a prototype of a server using a library.
 
