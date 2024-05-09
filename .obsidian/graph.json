@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 7323105
       }
+    },
+    {
+      "query": "[\"sr-due\":/\\d{4}-\\d{2}-\\d{2}/]",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +46,6 @@
   "repelStrength": 15.3011067708333,
   "linkStrength": 0.880777994791667,
   "linkDistance": 30,
-  "scale": 0.05286373314657414,
-  "close": true
+  "scale": 0.4180452086384675,
+  "close": false
 }

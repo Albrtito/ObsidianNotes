@@ -4,7 +4,8 @@ aliases:
   - Process Concurrency and synchronisation
 tags:
   - OS
-"References:": 
+"References:":
+  - "[[20240509 - 194614 -Problem - Dining Philosophers Problem|Problem - Dining Philosophers Problem]]"
 cssclasses:
 ---
 # Concurrency and synchronisation. 
