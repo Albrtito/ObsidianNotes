@@ -45,5 +45,5 @@ This is **way harder** than independent concurrency as managing the interaction 
 
 # Algorithms to solve problems. 
 Based on all explained for this chapter two possible algorithms appear in order to solve process concurrence. This algorithms are explained from the point of view of the problem they are created to solve. 
-+ [Algorithm - Producer-Consumer problem](Algorithm%20-%20Producer-Consumer%20problem.md)
++ [Algorithm - Problem -Producer-Consumer problem](Algorithm%20-%20Problem%20-Producer-Consumer%20problem.md)
 + [Algorithm - Readers-Writers problem](Algorithm%20-%20Readers-Writers%20problem.md)

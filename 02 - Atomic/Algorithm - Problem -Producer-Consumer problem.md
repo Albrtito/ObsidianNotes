@@ -7,9 +7,11 @@ tags:
 sr-due: 2024-05-23
 sr-interval: 15
 sr-ease: 150
-cssclasses: []
+cssclasses: 
+aliases:
+  - Problem -Producer-Consumer problem
 ---
-# Intro: 
+# Producer-Consumer Problem: 
 The producer-consumer problem is a possible solution for the race conditions involving the [20240503 - 190310 -Semaphores Dijkstra method](20240503%20-%20190310%20-Semaphores%20Dijkstra%20method.md) **when the order of processes is importan**. Using semaphores is really tricky as it can easily not work. This is why sticking to algorithms such as this one is always a good idea.
 
 This algorithm is based on a simple model: 
@@ -29,8 +31,8 @@ Once we have identified this key issue we can identify other things about the mo
 	+ In order to identify the starting and ending point of the buffer two pointers are used
 	+ If the buffer is infinite then no problem
 	+ If the buffer is finite, then it is used as a circular buffer (when getting to the end of the buffer go to the beginning.)
-
-# Sol. and implementation with semaphores: 
+## Solutions: 
+### Sol. and implementation with semaphores: 
 We'll use semaphores not only to protect the critical sections of the code but also to signal when a producer has entered a value to the buffer (so that the consumer can start consuming)
 If the producer doesn't produce then no signal is send to the consumer and the consumer will be kept asleep
 **Remark:** When we talk about a process being asleep it means that it is being kept in standby until a signal is send. (this is what the semaphores do) 
@@ -134,7 +136,7 @@ void consumer(void) {
 
 ```
 
-# Sol. and implementation with mutex:
+### Sol. and implementation with mutex:
 ## Code: 
 ```c
 #define MAX_BUFFER 1024 /* size of buffer*/
@@ -202,3 +204,5 @@ void consumer() { /* consumer code */
     pthread_exit(0);
 }
 ```
+### Other solutions: 
+Other solutions such as [Peterson’s Algorithm](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/) have been proposed. However they are not reliable in modern day architectures. The way to go is to use mutex, **always mutex**

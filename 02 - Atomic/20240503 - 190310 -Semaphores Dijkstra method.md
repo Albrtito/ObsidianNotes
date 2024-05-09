@@ -39,12 +39,12 @@ f.e: If there are 4 processes, all require the same resource.
 
 ## Things to have in mind when implementing semaphores:
 
-+ Always follow a known pattern/algorithm that works before doing it yourself: Such as [Algorithm - Producer-Consumer problem](Algorithm%20-%20Producer-Consumer%20problem.md) or [Algorithm - Readers-Writers problem](Algorithm%20-%20Readers-Writers%20problem.md)
++ Always follow a known pattern/algorithm that works before doing it yourself: Such as [Algorithm - Problem -Producer-Consumer problem](Algorithm%20-%20Problem%20-Producer-Consumer%20problem.md) or [Algorithm - Readers-Writers problem](Algorithm%20-%20Readers-Writers%20problem.md)
 
 + Semaphores are known for causing problems, if you deviate from the basic algorithms be reaaaly careful.
 	+ Is an example of somethings simple that should work but doesn't.There are usually problems ur not seeing
 
-+ Most of the problems can be done with the two models described below: [Algorithm - Producer-Consumer problem](Algorithm%20-%20Producer-Consumer%20problem.md) and [Algorithm - Readers-Writers problem](Algorithm%20-%20Readers-Writers%20problem.md)
++ Most of the problems can be done with the two models described below: [Algorithm - Problem -Producer-Consumer problem](Algorithm%20-%20Problem%20-Producer-Consumer%20problem.md) and [Algorithm - Readers-Writers problem](Algorithm%20-%20Readers-Writers%20problem.md)
 
 ## Basic usage and implementation:
 ### Initialisation: 

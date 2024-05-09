@@ -78,3 +78,6 @@ Any other alternatives rely solely on the OS.
 As said in:[#Conditions for mutual exclusion](#Conditions%20for%20mutual%20exclusion), any process must signal when entering the section and when exiting it. This is on what semaphores rely on:
 
 ![20240503 - 190310 -Semaphores Dijkstra method](20240503%20-%20190310%20-Semaphores%20Dijkstra%20method.md)
+
+## Mutex and Conditional variables: 
+![[20240504 - 162315 - Mutex and conditional variables|Mutex and conditional variables]]
