@@ -12,3 +12,4 @@ This simulation is done using [[20240503 - 190310 -Semaphores Dijkstra method|Se
 **Remarks:**
 + Careful not to cause race conditions
 
+One single thread is created in the main loop. This thread controls all the creation of other threads from that point forwards.
