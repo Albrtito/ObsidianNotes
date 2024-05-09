@@ -60,7 +60,7 @@ The thread per-request solution focusses on creating a new thread each time a re
 + If a request arrives, a new thread is created and a copy of the request is passed to the new created thread
 	+ **Must be a copy of the request**
 
-##### Simulations:
+##### Simulation:
 ![[20240509 - 161400 - Simulation - Threads on-demand server|Simulation - Threads on-demand server]]
 
 
@@ -71,3 +71,5 @@ The thread per-request solution focusses on creating a new thread each time a re
 + Threads are created at startup to run a service. 
 + A queue of pending request is created to feed the threads. 
 + All threads wait until some request is in the queue.
+##### Simulation:
+![[20240509 - 191823 - Simulation - Thread Pool Server|Simulation - Thread Pool Server]]
