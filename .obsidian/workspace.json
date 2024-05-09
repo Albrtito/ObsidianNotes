@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99a2a7d756c68be0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240509 - 155121 -Simulation - Process based server.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f6950f5039c5f23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240509 - 155259 - Simulation - Request library Server simulation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240509 - 142155 -Server concurrency.md",
+                "file": "02 - Atomic/20240509 - 155121 -Simulation - Process based server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240509 - 142155 -Server concurrency.md",
+                "file": "02 - Atomic/20240509 - 155121 -Simulation - Process based server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240509 - 142155 -Server concurrency.md",
+                "file": "02 - Atomic/20240509 - 155121 -Simulation - Process based server.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240509 - 142155 -Server concurrency.md"
+                "file": "02 - Atomic/20240509 - 155121 -Simulation - Process based server.md"
               }
             }
           }
@@ -209,10 +236,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5824e14fc33d945b",
+  "active": "99a2a7d756c68be0",
   "lastOpenFiles": [
-    "02 - Atomic/20240509 - 142155 -.md",
+    "02 - Atomic/20240509 - 155259 - Simulation - Request library Server simulation.md",
+    "02 - Atomic/20240509 - 155121 -Simulation - Process based server.md",
     "02 - Atomic/20240509 - 142155 -Server concurrency.md",
+    "02 - Atomic/20240509 - 142155 -.md",
     "02 - Atomic/Concurrency and synchronisation.md",
     "01.Areas/1.UC3M/Operating Systems.md",
     "Home.md",
@@ -241,10 +270,8 @@
     "02 - Atomic/20240429 - 111944 - Theorem - Euclid's proof of infinite prime numbers.md",
     "02 - Atomic/The Handshaking Theorem.md",
     "02 - Atomic/20240501 - 181254 -Logic_Submission 7.md",
-    "02 - Atomic/20240418 - 150156 -Logic_Submission 6.1.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 11.34.11.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 11.30.16.png",
-    "02 - Atomic/20240508 - 112735 -.md",
     "00.References/Calc_Theory_All.pdf",
     "99 - Meta/0. Attachments/AND (Conjunction) Truth table.png",
     "99 - Meta/0. Attachments/OR(Disjunction) truth table.png",
