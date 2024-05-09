@@ -21,7 +21,7 @@ Both operations, signal and wait are **atomic**
 A process can get the resource if **there is no process running and the count is negative.**
 
 **Remarks:**
-+ #Duda : Semaphores are implemented in hardware so that their operations can be atomic?
++ #Duda : Semaphores are implemented in hardware so that their operations can be atomic? In the test of the OS course two opposite answers are given. 
 
 f.e: If there are 4 processes, all require the same resource. 
 	1. Semaphore is created → **semaphoreName = 0** 
