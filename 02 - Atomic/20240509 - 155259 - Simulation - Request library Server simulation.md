@@ -1,10 +1,20 @@
 ---
-aliases: 
+aliases:
+  - Simulation - Request library Server simulation
 tags:
   - OS
 "References:": 
 cssclasses:
 ---
+# Library holding request structure and methods.
+
+The `request.h` library holds the structure with all the request data and the two methods for managing request. 
++ `receive_request(request_t*r){...}`: Manages receiving requests.
++ `reply_request(request_t*r){...}` : Manages **processing and replying** request. 
+
+Because this is a simulated server all I/O times and CPU times are either simulated with some computation loop (CPU) or sleep() function (I/O)
+
+## Code: 
 ```c
 #ifndef REQUEST_H
 
