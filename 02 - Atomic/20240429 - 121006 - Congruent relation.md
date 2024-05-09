@@ -57,8 +57,14 @@ $$
 	This is true for any a. Then reflexivity is proved. 
 2. **Symmetry:** To prove symmetry we need to prove that for any a and b. 
    $$a \equiv b \mod m \Leftrightarrow b \equiv a \mod m$$
-   By definition this holds (they share remainder)
-3. **Transitivity**
+   By definition this holds (they share remainder). However lets expand the definition. 
+   **IF:**
+   $$a \equiv b \mod m \Leftrightarrow m | (a-b)$$
+   **Then**
+   $$ m | (a-b) = m | -(b-a) \Rightarrow m | (b-a)$$
+   m divides b -a meaning that the definition holds for aRb and bRa
+   
+3.  **Transitivity**
 
 ## Equiv. classes and quotient set: 
 The equivalence classes (or **congruent classes**) modulo m for an equivalent congruent relation of mod m are: 
