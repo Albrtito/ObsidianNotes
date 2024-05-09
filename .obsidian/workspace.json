@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md",
+                "file": "01.Areas/1.UC3M/Discrete Math.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md",
+                "file": "01.Areas/1.UC3M/Discrete Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md",
+                "file": "01.Areas/1.UC3M/Discrete Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md",
+                "file": "01.Areas/1.UC3M/Discrete Math.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,7 +241,7 @@
                   "repelStrength": 13.7514677103718,
                   "linkStrength": 1,
                   "linkDistance": 187,
-                  "scale": 0.14475436387492632,
+                  "scale": 0.10290145654288323,
                   "close": true
                 }
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md"
+                "file": "01.Areas/1.UC3M/Discrete Math.md"
               }
             }
           }
@@ -287,10 +287,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f2af7f406afc6155",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
-    "02 - Atomic/Improper Integrals.md",
     "02 - Atomic/The Laplace transform.md",
+    "02 - Atomic/Improper Integrals.md",
     "02 - Atomic/Mutual exclusion.md",
     "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
     "02 - Atomic/Asignaturas 2º Cuatri 2024.md",
