@@ -43,7 +43,7 @@ This means an **excessive use of resources**
 
 
 
-### Thread-per request server:
+### Thread server:
 The thread per-request solution focusses on creating a new thread each time a request is received. This creation of threads can be done in two ways: 
 
 + **On-demand threads:** Create a new thread every time a request is received. 
@@ -51,14 +51,23 @@ The thread per-request solution focusses on creating a new thread each time a re
 	+ Use a **request queue.**
 
 **Remarks:** The last methods (thread pool) is the generalised one and how nowadays (2024-05-09) the servers work. 
-
-#### Method:
+#### Thread-per request:
+##### Problems: 
++ Although creation of threads has a lower cost than processes, it still has a cost. And creating and deleting threads all the time is not ideal
++ Control of resources. What if many request arrive, if we start creating more and more threads it ends up needing to many resources
+##### Method:
 + One receiver thread receives request.
 + If a request arrives, a new thread is created and a copy of the request is passed to the new created thread
 	+ **Must be a copy of the request**
 
-#### Simulations:
+##### Simulations:
 ![[20240509 - 161400 - Simulation - Threads on-demand server|Simulation - Threads on-demand server]]
 
 
 
+
+
+#### Thread pool server: 
++ Threads are created at startup to run a service. 
++ A queue of pending request is created to feed the threads. 
++ All threads wait until some request is in the queue.
