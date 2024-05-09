@@ -29,4 +29,8 @@ In order to synchronise processes we use services provided by the OS such as:
 + [Semaphores](20240503%20-%20190310%20-Semaphores%20Dijkstra%20method.md) 
 + [Mutex and conditional variables](20240504%20-%20162315%20-%20Mutex%20and%20conditional%20variables.md)
 During the OS course we’ll focus on those two with an entasis on mutex and condition variables as semaphores can be to fixed to models. 
+Other services could be
+
++ **Monitors**
+
 These methods are based on the concept of how synchronization operations must be **atomic**. 

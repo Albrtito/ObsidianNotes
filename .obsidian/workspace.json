@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md"
+                "file": "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md"
               }
             }
           }
@@ -275,19 +275,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "5824e14fc33d945b",
   "lastOpenFiles": [
+    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
+    "02 - Atomic/Concurrency and synchronisation.md",
+    "01.Areas/1.UC3M/Operating Systems.md",
     "02 - Atomic/Race condition.md",
     "02 - Atomic/Mutual exclusion.md",
     "02 - Atomic/Algorithm - Problem -Producer-Consumer problem.md",
-    "02 - Atomic/Concurrency and synchronisation.md",
     "02 - Atomic/20240509 - 142155 -Server concurrency.md",
     "02 - Atomic/20240509 - 191823 - Simulation - Thread Pool Server.md",
     "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
     "02 - Atomic/20240509 - 161400 - Simulation - Threads on-demand server.md",
     "02 - Atomic/20240509 - 155259 - Simulation - Request library Server simulation.md",
     "02 - Atomic/20240509 - 142155 -.md",
-    "01.Areas/1.UC3M/Operating Systems.md",
     "Home.md",
     "02 - Atomic/20240423 - 121056 - Chromatic poly of a cycle graph..md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
@@ -305,7 +306,6 @@
     "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
     "02 - Atomic/Sets of numbers.md",
     "02 - Atomic/Integration, fundamental theorems and techniques.md",
-    "02 - Atomic/20240409 - 115536 -Logic Set 5.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.44.50.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.43.42.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.39.50.png",
