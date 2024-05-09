@@ -29,6 +29,18 @@ m | b \Rightarrow m = kb + r_2\\\\
 \boxed{r_1 = r_2}
 \end{gather}
 $$
++ This can also be defined as: 
+$$
+a \equiv b \mod m \Leftrightarrow m | (a-b)
+$$
++ And the same definition can be given in a less formal way such as: 
+$$
+\begin{gather}
+
+a \equiv b \mod m\\ \Leftrightarrow\\
+a \mod m = b \mod m
+\end{gather}
+$$
 **Remarks:**
 + a is related to b: $a \equiv b (\mod m)$ **if and only if**: $a (\mod m) = b (\mod m)$. **This means** exactly the same as what is said above. Both have the same remainder under the division by m
 + **If** $a \equiv b (\mod m)$ **then**: a = b + km $k \in Z$
@@ -37,9 +49,16 @@ $$
 ## Proving the equivalent relation:
 In order to prove that the relation is equivalent the three properties of equivalent relations mus be proved: 
 
-1. **Reflexivity:** We can prove reflexivity 
-3. **Symmetry:**
-4. **Transitivity**
+1. **Reflexivity:** We can prove reflexivity by proving that any element a is related with itself. 
+   Because we know that m | 0. Then by using the definition:
+$$
+a \equiv a \mod m \Leftrightarrow  m | (a-a)  = m | 0 
+$$
+	This is true for any a. Then reflexivity is proved. 
+2. **Symmetry:** To prove symmetry we need to prove that for any a and b. 
+   $$a \equiv b \mod m \Leftrightarrow b \equiv a \mod m$$
+   By definition this holds (they share remainder)
+3. **Transitivity**
 
 ## Equiv. classes and quotient set: 
 The equivalence classes (or **congruent classes**) modulo m for an equivalent congruent relation of mod m are: 
