@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "02 - Atomic/20240509 - 142155 -Server concurrency.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "02 - Atomic/20240509 - 142155 -Server concurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "02 - Atomic/20240509 - 142155 -Server concurrency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "02 - Atomic/20240509 - 142155 -Server concurrency.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "02 - Atomic/20240509 - 142155 -Server concurrency.md"
               }
             }
           }
@@ -211,11 +211,15 @@
   },
   "active": "5824e14fc33d945b",
   "lastOpenFiles": [
+    "02 - Atomic/20240509 - 142155 -.md",
+    "02 - Atomic/20240509 - 142155 -Server concurrency.md",
+    "02 - Atomic/Concurrency and synchronisation.md",
+    "01.Areas/1.UC3M/Operating Systems.md",
+    "Home.md",
     "02 - Atomic/20240423 - 121056 - Chromatic poly of a cycle graph..md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
     "00.References/SoftwareDev_PracticeTheorySession 08.pdf",
-    "Home.md",
     "02 - Atomic/20240508 - 121510 -.md",
     "02 - Atomic/20240508 - 121916 -.md",
     "02 - Atomic/20240508 - 121916 - Exercises -  Logic_Submission 6.2.md",
@@ -241,15 +245,11 @@
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 11.34.11.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 11.30.16.png",
     "02 - Atomic/20240508 - 112735 -.md",
-    "02 - Atomic/20240411 - 110543 -Semantic Theory~.md",
     "00.References/Calc_Theory_All.pdf",
     "99 - Meta/0. Attachments/AND (Conjunction) Truth table.png",
     "99 - Meta/0. Attachments/OR(Disjunction) truth table.png",
     "99 - Meta/0. Attachments/Conditional Truth table.png",
     "99 - Meta/0. Attachments/Truth table of the negation connective.png",
-    "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
-    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
-    "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
     "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",

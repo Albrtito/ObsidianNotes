@@ -1,11 +1,24 @@
 ---
-aliases: 
+aliases:
+  - Server concurrency
 tags:
   - OS
   - incomplete
 "References:": 
 cssclasses:
 ---
+
+# Server concurrency: 
+
+## Practical example: 
+This practical example is based on the following video of the OS UC3M course: [Video](https://eu-lti.bbcollab.com/collab/ui/session/playback)
+
+
+
+
+
+
+
 
 # Process-based solution: 
 Instead of processing every request one after the other, create **one child process for each request**. The parent process waits for the next request. 
