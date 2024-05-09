@@ -4,9 +4,9 @@ tags:
   - review
 "References:": 
 cssclasses:
-sr-due: 2024-05-09
-sr-interval: 9
-sr-ease: 228
+sr-due: 2024-05-14
+sr-interval: 5
+sr-ease: 208
 ---
 The chromatic polynomial of a cycle graph is defined in the following way: 
 $$

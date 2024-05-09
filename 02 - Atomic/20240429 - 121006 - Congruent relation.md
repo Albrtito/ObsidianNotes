@@ -18,7 +18,7 @@ The congruent relation is defined as an [Equivalence relations](Equivalence%20re
 > [!NOTE] Congruent relation
 > Two elements a and b are **congruent modulo m** if m | (a-b). This relation is denoted as: 
 > $$
-> a \equiv b(\mod m)
+> a \equiv b\mod m
 > $$
 
 + This means that **under the division by m**, a and b have the same remainder.
@@ -37,7 +37,7 @@ $$
 ## Proving the equivalent relation:
 In order to prove that the relation is equivalent the three properties of equivalent relations mus be proved: 
 
-1. **Reflexivity:**
+1. **Reflexivity:** We can prove reflexivity 
 3. **Symmetry:**
 4. **Transitivity**
 
