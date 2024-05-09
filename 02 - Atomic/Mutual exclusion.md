@@ -14,6 +14,10 @@ Mutual exclusion is **a method used in order to solve the [Race condition](Race%
 
 Mutual exclusion is the blocking of a resource when a process is using it, defining [Critical sections](Critical%20sections.md) for each of the processes. 
 **Namely:** If a process uses a resource no one else can use it till it finishes. **Avoid two processes in need of the same resource from executing at the same time**
+
+
+
+
 # Problems with mutual exclusion: 
 In the following sections we’ll see implementation of mutual sections. This methods for implementation sometime make it hard to create this problems, however they can almost always appear if not being careful about them.
 ## Deadlocks

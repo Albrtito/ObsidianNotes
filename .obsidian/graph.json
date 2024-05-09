@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "[\"sr-due\":/\\d{4}-\\d{2}-\\d{2}/]",
+      "query": "tag:#review ",
       "color": {
         "a": 1,
         "rgb": 8307552
@@ -32,6 +32,6 @@
   "repelStrength": 15.3011067708333,
   "linkStrength": 0.880777994791667,
   "linkDistance": 30,
-  "scale": 0.10320682229176352,
+  "scale": 0.11230370530068164,
   "close": false
 }

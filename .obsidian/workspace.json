@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Mutual exclusion.md",
+                "file": "02 - Atomic/The Laplace transform.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/The Laplace transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/The Laplace transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,6 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/The Laplace transform.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,14 +259,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/The Laplace transform.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 1307
+    "width": 464
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,11 +287,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5824e14fc33d945b",
+  "active": "f2af7f406afc6155",
   "lastOpenFiles": [
+    "02 - Atomic/Improper Integrals.md",
+    "02 - Atomic/The Laplace transform.md",
+    "02 - Atomic/Mutual exclusion.md",
+    "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
+    "02 - Atomic/Asignaturas 2º Cuatri 2024.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "01.Areas/1.UC3M/Operating Systems.md",
-    "02 - Atomic/Mutual exclusion.md",
     "02 - Atomic/PythonLib-Unittest.md",
     "02 - Atomic/Concurrency and synchronisation.md",
     "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
@@ -296,7 +305,6 @@
     "02 - Atomic/Algorithm - Problem -Producer-Consumer problem.md",
     "02 - Atomic/20240509 - 142155 -Server concurrency.md",
     "02 - Atomic/20240509 - 191823 - Simulation - Thread Pool Server.md",
-    "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
     "02 - Atomic/20240509 - 161400 - Simulation - Threads on-demand server.md",
     "02 - Atomic/20240509 - 155259 - Simulation - Request library Server simulation.md",
     "02 - Atomic/20240509 - 142155 -.md",
@@ -310,9 +318,6 @@
     "02 - Atomic/20240508 - 121916 - Exercises -  Logic_Submission 6.2.md",
     "02 - Atomic/20240501 - 225136 - Clauses.md",
     "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
-    "01.Areas/1.UC3M/Logic.md",
-    "02 - Atomic/Predicate Logic.md",
-    "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.44.50.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.43.42.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.39.50.png",
