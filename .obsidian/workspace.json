@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Systems of First-Order ODEs.md",
+                "file": "02 - Atomic/20240507 - 153848 - The wave Equation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/20240507 - 153848 - The wave Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/20240507 - 153848 - The wave Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,6 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/20240507 - 153848 - The wave Equation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/20240507 - 153848 - The wave Equation.md"
+              }
             }
           }
         ]
@@ -219,7 +224,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "89073f15576efae5",
+  "active": "5824e14fc33d945b",
   "lastOpenFiles": [
     "02 - Atomic/Systems of First-Order ODEs.md",
     "02 - Atomic/The Laplace transform.md",
