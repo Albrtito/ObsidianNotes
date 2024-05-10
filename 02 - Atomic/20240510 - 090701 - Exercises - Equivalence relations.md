@@ -25,3 +25,18 @@ $$
 (a, b) \mathcal{R}(c, d) \quad \Leftrightarrow \quad a d=b c 
 $$
 Show that this is an equivalence relation, and obtain the quotient set $R_2/\mathbb{R}$
+
+## 11.7: Circular relation
+A relation R defined on a set A is a circular relation if it verifies the following property: 
+$$
+aRb \text{ and } bRc \Rightarrow cRa $$
+Prove that a relation is an equivalence relation if and only if it is circular and reflexive.
+
++ **All equivalence relations are circular**
+$$
+\text{Equivalence} \Leftrightarrow \text{Circular and Reflexive}
+$$
+**Proof:**
+1. **If** it is equivalence and aRb and bRc => (transitivity) aRc => (Symmetry) cRa **=>** **circular**
+2. **If** R is circular and reflexive =>? Symmetric and transitive 
+	+ 
