@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -248,10 +249,10 @@
   },
   "active": "1650019b37d7af31",
   "lastOpenFiles": [
-    "01.Areas/1.UC3M/Discrete Math.md",
-    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
-    "02 - Atomic/Modular arithmetic.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
+    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
+    "01.Areas/1.UC3M/Discrete Math.md",
+    "02 - Atomic/Modular arithmetic.md",
     "02 - Atomic/The Laplace transform.md",
     "02 - Atomic/Improper Integrals.md",
     "02 - Atomic/Mutual exclusion.md",
@@ -277,7 +278,6 @@
     "00.References/SoftwareDev_PracticeTheorySession 08.pdf",
     "02 - Atomic/20240508 - 121510 -.md",
     "02 - Atomic/20240508 - 121916 -.md",
-    "02 - Atomic/20240508 - 121916 - Exercises -  Logic_Submission 6.2.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.44.50.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.43.42.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.39.50.png",

@@ -16,5 +16,5 @@
   "readableLineLength": true,
   "propertiesInDocument": "visible",
   "spellcheck": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "shortest"
 }
