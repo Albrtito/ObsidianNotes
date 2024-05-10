@@ -4447,6 +4447,7 @@ computes
 canvas
 carga
 cRa
+cover
 lifeOS
 liking
 las
@@ -9917,6 +9918,7 @@ WPd
 WMW
 WvA
 Weakly
+Weak
 up
 usage
 under
@@ -49854,6 +49856,7 @@ Construction
 Critical
 Consumer
 Circular
+Checking
 your
 ya
 yo
@@ -53691,6 +53694,7 @@ Lui
 Like
 Local
 Library
+Looking
 Otras
 Otros
 OS

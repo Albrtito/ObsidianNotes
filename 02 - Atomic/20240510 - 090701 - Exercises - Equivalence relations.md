@@ -58,7 +58,32 @@ aRb \land bRc \Rightarrow aRc
 $$
 	We can find a counterexample as, given the relation we know that the following “links” are defined (the relation has defined) based on the initial statement and symmetry: 
 	$$ \begin{gather}\text{Initial relations: }aRb, bRc, cRd, aRd \\\text{ By symmetry: } bRa, cRb, dRc, dRa\end{gather}\ $$
-	Looking at this definition we see that the transitivity property defined above does not comply. Then we have found a **counterexample** and this statement is **false**
++ The symmetry defined relations also cover the ones defined by Weak Transitivity.
 
-2. Again, we need to prove transitivi
-	
+	Looking at this definition we see that the transitivity property defined above does not comply(We have aRb and bRc but no aRc). 
+	Then we have found a **counterexample** and this statement is **false**
+
+2. Again, we need to prove transitivity as it is the only property of equivalence relations left. 
+	Checking for all the relations defined we have: 
+	$$ 
+	\begin{gather}
+	\text{Initial relations: }aRb, bRc, cRd, aRd \\
+	\text{ By symmetry: } bRa, cRb, dRc, dRa\\
+	\text{By reflexivity: } aRa, bRb, cRc, dRd\\
+	\end{gather} 
+	$$
+	We now see that for all the elements in the relation the transitivity property is met. Then this statement is **true.**
+
+## 11.9: 
+The adjacency matrix of a binary relation R is given by:
+$$
+A_R = 
+\begin{pmatrix}
+1 &0&1\\
+0&1&b\\
+1&a&c
+\end{pmatrix}
+$$
++ Where a,b,c = 0,1
+Which conditions should a,b and c satisfy so that R becomes an equivalence relation?
+
