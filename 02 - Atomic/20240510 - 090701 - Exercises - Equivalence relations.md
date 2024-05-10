@@ -52,8 +52,13 @@ $$
 aRb, bRc, cRd \Rightarrow aRd
 $$
 **Proof:**
-1. We need to prove transitivity, then: 
+1. We need to prove transitivity for every w.t relation, then for that relation: 
 $$
 aRb \land bRc \Rightarrow aRc
 $$
+	We can find a counterexample as, given the relation we know that the following “links” are defined (the relation has defined) based on the initial statement and symmetry: 
+	$$ \begin{gather}\text{Initial relations: }aRb, bRc, cRd, aRd \\\text{ By symmetry: } bRa, cRb, dRc, dRa\end{gather}\ $$
+	Looking at this definition we see that the transitivity property defined above does not comply. Then we have found a **counterexample** and this statement is **false**
+
+2. Again, we need to prove transitivi
 	

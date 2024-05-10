@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
+                "file": "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
+                "file": "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
+                "file": "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
+                "file": "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md"
               }
             }
           }
@@ -247,10 +247,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5824e14fc33d945b",
+  "active": "1650019b37d7af31",
   "lastOpenFiles": [
-    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
+    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/Modular arithmetic.md",
     "02 - Atomic/The Laplace transform.md",
