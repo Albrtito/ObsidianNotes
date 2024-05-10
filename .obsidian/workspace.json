@@ -4,56 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "81f08be131af6900",
+        "id": "050148f6e21413ba",
         "type": "tabs",
-        "dimension": 36.03151862464183,
         "children": [
           {
             "id": "5824e14fc33d945b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
+                "file": "02 - Atomic/The Laplace transform.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "050148f6e21413ba",
-        "type": "tabs",
-        "dimension": 63.96848137535817,
-        "children": [
-          {
-            "id": "b7cd644c95991110",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/Modular arithmetic.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1650019b37d7af31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1,
-        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -82,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Conditions",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -128,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
+                "file": "02 - Atomic/The Laplace transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
+                "file": "02 - Atomic/The Laplace transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
+                "file": "02 - Atomic/The Laplace transform.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +172,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -223,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md"
+                "file": "02 - Atomic/The Laplace transform.md"
               }
             }
           }
@@ -250,10 +216,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1650019b37d7af31",
+  "active": "5824e14fc33d945b",
   "lastOpenFiles": [
-    "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
+    "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/Modular arithmetic.md",
     "02 - Atomic/20240429 - 121006 - Congruent relation.md",
     "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",

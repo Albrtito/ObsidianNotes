@@ -112,3 +112,18 @@ Solve the following congruence equations:
 	$$
 	3x \equiv 9\mod 15 \Rightarrow x \equiv 3 \mod 5
 	$$
+	Obtain the equivalence: 
+	$$
+		3x + 5n = x_n \equiv 3 \mod 5
+	$$
+	Undo the reduction by obtaining all values such  as in (mod 5) the remainder would be 3, however they fit inside the mod 15 equiv. classes (I don’t know if that is well explained)
+	$$
+	\boxed{
+		\begin{cases}
+		x_0 = 3 \mod 15\\
+		x_1 = 8 \mod 15\\
+		x_2 = 13 \mod 15\\
+		\end{cases}}
+	$$
+	From that point on, the next value to comply with the definition stated above would be 18 as 3 mod 5 = 18 mod 15. However this value is equivalent to 3 mod 15. 
+	
