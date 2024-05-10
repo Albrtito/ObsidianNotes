@@ -10,10 +10,10 @@ cssclasses:
 # Simulation of a thread pool server. 
 #Duda :I don’t know why but this simulation is performing much worse than it is expected to. 
 
-This simulation is using [[20240504 - 162315 - Mutex and conditional variables|Mutex and conditional variables]] instead of semaphores. Just this makes it more flexible and easy to use. 
+This simulation is using [Mutex and conditional variables](20240504%20-%20162315%20-%20Mutex%20and%20conditional%20variables.md) instead of semaphores. Just this makes it more flexible and easy to use. 
 ## Used library: 
 This library contains the reply and receive function as well as an structure for the requests.
-+ [[20240509 - 155259 - Simulation - Request library Server simulation|Simulation - Request library Server simulation]]
++ [Simulation - Request library Server simulation](20240509%20-%20155259%20-%20Simulation%20-%20Request%20library%20Server%20simulation.md)
 All simulations now use their constants from a new constants file. (library .h)
 ## Code: 
 

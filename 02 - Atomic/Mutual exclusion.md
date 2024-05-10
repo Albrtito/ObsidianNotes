@@ -84,4 +84,4 @@ As said in:[#Conditions for mutual exclusion](#Conditions%20for%20mutual%20exclu
 ![20240503 - 190310 -Semaphores Dijkstra method](20240503%20-%20190310%20-Semaphores%20Dijkstra%20method.md)
 
 ## Mutex and Conditional variables: 
-![[20240504 - 162315 - Mutex and conditional variables|Mutex and conditional variables]]
+![Mutex and conditional variables](20240504%20-%20162315%20-%20Mutex%20and%20conditional%20variables.md)

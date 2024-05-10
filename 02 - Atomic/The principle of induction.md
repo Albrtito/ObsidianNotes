@@ -9,7 +9,7 @@ sr-interval: 45
 sr-ease: 270
 ---
 ### Conditions
-The principle of induction is a method used with [Natural numbers (set N)](Natural%20numbers%20(set%20N).md) in order to **prove** some property. 
+The principle of induction is a method used with [Natural numbers (set N)](set%20N)).md) in order to **prove** some property. 
 
 **CONDITIONS:**
 + The domain of the variables must be $\mathbb{N}$

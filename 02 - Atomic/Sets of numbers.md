@@ -14,12 +14,12 @@ There are some generally known sets that are usually used in mathematics such as
 
 
 # Sylabus:
-1. [Natural numbers (set N)](Natural%20numbers%20(set%20N).md)
+1. [Natural numbers (set N)](set%20N)).md)
 	1. [The principle of induction](The%20principle%20of%20induction.md)
-2. [Integer numbers (set Z)](Integer%20numbers%20(set%20Z).md)
-3. [Rational and irrational numbers(set Q and I)](Rational%20and%20irrational%20numbers(set%20Q%20and%20I).md)
-4. [Real numbers (set R)](Real%20numbers%20(set%20R).md)
-5. [Complex numbers (set C)](Complex%20numbers%20(set%20C).md)
+2. [Integer numbers (set Z)](set%20Z)).md)
+3. [Rational and irrational numbers(set Q and I)](set%20Q%20and%20I)).md)
+4. [Real numbers (set R)](set%20R)).md)
+5. [Complex numbers (set C)](set%20C)).md)
 ---
 ### Summary
 Highlight ==what’s important!==

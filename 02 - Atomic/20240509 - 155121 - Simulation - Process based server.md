@@ -10,7 +10,7 @@ cssclasses:
 # Simulation of a process based server: 
 
 ## .h
-![[20240509 - 155259 - Simulation - Request library Server simulation|Simulation - Request library Server simulation]]
+![Simulation - Request library Server simulation](20240509%20-%20155259%20-%20Simulation%20-%20Request%20library%20Server%20simulation.md)
 
 ## code:
 

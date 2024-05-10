@@ -7,7 +7,7 @@ tags:
 cssclasses:
 ---
 # Simulation of a threads on-demand server: 
-This simulation is done using [[20240503 - 190310 -Semaphores Dijkstra method|Semaphores]].
+This simulation is done using [Semaphores](20240503%20-%20190310%20-Semaphores%20Dijkstra%20method.md).
 
 **Remarks:**
 + Careful not to cause race conditions
@@ -28,7 +28,7 @@ One thread based on this function is created for each of the requests. It manage
 
 ## Used library: 
 This library contains the reply and receive function as well as an structure for the requests.
-+ [[20240509 - 155259 - Simulation - Request library Server simulation|Simulation - Request library Server simulation]]
++ [Simulation - Request library Server simulation](20240509%20-%20155259%20-%20Simulation%20-%20Request%20library%20Server%20simulation.md)
 ## Code: 
 
 ```c

@@ -7,7 +7,7 @@ tags:
 ---
 
 # Tareas:
-Esta todo en el [Excel de tareas](https://docs.google.com/spreadsheets/d/1nn5C8SngtkjkC9esRUwXhZi2txTcfInW/edit#gid=1403311711) 
+Esta todo en el [](https://docs.google.com/spreadsheets/d/1nn5C8SngtkjkC9esRUwXhZi2txTcfInW/edit#gid=1403311711) 
 + Está adjuntado también en references
 **En resumen:**
 La mayoría de cosas las hace Coordi. Papeleos  los hace secre. Otras cosas varias se dividen entre la comisión de tareas. 

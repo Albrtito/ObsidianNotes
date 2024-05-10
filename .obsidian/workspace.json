@@ -4,11 +4,27 @@
     "type": "split",
     "children": [
       {
+        "id": "81f08be131af6900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5824e14fc33d945b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "050148f6e21413ba",
         "type": "tabs",
         "children": [
           {
-            "id": "f2af7f406afc6155",
+            "id": "b7cd644c95991110",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,64 +37,12 @@
             }
           },
           {
-            "id": "99a2a7d756c68be0",
+            "id": "1650019b37d7af31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f6950f5039c5f23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240509 - 155259 - Simulation - Request library Server simulation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23ee56851947b622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240509 - 161400 - Simulation - Threads on-demand server.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "461b5c2a89917f20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240509 - 191823 - Simulation - Thread Pool Server.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0017a64859d4c0cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240509 - 194614 -Problem - Dining Philosophers Problem.md",
+                "file": "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +50,7 @@
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Duda",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,15 +109,22 @@
       {
         "id": "5997a5c0c99a8696",
         "type": "tabs",
-        "dimension": 40.38257173219979,
         "children": [
+          {
+            "id": "89073f15576efae5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
           {
             "id": "6ac2d010ad26804a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Discrete Math.md",
+                "file": "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Discrete Math.md",
+                "file": "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,22 +165,12 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "5824e14fc33d945b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "f97aefa6b972e655",
         "type": "tabs",
-        "dimension": 42.561105207226355,
         "children": [
           {
             "id": "36d1a43796975b90",
@@ -218,11 +178,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Discrete Math.md",
+                "file": "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -236,13 +196,13 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.364579256360078,
-                  "repelStrength": 13.7514677103718,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 187,
-                  "scale": 0.10290145654288323,
-                  "close": true
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
                 }
               }
             }
@@ -252,7 +212,6 @@
       {
         "id": "2758c03c7f8ca0ae",
         "type": "tabs",
-        "dimension": 17.05632306057386,
         "children": [
           {
             "id": "1223c0f85c541969",
@@ -260,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Discrete Math.md"
+                "file": "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md"
               }
             }
           }
@@ -268,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464
+    "width": 242
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,14 +246,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "1650019b37d7af31",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Discrete Math.md",
+    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
+    "02 - Atomic/Modular arithmetic.md",
+    "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/The Laplace transform.md",
     "02 - Atomic/Improper Integrals.md",
     "02 - Atomic/Mutual exclusion.md",
     "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
     "02 - Atomic/Asignaturas 2º Cuatri 2024.md",
-    "01.Areas/1.UC3M/Discrete Math.md",
     "01.Areas/1.UC3M/Operating Systems.md",
     "02 - Atomic/PythonLib-Unittest.md",
     "02 - Atomic/Concurrency and synchronisation.md",
@@ -316,8 +278,6 @@
     "02 - Atomic/20240508 - 121510 -.md",
     "02 - Atomic/20240508 - 121916 -.md",
     "02 - Atomic/20240508 - 121916 - Exercises -  Logic_Submission 6.2.md",
-    "02 - Atomic/20240501 - 225136 - Clauses.md",
-    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.44.50.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.43.42.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.39.50.png",
@@ -334,7 +294,6 @@
     "00.References/OS_Resources_Lab3Statement.pdf",
     "00.References/Discrete_Theory_All.pdf",
     "00.References/SoftwareDev_Resources_GE3_Statement.pdf",
-    "00.References/Discreta_Exercises_All_Solved.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/1.UC3M/Files and data bases.canvas",

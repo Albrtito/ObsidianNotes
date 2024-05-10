@@ -52,7 +52,7 @@ Search in [google scholar](https://scholar.google.com) for an article related to
 # Step 5: Task to do
 - [x] Create a git repo. Name it GXX.2024.TYY.EG3
 - [x] Clone the project and include the code and folders structure in AulaGlobal
-- [ ] Apply the refactoring in [#2.1 Refactoring cases](#2.1%20Refactoring%20cases) . Detect where to apply and apply. 
+- [ ](#2.1%20Refactoring%20cases) . Detect where to apply and apply. 
 - [ ] Make the code comply with PEP8 using pylint tool.
 - [ ] Include the word document with the selected Publications
 - [ ] Upload the refactored and redesigned code. Along with the test and reports generated before the last commit (xml format)

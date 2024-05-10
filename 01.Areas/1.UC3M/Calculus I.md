@@ -20,7 +20,7 @@ Based on the [courseware course](https://ocw.uc3m.es/mod/page/view.php?id=5299) 
 5. [The Newton-Raphson method](The%20Newton-Raphson%20method)
 6. [Taylor polynomial](Taylor%20polynomial)
 7. [Local and global behaviour of a real function](Local%20and%20global%20behaviour%20of%20a%20real%20function)
-8. [Integration, fundamental theorems and techniques](Integration,%20fundamental%20theorems%20and%20techniques)
+8. [Integration, fundamental theorems and techniques](../../02%20-%20Atomic/Integration,%20fundamental%20theorems%20and%20techniques.md)
 9. [Improper Integrals](../../02%20-%20Atomic/Improper%20Integrals.md)
 
 

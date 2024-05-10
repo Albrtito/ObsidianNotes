@@ -9,7 +9,7 @@ sr-interval: 65
 sr-ease: 294
 ---
 # Intro: 
-The set of real numbers is indicated by the letter R. This set is the union of the rational and irrational sets. R contains all numbers defined in [Natural numbers (set N)](Natural%20numbers%20(set%20N).md)[Integer numbers (set Z)](Integer%20numbers%20(set%20Z).md)[Rational and irrational numbers(set Q and I)](Rational%20and%20irrational%20numbers(set%20Q%20and%20I).md). 
+The set of real numbers is indicated by the letter R. This set is the union of the rational and irrational sets. R contains all numbers defined in [Natural numbers (set N)](set%20N)).md)[Integer numbers (set Z)](set%20Z)).md)[Rational and irrational numbers(set Q and I)](set%20Q%20and%20I)).md). 
 
 + Real numbers can be represented as points in the real line. 
 + When representing real numbers the whole line is filled up with them. (continuous space)

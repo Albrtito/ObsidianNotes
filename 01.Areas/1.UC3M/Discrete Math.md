@@ -17,6 +17,8 @@ sr-ease: 270
 3. [Advance methods in combinatorics](../../02%20-%20Atomic/Advance%20methods%20in%20combinatorics.md) 
 4. [Integer arithmetic](../../02%20-%20Atomic/Integer%20arithmetic.md)
 5. [Modular arithmetic](../../02%20-%20Atomic/Modular%20arithmetic.md)
+6. [Binary Relations](../../02%20-%20Atomic/Binary%20Relations.md)
+
 
 
 ---

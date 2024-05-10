@@ -5,7 +5,7 @@ aliases:
 tags:
   - OS
 "References:":
-  - "[[20240509 - 194614 -Problem - Dining Philosophers Problem|Problem - Dining Philosophers Problem]]"
+  - "[Problem - Dining Philosophers Problem](20240509%20-%20194614%20-Problem%20-%20Dining%20Philosophers%20Problem.md)"
 cssclasses:
 ---
 # Concurrency and synchronisation. 

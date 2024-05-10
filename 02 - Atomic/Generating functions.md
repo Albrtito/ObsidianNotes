@@ -14,7 +14,7 @@ A generating function is created as the infinite sum of the terms of a sequence 
 
 The infinite sum can be sometimes simplified in order to obtain an expression for the generating function (this is usually what we are aiming for)
 
-Using generating functions many times resolves in knowing the simplification for several of the functions and where these functions come from, therefore I have created the following list with [All Generating Functions (list)](20240408%20-%20191229%20-%20GF%20list.md)
+Using generating functions many times resolves in knowing the simplification for several of the functions and where these functions come from, therefore I have created the following list with [All Generating Functions (list)](list))
 
 ## General form of a generating function:
 

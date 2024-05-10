@@ -10,12 +10,12 @@ DateCreated: 2024-03-29
 + **IDE:** PyCharm
 + **Package Management:** Automatically install update and configure software packages. [pip](pip.md) is the preferred manager.
 + **Code analyser:** [Pylint](Pylint.md). 
-	+ We'll use [PEP8](PEP8_ https://www.python.org/dev/peps/pep-0008/) standard. One of the most used guides
+	+ We'll use [PEP8](PEP8_%20https://www.python.org/dev/peps/pep-0008/) standard. One of the most used guides
 	+ Pylint runs integrated in PyCharm
 + **Git:** Version control to work on; for more info see [Git](Git.md)
 	+ Create a .gitignore file and **UNCOMMENT THE .IDEA** we need venv and .idea as ignored directories. 
 	+ A README.md file is also created in order to explain project documentation
- ![Virtual Environment (venv)](Virtual%20Environment%20(venv).md)
+ ![Virtual Environment (venv)](venv)).md)
 ## Dealing with the virtual environment: 
 + gitignore is really important
 	+ It must be on the root dir of the project
