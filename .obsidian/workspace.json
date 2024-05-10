@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md",
+                "file": "02 - Atomic/Systems of First-Order ODEs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -28,8 +28,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,8 +219,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7bea7114b8eb1fef",
+  "active": "89073f15576efae5",
   "lastOpenFiles": [
+    "02 - Atomic/Systems of First-Order ODEs.md",
     "02 - Atomic/The Laplace transform.md",
     "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
