@@ -39,4 +39,17 @@ $$
 **Proof:**
 1. **If** it is equivalence and aRb and bRc => (transitivity) aRc => (Symmetry) cRa **=>** **circular**
 2. **If** R is circular and reflexive =>? Symmetric and transitive 
-	+ 
+	+ Proof of symmetry: In particular, if the c in the original definition was a b, there would be symmetry:  aRb and bRb => bRa 
+	+ Proof of transitivity: aRb and bRc => cRa => (by the just proved symmetry) aRc
+
+## 11.8: Weakly transitive
+A relation R on a set A is weakly transitive if, for all elements a, b, c, d ∈ A, the relations aRb, bRc, and cRd imply that aRd. Determine which one of the following two statements is true and which one is false (by proving the former, and giving a counter- example of the latter): 
+1. Every symmetric and weakly transitive relation is transitive. 
+2. Every reflexive, symmetric, and weakly transitive relation is an equivalence relation.
+
+We have a definition of R such as: 
+$$
+aRb, bRc, cRd \Rightarrow aRd
+$$
+**Proof:**
+1. If a relation is symmetric 
