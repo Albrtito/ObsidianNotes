@@ -52,4 +52,8 @@ $$
 aRb, bRc, cRd \Rightarrow aRd
 $$
 **Proof:**
-1. If a relation is symmetric 
+1. We need to prove transitivity, then: 
+$$
+aRb \land bRc \Rightarrow aRc
+$$
+	

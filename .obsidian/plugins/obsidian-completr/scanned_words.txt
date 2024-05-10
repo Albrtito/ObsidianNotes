@@ -5819,6 +5819,7 @@ lkM
 lAjs
 lOE
 lies
+latter
 First
 Fechas
 Familias
@@ -8382,6 +8383,7 @@ fPvV
 fAs
 focusses
 forwards
+former
 Woke
 Write
 Went
@@ -12770,6 +12772,7 @@ induction
 irrational
 incoming
 initialises
+imply
 Enough
 Esta
 Est
@@ -24446,6 +24449,7 @@ woke
 worked
 whd
 wave
+weakly
 end
 en
 el
@@ -46016,6 +46020,7 @@ Diff
 DEJAR
 Dev
 DISGUSTA
+Determine
 HH
 Highlight
 Hay
