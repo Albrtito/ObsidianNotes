@@ -35,6 +35,7 @@ Find the integer solutions of the Diophantine equations:
 
 **Solving:**
 1. Solve the first equation:
+
 	i. Find greatest common divisor of 28 and 36. 
 	+ gcd(28, 36) = gcd(7\*4, 6\*4) = 4
 
@@ -42,7 +43,7 @@ Find the integer solutions of the Diophantine equations:
 	
 	iii. We can simplify the equation by dividing by 4. Obtaining: 7x + 9x = 11
 	
-	iv. Euclid’s algorithm??
+	iv. Euclid’s algorithm to find d.
 	$$
 		\begin{gather}
 		9 = 7 * 1 + 2 \Rightarrow 2 = 9 - 7\\
@@ -51,7 +52,37 @@ Find the integer solutions of the Diophantine equations:
 		\end{gather}
 	$$
 		Then: 
-		
+		$$
+		\begin{gather}
+		1 = 7 -3\cdot2 => \\1 = 7-3 \cdot(9-7) = 7 -3\cdot9 + 3\cdot7 = 4\cdot7 - 3\cdot1
+		\end{gather}
+		$$
+   We have found d x, and y: 
+	$$
+	7 x + 9y = d \Rightarrow 7 * 4 + 9*(-3) = 1
+	
+	$$
+	v. Now multiply by 11 it to get …= 11: 
+	$$
+		7 * 44 + 9*(-33) = 11
+	$$
+	We obtain x = 44, y = -33. Then we generalise using the formulas: 
+	$$
+		\begin{cases}
+		x_n = 44 + 9n\\
+		y_n = -33 -7n
+		\end{cases}
+	$$
 
-   
-   
+## 12.8: Congruence relations
+Solve the following congruence equations:
+1. 3x ≡ 5 (mod 13)
+2. 8x ≡ 2 (mod 10)
+3. 5x ≡ 7 (mod 15)
+4. 3x ≡ 9 (mod 15)
+
+**Solving:**
+1. The congruent relation is the same as: 
+	$$
+	3x + 13y 
+	$$
