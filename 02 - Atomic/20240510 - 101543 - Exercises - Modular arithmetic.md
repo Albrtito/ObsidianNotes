@@ -84,5 +84,31 @@ Solve the following congruence equations:
 **Solving:**
 1. The congruent relation is the same as: 
 	$$
-	3x + 13y 
+	3x + 13y = 5
+	$$
+	We know how to as it is a diophantine equation.
+	$$
+	\begin{gather}
+		13 = 3 \cdot 4 + 1 \\
+		\text{Turn it around}\\
+		1 = 13-3\cdot 4\\ 
+		\text{times 5 to get the initial d}\\
+		5 = 13\cdot 5 + 3 \cdot(-20)
+	\end{gather}
+	$$
+	Then the solutions for $x_o, y_0$ are: 
+	$$
+		\begin{cases}
+		x_0 = -20 + 13n\\
+		y_0 = 5 - 3n
+		\end{cases}
+	$$
+	For congruent relations we **only care about the x.**
+	$$
+		-20 + 13 n \equiv -20 \mod 13 \equiv -7\mod 13 \equiv \boxed{6\mod 13}
+	$$
+4. **Reduction of the relation:**
+	The applied reduction gives out the number of solutions that there should be at the end. If we have reduced by dividing by n, then there will be n solutions at the end of the problem (after undoing the reduction)
+	$$
+	3x \equiv 9\mod 15 \Rightarrow x \equiv 3 \mod 5
 	$$
