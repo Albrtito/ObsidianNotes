@@ -15393,6 +15393,7 @@ bases
 blueprint
 bijection
 bRc
+becomes
 Gym
 Given
 GALVIN
@@ -17915,6 +17916,7 @@ TUUE
 TRUE
 Taylor
 THeory
+Transforms
 Movement
 MM
 MMMM
@@ -20701,6 +20703,7 @@ receiver
 replies
 reply
 rep
+reflexivity
 here
 hour
 home
@@ -49857,6 +49860,7 @@ Critical
 Consumer
 Circular
 Checking
+Convolution
 your
 ya
 yo

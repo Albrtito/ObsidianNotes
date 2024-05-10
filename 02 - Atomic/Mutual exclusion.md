@@ -79,7 +79,7 @@ There are several ways of implementing mutual exclusion, we’ll se a few of the
 Any other alternatives rely solely on the OS. 
 
 ## Semaphores:
-As said in:[#Conditions for mutual exclusion](#Conditions%20for%20mutual%20exclusion), any process must signal when entering the section and when exiting it. This is on what semaphores rely on:
+As said in:[[#Conditions for mutual exclusion]], any process must signal when entering the section and when exiting it. This is on what semaphores rely on:
 
 ![20240503 - 190310 -Semaphores Dijkstra method](20240503%20-%20190310%20-Semaphores%20Dijkstra%20method.md)
 

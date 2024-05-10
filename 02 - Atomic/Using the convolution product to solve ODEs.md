@@ -10,7 +10,7 @@ sr-ease: 230
 ---
 How is the [Convolution product](Convolution%20product.md) used to solve ODEs?
 + We are given an [Initial value problem](Initial%20value%20problem) 
-+ The final function Y(s) is a product (or maybe has a term that's a product) of two transformed functions from which we know their initial functions (see [#Practice cases](#Practice%20cases))
++ The final function Y(s) is a product (or maybe has a term that's a product) of two transformed functions from which we know their initial functions (see [[#Practice cases]]
 # Practice cases: 
 ## Example 1: 
 For the following ODE, find the value of y using the convolution product. 

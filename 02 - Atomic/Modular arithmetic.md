@@ -3,7 +3,8 @@ aliases:
 tags:
   - Discrete
   - incomplete
-"References:": 
+"References:":
+  - "[[20240510 - 101543 - Exercises - Modular arithmetic|Exercises - Modular arithmetic]]"
 cssclasses:
 ---
 Modular arithmetic is based on the simple concept of a division of integer numbers. This division follows the following property: 

@@ -4,7 +4,8 @@ aliases:
 tags:
   - review
   - Discrete
-"References:": 
+"References:":
+  - "[[20240510 - 090701 - Exercises - Equivalence relations]]"
 cssclasses: 
 sr-due: 2024-05-12
 sr-interval: 17

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Exercises - Equivalence relations
 tags:
   - review
   - Discrete
