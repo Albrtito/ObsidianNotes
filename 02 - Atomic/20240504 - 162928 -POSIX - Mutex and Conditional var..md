@@ -5,9 +5,9 @@ tags:
   - review
 "References:": 
 cssclasses:
-sr-due: 2024-05-12
-sr-interval: 4
-sr-ease: 270
+sr-due: 2024-05-14
+sr-interval: 2
+sr-ease: 250
 ---
 # POSIX Interfaces for managing mutex and conditional variables:
 ## Mutex:

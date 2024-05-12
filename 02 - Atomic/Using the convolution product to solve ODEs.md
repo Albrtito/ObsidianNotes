@@ -4,8 +4,8 @@ tags:
   - review
   - DiffCalc
 "References:":
-sr-due: 2024-05-11
-sr-interval: 39
+sr-due: 2024-08-10
+sr-interval: 90
 sr-ease: 230
 ---
 How is the [Convolution product](Convolution%20product.md) used to solve ODEs?

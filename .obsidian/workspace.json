@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-12.md",
-                "mode": "source",
+                "file": "02 - Atomic/Equivalence relations.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-12.md",
+                "file": "02 - Atomic/Equivalence relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-12.md",
+                "file": "02 - Atomic/Equivalence relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-12.md",
+                "file": "02 - Atomic/Equivalence relations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-12.md"
+                "file": "02 - Atomic/Equivalence relations.md"
               }
             }
           }
@@ -226,8 +226,10 @@
   },
   "active": "5824e14fc33d945b",
   "lastOpenFiles": [
-    "02 - Atomic/20240507 - 153848 - The wave Equation.md",
+    "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
+    "02 - Atomic/Using the convolution product to solve ODEs.md",
     "01.Areas/0.DailyNote/2024-05-12.md",
+    "02 - Atomic/20240507 - 153848 - The wave Equation.md",
     "02 - Atomic/Systems of First-Order ODEs.md",
     "02 - Atomic/The Laplace transform.md",
     "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
@@ -239,7 +241,6 @@
     "02 - Atomic/Binary Relations.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/Mutual exclusion.md",
-    "02 - Atomic/Using the convolution product to solve ODEs.md",
     "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
     "02 - Atomic/20240409 - 171554 - Refactoring.md",
     "02 - Atomic/Improper Integrals.md",
@@ -252,7 +253,6 @@
     "02 - Atomic/20240509 - 194614 -Problem - Dining Philosophers Problem.md",
     "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
     "02 - Atomic/Race condition.md",
-    "02 - Atomic/Algorithm - Problem -Producer-Consumer problem.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
     "00.References/SoftwareDev_PracticeTheorySession 08.pdf",
