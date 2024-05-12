@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Equivalence relations.md",
-                "mode": "preview",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -24,8 +24,13 @@
             "id": "7bea7114b8eb1fef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/1.UC3M/Discrete Math.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -102,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/Equivalence relations.md",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/Equivalence relations.md",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/Equivalence relations.md",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/Equivalence relations.md"
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md"
               }
             }
           }
@@ -226,6 +231,12 @@
   },
   "active": "5824e14fc33d945b",
   "lastOpenFiles": [
+    "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
+    "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
+    "02 - Atomic/20240429 - 121006 - Congruent relation.md",
+    "02 - Atomic/Using the Laplace transform to solve IVP.md",
+    "02 - Atomic/Equivalence relations.md",
+    "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
     "02 - Atomic/Using the convolution product to solve ODEs.md",
     "01.Areas/0.DailyNote/2024-05-12.md",
@@ -235,11 +246,8 @@
     "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/Modular arithmetic.md",
-    "02 - Atomic/20240429 - 121006 - Congruent relation.md",
     "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
-    "02 - Atomic/Equivalence relations.md",
     "02 - Atomic/Binary Relations.md",
-    "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/Mutual exclusion.md",
     "02 - Atomic/20240411 - 110543 -Semantic Theory.md",
     "02 - Atomic/20240409 - 171554 - Refactoring.md",
@@ -250,9 +258,6 @@
     "02 - Atomic/PythonLib-Unittest.md",
     "02 - Atomic/Concurrency and synchronisation.md",
     "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
-    "02 - Atomic/20240509 - 194614 -Problem - Dining Philosophers Problem.md",
-    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
-    "02 - Atomic/Race condition.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
     "00.References/SoftwareDev_PracticeTheorySession 08.pdf",

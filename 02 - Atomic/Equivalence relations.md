@@ -7,8 +7,8 @@ tags:
 "References:":
   - "[[20240510 - 090701 - Exercises - Equivalence relations]]"
 cssclasses: 
-sr-due: 2024-05-12
-sr-interval: 17
+sr-due: 2024-06-22
+sr-interval: 41
 sr-ease: 232
 ---
 # Intro and definition
@@ -25,7 +25,7 @@ sr-ease: 232
 $$
   a \equiv b (mod R)
 $$
-This is further studied in [Integer and modular arithmetic](Integer%20and%20modular%20arithmetic)
+This is further studied in [[Modular arithmetic]]
 
 ## Theorem function - relation: 
 

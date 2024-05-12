@@ -6,8 +6,8 @@ tags:
   - OS
 "References:": 
 cssclasses:
-sr-due: 2024-05-12
-sr-interval: 4
+sr-due: 2024-05-22
+sr-interval: 10
 sr-ease: 270
 ---
 # Mutex and conditional variables:

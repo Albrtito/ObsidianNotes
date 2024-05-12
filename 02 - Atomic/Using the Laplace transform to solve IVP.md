@@ -6,8 +6,8 @@ tags:
 "References:":
   - "[Initial value problem](Initial%20value%20problem)"
   - "[ODEs](ODEs.md)"
-sr-due: 2024-05-09
-sr-interval: 37
+sr-due: 2024-08-19
+sr-interval: 99
 sr-ease: 258
 ---
 # Intro
