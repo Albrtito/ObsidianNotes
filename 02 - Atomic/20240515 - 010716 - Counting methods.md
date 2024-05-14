@@ -23,5 +23,6 @@ This event A is usually composed by the possibilities of different combinations 
 ![[20240515 - 012315 - Subsets|Subsets]]
 
 ## Distributions: 
-
+![[20240515 - 014532 - Distributions|Distributions]]
 ## Set partitions: 
+![[20240515 - 014718 - Set partitions|Set partitions]]

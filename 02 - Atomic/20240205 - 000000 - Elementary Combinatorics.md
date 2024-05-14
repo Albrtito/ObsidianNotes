@@ -66,8 +66,4 @@ For the discrete course we'll se cases with 3 sets, a maximum of 4 in the worst 
 ![[20240515 - 014153 - Principle - Pigeonhole principle|Pigeonhole principle]]
 
 **Remark:** During the discrete math course it is useful for problems
-
-## [Distributions](Distributions.md)
-For a set of r distinct elements, division into r sets so that there are always those sets and elements but **the number of elements in each set varies** , compute possibilities. Applications in equations
-### [Set partitions](Set%20partitions.md)
-Given a set S, divide it into a certain number of partitions and compute the possible number of n partitions. The cardinality of those partitions is usually specified. 
+ 
