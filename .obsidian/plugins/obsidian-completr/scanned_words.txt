@@ -1435,6 +1435,7 @@ theo
 trick
 triangle
 twice
+turn
 dailyNote
 day
 during
@@ -4454,6 +4455,10 @@ carga
 cRa
 cover
 consecutive
+combinatoric
+counting
+collection
+cardinalities
 lifeOS
 liking
 las
@@ -12784,6 +12789,7 @@ irrational
 incoming
 initialises
 imply
+introduction
 Enough
 Esta
 Est
@@ -39351,6 +39357,7 @@ aRc
 appears
 applies
 arrangements
+addition
 of
 otro
 opciones

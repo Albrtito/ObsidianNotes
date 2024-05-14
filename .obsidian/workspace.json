@@ -35,6 +35,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5050e0aad92da4d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240515 - 010006 - Principle - Sum principle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -234,8 +247,9 @@
   },
   "active": "7bea7114b8eb1fef",
   "lastOpenFiles": [
-    "02 - Atomic/20240515 - 005414 -.md",
+    "02 - Atomic/20240515 - 010006 - Principle - Sum principle.md",
     "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
+    "02 - Atomic/20240515 - 005414 -.md",
     "02 - Atomic/Inclusion exclusion principle.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "00.References/Discrete_Theory_All.pdf",
@@ -261,7 +275,6 @@
     "02 - Atomic/20240409 - 171554 - Refactoring.md",
     "02 - Atomic/Improper Integrals.md",
     "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
-    "02 - Atomic/Asignaturas 2º Cuatri 2024.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
     "00.References/SoftwareDev_PracticeTheorySession 08.pdf",
