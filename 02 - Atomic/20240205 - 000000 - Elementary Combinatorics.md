@@ -48,18 +48,14 @@ When this is generalised we get:
 Multiplication of cardinalities is given by the product principle: 
 ![[20240515 - 010522 - Principle - Product principle|Product principle]]
 
-## Counting methods: 
+## Counting methods:
+![[20240515 - 010716 - Counting methods|Counting methods]]
 
-## Cardinality of the power set: 
 
-> [!NOTE] Corollary 32
-> Definition of the power set as the set **contains all possible subsets of A**
-> $$
-> |P(A)| = 2^{|A|}
-> $$
->
+## The power set: 
+![[20240515 - 013337 - Definition - Power set|Power set]]
 
-**Proof:** Sum all the possible subsets for each of the possible number of elements in the subset. Based on the [Newton's Binomial Theorem](Newton's%20Binomial%20Theorem.md) when x = 1 and y = 1.
+
 ## [Inclusion exclusion principle](Inclusion%20exclusion%20principle.md)
 + We'll se cases with 3 sets, a maximum of 4 in the worst case. 
 ## [Pigeonhole principle](Pigeonhole%20principle.md)
