@@ -46,63 +46,9 @@ When this is generalised we get:
 
 
 Multiplication of cardinalities is given by the product principle: 
+![[20240515 - 010522 - Principle - Product principle|Product principle]]
 
-> [!NOTE] Product principle
-> **Conditions:**
-> + A and B are finite
-> 
-> **Result:**
-> $|A * B| = |A| * |B|$
-+ With multiple sets, this maintains. In this case $A_i$ are different sets.
- 
-$$
-\prod^m_{k=1} |A_K|
-$$
-+ **Usefulness** 
-	+ create unique pairs between sets. 
-	+ Break down procedures into smaller ones: If a procedure can be broken down into tasks that are consecutive. Then the ways of doing the procedure are computed by multiplying the multiplicities of the tasks. 
-
-> [!NOTE] Proposition 21,22: Permutations
-> Possible arrangements, **no specific number of spots to arrange the elements**
-Place one object and subtract one from the cardinality of the set that is being ordered. 
-> 
-> **Result:**
-> + Just use the factorial for basic permutations
-
-
-+ **Permutations with repetitions:** For repeated elements in a set the arrangements cannot repeat. Those repeated arrangements have to be deleted. 
-  To delete the repeated arrangements divide by the number of those repeated arrangements. The number is computed as a normal permutations (with the factorial). The final formula is: 
-$$
-  \binom{n!}{n_1!...n_k!} = {n! \over n_1!...n_k! }
-$$
-
-> [!NOTE] Proposition 23: Ordered subsets
-> Instead of just substracting one (like in permutations) and using the factorial to compute it, now there are **an specific number of spots to arrange the elements**. 
-Subtract one until there are no more spots left
->
-+ Formula: Compute the permutation and delete the unwanted spots
-$$
-n!\over (n-r)!
-$$
-	**r: The number of spots to arrange** 
-		+ Specify where to stop
-
-
-+ **Allowing repetitions**: If two elements can repeat, then no need of subtracting one each time, just multiply by the number of elements in the set the number of times equal to the spots u have. This means. 
-$$
-n^r
-$$
-
-> [!NOTE] Subsets
-> + Using the [Binomial coefficients](Binomial%20coefficients.md)
-> + **The order does not matter**
-> + " From n choose r": Choose pairs of r from a set of n elements
->
-
-$$
-\binom {n}{r} = {n!\over r!(n-r)!}
-$$
-The [Pascal's triangle](Pascal's%20triangle.md) represents the number of possible subsets for different size's of sets. 
+## Counting methods: 
 
 ## Cardinality of the power set: 
 

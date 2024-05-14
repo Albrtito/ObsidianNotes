@@ -4459,6 +4459,7 @@ combinatoric
 counting
 collection
 cardinalities
+categorise
 lifeOS
 liking
 las
@@ -19308,6 +19309,7 @@ Meta
 Manages
 Must
 Math
+Multiplication
 reflections
 reels
 routine
@@ -20721,6 +20723,7 @@ replies
 reply
 rep
 reflexivity
+restrictions
 here
 hour
 home
@@ -35181,6 +35184,7 @@ prototypes
 procedure
 permutation
 partitions
+pairwise
 UC
 UNIDADES
 Unidades
@@ -49916,6 +49920,7 @@ Cardinality
 Choose
 Corollary
 Combinatorics
+Counting
 your
 ya
 yo
