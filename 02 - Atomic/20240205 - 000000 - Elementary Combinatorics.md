@@ -1,18 +1,22 @@
-
-Date: 2024-02-05
-Class: #Discrete 
-References: [Basic Set Operations](Basic%20Set%20Operations.md)
-
 ---
-
-
+tags:
+  - Discrete
+  - review
+DateCreated: 2024-02-05
+"References:":
+  - "[[Basic Set Operations]]"
+aliases:
+  - Elementary Combinatorics
+---
+# Elementary combinatorics
+This is an introduction to combinatoric concepts, pe
 > [!NOTE] Cardinality
 > Given a set S, its cardinality |S| represents with integer value the number n of different elements inside the set S. Namely, the size of the set
 
 + Two sets have the same cardinality <=> There exist a bijective function between them 
 	+ This means we can find a function that turns any value of A into an unique value of B and vice versa
-+ A **countable** set is one with finite cardinality or cardinality = $\N$
-	+ Zero element set: $\emtpyset$ 
++ A **countable** set is one with finite cardinality or cardinality = $\mathbb{N}$
+	+ Zero element set: $\emptyset$ 
 	+ Finite number of elements
 	
 > [!NOTE] Proposition 14

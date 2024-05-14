@@ -13,7 +13,7 @@ $$
 
 **Remarks:**
 + By convention $0! =1$ 
-In  [ElementaryCombinatorics](ElementaryCombinatorics.md) the factorial is used to compute permutations.
+In  [20240205 - 000000 - Elementary Combinatorics](20240205%20-%20000000%20-%20Elementary%20Combinatorics.md) the factorial is used to compute permutations.
 
 > [!NOTE] Definition 2: Binomial coefficient 
 >![Binomial coefficients](Binomial%20coefficients.md)

@@ -1433,6 +1433,8 @@ tell
 trabajo
 theo
 trick
+triangle
+twice
 dailyNote
 day
 during
@@ -2932,6 +2934,7 @@ degrees
 domains
 deleting
 dificultad
+delete
 check
 classes
 cssclasses
@@ -4450,6 +4453,7 @@ canvas
 carga
 cRa
 cover
+consecutive
 lifeOS
 liking
 las
@@ -7046,6 +7050,7 @@ Finding
 Freezegun
 FUERA
 Finc
+Finite
 first
 from
 file
@@ -11280,6 +11285,7 @@ unlocked
 utility
 unblocked
 uav
+unwanted
 in
 is
 important
@@ -15398,6 +15404,7 @@ blueprint
 bijection
 bRc
 becomes
+broken
 Gym
 Given
 GALVIN
@@ -23226,6 +23233,7 @@ BUd
 BVD
 Bas
 BQZZZ
+Break
 we
 would
 what
@@ -24459,6 +24467,7 @@ worked
 whd
 wave
 weakly
+worst
 end
 en
 el
@@ -27273,6 +27282,8 @@ Integrals
 IntroToC
 Integral
 Isolating
+Inclusion
+Infinitely
 Keep
 Key
 Kinds
@@ -30991,6 +31002,12 @@ Prepositions
 Pool
 Prove
 Principle
+Proposition
+Permutations
+Place
+Pascal
+Pigeonhole
+Pasted
 something
 start
 st
@@ -32544,6 +32561,9 @@ sparam
 snchildren
 simulations
 syst
+summed
+spots
+subtracting
 No
 NOTE
 Normalmente
@@ -35152,6 +35172,9 @@ presents
 png
 prototype
 prototypes
+procedure
+permutation
+partitions
 UC
 UNIDADES
 Unidades
@@ -36662,6 +36685,7 @@ UgVI
 UwA
 UGW
 Unittest
+Usefulness
 Achieved
 Antes
 Ah
@@ -37919,6 +37943,7 @@ Assigns
 Attachments
 Although
 Advance
+Allowing
 all
 at
 aliases
@@ -39324,6 +39349,8 @@ acts
 answers
 aRc
 appears
+applies
+arrangements
 of
 otro
 opciones
@@ -41942,6 +41969,7 @@ Reply
 Receiver
 Referenced
 Renaming
+Result
 morning
 me
 mm
@@ -43422,6 +43450,8 @@ marked
 master
 manages
 manipulate
+maintains
+maximum
 YYYY
 YYYYMMDD
 YU
@@ -46037,6 +46067,7 @@ DEJAR
 Dev
 DISGUSTA
 Determine
+Distributions
 HH
 Highlight
 Hay
@@ -49874,6 +49905,10 @@ Circular
 Checking
 Convolution
 Congruence
+Cardinality
+Choose
+Corollary
+Combinatorics
 your
 ya
 yo
@@ -52447,6 +52482,10 @@ Show
 Symmetric
 Superposition
 Separation
+Subtract
+Specify
+Subsets
+Statistics
 La
 Las
 Lanz
@@ -54835,6 +54874,7 @@ ORPJCH
 Oyy
 OBLIG
 Objectives
+Ordered
 varias
 verde
 visita
@@ -56064,6 +56104,7 @@ verify
 verifying
 video
 verifies
+varies
 que
 quieren
 quedo
@@ -66296,6 +66337,7 @@ Zup
 ZrhQ
 ZPf
 ZVw
+Zero
 xr
 xx
 xz

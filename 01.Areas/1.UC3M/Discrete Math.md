@@ -12,7 +12,7 @@ sr-ease: 270
 ### Syllabus
 
 0. [Discrete_Theory_Ch 0_Intro](../../02%20-%20Atomic/Discrete_Theory_Ch%200_Intro.md)
-1. [ElementaryCombinatorics](../../02%20-%20Atomic/ElementaryCombinatorics.md)
+1. [20240205 - 000000 - Elementary Combinatorics](20240205%20-%20000000%20-%20Elementary%20Combinatorics.md)
 2. [Graph Theory](../../02%20-%20Atomic/Graph%20Theory.md)
 3. [Advance methods in combinatorics](../../02%20-%20Atomic/Advance%20methods%20in%20combinatorics.md) 
 4. [Integer arithmetic](../../02%20-%20Atomic/Integer%20arithmetic.md)

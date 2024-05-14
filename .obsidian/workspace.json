@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Discrete Math.md",
+                "file": "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Discrete Math.md",
+                "file": "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Discrete Math.md",
+                "file": "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,8 +152,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "f97aefa6b972e655",
@@ -165,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Discrete Math.md",
+                "file": "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +187,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.30338787002211043,
                   "close": false
                 }
               }
@@ -206,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Discrete Math.md"
+                "file": "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md"
               }
             }
           }
@@ -214,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242
+    "width": 443
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,6 +234,10 @@
   },
   "active": "7bea7114b8eb1fef",
   "lastOpenFiles": [
+    "02 - Atomic/20240515 - 005414 -.md",
+    "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
+    "02 - Atomic/Inclusion exclusion principle.md",
+    "01.Areas/1.UC3M/Discrete Math.md",
     "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
@@ -242,7 +245,6 @@
     "02 - Atomic/20240429 - 121006 - Congruent relation.md",
     "02 - Atomic/Using the Laplace transform to solve IVP.md",
     "02 - Atomic/Equivalence relations.md",
-    "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
     "02 - Atomic/Using the convolution product to solve ODEs.md",
     "01.Areas/0.DailyNote/2024-05-12.md",
@@ -260,8 +262,6 @@
     "02 - Atomic/Improper Integrals.md",
     "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
     "02 - Atomic/Asignaturas 2º Cuatri 2024.md",
-    "01.Areas/1.UC3M/Operating Systems.md",
-    "02 - Atomic/PythonLib-Unittest.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
     "00.References/SoftwareDev_PracticeTheorySession 08.pdf",
