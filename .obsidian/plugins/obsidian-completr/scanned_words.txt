@@ -2936,6 +2936,7 @@ domains
 deleting
 dificultad
 delete
+discard
 check
 classes
 cssclasses
@@ -4460,6 +4461,7 @@ counting
 collection
 cardinalities
 categorise
+counted
 lifeOS
 liking
 las
@@ -32573,6 +32575,7 @@ syst
 summed
 spots
 subtracting
+switched
 No
 NOTE
 Normalmente
