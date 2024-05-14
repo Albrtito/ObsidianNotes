@@ -56,10 +56,17 @@ Multiplication of cardinalities is given by the product principle:
 ![[20240515 - 013337 - Definition - Power set|Power set]]
 
 
-## [Inclusion exclusion principle](Inclusion%20exclusion%20principle.md)
-+ We'll se cases with 3 sets, a maximum of 4 in the worst case. 
-## [Pigeonhole principle](Pigeonhole%20principle.md)
-+ Useful for problems
+## Inclusion exclusion principle
+For the discrete course we'll se cases with 3 sets, a maximum of 4 in the worst case.
+
+![[20240515 - 013650 - Principle - Inclusion-exclusion principle|Inclusion-exclusion principle]]
+
+## Pigeonhole principle
+
+![[20240515 - 014153 - Principle - Pigeonhole principle|Pigeonhole principle]]
+
+**Remark:** During the discrete math course it is useful for problems
+
 ## [Distributions](Distributions.md)
 For a set of r distinct elements, division into r sets so that there are always those sets and elements but **the number of elements in each set varies** , compute possibilities. Applications in equations
 ### [Set partitions](Set%20partitions.md)

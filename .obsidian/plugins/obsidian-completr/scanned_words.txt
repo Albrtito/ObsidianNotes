@@ -2937,6 +2937,9 @@ deleting
 dificultad
 delete
 discard
+distributions
+distribute
+draw
 check
 classes
 cssclasses
@@ -4462,6 +4465,7 @@ collection
 cardinalities
 categorise
 counted
+complement
 lifeOS
 liking
 las
@@ -12793,6 +12797,9 @@ incoming
 initialises
 imply
 introduction
+inclusion
+intersect
+injective
 Enough
 Esta
 Est
@@ -15415,6 +15422,9 @@ bRc
 becomes
 broken
 binomial
+bars
+boxes
+balls
 Gym
 Given
 GALVIN
@@ -29738,6 +29748,7 @@ nowadays
 needing
 nowhere
 newly
+nest
 Post
 Papeleos
 Para
@@ -32578,6 +32589,7 @@ summed
 spots
 subtracting
 switched
+special
 No
 NOTE
 Normalmente
@@ -35190,6 +35202,7 @@ procedure
 permutation
 partitions
 pairwise
+pigeons
 UC
 UNIDADES
 Unidades
@@ -40628,6 +40641,7 @@ oIZ
 oUb
 onS
 obtaining
+orders
 References
 RRI
 RUTAS
@@ -52503,6 +52517,8 @@ Subtract
 Specify
 Subsets
 Statistics
+Stars
+Special
 La
 Las
 Lanz
@@ -58586,6 +58602,7 @@ giving
 grouping
 grouped
 generally
+groups
 junio
 julio
 journaling

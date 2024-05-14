@@ -88,8 +88,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "9dc08f2b170eadf0",
@@ -101,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240515 - 010006 - Principle - Sum principle.md",
+                "file": "02 - Atomic/20240515 - 010716 - Counting methods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,9 +119,34 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1222345220578d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240515 - 013650 - Principle - Inclusion-exclusion principle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6aa0699c5e753af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240515 - 014153 - Principle - Pigeonhole principle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240515 - 013337 - Definition - Power set.md",
+                "file": "02 - Atomic/20240515 - 010716 - Counting methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240515 - 013337 - Definition - Power set.md",
+                "file": "02 - Atomic/20240515 - 010716 - Counting methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240515 - 013337 - Definition - Power set.md",
+                "file": "02 - Atomic/20240515 - 010716 - Counting methods.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,12 +292,12 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.26773392699550946,
+                  "collapse-forces": false,
+                  "centerStrength": 0.201223438506117,
+                  "repelStrength": 12.8804464477356,
+                  "linkStrength": 0.932281605494741,
+                  "linkDistance": 173,
+                  "scale": 0.11465135485003634,
                   "close": true
                 }
               }
@@ -291,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240515 - 013337 - Definition - Power set.md"
+                "file": "02 - Atomic/20240515 - 010716 - Counting methods.md"
               }
             }
           }
@@ -318,9 +342,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1c6822e89e246d91",
+  "active": "5050e0aad92da4d6",
   "lastOpenFiles": [
     "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
+    "02 - Atomic/Distributions.md",
+    "02 - Atomic/20240515 - 010716 - Counting methods.md",
+    "02 - Atomic/20240515 - 010006 - Principle - Sum principle.md",
+    "02 - Atomic/20240515 - 014153 - Principle - Pigeonhole principle.md",
+    "02 - Atomic/20240515 - 013650 - Principle - Inclusion-exclusion principle.md",
+    "02 - Atomic/Pigeonhole principle.md",
+    "02 - Atomic/Inclusion exclusion principle.md",
     "02 - Atomic/20240515 - 013337 - Definition - Power set.md",
     "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
     "02 - Atomic/20240515 - 011944 - Ordered subsets.md",
@@ -328,14 +359,11 @@
     "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240515 - 012315 - Subsets.md",
     "02 - Atomic/Newton's Binomial Theorem.md",
-    "02 - Atomic/20240515 - 010716 - Counting methods.md",
     "02 - Atomic/Binomial coefficients.md",
     "02 - Atomic/20240515 - 012437 -.md",
     "02 - Atomic/20240515 - 010953 - Permutations.md",
-    "02 - Atomic/20240515 - 010006 - Principle - Sum principle.md",
     "02 - Atomic/20240515 - 010522 - Principle - Product principle.md",
     "02 - Atomic/20240515 - 005414 -.md",
-    "02 - Atomic/Inclusion exclusion principle.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
@@ -343,9 +371,6 @@
     "02 - Atomic/20240429 - 121006 - Congruent relation.md",
     "02 - Atomic/Using the Laplace transform to solve IVP.md",
     "02 - Atomic/Equivalence relations.md",
-    "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
-    "02 - Atomic/Using the convolution product to solve ODEs.md",
-    "01.Areas/0.DailyNote/2024-05-12.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
