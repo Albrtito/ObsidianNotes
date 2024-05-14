@@ -16,7 +16,13 @@
                 "file": "00.References/Discrete_Theory_All.pdf"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9dc08f2b170eadf0",
+        "type": "tabs",
+        "children": [
           {
             "id": "7bea7114b8eb1fef",
             "type": "leaf",
@@ -104,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Discrete_Theory_All.pdf",
+                "file": "01.Areas/1.UC3M/Discrete Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Discrete_Theory_All.pdf",
+                "file": "01.Areas/1.UC3M/Discrete Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Discrete_Theory_All.pdf",
+                "file": "01.Areas/1.UC3M/Discrete Math.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Discrete_Theory_All.pdf"
+                "file": "01.Areas/1.UC3M/Discrete Math.md"
               }
             }
           }
@@ -227,8 +233,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5824e14fc33d945b",
+  "active": "7bea7114b8eb1fef",
   "lastOpenFiles": [
+    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
     "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
@@ -255,7 +262,6 @@
     "02 - Atomic/Asignaturas 2º Cuatri 2024.md",
     "01.Areas/1.UC3M/Operating Systems.md",
     "02 - Atomic/PythonLib-Unittest.md",
-    "02 - Atomic/Concurrency and synchronisation.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
     "00.References/SoftwareDev_PracticeTheorySession 08.pdf",
@@ -273,7 +279,6 @@
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
     "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",
     "00.References/OS_Resources_Lab3Statement.pdf",
-    "00.References/Discrete_Theory_All.pdf",
     "00.References/SoftwareDev_Resources_GE3_Statement.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
