@@ -7,6 +7,7 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
+  - page-theorem
 ---
 
 > [!NOTE] Theorem: Handshaking theorem

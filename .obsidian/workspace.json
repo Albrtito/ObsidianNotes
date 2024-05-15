@@ -6,7 +6,7 @@
       {
         "id": "fe38983f1665c079",
         "type": "tabs",
-        "dimension": 30.22492970946579,
+        "dimension": 30.23201312397469,
         "children": [
           {
             "id": "7cf01878feb63d3a",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
+                "file": "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,9 +24,9 @@
         ]
       },
       {
-        "id": "cd0b9d162c0527df",
+        "id": "792d5b0f4d722c76",
         "type": "tabs",
-        "dimension": 35.96532333645735,
+        "dimension": 23.552847433794234,
         "children": [
           {
             "id": "1f71dc71b68c33a9",
@@ -40,7 +40,14 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "cd0b9d162c0527df",
+        "type": "tabs",
+        "dimension": 24.326224513709864,
+        "children": [
           {
             "id": "dcf82902e16479cf",
             "type": "leaf",
@@ -54,13 +61,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "050148f6e21413ba",
         "type": "tabs",
-        "dimension": 33.80974695407685,
+        "dimension": 21.88891492852121,
         "children": [
           {
             "id": "03b69c0c574906a6",
@@ -149,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
+                "file": "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
+                "file": "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
+                "file": "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md"
+                "file": "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md"
               }
             }
           }
@@ -274,10 +280,10 @@
   },
   "active": "7cf01878feb63d3a",
   "lastOpenFiles": [
+    "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
     "02 - Atomic/20240515 - 014532 - Distributions.md",
     "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
     "02 - Atomic/Exercises_Sequences&Series.md",
-    "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
     "01.Areas/0.DailyNote/2024-05-15.md",
     "99 - Meta/1. Templates/dailyNote.md",
     "01.Areas/0.DailyNote/2024-04-19.md",

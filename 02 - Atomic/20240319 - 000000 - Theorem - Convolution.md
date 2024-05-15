@@ -11,7 +11,7 @@ sr-due: 2024-07-03
 sr-interval: 64
 sr-ease: 247
 cssclasses:
-  - page-blueprint
+  - page-theorem
 ---
 
 > [!NOTE] Theorem: 

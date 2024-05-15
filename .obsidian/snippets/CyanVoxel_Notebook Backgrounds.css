@@ -44,7 +44,7 @@ https://angel-rs.github.io/css-color-filter-generator
 /* All Pages */
 .page-manila,
 .page-white,
-.page-blueprint {
+.page-theorem {
   --text-normal: var(--accent-color);
   --text-muted: var(--accent-color);
   --text-faint: var(--accent-color-trans);
@@ -124,7 +124,7 @@ https://angel-rs.github.io/css-color-filter-generator
 
 /* -------------------------- Blueprint Styled Page ------------------------- */
 /* Defaults to White Pen */
-.page-blueprint {
+.page-theorem {
     .inline-title { color: #ffa500 }
   --page-color: var(--page-blue);
   --accent-color: var(--pen-white);
