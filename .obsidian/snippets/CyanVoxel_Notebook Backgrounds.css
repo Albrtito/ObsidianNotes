@@ -125,6 +125,10 @@ https://angel-rs.github.io/css-color-filter-generator
 /* -------------------------- Blueprint Styled Page ------------------------- */
 /* Defaults to White Pen */
 .page-theorem {
+    .callout[data-callout="theom"] {
+    --callout-color: #000000;
+    --callout-title-color: #ffa500 ;
+}
     .inline-title { color: #ffa500 }
   --page-color: var(--page-blue);
   --accent-color: var(--pen-white);

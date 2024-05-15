@@ -10,7 +10,7 @@ cssclasses:
   - page-theorem
 ---
 
-> [!NOTE] Theorem: Handshaking theorem
+> [!theom] Theorem: Handshaking theorem
 > For any **undirected graph** G = (V,E) we have that:
 > $$
 > \sum_{v\in V}d (v) = 2|E|
