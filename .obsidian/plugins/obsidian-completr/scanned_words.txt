@@ -1441,6 +1441,7 @@ tours
 trails
 tour
 trail
+temporary
 dailyNote
 day
 during
@@ -4487,6 +4488,7 @@ city
 crossing
 circuits
 corresponds
+coming
 lifeOS
 liking
 las
@@ -5862,6 +5864,8 @@ lies
 latter
 lines
 loops
+labels
+label
 First
 Fechas
 Familias
@@ -14179,6 +14183,7 @@ ESTA
 Eigenvalue
 Eulerian
 EXACTLY
+Estimate
 breakfast
 benefit
 bien
@@ -15463,6 +15468,7 @@ balls
 bits
 bridges
 bridge
+become
 Gym
 Given
 GALVIN
@@ -19366,6 +19372,7 @@ Multiplication
 Multigraphs
 Multiedges
 Minimum
+Mark
 reflections
 reels
 routine
@@ -26016,6 +26023,7 @@ enumerating
 encase
 eulerian
 embedded
+estimate
 Instagram
 IRIS
 Intendencia
@@ -32670,6 +32678,7 @@ star
 studies
 strings
 subdivision
+shortest
 No
 NOTE
 Normalmente
@@ -35288,6 +35297,8 @@ present
 pseudograph
 planar
 possibly
+permanent
+predecesor
 UC
 UNIDADES
 Unidades
@@ -60125,6 +60136,8 @@ jAlC
 jfM
 jFh
 jHa
+joins
+joining
 Visita
 VLVn
 VLNVn

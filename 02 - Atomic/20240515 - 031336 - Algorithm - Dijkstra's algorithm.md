@@ -26,4 +26,6 @@ Get the initial and final vertex
 	+ If the vertex is adjacent to the initial vertex it gets the label: $(w_{s,j},s)$ , where $w_{s,j}$ is the weight of the edge joining the vertices. 
 	+ If the vertex is not adjacent then it just gets an infinity label.
 2. Let $v \in V$ be the last vertex that has become permanent. For each temporary vertex j we compare the temporary label $\delta_j$ to the new value $\delta_v + w_{v,j}$
-2. 
+3. …
+
+
