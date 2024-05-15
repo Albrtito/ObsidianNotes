@@ -30,7 +30,7 @@ https://angel-rs.github.io/css-color-filter-generator
   /* Page Colors */
   --page-white: #ffffff;
   --page-manila: #f3deaf;
-  --page-blue: #544699;
+  --page-blue: #5C4B99;
 
   --grid-size: 32px;
 }
@@ -125,8 +125,9 @@ https://angel-rs.github.io/css-color-filter-generator
 /* -------------------------- Blueprint Styled Page ------------------------- */
 /* Defaults to White Pen */
 .page-blueprint {
+    .inline-title { color: #ffa500 }
   --page-color: var(--page-blue);
-  --accent-color: var(--pen-whitek);
+  --accent-color: var(--pen-white);
   --accent-color-trans: color-mix(
     in srgb,
     var(--accent-color) 15%,
