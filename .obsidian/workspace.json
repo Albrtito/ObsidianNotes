@@ -37,77 +37,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bea7114b8eb1fef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3776c6ae6aea02d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240515 - 011944 - Ordered subsets.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff2c9135fe313843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240515 - 012600 - Definition - Binomial coefficients.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82fcef33281b51c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c6822e89e246d91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240515 - 013337 - Definition - Power set.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "65ea5f8795b199e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240515 - 014718 - Set partitions.md",
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,16 +52,16 @@
         ]
       },
       {
-        "id": "9dc08f2b170eadf0",
+        "id": "d270df81cf67dc85",
         "type": "tabs",
         "children": [
           {
-            "id": "bafc4df6ab7f7f45",
+            "id": "af8ac47e0da1e965",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240515 - 014532 - Distributions.md",
+                "file": "02 - Atomic/PsedoGraph.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,16 +69,63 @@
             }
           },
           {
-            "id": "7e05255069909f93",
+            "id": "2fbbb69356efcbae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240515 - 014718 - Set partitions.md",
+                "file": "02 - Atomic/Simple Graph.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "274f06f9462231a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/The Handshaking Theorem.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "228987c89406295f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/Bipartite graph.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76e5615d1d937f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/Subgraph.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50ba11cbc1436231",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -221,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240515 - 014718 - Set partitions.md",
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240515 - 014718 - Set partitions.md",
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240515 - 014718 - Set partitions.md",
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +280,7 @@
                   "repelStrength": 12.8804464477356,
                   "linkStrength": 0.932281605494741,
                   "linkDistance": 173,
-                  "scale": 0.10465468092002526,
+                  "scale": 0.11581944318619825,
                   "close": true
                 }
               }
@@ -316,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240515 - 014718 - Set partitions.md"
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md"
               }
             }
           }
@@ -343,34 +325,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7e05255069909f93",
+  "active": "65ea5f8795b199e7",
   "lastOpenFiles": [
+    "02 - Atomic/Simple Graph.md",
+    "02 - Atomic/20240515 - 020755 - Graph theory.md",
+    "02 - Atomic/The Handshaking Theorem.md",
+    "02 - Atomic/Subgraph.md",
+    "02 - Atomic/Graph Isomorphism.md",
+    "02 - Atomic/Adjacency matrix.md",
+    "02 - Atomic/Bipartite graph.md",
+    "02 - Atomic/spanning subgraph.md",
+    "02 - Atomic/colorings.md",
+    "02 - Atomic/20240515 - 021233 -.md",
+    "02 - Atomic/PsedoGraph.md",
     "00.References/Discrete_Theory_All.pdf",
-    "01.Areas/1.UC3M/Discrete Math.md",
-    "02 - Atomic/20240515 - 014718 - Set partitions.md",
     "02 - Atomic/20240515 - 014532 - Distributions.md",
+    "02 - Atomic/20240515 - 014718 - Set partitions.md",
+    "02 - Atomic/20240515 - 013337 - Definition - Power set.md",
+    "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
+    "02 - Atomic/20240515 - 012600 - Definition - Binomial coefficients.md",
+    "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
+    "02 - Atomic/20240515 - 011944 - Ordered subsets.md",
+    "01.Areas/1.UC3M/Discrete Math.md",
+    "02 - Atomic/Graph Theory.md",
     "02 - Atomic/20240515 - 014153 - Principle - Pigeonhole principle.md",
     "02 - Atomic/20240515 - 013650 - Principle - Inclusion-exclusion principle.md",
     "02 - Atomic/20240515 - 010716 - Counting methods.md",
-    "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
     "02 - Atomic/Natural numbers (set N).md",
     "02 - Atomic/Pascal's triangle.md",
     "02 - Atomic/Set partitions.md",
-    "02 - Atomic/Distributions.md",
-    "02 - Atomic/20240515 - 010006 - Principle - Sum principle.md",
-    "02 - Atomic/Pigeonhole principle.md",
-    "02 - Atomic/Inclusion exclusion principle.md",
-    "02 - Atomic/20240515 - 013337 - Definition - Power set.md",
-    "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
-    "02 - Atomic/20240515 - 011944 - Ordered subsets.md",
-    "02 - Atomic/20240515 - 012600 - Definition - Binomial coefficients.md",
-    "02 - Atomic/20240515 - 012315 - Subsets.md",
-    "02 - Atomic/Newton's Binomial Theorem.md",
-    "02 - Atomic/Binomial coefficients.md",
-    "02 - Atomic/20240515 - 012437 -.md",
-    "02 - Atomic/20240515 - 010953 - Permutations.md",
-    "02 - Atomic/20240515 - 010522 - Principle - Product principle.md",
-    "02 - Atomic/20240515 - 005414 -.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",

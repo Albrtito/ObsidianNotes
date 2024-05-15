@@ -1436,6 +1436,7 @@ trick
 triangle
 twice
 turn
+tuples
 dailyNote
 day
 during
@@ -2940,6 +2941,7 @@ discard
 distributions
 distribute
 draw
+differs
 check
 classes
 cssclasses
@@ -4468,6 +4470,10 @@ counted
 complement
 cutting
 convention
+connection
+connecting
+contribute
+cube
 lifeOS
 liking
 las
@@ -5842,6 +5848,7 @@ lOE
 lies
 latter
 lines
+loops
 First
 Fechas
 Familias
@@ -8409,6 +8416,7 @@ fAs
 focusses
 forwards
 former
+families
 Woke
 Write
 Went
@@ -9943,6 +9951,7 @@ WMW
 WvA
 Weakly
 Weak
+Walks
 up
 usage
 under
@@ -11303,6 +11312,7 @@ unblocked
 uav
 unwanted
 unordered
+undirected
 in
 is
 important
@@ -19328,6 +19338,8 @@ Manages
 Must
 Math
 Multiplication
+Multigraphs
+Multiedges
 reflections
 reels
 routine
@@ -23262,6 +23274,7 @@ Bas
 BQZZZ
 Break
 Base
+Bipartite
 we
 would
 what
@@ -25965,6 +25978,7 @@ evaluated
 evaluating
 ever
 enumerating
+encase
 Instagram
 IRIS
 Intendencia
@@ -27314,6 +27328,7 @@ Integral
 Isolating
 Inclusion
 Infinitely
+Isomorphism
 Keep
 Key
 Kinds
@@ -29757,6 +29772,7 @@ nowhere
 newly
 nest
 nature
+nonempty
 Post
 Papeleos
 Para
@@ -31042,6 +31058,9 @@ Pigeonhole
 Pasted
 Partition
 PART
+PsedoGraph
+Pseudograph
+Path
 something
 start
 st
@@ -32600,6 +32619,9 @@ spots
 subtracting
 switched
 special
+stars
+star
+studies
 No
 NOTE
 Normalmente
@@ -35213,6 +35235,8 @@ permutation
 partitions
 pairwise
 pigeons
+pseudo
+present
 UC
 UNIDADES
 Unidades
@@ -36726,6 +36750,7 @@ Unittest
 Usefulness
 UNDERSTOOD
 Uses
+Undirected
 Achieved
 Antes
 Ah
@@ -39392,6 +39417,7 @@ appears
 applies
 arrangements
 addition
+asume
 of
 otro
 opciones
@@ -40654,6 +40680,7 @@ oUb
 onS
 obtaining
 orders
+okay
 References
 RRI
 RUTAS
@@ -43494,6 +43521,7 @@ manages
 manipulate
 maintains
 maximum
+multiedges
 YYYY
 YYYYMMDD
 YU
@@ -46111,6 +46139,7 @@ DISGUSTA
 Determine
 Distributions
 Division
+Degree
 HH
 Highlight
 Hay
@@ -47282,6 +47311,7 @@ Hby
 HUGE
 Holds
 HOMOGENEOUS
+Handshaking
 Journal
 January
 Jacobo
@@ -49954,6 +49984,8 @@ Corollary
 Combinatorics
 Counting
 CAUSE
+Characteristics
+Complete
 your
 ya
 yo
@@ -52533,6 +52565,8 @@ Subsets
 Statistics
 Stars
 Special
+Subgraph
+Starts
 La
 Las
 Lanz
@@ -53800,6 +53834,7 @@ Like
 Local
 Library
 Looking
+Loops
 Otras
 Otros
 OS
@@ -56152,6 +56187,7 @@ verifying
 video
 verifies
 varies
+valence
 que
 quieren
 quedo
