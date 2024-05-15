@@ -57,85 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240515 - 032046 - Planar graph.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbf55aee4863bafc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240515 - 031853 - Definition - Complementary graph.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c0b2558dde167ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fc986dc04edfc2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240515 - 032018 - Tree graph.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c352e046be804321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240515 - 032046 - Planar graph.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47270ba76780cf5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240515 - 033826 - Algorithm - Fleury's algorithm.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "535ecead93230485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240515 - 035256 - Euler's formula.md",
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -271,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240515 - 032046 - Planar graph.md",
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240515 - 032046 - Planar graph.md",
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240515 - 032046 - Planar graph.md",
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -366,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240515 - 032046 - Planar graph.md"
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md"
               }
             }
           }
@@ -395,10 +317,11 @@
   },
   "active": "7a4e33ca683edbdc",
   "lastOpenFiles": [
-    "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
-    "02 - Atomic/20240515 - 020755 - Graph theory.md",
     "02 - Atomic/20240515 - 032046 - Planar graph.md",
+    "02 - Atomic/20240515 - 020755 - Graph theory.md",
+    "02 - Atomic/20240515 - 031853 - Definition - Complementary graph.md",
     "00.References/Discrete_Theory_All.pdf",
+    "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
     "02 - Atomic/20240515 - 035256 - Euler's formula.md",
     "02 - Atomic/20240515 - 033903 - Hamiltonian graphs.md",
     "02 - Atomic/20240515 - 022456 - Definition - Simple graph.md",
@@ -409,7 +332,6 @@
     "99 - Meta/0. Attachments/Pasted image 20240515033016.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-15 at 03.29.37.png",
     "02 - Atomic/20240515 - 032018 - Tree graph.md",
-    "02 - Atomic/20240515 - 031853 - Definition - Complementary graph.md",
     "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
     "02 - Atomic/20240515 - 025614 - Minimum weight spanning tree.md",
     "02 - Atomic/20240515 - 030554 - Algorithm - Prim's Algorithm.md",
@@ -436,7 +358,6 @@
     "00.References/Calc_Theory_All.pdf",
     "99 - Meta/0. Attachments/AND (Conjunction) Truth table.png",
     "99 - Meta/0. Attachments/OR(Disjunction) truth table.png",
-    "99 - Meta/0. Attachments/Conditional Truth table.png",
     "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
     "00.References/OS_Resources_Lab3Statement.pdf",
