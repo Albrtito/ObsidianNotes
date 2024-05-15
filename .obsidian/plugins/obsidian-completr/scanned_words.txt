@@ -14163,6 +14163,7 @@ ESXCKQ
 ElementaryCombinatorics
 ESTA
 Eigenvalue
+Eulerian
 breakfast
 benefit
 bien
@@ -19347,6 +19348,7 @@ Math
 Multiplication
 Multigraphs
 Multiedges
+Minimum
 reflections
 reels
 routine
@@ -24517,6 +24519,7 @@ whd
 wave
 weakly
 worst
+weight
 end
 en
 el
@@ -47326,6 +47329,7 @@ Holds
 HOMOGENEOUS
 Handshaking
 Handshanking
+Hamiltonian
 Journal
 January
 Jacobo
@@ -52582,6 +52586,7 @@ Special
 Subgraph
 Starts
 Spanning
+Shortest
 La
 Las
 Lanz
