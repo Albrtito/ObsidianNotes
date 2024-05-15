@@ -23,14 +23,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Discrete Math.md",
+                "file": "02 - Atomic/Recurrence relations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1f40285b635b12aa",
@@ -87,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
+                "file": "02 - Atomic/20240515 - 022456 - Definition - Simple graph.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -202,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
+                "file": "02 - Atomic/Recurrence relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
+                "file": "02 - Atomic/Recurrence relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
+                "file": "02 - Atomic/Recurrence relations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md"
+                "file": "02 - Atomic/Recurrence relations.md"
               }
             }
           }
@@ -324,16 +325,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3b6ea6ef2718953a",
+  "active": "21e6aee61c060e72",
   "lastOpenFiles": [
+    "02 - Atomic/Advance methods in combinatorics.md",
+    "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/20240515 - 020755 - Graph theory.md",
+    "02 - Atomic/20240515 - 022456 - Definition - Simple graph.md",
+    "00.References/Discrete_Theory_All.pdf",
+    "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
     "02 - Atomic/20240515 - 021923 - Definition - Pseudograph.md",
     "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
     "02 - Atomic/Bipartite graph.md",
-    "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
-    "02 - Atomic/20240515 - 022456 - Definition - Simple graph.md",
     "02 - Atomic/The Handshaking Theorem.md",
-    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/Simple Graph.md",
     "02 - Atomic/The n-cube graphs.md",
     "02 - Atomic/Complete bipartite graph.md",
@@ -351,8 +354,6 @@
     "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
     "02 - Atomic/20240515 - 012600 - Definition - Binomial coefficients.md",
     "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
-    "02 - Atomic/20240515 - 011944 - Ordered subsets.md",
-    "01.Areas/1.UC3M/Discrete Math.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",

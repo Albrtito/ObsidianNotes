@@ -7076,6 +7076,7 @@ FUERA
 Finc
 Finite
 FINISHED
+Fibonacci
 first
 from
 file
@@ -17968,6 +17969,7 @@ TRUE
 Taylor
 THeory
 Transforms
+Trees
 Movement
 MM
 MMMM
@@ -27335,6 +27337,7 @@ Isolating
 Inclusion
 Infinitely
 Isomorphism
+Isomorphic
 Keep
 Key
 Kinds
@@ -31068,6 +31071,7 @@ PsedoGraph
 Pseudograph
 Path
 Pseudographs
+Planar
 something
 start
 st
@@ -52577,6 +52581,7 @@ Stars
 Special
 Subgraph
 Starts
+Spanning
 La
 Las
 Lanz
