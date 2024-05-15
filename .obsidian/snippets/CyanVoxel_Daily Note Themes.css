@@ -13,7 +13,7 @@ change or remove those font-family lines from this snippet.
 ------------------------------------------------------------------------------*/
 :root {
   --highlight: #ffffff;
-  --primary: #aaaaaa;
+  --primary: #000000;
   --dark: #D2E3C8;
 }
 
@@ -58,17 +58,23 @@ change or remove those font-family lines from this snippet.
   --dark: #3c0e0b;
 }
 .tuesday {
-  --highlight: #aedbfa;
-  --primary: #3b87f0;
-  --dark: #070615;
-}
-.wednesday {
+
     /* This changes text color*/
-  --highlight: #aedbfa;
+  --highlight: #4F6F52;
     /* This changes headings, lines and accesnts*/
-  --primary: #ffd63;
+  --primary: #000000;
     /* This is the background color*/
   --dark: #D2E3C8;
+
+}
+.wednesday {
+  /* This changes text color*/
+  --highlight: #4F6F52;
+    /* This changes headings, lines and accesnts*/
+  --primary: #000000;
+    /* This is the background color*/
+  --dark: #D2E3C8;
+  
 }
 .thursday {
   --highlight: #f7b79b;
@@ -76,10 +82,10 @@ change or remove those font-family lines from this snippet.
   --dark: #210b04;
 }
 .friday {
-  --highlight: #e9f9b7;
-  --primary: #92e649;
-  --dark: #192108;
-}
+  
+  --highlight: #aedbfa;
+  --primary: #3b87f0;
+  --dark: #070615;}
 .saturday {
   --highlight: #f39caa;
   --primary: #e22c3c;

@@ -21,11 +21,16 @@
             }
           },
           {
-            "id": "82c440f58ce5a8f0",
+            "id": "f14d5fbc888f1553",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/0.DailyNote/2024-04-19.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -78,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -228,6 +232,8 @@
   },
   "active": "1f71dc71b68c33a9",
   "lastOpenFiles": [
+    "01.Areas/0.DailyNote/2024-04-19.md",
+    "01.Areas/0.DailyNote/2024-04-28.md",
     "01.Areas/0.DailyNote/2024-05-15.md",
     "02 - Atomic/20240515 - 014532 - Distributions.md",
     "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
@@ -256,8 +262,6 @@
     "02 - Atomic/Recurrence relations.md",
     "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
     "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
-    "02 - Atomic/Bipartite graph.md",
-    "02 - Atomic/The Handshaking Theorem.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
