@@ -4,8 +4,29 @@
     "type": "split",
     "children": [
       {
+        "id": "fe38983f1665c079",
+        "type": "tabs",
+        "dimension": 23.547328959700096,
+        "children": [
+          {
+            "id": "7cf01878feb63d3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "050148f6e21413ba",
         "type": "tabs",
+        "dimension": 76.4526710402999,
         "children": [
           {
             "id": "1f71dc71b68c33a9",
@@ -21,12 +42,12 @@
             }
           },
           {
-            "id": "7cf01878feb63d3a",
+            "id": "03b69c0c574906a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
+                "file": "02 - Atomic/20240515 - 014532 - Distributions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -233,11 +254,12 @@
   },
   "active": "7cf01878feb63d3a",
   "lastOpenFiles": [
+    "02 - Atomic/20240515 - 014532 - Distributions.md",
+    "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
     "01.Areas/0.DailyNote/2024-05-15.md",
     "99 - Meta/1. Templates/dailyNote.md",
     "01.Areas/0.DailyNote/2024-04-19.md",
     "01.Areas/0.DailyNote/2024-04-28.md",
-    "02 - Atomic/20240515 - 014532 - Distributions.md",
     "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
     "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240515 - 032046 - Planar graph.md",
@@ -262,7 +284,6 @@
     "02 - Atomic/20240515 - 025717 - Definition- Spanning subgraph.md",
     "02 - Atomic/Advance methods in combinatorics.md",
     "02 - Atomic/Recurrence relations.md",
-    "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",

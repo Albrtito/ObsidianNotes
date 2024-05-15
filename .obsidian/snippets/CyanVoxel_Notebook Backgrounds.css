@@ -30,7 +30,7 @@ https://angel-rs.github.io/css-color-filter-generator
   /* Page Colors */
   --page-white: #ffffff;
   --page-manila: #f3deaf;
-  --page-blue: #7698e0;
+  --page-blue: #544699;
 
   --grid-size: 32px;
 }
@@ -110,8 +110,6 @@ https://angel-rs.github.io/css-color-filter-generator
 /* Defaults to Black Pen */
 .page-white {
   --page-color: var(--page-white);
-  --accent-color: var(--neutral-pen-black);
-  --accent-color-trans: color-mix(
     in srgb,
     var(--accent-color) 15%,
     transparent
@@ -128,7 +126,7 @@ https://angel-rs.github.io/css-color-filter-generator
 /* Defaults to White Pen */
 .page-blueprint {
   --page-color: var(--page-blue);
-  --accent-color: var(--pen-white);
+  --accent-color: var(--pen-whitek);
   --accent-color-trans: color-mix(
     in srgb,
     var(--accent-color) 15%,
