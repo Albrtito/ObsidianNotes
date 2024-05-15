@@ -126,8 +126,8 @@ https://angel-rs.github.io/css-color-filter-generator
 /* Defaults to White Pen */
 .page-theorem {
     .callout[data-callout="theom"] {
-   --callout-color: #4a5670;
    --callout-title-color: #ffa500;
+   --callout-color: 40,47,63;
 }
     .inline-title { color: #ffa500 }
   --page-color: var(--page-blue);
