@@ -23,7 +23,7 @@ Customize this template to your liking!
 - [ ] Morning Routine
 	- [ ] Woke up in time
 	- [ ] Enough breakfast
-	- [ ] Gym / Training /Movement (30 min)
+- [ ] Gym / Training /Movement (30 min)
 
 - [ ]  Instagram usage
 	- [ ] Keep usage under 1 hour
