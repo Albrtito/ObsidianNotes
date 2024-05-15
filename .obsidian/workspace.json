@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240515 - 032223 - Eulerian Graphs.md",
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240515 - 032223 - Eulerian Graphs.md",
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240515 - 032223 - Eulerian Graphs.md",
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,9 +282,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240515 - 032223 - Eulerian Graphs.md",
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 3,
                   "localBacklinks": true,
@@ -305,8 +305,8 @@
                   "repelStrength": 12.8804464477356,
                   "linkStrength": 0.932281605494741,
                   "linkDistance": 173,
-                  "scale": 0.0779996214756559,
-                  "close": true
+                  "scale": 0.08779149519890318,
+                  "close": false
                 }
               }
             }
@@ -323,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240515 - 032223 - Eulerian Graphs.md"
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md"
               }
             }
           }
@@ -350,11 +350,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "65ea5f8795b199e7",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
-    "02 - Atomic/20240515 - 020755 - Graph theory.md",
     "02 - Atomic/20240515 - 032223 - Eulerian Graphs.md",
+    "02 - Atomic/20240515 - 032734 - Problem - Seven bridges of Königsberg.md",
+    "00.References/Discrete_Theory_All.pdf",
+    "99 - Meta/0. Attachments/Pasted image 20240515033016.png",
+    "99 - Meta/0. Attachments/Screenshot 2024-05-15 at 03.29.37.png",
     "02 - Atomic/20240515 - 032046 - Planar graph.md",
+    "02 - Atomic/20240515 - 020755 - Graph theory.md",
     "02 - Atomic/20240515 - 032018 - Tree graph.md",
     "02 - Atomic/20240515 - 031853 - Definition - Complementary graph.md",
     "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
@@ -364,7 +368,6 @@
     "02 - Atomic/20240515 - 030836 - Algorithm- Kruskal's algorithm.md",
     "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
     "02 - Atomic/20240515 - 021923 - Definition - Pseudograph.md",
-    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240515 - 025717 - Definition- Spanning subgraph.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/Advance methods in combinatorics.md",
@@ -377,8 +380,6 @@
     "02 - Atomic/The n-cube graphs.md",
     "02 - Atomic/Complete bipartite graph.md",
     "02 - Atomic/Complete graph.md",
-    "02 - Atomic/PsedoGraph.md",
-    "02 - Atomic/Subgraph.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
@@ -392,10 +393,8 @@
     "99 - Meta/0. Attachments/AND (Conjunction) Truth table.png",
     "99 - Meta/0. Attachments/OR(Disjunction) truth table.png",
     "99 - Meta/0. Attachments/Conditional Truth table.png",
-    "99 - Meta/0. Attachments/Truth table of the negation connective.png",
     "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
-    "99 - Meta/0. Attachments/Perfect matching on a K6 complete graph.png",
     "00.References/OS_Resources_Lab3Statement.pdf",
     "00.References/SoftwareDev_Resources_GE3_Statement.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",

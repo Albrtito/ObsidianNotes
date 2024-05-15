@@ -1437,6 +1437,10 @@ triangle
 twice
 turn
 tuples
+tours
+trails
+tour
+trail
 dailyNote
 day
 during
@@ -4476,6 +4480,10 @@ connecting
 contribute
 cube
 characteristics
+circuit
+city
+crossing
+circuits
 lifeOS
 liking
 las
@@ -14165,6 +14173,7 @@ ElementaryCombinatorics
 ESTA
 Eigenvalue
 Eulerian
+EXACTLY
 breakfast
 benefit
 bien
@@ -15447,6 +15456,8 @@ bars
 boxes
 balls
 bits
+bridges
+bridge
 Gym
 Given
 GALVIN
@@ -22029,6 +22040,7 @@ hVV
 holding
 hardware
 handshaking
+himself
 Before
 Burocracia
 Buses
@@ -24523,6 +24535,8 @@ worst
 weight
 weighted
 weights
+walking
+walked
 end
 en
 el
@@ -25993,6 +26007,7 @@ evaluating
 ever
 enumerating
 encase
+eulerian
 Instagram
 IRIS
 Intendencia
@@ -28554,6 +28569,7 @@ KcWQ
 KAE
 KEd
 Kruskal
+Königsberg
 not
 now
 no
@@ -52594,6 +52610,7 @@ Subgraph
 Starts
 Spanning
 Shortest
+Seven
 La
 Las
 Lanz
@@ -54984,6 +55001,7 @@ Oyy
 OBLIG
 Objectives
 Ordered
+ONCE
 varias
 verde
 visita
