@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
+                "file": "00.References/Discrete_Theory_All.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
+                "file": "00.References/Discrete_Theory_All.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
+                "file": "00.References/Discrete_Theory_All.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md"
+                "file": "00.References/Discrete_Theory_All.pdf"
               }
             }
           }
@@ -315,10 +315,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7a4e33ca683edbdc",
+  "active": "5824e14fc33d945b",
   "lastOpenFiles": [
-    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
+    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240515 - 032046 - Planar graph.md",
     "02 - Atomic/20240515 - 020755 - Graph theory.md",
     "02 - Atomic/20240515 - 031853 - Definition - Complementary graph.md",
