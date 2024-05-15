@@ -3,8 +3,8 @@ Date: 2024-03-18
 tags:
   - Discrete
 "References:":
-  - "[Discrete_Theory_All](../../00.References/Discrete_Theory_All.pdf)"
-  - "[Discreta_Exercises_All_Solved](../../00.References/Discreta_Exercises_All_Solved.pdf)"
+  - "[[Discrete_Theory_All.pdf]]"
+  - "[[Discreta_Exercises_All_Solved.pdf]]"
 sr-due: 2024-03-22
 sr-interval: 4
 sr-ease: 270

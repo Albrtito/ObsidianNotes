@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1f40285b635b12aa",
@@ -133,8 +132,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e05255069909f93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240515 - 014718 - Set partitions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240515 - 014532 - Distributions.md",
+                "file": "02 - Atomic/20240515 - 014718 - Set partitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240515 - 014532 - Distributions.md",
+                "file": "02 - Atomic/20240515 - 014718 - Set partitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +275,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240515 - 014532 - Distributions.md",
+                "file": "02 - Atomic/20240515 - 014718 - Set partitions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,7 +284,7 @@
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -303,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240515 - 014532 - Distributions.md"
+                "file": "02 - Atomic/20240515 - 014718 - Set partitions.md"
               }
             }
           }
@@ -330,18 +343,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bafc4df6ab7f7f45",
+  "active": "7e05255069909f93",
   "lastOpenFiles": [
+    "00.References/Discrete_Theory_All.pdf",
+    "01.Areas/1.UC3M/Discrete Math.md",
+    "02 - Atomic/20240515 - 014718 - Set partitions.md",
+    "02 - Atomic/20240515 - 014532 - Distributions.md",
     "02 - Atomic/20240515 - 014153 - Principle - Pigeonhole principle.md",
     "02 - Atomic/20240515 - 013650 - Principle - Inclusion-exclusion principle.md",
     "02 - Atomic/20240515 - 010716 - Counting methods.md",
     "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
     "02 - Atomic/Natural numbers (set N).md",
     "02 - Atomic/Pascal's triangle.md",
-    "01.Areas/1.UC3M/Discrete Math.md",
-    "02 - Atomic/20240515 - 014718 - Set partitions.md",
     "02 - Atomic/Set partitions.md",
-    "02 - Atomic/20240515 - 014532 - Distributions.md",
     "02 - Atomic/Distributions.md",
     "02 - Atomic/20240515 - 010006 - Principle - Sum principle.md",
     "02 - Atomic/Pigeonhole principle.md",
@@ -350,7 +364,6 @@
     "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
     "02 - Atomic/20240515 - 011944 - Ordered subsets.md",
     "02 - Atomic/20240515 - 012600 - Definition - Binomial coefficients.md",
-    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240515 - 012315 - Subsets.md",
     "02 - Atomic/Newton's Binomial Theorem.md",
     "02 - Atomic/Binomial coefficients.md",
@@ -358,7 +371,6 @@
     "02 - Atomic/20240515 - 010953 - Permutations.md",
     "02 - Atomic/20240515 - 010522 - Principle - Product principle.md",
     "02 - Atomic/20240515 - 005414 -.md",
-    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
