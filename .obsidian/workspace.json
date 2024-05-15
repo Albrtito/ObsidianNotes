@@ -6,6 +6,7 @@
       {
         "id": "050148f6e21413ba",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "5824e14fc33d945b",
@@ -35,6 +36,7 @@
       {
         "id": "1f40285b635b12aa",
         "type": "tabs",
+        "dimension": 35.947712418300654,
         "children": [
           {
             "id": "65ea5f8795b199e7",
@@ -43,6 +45,19 @@
               "type": "markdown",
               "state": {
                 "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a4e33ca683edbdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240515 - 032046 - Planar graph.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,11 +142,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d270df81cf67dc85",
         "type": "tabs",
+        "dimension": 30.718954248366014,
         "children": [
           {
             "id": "3b6ea6ef2718953a",
@@ -254,6 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/20240515 - 032046 - Planar graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,6 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/20240515 - 032046 - Planar graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,6 +325,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/20240515 - 032046 - Planar graph.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -345,7 +365,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/20240515 - 032046 - Planar graph.md"
+              }
             }
           }
         ]
@@ -371,8 +393,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "89073f15576efae5",
+  "active": "7a4e33ca683edbdc",
   "lastOpenFiles": [
+    "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
     "02 - Atomic/20240515 - 020755 - Graph theory.md",
     "02 - Atomic/20240515 - 032046 - Planar graph.md",
     "00.References/Discrete_Theory_All.pdf",
