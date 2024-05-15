@@ -11316,6 +11316,7 @@ uav
 unwanted
 unordered
 undirected
+unweighted
 in
 is
 important
@@ -24520,6 +24521,8 @@ wave
 weakly
 worst
 weight
+weighted
+weights
 end
 en
 el
@@ -31075,6 +31078,7 @@ Pseudograph
 Path
 Pseudographs
 Planar
+Prim
 something
 start
 st
@@ -50004,6 +50008,8 @@ Counting
 CAUSE
 Characteristics
 Complete
+Contains
+Connected
 your
 ya
 yo

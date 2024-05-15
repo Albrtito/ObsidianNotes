@@ -24,4 +24,7 @@ For unweighted graphs we can leave it there, however when the graph is weighted 
 > $$
 > takes the minimum possible value
 
-In order to obtain this minimum-weight spanning graph 
+In order to obtain this minimum-weight spanning graph we can use two algorithms. 
+## Algorithms to obtain the minimum-weight spanning tree: 
++ [[20240515 - 030554 - Algorithm - Prim's Algorithm|Prim's Algorithm]]
++ [[20240515 - 030836 - Algorithm- Kruskal's algorithm|Kruskal's algorithm]]
