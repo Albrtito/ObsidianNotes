@@ -2947,6 +2947,8 @@ distribute
 draw
 differs
 directed
+drawn
+dual
 check
 classes
 cssclasses
@@ -8428,6 +8430,7 @@ focusses
 forwards
 former
 families
+faces
 Woke
 Write
 Went
@@ -20775,6 +20778,7 @@ reply
 rep
 reflexivity
 restrictions
+reversible
 here
 hour
 home
@@ -22041,6 +22045,7 @@ holding
 hardware
 handshaking
 himself
+hamiltonian
 Before
 Burocracia
 Buses
@@ -26008,6 +26013,7 @@ ever
 enumerating
 encase
 eulerian
+embedded
 Instagram
 IRIS
 Intendencia
@@ -28570,6 +28576,7 @@ KAE
 KEd
 Kruskal
 Königsberg
+Kuratowsky
 not
 now
 no
@@ -29805,6 +29812,7 @@ newly
 nest
 nature
 nonempty
+necessarily
 Post
 Papeleos
 Para
@@ -31096,6 +31104,7 @@ Path
 Pseudographs
 Planar
 Prim
+Plane
 something
 start
 st
@@ -32658,6 +32667,7 @@ stars
 star
 studies
 strings
+subdivision
 No
 NOTE
 Normalmente
@@ -35274,6 +35284,7 @@ pigeons
 pseudo
 present
 pseudograph
+planar
 UC
 UNIDADES
 Unidades
@@ -39455,6 +39466,7 @@ applies
 arrangements
 addition
 asume
+admits
 of
 otro
 opciones
@@ -46177,6 +46189,8 @@ Determine
 Distributions
 Division
 Degree
+Dirac
+Dual
 HH
 Highlight
 Hay
@@ -58698,6 +58712,8 @@ grouping
 grouped
 generally
 groups
+grap
+graphical
 junio
 julio
 journaling
