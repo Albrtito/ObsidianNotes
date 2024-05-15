@@ -63,7 +63,7 @@ change or remove those font-family lines from this snippet.
   --dark: #070615;
 }
 .wednesday {
-  --highlight: #fff3c4;
+  --highlight: #aedbfa;
   --primary: #ffd63d;
   --dark: #2c1404;
 }
@@ -153,5 +153,5 @@ change or remove those font-family lines from this snippet.
 .saturday
   )
   svg {
-  color: color-mix(in srgb, var(--highlight) 60%, transparent);
+  color: color-mix(in srgb, var(--highlight) 100%, transparent);
 }

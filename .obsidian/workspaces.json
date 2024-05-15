@@ -13,13 +13,8 @@
                 "id": "5824e14fc33d945b",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01.Areas/0.DailyNote/2024-04-11.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -96,7 +91,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "01.Areas/0.DailyNote/2024-04-11.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -113,7 +107,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "01.Areas/0.DailyNote/2024-04-11.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -150,7 +143,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "01.Areas/0.DailyNote/2024-04-11.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -168,11 +160,11 @@
                       "textFadeMultiplier": 0,
                       "nodeSizeMultiplier": 1,
                       "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
+                      "collapse-forces": false,
                       "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
+                      "repelStrength": 13.341859845457,
+                      "linkStrength": 0.76664002131628,
+                      "linkDistance": 211,
                       "scale": 1,
                       "close": false
                     }
@@ -190,16 +182,14 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "01.Areas/0.DailyNote/2024-04-11.md"
-                  }
+                  "state": {}
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 242
+        "width": 390
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -219,7 +209,7 @@
         }
       },
       "active": "5824e14fc33d945b",
-      "mtime": "2024-04-11T10:59:37+02:00"
+      "mtime": "2024-05-15T09:25:06+02:00"
     },
     "Layout1": {
       "main": {
