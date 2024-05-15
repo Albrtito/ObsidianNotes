@@ -82,12 +82,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9dc6c52fadccbbd",
+            "id": "3b6ea6ef2718953a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
+                "file": "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,12 +95,12 @@
             }
           },
           {
-            "id": "228987c89406295f",
+            "id": "b9dc6c52fadccbbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Bipartite graph.md",
+                "file": "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
+                "file": "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
+                "file": "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
+                "file": "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md"
+                "file": "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md"
               }
             }
           }
@@ -324,13 +324,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "65ea5f8795b199e7",
+  "active": "3b6ea6ef2718953a",
   "lastOpenFiles": [
-    "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
     "02 - Atomic/20240515 - 020755 - Graph theory.md",
     "02 - Atomic/20240515 - 021923 - Definition - Pseudograph.md",
-    "02 - Atomic/20240515 - 022456 - Definition - Simple graph.md",
+    "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
     "02 - Atomic/Bipartite graph.md",
+    "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
+    "02 - Atomic/20240515 - 022456 - Definition - Simple graph.md",
     "02 - Atomic/The Handshaking Theorem.md",
     "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/Simple Graph.md",
@@ -352,7 +353,6 @@
     "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
     "02 - Atomic/20240515 - 011944 - Ordered subsets.md",
     "01.Areas/1.UC3M/Discrete Math.md",
-    "02 - Atomic/Graph Theory.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
