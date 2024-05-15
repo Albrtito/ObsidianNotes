@@ -1,12 +1,17 @@
 ---
+aliases:
+  - Theorem - Convolution
+  - 1D convolution
 Date: 2024-03-19
 tags:
   - review
   - DiffCalc
-"References:":
+"References:": 
 sr-due: 2024-07-03
 sr-interval: 64
 sr-ease: 247
+cssclasses:
+  - page-blueprint
 ---
 
 > [!NOTE] Theorem: 

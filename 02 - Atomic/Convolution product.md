@@ -30,7 +30,7 @@ h(t) \not= f(t)g(t)
 \end{gather}
 $$
 Things change if we introduce a **"generalised" product**
-![Theorem Convolution](Theorem%20Convolution.md)
+![20240319 - 000000 - Theorem - Convolution](20240319%20-%20000000%20-%20Theorem%20-%20Convolution.md)
 
 **Remark:** We use convolution product to solve some of the IVP problems when the function we have complies with what the conditions of the convolution product. However we could always try first to apply partial fractions and then use the table provided (aulaglobal)
 # Practice cases: 
