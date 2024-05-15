@@ -1,4 +1,4 @@
-/*------------------------------------------------------------------------------
+/*--------------------ffffff----------------------------------------------------------
                      Daily Note Themes by CyanVoxel v1.0.3
 
 These are a set of 7 main CSS classes that can be used to apply individual color
@@ -12,7 +12,7 @@ change or remove those font-family lines from this snippet.
                 
 ------------------------------------------------------------------------------*/
 :root {
-  --highlight: #ffffff;
+  --highlight: #4F6F52;
   --primary: #000000;
   --dark: #D2E3C8;
 }
@@ -48,14 +48,22 @@ change or remove those font-family lines from this snippet.
 }
 
 .sunday {
-  --highlight: #f39caa;
-  --primary: #f6466f;
-  --dark: #2d0916;
+  /* This changes text color*/
+  --highlight: #4F6F52;
+    /* This changes headings, lines and accesnts*/
+  --primary: #000000;
+    /* This is the background color*/
+  --dark: #D2E3C8;
+ 
 }
 .monday {
-  --highlight: #fcadaa;
-  --primary: #f65848;
-  --dark: #3c0e0b;
+  /* This changes text color*/
+  --highlight: #4F6F52;
+    /* This changes headings, lines and accesnts*/
+  --primary: #000000;
+    /* This is the background color*/
+  --dark: #D2E3C8;
+ 
 }
 .tuesday {
 
@@ -68,28 +76,41 @@ change or remove those font-family lines from this snippet.
 
 }
 .wednesday {
+   /* This changes text color*/
+  --highlight: #4F6F52;
+    /* This changes headings, lines and accesnts*/
+  --primary: #000000;
+    /* This is the background color*/
+  --dark: #D2E3C8;
+ 
+}
+.thursday {
+      /* This changes text color*/
+  --highlight: #4F6F52;
+    /* This changes headings, lines and accesnts*/
+  --primary: #000000;
+    /* This is the background color*/
+  --dark: #D2E3C8;
+ 
+
+}
+.friday {
   /* This changes text color*/
   --highlight: #4F6F52;
     /* This changes headings, lines and accesnts*/
   --primary: #000000;
     /* This is the background color*/
   --dark: #D2E3C8;
-  
-}
-.thursday {
-  --highlight: #f7b79b;
-  --primary: #ed6022;
-  --dark: #210b04;
-}
-.friday {
-  
-  --highlight: #aedbfa;
-  --primary: #3b87f0;
-  --dark: #070615;}
+ 
+} 
 .saturday {
-  --highlight: #f39caa;
-  --primary: #e22c3c;
-  --dark: #100305;
+  /* This changes text color*/
+  --highlight: #4F6F52;
+    /* This changes headings, lines and accesnts*/
+  --primary: #000000;
+    /* This is the background color*/
+  --dark: #D2E3C8;
+ 
 }
 
 .daily :is(h1, .HyperMD-header.HyperMD-header-1) {
