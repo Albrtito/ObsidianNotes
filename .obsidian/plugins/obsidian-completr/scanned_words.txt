@@ -4475,6 +4475,7 @@ connection
 connecting
 contribute
 cube
+characteristics
 lifeOS
 liking
 las
@@ -12816,6 +12817,7 @@ introduction
 inclusion
 intersect
 injective
+isolated
 Enough
 Esta
 Est
@@ -15441,6 +15443,7 @@ binomial
 bars
 boxes
 balls
+bits
 Gym
 Given
 GALVIN
@@ -22020,6 +22023,7 @@ haf
 hVV
 holding
 hardware
+handshaking
 Before
 Burocracia
 Buses
@@ -31063,6 +31067,7 @@ PART
 PsedoGraph
 Pseudograph
 Path
+Pseudographs
 something
 start
 st
@@ -32624,6 +32629,7 @@ special
 stars
 star
 studies
+strings
 No
 NOTE
 Normalmente
@@ -35239,6 +35245,7 @@ pairwise
 pigeons
 pseudo
 present
+pseudograph
 UC
 UNIDADES
 Unidades
@@ -47314,6 +47321,7 @@ HUGE
 Holds
 HOMOGENEOUS
 Handshaking
+Handshanking
 Journal
 January
 Jacobo

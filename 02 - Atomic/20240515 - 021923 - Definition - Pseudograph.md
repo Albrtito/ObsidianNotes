@@ -52,10 +52,12 @@ $$
 **Remarks:**
 + **The loops contribute twice:f** 1 loop → two degrees 
 + If degree = 1. Then the vertex is **terminal**
++ If all vertices have degree 0 there are no edges. This graphs are called **trivial graphs**
++ If a vertex degree is 0, then this vertex is called **isolated**
 
 ## Types of pseudo-graphs: 
 Given the following definition of a pseudograph and the different characteristics it may have we can define several types of pseudo-graphs:
 
-+ [Simple Graph](Simple%20Graph.md): **No multiedges, no loops**
-+ [Multigraphs](Multigraphs): **Multiedges okay, no loops**
-+ [Regular Graph](Regular%20Graph): **All vertices must have the same degree**
++ [[20240515 - 022456 - Definition - Simple graph|Simple graph]]: **No multiedges, no loops**
++ Multigraphs: **Multiedges okay, no loops**
++ Regular graphs: **All vertices must have the same degree**
