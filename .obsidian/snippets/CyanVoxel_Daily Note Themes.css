@@ -14,7 +14,7 @@ change or remove those font-family lines from this snippet.
 :root {
   --highlight: #ffffff;
   --primary: #aaaaaa;
-  --dark: ##6C733D;
+  --dark: #D2E3C8;
 }
 
 .daily {
@@ -68,7 +68,7 @@ change or remove those font-family lines from this snippet.
     /* This changes headings, lines and accesnts*/
   --primary: #ffd63;
     /* This is the background color*/
-  --dark: #6C733D;
+  --dark: #D2E3C8;
 }
 .thursday {
   --highlight: #f7b79b;
