@@ -100,8 +100,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47270ba76780cf5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240515 - 033826 - Algorithm - Fleury's algorithm.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "535ecead93230485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240515 - 033903 - Hamiltonian graphs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "d270df81cf67dc85",
@@ -228,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
+                "file": "02 - Atomic/20240515 - 033903 - Hamiltonian graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
+                "file": "02 - Atomic/20240515 - 033903 - Hamiltonian graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,9 +309,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
+                "file": "02 - Atomic/20240515 - 033903 - Hamiltonian graphs.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 3,
                   "localBacklinks": true,
@@ -304,9 +331,9 @@
                   "centerStrength": 0.201223438506117,
                   "repelStrength": 12.8804464477356,
                   "linkStrength": 0.932281605494741,
-                  "linkDistance": 173,
+                  "linkDistance": 255,
                   "scale": 0.08779149519890318,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -323,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md"
+                "file": "02 - Atomic/20240515 - 033903 - Hamiltonian graphs.md"
               }
             }
           }
@@ -350,15 +377,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "535ecead93230485",
   "lastOpenFiles": [
+    "02 - Atomic/20240515 - 033903 - Hamiltonian graphs.md",
+    "02 - Atomic/20240515 - 020755 - Graph theory.md",
     "02 - Atomic/20240515 - 032223 - Eulerian Graphs.md",
+    "02 - Atomic/20240515 - 033826 - Algorithm - Fleury's algorithm.md",
     "02 - Atomic/20240515 - 032734 - Problem - Seven bridges of Königsberg.md",
     "00.References/Discrete_Theory_All.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240515033016.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-15 at 03.29.37.png",
     "02 - Atomic/20240515 - 032046 - Planar graph.md",
-    "02 - Atomic/20240515 - 020755 - Graph theory.md",
     "02 - Atomic/20240515 - 032018 - Tree graph.md",
     "02 - Atomic/20240515 - 031853 - Definition - Complementary graph.md",
     "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
@@ -379,7 +408,6 @@
     "02 - Atomic/Simple Graph.md",
     "02 - Atomic/The n-cube graphs.md",
     "02 - Atomic/Complete bipartite graph.md",
-    "02 - Atomic/Complete graph.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
