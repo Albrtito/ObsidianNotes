@@ -4,29 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "fe38983f1665c079",
-        "type": "tabs",
-        "dimension": 30.23201312397469,
-        "children": [
-          {
-            "id": "7cf01878feb63d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "792d5b0f4d722c76",
         "type": "tabs",
-        "dimension": 23.552847433794234,
         "children": [
           {
             "id": "1f71dc71b68c33a9",
@@ -35,46 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "01.Areas/0.DailyNote/2024-05-16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cd0b9d162c0527df",
-        "type": "tabs",
-        "dimension": 24.326224513709864,
-        "children": [
-          {
-            "id": "dcf82902e16479cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "050148f6e21413ba",
-        "type": "tabs",
-        "dimension": 21.88891492852121,
-        "children": [
-          {
-            "id": "03b69c0c574906a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240515 - 014532 - Distributions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,10 +67,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "74476affe76ac5b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b81a69190cd8ecc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 257.00418853759766
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -197,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "f97aefa6b972e655",
@@ -258,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333,
-    "collapsed": true
+    "width": 333
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,13 +233,14 @@
   },
   "active": "1f71dc71b68c33a9",
   "lastOpenFiles": [
-    "01.Areas/0.DailyNote/2024-05-15.md",
+    "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
+    "02 - Atomic/20240515 - 014532 - Distributions.md",
     "01.Areas/0.DailyNote/2024-05-16.md",
     "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
+    "01.Areas/0.DailyNote/2024-05-12.md",
+    "01.Areas/0.DailyNote/2024-05-15.md",
     "02 - Atomic/20240515 - 020755 - Graph theory.md",
     "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
-    "02 - Atomic/20240515 - 014532 - Distributions.md",
-    "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
     "02 - Atomic/Exercises_Sequences&Series.md",
     "99 - Meta/1. Templates/dailyNote.md",
     "01.Areas/0.DailyNote/2024-04-19.md",
@@ -309,7 +263,6 @@
     "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
     "02 - Atomic/20240515 - 025614 - Minimum weight spanning tree.md",
     "02 - Atomic/20240515 - 030554 - Algorithm - Prim's Algorithm.md",
-    "02 - Atomic/20240515 - 030836 - Algorithm- Kruskal's algorithm.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
