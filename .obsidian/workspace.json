@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "01.Areas/0.DailyNote/2024-05-16.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "01.Areas/0.DailyNote/2024-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "01.Areas/0.DailyNote/2024-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "01.Areas/0.DailyNote/2024-05-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "01.Areas/0.DailyNote/2024-05-16.md"
               }
             }
           }
@@ -225,6 +225,7 @@
   },
   "active": "1f71dc71b68c33a9",
   "lastOpenFiles": [
+    "Home.md",
     "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
     "02 - Atomic/20240515 - 014532 - Distributions.md",
     "01.Areas/0.DailyNote/2024-05-16.md",
@@ -254,7 +255,6 @@
     "02 - Atomic/20240515 - 032018 - Tree graph.md",
     "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
     "02 - Atomic/20240515 - 025614 - Minimum weight spanning tree.md",
-    "02 - Atomic/20240515 - 030554 - Algorithm - Prim's Algorithm.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
