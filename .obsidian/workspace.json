@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf"
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md"
               }
             }
           }
@@ -241,7 +241,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d60ade257997ab51",
+  "active": "1f71dc71b68c33a9",
   "lastOpenFiles": [
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
@@ -288,7 +288,6 @@
     "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
     "00.References/OS_Resources_Lab3Statement.pdf",
-    "00.References/SoftwareDev_Resources_GE3_Statement.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/1.UC3M/Files and data bases.canvas",

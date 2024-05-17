@@ -132,10 +132,14 @@ Using the [Principle of Superposition](Principle%20of%20Superposition) we make a
 $$
 u(x,t) = \sum^\infty_{n = 1} c_nu_n(x,t)
 $$
-The **formal solution of the heat equation** (<font color="#ff0000">MAY BE AN EXAM QUESTION)</font> 
+The **formal solution of the heat equation** (<font color="#ff0000">MAY BE AN EXAM QUESTION)</font>
 
-
-
+#### Formal solution of the model: 
+$$
+u(x,t) = \sum^\infty_{n = 1} c_n e^{-(\frac{n^2\pi^2\alpha^2}{L^2})t} sin(\frac{n\pi}{L}x)
+$$
+The coefficients $c_n$ can be found using the [[20240418 - 190338 - Fourier series|Fourier series]] along with the initial conditions provided u(x,0) = f(x). Once applied (see below for an example of this application) we get: 
+$$u(x, t)=\sum_{n=1}^{\infty}\left(\frac{2}{l} \int_0^l u_0(s) \sin \frac{n \pi s}{l} d s\right) e^{-n^2 \pi^2 k t / l^2} \sin \frac{n \pi x}{l} .$$
 
 ##### Obtaining u(x,t) knowing that f(x) = u(x,0)
 If we know that f(x) = u(x,0) then, because u(x,0) = $\sum^\infty_{n=1}c_ne^{-(\frac{n^2\pi^2\alpha^2}{L^2})t}sin(\frac{n\pi}{L}x)$ if t = 0, then 
@@ -235,6 +239,8 @@ Then using k = n define the **solution for u(x,t)**:
 $$
 \boxed{u(x,t) \sum^{\infty}_{k = 0}\frac{4}{(2k+ 1)\pi} e^{-(\frac{n^2\pi^2\alpha^2}{L^2})t} sin(\frac{(2k +1)\pi}{L}x)}
 $$
+
+
 ### Second model, defined length: 
 
 $$
