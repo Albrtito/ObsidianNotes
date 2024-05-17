@@ -7,6 +7,9 @@ DateCreated: 2024-02-05
   - "[[Basic Set Operations]]"
 aliases:
   - Elementary Combinatorics
+sr-due: 2024-05-20
+sr-interval: 3
+sr-ease: 256
 ---
 # Elementary combinatorics
 This is an introduction to combinatoric concepts. Combinatorics are also called counting methods. They are the main object of study of discrete mathematics. This methods are used to count possibilities. 

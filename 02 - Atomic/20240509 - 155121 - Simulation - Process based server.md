@@ -6,6 +6,9 @@ tags:
   - OS
 "References:": 
 cssclasses:
+sr-due: 2024-05-20
+sr-interval: 3
+sr-ease: 250
 ---
 # Simulation of a process based server: 
 

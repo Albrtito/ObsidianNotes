@@ -7,6 +7,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
+sr-due: 2024-05-20
+sr-interval: 3
+sr-ease: 250
 ---
 
 A graph is bipartite if it can be divided into two disjoint subsets such as every edge in the graph connects a vertex in one of the subsets with a vertex in the other one. 

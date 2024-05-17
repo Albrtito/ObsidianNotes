@@ -6,6 +6,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
+sr-due: 2024-05-20
+sr-interval: 3
+sr-ease: 250
 ---
 # Hamiltonian graphs: 
 Hamiltonian graphs are those graphs that **contain a cycle on a graph G such that the cycle contains all vertices of G exactly once**

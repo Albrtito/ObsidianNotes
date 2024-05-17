@@ -6,6 +6,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
+sr-due: 2024-05-21
+sr-interval: 4
+sr-ease: 270
 ---
 # Minimum weight spanning tree
 There are several possible [[20240515 - 025717 - Definition- Spanning subgraph|Spanning subgraph]]s of any graph G, however the spanning tree graph of G is a subgraph that follows the following definition: 

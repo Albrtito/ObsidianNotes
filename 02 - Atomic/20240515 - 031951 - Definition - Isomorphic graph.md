@@ -3,8 +3,8 @@ aliases:
   - Definition - Isomorphic graph
   - Isomorphic graph
 tags:
-  - review
   - Discrete
+  - incomplete
 "References:": 
 cssclasses:
 ---

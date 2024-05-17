@@ -6,6 +6,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
+sr-due: 2024-05-18
+sr-interval: 1
+sr-ease: 230
 ---
 Newton’s binomial theorem defines…
 

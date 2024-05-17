@@ -7,6 +7,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
+sr-due: 2024-05-21
+sr-interval: 4
+sr-ease: 270
 ---
 # Simple graph:
 A simple graph is a Pseudograph that has: 

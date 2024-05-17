@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+                "file": "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+                "file": "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+                "file": "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+                "file": "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,11 +192,11 @@
                   "nodeSizeMultiplier": 1.08336552908349,
                   "lineSizeMultiplier": 1.66286756814767,
                   "collapse-forces": false,
-                  "centerStrength": 0.324640480789869,
+                  "centerStrength": 0.205516205194248,
                   "repelStrength": 12.5048293625241,
                   "linkStrength": 0.729984975316592,
                   "linkDistance": 265,
-                  "scale": 0.2353394158472508,
+                  "scale": 0.09483240516865009,
                   "close": true
                 }
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md"
+                "file": "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md"
               }
             }
           }
@@ -243,32 +243,33 @@
   },
   "active": "1f71dc71b68c33a9",
   "lastOpenFiles": [
-    "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
-    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
-    "02 - Atomic/20240517 - 133027 -.md",
-    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
-    "02 - Atomic/20240517 - 131259 - Theorem - Solution of a non-homogeneous recurrence relation.md",
-    "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
-    "02 - Atomic/20240517 - 130812 -.md",
-    "02 - Atomic/Generalisation of linear homogeneous recurrence relations.md",
-    "02 - Atomic/20240501 - 143420 - Control flow testing.md",
-    "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
-    "02 - Atomic/20240415 - 120033 - Composition of binary relations.md",
-    "02 - Atomic/20240408 - 191229 - GF list.md",
-    "02 - Atomic/20240423 - 121056 - Chromatic poly of a cycle graph..md",
-    "02 - Atomic/Theorem 109 Solution of a homogeneous first-order recurrence relation.md",
-    "02 - Atomic/20240415 - 123134 - Transitivity property.md",
-    "02 - Atomic/20240415 - 115109 - Complementary of a binary relation.md",
-    "01.Areas/0.DailyNote/2024-05-17.md",
-    "99 - Meta/1. Templates/dailyNote.md",
-    "01.Areas/0.DailyNote/2024-05-16.md",
-    "Home.md",
-    "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
-    "02 - Atomic/20240515 - 014532 - Distributions.md",
-    "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
-    "01.Areas/0.DailyNote/2024-05-12.md",
-    "01.Areas/0.DailyNote/2024-05-15.md",
+    "02 - Atomic/20240515 - 010716 - Counting methods.md",
     "02 - Atomic/20240515 - 020755 - Graph theory.md",
+    "02 - Atomic/20240515 - 032018 - Tree graph.md",
+    "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
+    "02 - Atomic/20240515 - 010953 - Permutations.md",
+    "02 - Atomic/20240515 - 035256 - Euler's formula.md",
+    "02 - Atomic/20240515 - 031853 - Definition - Complementary graph.md",
+    "02 - Atomic/20240509 - 191823 - Simulation - Thread Pool Server.md",
+    "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
+    "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
+    "02 - Atomic/20240515 - 021923 - Definition - Pseudograph.md",
+    "02 - Atomic/20240515 - 014153 - Principle - Pigeonhole principle.md",
+    "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
+    "02 - Atomic/20240515 - 032223 - Eulerian Graphs.md",
+    "02 - Atomic/20240515 - 013337 - Definition - Power set.md",
+    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
+    "02 - Atomic/20240515 - 011944 - Ordered subsets.md",
+    "02 - Atomic/20240515 - 010006 - Principle - Sum principle.md",
+    "02 - Atomic/20240515 - 025614 - Minimum weight spanning tree.md",
+    "02 - Atomic/20240515 - 022456 - Definition - Simple graph.md",
+    "02 - Atomic/20240515 - 012315 - Subsets.md",
+    "02 - Atomic/20240515 - 013650 - Principle - Inclusion-exclusion principle.md",
+    "02 - Atomic/20240515 - 014718 - Set partitions.md",
+    "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
+    "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
+    "02 - Atomic/20240515 - 010522 - Principle - Product principle.md",
+    "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
     "00.References/Discrete_Theory_All.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
     "99 - Meta/0. Attachments/Pasted image 20240515033016.png",

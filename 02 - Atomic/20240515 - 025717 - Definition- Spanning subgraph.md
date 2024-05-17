@@ -6,6 +6,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
+sr-due: 2024-05-27
+sr-interval: 10
+sr-ease: 250
 ---
 
 > [!NOTE] Definition of a spanning subgraph

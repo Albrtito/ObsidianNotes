@@ -3,8 +3,8 @@ aliases:
   - Algorithm - Fleury's algorithm
   - Fleury's algorithm
 tags:
-  - review
   - Discrete
+  - incomplete
 "References:": 
 cssclasses:
 ---
