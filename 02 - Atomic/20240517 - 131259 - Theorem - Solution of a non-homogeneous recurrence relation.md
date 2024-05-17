@@ -1,8 +1,20 @@
+---
+aliases:
+  - Theorem - Solution of a non-homogeneous recurrence relation
+tags:
+  - review
+  - Discrete
+"References:": 
+cssclasses:
+  - page-theorem
+---
+A linear non-homogeneous recurrence relation is such as there are **no powers of any term greater than 1** and **the independent term is different from 0**. For this theorem we'll call the independent term $t_n$
+Of course for this course (#Discrete ) we'll always work with **constant coefficients**
 
 A linear non-homogeneous recurrence relation is such as there are **no powers of any term greater than 1** and **the independent term is different from 0**. For this theorem we'll call the independent term $t_n$
 Of course for this course (#Discrete ) we'll always work with **constant coefficients**
 
-> [!NOTE] Theorem: 
+> [!theom] Theorem: 
 >  For a sequence $(a_n): n\in N$: Non homogeneous with constant coefficients: 
 >$$
 > a_n = c_1 a_{n-1} + c_2 a_{n-2}+...c_k a_{n-k} + t_n: n>= k +1
@@ -12,7 +24,7 @@ Of course for this course (#Discrete ) we'll always work with **constant coeffic
 >+ $t_n$ is a function  or n taking natural numbers and outputting real numbers
 >
 >**General Solution:**
->The solution for this recurrence will be the sum of the solution for the homogeneous part of the recurrence. (see [Theorem 109 Solution of a homogeneous first-order recurrence relation](Theorem%20109%20Solution%20of%20a%20homogeneous%20first-order%20recurrence%20relation.md)) plus the solution for any particular solution of the full recurrence. **The key (the only harder part) is finding the particular solution**
+>The solution for this recurrence will be the sum of the solution for the homogeneous part of the recurrence. (see [[Theorem 110 Solution of a homogeneous Fibonacci-type recurrence relation]] plus the solution for any particular solution of the full recurrence. **The key (the only harder part) is finding the particular solution**
 >$$
 >a_n =a_n^h + a_n^p 
 >$$
@@ -61,4 +73,3 @@ Of course for this course (#Discrete ) we'll always work with **constant coeffic
 >s^n[p_0 + p_1n + p_2n^2] = s^{n-1}[p_0 + p_1{n-1} + p_2{n-1}^2] + s^{n-2}[p_0 + p_1{n-2} + p_2{n-2}^2]+ s^n[b_0 + b1_n + b2_n^2]
 >$$
 >+ We obtain the values for all p based on this relation
-
