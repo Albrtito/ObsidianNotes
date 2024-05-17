@@ -1965,6 +1965,7 @@ tnpzJ
 tUA
 tli
 thg
+talking
 dailyNote
 day
 during
@@ -21461,6 +21462,7 @@ bURWZ
 bif
 biNX
 bgI
+byte
 Gym
 Given
 GALVIN
@@ -45666,6 +45668,7 @@ skG
 sTuz
 sFq
 skz
+secondary
 No
 NOTE
 Normalmente
@@ -49360,6 +49363,7 @@ pGU
 pMP
 pqrA
 pwA
+persistent
 UC
 UNIDADES
 Unidades
@@ -55188,6 +55192,9 @@ aRz
 aRT
 aQA
 aXS
+architecture
+accessed
+abstraction
 of
 otro
 opciones
@@ -79071,6 +79078,7 @@ vdxv
 vNPg
 vsu
 vQk
+volatile
 que
 quieren
 quedo

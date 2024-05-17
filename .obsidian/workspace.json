@@ -6,7 +6,7 @@
       {
         "id": "15f0390215d3b1fb",
         "type": "tabs",
-        "dimension": 36.289041821069354,
+        "dimension": 53.25305884637794,
         "children": [
           {
             "id": "d60ade257997ab51",
@@ -17,7 +17,14 @@
                 "file": "00.References/OS_Biblio_J.Carretero.pdf"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9af070794635d90b",
+        "type": "tabs",
+        "dimension": 46.74694115362206,
+        "children": [
           {
             "id": "367f7b7197f7cb79",
             "type": "leaf",
@@ -25,26 +32,6 @@
               "type": "markdown",
               "state": {
                 "file": "02 - Atomic/20240517 - 163856 - Files.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "792d5b0f4d722c76",
-        "type": "tabs",
-        "dimension": 63.71095817893065,
-        "children": [
-          {
-            "id": "1f71dc71b68c33a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240517 - 163124 -.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -131,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/OS_Biblio_J.Carretero.pdf",
+                "file": "02 - Atomic/20240517 - 163856 - Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/OS_Biblio_J.Carretero.pdf",
+                "file": "02 - Atomic/20240517 - 163856 - Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/OS_Biblio_J.Carretero.pdf",
+                "file": "02 - Atomic/20240517 - 163856 - Files.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/OS_Biblio_J.Carretero.pdf"
+                "file": "02 - Atomic/20240517 - 163856 - Files.md"
               }
             }
           }
@@ -254,17 +241,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d60ade257997ab51",
+  "active": "367f7b7197f7cb79",
   "lastOpenFiles": [
+    "00.References/OS_Biblio_J.Carretero.pdf",
+    "02 - Atomic/20240517 - 163856 - Files.md",
+    "01.Areas/0.DailyNote/2024-05-17.md",
+    "02 - Atomic/20240517 - 163124 -.md",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
     "02 - Atomic/OS_Theory_Ch_0_Presentation.md",
-    "00.References/OS_Biblio_J.Carretero.pdf",
     "01.Areas/1.UC3M/Operating Systems.md",
-    "02 - Atomic/20240517 - 163856 - Files.md",
     "02 - Atomic/OS_Exercises_W1_IntroToC.md",
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
-    "02 - Atomic/20240517 - 163124 -.md",
-    "01.Areas/0.DailyNote/2024-05-17.md",
     "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
     "02 - Atomic/20240515 - 010716 - Counting methods.md",
     "02 - Atomic/20240515 - 020755 - Graph theory.md",
@@ -301,7 +288,6 @@
     "99 - Meta/0. Attachments/AND (Conjunction) Truth table.png",
     "99 - Meta/0. Attachments/OR(Disjunction) truth table.png",
     "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
-    "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/1.UC3M/Files and data bases.canvas",
