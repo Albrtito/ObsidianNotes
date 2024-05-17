@@ -12,12 +12,9 @@
             "id": "d60ade257997ab51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02 - Atomic/OS_Theory_Ch_0_Presentation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "00.References/OS_Biblio_J.Carretero.pdf"
               }
             }
           },
@@ -134,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/OS_Theory_Ch_0_Presentation.md",
+                "file": "00.References/OS_Biblio_J.Carretero.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/OS_Theory_Ch_0_Presentation.md",
+                "file": "00.References/OS_Biblio_J.Carretero.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/OS_Theory_Ch_0_Presentation.md",
+                "file": "00.References/OS_Biblio_J.Carretero.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/OS_Theory_Ch_0_Presentation.md"
+                "file": "00.References/OS_Biblio_J.Carretero.pdf"
               }
             }
           }
@@ -259,6 +256,9 @@
   },
   "active": "d60ade257997ab51",
   "lastOpenFiles": [
+    "00.References/OS_Biblio_OpSystemConcepts.pdf",
+    "02 - Atomic/OS_Theory_Ch_0_Presentation.md",
+    "00.References/OS_Biblio_J.Carretero.pdf",
     "01.Areas/1.UC3M/Operating Systems.md",
     "02 - Atomic/20240517 - 163856 - Files.md",
     "02 - Atomic/OS_Exercises_W1_IntroToC.md",
@@ -284,8 +284,6 @@
     "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
     "02 - Atomic/20240515 - 011944 - Ordered subsets.md",
     "02 - Atomic/20240515 - 010006 - Principle - Sum principle.md",
-    "02 - Atomic/20240515 - 025614 - Minimum weight spanning tree.md",
-    "02 - Atomic/20240515 - 022456 - Definition - Simple graph.md",
     "00.References/Discrete_Theory_All.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
     "99 - Meta/0. Attachments/Pasted image 20240515033016.png",
@@ -304,7 +302,6 @@
     "99 - Meta/0. Attachments/OR(Disjunction) truth table.png",
     "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
     "00.References/DiffCalc_Theory_Fourier_SeparationOfVariables.pdf",
-    "00.References/OS_Resources_Lab3Statement.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/1.UC3M/Files and data bases.canvas",
