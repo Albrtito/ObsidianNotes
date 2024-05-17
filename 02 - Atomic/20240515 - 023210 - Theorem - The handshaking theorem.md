@@ -25,4 +25,3 @@ Some useful things about the theorem:
 + Any graph has an even number of vertices of odd degree
 + For a graph with an odd number of vertices, there's an odd number of vertices of even degree
 
-
