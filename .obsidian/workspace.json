@@ -12,9 +12,12 @@
             "id": "d60ade257997ab51",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf"
+                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -31,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-17.md",
+                "file": "02 - Atomic/20240517 - 163124 -.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-17.md",
+                "file": "01.Areas/1.UC3M/Operating Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-17.md",
+                "file": "01.Areas/1.UC3M/Operating Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-17.md",
+                "file": "01.Areas/1.UC3M/Operating Systems.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-17.md"
+                "file": "01.Areas/1.UC3M/Operating Systems.md"
               }
             }
           }
@@ -241,8 +244,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1f71dc71b68c33a9",
+  "active": "d60ade257997ab51",
   "lastOpenFiles": [
+    "02 - Atomic/OS_Exercises_W1_IntroToC.md",
+    "01.Areas/1.UC3M/Operating Systems.md",
+    "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
+    "02 - Atomic/20240517 - 163124 -.md",
+    "01.Areas/0.DailyNote/2024-05-17.md",
     "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
     "02 - Atomic/20240515 - 010716 - Counting methods.md",
     "02 - Atomic/20240515 - 020755 - Graph theory.md",
@@ -265,11 +273,6 @@
     "02 - Atomic/20240515 - 025614 - Minimum weight spanning tree.md",
     "02 - Atomic/20240515 - 022456 - Definition - Simple graph.md",
     "02 - Atomic/20240515 - 012315 - Subsets.md",
-    "02 - Atomic/20240515 - 013650 - Principle - Inclusion-exclusion principle.md",
-    "02 - Atomic/20240515 - 014718 - Set partitions.md",
-    "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
-    "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
-    "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
     "00.References/Discrete_Theory_All.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
     "99 - Meta/0. Attachments/Pasted image 20240515033016.png",
