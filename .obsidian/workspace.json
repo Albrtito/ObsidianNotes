@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-16.md",
+                "file": "01.Areas/0.DailyNote/2024-05-17.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-16.md",
+                "file": "01.Areas/0.DailyNote/2024-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-16.md",
+                "file": "01.Areas/0.DailyNote/2024-05-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-16.md",
+                "file": "01.Areas/0.DailyNote/2024-05-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-16.md"
+                "file": "01.Areas/0.DailyNote/2024-05-17.md"
               }
             }
           }
@@ -225,17 +225,18 @@
   },
   "active": "1f71dc71b68c33a9",
   "lastOpenFiles": [
+    "99 - Meta/1. Templates/dailyNote.md",
+    "01.Areas/0.DailyNote/2024-05-17.md",
+    "01.Areas/0.DailyNote/2024-05-16.md",
     "Home.md",
     "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
     "02 - Atomic/20240515 - 014532 - Distributions.md",
-    "01.Areas/0.DailyNote/2024-05-16.md",
     "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
     "01.Areas/0.DailyNote/2024-05-12.md",
     "01.Areas/0.DailyNote/2024-05-15.md",
     "02 - Atomic/20240515 - 020755 - Graph theory.md",
     "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
     "02 - Atomic/Exercises_Sequences&Series.md",
-    "99 - Meta/1. Templates/dailyNote.md",
     "01.Areas/0.DailyNote/2024-04-19.md",
     "01.Areas/0.DailyNote/2024-04-28.md",
     "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
@@ -254,7 +255,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-05-15 at 03.29.37.png",
     "02 - Atomic/20240515 - 032018 - Tree graph.md",
     "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
-    "02 - Atomic/20240515 - 025614 - Minimum weight spanning tree.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
