@@ -7,9 +7,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
-sr-due: 2024-05-15
-sr-interval: 22
-sr-ease: 268
+sr-due: 2024-08-15
+sr-interval: 90
+sr-ease: 288
 ---
 
 > [!NOTE] Property

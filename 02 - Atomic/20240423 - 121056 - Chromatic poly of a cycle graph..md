@@ -1,9 +1,11 @@
 ---
-aliases: 
+aliases:
+  - Chromatic poly of a cycle graph
 tags:
   - review
+  - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-14
 sr-interval: 5
 sr-ease: 208

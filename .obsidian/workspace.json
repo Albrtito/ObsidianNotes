@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-17.md",
+                "file": "02 - Atomic/20240423 - 121056 - Chromatic poly of a cycle graph..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-17.md",
+                "file": "02 - Atomic/20240423 - 121056 - Chromatic poly of a cycle graph..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-17.md",
+                "file": "02 - Atomic/20240423 - 121056 - Chromatic poly of a cycle graph..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-17.md",
+                "file": "02 - Atomic/20240423 - 121056 - Chromatic poly of a cycle graph..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-17.md"
+                "file": "02 - Atomic/20240423 - 121056 - Chromatic poly of a cycle graph..md"
               }
             }
           }
@@ -225,8 +225,11 @@
   },
   "active": "1f71dc71b68c33a9",
   "lastOpenFiles": [
-    "99 - Meta/1. Templates/dailyNote.md",
+    "02 - Atomic/Theorem 109 Solution of a homogeneous first-order recurrence relation.md",
+    "02 - Atomic/20240415 - 123134 - Transitivity property.md",
+    "02 - Atomic/20240415 - 115109 - Complementary of a binary relation.md",
     "01.Areas/0.DailyNote/2024-05-17.md",
+    "99 - Meta/1. Templates/dailyNote.md",
     "01.Areas/0.DailyNote/2024-05-16.md",
     "Home.md",
     "02 - Atomic/20240510 - 101543 - Exercises - Modular arithmetic.md",
@@ -250,11 +253,8 @@
     "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/20240515 - 032223 - Eulerian Graphs.md",
     "02 - Atomic/20240515 - 033826 - Algorithm - Fleury's algorithm.md",
-    "02 - Atomic/20240515 - 032734 - Problem - Seven bridges of Königsberg.md",
     "99 - Meta/0. Attachments/Pasted image 20240515033016.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-15 at 03.29.37.png",
-    "02 - Atomic/20240515 - 032018 - Tree graph.md",
-    "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",

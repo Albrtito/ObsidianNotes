@@ -4,9 +4,9 @@ tags:
   - review
   - Discrete
 "References:":
-sr-due: 2024-05-14
-sr-interval: 42
-sr-ease: 230
+sr-due: 2024-05-29
+sr-interval: 12
+sr-ease: 190
 ---
 
 > [!NOTE] Theorem: 

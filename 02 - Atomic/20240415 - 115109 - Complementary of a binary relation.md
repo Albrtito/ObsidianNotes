@@ -7,9 +7,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
-sr-due: 2024-05-17
-sr-interval: 24
-sr-ease: 270
+sr-due: 2024-08-15
+sr-interval: 90
+sr-ease: 290
 ---
 
 > [!NOTE] Definition 125 
