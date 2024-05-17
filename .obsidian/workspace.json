@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Generalisation of linear homogeneous recurrence relations.md",
+                "file": "02 - Atomic/20240517 - 131259 -.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/Generalisation of linear homogeneous recurrence relations.md",
+                "file": "02 - Atomic/20240517 - 131259 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/Generalisation of linear homogeneous recurrence relations.md",
+                "file": "02 - Atomic/20240517 - 131259 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/Generalisation of linear homogeneous recurrence relations.md",
+                "file": "02 - Atomic/20240517 - 131259 -.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/Generalisation of linear homogeneous recurrence relations.md"
+                "file": "02 - Atomic/20240517 - 131259 -.md"
               }
             }
           }
@@ -225,7 +225,11 @@
   },
   "active": "1f71dc71b68c33a9",
   "lastOpenFiles": [
+    "02 - Atomic/20240517 - 131259 -.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
+    "02 - Atomic/20240517 - 130812 -.md",
+    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
+    "02 - Atomic/Generalisation of linear homogeneous recurrence relations.md",
     "02 - Atomic/20240501 - 143420 - Control flow testing.md",
     "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
     "02 - Atomic/20240415 - 120033 - Composition of binary relations.md",
@@ -247,11 +251,7 @@
     "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
     "02 - Atomic/Exercises_Sequences&Series.md",
     "01.Areas/0.DailyNote/2024-04-19.md",
-    "01.Areas/0.DailyNote/2024-04-28.md",
-    "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
     "00.References/Discrete_Theory_All.pdf",
-    "02 - Atomic/20240515 - 032046 - Planar graph.md",
-    "02 - Atomic/20240515 - 031853 - Definition - Complementary graph.md",
     "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
     "99 - Meta/0. Attachments/Pasted image 20240515033016.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-15 at 03.29.37.png",
