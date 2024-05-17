@@ -14,7 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "02 - Atomic/OS_Theory_Ch_0_Presentation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "367f7b7197f7cb79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240517 - 163856 - Files.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "02 - Atomic/OS_Theory_Ch_0_Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "02 - Atomic/OS_Theory_Ch_0_Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "02 - Atomic/OS_Theory_Ch_0_Presentation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md"
+                "file": "02 - Atomic/OS_Theory_Ch_0_Presentation.md"
               }
             }
           }
@@ -246,8 +259,9 @@
   },
   "active": "d60ade257997ab51",
   "lastOpenFiles": [
-    "02 - Atomic/OS_Exercises_W1_IntroToC.md",
     "01.Areas/1.UC3M/Operating Systems.md",
+    "02 - Atomic/20240517 - 163856 - Files.md",
+    "02 - Atomic/OS_Exercises_W1_IntroToC.md",
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
     "02 - Atomic/20240517 - 163124 -.md",
     "01.Areas/0.DailyNote/2024-05-17.md",
@@ -272,7 +286,6 @@
     "02 - Atomic/20240515 - 010006 - Principle - Sum principle.md",
     "02 - Atomic/20240515 - 025614 - Minimum weight spanning tree.md",
     "02 - Atomic/20240515 - 022456 - Definition - Simple graph.md",
-    "02 - Atomic/20240515 - 012315 - Subsets.md",
     "00.References/Discrete_Theory_All.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
     "99 - Meta/0. Attachments/Pasted image 20240515033016.png",
