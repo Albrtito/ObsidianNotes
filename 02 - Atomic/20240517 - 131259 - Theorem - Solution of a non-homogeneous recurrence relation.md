@@ -7,6 +7,9 @@ tags:
 "References:": 
 cssclasses:
   - page-theorem
+sr-due: 2024-05-21
+sr-interval: 4
+sr-ease: 272
 ---
 A linear non-homogeneous recurrence relation is such as there are **no powers of any term greater than 1** and **the independent term is different from 0**. For this theorem we'll call the independent term $t_n$
 Of course for this course (#Discrete ) we'll always work with **constant coefficients**

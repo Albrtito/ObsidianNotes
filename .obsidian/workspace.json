@@ -4,8 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "15f0390215d3b1fb",
+        "type": "tabs",
+        "dimension": 36.289041821069354,
+        "children": [
+          {
+            "id": "d60ade257997ab51",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "792d5b0f4d722c76",
         "type": "tabs",
+        "dimension": 63.71095817893065,
         "children": [
           {
             "id": "1f71dc71b68c33a9",
@@ -13,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240517 - 131259 - Theorem - Solution of a non-homogeneous recurrence relation.md",
+                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240517 - 131259 - Theorem - Solution of a non-homogeneous recurrence relation.md",
+                "file": "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240517 - 131259 - Theorem - Solution of a non-homogeneous recurrence relation.md",
+                "file": "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,31 +173,31 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240517 - 131259 - Theorem - Solution of a non-homogeneous recurrence relation.md",
+                "file": "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "nodeSizeMultiplier": 1.08336552908349,
+                  "lineSizeMultiplier": 1.66286756814767,
                   "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 13.341859845457,
-                  "linkStrength": 0.76664002131628,
-                  "linkDistance": 211,
-                  "scale": 1,
-                  "close": false
+                  "centerStrength": 0.324640480789869,
+                  "repelStrength": 12.5048293625241,
+                  "linkStrength": 0.729984975316592,
+                  "linkDistance": 265,
+                  "scale": 0.2353394158472508,
+                  "close": true
                 }
               }
             }
@@ -196,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240517 - 131259 - Theorem - Solution of a non-homogeneous recurrence relation.md"
+                "file": "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf"
               }
             }
           }
@@ -204,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333
+    "width": 906
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,12 +241,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1f71dc71b68c33a9",
+  "active": "d60ade257997ab51",
   "lastOpenFiles": [
+    "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
+    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+    "02 - Atomic/20240517 - 133027 -.md",
+    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
     "02 - Atomic/20240517 - 131259 - Theorem - Solution of a non-homogeneous recurrence relation.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "02 - Atomic/20240517 - 130812 -.md",
-    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
     "02 - Atomic/Generalisation of linear homogeneous recurrence relations.md",
     "02 - Atomic/20240501 - 143420 - Control flow testing.md",
     "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
@@ -248,9 +269,6 @@
     "01.Areas/0.DailyNote/2024-05-12.md",
     "01.Areas/0.DailyNote/2024-05-15.md",
     "02 - Atomic/20240515 - 020755 - Graph theory.md",
-    "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
-    "02 - Atomic/Exercises_Sequences&Series.md",
-    "01.Areas/0.DailyNote/2024-04-19.md",
     "00.References/Discrete_Theory_All.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
     "99 - Meta/0. Attachments/Pasted image 20240515033016.png",
