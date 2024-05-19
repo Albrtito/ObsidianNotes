@@ -5,14 +5,10 @@ tags:
   - OS
 "References:":
   - https://aulaglobal.uc3m.es/pluginfile.php/6794419/mod_resource/content/1/T3.L1-Concurrency-Intro-Concepts.pdf
-sr-due: 2024-05-19
-sr-interval: 32
+sr-due: 2024-07-30
+sr-interval: 72
 sr-ease: 224
 ---
-
-## Models: 
-**Multiprogramming:**
-
 
 # Advantages of concurrent execution: 
 **Sometimes** (not in most cases) is easier to program in parallel. An example is web servers as they can be seen as a parallel system where each client works in parallel. However if the problem being solved is not initially  parallel then it is not that of an advantage.

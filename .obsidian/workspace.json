@@ -14,20 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Concurrency.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15d05b5a236073fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/Pascal's triangle.md",
+                "file": "02 - Atomic/20240517 - 163856 - Files.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/Concurrency.md",
+                "file": "02 - Atomic/20240517 - 163856 - Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/Concurrency.md",
+                "file": "02 - Atomic/20240517 - 163856 - Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/Concurrency.md",
+                "file": "02 - Atomic/20240517 - 163856 - Files.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/Concurrency.md"
+                "file": "02 - Atomic/20240517 - 163856 - Files.md"
               }
             }
           }
@@ -259,13 +246,19 @@
   },
   "active": "d60ade257997ab51",
   "lastOpenFiles": [
+    "02 - Atomic/Pascal's triangle.md",
+    "02 - Atomic/20240517 - 163856 - Files.md",
+    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
+    "02 - Atomic/20240415 - 114153 - Inverse of a binary relation.md",
+    "02 - Atomic/Concurrency.md",
+    "02 - Atomic/Race condition.md",
+    "02 - Atomic/Mutual exclusion.md",
     "02 - Atomic/20240515 - 011944 - Ordered subsets.md",
     "02 - Atomic/20240515 - 013650 - Principle - Inclusion-exclusion principle.md",
     "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
     "01.Areas/0.DailyNote/2024-05-19.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
-    "02 - Atomic/Pascal's triangle.md",
     "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
     "00.References/OS_Biblio_J.Carretero.pdf",
     "01.Areas/1.UC3M/Operating Systems.md",
@@ -273,7 +266,6 @@
     "01.Areas/1.UC3M/Software Dev.md",
     "02 - Atomic/Discrete_Theory_Ch 0_Intro.md",
     "01.Areas/1.UC3M/Discrete Math.md",
-    "02 - Atomic/20240517 - 163856 - Files.md",
     "01.Areas/0.DailyNote/2024-05-17.md",
     "02 - Atomic/20240517 - 163124 -.md",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
@@ -283,11 +275,6 @@
     "02 - Atomic/20240515 - 010716 - Counting methods.md",
     "02 - Atomic/20240515 - 020755 - Graph theory.md",
     "02 - Atomic/20240515 - 032018 - Tree graph.md",
-    "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
-    "02 - Atomic/20240515 - 010953 - Permutations.md",
-    "02 - Atomic/20240515 - 035256 - Euler's formula.md",
-    "02 - Atomic/20240515 - 031853 - Definition - Complementary graph.md",
-    "02 - Atomic/20240509 - 191823 - Simulation - Thread Pool Server.md",
     "00.References/Discrete_Theory_All.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
     "99 - Meta/0. Attachments/Pasted image 20240515033016.png",

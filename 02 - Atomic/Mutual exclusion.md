@@ -37,7 +37,7 @@ Imagine that we had two processes P1 and P2 and two resources A and B. This reso
 The **general solution to solve deadlocks**: Everyone uses the resources in the same order
 
 ## Starvation: 
-A process is indefinitely blocked waiting to enter a critical section. A resource is used all the time between two processes, they take turns for the resource and do not let other processes to acces it. 
+A process is indefinitely blocked waiting to enter a critical section. A resource is used all the time between two processes, they take turns for the resource and do not let other processes to access it. 
 
 ### Solution: 
 To **solve starvation problem** we need to ensure that no process is blocked forever, schedule use of resources another way. 
