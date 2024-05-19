@@ -45,7 +45,7 @@ The set of integers Z is a **closed set** with respect to the operations sum, su
 Euclid’s lemma is used in Euclid’s algorithm to obtain the gcd(a,b) when a and b are to big to obtain their prime divisors and compute their gcd in the general way: 
 ![[20240519 - 233523 - Algorithm - Euclid's algorithm|Euclid's algorithm]]
 ## Bézout’s identity
-
+![[20240429 - 114501 - Theorem -Bézout's Identity|Bézout's Identity]]
 ## Least common multiple
 
 ## Prime numbers: 

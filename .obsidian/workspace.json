@@ -6,7 +6,7 @@
       {
         "id": "15f0390215d3b1fb",
         "type": "tabs",
-        "dimension": 31.90758663752732,
+        "dimension": 46.72571970895286,
         "children": [
           {
             "id": "d60ade257997ab51",
@@ -32,26 +32,9 @@
         "currentTab": 1
       },
       {
-        "id": "ef4fd921a45b13fc",
-        "type": "tabs",
-        "dimension": 27.19325632219794,
-        "children": [
-          {
-            "id": "01b928e07da67059",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "9af070794635d90b",
         "type": "tabs",
-        "dimension": 40.899157040274744,
+        "dimension": 53.274280291047134,
         "children": [
           {
             "id": "aa6f0fd2c1599c60",
@@ -240,7 +223,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.06702563880609055,
+                  "scale": 0.06542368901953775,
                   "close": true
                 }
               }
@@ -287,28 +270,31 @@
   },
   "active": "a3b520f1551c9ebf",
   "lastOpenFiles": [
+    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
+    "02 - Atomic/Integrity rules.md",
+    "02 - Atomic/20240519 - 165004 - Order Relation.md",
+    "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
+    "02 - Atomic/20240423 - 100332 - Perfect matchings.md",
+    "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
+    "00.References/Discreta_Exercises_All_Solved.pdf",
+    "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
+    "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
+    "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
+    "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
+    "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
+    "02 - Atomic/20240519 - 214201 - Algorithm - The division algorithm.md",
+    "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
+    "02 - Atomic/20240519 - 214806 - Definition - Greatest common divisor.md",
+    "02 - Atomic/20240519 - 165637 - Hasse diagram.md",
+    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
     "00.References/Discrete_Theory_All.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-05-19 at 23.53.57.png",
-    "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
-    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "02 - Atomic/20240519 - 234825 -.md",
-    "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
-    "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
-    "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
-    "02 - Atomic/20240519 - 214806 - Definition -Greatest common divisor.md",
-    "02 - Atomic/20240519 - 214201 - Algorithm - The division algorithm.md",
-    "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
-    "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
-    "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
     "02 - Atomic/20240519 - 212331 -.md",
     "01.Areas/1.UC3M/Discrete Math.md",
-    "02 - Atomic/20240519 - 165004 - Order Relation.md",
-    "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240519 - 182434 -.md",
-    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
     "02 - Atomic/Binary Relations.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-19 at 17.25.21.png",
-    "02 - Atomic/20240519 - 165637 - Hasse diagram.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-19 at 16.59.49.png",
     "01.Areas/0.DailyNote/2024-05-19.md",
     "02 - Atomic/20240517 - 163856 - Files.md",
@@ -316,7 +302,6 @@
     "02 - Atomic/20240415 - 114153 - Inverse of a binary relation.md",
     "02 - Atomic/Concurrency.md",
     "02 - Atomic/Race condition.md",
-    "02 - Atomic/Mutual exclusion.md",
     "00.References/OS_Biblio_J.Carretero.pdf",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
@@ -331,7 +316,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.39.50.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 11.34.11.png",
     "00.References/Calc_Theory_All.pdf",
-    "00.References/DiffCalc_Theory_EquacioónDeOnda.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/1.UC3M/Files and data bases.canvas",

@@ -7,6 +7,9 @@ tags:
 "References:": 
 cssclasses:
   - page-theorem
+sr-due: 2024-05-20
+sr-interval: 1
+sr-ease: 230
 ---
 
 > [!NOTE] Theorem: Euclid’s theorem 

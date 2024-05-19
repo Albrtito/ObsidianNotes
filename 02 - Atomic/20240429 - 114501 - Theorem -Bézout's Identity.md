@@ -6,6 +6,9 @@ tags:
   - review
 "References:": 
 cssclasses:
+sr-due: 2024-05-20
+sr-interval: 1
+sr-ease: 210
 ---
 
 
@@ -24,3 +27,9 @@ cssclasses:
 ![[Screenshot 2024-05-19 at 23.53.57.png]]
 
 + The Bézout’s identity does **not imply that the integers u and v are unique**
+
+From this identity we obtain the following theorems: 
+
+> [!NOTE] Theorem: 
+> Let a and b be two integers not simultaneously zero with gcd(a,b) = d. 
+> An integer c can be written in the form: a\cdot x + b\cdot y 

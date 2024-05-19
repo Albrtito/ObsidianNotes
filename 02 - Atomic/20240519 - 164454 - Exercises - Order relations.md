@@ -9,6 +9,9 @@ tags:
   - "[[20240519 - 165004 - Order Relation|Order relations]]"
 cssclasses:
   - page-manila
+sr-due: 2024-05-23
+sr-interval: 4
+sr-ease: 248
 ---
 # Exercises - Order relations
 

@@ -8,9 +8,9 @@ tags:
   - "[[Discreta_Exercises_All_Solved.pdf]]"
 cssclasses:
   - page-manila
-sr-due: 2024-05-18
+sr-due: 2024-05-20
 sr-interval: 1
-sr-ease: 228
+sr-ease: 188
 ---
 # Exercises - Equivalence relations
 

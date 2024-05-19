@@ -8,6 +8,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
+sr-due: 2024-05-22
+sr-interval: 3
+sr-ease: 250
 ---
 # Greatest common divisor (g.d.c.)
 

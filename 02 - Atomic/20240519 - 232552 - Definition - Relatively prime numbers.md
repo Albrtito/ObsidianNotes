@@ -8,12 +8,15 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
+sr-due: 2024-05-22
+sr-interval: 3
+sr-ease: 250
 ---
 # Relatively prime numbers: 
 
 > [!NOTE] Definition: 
 > Two numbers a and b are **relatively prime**
-> **IF:** the [[20240519 - 214806 - Definition -Greatest common divisor|Greatest common divisor]] gcd(a,b) = 1.
+> **IF:** the [[20240519 - 214806 - Definition - Greatest common divisor|Greatest common divisor]] gcd(a,b) = 1.
 > 
 > Integers $a_1,a_2,…,a_n$ are **pairwise relatively prime** 
 > **IF:** 
