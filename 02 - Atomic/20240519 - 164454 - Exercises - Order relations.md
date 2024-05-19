@@ -132,4 +132,30 @@ A polygon P is convex if, for any two points a, b ∈ P , the segment ab joining
 
 This could be proven directly by explaining the following? 
 For any polygon with n vertices, we can divide the polygon into n-2 triangles by taking one of the vertices and tracing a line from that vertex to every other vertex besides the two contiguous to it. This creates n-3 lines that divide the polygon into n-2 triangles. 
-All triangles have as vertices vertices of the polygon. This means that summing the angles of all the triangles will conclude in the sum of the angles of the polygon, with each triangle having a total angle s
+All triangles have as vertices vertices of the polygon. This means that summing the angles of all the triangles will conclude in the sum of the angles of the polygon, with each triangle having a total angle sum of pi. The final sum is: 
+$$
+(n-2)\pi
+$$
+
+However this problem can also be solved by using induction. 
+## 13.9:
+Prove that 1 + $2^n$ $< 3^n$ for each n $\geq 2$
+
+Using induction: 
+1. **Base case:** n = 2
+$$
+1 + 2^2 < 3^2; 5 < 9
+$$
+2. **Assume for n = k** 
+$$
+1 + 2^k < 3^k
+$$
+3. **Prove for n = k +1**
+$$
+1 + 2^{k +1} < 3^{k+1} \Rightarrow 1 + 2^{k} \cdot 2 < 3^{k} \cdot 3 \Rightarrow (1/2 + 2^{k}) < {3^{k} \cdot 3 \over 2}
+$$
+$$
+(1/2 + 2^{k}) < 1 + 2^k <3^k < {3^{k} \cdot 3 \over 2}
+$$
+
+## 13.10: 

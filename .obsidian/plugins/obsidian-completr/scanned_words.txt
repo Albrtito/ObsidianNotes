@@ -1968,6 +1968,8 @@ thg
 talking
 totally
 topological
+triangles
+tracing
 dailyNote
 day
 during
@@ -6105,6 +6107,9 @@ comprehensible
 coordinates
 considering
 cardinal
+convex
+contained
+contiguous
 lifeOS
 liking
 las
@@ -17765,6 +17770,7 @@ incomparable
 inherit
 infimum
 infimums
+interior
 Enough
 Esta
 Est
@@ -45709,6 +45715,8 @@ successor
 show
 supremums
 subgraphs
+segment
+suing
 No
 NOTE
 Normalmente
@@ -49407,6 +49415,7 @@ persistent
 partially
 poset
 proves
+polygon
 UC
 UNIDADES
 Unidades
@@ -55242,6 +55251,8 @@ architecture
 accessed
 abstraction
 automatically
+angles
+angle
 of
 otro
 opciones
