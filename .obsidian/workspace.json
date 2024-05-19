@@ -6,7 +6,7 @@
       {
         "id": "15f0390215d3b1fb",
         "type": "tabs",
-        "dimension": 42.76422764227642,
+        "dimension": 28.728159284843557,
         "children": [
           {
             "id": "d60ade257997ab51",
@@ -34,7 +34,7 @@
       {
         "id": "ef4fd921a45b13fc",
         "type": "tabs",
-        "dimension": 25.853658536585368,
+        "dimension": 39.90247866720845,
         "children": [
           {
             "id": "01b928e07da67059",
@@ -51,7 +51,7 @@
       {
         "id": "9af070794635d90b",
         "type": "tabs",
-        "dimension": 31.382113821138212,
+        "dimension": 31.36936204794799,
         "children": [
           {
             "id": "367f7b7197f7cb79",
@@ -290,7 +290,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 741
+    "width": 741,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,9 +314,10 @@
   "lastOpenFiles": [
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
+    "02 - Atomic/20240519 - 165004 - Order Relation.md",
+    "02 - Atomic/20240519 - 182434 -.md",
     "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
-    "02 - Atomic/20240519 - 165004 - Order Relation.md",
     "02 - Atomic/Binary Relations.md",
     "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
     "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
@@ -340,7 +342,6 @@
     "01.Areas/1.UC3M/Operating Systems.md",
     "02 - Atomic/SoftwareDev_Theory_Ch 0_Intro.md",
     "01.Areas/1.UC3M/Software Dev.md",
-    "02 - Atomic/Discrete_Theory_Ch 0_Intro.md",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
