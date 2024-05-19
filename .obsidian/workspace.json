@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "01.Areas/0.DailyNote/2024-05-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "00.References/OS_Biblio_J.Carretero.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "00.References/OS_Biblio_J.Carretero.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "00.References/OS_Biblio_J.Carretero.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md"
+                "file": "00.References/OS_Biblio_J.Carretero.pdf"
               }
             }
           }
@@ -222,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 906
+    "width": 741
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,13 +241,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "367f7b7197f7cb79",
+  "active": "d60ade257997ab51",
   "lastOpenFiles": [
+    "01.Areas/0.DailyNote/2024-05-19.md",
+    "01.Areas/1.UC3M/Operating Systems.md",
     "02 - Atomic/SoftwareDev_Theory_Ch 0_Intro.md",
     "01.Areas/1.UC3M/Software Dev.md",
     "02 - Atomic/Discrete_Theory_Ch 0_Intro.md",
     "01.Areas/1.UC3M/Discrete Math.md",
-    "01.Areas/1.UC3M/Operating Systems.md",
     "02 - Atomic/20240517 - 163856 - Files.md",
     "00.References/OS_Biblio_J.Carretero.pdf",
     "01.Areas/0.DailyNote/2024-05-17.md",
@@ -271,7 +272,6 @@
     "02 - Atomic/20240515 - 014153 - Principle - Pigeonhole principle.md",
     "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
     "02 - Atomic/20240515 - 032223 - Eulerian Graphs.md",
-    "02 - Atomic/20240515 - 013337 - Definition - Power set.md",
     "00.References/Discrete_Theory_All.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
     "99 - Meta/0. Attachments/Pasted image 20240515033016.png",
