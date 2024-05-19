@@ -34,4 +34,4 @@ $$
 \gcd(a,b) = \gcd(b, r_1) = \gcd(r_1,r2)  = ...= \gcd(r_{n-2}, r_{n-1})
 $$
 + where $r_{n-1}$ is the last non-zero remainder.
-+ **Then:** The \gcd(a,b) = r_{n-1}$
++ **Then:** $$\boxed{\gcd(a,b) = r_{n-1}}$$

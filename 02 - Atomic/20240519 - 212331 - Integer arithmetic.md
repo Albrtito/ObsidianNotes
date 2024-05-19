@@ -39,9 +39,10 @@ The set of integers Z is a **closed set** with respect to the operations sum, su
 ## The division algorithm
 ![[20240519 - 214201 - Algorithm - The division algorithm|The division algorithm]]
 ## Properties of integer division
-
+### Relatively prime numbers: 
+![[20240519 - 232552 - Definition - Relatively prime numbers|Relatively prime numbers]]
 ## Euclid’s lemma
-Euclid’s lemma is used in euclid’s algorithm to obtain the gcd(a,b) when a and b are to big to obtain their prime divisors and compute their gcd in the general way: 
+Euclid’s lemma is used in Euclid’s algorithm to obtain the gcd(a,b) when a and b are to big to obtain their prime divisors and compute their gcd in the general way: 
 ![[20240519 - 233523 - Algorithm - Euclid's algorithm|Euclid's algorithm]]
 ## Bézout’s identity
 

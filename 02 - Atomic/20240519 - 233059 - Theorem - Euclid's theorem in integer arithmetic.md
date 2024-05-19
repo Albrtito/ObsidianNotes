@@ -6,6 +6,7 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
+  - page-theorem
 ---
 
 > [!NOTE] Theorem: Euclid’s theorem 
