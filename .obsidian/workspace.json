@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md"
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
               }
             }
           }
@@ -310,10 +310,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "367f7b7197f7cb79",
+  "active": "8b46b5ded68afc01",
   "lastOpenFiles": [
-    "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
+    "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240519 - 165004 - Order Relation.md",
     "02 - Atomic/20240519 - 182434 -.md",
     "00.References/Discrete_Theory_All.pdf",

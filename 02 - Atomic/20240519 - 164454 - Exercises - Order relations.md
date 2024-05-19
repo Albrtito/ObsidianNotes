@@ -46,4 +46,7 @@ The supremum and minimum is found by deducing that for any point of A to be grea
 The infimum is obtained in a similar way, however this time the point must have (x,y) smaller or equal to -1. Then the **infimum is (-1,-1)**
 
 ## 13.4: 
-Let A be the set A = {n ∈ Z : 2 ≤ n ≤ 12}, and let us define on A the order relation R given by: n R m ⇔ n | m, or n is prime and n ≤ m . Tell the maximal, minimal, maximum, and minimum elements of the poset (A, R)
+Let A be the set A = {n ∈ Z : 2 ≤ n ≤ 12}, and let us define on A the order relation R given by: n R m ⇔ n | m, or n is prime and n ≤ m . 
+
+Tell the maximal, minimal, maximum, and minimum elements of the poset (A, R)
+
