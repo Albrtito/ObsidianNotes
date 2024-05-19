@@ -78,4 +78,7 @@ A=\{n \in \mathbb{N}: 1 \leq n \leq 9\}
 $$
 3. Find for $\mathcal{R}_1$ and $\mathcal{R}_2$ the maximal, minimal, maximum, and minimum elements on $A$. Find also the supremum and infimum of $A$ as a subset of $\mathbb{N}$
 
-Minimal and maximal elements are directly obtained from the Hasse diagram. Only for the R2 relation is there any 
+Minimal and maximal elements are directly obtained from the Hasse diagram. Only for the R2 relation is there anything else but maximals and minimals. The R2 relation has a minimum at 1 and an infimum at 1. Any other maximums, minimums, infimums or supremums do not exist. 
+
+See that 1 is an infimum even while it is inside the set A. Also observe that for any value of N to be an infimum or a supremum it should be below(infimums) every other node in the Hasse graph, **and connected to them** or above (supremums)
+
