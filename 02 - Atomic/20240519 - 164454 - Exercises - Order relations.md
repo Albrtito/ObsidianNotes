@@ -50,3 +50,5 @@ Let A be the set A = {n ∈ Z : 2 ≤ n ≤ 12}, and let us define on A the orde
 
 Tell the maximal, minimal, maximum, and minimum elements of the poset (A, R)
 
+**Just painting the Hasse graph, solution with exercises**
+
