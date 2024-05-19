@@ -132,7 +132,8 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -213,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240519 - 214806 - Definition -Greatest common divisor.md",
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240519 - 214806 - Definition -Greatest common divisor.md",
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240519 - 214806 - Definition -Greatest common divisor.md",
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -309,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240519 - 214806 - Definition -Greatest common divisor.md"
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md"
               }
             }
           }
@@ -336,17 +337,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "70b3682b28c6bfbc",
+  "active": "aa6f0fd2c1599c60",
   "lastOpenFiles": [
-    "02 - Atomic/20240519 - 214806 - Definition -Greatest common divisor.md",
+    "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
     "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
+    "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
+    "02 - Atomic/20240519 - 214806 - Definition -Greatest common divisor.md",
     "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
     "02 - Atomic/20240519 - 214201 - Algorithm - The division algorithm.md",
-    "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
     "02 - Atomic/20240519 - 212331 -.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/20240519 - 165004 - Order Relation.md",
-    "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
     "00.References/Discrete_Theory_All.pdf",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240519 - 182434 -.md",
