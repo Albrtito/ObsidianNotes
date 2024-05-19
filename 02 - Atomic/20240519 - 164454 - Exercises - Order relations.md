@@ -33,3 +33,17 @@ After doing so we can create the Hasse graph with those values and see that:
 
 ## 13.3: 
 Let us consider the relation R on R2 given by $$(a, b)R(c, d) ⇔ a ≤ c \text{ and } b ≤ d $$ Find the maximal and minimal elements of the set $$C ⊆ R_2: C = {(x, y) ∈ R_2 : x^2 + y^2 = 1} $$Find sup(C) and inf(C) by considering C as a subset of R2.
+
+Set C is defining all the points that exist in the **unit sphere of radius 1**. 
+For all of those values, we obtain that all the maximals (those for which no value relates with **them**) are the points where x and y are both positive. 
+All the minimals (points that relate with no one) are the ones when x and y are both negative. 
+
+**maximals:** $\{(x,y) \in C / x, y \geq 0\}$
+**minimals:**$\{(x,y) \in C / x, y \leq 0\}$
+
+The supremum and minimum is found by deducing that for any point of A to be greater than any point of C, then this point has (x,y) both greater or equal to 1. Then the minimum of these points is (1,1)
+
+The infimum is obtained in a similar way, however this time the point must have (x,y) smaller or equal to -1. Then the **infimum is (-1,-1)**
+
+## 13.4: 
+Let A be the set A = {n ∈ Z : 2 ≤ n ≤ 12}, and let us define on A the order relation R given by: n R m ⇔ n | m, or n is prime and n ≤ m . Tell the maximal, minimal, maximum, and minimum elements of the poset (A, R)
