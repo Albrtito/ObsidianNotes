@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
+                "file": "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
+                "file": "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
+                "file": "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
+                "file": "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md"
               }
             }
           }
@@ -310,12 +310,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "01b928e07da67059",
+  "active": "367f7b7197f7cb79",
   "lastOpenFiles": [
-    "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
-    "00.References/Discreta_Exercises_All_Solved.pdf",
-    "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
     "02 - Atomic/20240519 - 165004 - Order Relation.md",
+    "00.References/Discreta_Exercises_All_Solved.pdf",
+    "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
+    "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
     "02 - Atomic/20240519 - 182434 -.md",
     "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",

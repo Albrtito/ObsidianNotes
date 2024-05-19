@@ -89,11 +89,23 @@ $$
 A=\left\{G=\left(V_4, E\right) \mid E \subseteq E_4\right\},
 $$
 compute the cardinal of $A$.
-2. We define on $A$ the following equivalence relation $\mathcal{R}$ : if $G_1, G_2 \in A$,
+
+All spanning subgraphs of A is given by all the possible edges of a cycle graph that E could contain for those four vertices. There are 16 of these possible combinations. 
+$$
+ |A| = 16
+$$
+1. We define on $A$ the following equivalence relation $\mathcal{R}$ : if $G_1, G_2 \in A$,
 $$
 G_1 \mathcal{R} G_2 \quad \Leftrightarrow \quad G_1 \text { is isomorphic to } G_2 \text {. }
 $$
 
 Find the equivalence classes $[G]_{\mathcal{R}}$, and the quotient set $C=A / \mathcal{R}$.
+
+The equivalence classes are given by the form of the spanning graphs. First divide them by the number of edges. This automatically creates 5 classes, for those 5 classes all minus the one with 2 edges are already an equivalent class. 
+The class of spanning graphs with 2 edges can be divided between those that represent the perfect matching of the cycle graphs (parallel edges) and those that have an L form. 
+In total 6 equiv classes. 
+
 3. We now define the order relation $\preceq$ on the quotient set $C$ as follows: $[A]_{\mathcal{R}} \preceq[B]_{\mathcal{R}}$ if and only if there exist graphs $G_1=\left(V_4, E_1\right) \in[A]_{\mathcal{R}}$ and $G_2=\left(V_4, E_2\right) \in[B]_{\mathcal{R}}$ such that $E_1 \subseteq E_2$. Find the Hasse diagram associated to the set $(C, \preceq)$. Is $(C, \preceq)$ a totally ordered set?
-4. Let $Z \subset C$ be the subset of $C$ containing the classes of equivalence that contain at least one representative with two edges. Compute $\sup (Z)$ and $\inf (Z)$.
+
+The Hasse diagram is obtained with all classes in line but the c2 cclasse (the graphs with 2 edges) that are in the same level. This means that it is **not a complete **
+1. Let $Z \subset C$ be the subset of $C$ containing the classes of equivalence that contain at least one representative with two edges. Compute $\sup (Z)$ and $\inf (Z)$.
