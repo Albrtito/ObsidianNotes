@@ -4,67 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "15f0390215d3b1fb",
+        "id": "050148f6e21413ba",
         "type": "tabs",
-        "dimension": 46.72571970895286,
         "children": [
           {
-            "id": "d60ade257997ab51",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Discrete_Theory_All.pdf"
-              }
-            }
-          },
-          {
-            "id": "8b46b5ded68afc01",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Discrete_Theory_All.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9af070794635d90b",
-        "type": "tabs",
-        "dimension": 53.274280291047134,
-        "children": [
-          {
-            "id": "aa6f0fd2c1599c60",
+            "id": "5824e14fc33d945b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3b520f1551c9ebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
+                "file": "01.Areas/1.UC3M/Calculus I.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,25 +67,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "74476affe76ac5b2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0b81a69190cd8ecc",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 357.00418853759766,
-    "collapsed": true
+    "width": 778.0041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -140,12 +81,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "89073f15576efae5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "6ac2d010ad26804a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
+                "file": "01.Areas/1.UC3M/Calculus I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
+                "file": "01.Areas/1.UC3M/Calculus I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +135,16 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "e3a8260602c87d64",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "f97aefa6b972e655",
@@ -200,31 +156,31 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
+                "file": "01.Areas/1.UC3M/Calculus I.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": true,
+                  "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0,
-                  "repelStrength": 17.3531310522918,
-                  "linkStrength": 0.595351839896708,
-                  "linkDistance": 374,
-                  "scale": 0.06542368901953775,
-                  "close": true
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 13.341859845457,
+                  "linkStrength": 0.76664002131628,
+                  "linkDistance": 211,
+                  "scale": 0.5776704078055667,
+                  "close": false
                 }
               }
             }
@@ -241,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md"
+                "file": "01.Areas/1.UC3M/Calculus I.md"
               }
             }
           }
@@ -249,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 741
+    "width": 1226
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,9 +224,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a3b520f1551c9ebf",
+  "active": "5824e14fc33d945b",
   "lastOpenFiles": [
+    "99 - Meta/1. Templates/dailyNote.md",
+    "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
+    "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
+    "99 - Meta/0. Attachments/Pasted image 20240409141643.png",
+    "99 - Meta/0. Attachments/Pasted image 20240428173235.png",
+    "99 - Meta/0. Attachments/Pasted image 20240428173636.png",
+    "99 - Meta/0. Attachments/Pasted image 20240515033016.png",
+    "99 - Meta/0. Attachments/Pasted image 20240428173329.png",
+    "99 - Meta/0. Attachments/Pasted image 20240428180416.png",
+    "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 14.17.06.png",
+    "99 - Meta/0. Attachments/Screenshot 2024-04-11 at 16.09.33.png",
+    "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
     "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
+    "02 - Atomic/20240429 - 111500 - Prime numbers.md",
+    "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
     "02 - Atomic/Integrity rules.md",
     "02 - Atomic/20240519 - 165004 - Order Relation.md",
     "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
@@ -278,43 +248,29 @@
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
-    "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
     "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
     "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
-    "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
     "02 - Atomic/20240519 - 214201 - Algorithm - The division algorithm.md",
     "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
     "02 - Atomic/20240519 - 214806 - Definition - Greatest common divisor.md",
     "02 - Atomic/20240519 - 165637 - Hasse diagram.md",
     "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
     "00.References/Discrete_Theory_All.pdf",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-19 at 23.53.57.png",
     "02 - Atomic/20240519 - 234825 -.md",
     "02 - Atomic/20240519 - 212331 -.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/20240519 - 182434 -.md",
     "02 - Atomic/Binary Relations.md",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-19 at 17.25.21.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-19 at 16.59.49.png",
     "01.Areas/0.DailyNote/2024-05-19.md",
     "02 - Atomic/20240517 - 163856 - Files.md",
     "02 - Atomic/Pascal's triangle.md",
     "02 - Atomic/20240415 - 114153 - Inverse of a binary relation.md",
-    "02 - Atomic/Concurrency.md",
-    "02 - Atomic/Race condition.md",
     "00.References/OS_Biblio_J.Carretero.pdf",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
-    "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
-    "99 - Meta/0. Attachments/Pasted image 20240515033016.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-15 at 03.29.37.png",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
     "00.References/SoftwareDev_PracticeTheorySession 08.pdf",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.44.50.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.43.42.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 12.39.50.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-08 at 11.34.11.png",
     "00.References/Calc_Theory_All.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",

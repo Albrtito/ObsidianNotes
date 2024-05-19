@@ -32,4 +32,21 @@ From this identity we obtain the following theorems:
 
 > [!NOTE] Theorem: 
 > Let a and b be two integers not simultaneously zero with gcd(a,b) = d. 
-> An integer c can be written in the form: a\cdot x + b\cdot y 
+> **THEN:**
+> An integer c can be written in the form: $$a\cdot x + b\cdot y $$
+> + For some integers x,y
+> + IF and only if: c is multiple of d.
+
+**Remarks:**
++ In particular, d is the smallest positive integer of the form $a \cdot x + b \cdot y$ with $x,y \in Z$
+
++ Going back to [[20240519 - 232552 - Definition - Relatively prime numbers|Relatively prime numbers]]. Two integers are relatively prime if exists integers x, y such that: $a \cdot x + b \cdot y = 1$
+
++ **IF:** gcd(a,b) = d **THEN:** 
+	+ $gcd(m \cdot a , m \cdot b)$ = m * d: For all m in N
+	+ $\gcd (\frac{a}{d}, \frac{b}{d})$= 1
+
++ **IF:** a and b relatively-prime **THEN:** 
+1. If a| c and b | c, then $(a\cdot b)$ | c
+2. If a | $(b \cdot c)$ then a|c
+
