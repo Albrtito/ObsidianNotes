@@ -82,3 +82,18 @@ Minimal and maximal elements are directly obtained from the Hasse diagram. Only 
 
 See that 1 is an infimum even while it is inside the set A. Also observe that for any value of N to be an infimum or a supremum it should be below(infimums) every other node in the Hasse graph, **and connected to them** or above (supremums)
 
+## 13.6: 
+Let us consider the cycle $C_4=\left(V_4, E_4\right)$ with labelled vertices $V_4=\{a, b, c, d\}$.
+1. If $A$ is the set of the spanning subgraphs of $C_4$ :
+$$
+A=\left\{G=\left(V_4, E\right) \mid E \subseteq E_4\right\},
+$$
+compute the cardinal of $A$.
+2. We define on $A$ the following equivalence relation $\mathcal{R}$ : if $G_1, G_2 \in A$,
+$$
+G_1 \mathcal{R} G_2 \quad \Leftrightarrow \quad G_1 \text { is isomorphic to } G_2 \text {. }
+$$
+
+Find the equivalence classes $[G]_{\mathcal{R}}$, and the quotient set $C=A / \mathcal{R}$.
+3. We now define the order relation $\preceq$ on the quotient set $C$ as follows: $[A]_{\mathcal{R}} \preceq[B]_{\mathcal{R}}$ if and only if there exist graphs $G_1=\left(V_4, E_1\right) \in[A]_{\mathcal{R}}$ and $G_2=\left(V_4, E_2\right) \in[B]_{\mathcal{R}}$ such that $E_1 \subseteq E_2$. Find the Hasse diagram associated to the set $(C, \preceq)$. Is $(C, \preceq)$ a totally ordered set?
+4. Let $Z \subset C$ be the subset of $C$ containing the classes of equivalence that contain at least one representative with two edges. Compute $\sup (Z)$ and $\inf (Z)$.
