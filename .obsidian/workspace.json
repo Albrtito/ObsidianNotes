@@ -6,7 +6,7 @@
       {
         "id": "15f0390215d3b1fb",
         "type": "tabs",
-        "dimension": 36.87168279737746,
+        "dimension": 31.90758663752732,
         "children": [
           {
             "id": "d60ade257997ab51",
@@ -34,7 +34,7 @@
       {
         "id": "ef4fd921a45b13fc",
         "type": "tabs",
-        "dimension": 31.75148298470184,
+        "dimension": 27.19325632219794,
         "children": [
           {
             "id": "01b928e07da67059",
@@ -51,7 +51,7 @@
       {
         "id": "9af070794635d90b",
         "type": "tabs",
-        "dimension": 31.376834217920702,
+        "dimension": 40.899157040274744,
         "children": [
           {
             "id": "367f7b7197f7cb79",
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md"
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
               }
             }
           }
@@ -310,10 +310,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "367f7b7197f7cb79",
+  "active": "8b46b5ded68afc01",
   "lastOpenFiles": [
-    "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
+    "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240519 - 165004 - Order Relation.md",
     "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
     "02 - Atomic/20240519 - 182434 -.md",

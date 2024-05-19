@@ -158,4 +158,12 @@ $$
 (1/2 + 2^{k}) < 1 + 2^k <3^k < {3^{k} \cdot 3 \over 2}
 $$
 
-## 13.10: 
+## 13.10: (not-done) 
+Prove using induction that the number of odd–degree vertices in any graph G is an even number.
+
+## 13.11: (not-done)
+Prove by induction that the Fibonacci numbers Fn and Fn+1 are relatively prime for all integer 
+$$
+n ≥ 0: Fn = Fn−1 + Fn−2 , n ≥ 2 , F0 = 0 , F1 = 1 . 
+$$
+Hint: You do not need to solve the recurrence equation to perform the proof.
