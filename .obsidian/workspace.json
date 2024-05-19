@@ -24,7 +24,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
+                "file": "00.References/Discrete_Theory_All.pdf"
               }
             }
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240519 - 165004 - Order Relation.md",
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -282,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md"
               }
             }
           }
@@ -310,21 +311,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8b46b5ded68afc01",
+  "active": "aa6f0fd2c1599c60",
   "lastOpenFiles": [
-    "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
-    "00.References/Discreta_Exercises_All_Solved.pdf",
-    "02 - Atomic/20240519 - 165004 - Order Relation.md",
+    "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
     "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
-    "02 - Atomic/20240519 - 182434 -.md",
+    "02 - Atomic/20240519 - 212331 -.md",
+    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
+    "01.Areas/1.UC3M/Discrete Math.md",
+    "02 - Atomic/20240519 - 165004 - Order Relation.md",
+    "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
     "00.References/Discrete_Theory_All.pdf",
+    "00.References/Discreta_Exercises_All_Solved.pdf",
+    "02 - Atomic/20240519 - 182434 -.md",
     "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
     "02 - Atomic/Binary Relations.md",
-    "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-19 at 17.25.21.png",
     "02 - Atomic/20240519 - 165637 - Hasse diagram.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-19 at 16.59.49.png",
-    "01.Areas/1.UC3M/Discrete Math.md",
     "01.Areas/0.DailyNote/2024-05-19.md",
     "02 - Atomic/20240517 - 163856 - Files.md",
     "02 - Atomic/Pascal's triangle.md",
@@ -341,7 +344,6 @@
     "00.References/OS_Biblio_J.Carretero.pdf",
     "01.Areas/1.UC3M/Operating Systems.md",
     "02 - Atomic/SoftwareDev_Theory_Ch 0_Intro.md",
-    "01.Areas/1.UC3M/Software Dev.md",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
