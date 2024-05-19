@@ -118,3 +118,18 @@ Prove that for all n in N the following equation holds:
 $$
 	3 | (4^n - 1)
 $$
+Use induction to prove in all N: 
+1. **Base case:** Prove for n = 1
+2. **Assumption:** Assume that it works for some n = k
+3. **Prove for n = k+1**: Use the following: 
+$$
+3 | (4^{k+1} -1 ) \rightarrow 3 | (4^k(3 +1)-1) \rightarrow 3|(4^k\cdot 3 + 4^k-1)
+$$
+This proves for n = k+1 as 3 divides anything multiplied by 3 and also divides $4^k -1$ as proven in step 2. Then the sum can also be divided by 3. 
+
+## 13.8: 
+A polygon P is convex if, for any two points a, b ∈ P , the segment ab joining both points is totally contained inside the polygon. Prove that the sum of the interior angles of a convex polygon of n ≥ 3 sides is (n − 2)π.
+
+This could be proven directly by explaining the following? 
+For any polygon with n vertices, we can divide the polygon into n-2 triangles by taking one of the vertices and tracing a line from that vertex to every other vertex besides the two contiguous to it. This creates n-3 lines that divide the polygon into n-2 triangles. 
+All triangles have as vertices vertices of the polygon. This means that summing the angles of all the triangles will conclude in the sum of the angles of the polygon, with each triangle having a total angle s
