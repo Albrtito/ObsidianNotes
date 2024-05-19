@@ -53,3 +53,29 @@ Tell the maximal, minimal, maximum, and minimum elements of the poset (A, R)
 **Just painting the Hasse graph, solution with exercises**
 
 ## 13.5: 
+Consider the two binary relations on set N:
+$$
+\begin{aligned}
+& a \mathcal{R}_1 b \Leftrightarrow \exists n \in \mathbb{N} \text { such that } a=b^n, \\
+& a \mathcal{R}_2 b \Leftrightarrow \exists n \in \mathbb{N} \cup\{0\} \quad \text { such that } a=b^n .
+\end{aligned}
+$$
+1. Show that $\mathcal{R}_1$ is an order relation. Is $\mathcal{R}_2$ also an order relation? Is $\mathcal{R}_1$ a total order?
+
+In order to show that it is an order relation we need to show that the three properties of order relations comply: 
++ **Transitivity:** 
++ **Anti-symmetry**
++ **Reflexivity:**
+
+We conclude.
++ The R1 relation is an order relation.
++ The R2 relation is also an order relation as the 0 does not affect the three properties. 
++ R1 is not an total order: Total orders need for all the elements to be related to another one(besides itself). Based on the definition, prime numbers won’t be able to relate to any other number. 
+
+2. Find the Hasse diagram of both relations on the set
+$$
+A=\{n \in \mathbb{N}: 1 \leq n \leq 9\}
+$$
+3. Find for $\mathcal{R}_1$ and $\mathcal{R}_2$ the maximal, minimal, maximum, and minimum elements on $A$. Find also the supremum and infimum of $A$ as a subset of $\mathbb{N}$
+
+Minimal and maximal elements are directly obtained from the Hasse diagram. Only for the R2 relation is there any 
