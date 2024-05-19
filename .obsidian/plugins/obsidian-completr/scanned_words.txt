@@ -1967,6 +1967,7 @@ tli
 thg
 talking
 totally
+topological
 dailyNote
 day
 during
@@ -13774,6 +13775,7 @@ WlL
 WKv
 WaC
 WnI
+Well
 up
 usage
 under
@@ -25108,6 +25110,7 @@ TCP
 TWZ
 TCE
 TXFE
+Topological
 Movement
 MM
 MMMM
@@ -45685,6 +45688,7 @@ sFq
 skz
 secondary
 supremum
+sort
 No
 NOTE
 Normalmente
