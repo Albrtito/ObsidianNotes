@@ -107,5 +107,14 @@ In total 6 equiv classes.
 
 3. We now define the order relation $\preceq$ on the quotient set $C$ as follows: $[A]_{\mathcal{R}} \preceq[B]_{\mathcal{R}}$ if and only if there exist graphs $G_1=\left(V_4, E_1\right) \in[A]_{\mathcal{R}}$ and $G_2=\left(V_4, E_2\right) \in[B]_{\mathcal{R}}$ such that $E_1 \subseteq E_2$. Find the Hasse diagram associated to the set $(C, \preceq)$. Is $(C, \preceq)$ a totally ordered set?
 
-The Hasse diagram is obtained with all classes in line but the c2 cclasse (the graphs with 2 edges) that are in the same level. This means that it is **not a complete **
-1. Let $Z \subset C$ be the subset of $C$ containing the classes of equivalence that contain at least one representative with two edges. Compute $\sup (Z)$ and $\inf (Z)$.
+The Hasse diagram is obtained with all classes in line but the c2 class (the graphs with 2 edges) that are in the same level. This means that it is **not a complete order**
+
+4. Let $Z \subset C$ be the subset of $C$ containing the classes of equivalence that contain at least one representative with two edges. Compute $\sup (Z)$ and $\inf (Z)$.
+
+The supremum will be C3 while the infimum C1
+
+## 13.7: 
+Prove that for all n in N the following equation holds: 
+$$
+	3 | (4^n - 1)
+$$
