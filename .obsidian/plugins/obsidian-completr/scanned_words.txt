@@ -60941,6 +60941,7 @@ maximal
 major
 minor
 maximals
+minimals
 YYYY
 YYYYMMDD
 YU

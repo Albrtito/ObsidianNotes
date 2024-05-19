@@ -22,8 +22,7 @@ Let A the set A = {0, 1, 2} × {2, 5, 8}, and let us define the order relation R
 First we transform the relation into a more comprehensible form by obtaining the value of the sum of the coordinates at each point.
 After doing so we can create the Hasse graph with those values and see that: 
 + There is no maximum or minimum
-+ The maximals and minimals are
-
++ The maximals and minimals are directly obtained following the rules:
 **Remember:**
 **Maximals**: Those nodes that have no edges from them to another node. (No outgoing edges). (remember than with Hasse graphs, even if the arrows are not drawn the edges are directed)
 
@@ -31,3 +30,6 @@ After doing so we can create the Hasse graph with those values and see that:
 
 **Maximum:** A node such as it **is a maximal** and no other node is also a maximal
 **Minimum:** A node such as it **is a minimal** and no other node is a minimal.
+
+## 13.3: 
+Let us consider the relation R on R2 given by $$(a, b)R(c, d) ⇔ a ≤ c \text{ and } b ≤ d $$ Find the maximal and minimal elements of the set $$C ⊆ R_2: C = {(x, y) ∈ R_2 : x^2 + y^2 = 1} $$Find sup(C) and inf(C) by considering C as a subset of R2.
