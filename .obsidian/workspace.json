@@ -203,7 +203,7 @@
               "state": {
                 "file": "02 - Atomic/20240519 - 165004 - Order Relation.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 3,
                   "localBacklinks": true,
@@ -217,14 +217,14 @@
                   "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1.08336552908349,
-                  "lineSizeMultiplier": 1.66286756814767,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
                   "collapse-forces": false,
                   "centerStrength": 0,
-                  "repelStrength": 15.8338699291693,
-                  "linkStrength": 0.761536810474351,
-                  "linkDistance": 310,
-                  "scale": 0.08126361396611087,
+                  "repelStrength": 17.3531310522918,
+                  "linkStrength": 0.595351839896708,
+                  "linkDistance": 374,
+                  "scale": 0.06537297747885512,
                   "close": true
                 }
               }
@@ -269,7 +269,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aa6f0fd2c1599c60",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
     "02 - Atomic/20240519 - 165637 - Hasse diagram.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-19 at 16.59.49.png",
