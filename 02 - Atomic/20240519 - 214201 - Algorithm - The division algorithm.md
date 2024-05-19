@@ -17,6 +17,7 @@ cssclasses:
 > $$
 
 **Remarks:**
-+ Numbers a and b are called dividend and divisor
-+ r is the remainder, this remainder can be expressed with modular arithmetics as: $$r = a \mod b$$
++ Numbers a and b are called **dividend and divisor**
++ r is the **remainder**, this remainder can be expressed with modular arithmetics as: $$r = a \mod b$$
 + The number q is the **quotient**
+	+ It is defined as the lower or upper bound of the division between a and b. (only the integer part)

@@ -37,7 +37,7 @@ The set of integers Z is a **closed set** with respect to the operations sum, su
 + Any nonzero integer divides itself.
 
 ## The division algorithm
-
+![[20240519 - 214201 - Algorithm - The division algorithm|The division algorithm]]
 ## Properties of integer division
 
 ## Euclid’s lemma
