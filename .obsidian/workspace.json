@@ -63,9 +63,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7613166763cbe9e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240519 - 165004 - Order Relation.md",
+                "file": "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240519 - 165004 - Order Relation.md",
+                "file": "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240519 - 165004 - Order Relation.md",
+                "file": "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240519 - 165004 - Order Relation.md"
+                "file": "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md"
               }
             }
           }
@@ -269,11 +282,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "7613166763cbe9e4",
   "lastOpenFiles": [
+    "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
+    "02 - Atomic/20240519 - 165004 - Order Relation.md",
     "02 - Atomic/20240519 - 165637 - Hasse diagram.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-19 at 16.59.49.png",
-    "02 - Atomic/20240519 - 165004 - Order Relation.md",
     "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/Binary Relations.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
