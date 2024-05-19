@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "02 - Atomic/Discrete_Theory_Ch 0_Intro.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "02 - Atomic/Discrete_Theory_Ch 0_Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "02 - Atomic/Discrete_Theory_Ch 0_Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md",
+                "file": "02 - Atomic/Discrete_Theory_Ch 0_Intro.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Operating Systems.md"
+                "file": "02 - Atomic/Discrete_Theory_Ch 0_Intro.md"
               }
             }
           }
@@ -243,13 +243,14 @@
   },
   "active": "367f7b7197f7cb79",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Discrete Math.md",
+    "01.Areas/1.UC3M/Operating Systems.md",
     "02 - Atomic/20240517 - 163856 - Files.md",
     "00.References/OS_Biblio_J.Carretero.pdf",
     "01.Areas/0.DailyNote/2024-05-17.md",
     "02 - Atomic/20240517 - 163124 -.md",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
     "02 - Atomic/OS_Theory_Ch_0_Presentation.md",
-    "01.Areas/1.UC3M/Operating Systems.md",
     "02 - Atomic/OS_Exercises_W1_IntroToC.md",
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
     "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
