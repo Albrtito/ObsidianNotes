@@ -6,9 +6,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
-sr-due: 2024-05-18
-sr-interval: 1
-sr-ease: 230
+sr-due: 2024-05-28
+sr-interval: 9
+sr-ease: 250
 ---
 # Inclusion-exclusion principle
 The inclusion-exclusion principle is a **generalisation of the special case mentioned in the [[20240515 - 010006 - Principle - Sum principle|Sum principle]]** where sets are not disjoint. (they intersect)

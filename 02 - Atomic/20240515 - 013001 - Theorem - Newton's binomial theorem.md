@@ -7,11 +7,11 @@ tags:
 "References:": 
 cssclasses:
   - page-theorem
-sr-due: 2024-05-18
+sr-due: 2024-05-20
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
-Newton’s binomial theorem describes the the algebraic expansion of power of a binomial (x-)
+Newton’s binomial theorem describes the the algebraic expansion of power of a binomial (x+y$)^n$. 
 
 **Base case:**
 $$(x+y)^n=\sum_{k=0}^n\binom{n}{k} x^k y^{n-k}, \quad n \geq 0 $$

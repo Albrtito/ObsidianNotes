@@ -14,7 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
+                "file": "02 - Atomic/Concurrency.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15d05b5a236073fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/Pascal's triangle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
+                "file": "02 - Atomic/Concurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
+                "file": "02 - Atomic/Concurrency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
+                "file": "02 - Atomic/Concurrency.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,11 +208,11 @@
                   "nodeSizeMultiplier": 1.08336552908349,
                   "lineSizeMultiplier": 1.66286756814767,
                   "collapse-forces": false,
-                  "centerStrength": 0.205516205194248,
-                  "repelStrength": 12.5048293625241,
-                  "linkStrength": 0.729984975316592,
-                  "linkDistance": 265,
-                  "scale": 0.027310085959823156,
+                  "centerStrength": 0,
+                  "repelStrength": 15.8338699291693,
+                  "linkStrength": 0.761536810474351,
+                  "linkDistance": 310,
+                  "scale": 0.09579201557695088,
                   "close": true
                 }
               }
@@ -217,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md"
+                "file": "02 - Atomic/Concurrency.md"
               }
             }
           }
@@ -246,9 +259,15 @@
   },
   "active": "d60ade257997ab51",
   "lastOpenFiles": [
+    "02 - Atomic/20240515 - 011944 - Ordered subsets.md",
+    "02 - Atomic/20240515 - 013650 - Principle - Inclusion-exclusion principle.md",
+    "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
+    "01.Areas/0.DailyNote/2024-05-19.md",
+    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+    "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
+    "02 - Atomic/Pascal's triangle.md",
     "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
     "00.References/OS_Biblio_J.Carretero.pdf",
-    "01.Areas/0.DailyNote/2024-05-19.md",
     "01.Areas/1.UC3M/Operating Systems.md",
     "02 - Atomic/SoftwareDev_Theory_Ch 0_Intro.md",
     "01.Areas/1.UC3M/Software Dev.md",
@@ -261,7 +280,6 @@
     "02 - Atomic/OS_Theory_Ch_0_Presentation.md",
     "02 - Atomic/OS_Exercises_W1_IntroToC.md",
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
-    "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
     "02 - Atomic/20240515 - 010716 - Counting methods.md",
     "02 - Atomic/20240515 - 020755 - Graph theory.md",
     "02 - Atomic/20240515 - 032018 - Tree graph.md",
@@ -270,11 +288,6 @@
     "02 - Atomic/20240515 - 035256 - Euler's formula.md",
     "02 - Atomic/20240515 - 031853 - Definition - Complementary graph.md",
     "02 - Atomic/20240509 - 191823 - Simulation - Thread Pool Server.md",
-    "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
-    "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
-    "02 - Atomic/20240515 - 021923 - Definition - Pseudograph.md",
-    "02 - Atomic/20240515 - 014153 - Principle - Pigeonhole principle.md",
-    "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
     "00.References/Discrete_Theory_All.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
     "99 - Meta/0. Attachments/Pasted image 20240515033016.png",

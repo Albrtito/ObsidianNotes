@@ -8,8 +8,8 @@ tags:
 "References:": 
 cssclasses:
   - page-theorem
-sr-due: 2024-05-18
-sr-interval: 1
+sr-due: 2024-05-25
+sr-interval: 6
 sr-ease: 210
 ---
 
