@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/OS_Biblio_J.Carretero.pdf",
+                "file": "01.Areas/0.DailyNote/2024-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/OS_Biblio_J.Carretero.pdf",
+                "file": "01.Areas/0.DailyNote/2024-05-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/OS_Biblio_J.Carretero.pdf",
+                "file": "01.Areas/0.DailyNote/2024-05-19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/OS_Biblio_J.Carretero.pdf"
+                "file": "01.Areas/0.DailyNote/2024-05-19.md"
               }
             }
           }
@@ -241,8 +241,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d60ade257997ab51",
+  "active": "367f7b7197f7cb79",
   "lastOpenFiles": [
+    "00.References/OS_Biblio_J.Carretero.pdf",
     "01.Areas/0.DailyNote/2024-05-19.md",
     "01.Areas/1.UC3M/Operating Systems.md",
     "02 - Atomic/SoftwareDev_Theory_Ch 0_Intro.md",
@@ -250,7 +251,6 @@
     "02 - Atomic/Discrete_Theory_Ch 0_Intro.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/20240517 - 163856 - Files.md",
-    "00.References/OS_Biblio_J.Carretero.pdf",
     "01.Areas/0.DailyNote/2024-05-17.md",
     "02 - Atomic/20240517 - 163124 -.md",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
@@ -271,7 +271,6 @@
     "02 - Atomic/20240515 - 021923 - Definition - Pseudograph.md",
     "02 - Atomic/20240515 - 014153 - Principle - Pigeonhole principle.md",
     "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
-    "02 - Atomic/20240515 - 032223 - Eulerian Graphs.md",
     "00.References/Discrete_Theory_All.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240515040900.png",
     "99 - Meta/0. Attachments/Pasted image 20240515033016.png",
