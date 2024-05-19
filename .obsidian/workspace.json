@@ -27,7 +27,15 @@
                 "file": "00.References/Discreta_Exercises_All_Solved.pdf"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ef4fd921a45b13fc",
+        "type": "tabs",
+        "dimension": 28.621378621378625,
+        "children": [
           {
             "id": "01b928e07da67059",
             "type": "leaf",
@@ -38,13 +46,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9af070794635d90b",
         "type": "tabs",
-        "dimension": 57.24275724275725,
+        "dimension": 28.621378621378625,
         "children": [
           {
             "id": "367f7b7197f7cb79",
