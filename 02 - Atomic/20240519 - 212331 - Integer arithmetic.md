@@ -16,6 +16,25 @@ The set of integers Z is a **closed set** with respect to the operations sum, su
 + 1 is identity with respect to the product 
 + For every element in Z, there exist an **unique inverse element** such that the sum of the two elements equals 0.
 
+**THE IMPORTANT PART:** The result of division might not always be an integer. 
+
+> [!NOTE] Definition:
+> Given two integers a $\not = 0$ and b.
+> + We say **a divides b** if there is an integer q such that: 
+> $$
+> b = a\cdot q
+> $$
+> + **IF:** a divides b 
+> 	+ **THEN:** a is **a factor of** b 
+> 	+ **THEN:** b is a multiple of a
+> 
+> Relation a divides b is denoted as **a|b**, when a does not divide b it is written as: **a$\not{|}$b**
+> 
+
+**Remarks:**
++ Every non-zero integer divides 0
++ 1 divides any integer
++ Any nonzero integer divides itself.
 
 ## The division algorithm
 
