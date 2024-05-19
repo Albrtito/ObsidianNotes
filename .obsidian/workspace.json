@@ -12,9 +12,12 @@
             "id": "d60ade257997ab51",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00.References/OS_Biblio_J.Carretero.pdf"
+                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -118,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-19.md",
+                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-19.md",
+                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-19.md",
+                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +199,7 @@
                   "repelStrength": 12.5048293625241,
                   "linkStrength": 0.729984975316592,
                   "linkDistance": 265,
-                  "scale": 0.09483240516865009,
+                  "scale": 0.027310085959823156,
                   "close": true
                 }
               }
@@ -214,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-19.md"
+                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md"
               }
             }
           }
@@ -241,7 +244,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "367f7b7197f7cb79",
+  "active": "d60ade257997ab51",
   "lastOpenFiles": [
     "00.References/OS_Biblio_J.Carretero.pdf",
     "01.Areas/0.DailyNote/2024-05-19.md",
