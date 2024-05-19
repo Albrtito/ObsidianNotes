@@ -10102,6 +10102,7 @@ Fldz
 Fnp
 FXn
 FGZgQF
+Follow
 first
 from
 file
@@ -47079,6 +47080,7 @@ sNr
 sGV
 sVd
 sgwi
+stablished
 No
 NOTE
 Normalmente

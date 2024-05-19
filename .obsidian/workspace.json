@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "01.Areas/0.DailyNote/2024-05-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,6 +32,7 @@
       {
         "id": "499a66215ecf4828",
         "type": "tabs",
+        "dimension": 78.96368467670504,
         "children": [
           {
             "id": "b89f836cb1d8a8cd",
@@ -67,10 +68,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "fbd39a1a95a13d62",
+        "type": "tabs",
+        "dimension": 21.03631532329495,
+        "children": [
+          {
+            "id": "e3a8260602c87d64",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 778.0041847229004
+    "width": 380.0041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "01.Areas/0.DailyNote/2024-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "01.Areas/0.DailyNote/2024-05-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,16 +151,9 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "e3a8260602c87d64",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "f97aefa6b972e655",
@@ -156,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "01.Areas/0.DailyNote/2024-05-19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md"
+                "file": "01.Areas/0.DailyNote/2024-05-19.md"
               }
             }
           }
@@ -226,6 +235,7 @@
   },
   "active": "5824e14fc33d945b",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Calculus I.md",
     "99 - Meta/1. Templates/dailyNote.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
@@ -264,7 +274,6 @@
     "01.Areas/0.DailyNote/2024-05-19.md",
     "02 - Atomic/20240517 - 163856 - Files.md",
     "02 - Atomic/Pascal's triangle.md",
-    "02 - Atomic/20240415 - 114153 - Inverse of a binary relation.md",
     "00.References/OS_Biblio_J.Carretero.pdf",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
