@@ -54,64 +54,12 @@
         "dimension": 40.899157040274744,
         "children": [
           {
-            "id": "367f7b7197f7cb79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aa6f0fd2c1599c60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7613166763cbe9e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6b277baa8a8fefa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c160f8e045624087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240519 - 214201 - Algorithm - The division algorithm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,9 +78,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cb1001b3beebfac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62754e6cc73d94b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -214,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
+                "file": "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
+                "file": "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
+                "file": "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -310,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md"
+                "file": "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md"
               }
             }
           }
@@ -337,18 +311,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aa6f0fd2c1599c60",
+  "active": "62754e6cc73d94b5",
   "lastOpenFiles": [
-    "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
-    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
-    "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
+    "00.References/Discrete_Theory_All.pdf",
+    "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
+    "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
     "02 - Atomic/20240519 - 214806 - Definition -Greatest common divisor.md",
-    "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
+    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "02 - Atomic/20240519 - 214201 - Algorithm - The division algorithm.md",
+    "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
+    "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
+    "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
     "02 - Atomic/20240519 - 212331 -.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/20240519 - 165004 - Order Relation.md",
-    "00.References/Discrete_Theory_All.pdf",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240519 - 182434 -.md",
     "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
@@ -366,9 +342,6 @@
     "02 - Atomic/20240515 - 011944 - Ordered subsets.md",
     "02 - Atomic/20240515 - 013650 - Principle - Inclusion-exclusion principle.md",
     "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
-    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
-    "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
-    "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
     "00.References/OS_Biblio_J.Carretero.pdf",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
