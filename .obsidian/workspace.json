@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
+                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
+                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
+                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
+                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md"
+                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md"
               }
             }
           }
@@ -246,6 +246,7 @@
   },
   "active": "d60ade257997ab51",
   "lastOpenFiles": [
+    "02 - Atomic/20240423 - 131817 - Chromatic poly of a wheel graph.md",
     "00.References/OS_Biblio_J.Carretero.pdf",
     "01.Areas/0.DailyNote/2024-05-19.md",
     "01.Areas/1.UC3M/Operating Systems.md",
