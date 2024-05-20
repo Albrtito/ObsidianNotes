@@ -4,7 +4,7 @@ aliases:
   - Dijkstra's algorithm
 tags:
   - Discrete
-  - incomplete
+  - review
 "References:": 
 cssclasses:
 ---
@@ -27,20 +27,6 @@ To recap: There will be three important lists:
 
 ## Algorithm
 Some references to understand the algorithm: 
-
-
-1. Mark the origin (initial vertex): 
-	1. length from the initial vertex is zero
-	2. Previous vertex is itself
-	3. Visited
-	4. Origin is now current vertex
-
-1. From all vertices adjacent to the last visited vertex get their lenght from the current 
-
-	All other vertices are marked with one of two possible labels: 
-	+ If the vertex is adjacent to the initial vertex it gets the label: $(w_{s,j},s)$ , where $w_{s,j}$ is the weight of the edge joining the vertices. 
-	+ If the vertex is not adjacent then it just gets an infinity label.
-2. Let $v \in V$ be the last vertex that has become permanent. For each temporary vertex j we compare the temporary label $\delta_j$ to the new value $\delta_v + w_{v,j}$
-3. …
+[Freecodecamp guide](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
 
 

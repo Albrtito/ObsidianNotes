@@ -6,7 +6,7 @@
       {
         "id": "15f0390215d3b1fb",
         "type": "tabs",
-        "dimension": 54.091238233164376,
+        "dimension": 35.07610853739245,
         "children": [
           {
             "id": "d60ade257997ab51",
@@ -47,7 +47,7 @@
       {
         "id": "c740df69a4a3072a",
         "type": "tabs",
-        "dimension": 45.908761766835624,
+        "dimension": 64.92389146260754,
         "children": [
           {
             "id": "5943ce53ff0dd574",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
+                "file": "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
+                "file": "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,20 +223,6 @@
         "currentTab": 4
       },
       {
-        "id": "ce9bb9b825adcb21",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "275437d5af7cd747",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "f97aefa6b972e655",
         "type": "tabs",
         "children": [
@@ -246,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
+                "file": "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md"
+                "file": "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md"
               }
             }
           }
@@ -337,8 +323,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5943ce53ff0dd574",
+  "active": "0b98dd3681b4347f",
   "lastOpenFiles": [
+    "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
     "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
     "02 - Atomic/20240515 - 031853 - Definition - Complementary graph.md",
     "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
