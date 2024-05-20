@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240520 - 131833 - Least common multiple.md",
+                "file": "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240520 - 131833 - Least common multiple.md",
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240520 - 131833 - Least common multiple.md",
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240520 - 131833 - Least common multiple.md",
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240520 - 131833 - Least common multiple.md"
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md"
               }
             }
           }
@@ -275,10 +274,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "42e1c704e2c3efce",
+  "active": "aa6f0fd2c1599c60",
   "lastOpenFiles": [
-    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
+    "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
     "02 - Atomic/20240520 - 131833 - Least common multiple.md",
+    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "00.References/Discrete_Theory_All.pdf",
     "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/20240515 - 012315 - Subsets.md",

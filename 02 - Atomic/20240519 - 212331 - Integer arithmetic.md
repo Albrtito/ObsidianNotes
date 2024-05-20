@@ -51,6 +51,6 @@ Euclid’s lemma is used in Euclid’s algorithm to obtain the gcd(a,b) when a a
 ## Prime numbers: 
 ![Prime numbers](20240429%20-%20111500%20-%20Prime%20numbers.md)
 
-
-
+## Linear Diophantine equations: 
+![[20240429 - 113931 - Linear Diophantine equations|Linear Diophantine equations]]
 
