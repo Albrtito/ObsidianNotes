@@ -61,9 +61,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42200e20d5c90ac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Duda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "74476affe76ac5b2",
@@ -152,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
+                "file": "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
+                "file": "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
+                "file": "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md"
+                "file": "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md"
               }
             }
           }
@@ -296,10 +310,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "206106b24baa15fb",
+  "active": "42200e20d5c90ac6",
   "lastOpenFiles": [
-    "00.References/Discrete_Theory_All.pdf",
+    "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
     "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
+    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/Modular arithmetic.md",
     "02 - Atomic/20240429 - 121006 - Congruent relation.md",
     "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
