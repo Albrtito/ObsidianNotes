@@ -27,9 +27,21 @@
                 "file": "00.References/Discrete_Theory_All.pdf"
               }
             }
+          },
+          {
+            "id": "0b98dd3681b4347f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c740df69a4a3072a",
@@ -42,8 +54,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
-                "mode": "preview",
+                "file": "02 - Atomic/20240429 - 111944 - Theorem - Euclid's proof of infinite prime numbers.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -104,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#incomplete ",
+                "query": "tag:#incomplete  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529.5041847229004
+    "width": 398.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -308,10 +320,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8b46b5ded68afc01",
+  "active": "d60ade257997ab51",
   "lastOpenFiles": [
+    "02 - Atomic/20240429 - 111944 - Theorem - Euclid's proof of infinite prime numbers.md",
     "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
     "00.References/Discrete_Theory_All.pdf",
+    "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
+    "02 - Atomic/20240501 - 140129 - Double factorial.md",
     "02 - Atomic/Modular arithmetic.md",
     "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
     "02 - Atomic/20240429 - 111500 - Prime numbers.md",
@@ -334,8 +349,6 @@
     "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
     "02 - Atomic/The principle of induction.md",
     "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
-    "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
-    "02 - Atomic/20240519 - 165004 - Order Relation.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
     "99 - Meta/0. Attachments/Pasted image 20240409141643.png",

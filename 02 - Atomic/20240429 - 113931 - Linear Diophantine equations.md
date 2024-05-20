@@ -3,7 +3,7 @@ aliases:
   - Linear Diophantine equations
 tags:
   - Discrete
-  - incomplete
+  - review
 "References:": 
 cssclasses:
 ---
@@ -46,3 +46,4 @@ $$
 \end{gather}
 $$
 This means that we can obtain u and w from the [[20240429 - 114501 - Theorem -Bézout's Identity|Bézout's Identity]]
+
