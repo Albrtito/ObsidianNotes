@@ -6,9 +6,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
-sr-due: 2024-05-20
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-05-22
+sr-interval: 2
+sr-ease: 230
 ---
 # Hamiltonian graphs: 
 Hamiltonian graphs are those graphs that **contain a cycle on a graph G such that the cycle contains all vertices of G exactly once**
@@ -28,7 +28,7 @@ There is one theorem we can follow in order to find whether a graph is hamiltoni
 > [!NOTE] Theorem: Dirac
 > **IF** a graph is:
 > + Simple
-> + n ≥ 3
+> + n ≥ 3: n = nº of vertices
 > + $\forall v \in V: d(v) \geq n/2$
 > 
 > **THEN:** The graph is Hamiltonian

@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
+                "file": "02 - Atomic/20240515 - 012315 - Subsets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
+                "file": "02 - Atomic/20240515 - 012315 - Subsets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
+                "file": "02 - Atomic/20240515 - 012315 - Subsets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
+                "file": "02 - Atomic/20240515 - 012315 - Subsets.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md"
+                "file": "02 - Atomic/20240515 - 012315 - Subsets.md"
               }
             }
           }
@@ -278,6 +278,15 @@
   },
   "active": "5824e14fc33d945b",
   "lastOpenFiles": [
+    "02 - Atomic/20240515 - 010716 - Counting methods.md",
+    "02 - Atomic/20240509 - 191823 - Simulation - Thread Pool Server.md",
+    "02 - Atomic/20240409 - 121336 -Proof Theory in Predicate Calculus.md",
+    "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
+    "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
+    "02 - Atomic/20240515 - 033903 - Hamiltonian graphs.md",
+    "00.References/Discrete_Theory_All.pdf",
+    "02 - Atomic/20240515 - 014532 - Distributions.md",
+    "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
     "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
     "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
     "02 - Atomic/The principle of induction.md",
@@ -296,14 +305,6 @@
     "02 - Atomic/20240515 - 012600 - Definition - Binomial coefficients.md",
     "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
     "02 - Atomic/20240515 - 013337 - Definition - Power set.md",
-    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
-    "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
-    "01.Areas/1.UC3M/Discrete Math.md",
-    "00.References/Discrete_Theory_All.pdf",
-    "01.Areas/0.DailyNote/2024-05-20.md",
-    "01.Areas/0.DailyNote/2024-05-19.md",
-    "01.Areas/1.UC3M/Calculus I.md",
-    "99 - Meta/1. Templates/dailyNote.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
     "99 - Meta/0. Attachments/Pasted image 20240409141643.png",
@@ -314,7 +315,6 @@
     "99 - Meta/0. Attachments/Pasted image 20240428180416.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 14.17.06.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-11 at 16.09.33.png",
-    "02 - Atomic/20240429 - 111500 - Prime numbers.md",
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/OS_Biblio_J.Carretero.pdf",

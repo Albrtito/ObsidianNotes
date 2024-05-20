@@ -5,9 +5,9 @@ tags:
   - Logic
 "References:": 
 cssclasses:
-sr-due: 2024-05-20
-sr-interval: 25
-sr-ease: 261
+sr-due: 2024-06-03
+sr-interval: 14
+sr-ease: 241
 ---
 # Proof Theory in Predicate Calculus:
 ## Intro: 

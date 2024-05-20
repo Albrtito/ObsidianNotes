@@ -6,9 +6,9 @@ tags:
   - OS
 "References:": 
 cssclasses:
-sr-due: 2024-05-20
-sr-interval: 3
-sr-ease: 252
+sr-due: 2024-05-31
+sr-interval: 11
+sr-ease: 272
 ---
 # Simulation of a thread pool server. 
 #Duda :I don’t know why but this simulation is performing much worse than it is expected to. 
