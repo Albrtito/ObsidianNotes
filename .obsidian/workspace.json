@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md"
+                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md"
               }
             }
           }
@@ -278,6 +278,10 @@
   },
   "active": "5824e14fc33d945b",
   "lastOpenFiles": [
+    "02 - Atomic/20240515 - 010006 - Principle - Sum principle.md",
+    "02 - Atomic/20240519 - 214201 - Algorithm - The division algorithm.md",
+    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
     "02 - Atomic/20240515 - 032046 - Planar graph.md",
     "02 - Atomic/20240515 - 012600 - Definition - Binomial coefficients.md",
     "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
@@ -311,12 +315,8 @@
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
-    "02 - Atomic/20240519 - 214201 - Algorithm - The division algorithm.md",
     "02 - Atomic/20240519 - 214806 - Definition - Greatest common divisor.md",
     "02 - Atomic/20240519 - 165637 - Hasse diagram.md",
-    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
-    "02 - Atomic/20240519 - 234825 -.md",
-    "02 - Atomic/20240519 - 212331 -.md",
     "00.References/OS_Biblio_J.Carretero.pdf",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",

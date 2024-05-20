@@ -6,9 +6,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
-sr-due: 2024-05-20
-sr-interval: 3
-sr-ease: 268
+sr-due: 2024-05-31
+sr-interval: 11
+sr-ease: 288
 ---
 
 > [!NOTE] Sum principle

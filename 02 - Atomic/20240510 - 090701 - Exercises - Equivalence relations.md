@@ -2,14 +2,14 @@
 aliases:
   - Exercises - Equivalence relations
 tags:
-  - review
   - Discrete
+  - incomplete
 "References:":
   - "[[Discreta_Exercises_All_Solved.pdf]]"
 cssclasses:
   - page-manila
-sr-due: 2024-05-20
-sr-interval: 1
+sr-due: 2024-05-22
+sr-interval: 2
 sr-ease: 188
 ---
 # Exercises - Equivalence relations

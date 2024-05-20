@@ -7,8 +7,8 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
-sr-due: 2024-05-20
-sr-interval: 1
+sr-due: 2024-05-22
+sr-interval: 2
 sr-ease: 228
 ---
 # The division algorithm
