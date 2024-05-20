@@ -7,9 +7,9 @@ tags:
   - Discrete
 "References:": 
 cssclasses:
-sr-due: 2024-05-20
+sr-due: 2024-05-21
 sr-interval: 1
-sr-ease: 206
+sr-ease: 186
 ---
 # Euclid’s algorithm: 
 This algorithm is based on:

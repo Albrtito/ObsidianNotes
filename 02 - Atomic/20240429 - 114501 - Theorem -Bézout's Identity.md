@@ -6,9 +6,9 @@ tags:
   - review
 "References:": 
 cssclasses:
-sr-due: 2024-05-20
+sr-due: 2024-05-21
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 

@@ -7,8 +7,8 @@ DateCreated: 2024-02-05
   - "[[Basic Set Operations]]"
 aliases:
   - Elementary Combinatorics
-sr-due: 2024-05-20
-sr-interval: 3
+sr-due: 2024-05-27
+sr-interval: 7
 sr-ease: 256
 ---
 # Elementary combinatorics

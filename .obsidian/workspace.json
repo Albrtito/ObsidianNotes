@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
+                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
+                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
+                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md",
+                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240515 - 020755 - Graph theory.md"
+                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md"
               }
             }
           }
@@ -278,6 +278,16 @@
   },
   "active": "5824e14fc33d945b",
   "lastOpenFiles": [
+    "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
+    "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
+    "02 - Atomic/The principle of induction.md",
+    "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
+    "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
+    "02 - Atomic/20240519 - 165004 - Order Relation.md",
+    "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
+    "02 - Atomic/20240515 - 020755 - Graph theory.md",
+    "02 - Atomic/20240423 - 100403 - Proper colorings.md",
+    "02 - Atomic/20240423 - 101520 - The chromatic polynomial.md",
     "02 - Atomic/20240515 - 010006 - Principle - Sum principle.md",
     "02 - Atomic/20240519 - 214201 - Algorithm - The division algorithm.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
@@ -288,7 +298,6 @@
     "02 - Atomic/20240515 - 013337 - Definition - Power set.md",
     "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
-    "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "00.References/Discrete_Theory_All.pdf",
     "01.Areas/0.DailyNote/2024-05-20.md",
@@ -305,18 +314,9 @@
     "99 - Meta/0. Attachments/Pasted image 20240428180416.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 14.17.06.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-11 at 16.09.33.png",
-    "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
     "02 - Atomic/20240429 - 111500 - Prime numbers.md",
-    "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
-    "02 - Atomic/Integrity rules.md",
-    "02 - Atomic/20240519 - 165004 - Order Relation.md",
-    "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
-    "02 - Atomic/20240423 - 100332 - Perfect matchings.md",
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
     "00.References/Discreta_Exercises_All_Solved.pdf",
-    "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
-    "02 - Atomic/20240519 - 214806 - Definition - Greatest common divisor.md",
-    "02 - Atomic/20240519 - 165637 - Hasse diagram.md",
     "00.References/OS_Biblio_J.Carretero.pdf",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",

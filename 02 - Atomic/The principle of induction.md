@@ -4,8 +4,8 @@ tags:
   - review
   - Calc
 "References:":
-sr-due: 2024-05-20
-sr-interval: 45
+sr-due: 2024-09-19
+sr-interval: 122
 sr-ease: 270
 ---
 ### Conditions
