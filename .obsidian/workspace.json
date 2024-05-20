@@ -219,6 +219,21 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "ce9bb9b825adcb21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "275437d5af7cd747",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
         ]
       },
       {
@@ -318,7 +333,8 @@
       "templater-obsidian:Templater": true,
       "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "5943ce53ff0dd574",
