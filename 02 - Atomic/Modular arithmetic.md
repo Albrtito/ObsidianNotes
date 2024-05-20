@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - Discrete
-  - incomplete
+  - review
 "References:":
   - "[[20240510 - 101543 - Exercises - Modular arithmetic|Exercises - Modular arithmetic]]"
 cssclasses:
@@ -100,7 +100,8 @@ Satisfying the following properties:
 + These properties are the same ones as those characterizing a field. However there is **no multiplicative inverse**
 
 
-### Multiplicative inverse of x: 
+### Multiplicative inverse of x:
+![[20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x|Modular arithmetics - Multiplicative inverse of x]]
 
 
 

@@ -6,7 +6,7 @@
       {
         "id": "15f0390215d3b1fb",
         "type": "tabs",
-        "dimension": 61.78010471204188,
+        "dimension": 54.091238233164376,
         "children": [
           {
             "id": "d60ade257997ab51",
@@ -34,7 +34,7 @@
       {
         "id": "c740df69a4a3072a",
         "type": "tabs",
-        "dimension": 38.21989528795812,
+        "dimension": 45.908761766835624,
         "children": [
           {
             "id": "5943ce53ff0dd574",
@@ -42,8 +42,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Modular arithmetic.md",
-                "mode": "source",
+                "file": "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Duda",
+                "query": "tag:#incomplete ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.00418853759766,
-    "collapsed": true
+    "width": 529.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -166,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
+                "file": "00.References/Discrete_Theory_All.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
+                "file": "00.References/Discrete_Theory_All.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
+                "file": "00.References/Discrete_Theory_All.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,7 +263,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.08457840540516272,
+                  "scale": 0.07338842245311401,
                   "close": true
                 }
               }
@@ -283,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md"
+                "file": "00.References/Discrete_Theory_All.pdf"
               }
             }
           }
@@ -310,14 +308,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "42200e20d5c90ac6",
+  "active": "8b46b5ded68afc01",
   "lastOpenFiles": [
-    "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
-    "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
+    "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
     "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/Modular arithmetic.md",
+    "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
+    "02 - Atomic/20240429 - 111500 - Prime numbers.md",
+    "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
     "02 - Atomic/20240429 - 121006 - Congruent relation.md",
-    "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
     "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "02 - Atomic/20240520 - 131833 - Least common multiple.md",
@@ -337,8 +336,6 @@
     "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
     "02 - Atomic/20240205 - 000000 - Elementary Combinatorics.md",
     "02 - Atomic/20240519 - 165004 - Order Relation.md",
-    "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
-    "02 - Atomic/20240515 - 020755 - Graph theory.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
     "99 - Meta/0. Attachments/Pasted image 20240409141643.png",
