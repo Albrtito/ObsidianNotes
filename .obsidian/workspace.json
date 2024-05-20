@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-19.md",
+                "file": "01.Areas/0.DailyNote/2024-05-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-19.md",
+                "file": "01.Areas/0.DailyNote/2024-05-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-19.md",
+                "file": "01.Areas/0.DailyNote/2024-05-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-19.md",
+                "file": "01.Areas/0.DailyNote/2024-05-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-19.md"
+                "file": "01.Areas/0.DailyNote/2024-05-20.md"
               }
             }
           }
@@ -214,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1226
+    "width": 718
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,6 +235,8 @@
   },
   "active": "5824e14fc33d945b",
   "lastOpenFiles": [
+    "01.Areas/0.DailyNote/2024-05-19.md",
+    "01.Areas/0.DailyNote/2024-05-20.md",
     "01.Areas/1.UC3M/Calculus I.md",
     "99 - Meta/1. Templates/dailyNote.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
@@ -271,9 +273,7 @@
     "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/20240519 - 182434 -.md",
     "02 - Atomic/Binary Relations.md",
-    "01.Areas/0.DailyNote/2024-05-19.md",
     "02 - Atomic/20240517 - 163856 - Files.md",
-    "02 - Atomic/Pascal's triangle.md",
     "00.References/OS_Biblio_J.Carretero.pdf",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
