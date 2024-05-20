@@ -25,7 +25,7 @@ $$
 $$
 Given this definition we can define **congruent relations** 
 # Congruent relation: 
-![Congruent relation](20240429%20-%20121006%20-%20Congruent%20relation.md)
+![[20240429 - 121006 - Congruent relation|Congruent relation]]
 
 # Operating with modular arithmetic.
 The congruent relation makes it so the operations we are used to for regular mathematics change. 

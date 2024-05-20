@@ -1,37 +1,51 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#incomplete  ",
       "color": {
         "a": 1,
-        "rgb": 7323105
+        "rgb": 13310490
+      }
+    },
+    {
+      "query": "tag:#Calc  ",
+      "color": {
+        "a": 1,
+        "rgb": 13961968
+      }
+    },
+    {
+      "query": "tag: #Discrete  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
       }
     },
     {
       "query": "tag:#review  ",
       "color": {
         "a": 1,
-        "rgb": 15470094
+        "rgb": 2974689
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.340994189799871,
+  "centerStrength": 0.514984631147541,
   "repelStrength": 16.7462879276953,
   "linkStrength": 0.82479018721756,
   "linkDistance": 210,
-  "scale": 0.05456285149817113,
-  "close": false
+  "scale": 0.050653990120255225,
+  "close": true
 }

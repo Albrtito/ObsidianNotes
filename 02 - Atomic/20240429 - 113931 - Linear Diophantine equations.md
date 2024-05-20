@@ -45,4 +45,4 @@ $$
  c = a(up)+ b(wp) \Rightarrow \boxed{c /p = ua + wb = d}
 \end{gather}
 $$
-This means that we can obtain u and w from the Bézout’s identity. 
+This means that we can obtain u and w from the [[20240429 - 114501 - Theorem -Bézout's Identity|Bézout's Identity]]

@@ -17,9 +17,9 @@ The congruent relation is defined as an [Equivalence relations](Equivalence%20re
 
 > [!NOTE] Congruent relation
 > Two elements a and b are **congruent modulo m** if m | (a-b). This relation is denoted as: 
-> $$
-> a \equiv b\mod m
-> $$
+>$$
+ a \equiv b\mod m
+>$$
 
 + This means that **under the division by m**, a and b have the same remainder.
 $$
@@ -36,7 +36,6 @@ $$
 + And the same definition can be given in a less formal way such as: 
 $$
 \begin{gather}
-
 a \equiv b \mod m\\ \Leftrightarrow\\
 a \mod m = b \mod m
 \end{gather}
@@ -51,10 +50,12 @@ In order to prove that the relation is equivalent the three properties of equiva
 
 1. **Reflexivity:** We can prove reflexivity by proving that any element a is related with itself. 
    Because we know that m | 0. Then by using the definition:
-$$
-a \equiv a \mod m \Leftrightarrow  m | (a-a)  = m | 0 
-$$
+	$$
+	a \equiv a \mod m \Leftrightarrow  m | (a-a)  = m|0
+	$$
+	
 	This is true for any a. Then reflexivity is proved. 
+
 2. **Symmetry:** To prove symmetry we need to prove that for any a and b. 
    $$a \equiv b \mod m \Leftrightarrow b \equiv a \mod m$$
    By definition this holds (they share remainder). However lets expand the definition. 
