@@ -73,3 +73,31 @@ $a\equiv b mod m$
 # Linear congruence equations: 
 ![[20240520 - 163951 - Linear congruence equations|Linear congruence equations]]
 # Arithmetic with $\mathbb{Z}_m$
+$\mathbb{Z}_m$ is composed by the elements of the quotient set described by the congruence relation modulo m on Z.
+
+During this section we’ll use the following notation: 
+$$
+x\in Z_m \Rightarrow_{Def} \space x \in [x]_m
+$$
+## Sum and multiplication: 
+Sum and multiplication are defined as: 
+$$
+x + y = [x]_m + [y]_m = [x+y]_m
+$$
+$$
+x \cdot y = [x]_m \cdot [y]_m = [x\cdot y]_m
+$$
+Satisfying the following properties: 
++ **Closure**
++ **Associativity**
++ **Commutativity**
++ **Distributivity**
++ **Identity element (sum)**
++ **Identity element (product)**
++ **Inverse element (sum)**
+
+**Remark:**
+These properties are the same ones as those characterizing a field. However there is **no multiplicative inverse**
+
+
+
