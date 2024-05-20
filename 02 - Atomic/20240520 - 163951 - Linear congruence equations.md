@@ -42,3 +42,34 @@ $$
 	**Then:** x’ is **also a solution of that equation.**
 + The solution of a linear congruence equation are the equivalent classes classes of congruence modulo m. Elements of $\mathbb{Z}_m$
 
+## Solving linear congruence equations:
+
+> [!NOTE] Theorem: Solving linear congruence equations 
+> 
+> **IF:**
+> + d = gcd(a,m)
+> **THEN:**
+> The linear congruence equation:
+> $$
+> a \cdot x \equiv b \mod m
+> $$
+> 
+> Has a solution **if and only if** d | b.
+> 
+> After obtaining one single solution of the congruence equation $x_0$. The general solution is given by: 
+> $$
+> x_k = x_0 + \frac{m\cdot k}{d}, k\in Z
+> $$
+> 
+> Because for every congruence equation we’ll have d equivalent classes, one for each possible solution of the congruence equation. The set of solutions is:
+> $$
+> \left\{x_0, x_0+\frac{m}{d}, x_0+\frac{2 m}{d}, \ldots, x_0+\frac{m(d-1)}{d}\right\}
+> $$
+> 
+
+**Remarks:**
++ **IF** gcd(a, m) = 1 with m > 1:
+	+ **Then:** The solutions of the linear congruence equation: $a\cdot x \equiv b \mod m$ form **one unique congruence class modulo m**
++ **IF:** gcd(a, m) = 1 with m >1. Then there e**xists an unique multiplicative inverse of a modulo m**
+
+There exists a multiplicative inversee of a modulo m. This multiplicative inverse is unique modulo m

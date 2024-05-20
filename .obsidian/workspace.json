@@ -89,7 +89,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
+                "file": "02 - Atomic/Modular arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
+                "file": "02 - Atomic/Modular arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
+                "file": "02 - Atomic/Modular arithmetic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,7 +277,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.1673708335427382,
+                  "scale": 0.08457840540516272,
                   "close": true
                 }
               }
@@ -296,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240520 - 163951 - Linear congruence equations.md"
+                "file": "02 - Atomic/Modular arithmetic.md"
               }
             }
           }
@@ -323,10 +322,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0a32630dce47db58",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
-    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
+    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/Modular arithmetic.md",
     "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
     "02 - Atomic/20240429 - 121006 - Congruent relation.md",

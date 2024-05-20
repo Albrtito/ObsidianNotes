@@ -71,3 +71,5 @@ and
 $a\equiv b mod m$
 
 # Linear congruence equations: 
+![[20240520 - 163951 - Linear congruence equations|Linear congruence equations]]
+# Arithmetic with $\mathbb{Z}_m$
