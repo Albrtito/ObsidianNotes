@@ -97,7 +97,11 @@ Satisfying the following properties:
 + **Inverse element (sum)**
 
 **Remark:**
-These properties are the same ones as those characterizing a field. However there is **no multiplicative inverse**
++ These properties are the same ones as those characterizing a field. However there is **no multiplicative inverse**
+
+
+### Multiplicative inverse of x: 
+
 
 
 

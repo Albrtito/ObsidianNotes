@@ -6,7 +6,7 @@
       {
         "id": "15f0390215d3b1fb",
         "type": "tabs",
-        "dimension": 45.538818076477405,
+        "dimension": 50,
         "children": [
           {
             "id": "d60ade257997ab51",
@@ -32,12 +32,12 @@
         "currentTab": 1
       },
       {
-        "id": "9af070794635d90b",
+        "id": "c740df69a4a3072a",
         "type": "tabs",
-        "dimension": 54.461181923522595,
+        "dimension": 50,
         "children": [
           {
-            "id": "aa6f0fd2c1599c60",
+            "id": "5943ce53ff0dd574",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,38 +50,12 @@
             }
           },
           {
-            "id": "cff4d2fd9ef81b0b",
+            "id": "206106b24baa15fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240429 - 121006 - Congruent relation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42e1c704e2c3efce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a32630dce47db58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
+                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +63,7 @@
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/Modular arithmetic.md",
+                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/Modular arithmetic.md",
+                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/Modular arithmetic.md",
+                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -295,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/Modular arithmetic.md"
+                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md"
               }
             }
           }
@@ -322,13 +296,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "206106b24baa15fb",
   "lastOpenFiles": [
-    "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
-    "00.References/Discrete_Theory_All.pdf",
+    "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
     "02 - Atomic/Modular arithmetic.md",
-    "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
+    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240429 - 121006 - Congruent relation.md",
+    "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
+    "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
     "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "02 - Atomic/20240520 - 131833 - Least common multiple.md",
     "01.Areas/1.UC3M/Discrete Math.md",

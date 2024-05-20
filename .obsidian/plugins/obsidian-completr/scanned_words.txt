@@ -6271,6 +6271,7 @@ cbx
 cjjQ
 cccI
 cuB
+characterizing
 lifeOS
 liking
 las
@@ -18260,6 +18261,7 @@ iFX
 iIHk
 imk
 itN
+inversee
 Enough
 Esta
 Est
@@ -27817,6 +27819,7 @@ MrI
 Mel
 MLLd
 MPq
+Multiplicative
 reflections
 reels
 routine
@@ -54870,6 +54873,7 @@ Akn
 AqO
 AfECD
 ARcEj
+Associativity
 all
 at
 aliases
@@ -66564,6 +66568,7 @@ DxmK
 DPo
 Dfj
 Dpb
+Distributivity
 HH
 Highlight
 Hay
@@ -72213,6 +72218,8 @@ CGY
 CKWPv
 CxF
 ChK
+Closure
+Commutativity
 your
 ya
 yo
@@ -75981,6 +75988,7 @@ SGzI
 SBl
 SqM
 SSc
+Satisfying
 La
 Las
 Lanz
@@ -98324,6 +98332,7 @@ xEw
 xOwyw
 xFt
 xho
+xists
 XObject
 XR
 Xy
