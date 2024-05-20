@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c740df69a4a3072a",
@@ -54,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240429 - 121006 - Congruent relation.md",
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240429 - 121006 - Congruent relation.md",
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240429 - 121006 - Congruent relation.md",
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240429 - 121006 - Congruent relation.md",
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240429 - 121006 - Congruent relation.md"
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md"
               }
             }
           }
@@ -322,16 +323,20 @@
   },
   "active": "5943ce53ff0dd574",
   "lastOpenFiles": [
-    "02 - Atomic/20240429 - 111944 - Theorem - Euclid's proof of infinite prime numbers.md",
-    "00.References/Discrete_Theory_All.pdf",
-    "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
+    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
+    "02 - Atomic/20240515 - 031853 - Definition - Complementary graph.md",
     "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
+    "00.References/Discrete_Theory_All.pdf",
+    "02 - Atomic/20240515 - 030836 - Algorithm- Kruskal's algorithm.md",
+    "02 - Atomic/20240515 - 030554 - Algorithm - Prim's Algorithm.md",
+    "02 - Atomic/20240429 - 121006 - Congruent relation.md",
+    "02 - Atomic/20240429 - 111944 - Theorem - Euclid's proof of infinite prime numbers.md",
+    "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
     "02 - Atomic/20240501 - 140129 - Double factorial.md",
     "02 - Atomic/Modular arithmetic.md",
     "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
     "02 - Atomic/20240429 - 111500 - Prime numbers.md",
     "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
-    "02 - Atomic/20240429 - 121006 - Congruent relation.md",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
     "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "02 - Atomic/20240520 - 131833 - Least common multiple.md",
@@ -344,10 +349,6 @@
     "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
     "02 - Atomic/20240515 - 033903 - Hamiltonian graphs.md",
     "02 - Atomic/20240515 - 014532 - Distributions.md",
-    "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
-    "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
-    "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
-    "02 - Atomic/The principle of induction.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
     "99 - Meta/0. Attachments/Pasted image 20240409141643.png",

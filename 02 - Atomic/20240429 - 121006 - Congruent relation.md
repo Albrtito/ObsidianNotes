@@ -4,9 +4,8 @@ aliases:
 tags:
   - review
   - Discrete
-  - incomplete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-13
 sr-interval: 32
 sr-ease: 268
@@ -91,5 +90,6 @@ $$
 ## Clock: 
 With clocks the congruent relation is defined over mod m when m = 12 as there are 12 possible hours in a clock. 
 Based on this modulus, we can obtain that any hour has a remainder mod 12. If the remainder is equal to 0 then the hour is either 12 or 24. 
-We do not actually care about numbers bigger than 12, that is why we 
+We do not actually care about numbers bigger than 12, that is why we use the congruent relation. 
+
 
