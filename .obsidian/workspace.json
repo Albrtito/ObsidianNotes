@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240429 - 111944 - Theorem - Euclid's proof of infinite prime numbers.md",
+                "file": "02 - Atomic/20240429 - 121006 - Congruent relation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Discrete_Theory_All.pdf",
+                "file": "02 - Atomic/20240429 - 121006 - Congruent relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Discrete_Theory_All.pdf",
+                "file": "02 - Atomic/20240429 - 121006 - Congruent relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Discrete_Theory_All.pdf",
+                "file": "02 - Atomic/20240429 - 121006 - Congruent relation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Discrete_Theory_All.pdf"
+                "file": "02 - Atomic/20240429 - 121006 - Congruent relation.md"
               }
             }
           }
@@ -320,11 +320,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d60ade257997ab51",
+  "active": "5943ce53ff0dd574",
   "lastOpenFiles": [
     "02 - Atomic/20240429 - 111944 - Theorem - Euclid's proof of infinite prime numbers.md",
-    "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
     "00.References/Discrete_Theory_All.pdf",
+    "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
     "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
     "02 - Atomic/20240501 - 140129 - Double factorial.md",
     "02 - Atomic/Modular arithmetic.md",
@@ -348,7 +348,6 @@
     "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
     "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
     "02 - Atomic/The principle of induction.md",
-    "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
     "99 - Meta/0. Attachments/Pasted image 20240409141643.png",
