@@ -23,7 +23,9 @@ The relation can be defined as a function f, then:
 $$
 f(a,b) = a + b = c+ d = f(c,d)
 $$
-## 11.6: 
+If a function f exists then it is an equivalence relation.
+
+## 11.6: (not-done)
 We define the relation R on R2 = R × (R \\ {0}) such that
 $$
 (a, b) \mathcal{R}(c, d) \quad \Leftrightarrow \quad a d=b c 

@@ -5,8 +5,7 @@ tags:
   - review
   - Discrete
 "References:": 
-cssclasses:
-  - page-theorem
+cssclasses: []
 sr-due: 2024-05-20
 sr-interval: 1
 sr-ease: 230

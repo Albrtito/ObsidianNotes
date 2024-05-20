@@ -15,7 +15,7 @@ sr-ease: 270
 1. [[20240205 - 000000 - Elementary Combinatorics|Elementary Combinatorics]] 
 2. [[20240515 - 020755 - Graph theory|Graph theory]]
 3. [Advance methods in combinatorics](../../02%20-%20Atomic/Advance%20methods%20in%20combinatorics.md) 
-4. [20240519 - 212331 - Integer arithmetic](20240519%20-%20212331%20-%20Integer%20arithmetic.md)
+4. [[20240519 - 212331 - Integer arithmetic|Integer arithmetic]]
 5. [Modular arithmetic](../../02%20-%20Atomic/Modular%20arithmetic.md)
 6. [[Binary Relations]]
 
