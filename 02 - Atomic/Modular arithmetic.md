@@ -71,15 +71,3 @@ and
 $a\equiv b mod m$
 
 # Linear congruence equations: 
-Linear congruence equations are a way of proposing the [Linear Diophantine equations](20240429%20-%20113931%20-%20Linear%20Diophantine%20equations.md). For this type of equations we ask whether there is a number x such as if multiplied by a the following relation would comply.  
-$$
-a \cdot x \equiv b \mod m 
-$$
-This can be rewritten as the Diophantine equation:
-$$
-b = a\cdot x + m y
-$$
-Where for a solution to be found the gcd of a and b (denoted as d) must divide b. 
-$$
-gcd(a,m)| b
-$$
