@@ -47,7 +47,7 @@ Euclid’s lemma is used in Euclid’s algorithm to obtain the gcd(a,b) when a a
 ## Bézout’s identity
 ![[20240429 - 114501 - Theorem -Bézout's Identity|Bézout's Identity]]
 ## Least common multiple
-
+![[20240520 - 131833 - Least common multiple|Least common multiple]]
 ## Prime numbers: 
 ![Prime numbers](20240429%20-%20111500%20-%20Prime%20numbers.md)
 

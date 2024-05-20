@@ -4,11 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "985110fc2c8d875a",
+        "id": "15f0390215d3b1fb",
         "type": "tabs",
+        "dimension": 46.72571970895286,
         "children": [
           {
-            "id": "2376f8057f1a3a80",
+            "id": "d60ade257997ab51",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Discrete_Theory_All.pdf"
+              }
+            }
+          },
+          {
+            "id": "8b46b5ded68afc01",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -17,19 +28,21 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "050148f6e21413ba",
+        "id": "9af070794635d90b",
         "type": "tabs",
+        "dimension": 53.274280291047134,
         "children": [
           {
-            "id": "5824e14fc33d945b",
+            "id": "aa6f0fd2c1599c60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240515 - 012315 - Subsets.md",
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -37,32 +50,21 @@
             }
           },
           {
-            "id": "2e231476b90ba79c",
+            "id": "42e1c704e2c3efce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e668485f1a05a794",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
+                "file": "02 - Atomic/20240520 - 131833 - Least common multiple.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -74,7 +76,6 @@
       {
         "id": "499a66215ecf4828",
         "type": "tabs",
-        "dimension": 78.96368467670504,
         "children": [
           {
             "id": "b89f836cb1d8a8cd",
@@ -112,12 +113,11 @@
         ]
       },
       {
-        "id": "fbd39a1a95a13d62",
+        "id": "74476affe76ac5b2",
         "type": "tabs",
-        "dimension": 21.03631532329495,
         "children": [
           {
-            "id": "e3a8260602c87d64",
+            "id": "0b81a69190cd8ecc",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -128,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.0041847229004,
+    "width": 357.00418853759766,
     "collapsed": true
   },
   "right": {
@@ -140,7 +140,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89073f15576efae5",
+            "id": "0db8d60790ace0e7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240515 - 012315 - Subsets.md",
+                "file": "02 - Atomic/20240520 - 131833 - Least common multiple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240515 - 012315 - Subsets.md",
+                "file": "02 - Atomic/20240520 - 131833 - Least common multiple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,8 +195,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "f97aefa6b972e655",
@@ -208,30 +207,30 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240515 - 012315 - Subsets.md",
+                "file": "02 - Atomic/20240520 - 131833 - Least common multiple.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 13.341859845457,
-                  "linkStrength": 0.76664002131628,
-                  "linkDistance": 211,
-                  "scale": 0.172322186994081,
+                  "centerStrength": 0,
+                  "repelStrength": 17.3531310522918,
+                  "linkStrength": 0.595351839896708,
+                  "linkDistance": 374,
+                  "scale": 0.06542368901953775,
                   "close": true
                 }
               }
@@ -249,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240515 - 012315 - Subsets.md"
+                "file": "02 - Atomic/20240520 - 131833 - Least common multiple.md"
               }
             }
           }
@@ -257,7 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 718
+    "width": 489
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,15 +275,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5824e14fc33d945b",
+  "active": "42e1c704e2c3efce",
   "lastOpenFiles": [
+    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
+    "02 - Atomic/20240520 - 131833 - Least common multiple.md",
+    "00.References/Discrete_Theory_All.pdf",
+    "01.Areas/1.UC3M/Discrete Math.md",
+    "02 - Atomic/20240515 - 012315 - Subsets.md",
     "02 - Atomic/20240515 - 010716 - Counting methods.md",
     "02 - Atomic/20240509 - 191823 - Simulation - Thread Pool Server.md",
     "02 - Atomic/20240409 - 121336 -Proof Theory in Predicate Calculus.md",
     "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
     "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
     "02 - Atomic/20240515 - 033903 - Hamiltonian graphs.md",
-    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240515 - 014532 - Distributions.md",
     "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
     "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
@@ -300,11 +303,6 @@
     "02 - Atomic/20240515 - 010006 - Principle - Sum principle.md",
     "02 - Atomic/20240519 - 214201 - Algorithm - The division algorithm.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
-    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
-    "02 - Atomic/20240515 - 032046 - Planar graph.md",
-    "02 - Atomic/20240515 - 012600 - Definition - Binomial coefficients.md",
-    "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
-    "02 - Atomic/20240515 - 013337 - Definition - Power set.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
     "99 - Meta/0. Attachments/Pasted image 20240409141643.png",
