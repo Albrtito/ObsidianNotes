@@ -19,4 +19,14 @@ cssclasses:
 > 
 
 **Remarks:**
-+ In modular arithmetics, there **does not exist in general** the multiplicative inverse of an integer x. 
++ In modular arithmetics, there **does not exist in general** the multiplicative inverse of an integer x.
++ However two properties hold, **although not in general in $Z_m$.** 
+	1. **Cancellation law:** 
+		**IF:**$x \not = 0$ and $x\cdot y = c \cdot z$ **THEN:** y = z
+		
+	2. **IF:** $x\cdot y = 0$ **THEN:** x = 0 | y = 0
+
+## Unit modulo:
+
+> [!NOTE] Definition: Unit modulo
+> Contents

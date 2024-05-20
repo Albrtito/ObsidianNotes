@@ -6,7 +6,7 @@
       {
         "id": "15f0390215d3b1fb",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 61.78010471204188,
         "children": [
           {
             "id": "d60ade257997ab51",
@@ -34,7 +34,7 @@
       {
         "id": "c740df69a4a3072a",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 38.21989528795812,
         "children": [
           {
             "id": "5943ce53ff0dd574",
@@ -298,9 +298,9 @@
   },
   "active": "206106b24baa15fb",
   "lastOpenFiles": [
+    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
     "02 - Atomic/Modular arithmetic.md",
-    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240429 - 121006 - Congruent relation.md",
     "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
@@ -324,7 +324,6 @@
     "02 - Atomic/20240519 - 165004 - Order Relation.md",
     "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
     "02 - Atomic/20240515 - 020755 - Graph theory.md",
-    "02 - Atomic/20240423 - 100403 - Proper colorings.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
     "99 - Meta/0. Attachments/Pasted image 20240409141643.png",
