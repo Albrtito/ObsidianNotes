@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#incomplete  ",
@@ -20,20 +20,6 @@
         "a": 1,
         "rgb": 13961968
       }
-    },
-    {
-      "query": "tag: #Discrete  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "tag:#review  ",
-      "color": {
-        "a": 1,
-        "rgb": 2974689
-      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +32,6 @@
   "repelStrength": 16.7462879276953,
   "linkStrength": 0.82479018721756,
   "linkDistance": 210,
-  "scale": 0.050653990120255225,
-  "close": true
+  "scale": 0.058377514716536356,
+  "close": false
 }

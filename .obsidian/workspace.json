@@ -231,7 +231,29 @@
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Discrete  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6149724
+                      }
+                    },
+                    {
+                      "query": "tag: #Calc  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13962224
+                      }
+                    },
+                    {
+                      "query": "tag:#incomplete  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13310490
+                      }
+                    }
+                  ],
                   "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -242,7 +264,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.21346886179056926,
+                  "scale": 0.1673708335427382,
                   "close": true
                 }
               }
@@ -287,10 +309,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aa6f0fd2c1599c60",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
-    "02 - Atomic/20240429 - 121006 - Congruent relation.md",
     "02 - Atomic/Modular arithmetic.md",
+    "02 - Atomic/20240429 - 121006 - Congruent relation.md",
     "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
     "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "02 - Atomic/20240520 - 131833 - Least common multiple.md",
