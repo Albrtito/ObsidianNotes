@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "tag:#Calc  ",
+      "query": "tag:#review  ",
       "color": {
         "a": 1,
-        "rgb": 13961968
+        "rgb": 610218
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 16.7462879276953,
   "linkStrength": 0.82479018721756,
   "linkDistance": 210,
-  "scale": 0.058377514716536356,
+  "scale": 0.026311922673722354,
   "close": true
 }

@@ -39,7 +39,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c740df69a4a3072a",
@@ -181,7 +181,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +197,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,8 +221,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "f97aefa6b972e655",
@@ -236,7 +233,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,9 +294,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -327,14 +321,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8b46b5ded68afc01",
+  "active": "0db8d60790ace0e7",
   "lastOpenFiles": [
-    "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
-    "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
+    "00.References/Discrete_Theory_All.pdf",
+    "00.References/Discreta_Exercises_All_Solved.pdf",
+    "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
     "02 - Atomic/20240520 - 131833 - Least common multiple.md",
-    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240519 - 214806 - Definition - Greatest common divisor.md",
     "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
     "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
