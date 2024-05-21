@@ -57,7 +57,7 @@ gcd(a,b) = 2
 Positive divisors of the number ….
 
 
-## 12.7
+## 12.7 Diophantine equations
 Integer solutions of Diophantine equations: 
 
 1. 28 x + 36y = 44
@@ -93,26 +93,57 @@ Integer solutions of Diophantine equations:
 	$$
 	y_k = -3(11) + \frac{28k}{4} = -33 + 7k
 	$$
-2. 66x + 550y = 88
 
-**Check possible solution:**
-+ Get gcd(66,550)
-$$
-\begin{gather}
-550 = 66 \cdot 8 + 22\\
-66 = 22 \cdot 3 + 0
-\end{gather}
-$$
-	gcd(66,550) = 22
+2. 66x + 550y = 88
 	
-+ Check that gcd(a,b) | 88 => True, as 22 | 88
-+ Obtain a solution for x and y such as: 
+	**Check possible solution:**
+	+ Get gcd(66,550)
+	$$
+	\begin{gather}
+	550 = 66 \cdot 8 + 22\\
+	66 = 22 \cdot 3 + 0
+	\end{gather}
+	$$
+		gcd(66,550) = 22
+		
+	+ Check that gcd(a,b) | 88 => True, as 22 | 88
+	+ Obtain a solution for x and y such as: 
+	$$
+	x\cdot a + y \cdot b = 22
+	$$
+	**Unroll Euclid’s (used for gcd)**
+	$$
+	\begin{gather}
+	22 = -8 \cdot 66 + 1\cdot 550
+	\end{gather}
+	$$
+	**Where:** x = -8 and y = 1
+	
+	**Then:** All solutions are given as: 
+	$$
+	\begin{gather}
+	x_k = -8 (4) + \frac{550k}{22} \\\\
+	y_k = 1(4) - \frac{66k}{22} 
+	\end{gather}
+	$$
+	
+	$$
+	\forall k \in Z
+	$$
+	
+## 12.8: Congruence equations.
+
+1. 3x ≡ 5 (mod 13). 
+
+The congruence equation can be seen as: 
 $$
-x\cdot a + y \cdot b = 22
+5 = 3x + 13y \Rightarrow 3x + 13y = 5
 $$
-**Unroll Euclid’s (used for gcd)**
-$$
-\begin{gather}
-22 = -8 \cdot 66 + 1\cdot 550
-\end{gather}
-$$
+
+
+
+
+
+1. 8x ≡ 2 (mod 10). 
+2. 5x ≡ 7 (mod 15). 
+3. 3x ≡ 9 (mod 15).

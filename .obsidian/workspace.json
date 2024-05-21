@@ -84,14 +84,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240520 - 131833 - Least common multiple.md",
+                "file": "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,11 +329,12 @@
   },
   "active": "5943ce53ff0dd574",
   "lastOpenFiles": [
-    "00.References/Discreta_Exercises_All_Solved.pdf",
-    "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
-    "00.References/Discrete_Theory_All.pdf",
-    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
+    "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
     "02 - Atomic/20240520 - 131833 - Least common multiple.md",
+    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
+    "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
+    "00.References/Discreta_Exercises_All_Solved.pdf",
+    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240519 - 214806 - Definition - Greatest common divisor.md",
     "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
     "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
@@ -349,7 +351,6 @@
     "02 - Atomic/20240501 - 140129 - Double factorial.md",
     "02 - Atomic/Modular arithmetic.md",
     "02 - Atomic/20240429 - 111500 - Prime numbers.md",
-    "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/20240515 - 012315 - Subsets.md",
     "02 - Atomic/20240515 - 010716 - Counting methods.md",
