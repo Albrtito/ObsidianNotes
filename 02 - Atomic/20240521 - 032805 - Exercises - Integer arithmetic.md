@@ -38,5 +38,17 @@ Then x = -10 and y = 11
 ## 12.2
 The product of two natural numbers is 1260, and their lcm is 630. Find those numbers.
 $$
-a \cdot b = 
+a \cdot b = 1260
 $$
+$$
+lcm(a,b) = 630
+$$
+We know that: 
+$$
+a \cdot b = gcd(a,b) \cdot lcm(a,b)
+$$
+Then: 
+$$
+1260 = 630 \cdot gcd(a,b)
+$$
+gcd(a,b) = 2

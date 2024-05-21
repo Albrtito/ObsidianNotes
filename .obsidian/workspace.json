@@ -28,7 +28,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c740df69a4a3072a",
@@ -62,6 +63,19 @@
               "type": "markdown",
               "state": {
                 "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d44513de96663617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240520 - 131833 - Least common multiple.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -157,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md"
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
               }
             }
           }
@@ -303,15 +317,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5943ce53ff0dd574",
+  "active": "8b46b5ded68afc01",
   "lastOpenFiles": [
+    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
+    "02 - Atomic/20240520 - 131833 - Least common multiple.md",
+    "02 - Atomic/20240519 - 214806 - Definition - Greatest common divisor.md",
     "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
     "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
     "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
-    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
     "02 - Atomic/dark.md",
     "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
@@ -325,13 +341,11 @@
     "02 - Atomic/Modular arithmetic.md",
     "02 - Atomic/20240429 - 111500 - Prime numbers.md",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
-    "02 - Atomic/20240520 - 131833 - Least common multiple.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/20240515 - 012315 - Subsets.md",
     "02 - Atomic/20240515 - 010716 - Counting methods.md",
     "02 - Atomic/20240509 - 191823 - Simulation - Thread Pool Server.md",
     "02 - Atomic/20240409 - 121336 -Proof Theory in Predicate Calculus.md",
-    "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
     "99 - Meta/0. Attachments/Pasted image 20240409141643.png",
