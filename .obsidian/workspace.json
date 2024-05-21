@@ -6,7 +6,7 @@
       {
         "id": "15f0390215d3b1fb",
         "type": "tabs",
-        "dimension": 35.07326007326007,
+        "dimension": 42.95855278223036,
         "children": [
           {
             "id": "d60ade257997ab51",
@@ -44,7 +44,7 @@
       {
         "id": "c740df69a4a3072a",
         "type": "tabs",
-        "dimension": 32.46336996336996,
+        "dimension": 32.03572246393405,
         "children": [
           {
             "id": "5943ce53ff0dd574",
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
+                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
       {
         "id": "4600712bf3c4bb99",
         "type": "tabs",
-        "dimension": 32.46336996336996,
+        "dimension": 25.005724753835583,
         "children": [
           {
             "id": "0b98dd3681b4347f",
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md"
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
               }
             }
           }
@@ -327,10 +327,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5943ce53ff0dd574",
+  "active": "8b46b5ded68afc01",
   "lastOpenFiles": [
+    "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
-    "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
     "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
     "02 - Atomic/20240520 - 131833 - Least common multiple.md",

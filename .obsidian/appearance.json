@@ -1,9 +1,9 @@
 {
   "accentColor": "#8a5fec",
-  "cssTheme": "Things",
+  "cssTheme": "Minimal",
   "translucency": false,
   "theme": "obsidian",
-  "baseFontSize": 22,
+  "baseFontSize": 30,
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "textFontFamily": "Iosevka Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font,Iosevka Nerd Font",

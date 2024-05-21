@@ -4,7 +4,10 @@ aliases:
 tags:
   - review
   - Discrete
-"References:": 
+"References:":
+  - "[[20240519 - 212331 - Integer arithmetic|Integer arithmetic]]"
+  - "[[Modular arithmetic]]"
+  - "[[Discreta_Exercises_All_Solved.pdf]]"
 cssclasses:
   - page-manila
 ---
@@ -214,28 +217,28 @@ Integer solutions of Diophantine equations:
 	Because c = 7. Then we know that unless gcd(5,15) is 7 there will be **no solution**. The gcd(5,15) is not 7 and therefore there is **no solution**
 
 4. 3x ≡ 9 (mod 15).
-The following congruence equation can be written as: 
-$$
-3x + 15 y = 9
-$$
-This is a diophantine equation. We first check if it has a solution: 
-**Check:**
-Solution if gcd(3,15) | 9 => TRUE 3 | 9
-
-**Unroll:**
-A solution would be: 
-$$
-3 = 1\cdot 3 + 0 \cdot 15
-$$
-Then because we only care about the x: 
-$$
-x_k = 3(1) + \frac{k15}{3} = 3 + 5k/
-$$
-This solutions are equivalent to 3 mod 5. If we go back towards mod 15 we’ll get: 
-$$
-\begin{gather}
-x \equiv 3 \mod 15\\
-x \equiv 8 \mod 15\\
-x \equiv 13 \mod 15\\
-\end{gather}
-$$
+	The following congruence equation can be written as: 
+	$$
+	3x + 15 y = 9
+	$$
+	This is a diophantine equation. We first check if it has a solution: 
+	**Check:**
+	Solution if gcd(3,15) | 9 => TRUE 3 | 9
+	
+	**Unroll:**
+	A solution would be: 
+	$$
+	3 = 1\cdot 3 + 0 \cdot 15
+	$$
+	Then because we only care about the x: 
+	$$
+	x_k = 3(1) + \frac{k15}{3} = 3 + 5k/
+	$$
+	This solutions are equivalent to 3 mod 5. If we go back towards mod 15 we’ll get: 
+	$$
+	\begin{gather}
+	x \equiv 3 \mod 15\\
+	x \equiv 8 \mod 15\\
+	x \equiv 13 \mod 15\\
+	\end{gather}
+	$$
