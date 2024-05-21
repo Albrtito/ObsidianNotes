@@ -181,6 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,6 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +297,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md"
+              }
             }
           }
         ]
@@ -321,10 +326,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0db8d60790ace0e7",
+  "active": "5943ce53ff0dd574",
   "lastOpenFiles": [
-    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "00.References/Discrete_Theory_All.pdf",
+    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
