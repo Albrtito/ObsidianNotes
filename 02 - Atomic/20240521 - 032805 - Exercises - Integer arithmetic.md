@@ -139,7 +139,34 @@ The congruence equation can be seen as:
 $$
 5 = 3x + 13y \Rightarrow 3x + 13y = 5
 $$
+**CHECKS:**
+There is a solution if and only if gcd(3,13) | 5. Here gcd(3,13): 
+$$
+\begin{gather}
+13 = 3 \cdot 4 + 1\\
+3 = 1 \cdot 3 + 0
+\end{gather}
+$$
+gcd(3,13) = 1 and 1 | 5
 
+**THEN:**
+For some x and y: 
+$$
+\begin{gather}
+1 = 13 - 4\cdot 3
+\end{gather}
+$$
+Because we are only looking for values for the x: 
+$$
+x_k = 5 \cdot (-4) \frac{13k}{1} = 5(-4) \cdot 13k = -20 \cdot 13k
+$$
+This solutions can be expressed in terms of the congruence relation mod 13 as: $-20 \mod 13$
+This expression can be simplified to: 
+$$
+-20 \mod 13 \equiv 6 \mod 13 \equiv x
+$$
+**Remark:**
+This simpli
 
 
 
