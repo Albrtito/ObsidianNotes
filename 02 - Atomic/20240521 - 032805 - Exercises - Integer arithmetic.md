@@ -52,3 +52,35 @@ $$
 1260 = 630 \cdot gcd(a,b)
 $$
 gcd(a,b) = 2
+
+## 12.3
+Positive divisors of the number ….
+
+
+## 12.7
+Integer solutions of Diophantine equations: 
+1. 28 x + 36y = 44
+
+Check possible solution: If gcd(28,36)| 44
+gcd(28,36) = 4  and 4 | 44 => There is a  possible solution. 
+
+Get x y such as: 28 x + 36 y = 4
+
+From Euclid’s theorem: 
+$$
+\begin{gather}
+36 = 28 \cdot 1 + 8\\
+28 = 8 \cdot 3 + 4\\
+8 = 4 \cdot 2 + 0
+\end{gather}
+$$
+Unrolling: 
+$$
+\begin{gather}
+4 = 28 - 8\cdot 3\\
+8 = 36 - 28\\
+\Rightarrow\\
+4 = 28 - (36-28) \cdot 3 \Rightarrow 4 = 4\cdot 28 - 3 \cdot 36
+\end{gather}
+$$
+Where x = 4 ,  y = -3

@@ -28,8 +28,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c740df69a4a3072a",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
+                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
+                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf",
+                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
+                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md"
               }
             }
           }
@@ -317,11 +316,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8b46b5ded68afc01",
+  "active": "5943ce53ff0dd574",
   "lastOpenFiles": [
-    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
+    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "02 - Atomic/20240520 - 131833 - Least common multiple.md",
     "02 - Atomic/20240519 - 214806 - Definition - Greatest common divisor.md",
     "00.References/Discrete_Theory_All.pdf",
