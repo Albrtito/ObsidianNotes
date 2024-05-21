@@ -134,43 +134,77 @@ Integer solutions of Diophantine equations:
 ## 12.8: Congruence equations.
 
 1. 3x ≡ 5 (mod 13). 
+	
+	The congruence equation can be seen as: 
+	$$
+	5 = 3x + 13y \Rightarrow 3x + 13y = 5
+	$$
+	**CHECKS:**
+	There is a solution if and only if gcd(3,13) | 5. Here gcd(3,13): 
+	$$
+	\begin{gather}
+	13 = 3 \cdot 4 + 1\\
+	3 = 1 \cdot 3 + 0
+	\end{gather}
+	$$
+	gcd(3,13) = 1 and 1 | 5
+	
+	**THEN:**
+	For some x and y: 
+	$$
+	\begin{gather}
+	1 = 13 - 4\cdot 3
+	\end{gather}
+	$$
+	Because we are only looking for values for the x: 
+	$$
+	x_k = 5 \cdot (-4) \frac{13k}{1} = 5(-4) \cdot 13k = -20 \cdot 13k
+	$$
+	This solutions can be expressed in terms of the congruence relation mod 13 as: $-20 \mod 13$
+	This expression can be simplified to: 
+	$$
+	-20 \mod 13 \equiv 6 \mod 13 \equiv x
+	$$
+	**Remark:**
+	This simplification done with division theorem: 
+	$$
+	-20 = 13 (-2) + 6
+	$$
+	
+2. 8x ≡ 2 (mod 10). 
+	
+	The congruence equation can be expressed as: 
+	$$8x + 10y = 2$$
+	**Check:**
+	This equation has solutions if gcd(8,10) | 2. 
+	gcd(8,10) = 2
+	$$
+	\begin{gather}
+	10 = 8 \cdot 1 + 2\\
+	8 = 2 \cdot 4
+	\end{gather}
+	$$
+	**Then:** 2 | 2 and there are solutions for the eq. 
+	
+	**Solve:**
+	Get x and y unrolling: x = -1 and y = 1
+	$$
+	-1\cdot 8 + 10 = 2
+	$$
+	Obtain solution for all x: 
+	$$
+	x_k = -1(1) + \frac{k10}{2} = -1 + 5k
+	$$
+	This can be expressed as $-1 \mod 5$, equivalent to $4 \mod 5$
+	
+	However as the solution must be given mod 10. Then we get: 
+	$$
+	\begin{gather}
+	4 \mod 10 \equiv x\\
+	9 \mod{10} \equiv x
+	\end{gather}
+	$$
 
-The congruence equation can be seen as: 
-$$
-5 = 3x + 13y \Rightarrow 3x + 13y = 5
-$$
-**CHECKS:**
-There is a solution if and only if gcd(3,13) | 5. Here gcd(3,13): 
-$$
-\begin{gather}
-13 = 3 \cdot 4 + 1\\
-3 = 1 \cdot 3 + 0
-\end{gather}
-$$
-gcd(3,13) = 1 and 1 | 5
-
-**THEN:**
-For some x and y: 
-$$
-\begin{gather}
-1 = 13 - 4\cdot 3
-\end{gather}
-$$
-Because we are only looking for values for the x: 
-$$
-x_k = 5 \cdot (-4) \frac{13k}{1} = 5(-4) \cdot 13k = -20 \cdot 13k
-$$
-This solutions can be expressed in terms of the congruence relation mod 13 as: $-20 \mod 13$
-This expression can be simplified to: 
-$$
--20 \mod 13 \equiv 6 \mod 13 \equiv x
-$$
-**Remark:**
-This simpli
-
-
-
-
-1. 8x ≡ 2 (mod 10). 
-2. 5x ≡ 7 (mod 15). 
-3. 3x ≡ 9 (mod 15).
+3. 5x ≡ 7 (mod 15). 
+4. 
+5. 3x ≡ 9 (mod 15).
