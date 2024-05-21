@@ -6,7 +6,7 @@
       {
         "id": "15f0390215d3b1fb",
         "type": "tabs",
-        "dimension": 35.07610853739245,
+        "dimension": 35.07610853739246,
         "children": [
           {
             "id": "d60ade257997ab51",
@@ -14,7 +14,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00.References/Discrete_Theory_All.pdf"
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
               }
             }
           },
@@ -24,30 +24,16 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00.References/Discrete_Theory_All.pdf"
-              }
-            }
-          },
-          {
-            "id": "0b98dd3681b4347f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "c740df69a4a3072a",
         "type": "tabs",
-        "dimension": 64.92389146260754,
+        "dimension": 32.46194573130378,
         "children": [
           {
             "id": "5943ce53ff0dd574",
@@ -55,33 +41,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
+                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4600712bf3c4bb99",
+        "type": "tabs",
+        "dimension": 32.46194573130378,
+        "children": [
           {
-            "id": "206106b24baa15fb",
+            "id": "0b98dd3681b4347f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42200e20d5c90ac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
+                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -177,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
+                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
+                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
+                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -295,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md"
+                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md"
               }
             }
           }
@@ -303,7 +283,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 604.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,13 +303,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0b98dd3681b4347f",
+  "active": "5943ce53ff0dd574",
   "lastOpenFiles": [
+    "00.References/Discreta_Exercises_All_Solved.pdf",
+    "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
+    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
+    "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
+    "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
+    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
+    "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
+    "02 - Atomic/dark.md",
     "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
     "02 - Atomic/20240515 - 031853 - Definition - Complementary graph.md",
-    "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
-    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240515 - 030836 - Algorithm- Kruskal's algorithm.md",
     "02 - Atomic/20240515 - 030554 - Algorithm - Prim's Algorithm.md",
     "02 - Atomic/20240429 - 121006 - Congruent relation.md",
@@ -337,11 +323,8 @@
     "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
     "02 - Atomic/20240501 - 140129 - Double factorial.md",
     "02 - Atomic/Modular arithmetic.md",
-    "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
     "02 - Atomic/20240429 - 111500 - Prime numbers.md",
-    "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
-    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "02 - Atomic/20240520 - 131833 - Least common multiple.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "02 - Atomic/20240515 - 012315 - Subsets.md",
@@ -349,9 +332,6 @@
     "02 - Atomic/20240509 - 191823 - Simulation - Thread Pool Server.md",
     "02 - Atomic/20240409 - 121336 -Proof Theory in Predicate Calculus.md",
     "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
-    "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
-    "02 - Atomic/20240515 - 033903 - Hamiltonian graphs.md",
-    "02 - Atomic/20240515 - 014532 - Distributions.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
     "99 - Meta/0. Attachments/Pasted image 20240409141643.png",
@@ -363,7 +343,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 14.17.06.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-11 at 16.09.33.png",
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
-    "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/OS_Biblio_J.Carretero.pdf",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",

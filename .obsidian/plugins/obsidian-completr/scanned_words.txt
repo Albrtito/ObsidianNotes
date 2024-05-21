@@ -8238,6 +8238,7 @@ lNS
 lUF
 lcO
 law
+lists
 First
 Fechas
 Familias
@@ -25871,6 +25872,7 @@ TZIl
 TyNN
 TVq
 TPw
+THEORY
 Movement
 MM
 MMMM
@@ -33553,6 +33555,8 @@ BDF
 Bkg
 BUW
 BSh
+Bool
+BECAUSE
 we
 would
 what
@@ -39420,6 +39424,7 @@ IXX
 ICX
 Invertible
 Invertibility
+INCOMPLETE
 Keep
 Key
 Kinds
@@ -44937,6 +44942,7 @@ PDg
 PMQ
 PNP
 PNt
+Previous
 something
 start
 st
@@ -53003,6 +53009,7 @@ UQL
 UNDo
 UGS
 ULZb
+UNDERSTAND
 Achieved
 Antes
 Ah
@@ -54881,6 +54888,7 @@ AqO
 AfECD
 ARcEj
 Associativity
+ABOUT
 all
 at
 aliases
@@ -75999,6 +76007,7 @@ SBl
 SqM
 SSc
 Satisfying
+SHIT
 La
 Las
 Lanz
@@ -81486,6 +81495,7 @@ vbI
 vaH
 vMn
 vmH
+visited
 que
 quieren
 quedo
