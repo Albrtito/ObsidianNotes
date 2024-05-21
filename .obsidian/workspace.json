@@ -27,6 +27,16 @@
                 "file": "00.References/Discreta_Exercises_All_Solved.pdf"
               }
             }
+          },
+          {
+            "id": "bb715ac3c1f42edd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Discrete_Theory_All.pdf"
+              }
+            }
           }
         ]
       },
@@ -320,10 +330,10 @@
   "lastOpenFiles": [
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240521 - 032805 - Exercises - Integer arithmetic.md",
+    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "02 - Atomic/20240520 - 131833 - Least common multiple.md",
     "02 - Atomic/20240519 - 214806 - Definition - Greatest common divisor.md",
-    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
     "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
     "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",

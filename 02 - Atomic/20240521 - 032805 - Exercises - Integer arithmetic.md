@@ -59,28 +59,60 @@ Positive divisors of the number ….
 
 ## 12.7
 Integer solutions of Diophantine equations: 
+
 1. 28 x + 36y = 44
+	
+	**Check possible solution**: If gcd(28,36)| 44
+	gcd(28,36) = 4  and 4 | 44 => There is a  possible solution. 
+	
+	Get x y such as: 28 x + 36 y = 4
+	
+	**From Euclid’s theorem:** 
+	$$
+	\begin{gather}
+	36 = 28 \cdot 1 + 8\\
+	28 = 8 \cdot 3 + 4\\
+	8 = 4 \cdot 2 + 0
+	\end{gather}
+	$$
+	**Unrolling**: 
+	$$
+	\begin{gather}
+	4 = 28 - 8\cdot 3\\
+	8 = 36 - 28\\
+	\Rightarrow\\
+	4 = 28 - (36-28) \cdot 3 \Rightarrow 4 = 4\cdot 28 - 3 \cdot 36
+	\end{gather}
+	$$
+	**Where** x = 4 ,  y = -3
+	
+	**Then**: 
+	$$
+	x_k = 4(11) + \frac{36k}{4} = 44 + 9k
+	$$
+	$$
+	y_k = -3(11) + \frac{28k}{4} = -33 + 7k
+	$$
+2. 66x + 550y = 88
 
-Check possible solution: If gcd(28,36)| 44
-gcd(28,36) = 4  and 4 | 44 => There is a  possible solution. 
-
-Get x y such as: 28 x + 36 y = 4
-
-From Euclid’s theorem: 
+**Check possible solution:**
++ Get gcd(66,550)
 $$
 \begin{gather}
-36 = 28 \cdot 1 + 8\\
-28 = 8 \cdot 3 + 4\\
-8 = 4 \cdot 2 + 0
+550 = 66 \cdot 8 + 22\\
+66 = 22 \cdot 3 + 0
 \end{gather}
 $$
-Unrolling: 
+	gcd(66,550) = 22
+	
++ Check that gcd(a,b) | 88 => True, as 22 | 88
++ Obtain a solution for x and y such as: 
+$$
+x\cdot a + y \cdot b = 22
+$$
+**Unroll Euclid’s (used for gcd)**
 $$
 \begin{gather}
-4 = 28 - 8\cdot 3\\
-8 = 36 - 28\\
-\Rightarrow\\
-4 = 28 - (36-28) \cdot 3 \Rightarrow 4 = 4\cdot 28 - 3 \cdot 36
+22 = -8 \cdot 66 + 1\cdot 550
 \end{gather}
 $$
-Where x = 4 ,  y = -3
