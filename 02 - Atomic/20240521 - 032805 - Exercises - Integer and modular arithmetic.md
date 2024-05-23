@@ -2,7 +2,6 @@
 aliases:
   - Exercises - Integer arithmetic
 tags:
-  - review
   - Discrete
 "References:":
   - "[[20240519 - 212331 - Integer arithmetic|Integer arithmetic]]"

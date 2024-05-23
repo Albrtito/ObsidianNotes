@@ -2,10 +2,9 @@
 aliases:
   - Euclid's theorem in integer arithmetic
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses: []
+cssclasses: 
 sr-due: 2024-05-23
 sr-interval: 3
 sr-ease: 250

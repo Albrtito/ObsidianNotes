@@ -1,10 +1,9 @@
 ---
 aliases: 
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-28
 sr-interval: 35
 sr-ease: 252

@@ -1,9 +1,8 @@
 ---
 Date: 2024-03-18
 tags:
-  - review
   - Discrete
-"References:":
+"References:": 
 sr-due: 2024-06-05
 sr-interval: 43
 sr-ease: 208

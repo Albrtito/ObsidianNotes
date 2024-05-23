@@ -2,7 +2,6 @@
 aliases: 
 tags:
   - Discrete
-  - review
 "References:":
   - "[[20240510 - 101543 - Exercises - Modular arithmetic|Exercises - Modular arithmetic]]"
 cssclasses:

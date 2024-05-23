@@ -4,10 +4,9 @@ aliases:
   - Relatively prime numbers
   - Pairwise relatively prime
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-22
 sr-interval: 3
 sr-ease: 250

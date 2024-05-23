@@ -3,10 +3,9 @@ aliases:
   - Algorithm - Euclid's algorithm
   - Euclid's algorithm
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-21
 sr-interval: 1
 sr-ease: 186

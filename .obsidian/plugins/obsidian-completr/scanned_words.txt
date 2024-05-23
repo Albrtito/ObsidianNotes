@@ -2026,6 +2026,7 @@ tKR
 toY
 tyä
 totient
+technical
 dailyNote
 day
 during
@@ -14161,7 +14162,6 @@ utilizar
 use
 used
 using
-understand
 uses
 usually
 ur
@@ -37495,6 +37495,7 @@ eMcSV
 eas
 establishes
 expansion
+expresses
 Instagram
 IRIS
 Intendencia
@@ -43045,6 +43046,7 @@ nDm
 nSe
 nGHg
 numeric
+noted
 Post
 Papeleos
 Para
@@ -47129,6 +47131,8 @@ suffers
 semantics
 storages
 structured
+substituting
+summarises
 No
 NOTE
 Normalmente

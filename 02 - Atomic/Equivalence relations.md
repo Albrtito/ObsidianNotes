@@ -2,7 +2,6 @@
 aliases:
   - E.R
 tags:
-  - review
   - Discrete
 "References:":
   - "[[20240510 - 090701 - Exercises - Equivalence relations]]"

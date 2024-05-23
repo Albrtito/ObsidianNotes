@@ -4,7 +4,6 @@ aliases:
   - Complementary graph
 tags:
   - Discrete
-  - review
 "References:": 
 cssclasses: 
 sr-due: 2024-05-20

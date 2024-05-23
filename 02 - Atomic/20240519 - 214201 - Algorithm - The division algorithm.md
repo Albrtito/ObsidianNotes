@@ -3,10 +3,9 @@ aliases:
   - Algorithm - The division algorithm
   - The division algorithm
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-22
 sr-interval: 2
 sr-ease: 228

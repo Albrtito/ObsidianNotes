@@ -3,7 +3,6 @@ aliases:
   - Modular arithmetics - Multiplicative inverse of x
   - Definition - Modular arithmetics - Multiplicative inverse of x
 tags:
-  - review
   - Discrete
 "References:": 
 cssclasses:

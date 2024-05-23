@@ -3,7 +3,6 @@ aliases:
   - Algorithm - Topological sort
   - Topological sort
 tags:
-  - review
   - Discrete
 "References:": 
 cssclasses: 

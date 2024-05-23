@@ -2,7 +2,6 @@
 aliases:
   - Least common multiple
 tags:
-  - review
   - Discrete
 "References:": 
 cssclasses:
