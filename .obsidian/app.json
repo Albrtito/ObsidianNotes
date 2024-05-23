@@ -13,7 +13,7 @@
   },
   "vimMode": true,
   "showLineNumber": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "propertiesInDocument": "visible",
   "spellcheck": true,
   "newLinkFormat": "shortest"
