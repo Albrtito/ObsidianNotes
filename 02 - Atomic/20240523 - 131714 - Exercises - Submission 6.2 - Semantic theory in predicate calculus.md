@@ -52,4 +52,5 @@ $(P(y)\lor Q(y))$ is False while $\exists x (P(x) \land Q(x))$ is true meaning:
 + Q(y) is false
 
 If we look in a domain D= {a} with free variable y = a we need for Q(y) to equal 0 while Q(a) equals 1. This is impossible. 
-However in a domain of two elements we can surely do this. 
+However in a domain of two elements we can surely find a counterexample: 
+
