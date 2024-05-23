@@ -3,10 +3,9 @@ aliases:
   - Binary relation on one set
   - Binary relation R on V
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-22
 sr-interval: 29
 sr-ease: 290

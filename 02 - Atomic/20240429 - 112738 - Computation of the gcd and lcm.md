@@ -2,10 +2,9 @@
 aliases:
   - Computation of the gcd and lcm
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-14
 sr-interval: 42
 sr-ease: 292

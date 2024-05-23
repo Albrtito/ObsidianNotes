@@ -61,7 +61,7 @@ However in a domain of two elements we can surely find a counterexample:
 $$
 \lnot \forall x A(x) \land \lnot (\exists x \lnot A (x))
 $$
-In order for the formula to be false we need one term to be false. To simplify the quantifiers we do the following: 
+In order for the formula to be false we need one terms to be false. To simplify the quantifiers we do the following: 
 $$
 \exists x \lnot A(x) \land (\forall x  A (x))
 $$

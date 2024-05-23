@@ -2,10 +2,9 @@
 aliases:
   - Spanning subgraph
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-27
 sr-interval: 10
 sr-ease: 250

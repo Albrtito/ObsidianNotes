@@ -2,7 +2,6 @@
 aliases:
   - Inverse of a binary relation
 tags:
-  - review
   - Discrete
 "References:": 
 cssclasses: 

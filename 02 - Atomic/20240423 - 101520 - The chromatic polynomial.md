@@ -2,10 +2,9 @@
 aliases:
   - The chromatic polynomial
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-25
 sr-interval: 30
 sr-ease: 273

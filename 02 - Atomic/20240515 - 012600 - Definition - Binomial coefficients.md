@@ -2,10 +2,9 @@
 aliases:
   - Binomial coefficients
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-30
 sr-interval: 10
 sr-ease: 250

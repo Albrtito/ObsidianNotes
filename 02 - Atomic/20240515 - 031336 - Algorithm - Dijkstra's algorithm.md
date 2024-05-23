@@ -4,7 +4,6 @@ aliases:
   - Dijkstra's algorithm
 tags:
   - Discrete
-  - review
 "References:": 
 cssclasses:
 ---

@@ -2,7 +2,6 @@
 aliases:
   - Chromatic poly of a cycle graph
 tags:
-  - review
   - Discrete
 "References:": 
 cssclasses: 

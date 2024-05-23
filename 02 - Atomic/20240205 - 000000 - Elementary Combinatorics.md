@@ -1,7 +1,6 @@
 ---
 tags:
   - Discrete
-  - review
 DateCreated: 2024-02-05
 "References:":
   - "[[Basic Set Operations]]"

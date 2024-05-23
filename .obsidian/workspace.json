@@ -55,9 +55,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36738e7493612682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Discrete tag:#review",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,21 +107,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "11873d04252143b6",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 489.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -132,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +179,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "f97aefa6b972e655",
@@ -186,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md"
+                "file": "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md"
               }
             }
           }
@@ -271,8 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 603.5,
-    "collapsed": true
+    "width": 603.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,47 +297,47 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6bee2aba278f4ed7",
+  "active": "36738e7493612682",
   "lastOpenFiles": [
+    "02 - Atomic/20240515 - 025717 - Definition- Spanning subgraph.md",
+    "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
+    "02 - Atomic/20240515 - 025614 - Minimum weight spanning tree.md",
+    "02 - Atomic/20240515 - 023539 - Definition - Bipartite graph.md",
+    "02 - Atomic/20240515 - 023210 - Theorem - The handshaking theorem.md",
+    "02 - Atomic/20240515 - 022456 - Definition - Simple graph.md",
+    "02 - Atomic/20240515 - 021923 - Definition - Pseudograph.md",
+    "02 - Atomic/20240515 - 020755 - Graph theory.md",
+    "02 - Atomic/20240515 - 014718 - Set partitions.md",
+    "02 - Atomic/20240515 - 014532 - Distributions.md",
+    "02 - Atomic/20240515 - 014153 - Principle - Pigeonhole principle.md",
+    "02 - Atomic/20240515 - 013650 - Principle - Inclusion-exclusion principle.md",
+    "02 - Atomic/20240515 - 013337 - Definition - Power set.md",
+    "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
+    "02 - Atomic/20240515 - 012600 - Definition - Binomial coefficients.md",
+    "02 - Atomic/20240515 - 012315 - Subsets.md",
+    "02 - Atomic/20240515 - 011944 - Ordered subsets.md",
+    "02 - Atomic/20240515 - 010953 - Permutations.md",
+    "02 - Atomic/20240515 - 010716 - Counting methods.md",
+    "02 - Atomic/20240515 - 010522 - Principle - Product principle.md",
+    "02 - Atomic/20240515 - 010006 - Principle - Sum principle.md",
+    "02 - Atomic/20240429 - 121006 - Congruent relation.md",
+    "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
+    "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
+    "02 - Atomic/20240429 - 112738 - Computation of the gcd and lcm.md",
+    "02 - Atomic/20240429 - 112402 - Theorem - Fundamental theorem of Arithmetic.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.49.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.37.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 14.23.57.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 14.22.58.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 14.04.05.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 13.53.07.png",
-    "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
-    "01.Areas/1.UC3M/Logic.md",
-    "02 - Atomic/20240523 - 122919 - Propositional logic.md",
-    "02 - Atomic/20240523 - 123037 - Assumptions.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
-    "02 - Atomic/20240523 - 122919 -.md",
-    "02 - Atomic/Logic_Theory_Ch 0_Intro.md",
-    "01.Areas/0.DailyNote/2024-05-23.md",
-    "02 - Atomic/20240517 - 163856 - Files.md",
-    "02 - Atomic/20240509 - 142155 -Server concurrency.md",
-    "02 - Atomic/20240411 - 132633 - Intro to processes.md",
-    "02 - Atomic/Race condition.md",
-    "02 - Atomic/Mutual exclusion.md",
-    "02 - Atomic/Critical sections.md",
-    "02 - Atomic/Concurrency.md",
-    "02 - Atomic/Algorithm - Readers-Writers problem.md",
-    "02 - Atomic/Algorithm - Problem -Producer-Consumer problem.md",
-    "02 - Atomic/20240509 - 191823 - Simulation - Thread Pool Server.md",
-    "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
-    "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
-    "02 - Atomic/20240408 - 164250 -Atomic Execution.md",
-    "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
-    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
-    "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
     "00.References/Discrete_Theory_All.pdf",
-    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
-    "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
     "99 - Meta/0. Attachments/Pasted image 20240409141643.png",
     "99 - Meta/0. Attachments/Pasted image 20240428173235.png",
-    "99 - Meta/0. Attachments/Pasted image 20240428173636.png",
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
     "00.References/OS_Biblio_J.Carretero.pdf",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",

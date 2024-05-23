@@ -2,7 +2,6 @@
 aliases:
   - Congruent relation
 tags:
-  - review
   - Discrete
 "References:": 
 cssclasses: 

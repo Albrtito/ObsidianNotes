@@ -2,10 +2,9 @@
 aliases:
   - Antisymmetry property
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-08-03
 sr-interval: 95
 sr-ease: 292

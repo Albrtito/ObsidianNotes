@@ -3,10 +3,9 @@ aliases:
   - Transitivity
   - Definition 132
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-08-15
 sr-interval: 90
 sr-ease: 288

@@ -2,10 +2,9 @@
 aliases:
   - Contration Deletion theorem
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-24
 sr-interval: 24
 sr-ease: 270

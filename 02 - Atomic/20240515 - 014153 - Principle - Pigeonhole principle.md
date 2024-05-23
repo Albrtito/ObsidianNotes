@@ -2,10 +2,9 @@
 aliases:
   - Pigeonhole principle
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-21
 sr-interval: 4
 sr-ease: 270

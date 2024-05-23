@@ -2,10 +2,9 @@
 aliases:
   - Power set
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-29
 sr-interval: 9
 sr-ease: 268

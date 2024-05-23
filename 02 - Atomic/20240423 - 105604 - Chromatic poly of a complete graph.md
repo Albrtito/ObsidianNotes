@@ -2,10 +2,9 @@
 aliases:
   - Chromatic polynomial of a complete graph
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-27
 sr-interval: 27
 sr-ease: 290

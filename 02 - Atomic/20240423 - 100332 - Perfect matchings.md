@@ -2,10 +2,9 @@
 aliases:
   - Perfect matchings
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-29
 sr-interval: 28
 sr-ease: 270

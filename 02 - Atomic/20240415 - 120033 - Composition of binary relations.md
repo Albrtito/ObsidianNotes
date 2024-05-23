@@ -2,10 +2,9 @@
 aliases:
   - Composition of binary relations
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-08-16
 sr-interval: 91
 sr-ease: 290

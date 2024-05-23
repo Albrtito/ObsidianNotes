@@ -3,10 +3,9 @@ aliases:
   - Definition 122
   - Binary Relations Definition
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-12
 sr-interval: 36
 sr-ease: 250

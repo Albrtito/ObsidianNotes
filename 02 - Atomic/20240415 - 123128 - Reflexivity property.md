@@ -3,10 +3,9 @@ aliases:
   - Reflexivity
   - Definition 128
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-11
 sr-interval: 42
 sr-ease: 248

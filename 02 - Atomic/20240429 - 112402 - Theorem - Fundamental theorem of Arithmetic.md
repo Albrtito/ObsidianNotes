@@ -2,10 +2,9 @@
 aliases:
   - Fundamental theorem of Arithmetic
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-08
 sr-interval: 31
 sr-ease: 290

@@ -2,10 +2,9 @@
 aliases:
   - Binary R. Adjacency matrix
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-24
 sr-interval: 31
 sr-ease: 290

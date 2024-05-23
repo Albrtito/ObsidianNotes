@@ -2,10 +2,9 @@
 aliases:
   - Chromatic poly of a wheel graph
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-11
 sr-interval: 23
 sr-ease: 188

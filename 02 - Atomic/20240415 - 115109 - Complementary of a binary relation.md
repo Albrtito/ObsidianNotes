@@ -3,10 +3,9 @@ aliases:
   - Complementary of a binary relation
   - Complementary relation
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-08-15
 sr-interval: 90
 sr-ease: 290

@@ -3,10 +3,9 @@ aliases:
   - Symmetry
   - Definition 130-131
 tags:
-  - review
   - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-23
 sr-interval: 30
 sr-ease: 290
