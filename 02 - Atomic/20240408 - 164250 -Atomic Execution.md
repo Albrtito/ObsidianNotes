@@ -2,10 +2,9 @@
 aliases:
   - atomic code snippet
 tags:
-  - review
   - OS
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-31
 sr-interval: 42
 sr-ease: 304

@@ -3,7 +3,6 @@ aliases:
   - Intro to processes
 tags:
   - OS
-  - incomplete
 "References:": 
 cssclasses:
   - center-images

@@ -2,10 +2,9 @@
 aliases:
   - Process Synchronisation
 tags:
-  - review
   - OS
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-09-08
 sr-interval: 114
 sr-ease: 283

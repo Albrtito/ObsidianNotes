@@ -1,7 +1,6 @@
 ---
 Date: 2024-03-18
 tags:
-  - review
   - OS
 "References:":
   - https://en.wikipedia.org/wiki/Readers%E2%80%93writers_problem

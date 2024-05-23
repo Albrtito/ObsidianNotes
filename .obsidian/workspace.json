@@ -4,92 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "15f0390215d3b1fb",
+        "id": "050148f6e21413ba",
         "type": "tabs",
-        "dimension": 42.95855278223036,
         "children": [
           {
-            "id": "d60ade257997ab51",
+            "id": "5824e14fc33d945b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
-              }
-            }
-          },
-          {
-            "id": "8b46b5ded68afc01",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Discreta_Exercises_All_Solved.pdf"
-              }
-            }
-          },
-          {
-            "id": "bb715ac3c1f42edd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Discrete_Theory_All.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "c740df69a4a3072a",
-        "type": "tabs",
-        "dimension": 32.03572246393405,
-        "children": [
-          {
-            "id": "5943ce53ff0dd574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4600712bf3c4bb99",
-        "type": "tabs",
-        "dimension": 25.005724753835583,
-        "children": [
-          {
-            "id": "0b98dd3681b4347f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d44513de96663617",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -121,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#incomplete  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,26 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "74476affe76ac5b2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0b81a69190cd8ecc",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 398.5041847229004
+    "width": 200
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -168,7 +76,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0db8d60790ace0e7",
+            "id": "89073f15576efae5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -181,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,53 +141,66 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": true,
+                  "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
+                    {
+                      "query": "tag:#Calc  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#DiffCalc  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8537055
+                      }
+                    },
+                    {
+                      "query": "tag:#Logic  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    },
                     {
                       "query": "tag:#Discrete  ",
                       "color": {
                         "a": 1,
-                        "rgb": 6149724
+                        "rgb": 6084188
                       }
                     },
                     {
-                      "query": "tag: #Calc  ",
+                      "query": "tag:#SoftwareDev  ",
                       "color": {
                         "a": 1,
-                        "rgb": 13962224
-                      }
-                    },
-                    {
-                      "query": "tag:#incomplete  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 13310490
+                        "rgb": 6084269
                       }
                     }
                   ],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0,
-                  "repelStrength": 17.3531310522918,
-                  "linkStrength": 0.595351839896708,
-                  "linkDistance": 374,
-                  "scale": 0.07338842245311401,
-                  "close": true
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 13.341859845457,
+                  "linkStrength": 0.76664002131628,
+                  "linkDistance": 211,
+                  "scale": 1,
+                  "close": false
                 }
               }
             }
@@ -297,19 +216,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 604.5
+    "width": 390
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "homepage:Open homepage": true,
       "obsidian-importer:Open Importer": true,
       "zk-prefixer:Create new unique note": true,
@@ -322,16 +240,30 @@
       "templater-obsidian:Templater": true,
       "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
-      "workspaces:Manage workspace layouts": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5943ce53ff0dd574",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
+    "02 - Atomic/20240517 - 163856 - Files.md",
+    "02 - Atomic/20240509 - 142155 -Server concurrency.md",
+    "02 - Atomic/20240411 - 132633 - Intro to processes.md",
+    "02 - Atomic/Race condition.md",
+    "02 - Atomic/Mutual exclusion.md",
+    "02 - Atomic/Critical sections.md",
+    "02 - Atomic/Concurrency.md",
+    "02 - Atomic/Algorithm - Readers-Writers problem.md",
+    "02 - Atomic/Algorithm - Problem -Producer-Consumer problem.md",
+    "02 - Atomic/20240509 - 191823 - Simulation - Thread Pool Server.md",
+    "02 - Atomic/20240509 - 155121 - Simulation - Process based server.md",
+    "02 - Atomic/20240504 - 162315 - Mutex and conditional variables.md",
+    "02 - Atomic/20240408 - 164250 -Atomic Execution.md",
+    "02 - Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
+    "02 - Atomic/20240503 - 185543 - Process Synchronisation.md",
+    "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
     "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
-    "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
     "02 - Atomic/20240520 - 131833 - Least common multiple.md",
     "02 - Atomic/20240519 - 214806 - Definition - Greatest common divisor.md",
@@ -341,20 +273,6 @@
     "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
     "02 - Atomic/dark.md",
     "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
-    "02 - Atomic/20240515 - 031853 - Definition - Complementary graph.md",
-    "02 - Atomic/20240515 - 030836 - Algorithm- Kruskal's algorithm.md",
-    "02 - Atomic/20240515 - 030554 - Algorithm - Prim's Algorithm.md",
-    "02 - Atomic/20240429 - 121006 - Congruent relation.md",
-    "02 - Atomic/20240429 - 111944 - Theorem - Euclid's proof of infinite prime numbers.md",
-    "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
-    "02 - Atomic/20240501 - 140129 - Double factorial.md",
-    "02 - Atomic/Modular arithmetic.md",
-    "02 - Atomic/20240429 - 111500 - Prime numbers.md",
-    "01.Areas/1.UC3M/Discrete Math.md",
-    "02 - Atomic/20240515 - 012315 - Subsets.md",
-    "02 - Atomic/20240515 - 010716 - Counting methods.md",
-    "02 - Atomic/20240509 - 191823 - Simulation - Thread Pool Server.md",
-    "02 - Atomic/20240409 - 121336 -Proof Theory in Predicate Calculus.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
     "99 - Meta/0. Attachments/Pasted image 20240409141643.png",

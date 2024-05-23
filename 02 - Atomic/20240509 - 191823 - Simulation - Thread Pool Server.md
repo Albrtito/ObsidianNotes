@@ -2,10 +2,9 @@
 aliases:
   - Simulation - Thread Pool Server
 tags:
-  - review
   - OS
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-31
 sr-interval: 11
 sr-ease: 272

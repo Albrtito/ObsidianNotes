@@ -25,6 +25,7 @@ $$
 8 = 4\cdot 2 + 0
 \end{gather}
 $$
+`
 Then gcd(a,b) = 4
 
 Going backwards:

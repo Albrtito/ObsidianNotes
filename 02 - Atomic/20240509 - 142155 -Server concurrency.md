@@ -3,7 +3,6 @@ aliases:
   - Server concurrency
 tags:
   - OS
-  - incomplete
 "References:": 
 cssclasses:
 ---

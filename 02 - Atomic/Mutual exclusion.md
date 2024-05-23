@@ -1,9 +1,8 @@
 ---
 Date: 2024-03-18
 tags:
-  - review
   - OS
-"References:":
+"References:": 
 sr-due: 2024-06-19
 sr-interval: 42
 sr-ease: 186

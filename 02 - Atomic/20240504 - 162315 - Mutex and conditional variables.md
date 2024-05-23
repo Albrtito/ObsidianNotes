@@ -2,10 +2,9 @@
 aliases:
   - Mutex and conditional variables
 tags:
-  - review
   - OS
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-22
 sr-interval: 10
 sr-ease: 270

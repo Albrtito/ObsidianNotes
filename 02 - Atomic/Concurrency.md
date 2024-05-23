@@ -1,7 +1,6 @@
 ---
 Date: 2024-03-18
 tags:
-  - review
   - OS
 "References:":
   - https://aulaglobal.uc3m.es/pluginfile.php/6794419/mod_resource/content/1/T3.L1-Concurrency-Intro-Concepts.pdf
