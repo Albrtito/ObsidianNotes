@@ -11,8 +11,13 @@
             "id": "5824e14fc33d945b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,6 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,7 +159,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "tag:#Calc  ",
@@ -200,7 +208,7 @@
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 211,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -216,14 +224,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-23.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 390
+    "width": 603.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,9 +253,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "5824e14fc33d945b",
   "lastOpenFiles": [
     "02 - Atomic/20240517 - 163856 - Files.md",
+    "01.Areas/0.DailyNote/2024-05-23.md",
     "02 - Atomic/20240509 - 142155 -Server concurrency.md",
     "02 - Atomic/20240411 - 132633 - Intro to processes.md",
     "02 - Atomic/Race condition.md",
@@ -272,7 +283,6 @@
     "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
     "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
     "02 - Atomic/dark.md",
-    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
     "99 - Meta/0. Attachments/Pasted image 20240409141643.png",

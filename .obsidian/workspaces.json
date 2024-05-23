@@ -153,8 +153,44 @@
                       "showTags": false,
                       "showAttachments": false,
                       "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#Calc  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        },
+                        {
+                          "query": "tag:#DiffCalc  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 8537055
+                          }
+                        },
+                        {
+                          "query": "tag:#Logic  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11392604
+                          }
+                        },
+                        {
+                          "query": "tag:#Discrete  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084188
+                          }
+                        },
+                        {
+                          "query": "tag:#SoftwareDev  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084269
+                          }
+                        }
+                      ],
                       "collapse-display": true,
                       "showArrow": false,
                       "textFadeMultiplier": 0,
@@ -193,6 +229,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "mermaid-tools:Open Mermaid Toolbar": false,
           "homepage:Open homepage": true,
           "obsidian-importer:Open Importer": true,
           "zk-prefixer:Create new unique note": true,
@@ -209,7 +246,7 @@
         }
       },
       "active": "5824e14fc33d945b",
-      "mtime": "2024-05-15T09:25:06+02:00"
+      "mtime": "2024-05-23T12:07:34+02:00"
     },
     "Layout1": {
       "main": {
