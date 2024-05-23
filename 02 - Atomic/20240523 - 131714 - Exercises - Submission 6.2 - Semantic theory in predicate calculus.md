@@ -52,5 +52,18 @@ $(P(y)\lor Q(y))$ is False while $\exists x (P(x) \land Q(x))$ is true meaning:
 + Q(y) is false
 
 If we look in a domain D= {a} with free variable y = a we need for Q(y) to equal 0 while Q(a) equals 1. This is impossible. 
-However in a domain of two elements we can surely find a counterexample: 
+![[Screenshot 2024-05-23 at 17.36.37.png]]
 
+However in a domain of two elements we can surely find a counterexample: 
+![[Screenshot 2024-05-23 at 17.36.49.png]]
+
+## 7: Verify the formula with counterexample
+$$
+\lnot \forall x A(x) \land \lnot (\exists x \lnot A (x))
+$$
+In order for the formula to be true we need both terms to be true. To simplify the quantifiers we do the following: 
+$$
+\exists x \lnot A(x) \land (\forall x  A (x))
+$$
+In a one element domain we get: 
+D = {a}
