@@ -46,3 +46,10 @@ However in a domain with two elements  D = {a,b} we can get a counterexample:
 $$
 \exists x (P(x) \land Q(x)) \rightarrow (P(y)\lor Q(y))
 $$
+The conditional needs to be false, then: 
+$(P(y)\lor Q(y))$ is False while $\exists x (P(x) \land Q(x))$ is true meaning:  
++ P(y) is false
++ Q(y) is false
+
+If we look in a domain D= {a} with free variable y = a we need for Q(y) to equal 0 while Q(a) equals 1. This is impossible. 
+However in a domain of two elements we can surely do this. 
