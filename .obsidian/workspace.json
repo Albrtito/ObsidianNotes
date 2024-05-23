@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240523 - 122919 - Propositional logic.md",
+                "file": "01.Areas/1.UC3M/Logic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,9 +42,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6bee2aba278f4ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240523 - 123037 - Assumptions.md",
+                "file": "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240523 - 123037 - Assumptions.md",
+                "file": "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240523 - 123037 - Assumptions.md",
+                "file": "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +244,7 @@
                   "repelStrength": 13.341859845457,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 211,
-                  "scale": 1,
+                  "scale": 0.5486565932607311,
                   "close": true
                 }
               }
@@ -249,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240523 - 123037 - Assumptions.md"
+                "file": "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md"
               }
             }
           }
@@ -277,13 +290,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "273921f346608a1a",
+  "active": "6bee2aba278f4ed7",
   "lastOpenFiles": [
-    "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
-    "02 - Atomic/20240523 - 123037 - Assumptions.md",
-    "02 - Atomic/20240523 - 122919 - Propositional logic.md",
-    "02 - Atomic/20240523 - 122919 -.md",
+    "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
     "01.Areas/1.UC3M/Logic.md",
+    "02 - Atomic/20240523 - 122919 - Propositional logic.md",
+    "02 - Atomic/20240523 - 123037 - Assumptions.md",
+    "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
+    "02 - Atomic/20240523 - 122919 -.md",
     "02 - Atomic/Logic_Theory_Ch 0_Intro.md",
     "01.Areas/0.DailyNote/2024-05-23.md",
     "02 - Atomic/20240517 - 163856 - Files.md",
