@@ -32,6 +32,14 @@ In order to find a counter example (False interpretation) we look for:
 + $\forall x(P(x) \lor Q(x))$ : true
 	+ 
 + $(\forall x P(x) \lor \forall x Q(x))$ : false
-	+ P(x): false for all x
-	+ Q(x): false for all x
+	+ $\forall x P(x)$: FALSE
+	+ $\forall x Q(x)$ : FALSE
 
+We can try to find a counterexample in domain D = {a} however this counterexample is not possible: 
+![[Screenshot 2024-05-23 at 14.22.58.png]]
++ See that we cannot fix P(x) ∨ Q(x)
+
+However in a domain with two elements  D = {a,b} we can get a counterexample: 
+![[Screenshot 2024-05-23 at 14.23.57.png]]
+
+## 6: Verify the formula with counterexample: 
