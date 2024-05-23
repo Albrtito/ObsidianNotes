@@ -43,3 +43,6 @@ However in a domain with two elements  D = {a,b} we can get a counterexample:
 ![[Screenshot 2024-05-23 at 14.23.57.png]]
 
 ## 6: Verify the formula with counterexample: 
+$$
+\exists x (P(x) \land Q(x)) \rightarrow (P(y)\lor Q(y))
+$$
