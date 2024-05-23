@@ -30,4 +30,8 @@ $$
 $$
 In order to find a counter example (False interpretation) we look for: 
 + $\forall x(P(x) \lor Q(x))$ : true
+	+ 
 + $(\forall x P(x) \lor \forall x Q(x))$ : false
+	+ P(x): false for all x
+	+ Q(x): false for all x
+
