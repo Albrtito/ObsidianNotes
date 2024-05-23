@@ -287,12 +287,12 @@
       "templater-obsidian:Templater": true,
       "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "6bee2aba278f4ed7",
   "lastOpenFiles": [
+    "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 13.53.07.png",
     "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
     "01.Areas/1.UC3M/Logic.md",
     "02 - Atomic/20240523 - 122919 - Propositional logic.md",
@@ -321,7 +321,6 @@
     "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
-    "02 - Atomic/20240520 - 131833 - Least common multiple.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
     "99 - Meta/0. Attachments/Pasted image 20240409141643.png",
