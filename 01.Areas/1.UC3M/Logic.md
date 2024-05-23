@@ -9,7 +9,7 @@ cssclasses:
 # Intro to the course: 
 ![Logic_Theory_Ch 0_Intro](../../02%20-%20Atomic/Logic_Theory_Ch%200_Intro.md)
 # Course program: 
-+ [Propositional logic](Propositional%20logic)
++ [20240523 - 122919 - Propositional logic](20240523%20-%20122919%20-%20Propositional%20logic.md)
 + [Predicate Logic](../../02%20-%20Atomic/Predicate%20Logic.md)
 + [Semantic Theory](../../02%20-%20Atomic/20240411%20-%20110543%20-Semantic%20Theory.md)
 + [Normal forms and resolution](../../02%20-%20Atomic/20240501%20-%20154905%20-%20Normal%20forms%20and%20resolution.md) 

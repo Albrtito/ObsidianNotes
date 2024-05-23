@@ -23,7 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Logic_Theory_Ch 0_Intro.md",
+                "file": "02 - Atomic/20240523 - 122919 - Propositional logic.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "273921f346608a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240523 - 123037 - Assumptions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/Logic_Theory_Ch 0_Intro.md",
+                "file": "02 - Atomic/20240523 - 123037 - Assumptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/Logic_Theory_Ch 0_Intro.md",
+                "file": "02 - Atomic/20240523 - 123037 - Assumptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/Logic_Theory_Ch 0_Intro.md",
+                "file": "02 - Atomic/20240523 - 123037 - Assumptions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/Logic_Theory_Ch 0_Intro.md"
+                "file": "02 - Atomic/20240523 - 123037 - Assumptions.md"
               }
             }
           }
@@ -264,9 +277,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e42cab3afbb8a829",
+  "active": "273921f346608a1a",
   "lastOpenFiles": [
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
+    "02 - Atomic/20240523 - 123037 - Assumptions.md",
+    "02 - Atomic/20240523 - 122919 - Propositional logic.md",
+    "02 - Atomic/20240523 - 122919 -.md",
+    "01.Areas/1.UC3M/Logic.md",
+    "02 - Atomic/Logic_Theory_Ch 0_Intro.md",
     "01.Areas/0.DailyNote/2024-05-23.md",
     "02 - Atomic/20240517 - 163856 - Files.md",
     "02 - Atomic/20240509 - 142155 -Server concurrency.md",
@@ -289,11 +307,6 @@
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
     "02 - Atomic/20240520 - 131833 - Least common multiple.md",
-    "02 - Atomic/20240519 - 214806 - Definition - Greatest common divisor.md",
-    "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
-    "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
-    "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
-    "02 - Atomic/20240501 - 140204 - Perfect matchings on complete graphs.md",
     "99 - Meta/0. Attachments/Screenshot 2024-03-18 at 17.33.31.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-09 at 12.56.05.png",
     "99 - Meta/0. Attachments/Pasted image 20240409141643.png",
