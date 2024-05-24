@@ -104,8 +104,62 @@ $$
  \land \\
  \forall u \forall v(\lnot D(u, v) \lor \sim C(u))
  \\ \land \\
- D(a, b) \wedge \forall x \forall y A(x, y)
+ D(a, b) \wedge \forall r \forall s A(r, s)
  \\ \land \\
- [\forall x  \lnot B(a, x)]
+ [\forall t  \lnot B(a, t)]
 \end{gather}
+$$
++ Take out all of them: 
+**Remember:** a and b are constants not free variables. 
+
+$$
+\begin{gather}
+\exists x \forall y \forall u \forall v \forall r \forall s \forall t
+\begin{cases}
+(\lnot A(x, y) \lor (B(y, x) \lor C(y))) \\
+ \land \\
+ (\lnot D(u, v) \lor \sim C(u))
+ \\ \land \\
+ D(a, b) \wedge  A(r, s)
+ \\ \land \\
+ [ \lnot B(a, t)]
+ \end{cases}
+\end{gather} 
+$$
+
+
+3. Transform into SKOLEM:
++ No free variables to bind 
+
+**DELETE EXISTENTIAL QUANTIFIERS:**
+$$
+\begin{gather}
+ \forall y \forall u \forall v \forall r \forall s \forall t
+\begin{cases}
+(\lnot A(c, y) \lor (B(y, c) \lor C(y))) \\
+ \land \\
+ (\lnot D(u, v) \lor \sim C(u))
+ \\ \land \\
+ D(a, b) \wedge  A(r, s)
+ \\ \land \\
+ [ \lnot B(a, t)]
+ \end{cases}
+\end{gather} 
+$$
+
+**TRANSFORM TO CLAUSES:**
++ Only the third premise is not in a clause form
+$$
+\begin{gather}
+ \forall y \forall u \forall v \forall r \forall s \forall t
+\begin{cases}
+(\lnot A(c, y) \lor (B(y, c) \lor C(y))) \\
+ \land \\
+ (\lnot D(u, v) \lor \sim C(u))
+ \\ \land \\
+  D(a, b) \land   A(r, s)
+ \\ \land \\
+ [ \lnot B(a, t)]
+ \end{cases}
+\end{gather} 
 $$

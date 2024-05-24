@@ -20238,6 +20238,7 @@ EKG
 EaC
 Eulers
 Erase
+EXISTENTIAL
 breakfast
 benefit
 bien
@@ -25896,6 +25897,7 @@ THEORY
 True
 Turn
 TAKE
+TRANSFORM
 Movement
 MM
 MMMM
@@ -72307,6 +72309,7 @@ COMPOUND
 CLAUSE
 Conclusion
 CONDITIONALS
+CLAUSES
 your
 ya
 yo
