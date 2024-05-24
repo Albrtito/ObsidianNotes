@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240524 - 190013 - HTML Classes.md",
+                "file": "02 - Atomic/20240524 - 190723 - HTML IDs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240524 - 190013 - HTML Classes.md",
+                "file": "02 - Atomic/20240524 - 185631 - CSS Syntax.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240524 - 190013 - HTML Classes.md"
+                "file": "02 - Atomic/20240524 - 185631 - CSS Syntax.md"
               }
             }
           }
@@ -277,8 +277,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "732ee1e925e38068",
+  "active": "0712fc3ec9117fb0",
   "lastOpenFiles": [
+    "02 - Atomic/20240524 - 190723 - HTML IDs.md",
     "02 - Atomic/20240524 - 185631 - CSS Syntax.md",
     "02 - Atomic/20240524 - 190013 - HTML Classes.md",
     "02 - Atomic/20240524 - 184531 - CSS.md",
@@ -314,7 +315,6 @@
     "02 - Atomic/Generalisation of linear homogeneous recurrence relations.md",
     "02 - Atomic/Equivalence relations.md",
     "02 - Atomic/Definition 108 Properties of recurrence relations.md",
-    "02 - Atomic/Binary Relations.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.49.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.37.png",
     "00.References/Discrete_Theory_All.pdf",
