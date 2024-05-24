@@ -174,4 +174,11 @@ C4: A(r,s)
 C5: $[ \lnot B(a, t)]$
 
 **TRY TO ARRIVE INTO AN EMPTY CLAUSE:**
-+ C1 - C4 : ·\lor (B(y, c) \lor C(y))
+C6 =>  C1 - C4 : $(B(y, c) \lor C(y))$
+C7 => C6 - C5 : C(y)
+C8 => C2 - C7 : $\lnot D(u, v)$
+C9 => C3 - C8 : $\emptyset$
+
+Reached an empty clause, then unsatisfiable formula, then **correct deduction**
+
+

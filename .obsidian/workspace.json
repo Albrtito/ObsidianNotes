@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM.md",
+                "file": "01.Areas/1.UC3M/Logic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM.md",
+                "file": "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM.md",
+                "file": "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM.md",
+                "file": "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM.md"
+                "file": "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md"
               }
             }
           }
@@ -312,14 +312,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36738e7493612682",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Logic.md",
+    "02 - Atomic/20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM.md",
     "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "02 - Atomic/20240524 - 033334 -.md",
     "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
-    "01.Areas/1.UC3M/Logic.md",
-    "02 - Atomic/20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM.md",
     "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
     "Home.md",
