@@ -6277,6 +6277,7 @@ cjjQ
 cccI
 cuB
 characterizing
+capabilities
 lifeOS
 liking
 las
@@ -47133,6 +47134,7 @@ storages
 structured
 substituting
 summarises
+specifications
 No
 NOTE
 Normalmente
@@ -50940,6 +50942,8 @@ pdE
 pax
 poW
 peripheral
+packages
+pip
 UC
 UNIDADES
 Unidades
@@ -62841,6 +62845,7 @@ mjDjDp
 multiplicative
 modulus
 modern
+machines
 YYYY
 YYYYMMDD
 YU
@@ -72282,6 +72287,7 @@ Closure
 Commutativity
 Cancellation
 CHECKS
+Config
 your
 ya
 yo
@@ -76054,6 +76060,7 @@ Satisfying
 SHIT
 Storage
 Store
+Scripts
 La
 Las
 Lanz
@@ -77925,6 +77932,7 @@ LrN
 LVe
 Logical
 Location
+Libraries
 Otras
 Otros
 OS

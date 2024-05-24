@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e42cab3afbb8a829",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "273921f346608a1a",
             "type": "leaf",
             "state": {
@@ -44,8 +36,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +165,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,9 +240,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -281,8 +267,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36738e7493612682",
+  "active": "273921f346608a1a",
   "lastOpenFiles": [
+    "02 - Atomic/Virtual Environment (venv).md",
+    "02 - Atomic/pip freeze.md",
+    "01.Areas/0.DailyNote/2024-03-15.md",
+    "Home.md",
     "02 - Atomic/Theorem 109 Solution of a homogeneous first-order recurrence relation.md",
     "02 - Atomic/Recurrence relations.md",
     "02 - Atomic/Modular arithmetic.md",
@@ -305,10 +295,6 @@
     "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
     "02 - Atomic/20240519 - 172247 - Algorithm - Topological sort.md",
     "02 - Atomic/20240519 - 165637 - Hasse diagram.md",
-    "02 - Atomic/20240519 - 165004 - Order Relation.md",
-    "02 - Atomic/20240519 - 164454 - Exercises - Order relations.md",
-    "02 - Atomic/20240515 - 035256 - Euler's formula.md",
-    "02 - Atomic/20240515 - 033903 - Hamiltonian graphs.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.49.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.37.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 14.23.57.png",
