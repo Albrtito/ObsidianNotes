@@ -93,4 +93,16 @@ For the formula to be false, then find a counterexample, the conditional must be
 + $(\exists xA(x)\land \exists x B(x))$: **TRUE**
 
 There are no free variables. 
-For a domain D = {a} we find that: 
+For a domain D = {a} we find that: There is no counterexample: ![[Screenshot 2024-05-24 at 02.27.37.png]]
+
+However for D = {a,b} we can find a counterexample and therefor the formula is not valid
+![[Screenshot 2024-05-24 at 02.27.14.png]]
+## 10. Verify the formula with counterexample: 
+$$
+\forall x\exists y P(x,y) \rightarrow \exists y \forall x P(x,y)
+$$
+It is a conditional, then for it o be false we need: 
++ $\exists y \forall x P(x,y)$ : **FALSE**
++ $\forall x\exists y P(x,y)$ : **TRUE**
+
+For a domain of D = {a} we can find: 
