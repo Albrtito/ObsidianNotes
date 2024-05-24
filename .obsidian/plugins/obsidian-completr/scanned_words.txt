@@ -2027,6 +2027,8 @@ toY
 tyä
 totient
 technical
+therefor
+tenses
 dailyNote
 day
 during
@@ -16155,6 +16157,7 @@ unless
 utilisation
 uncomfortable
 unsafe
+uniting
 in
 is
 important
@@ -29882,6 +29885,7 @@ rwkz
 rNb
 ring
 reliable
+refutation
 here
 hour
 home
@@ -43049,6 +43053,7 @@ nSe
 nGHg
 numeric
 noted
+negating
 Post
 Papeleos
 Para
@@ -60737,6 +60742,7 @@ RSFI
 Rgv
 Retrieval
 Readable
+Refutation
 morning
 me
 mm

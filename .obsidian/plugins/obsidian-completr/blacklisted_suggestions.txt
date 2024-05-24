@@ -24,3 +24,5 @@ boundsObjc
 boundedness
 con
 understand
+compound
+compounded

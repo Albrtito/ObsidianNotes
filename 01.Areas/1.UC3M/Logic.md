@@ -22,7 +22,8 @@ cssclasses:
 [Logic_Submission5](../../02%20-%20Atomic/20240409%20-%20115536%20-Logic%20Set%205.md)
 [[20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus|Exercises - Semantic theory in predicate calculus]]
 [Logic_Submission 6.1](../../02%20-%20Atomic/20240418%20-%20150156%20-Logic_Submission%206.1.md)
-[Logic_Submission 7](../../02%20-%20Atomic/20240501%20-%20181254%20-Logic_Submission%207.md)
+[[20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM|Logic - Submission - 7.1]]
+[[]]
 
 
 

@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Logic_Submission 7
+  - Exercises - Logic - PRENEX AND SKOLEM
+  - Logic - Submission - 7.1
 tags:
   - Logic
 "References:": 
 cssclasses:
-  - page-manila
 ---
 # Submission 7: PRENEX
 
-3.  Transform each formula of the following deduction into a PRENEX normal form:
+## 3.  Transform each formula of the following deduction into a PRENEX normal form:
 
 **first formula:**
 $$
@@ -39,7 +39,8 @@ $$
 $$
 \exists x \exists y R(x,y)
 $$
-5. Transform each formula of the following deduction into a PRENEX normal form:
+
+## 5. Transform each formula of the following deduction into a PRENEX normal form:
 
 **first formula:**
 $$
@@ -71,8 +72,9 @@ $$
 \boxed{\forall x \exists y \exists u ((\lnot  S(y,x) \lor  Es(u))\lor \lnot Eu(x))}
 $$
 
-
-8. Obtain the Skolem normal form of the equivalent formula: 
+ 
+## 8. Obtain the skolem normal form equivalent to the following formula.
+ 
 $$
 \forall x \exists y \exists z [(\lnot P(x,y)\land Q(x,z))\lor R(x,y,w)]
 $$
@@ -95,7 +97,8 @@ $$
 \boxed{\forall x [((R(x,f(x),a)\lor \lnot P(x,f(x))) \land ((R(x,f(x),a)\lor Q(x,g(x)))]}
 $$
 
-9. Obtain the skolem normal form equivalent to the following formula: 
+## 9. Obtain the skolem normal form equivalent to the following formula: 
+
 $$
 \forall x \{\lnot P(x,a)\rightarrow \exists[ yP(y,g(x))\land \forall z (P(z,g(x)) \rightarrow P(y,z))]\}
 $$
@@ -121,7 +124,7 @@ $$
 \boxed{\forall x \forall z\{[P(x,a)\lor P(f(x),g(x))] \land [P(x,a)\lor ( \lnot P(z,g(x))\lor P(f(x),z) )]\}}
 $$
 
-10. Obtain the skolem normal form equivalent to the following formula:
+## 10. Obtain the skolem normal form equivalent to the following formula:
 $$
 \forall x [(P(x)\rightarrow \lnot \forall y (Q(x,y)\rightarrow \exists zP(z))) \land \forall t(Q(x,y)\rightarrow R(t))]
 $$
