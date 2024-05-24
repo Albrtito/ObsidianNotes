@@ -121,4 +121,14 @@ We obtain the following formula:
 $$
 \exists x (P(x) \land Q(x)) \land \lnot[\exists x \lnot Q(x) \lor \forall x \lnot P(x)]
 $$
-We know that for this formula to be false, either of both tenses have to be false (and operator), we look for a counterexample in D = {a}
+We know that for this formula to be false, either of both tenses have to be false (and operator), we look for a counterexample in D = {a} and find one counterexample: 
+![[Screenshot 2024-05-24 at 02.52.12.png]]
+Then the formula is not valid. 
+
+## 12. Verify the formula with counterexample: 
+
+## 13. Verify the formula with counterexample: 
+
+## 14. Verify the formula with counterexample: 
+
+## 15. Verify the deduction using counterexample. 
