@@ -4117,7 +4117,6 @@ convencidas
 coordi
 como
 cada
-consejo
 ciudad
 comidas
 cantidades
@@ -4134,7 +4133,6 @@ cosa
 contrato
 contacto
 compras
-contar
 coches
 cambia
 confirmada
@@ -4150,7 +4148,6 @@ comfort
 current
 circumstances
 campamentos
-consigo
 centrarme
 casa
 creo
@@ -4159,7 +4156,6 @@ contrario
 consumer
 conditions
 concurrency
-consume
 circular
 critical
 code
@@ -4364,10 +4360,8 @@ compare
 connects
 concrete
 connected
-cont
 constants
 classroom
-conv
 close
 cT
 cnB
@@ -4697,7 +4691,6 @@ cML
 chp
 cCCl
 cQS
-cON
 cip
 cGW
 cGs
@@ -5023,7 +5016,6 @@ cGX
 cDSbA
 cyq
 cLu
-cOn
 cbR
 cGY
 cfztL
@@ -5259,12 +5251,10 @@ characteristica
 changed
 calculating
 complexity
-contet
 clear
 categories
 consists
 center
-const
 char
 context
 codes
@@ -5447,7 +5437,6 @@ cgYl
 cyae
 cmw
 cil
-coN
 cgh
 cxGPX
 cQv
@@ -5583,7 +5572,6 @@ caA
 cog
 clause
 clauses
-compound
 connective
 conjuction
 contradictions
@@ -5596,7 +5584,6 @@ cCh
 cBY
 ciVvq
 conditionals
-compounded
 conjunction
 congratulate
 congratulating
@@ -5640,7 +5627,6 @@ crossing
 circuits
 corresponds
 coming
-cons
 cundi
 cundiendo
 crear
@@ -6225,7 +6211,6 @@ comprehensible
 coordinates
 considering
 cardinal
-convex
 contained
 contiguous
 cpU
@@ -27855,6 +27840,7 @@ Mel
 MLLd
 MPq
 Multiplicative
+Management
 reflections
 reels
 routine
@@ -37514,6 +37500,7 @@ expansion
 expresses
 entera
 encuentro
+ecfa
 Instagram
 IRIS
 Intendencia
@@ -50967,6 +50954,7 @@ peripheral
 packages
 pip
 piense
+palette
 UC
 UNIDADES
 Unidades
@@ -70397,7 +70385,6 @@ Contactos
 Contratos
 Comida
 Cachaza
-Conexi
 Cargar
 Consejo
 Cada
@@ -71751,7 +71738,6 @@ CFG
 CqvI
 CWx
 CFj
-ConS
 CLzL
 CtCl
 CIyc
@@ -72151,7 +72137,6 @@ CWu
 CMo
 Cjs
 Cpy
-Con
 CMI
 CLu
 CNp
@@ -72318,7 +72303,6 @@ Closure
 Commutativity
 Cancellation
 CHECKS
-Config
 COMPOUND
 CLAUSE
 Conclusion
@@ -77969,6 +77953,7 @@ LVe
 Logical
 Location
 Libraries
+Linux
 Otras
 Otros
 OS
