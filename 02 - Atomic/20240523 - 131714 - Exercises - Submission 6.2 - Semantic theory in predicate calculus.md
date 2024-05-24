@@ -67,3 +67,15 @@ $$
 $$
 In a one element domain we get: 
 D = {a}
+![[Screenshot 2024-05-24 at 02.06.58.png]]
+Proving a counterexample for D
+
+## 8: Verify the formula with counterexample: 
+$$
+(\exists x A(x) \rightarrow \exists x B(x)) \rightarrow \forall x (A(x)\rightarrow B(x))
+$$
+For this formula, we prove a counterexample by proving that the conditional is false, then: 
++ $(\exists x A(x) \rightarrow \exists x B(x))$ : **TRUE**
++ $\forall x (A(x)\rightarrow B(x))$ : **FALSE**
+There are no free variables, for a domain for D = {a} we have:
+
