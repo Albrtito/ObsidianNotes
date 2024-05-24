@@ -70,5 +70,42 @@ $$
 $$
 1. Formula into resolution form: 
 $$
+\begin{gather}
+\exists x \forall y(A(x, y) \rightarrow B(y, x) \vee C(y)) \\
+ \land \\
+ \forall x \forall y(D(x, y) \rightarrow \sim C(x))
+ \\ \land \\
+ D(a, b) \wedge \forall x \forall y A(x, y)
+ \\ \land \\
+ \lnot [\exists x B(a, x)]
+\end{gather}
+$$
+2. Transform into PRENEX: 
 
+**DELETE COMPOUND NEGATIONS AND CONDITIONALS**
++ Use interdefinitions for the first two premises.
++ Same for conclusion 
+$$
+\begin{gather}
+\exists x \forall y( \lnot A(x, y) \lor (B(y, x) \lor C(y))) \\
+ \land \\
+ \forall x \forall y(\lnot D(x, y) \lor \sim C(x))
+ \\ \land \\
+ D(a, b) \wedge \forall x \forall y A(x, y)
+ \\ \land \\
+ [\forall x  \lnot B(a, x)]
+\end{gather}
+$$
+**TAKE OUT ALL QUANTIFIERS:**
++ Every duplicated quantifier is given a new variable. 
+$$
+\begin{gather}
+\exists x \forall y( \lnot A(x, y) \lor (B(y, x) \lor C(y))) \\
+ \land \\
+ \forall u \forall v(\lnot D(u, v) \lor \sim C(u))
+ \\ \land \\
+ D(a, b) \wedge \forall x \forall y A(x, y)
+ \\ \land \\
+ [\forall x  \lnot B(a, x)]
+\end{gather}
 $$

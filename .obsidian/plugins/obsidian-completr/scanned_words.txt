@@ -18281,6 +18281,7 @@ inversee
 interest
 identifier
 impossible
+interdefinitions
 Enough
 Esta
 Est
@@ -25893,6 +25894,8 @@ TVq
 TPw
 THEORY
 True
+Turn
+TAKE
 Movement
 MM
 MMMM
@@ -47141,6 +47144,8 @@ structured
 substituting
 summarises
 specifications
+substitutions
+says
 No
 NOTE
 Normalmente
@@ -48957,6 +48962,7 @@ NzTL
 NEJ
 NYg
 NyHu
+NEGATIONS
 porn
 proposed
 page
@@ -53054,6 +53060,7 @@ ULZb
 UNDERSTAND
 Unrolling
 Unroll
+UNIVERSAL
 Achieved
 Antes
 Ah
@@ -66641,6 +66648,7 @@ Dpb
 Distributivity
 Divisors
 Directories
+DELETE
 HH
 Highlight
 Hay
@@ -72295,6 +72303,10 @@ Commutativity
 Cancellation
 CHECKS
 Config
+COMPOUND
+CLAUSE
+Conclusion
+CONDITIONALS
 your
 ya
 yo
@@ -79687,6 +79699,7 @@ OYU
 OoN
 ODs
 Organization
+ONLY
 varias
 verde
 visita
@@ -90978,6 +90991,7 @@ Qbf
 QAi
 QMWx
 QnC
+QUANTIFIERS
 kindness
 key
 kept

@@ -58,6 +58,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fcf577a4c18cdc2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -298,12 +308,14 @@
   },
   "active": "1087055cabadd75b",
   "lastOpenFiles": [
+    "02 - Atomic/20240524 - 033334 -.md",
     "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
+    "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
+    "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
     "01.Areas/1.UC3M/Logic.md",
     "02 - Atomic/20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM.md",
     "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
-    "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
     "Home.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.40.28.png",
@@ -331,10 +343,8 @@
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
     "02 - Atomic/20240520 - 131833 - Least common multiple.md",
     "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
-    "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.49.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.37.png",
-    "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/Discrete_Theory_All.pdf",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
