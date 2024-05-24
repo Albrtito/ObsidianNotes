@@ -8,4 +8,6 @@ tags:
 cssclasses:
 ---
 # Fundations Course: Odin project
-This course contains information about all foundations need
+This course contains information about all foundations needed for web development: tool description, basic HTLM and CSS, Flexbox and JavaScript basics.
+
++ [[]]

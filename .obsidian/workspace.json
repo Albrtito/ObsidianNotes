@@ -40,9 +40,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0712fc3ec9117fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240524 - 184531 - CSS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240524 - 184256 - Odin - Fundations Course.md",
+                "file": "02 - Atomic/20240524 - 184531 - CSS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240524 - 184256 - Odin - Fundations Course.md"
+                "file": "02 - Atomic/20240524 - 184531 - CSS.md"
               }
             }
           }
@@ -251,8 +264,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c6ffe106b0f5d85a",
+  "active": "0712fc3ec9117fb0",
   "lastOpenFiles": [
+    "02 - Atomic/20240524 - 184531 - CSS.md",
     "02 - Atomic/20240524 - 184256 - Odin - Fundations Course.md",
     "02 - Atomic/20240524 - 184049 - The Odin Project.md",
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
@@ -288,7 +302,6 @@
     "02 - Atomic/Definition 107  Recurrence relation.md",
     "02 - Atomic/Advance methods in combinatorics.md",
     "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
-    "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.49.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.37.png",
     "00.References/Discrete_Theory_All.pdf",
