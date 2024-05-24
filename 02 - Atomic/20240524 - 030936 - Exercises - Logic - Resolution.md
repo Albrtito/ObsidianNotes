@@ -22,10 +22,53 @@ $$
 
 **DELETE COMPOUND NEGATIONS:**
 $$
-\forall x \exists y P(x,y) \land \exists x \forall y \lnot P(x,y)
+\forall x \exists y P(x,y) \land \forall y \exists x \lnot P(x,y)
 $$
 
 **TAKE OUT THE QUANTIFIERS:**
 $$
-\forall x \exists u( \exists y P(x,y) \land \forall y \lnot P(u,y))
+\forall x \exists y \forall v\exists u(  P(x,y) \land  \lnot P(u,v))
+$$
+
+3. Get the SKOLEM equiv: 
+
+**ONLY UNIVERSAL QUANTIFIERS:**
++ y → f(x)
++ u → g(v, x)
+
+$$
+\forall x  \forall v(  P(x,f(x)) \land  \lnot P(g(v,x),v))
+$$
+**OBTAIN A CLAUSE FORM:**
+Or connectives together, divided by and connectives. 
+
+Already in a clause form: 
+
+C1: $P(x,f(x))$
+C2: $\lnot P(g(v,x),v)$
+
+No substitutions would lead to an empty clause. The **deduction is not correct.**
+
+## 2. Verify correct deduction using resolution:
+The premises are given one after the other, remember that the resolution method says: 
+$$
+p_1 \land p_2 \land ...\land p_n \land \lnot q
+$$
+**Then**: 
+
+Premises:
+$$
+\begin{gather}
+& \exists x \forall y(A(x, y) \rightarrow B(y, x) \vee C(y)) \\
+& \forall x \forall y(D(x, y) \rightarrow \sim C(x)) \\
+& D(a, b) \wedge \forall x \forall y A(x, y)
+\end{gather}\\ 
+$$
+Conclusion:
+$$
+\exists x B(a, x)
+$$
+1. Formula into resolution form: 
+$$
+
 $$
