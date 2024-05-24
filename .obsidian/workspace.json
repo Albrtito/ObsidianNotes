@@ -27,8 +27,13 @@
             "id": "36738e7493612682",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -125,8 +130,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f97aefa6b972e655",
@@ -138,6 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,14 +218,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-24.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 603.5
+    "width": 758.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,8 +247,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "23ab2a729b7c2289",
+  "active": "36738e7493612682",
   "lastOpenFiles": [
+    "01.Areas/0.DailyNote/2024-05-24.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
     "01.Areas/1.UC3M/Logic.md",
