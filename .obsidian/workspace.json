@@ -142,7 +142,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,9 +217,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-24.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -232,7 +229,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "homepage:Open homepage": true,
       "obsidian-importer:Open Importer": true,
       "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": true,
@@ -247,7 +243,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36738e7493612682",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
     "01.Areas/0.DailyNote/2024-05-24.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
