@@ -148,7 +148,7 @@ $$
 $$
 
 **TRANSFORM TO CLAUSES:**
-+ Only the third premise is not in a clause form
++ Everything is in clause form 
 $$
 \begin{gather}
  \forall y \forall u \forall v \forall r \forall s \forall t
@@ -163,3 +163,15 @@ $$
  \end{cases}
 \end{gather} 
 $$
+
+4. Obtain and analyse the clauses:
+Clauses are: 
+
+C1: $(\lnot A(c, y) \lor (B(y, c) \lor C(y)))$
+C2: $(\lnot D(u, v) \lor \sim C(u))$
+C3: D(a,b)
+C4: A(r,s)
+C5: $[ \lnot B(a, t)]$
+
+**TRY TO ARRIVE INTO AN EMPTY CLAUSE:**
++ C1 - C4 : ·\lor (B(y, c) \lor C(y))

@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
+                "file": "02 - Atomic/20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
+                "file": "02 - Atomic/20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
+                "file": "02 - Atomic/20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf"
+                "file": "02 - Atomic/20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM.md"
               }
             }
           }
@@ -312,7 +312,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9fcf577a4c18cdc2",
+  "active": "36738e7493612682",
   "lastOpenFiles": [
     "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
