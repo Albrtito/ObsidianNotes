@@ -105,4 +105,20 @@ It is a conditional, then for it o be false we need:
 + $\exists y \forall x P(x,y)$ : **FALSE**
 + $\forall x\exists y P(x,y)$ : **TRUE**
 
-For a domain of D = {a} we can find: 
+For a domain of D = {a} we cannot find a counterexample: 
+![[Screenshot 2024-05-24 at 02.39.55.png]]
+However for domain D ={a,b} we find the following counterexample: 
+![[Screenshot 2024-05-24 at 02.40.28.png]]
+Then the formula is not valid.
+
+## 11. Verify the formula with refutation: 
+
+**Remember:** Refutation is obtained by uniting the premises and the conclusion with an and operator and negating the conclusion. 
+$$
+\exists x (P(x) \land Q(x)) \Rightarrow \exists x \lnot Q(x) \lor \forall x \lnot P(x)
+$$
+We obtain the following formula: 
+$$
+\exists x (P(x) \land Q(x)) \land \lnot[\exists x \lnot Q(x) \lor \forall x \lnot P(x)]
+$$
+We know that for this formula to be false, either of both tenses have to be false (and operator), we look for a counterexample in D = {a}
