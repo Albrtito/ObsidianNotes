@@ -182,3 +182,4 @@ C9 => C3 - C8 : $\emptyset$
 Reached an empty clause, then unsatisfiable formula, then **correct deduction**
 
 
+

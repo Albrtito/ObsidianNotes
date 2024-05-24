@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7bfcd11e1f662cea",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9fcf577a4c18cdc2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "050148f6e21413ba",
         "type": "tabs",
         "children": [
@@ -27,56 +11,28 @@
             "id": "273921f346608a1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "6bee2aba278f4ed7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/1.UC3M/Logic.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "36738e7493612682",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/1.UC3M/Logic.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1087055cabadd75b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,20 +71,35 @@
             }
           },
           {
-            "id": "3eb6aee7b78e3795",
+            "id": "4d9e8083eba3a4a2",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1087c22e61a64185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23ab2a729b7c2289",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 489.5041847229004,
-    "collapsed": true
+    "width": 489.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -139,43 +110,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ac2d010ad26804a",
+            "id": "1087055cabadd75b",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "19bec87b90240b33",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4d9e8083eba3a4a2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -185,17 +124,9 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "23ab2a729b7c2289",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f97aefa6b972e655",
@@ -207,7 +138,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,9 +213,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -312,12 +240,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1087055cabadd75b",
+  "active": "23ab2a729b7c2289",
   "lastOpenFiles": [
+    "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
+    "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
     "01.Areas/1.UC3M/Logic.md",
     "02 - Atomic/20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM.md",
-    "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
-    "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "02 - Atomic/20240524 - 033334 -.md",
     "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
     "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
