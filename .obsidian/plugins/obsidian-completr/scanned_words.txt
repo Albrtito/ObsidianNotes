@@ -4101,6 +4101,7 @@ devices
 details
 device
 diferencial
+div
 check
 classes
 cssclasses
@@ -14138,6 +14139,7 @@ WyI
 WnQ
 Wmn
 Who
+WebDev
 up
 usage
 under
@@ -29882,6 +29884,7 @@ rNb
 ring
 reliable
 refutation
+repeats
 here
 hour
 home
@@ -47143,6 +47146,12 @@ summarises
 specifications
 substitutions
 says
+selector
+selectors
+selects
+style
+select
+styling
 No
 NOTE
 Normalmente
@@ -50955,6 +50964,7 @@ packages
 pip
 piense
 palette
+purple
 UC
 UNIDADES
 Unidades
@@ -68460,6 +68470,7 @@ HXJ
 HmRV
 Hhe
 HmX
+HTML
 Journal
 January
 Jacobo
@@ -72308,6 +72319,8 @@ CLAUSE
 Conclusion
 CONDITIONALS
 CLAUSES
+CSS
+Classes
 your
 ya
 yo
@@ -76081,6 +76094,7 @@ SHIT
 Storage
 Store
 Scripts
+Selectors
 La
 Las
 Lanz

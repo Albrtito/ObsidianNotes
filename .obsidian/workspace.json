@@ -47,7 +47,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240524 - 184531 - CSS.md",
+                "file": "02 - Atomic/20240524 - 185631 - CSS Syntax.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "732ee1e925e38068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240524 - 190013 - HTML Classes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -55,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240524 - 184531 - CSS.md",
+                "file": "02 - Atomic/20240524 - 190013 - HTML Classes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240524 - 184531 - CSS.md"
+                "file": "02 - Atomic/20240524 - 190013 - HTML Classes.md"
               }
             }
           }
@@ -264,9 +277,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0712fc3ec9117fb0",
+  "active": "732ee1e925e38068",
   "lastOpenFiles": [
+    "02 - Atomic/20240524 - 185631 - CSS Syntax.md",
+    "02 - Atomic/20240524 - 190013 - HTML Classes.md",
     "02 - Atomic/20240524 - 184531 - CSS.md",
+    "02 - Atomic/20240524 - 185707 -.md",
     "02 - Atomic/20240524 - 184256 - Odin - Fundations Course.md",
     "02 - Atomic/20240524 - 184049 - The Odin Project.md",
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
@@ -299,9 +315,6 @@
     "02 - Atomic/Equivalence relations.md",
     "02 - Atomic/Definition 108 Properties of recurrence relations.md",
     "02 - Atomic/Binary Relations.md",
-    "02 - Atomic/Definition 107  Recurrence relation.md",
-    "02 - Atomic/Advance methods in combinatorics.md",
-    "02 - Atomic/20240521 - 032805 - Exercises - Integer and modular arithmetic.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.49.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.37.png",
     "00.References/Discrete_Theory_All.pdf",
