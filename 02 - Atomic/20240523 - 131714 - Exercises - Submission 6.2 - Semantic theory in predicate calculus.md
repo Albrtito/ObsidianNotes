@@ -78,4 +78,19 @@ For this formula, we prove a counterexample by proving that the conditional is f
 + $(\exists x A(x) \rightarrow \exists x B(x))$ : **TRUE**
 + $\forall x (A(x)\rightarrow B(x))$ : **FALSE**
 There are no free variables, for a domain for D = {a} we have:
+![[Screenshot 2024-05-24 at 02.15.19.png]]
+Which means that for a one element domain there is no possible counterexample: 
+For a domain D = {a,b}
+![[Screenshot 2024-05-24 at 02.18.58.png]]
+We find one counterexample hence the formula is not valid
 
+## 9: Verify the formula with counterexample: 
+$$
+(\exists xA(x)\land \exists x B(x)) \rightarrow \exists x (A(x)\land B(x))
+$$
+For the formula to be false, then find a counterexample, the conditional must be false. 
++ $\exists x (A(x)\land B(x))$ : **FALSE**
++ $(\exists xA(x)\land \exists x B(x))$: **TRUE**
+
+There are no free variables. 
+For a domain D = {a} we find that: 
