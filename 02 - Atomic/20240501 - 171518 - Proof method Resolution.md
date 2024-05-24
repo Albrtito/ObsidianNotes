@@ -43,7 +43,7 @@ is unsatisfiable.
 		+ If the same variable comes up in different clauses, despite of having the same name, they are different and they can be replaced with different terms
 		+ Every clause can be used as many times as necessary, using as many different replacements as necessary
 		+ Replacements affect the complete clause. Not specific predicates within a clause.
-		+ 
+	
 3. Getting an empty clause implies the existence of a contradiction. This means an unsatisfiable formula and therefore **correct deduction**
 4. If after exploring all the potential combinations we cannot get a contradiction. then we can conclude that F is satisfiable (the deduction is not correct)
 5. If the algorithm does not finish we cannot be sure that we have checked all possibilities, cannot conclude anything

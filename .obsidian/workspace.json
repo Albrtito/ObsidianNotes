@@ -24,8 +24,13 @@
             "id": "6bee2aba278f4ed7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -41,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
+                "file": "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
+                "file": "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
+                "file": "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md"
+                "file": "02 - Atomic/20240501 - 171518 - Proof method Resolution.md"
               }
             }
           }
@@ -277,8 +283,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "273921f346608a1a",
+  "active": "6bee2aba278f4ed7",
   "lastOpenFiles": [
+    "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.40.28.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.39.55.png",
@@ -314,7 +321,6 @@
     "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.49.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.37.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 14.23.57.png",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/Discrete_Theory_All.pdf",
     "00.References/Discreta_Exercises_All_Solved.pdf",
