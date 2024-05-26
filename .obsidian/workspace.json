@@ -173,7 +173,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240524 - 185631 - CSS Syntax.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,9 +248,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/20240524 - 185631 - CSS Syntax.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -277,10 +274,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0712fc3ec9117fb0",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
-    "02 - Atomic/20240524 - 190723 - HTML IDs.md",
     "02 - Atomic/20240524 - 185631 - CSS Syntax.md",
+    "02 - Atomic/20240524 - 190723 - HTML IDs.md",
     "02 - Atomic/20240524 - 190013 - HTML Classes.md",
     "02 - Atomic/20240524 - 184531 - CSS.md",
     "02 - Atomic/20240524 - 185707 -.md",
