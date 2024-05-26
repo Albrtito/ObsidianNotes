@@ -19,52 +19,32 @@
             "id": "6bee2aba278f4ed7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240524 - 184049 - The Odin Project.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "c6ffe106b0f5d85a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240524 - 184256 - Odin - Fundations Course.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "0712fc3ec9117fb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240524 - 185631 - CSS Syntax.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "732ee1e925e38068",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240524 - 190723 - HTML IDs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -116,6 +96,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "390667f24a2ea6b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -159,6 +147,33 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {}
+            }
+          },
+          {
+            "id": "099139f438b240fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2df8d68f844a7a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -274,7 +289,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1087055cabadd75b",
+  "active": "0712fc3ec9117fb0",
   "lastOpenFiles": [
     "02 - Atomic/20240524 - 185631 - CSS Syntax.md",
     "02 - Atomic/20240524 - 190723 - HTML IDs.md",
