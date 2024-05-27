@@ -241,7 +241,7 @@
                   "repelStrength": 13.341859845457,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 211,
-                  "scale": 0.5486565932607311,
+                  "scale": 0.20753572267272902,
                   "close": true
                 }
               }
@@ -286,7 +286,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7722a01080201872",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
     "00.References/DiffCalc_Theory_ODEs.pdf",
     "Differential Calculus.canvas",
