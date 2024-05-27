@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "050148f6e21413ba",
+        "id": "40a80fb98a8b5b19",
         "type": "tabs",
         "children": [
           {
-            "id": "732ee1e925e38068",
+            "id": "ef80e559936f173f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -127,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +156,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,9 +231,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -267,12 +257,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "732ee1e925e38068",
+  "active": "ef80e559936f173f",
   "lastOpenFiles": [
+    "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
     "02 - Atomic/20240429 - 111500 - Prime numbers.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
-    "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
     "02 - Atomic/20240524 - 185631 - CSS Syntax.md",
