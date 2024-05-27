@@ -4,9 +4,9 @@ tags:
   - review
   - Calc
 "References:":
-sr-due: 2024-05-21
-sr-interval: 49
-sr-ease: 270
+sr-due: 2024-06-22
+sr-interval: 26
+sr-ease: 250
 ---
 # Intro and definition: 
 A sequence is an application that assign to each natural number n a unique real number $a_n$ . 

@@ -7,9 +7,9 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
-sr-due: 2024-05-24
-sr-interval: 7
-sr-ease: 230
+sr-due: 2024-05-29
+sr-interval: 2
+sr-ease: 190
 ---
 # Partial differential equations: 
 ## Intro: 

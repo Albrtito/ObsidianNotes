@@ -2,26 +2,25 @@
 aliases:
   - Theorem - Solution of a non-homogeneous recurrence relation
 tags:
-  - review
   - Discrete
 "References:": 
 cssclasses:
-  - page-theorem
-sr-due: 2024-05-21
-sr-interval: 4
-sr-ease: 272
 ---
-A linear non-homogeneous recurrence relation is such as there are **no powers of any term greater than 1** and **the independent term is different from 0**. For this theorem we'll call the independent term $t_n$
-Of course for this course (#Discrete ) we'll always work with **constant coefficients**
+# Solution of a non-homogeneous recurrence relation: 
 
 A linear non-homogeneous recurrence relation is such as there are **no powers of any term greater than 1** and **the independent term is different from 0**. For this theorem we'll call the independent term $t_n$
 Of course for this course (#Discrete ) we'll always work with **constant coefficients**
 
-> [!theom] Theorem: 
+A linear non-homogeneous recurrence relation is such as there are **no powers of any term greater than 1** and **the independent term is different from 0**. For this theorem we'll call the independent term $t_n$
+Of course for this course (#Discrete ) we'll always work with **constant coefficients**
+
+ 
+> [!NOTE] Theorem:
+> Contents
 >  For a sequence $(a_n): n\in N$: Non homogeneous with constant coefficients: 
->$$
-> a_n = c_1 a_{n-1} + c_2 a_{n-2}+...c_k a_{n-k} + t_n: n>= k +1
->$$
+$$
+a_n = c_1 a_{n-1} + c_2 a_{n-2}+...c_k a_{n-k} + t_n: n>= k +1
+$$
 >**Conditions:**
 >+ k initial conditions are known
 >+ $t_n$ is a function  or n taking natural numbers and outputting real numbers
@@ -52,9 +51,9 @@ Of course for this course (#Discrete ) we'll always work with **constant coeffic
 >$$
 >
 >For each of this types of functions we'll make a guess of how the particular part should  look like. Generalising all three cases into a single guess we obtain: 
->$$
->a^p_n = s^n [p_0 + p_1n + ... + p_tn^t]
->$$
+$$
+a^p_n = s^n [p_0 + p_1n + ... + p_tn^t]
+$$
 >+ If t is a polynomial then the $s^n$ disappears 
 >+ If t is a power function then all what's inside the [] disappears
 >+ If t is a power function times a polynomial then this is the proper guess

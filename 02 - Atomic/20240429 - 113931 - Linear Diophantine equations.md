@@ -2,7 +2,7 @@
 aliases:
   - Linear Diophantine equations
 tags:
-  - review
+  - Discrete
 "References:": 
 cssclasses:
 ---

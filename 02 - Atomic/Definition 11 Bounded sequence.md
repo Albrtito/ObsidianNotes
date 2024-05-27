@@ -4,9 +4,9 @@ tags:
   - review
   - Calc
 "References:":
-sr-due: 2024-05-26
-sr-interval: 54
-sr-ease: 297
+sr-due: 2024-06-25
+sr-interval: 29
+sr-ease: 277
 ---
 
 > [!NOTE] Definition: 

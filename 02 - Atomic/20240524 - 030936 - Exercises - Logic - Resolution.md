@@ -2,8 +2,7 @@
 aliases:
   - Exercises - Logic - Resolution
   - Logic - Submission - 7.2
-tags:
-  - review
+tags: []
 "References:": 
 cssclasses:
 ---

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "file": "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "file": "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "file": "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+                "file": "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md"
+                "file": "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md"
               }
             }
           }
@@ -269,34 +269,34 @@
   },
   "active": "732ee1e925e38068",
   "lastOpenFiles": [
-    "02 - Atomic/20240501 - 123349 - White box testing.md",
+    "02 - Atomic/20240429 - 111500 - Prime numbers.md",
+    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+    "02 - Atomic/Objectives from March 23 to September 23.md",
+    "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
+    "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
+    "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
+    "02 - Atomic/20240524 - 185631 - CSS Syntax.md",
+    "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
+    "02 - Atomic/Definition 11 Bounded sequence.md",
+    "02 - Atomic/Definition 12 Sequence NOT BOUNDED from above or below.md",
+    "02 - Atomic/20240523 - 122919 - Propositional logic.md",
+    "02 - Atomic/Sequences of real numbers.md",
     "02 - Atomic/20240408 - 191229 - GF list.md",
+    "02 - Atomic/20240523 - 123037 - Assumptions.md",
+    "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
+    "02 - Atomic/Improper Integrals.md",
+    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+    "02 - Atomic/20240501 - 123349 - White box testing.md",
     "02 - Atomic/Sequences and series of real numbers.md",
     "02 - Atomic/20240423 - 100403 - Proper colorings.md",
-    "02 - Atomic/Definition 11 Bounded sequence.md",
     "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
-    "02 - Atomic/Objectives from March 23 to September 23.md",
-    "02 - Atomic/Improper Integrals.md",
-    "02 - Atomic/20240523 - 123037 - Assumptions.md",
     "01.Areas/0.DailyNote/2024-05-27.md",
-    "02 - Atomic/20240524 - 185631 - CSS Syntax.md",
     "02 - Atomic/20240524 - 190723 - HTML IDs.md",
     "02 - Atomic/20240524 - 190013 - HTML Classes.md",
     "02 - Atomic/20240524 - 184531 - CSS.md",
     "02 - Atomic/20240524 - 185707 -.md",
-    "02 - Atomic/20240524 - 184256 - Odin - Fundations Course.md",
-    "02 - Atomic/20240524 - 184049 - The Odin Project.md",
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
-    "01.Areas/2. Self/Untitled.md",
-    "01.Areas/0.DailyNote/2024-05-24.md",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
-    "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
-    "01.Areas/1.UC3M/Logic.md",
-    "02 - Atomic/20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM.md",
-    "02 - Atomic/20240524 - 033334 -.md",
-    "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
-    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
-    "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.40.28.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.39.55.png",

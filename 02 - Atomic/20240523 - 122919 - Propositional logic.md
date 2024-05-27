@@ -5,6 +5,9 @@ tags:
   - Logic
   - review
 "References:":
+sr-due: 2024-05-31
+sr-interval: 4
+sr-ease: 279
 ---
 # Propositional logic: 
 

@@ -4102,6 +4102,8 @@ details
 device
 diferencial
 div
+decreases
+disappears
 check
 classes
 cssclasses
@@ -12027,6 +12029,7 @@ ftj
 fijV
 fnQn
 forzarme
+full
 Woke
 Write
 Went
@@ -16150,6 +16153,7 @@ uncomfortable
 unsafe
 uniting
 unread
+unknown
 in
 is
 important
@@ -23896,6 +23900,7 @@ GHW
 GFFf
 Gauss
 Grouping
+Generalising
 Training
 Today
 Tomorrow
@@ -27846,6 +27851,7 @@ MLLd
 MPq
 Multiplicative
 Management
+Monotonicity
 reflections
 reels
 routine
@@ -33586,6 +33592,7 @@ BSh
 Bool
 BECAUSE
 Bytes
+Boundedness
 we
 would
 what
@@ -58819,6 +58826,7 @@ oCU
 oAq
 offers
 otras
+outputting
 References
 RRI
 RUTAS
@@ -60771,6 +60779,7 @@ Rgv
 Retrieval
 Readable
 Refutation
+Reached
 morning
 me
 mm
@@ -62883,6 +62892,7 @@ modern
 machines
 menes
 mierda
+misread
 YYYY
 YYYYMMDD
 YU
@@ -72332,6 +72342,7 @@ CSS
 Classes
 Chaining
 Chained
+Convergent
 your
 ya
 yo
@@ -81601,6 +81612,7 @@ vaH
 vMn
 vmH
 visited
+via
 que
 quieren
 quedo

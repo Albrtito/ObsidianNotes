@@ -4,9 +4,9 @@ tags:
   - review
   - DiffCalc
 "References:":
-sr-due: 2024-05-27
-sr-interval: 55
-sr-ease: 250
+sr-due: 2024-06-24
+sr-interval: 28
+sr-ease: 230
 ---
 
 > [!NOTE] Theorem
