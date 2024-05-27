@@ -6,20 +6,15 @@
       {
         "id": "40a80fb98a8b5b19",
         "type": "tabs",
-        "dimension": 57.76333789329685,
+        "dimension": 68.41078973025675,
         "children": [
           {
-            "id": "ef80e559936f173f",
+            "id": "03f33b4f75a925ed",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Differential Calculus.canvas",
-                "viewState": {
-                  "x": 564.3476119794476,
-                  "y": -960.4996699214647,
-                  "zoom": -0.9056803385416669
-                }
+                "file": "00.References/DiffCalc_Theory_ODEs.pdf"
               }
             }
           }
@@ -28,7 +23,7 @@
       {
         "id": "f603430db5fbc007",
         "type": "tabs",
-        "dimension": 42.23666210670315,
+        "dimension": 31.589210269743255,
         "children": [
           {
             "id": "7722a01080201872",
@@ -36,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240208 - 000000 - Diff Equations.md",
+                "file": "02 - Atomic/20240208 - 000000 - Definition - Diff Equations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5041847229004
+    "width": 489.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -151,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Calculus.canvas",
+                "file": "02 - Atomic/20240208 - 000000 - Definition - Diff Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Calculus.canvas",
+                "file": "02 - Atomic/20240208 - 000000 - Definition - Diff Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Differential Calculus.canvas",
+                "file": "02 - Atomic/20240208 - 000000 - Definition - Diff Equations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differential Calculus.canvas"
+                "file": "02 - Atomic/20240208 - 000000 - Definition - Diff Equations.md"
               }
             }
           }
@@ -290,11 +286,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ef80e559936f173f",
+  "active": "7722a01080201872",
   "lastOpenFiles": [
-    "02 - Atomic/DiffCalc_Theory_Ch 0_Intro.md",
+    "00.References/DiffCalc_Theory_ODEs.pdf",
     "Differential Calculus.canvas",
-    "02 - Atomic/20240208 - 000000 - Diff Equations.md",
+    "02 - Atomic/DiffCalc_Theory_Ch 0_Intro.md",
+    "02 - Atomic/20240208 - 000000 - Definition - Diff Equations.md",
     "01.Areas/1.UC3M/DiffCalc.md",
     "01.Areas/3.Matterhorn/Caleao 24.md",
     "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
@@ -318,7 +315,6 @@
     "02 - Atomic/Sequences and series of real numbers.md",
     "02 - Atomic/20240423 - 100403 - Proper colorings.md",
     "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
-    "01.Areas/0.DailyNote/2024-05-27.md",
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",
@@ -339,7 +335,6 @@
     "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
     "00.References/OS_Theory_Concurrent-Servers.pdf",
     "00.References/SoftwareDev_PracticeTheorySession 08.pdf",
-    "00.References/Calc_Theory_All.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/1.UC3M/Files and data bases.canvas",

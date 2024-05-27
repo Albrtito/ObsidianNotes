@@ -10,7 +10,17 @@ tags:
   - https://www.youtube.com/watch?v=p_di4Zn4wz4
 ---
 # Differential equations:
-## What are differential equations: 
+
+Differential equations are **relations between a function and its derivatives**
+f.e: 
+	The following differential equation states a relation between x(t) and its derivatives:
+	$$
+	x'' + 8x' + 7x = 0
+	$$
+	Where $x’’$ is the second derivative of x and $x’$ is the first derivative of x. 
+
+When **solving a differential equation** the **objective is to find the function that satisfies x.** 
++ The solution is a function
 
 
 Differential equations appear everywhere. The thing is that most of the times the equation cannot be solved or is too complex to solve. During the differential calculus course the focus is on finding solutions using **analytical methods**. 
