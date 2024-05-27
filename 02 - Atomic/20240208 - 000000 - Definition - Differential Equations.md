@@ -8,6 +8,10 @@ tags:
   - review
 "References:":
   - https://www.youtube.com/watch?v=p_di4Zn4wz4
+aliases:
+  - Definition - Differential Equations
+  - Differential Equations
+  - DE
 ---
 # Differential equations:
 
@@ -44,7 +48,7 @@ f.e:
 ## ODEs and PDEs
 When analysing a differential equation, the resulting function we find can be of two types: 
 Lets say that the function is f()
-1. IF the function **only depends on one independent variable**: $f(x)$. Then the differential equation is an **Ordinary Differential Equation** or [[ODEs]].
+1. IF the function **only depends on one independent variable**: $f(x)$. Then the differential equation is an **Ordinary Differential Equation** or [[20240307 - 000000 - ODEs|ODE]]
    And the derivatives of f(x) are **ordinary derivatives**
    
 2. IF the function **depends on more than one independent variable:** $f(x_1,x_2,...,x_n)$. 

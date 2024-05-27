@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240208 - 000000 - Definition - Diff Equations.md",
+                "file": "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240208 - 000000 - Definition - Diff Equations.md",
+                "file": "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240208 - 000000 - Definition - Diff Equations.md",
+                "file": "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240208 - 000000 - Definition - Diff Equations.md",
+                "file": "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240208 - 000000 - Definition - Diff Equations.md"
+                "file": "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md"
               }
             }
           }
@@ -288,8 +288,12 @@
   },
   "active": "7722a01080201872",
   "lastOpenFiles": [
+    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+    "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
+    "02 - Atomic/Differential Equations.md",
+    "02 - Atomic/Initial value problem.md",
+    "02 - Atomic/20240307 - 000000 - ODEs.md",
     "02 - Atomic/The essentials of two variable calculus.md",
-    "02 - Atomic/20240208 - 000000 - Definition - Diff Equations.md",
     "00.References/DiffCalc_Theory_ODEs.pdf",
     "Differential Calculus.canvas",
     "02 - Atomic/DiffCalc_Theory_Ch 0_Intro.md",
@@ -312,10 +316,6 @@
     "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
     "02 - Atomic/Improper Integrals.md",
     "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
-    "02 - Atomic/20240501 - 123349 - White box testing.md",
-    "02 - Atomic/Sequences and series of real numbers.md",
-    "02 - Atomic/20240423 - 100403 - Proper colorings.md",
-    "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",

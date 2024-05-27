@@ -15,8 +15,8 @@ During this course the main focus will be on solving differential equations of d
 ---
 
 ## Course Program: 
-1. [20240208 - 000000 - Definition - Diff Equations](20240208%20-%20000000%20-%20Definition%20-%20Diff%20Equations.md)
-2. [ODEs](../../02%20-%20Atomic/ODEs.md)
+1. [20240208 - 000000 - Definition - Differential Equations](20240208%20-%20000000%20-%20Definition%20-%20Differential%20Equations.md)
+2. [20240307 - 000000 - ODEs](20240307%20-%20000000%20-%20ODEs.md)
 5. [Systems of First-Order ODEs](../../02%20-%20Atomic/Systems%20of%20First-Order%20ODEs.md)
 6. [PDEs](../../02%20-%20Atomic/20240418%20-%20193416%20-%20Partial%20Differential%20Equations%20(PDEs).md)
 7. [[20240418 - 190338 - Fourier series|Fourier series]]
