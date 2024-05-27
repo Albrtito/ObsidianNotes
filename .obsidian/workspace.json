@@ -11,12 +11,14 @@
             "id": "ef80e559936f173f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01.Areas/1.UC3M/DiffCalc.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Differential Calculus.canvas",
+                "viewState": {
+                  "x": 467.4192391803274,
+                  "y": 478.86148808880466,
+                  "zoom": -1.500181070963542
+                }
               }
             }
           }
@@ -127,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/DiffCalc.md",
+                "file": "Differential Calculus.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,14 +146,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/DiffCalc.md",
+                "file": "Differential Calculus.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f97aefa6b972e655",
@@ -163,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/DiffCalc.md",
+                "file": "Differential Calculus.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/DiffCalc.md"
+                "file": "Differential Calculus.canvas"
               }
             }
           }
@@ -269,6 +270,8 @@
   },
   "active": "ef80e559936f173f",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/DiffCalc.md",
+    "Differential Calculus.canvas",
     "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
     "02 - Atomic/20240429 - 111500 - Prime numbers.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
@@ -293,8 +296,6 @@
     "01.Areas/0.DailyNote/2024-05-27.md",
     "02 - Atomic/20240524 - 190723 - HTML IDs.md",
     "02 - Atomic/20240524 - 190013 - HTML Classes.md",
-    "02 - Atomic/20240524 - 184531 - CSS.md",
-    "02 - Atomic/20240524 - 185707 -.md",
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",
