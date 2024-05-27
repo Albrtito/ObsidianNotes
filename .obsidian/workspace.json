@@ -4,41 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "40a80fb98a8b5b19",
+        "id": "9af070794635d90b",
         "type": "tabs",
-        "dimension": 68.41078973025675,
         "children": [
           {
-            "id": "03f33b4f75a925ed",
+            "id": "aa6f0fd2c1599c60",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/DiffCalc_Theory_ODEs.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "f603430db5fbc007",
-        "type": "tabs",
-        "dimension": 31.589210269743255,
-        "children": [
+          },
           {
-            "id": "7722a01080201872",
+            "id": "cc45c3e0ed7c0f32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3b520f1551c9ebf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0db8d60790ace0e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -67,12 +70,76 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#review",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11873d04252143b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "74476affe76ac5b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b81a69190cd8ecc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.00418853759766,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8881aa8c79e29157",
+    "type": "split",
+    "children": [
+      {
+        "id": "5997a5c0c99a8696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ac2d010ad26804a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19bec87b90240b33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -88,89 +155,15 @@
             }
           },
           {
-            "id": "390667f24a2ea6b5",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1087c22e61a64185",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "23ab2a729b7c2289",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 489.5041847229004,
-    "collapsed": true
-  },
-  "right": {
-    "id": "8881aa8c79e29157",
-    "type": "split",
-    "children": [
-      {
-        "id": "5997a5c0c99a8696",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1087055cabadd75b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "fea6a7bd9cb3093d",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "099139f438b240fc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d2df8d68f844a7a7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "f97aefa6b972e655",
@@ -182,66 +175,29 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#Calc  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "tag:#DiffCalc  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8537055
-                      }
-                    },
-                    {
-                      "query": "tag:#Logic  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11392604
-                      }
-                    },
-                    {
-                      "query": "tag:#Discrete  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    },
-                    {
-                      "query": "tag:#SoftwareDev  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084269
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 13.341859845457,
-                  "linkStrength": 0.76664002131628,
-                  "linkDistance": 211,
-                  "scale": 0.20753572267272902,
+                  "centerStrength": 0,
+                  "repelStrength": 17.3531310522918,
+                  "linkStrength": 0.595351839896708,
+                  "linkDistance": 374,
+                  "scale": 0.06542368901953775,
                   "close": true
                 }
               }
@@ -258,16 +214,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 741
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,10 +240,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7722a01080201872",
+  "active": "a3b520f1551c9ebf",
   "lastOpenFiles": [
-    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+    "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
+    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02 - Atomic/Differential Equations.md",
     "02 - Atomic/Initial value problem.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
@@ -315,7 +270,6 @@
     "02 - Atomic/20240523 - 123037 - Assumptions.md",
     "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
     "02 - Atomic/Improper Integrals.md",
-    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",
@@ -328,7 +282,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.06.58.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.49.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.37.png",
-    "00.References/Discrete_Theory_All.pdf",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
     "00.References/OS_Biblio_J.Carretero.pdf",
