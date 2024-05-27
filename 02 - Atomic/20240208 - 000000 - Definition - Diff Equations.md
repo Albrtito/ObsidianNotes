@@ -32,7 +32,14 @@ This family of solutions appears because of how constants are derived. We know t
 
 f.e: 
 	For this differential equation: 
-	
+	$$
+	x'' = 2t
+	$$
+	We find that all functions such as: 
+	$$
+	x(t) = \frac{t^3}{3} + c_1t + c_2
+	$$
+	Are solutions for the equation. For all possible values of c1 and c2.
 
 ## ODEs and PDEs
 When analysing a differential equation, the resulting function we find can be of two types: 
