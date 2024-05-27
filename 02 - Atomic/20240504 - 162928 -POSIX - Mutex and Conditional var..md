@@ -2,9 +2,9 @@
 aliases:
   - POSIX-Mutex and Conditional var.
 tags:
-  - review
+  - OS
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-05-26
 sr-interval: 9
 sr-ease: 250

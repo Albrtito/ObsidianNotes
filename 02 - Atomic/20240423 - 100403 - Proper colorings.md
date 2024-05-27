@@ -2,9 +2,9 @@
 aliases:
   - Proper colorings
 tags:
-  - review
+  - Discrete
 "References:": 
-cssclasses: []
+cssclasses: 
 sr-due: 2024-05-26
 sr-interval: 26
 sr-ease: 270

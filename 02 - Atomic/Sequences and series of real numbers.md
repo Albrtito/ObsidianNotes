@@ -5,9 +5,9 @@ tags:
   - Calc
 "References:":
   - "[Calc_Theory_All](../00.References/Calc_Theory_All.pdf)"
-sr-due: 2024-05-25
-sr-interval: 53
-sr-ease: 290
+sr-due: 2024-06-23
+sr-interval: 27
+sr-ease: 270
 ---
 This note explains two different concepts [Sequences of real numbers](Sequences%20of%20real%20numbers.md) and [Series of real numbers](Series%20of%20real%20numbers) that are related in in the following way: 
 

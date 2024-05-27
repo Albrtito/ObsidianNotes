@@ -47158,6 +47158,7 @@ selects
 style
 select
 styling
+simpler
 No
 NOTE
 Normalmente
@@ -76105,6 +76106,7 @@ Storage
 Store
 Scripts
 Selectors
+Supremum
 La
 Las
 Lanz
@@ -98459,6 +98461,7 @@ xOwyw
 xFt
 xho
 xists
+ximum
 XObject
 XR
 Xy

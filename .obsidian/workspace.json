@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-27.md",
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-27.md",
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,13 +144,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-27.md",
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f97aefa6b972e655",
@@ -162,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-27.md",
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-27.md"
+                "file": "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md"
               }
             }
           }
@@ -268,6 +269,15 @@
   },
   "active": "732ee1e925e38068",
   "lastOpenFiles": [
+    "02 - Atomic/20240501 - 123349 - White box testing.md",
+    "02 - Atomic/20240408 - 191229 - GF list.md",
+    "02 - Atomic/Sequences and series of real numbers.md",
+    "02 - Atomic/20240423 - 100403 - Proper colorings.md",
+    "02 - Atomic/Definition 11 Bounded sequence.md",
+    "02 - Atomic/20240504 - 162928 -POSIX - Mutex and Conditional var..md",
+    "02 - Atomic/Objectives from March 23 to September 23.md",
+    "02 - Atomic/Improper Integrals.md",
+    "02 - Atomic/20240523 - 123037 - Assumptions.md",
     "01.Areas/0.DailyNote/2024-05-27.md",
     "02 - Atomic/20240524 - 185631 - CSS Syntax.md",
     "02 - Atomic/20240524 - 190723 - HTML IDs.md",
@@ -287,7 +297,6 @@
     "02 - Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
     "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
-    "Home.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.40.28.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.39.55.png",
@@ -296,14 +305,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.18.58.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.15.19.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.06.58.png",
-    "02 - Atomic/Virtual Environment (venv).md",
-    "02 - Atomic/pip freeze.md",
-    "01.Areas/0.DailyNote/2024-03-15.md",
-    "02 - Atomic/Theorem 109 Solution of a homogeneous first-order recurrence relation.md",
-    "02 - Atomic/Recurrence relations.md",
-    "02 - Atomic/Modular arithmetic.md",
-    "02 - Atomic/Generalisation of linear homogeneous recurrence relations.md",
-    "02 - Atomic/Equivalence relations.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.49.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.37.png",
     "00.References/Discrete_Theory_All.pdf",
