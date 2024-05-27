@@ -8,47 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "273921f346608a1a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6bee2aba278f4ed7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c6ffe106b0f5d85a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0712fc3ec9117fb0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "732ee1e925e38068",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +238,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-27.md"
+              }
             }
           }
         ]
@@ -289,8 +266,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0712fc3ec9117fb0",
+  "active": "732ee1e925e38068",
   "lastOpenFiles": [
+    "01.Areas/0.DailyNote/2024-05-27.md",
     "02 - Atomic/20240524 - 185631 - CSS Syntax.md",
     "02 - Atomic/20240524 - 190723 - HTML IDs.md",
     "02 - Atomic/20240524 - 190013 - HTML Classes.md",
@@ -326,7 +304,6 @@
     "02 - Atomic/Modular arithmetic.md",
     "02 - Atomic/Generalisation of linear homogeneous recurrence relations.md",
     "02 - Atomic/Equivalence relations.md",
-    "02 - Atomic/Definition 108 Properties of recurrence relations.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.49.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-23 at 17.36.37.png",
     "00.References/Discrete_Theory_All.pdf",
