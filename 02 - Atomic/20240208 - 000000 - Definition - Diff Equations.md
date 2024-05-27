@@ -21,6 +21,19 @@ f.e:
 
 When **solving a differential equation** the **objective is to find the function that satisfies the equation.** 
 + The solution is a function
+
+Solving differential equations can be hard or impossible. However it is really **simple to check whether a solution is right** as it only requires to substitute the values in the initial equation. 
+
+## Family of solutions:
+
+The solution to Differential Equations is usually not only one function but a **family of functions**, all valid as solutions. 
+
+This family of solutions appears because of how constants are derived. We know that any constant is always derived to 0. Then the value of that constant does not matter for the derivative. However it matters when differencing between functions. 
+
+f.e: 
+	For this differential equation: 
+	
+
 ## ODEs and PDEs
 When analysing a differential equation, the resulting function we find can be of two types: 
 Lets say that the function is f()
@@ -30,15 +43,17 @@ Lets say that the function is f()
 2. IF the function **depends on more than one independent variable:** $f(x_1,x_2,...,x_n)$. 
    Then the differential equation is a **Partial Differential Equation** or [[20240418 - 193416 - Partial Differential Equations (PDEs)|PDEs]]
    The derivatives of $f(x_1,x_2,…,x_n)$ are partial derivatives. 
-   
+## Notation: 
+
++ **DE** → Differential equation
++ **ODE** → Ordinary differential Equation
++ **PDE** → Partial differential equation
++ **IVP** → Initial Value Problem
++ **IC** → Initial Conditions
+
 ## Properties:
 
-Differential equations appear everywhere. The thing is that most of the times the equation cannot be solved or is too complex to solve. During the differential calculus course the focus is on finding solutions using **analytical methods**. 
-The diff equations that can be solved analytical are few, in most of the cases **numeric methods** are used with the help of some computing power.
++ **ORDER OF A D.E.** 
+  The order of a differential equation is the order of the **largest derivative appearing in the equation.** 
 
-+ Appear when it's **easier to describe change than absolute amounts**
-+ There are two types of diffEquations. [ODEs](ODEs.md) (Ordinary differential equations) and [PDEs](PDEs) (Partial differential equations)
-+ It is important to do a quick notice to [The essentials of two variable calculus](The%20essentials%20of%20two%20variable%20calculus.md)
-
-### Some tips for solving all Diff Equations: 
-+ **When <font color="#c00000">dividing by anything check for extra solutions</font> in the cases that were created in the division**
++ 
