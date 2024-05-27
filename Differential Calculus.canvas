@@ -1,10 +1,9 @@
 {
 	"nodes":[
 		{"id":"fa3316f9c5293b8a","x":-660,"y":-940,"width":825,"height":1340,"type":"file","file":"01.Areas/1.UC3M/DiffCalc.md"},
-		{"id":"9e1046ac04dda7e4","x":560,"y":-1880,"width":931,"height":1056,"type":"text","text":"# INTRO TO DIFF EQUATIONS:\n\n"},
-		{"id":"21a172cb9b4ccbae","x":-660,"y":560,"width":900,"height":1308,"type":"text","text":"# MIT: Differential equations"}
+		{"id":"b523a681a6182337","x":-660,"y":-2560,"width":1223,"height":1430,"type":"link","url":"https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/"},
+		{"id":"7ad42c4fbeeb6b01","x":680,"y":-2560,"width":1158,"height":1430,"type":"link","url":"https://ocw.mit.edu/courses/18-152-introduction-to-partial-differential-equations-fall-2011/pages/lecture-notes/"},
+		{"id":"8a9c14ae226e958c","x":680,"y":-1060,"width":1158,"height":1180,"type":"link","url":"https://ocw.mit.edu/courses/18-303-linear-partial-differential-equations-fall-2006/pages/lecture-notes/"}
 	],
-	"edges":[
-		{"id":"954278728dbf2d01","fromNode":"fa3316f9c5293b8a","fromSide":"right","toNode":"9e1046ac04dda7e4","toSide":"left"}
-	]
+	"edges":[]
 }
