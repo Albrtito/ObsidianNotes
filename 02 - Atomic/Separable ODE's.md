@@ -5,13 +5,6 @@ References: [Integration tips&tricks](Integration%20tips&tricks.md)
 ---
 
 # Order 1 Separable ODE's
-Separable ODE's are of the form: 
-$$
-M(x) + N(y) \frac{dy}{dx} = 0
-
-$$
-+ M(x) is a function in x: Only x as the unknown
-+ N(y) is a function in y: Only y as the unknown
 
 The difficult part for solving these equations is to integrate and restructure the equation so that the terms are separated. 
 
@@ -40,5 +33,3 @@ $$
 \int (\frac{d}{dx} [H_1(x) + H_2(y) ]) = H_1(x) + H_2(y) = 0
 
 $$
-### Examples: 
-Here are some examples while writing in VIM. 
