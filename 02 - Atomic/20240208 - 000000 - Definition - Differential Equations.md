@@ -67,6 +67,8 @@ Lets say that the function is f()
 
 + **ORDER OF A D.E.** 
   The order of a differential equation is the order of the **largest derivative appearing in the equation.** 
+  + **LINEARITY OF A D.E**: 
+	Describes the degree of the dependent variable (usually y). Namely: If y is not degree 1, then it's not linear
 
 
 ## Solving methods: 

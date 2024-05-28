@@ -47417,6 +47417,8 @@ suelto
 sensaci
 separable
 signs
+solvable
+similarity
 No
 NOTE
 Normalmente
@@ -57314,6 +57316,8 @@ aparezca
 abajo
 antiderivatives
 account
+analytic
+approximate
 of
 otro
 opciones
@@ -63258,6 +63262,7 @@ myQ
 mdUJ
 mOJ
 mental
+mention
 YYYY
 YYYYMMDD
 YU
