@@ -61,6 +61,16 @@ Because we know the value of $e^{g(x)}$ already we have obtained the particular 
 
  3. The final **general solution is given based on the principle of superposition** (sum of both homogeneous and particular parts)
 **Note:**
- + The homogeneous equation is multiplied by a constant that will appear from integration of g(x).  
+ + The homogeneous equation is multiplied by a constant (A) that will appear from integration of g(x). (it’ll be some e to some constant) 
 $$
-u(x) = A
+u(x) = u_h + u_p
+$$
+$$
+u(x) = Ae^{g(x)} + e^{-g(x)}\int^x e^{g(x)}\frac{F(x) }{a_1(x)}
+$$
+
+**Remark:**
++ The value: $e^{g(x)}\over a_1(x)$ is called **integrating factor** because it reduces the non-homogeneous part in order to solve by direct integration. #Duda : Same as last one in this same document. 
++ This solution is also true for an ODE of n-th order 
+
+## Solved examples: 
