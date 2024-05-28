@@ -8,27 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa6f0fd2c1599c60",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cc45c3e0ed7c0f32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-27.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a3b520f1551c9ebf",
             "type": "leaf",
             "state": {
@@ -45,7 +24,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -127,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +158,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-27.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,9 +197,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-27.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -250,8 +223,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cc45c3e0ed7c0f32",
+  "active": "a3b520f1551c9ebf",
   "lastOpenFiles": [
+    "01.Areas/0.DailyNote/2024-05-28.md",
+    "01.Areas/0.DailyNote/2024-05-27.md",
     "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
     "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
@@ -279,7 +254,6 @@
     "02 - Atomic/20240408 - 191229 - GF list.md",
     "02 - Atomic/20240523 - 123037 - Assumptions.md",
     "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
-    "02 - Atomic/Improper Integrals.md",
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",
