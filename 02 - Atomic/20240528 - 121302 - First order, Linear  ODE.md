@@ -28,11 +28,19 @@ $$
 ### General solution: 
 
 1. First, solve the homogeneous equation (without F(x)). This solution is: 
-   $$
-   u_h(x) = e^{-g(x)}
-   $$
-   Where g(x) is equal to: 
-   $$
-   g(x) = \int^{}_{x}\frac{a_0(t)}{a_1(t)}dt
-   $$
+$$
+\begin{gather}
+a_1\frac{du}{dx} + a_0 u = 0\\
+\frac{du}{dx} = -\frac{a_0u}{a_1}\\
+\frac{du}{u} = \frac{a_0dx}{a1}\\
+\int \frac{1}{u} du = \int \frac{a_0}{a1} dx\\
+\ln
+\end{gather}
+$$
+u_h(x) = e^{-g(x)}
+$$
+Where g(x) is equal to: 
+$$
+g(x) = \int^{}_{x}\frac{a_0(t)}{a_1(t)}dt
+$$
    
