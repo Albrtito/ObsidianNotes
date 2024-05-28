@@ -67,4 +67,11 @@ Lets say that the function is f()
 + **ORDER OF A D.E.** 
   The order of a differential equation is the order of the **largest derivative appearing in the equation.** 
 
-+ 
+
+## Solving methods: 
+
+There exist a lot of types of DEs for which we can apply **analytic methods** in order to obtain their solutions. 
+
+However most of the DEs are not solvable using these methods. In most of the cases, solvable DEs are lineal.
+
+When we cannot use analytic methods, the best chance is to approach the DE looking for a **similar** equation that we do know how to solve. Then 
