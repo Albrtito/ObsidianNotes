@@ -32,15 +32,21 @@ $$
 \begin{gather}
 a_1\frac{du}{dx} + a_0 u = 0\\
 \frac{du}{dx} = -\frac{a_0u}{a_1}\\
-\frac{du}{u} = \frac{a_0dx}{a1}\\
-\int \frac{1}{u} du = \int \frac{a_0}{a1} dx\\
-\ln
+\frac{du}{u} = -\frac{a_0dx}{a1}\\
+\int \frac{1}{u} du = \int -\frac{a_0}{a1} dx\\
+\ln|u| = \int -\frac{a_o}{a_1}dx\\
+\boxed{u_h = e^{-\frac{a_o}{a_1}dx}}
 \end{gather}
 $$
-u_h(x) = e^{-g(x)}
-$$
-Where g(x) is equal to: 
+
+We simplify calling g(x) to:
+
 $$
 g(x) = \int^{}_{x}\frac{a_0(t)}{a_1(t)}dt
 $$
-   
+ 2. We can create a relation between this new solution we have found for the homogeneous and F(x) #Duda WHAT?
+$$
+\left[e^{g(x)} u\right]^{\prime}=\frac{F(x) e^{g(x)}}{a_1(x)}
+$$
+
+ 1. 
