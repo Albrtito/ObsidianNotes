@@ -7,7 +7,7 @@ tags:
 "References:": 
 cssclasses:
 ---
-# Separable equations: 
+# Separable differential equations: 
 
 > [!NOTE] Definition:  
 > An equation is **separable** when we can use algebra to separate the two variables so that each is **completely on one side of the equation**

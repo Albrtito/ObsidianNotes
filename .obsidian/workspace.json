@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/DiffCalc.md",
+                "file": "02 - Atomic/20240307 - 000000 - ODEs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240528 - 104744 - Definition - Separable DiffEq.md",
+                "file": "02 - Atomic/20240307 - 000000 - ODEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240528 - 104744 - Definition - Separable DiffEq.md",
+                "file": "02 - Atomic/20240307 - 000000 - ODEs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240528 - 104744 - Definition - Separable DiffEq.md",
+                "file": "02 - Atomic/20240307 - 000000 - ODEs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240528 - 104744 - Definition - Separable DiffEq.md"
+                "file": "02 - Atomic/20240307 - 000000 - ODEs.md"
               }
             }
           }
@@ -253,15 +252,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bd07f1c560e854f8",
+  "active": "a3b520f1551c9ebf",
   "lastOpenFiles": [
     "02 - Atomic/20240528 - 104744 - Definition - Separable DiffEq.md",
+    "02 - Atomic/20240307 - 000000 - ODEs.md",
+    "01.Areas/1.UC3M/DiffCalc.md",
     "02 - Atomic/20240418 - 193802 - Method - Separation of variables.md",
     "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
-    "01.Areas/1.UC3M/DiffCalc.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
     "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
-    "02 - Atomic/20240307 - 000000 - ODEs.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "01.Areas/0.DailyNote/2024-05-28.md",
     "01.Areas/0.DailyNote/2024-05-27.md",
