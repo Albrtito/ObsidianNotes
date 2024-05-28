@@ -19,8 +19,13 @@
             "id": "cc45c3e0ed7c0f32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -40,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -122,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-27.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +222,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01.Areas/0.DailyNote/2024-05-27.md"
+              }
             }
           }
         ]
@@ -240,7 +250,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a3b520f1551c9ebf",
+  "active": "cc45c3e0ed7c0f32",
   "lastOpenFiles": [
     "00.References/Discrete_Theory_All.pdf",
     "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
