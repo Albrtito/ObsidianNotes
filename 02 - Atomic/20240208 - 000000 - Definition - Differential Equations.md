@@ -8,6 +8,7 @@ tags:
   - review
 "References:":
   - https://www.youtube.com/watch?v=p_di4Zn4wz4
+  - https://ocw.uc3m.es/pluginfile.php/3662/mod_page/content/20/tema-1.pdf
 aliases:
   - Definition - Differential Equations
   - Differential Equations
@@ -74,4 +75,6 @@ There exist a lot of types of DEs for which we can apply **analytic methods** in
 
 However most of the DEs are not solvable using these methods. In most of the cases, solvable DEs are lineal.
 
-When we cannot use analytic methods, the best chance is to approach the DE looking for a **similar** equation that we do know how to solve. Then 
+When we cannot use analytic methods, the best chance is to approach the DE looking for a **similar** equation that we do know how to solve. Then use this similarity to obtain **approximate solutions** using **numeric methods**. 
+
+For the **UC3M DiffCalc course** we’ll be learning analytic methods with a quick mention to the numeric ones at the end of the course. 

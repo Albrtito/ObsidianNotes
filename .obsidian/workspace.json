@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0798c05747bb8eb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -238,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md"
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md"
               }
             }
           }
@@ -266,12 +279,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ba04517fd93fe66d",
+  "active": "0798c05747bb8eb0",
   "lastOpenFiles": [
-    "02 - Atomic/20240418 - 193802 - Method - Separation of variables.md",
-    "02 - Atomic/20240307 - 000000 - ODEs.md",
-    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
+    "02 - Atomic/Linear ODE's.md",
+    "02 - Atomic/20240307 - 000000 - ODEs.md",
+    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+    "02 - Atomic/20240418 - 193802 - Method - Separation of variables.md",
+    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
     "02 - Atomic/Separable ODE's.md",
     "01.Areas/1.UC3M/DiffCalc.md",
@@ -282,7 +298,6 @@
     "01.Areas/0.DailyNote/2024-05-28.md",
     "01.Areas/0.DailyNote/2024-05-27.md",
     "00.References/Discrete_Theory_All.pdf",
-    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02 - Atomic/Differential Equations.md",
     "02 - Atomic/Initial value problem.md",
     "02 - Atomic/The essentials of two variable calculus.md",
@@ -295,8 +310,6 @@
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
     "02 - Atomic/20240524 - 185631 - CSS Syntax.md",
-    "02 - Atomic/20240429 - 113931 - Linear Diophantine equations.md",
-    "02 - Atomic/Definition 11 Bounded sequence.md",
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",
