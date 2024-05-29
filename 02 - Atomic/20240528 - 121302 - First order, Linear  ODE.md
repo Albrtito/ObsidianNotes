@@ -83,6 +83,9 @@ u' + xu = xe^{x^2}
 $$
 + With u(0) = 1 as Initial condition
 Then: 
+
+**USING THE METHOD EXPLAINED BEFORE:**
+
 **Homogeneous part:**
 $$
 \begin{gather}
@@ -109,9 +112,26 @@ u_p = e^{x^2\over 2}\int x e^{3x^2\over 2}
 $$
 Applying integration by parts and u-substitution.
 $$
-u_p = \frac{1}{3} e^\frac{3x^2}{2} + C = \frac{1}{3} e^\frac{x^2}{2} \cdot e^{x^2} + C
+u_p = \frac{1}{3} e^\frac{3x^2}{2} + C_2 = \frac{1}{3} e^\frac{x^2}{2} \cdot e^{x^2} + C_2
 $$
-We obtain a final solution: 
+We obtain a final solution: #Duda : Error in simplification or how?
 $$
-C_1e^{\frac{-x^2}{2}} + \frac{1}{3} e^\frac{3x^2}{2} = u
+\begin{gather}
+C_1e^{\frac{-x^2}{2}} + \frac{1}{3} e^\frac{3x^2}{2} + C_2 = u\\
+C_1 e^{\frac{-x^2}{2}} + \frac{1}{3} e^\frac{x^2}{2} \cdot e^{x^2} + C_2 = u \\
+\end{gather}
+$$
+
+**USING THE METHO PROPOSED IN THE EXAMPLE:**
+Once we know that the integrating factor will be $e^{\frac{-x^2}{2}}$ we can directly apply: 
+
+#Duda Why is this directly giving us a solution?
+
+$$
+[e^{\frac{-x^2}{2}} u]'  = xe^{3x^2/2}
+$$
+$$
+\begin{gather}
+e^{\frac{-x^2}{2}} u = 
+\end{gather}
 $$

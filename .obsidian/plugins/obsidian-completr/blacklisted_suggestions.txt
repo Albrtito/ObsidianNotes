@@ -44,3 +44,8 @@ consejo
 consigo
 consume
 front-matter
+method
+explained
+Explained
+Method
+proposed
