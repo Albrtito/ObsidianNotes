@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240307 - 000000 - ODEs.md",
+                "file": "01.Areas/1.UC3M/DiffCalc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Homogeneous ODE's.md",
+                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,6 +81,7 @@
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -194,11 +195,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240307 - 000000 - ODEs.md",
+                "file": "01.Areas/1.UC3M/DiffCalc.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -232,7 +233,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.09616595895994323,
+                  "scale": 0.08002216752273991,
                   "close": true
                 }
               }
@@ -250,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240307 - 000000 - ODEs.md"
+                "file": "01.Areas/1.UC3M/DiffCalc.md"
               }
             }
           }
@@ -277,16 +278,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ba04517fd93fe66d",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
-    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-    "02 - Atomic/Homogeneous ODE's.md",
-    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
-    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
-    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
     "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
+    "02 - Atomic/Homogeneous ODE's.md",
+    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/Exact ODE's.md",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
     "02 - Atomic/20240529 - 165329 -.md",

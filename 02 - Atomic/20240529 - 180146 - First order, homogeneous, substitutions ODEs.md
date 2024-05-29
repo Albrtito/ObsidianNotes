@@ -1,6 +1,7 @@
 ---
 aliases:
   - First order, homogeneous, substitutions ODEs
+  - Homogeneous, substitutions ODEs
 tags:
   - review
   - DiffCalc
