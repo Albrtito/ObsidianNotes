@@ -73,6 +73,7 @@ u(x) = Ae^{g(x)} + e^{-g(x)}\int^x e^{g(x)}\frac{F(x) }{a_1(x)}
 $$
 
 **Remark:**
++ For the non-homogeneous part, the integral will need to be usually done applying [[20240529 - 132751 - Method -Integration by parts|Integration by parts]]
 + The value: $e^{g(x)}\over a_1(x)$ is called **integrating factor** because it reduces the non-homogeneous part in order to solve by direct integration. #Duda : Same as last one in this same document. 
 + This solution is also true for an ODE of n-th order 
 
@@ -106,3 +107,4 @@ $$
 $$
 u_p = e^{x^2\over 2}\int x e^{3x^2\over 2}
 $$
+Applying [[20240529 - 132751 - Method -Integration by parts|Integration by parts]] to solve:

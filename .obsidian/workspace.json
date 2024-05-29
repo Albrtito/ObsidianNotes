@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "0798c05747bb8eb0",
+            "id": "f5a4fd501661e499",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -157,32 +157,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ac2d010ad26804a",
+            "id": "0798c05747bb8eb0",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "19bec87b90240b33",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -204,8 +183,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "f97aefa6b972e655",
@@ -217,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md"
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md"
               }
             }
           }
@@ -285,11 +263,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0798c05747bb8eb0",
+  "active": "b4647a9c500d6265",
   "lastOpenFiles": [
-    "02 - Atomic/20240529 - 132751 -.md",
     "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+    "02 - Atomic/20240529 - 132751 -.md",
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
     "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
