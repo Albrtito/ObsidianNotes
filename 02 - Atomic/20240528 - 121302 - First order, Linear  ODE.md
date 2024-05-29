@@ -128,20 +128,25 @@ We obtain a final solution:
 $$
 \begin{gather}
 C_1e^{\frac{-x^2}{2}} + \frac{1}{3}e^{x^2} + C_2 = u_p= u\\
-C_1 e^{\frac{-x^2}{2}} + \frac{1}{3} e^\frac{x^2}{2} \cdot e^{x^2} + C_2 = u \\
+C_3 e^{\frac{-x^2}{2}} + \frac{1}{3}e^{x^2} = u \\
 \end{gather}
 $$
++ C3 appears from the union of the other two constants.
 
-**USING THE METHO PROPOSED IN THE EXAMPLE:**
-Once we know that the integrating factor will be $e^{\frac{-x^2}{2}}$ we can directly apply: 
+**Initial value problem:** 
+Use the initial value of u: u(0) = 1. To obtain C3
 
-#Duda Why is this directly giving us a solution?
-
-$$
-[e^{\frac{-x^2}{2}} u]'  = xe^{3x^2/2}
-$$
 $$
 \begin{gather}
-e^{\frac{-x^2}{2}} u = 
+u(0) = C_3 + 1/3 = 1\\
+C_3 = 1 - 1/3 = 2/3
+\end{gather}
+$$
+Then we get the final solution for the DE with the given initial conditions: 
+
+$$
+\begin{gather}
+\frac{2}{3}  e^{\frac{-x^2}{2}} + \frac{1}{3}e^{x^2} = u \\
+\boxed{\frac{1}{3}[2e^{\frac{-x^2}{2}} + e^{x^2}] = u} \\
 \end{gather}
 $$
