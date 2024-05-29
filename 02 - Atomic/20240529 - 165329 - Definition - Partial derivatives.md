@@ -9,15 +9,44 @@ tags:
 cssclasses:
 ---
 # Partial derivatives
-For computing the partial derivatives of a function, we choose the variable we'll perform the derivative to and assume that any other variables are constants in the function. 
+In single variable calculus the derivative is defined as the rate of change in the function for changes in the independent variable: 
+$$
+df\over dx
+$$
+This same expression could also be applied to multi-variable functions, for example, for the function: 
+$$
+f(x,y)
+$$
+If we compute: 
+$$
+df\over dx
+$$
+We are studying the changes in f for variations in x. However we are not taking into account changes in y, another independent variable introduced. We could see that the changes in f for variations in y are given by the following expression: 
+$$
+df\over dy
+$$
+However this same thing happens, now we do not take into account changes in x.
+
+In order to represent both changes we use the partial derivatives.
+This derivatives have the same meaning that the ordinary ones, however use different symbolisation:
+
+This would be the partial derivative of f with respect to x: The result would be the same as the derivative of f wrt to x. However with this notation we know that f is a multivariable function.
 $$
 \delta f\over \delta x
 $$
-This represents the partial derivative of function f over the variable x. The function of **could be such**
-$$
-f(x,y,z)
-$$
+
+> [!NOTE] Definition:
+> For the function: 
+> $$
+> f(x_1,x_2,x_3,...,x_n)
+> $$
+> It’s partial derivatives are: 
+> $$
+>  
+
+
 ### Example: 
+Given a function f with two independent variables:
 $$
 f(x,y) = 2x^2 + 3y^4x 
 $$

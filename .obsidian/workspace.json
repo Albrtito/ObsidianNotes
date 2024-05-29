@@ -81,6 +81,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -194,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md"
+                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md"
               }
             }
           }
@@ -277,10 +278,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a3b520f1551c9ebf",
+  "active": "bd07f1c560e854f8",
   "lastOpenFiles": [
-    "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+    "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
     "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
     "02 - Atomic/20240529 - 165329 -.md",
     "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
