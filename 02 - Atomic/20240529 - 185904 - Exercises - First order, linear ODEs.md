@@ -45,9 +45,17 @@ $$
 + Integration by parts is done twice
 + Careful when integrating by parts between the - signs and what is multiplying what when doing one inside of another. 
 
+
 ## 2. $y’ + \frac{y}{x} = x^2 -1$ , with x > 0
 **Homogeneous:** $u_h = Ce^{-\ln x} = {C\over x}$ 
-**Particular:** $u_p = e^{-\ln x}\int e^{\ln x}(x^2 -1) = e^{-\ln x}\int (x^3 -1)$
+**Particular:** $u_p = e^{-\ln x}\int e^{\ln x}(x^2 -1) = e^{-\ln x}\int (x^3 -x)$
 **Final solution:** 
+$$
+u(x) = \frac{C}{x} + \frac{x^3}{4} + \frac{-x}{2}
+$$
+**Notes:**
++ Remember: $e^{\ln x} = x$
 
+
+## 3. $y’ + y\cos (x) = \sin (x) \cos (x)$
 
