@@ -45,15 +45,47 @@ $$
 
 + Chosen the first one (partial derivative over x) (the one with M)
 $$
-f(x,u) = g(x) + \int [M(x,u)] 
+f(x,u) = g(u) + \int [M(x,u)] dx
 $$
 + Chosen the second one (partial derivative over u)(one with N)
 $$
-f(x,u) = g(x) + \int [N(x,u)] 
+f(x,u) = g(x) + \int [N(x,u)] du
 $$
 Where g(x) is the **integration constant**
 
 2. From this last step we’ll obtain some expression from f(x,u), this expression can be now derived by the other variable (the one not chosen in the first step)
-Both options in order based on the las 
-+ 
+
+Both options in order based on the las step:
+
++ Now derive partially over u. Knowing that it has to be equal to N
+$$
+\begin{gather}
+\frac{\partial f}{\partial u} = \frac{g(u) + \int [M(x,u)]dx }{\partial u}\\
+\frac{\partial f}{\partial u} =  g(u)' + {\int [M(x,u)]dx\over \partial u} = N
+\end{gather}
+$$
+Then we can get the value of g(u)
+$$
+g(u)' = N - {\int [M(x,u)]dx\over \partial u}
+$$
+$$
+g(u) = \int g(u) du 
+$$
+Finally this value is inputted in f(x,u) to obtain the complete form of the function.
+
++ Now derive partially over x Knowing that it has to be equal to M
+
+$$
+\begin{gather}
+\frac{\partial f}{\partial x} = \frac{g(u) + \int [M(x,u)]dx }{\partial u}\\
+\frac{\partial f}{\partial u} =  g(u)' + {\int [M(x,u)]dx\over \partial u} = N
+\end{gather}
+$$
+Then we can get the value of g(u)
+$$
+g(u)' = N - {\int [M(x,u)]dx\over \partial u}
+$$
+$$
+g(u) = \int g(u) du 
+$$
 
