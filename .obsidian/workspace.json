@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
+                "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
+                "file": "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md"
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md"
               }
             }
           }
@@ -285,16 +285,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bd07f1c560e854f8",
+  "active": "0798c05747bb8eb0",
   "lastOpenFiles": [
+    "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
+    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
+    "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
+    "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
-    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
-    "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-    "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
     "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
-    "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
     "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
