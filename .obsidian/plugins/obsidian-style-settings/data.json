@@ -11,5 +11,6 @@
   "sanctum@@tag-background@@light": "#3D8545",
   "sanctum@@tag-color@@light": "#FFFFFF",
   "sanctum@@link-style": "italic",
-  "sanctum@@hide-vault-title": true
+  "sanctum@@hide-vault-title": true,
+  "sanctum@@wrap-nav-titles": true
 }

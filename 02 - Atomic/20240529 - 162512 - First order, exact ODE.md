@@ -34,5 +34,26 @@ f(x,u(x)) = c
 $$
 This means that in order to find the solution we need to **find f(x,u(x))**
 
-To find f we use [[20240529 - 165329 - Definition - Partial derivatives]]: 
-1. 
+To find f we use [[20240529 - 165329 - Definition - Partial derivatives|Partial derivatives]] based on the following equalities: 
+$$
+\frac{\partial f(x,u)}{\partial x} = M(x,u)
+$$
+$$
+\frac{\partial f(x,u)}{\partial u} = N(x,u)
+$$
+1. Choose one of the two equalities stated above. Use it to compute part of f(x)
+
++ Chosen the first one (partial derivative over x) (the one with M)
+$$
+f(x,u) = g(x) + \int [M(x,u)] 
+$$
++ Chosen the second one (partial derivative over u)(one with N)
+$$
+f(x,u) = g(x) + \int [N(x,u)] 
+$$
+Where g(x) is the **integration constant**
+
+2. From this last step we’ll obtain some expression from f(x,u), this expression can be now derived by the other variable (the one not chosen in the first step)
+Both options in order based on the las 
++ 
+
