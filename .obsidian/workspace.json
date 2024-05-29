@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md"
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md"
               }
             }
           }
@@ -251,10 +251,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a3b520f1551c9ebf",
+  "active": "ba04517fd93fe66d",
   "lastOpenFiles": [
-    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "01.Areas/1.UC3M/DiffCalc.md",
     "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
