@@ -13,7 +13,7 @@ sr-ease: 130
 # The heat conduction equation
 ## Description of the model used in DiffCalc UC3M course:
 We’ll take as a model a cylindrical solid bar of some homogeneous material. This bar is insulated such as the only possibility for the bar to exchange heat is at the ends. 
-
+ 
 Let’s first make some **assumptions** to simplify the problem: 
 + Dimensions of each cross-section (cut with the plane z-y) of the bar are smaller compared with L. This means
 	+ Temperature will be constant on such sections
