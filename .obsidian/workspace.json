@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +81,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -263,18 +262,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b4647a9c500d6265",
+  "active": "a3b520f1551c9ebf",
   "lastOpenFiles": [
+    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
+    "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
     "02 - Atomic/20240529 - 135228 -.md",
     "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
-    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240529 - 132751 -.md",
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
-    "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
     "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
-    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
     "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",

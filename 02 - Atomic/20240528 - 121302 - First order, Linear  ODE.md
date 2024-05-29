@@ -38,14 +38,19 @@ a_1\frac{du}{dx} + a_0 u = 0\\
 \frac{du}{u} = -\frac{a_0dx}{a1}\\
 \int \frac{1}{u} du = \int -\frac{a_0}{a1} dx\\
 \ln|u| = \int -\frac{a_o}{a_1}dx\\
-\boxed{u_h = e^{\int-\frac{a_o}{a_1}dx}}
+\boxed{u_h = C_1 e^{\int-\frac{a_o}{a_1}dx}}
 \end{gather}
 $$
+
 
 We simplify calling g(x) to:
 
 $$
 g(x) = \int^{}_{x}\frac{a_0(t)}{a_1(t)}dt
+$$
+Then the general solution for the homogeneous part, using the new definition of g(x) would be: 
+$$
+\boxed{u_h = C_1e^{-g(x)}}
 $$
  2. We can create a relation between this new solution we have found for the homogeneous and F(x) in order to find a **solution to the particular form** #Duda WHAT?
 $$
@@ -98,26 +103,31 @@ u_h = C_1e^{\frac{-x^2}{2}}
 \end{gather}
 
 $$
-Here the **integrating factor is:** $e^{\frac{-x^2}{2}}\over 1$ and g(x) = $\frac{-x^2}{2}$
+Here the **integrating factor is:** $e^{\frac{x^2}{2}}\over 1$ and g(x) = $\int \frac{x^2}{2}$
 
 **Particular part:**
 $$
 u_p = e^{-g(x)} \int F(x) e^{\frac{-x^2}{2}}
 $$
 $$
-u_p = e^{x^2\over 2}\int xe^{x^2}e^{-x^2\over 2}
+u_p = e^{-x^2\over 2}\int xe^{x^2}e^{-x^2\over 2}
 $$
 $$
-u_p = e^{x^2\over 2}\int x e^{3x^2\over 2}
+u_p = -e^{x^2\over 2}\int x e^{3x^2\over 2}
 $$
 Applying integration by parts and u-substitution.
 $$
-u_p = \frac{1}{3} e^\frac{3x^2}{2} + C_2 = \frac{1}{3} e^\frac{x^2}{2} \cdot e^{x^2} + C_2
+\begin{gather}
+u_p = e^{-x^2\over 2} \frac{1}{3} e^\frac{3x^2}{2} + C_2 = \\
+e^{-x^2\over 2}\frac{1}{3} e^\frac{x^2}{2} \cdot e^{x^2} + C_2=\\
+\boxed{\frac{1}{3}e^{x^2} + C_2 = u_p}
+\end{gather}
 $$
-We obtain a final solution: #Duda : Error in simplification or how?
+
+We obtain a final solution: 
 $$
 \begin{gather}
-C_1e^{\frac{-x^2}{2}} + \frac{1}{3} e^\frac{3x^2}{2} + C_2 = u\\
+C_1e^{\frac{-x^2}{2}} + \frac{1}{3}e^{x^2} + C_2 = u_p= u\\
 C_1 e^{\frac{-x^2}{2}} + \frac{1}{3} e^\frac{x^2}{2} \cdot e^{x^2} + C_2 = u \\
 \end{gather}
 $$
