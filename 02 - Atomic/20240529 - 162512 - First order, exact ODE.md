@@ -8,7 +8,7 @@ tags:
 "References:": 
 cssclasses:
 ---
-# Exact ODEs:
+# First order, exact ODEs:
 Exact ODEs are those that can be written in the form: 
 
 $$

@@ -22,10 +22,10 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#DiffCalc  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 8548066
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 16.7462879276953,
   "linkStrength": 0.82479018721756,
   "linkDistance": 210,
-  "scale": 0.0405265636464713,
-  "close": false
+  "scale": 0.041625627467144655,
+  "close": true
 }
