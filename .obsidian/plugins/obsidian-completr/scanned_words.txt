@@ -2054,6 +2054,7 @@ thinks
 tIo
 tbxf
 treated
+terminar
 dailyNote
 day
 during
@@ -4143,6 +4144,7 @@ djr
 docx
 decay
 dFX
+detenerme
 check
 classes
 cssclasses
@@ -6330,6 +6332,10 @@ csx
 calling
 cvU
 curve
+continuamente
+convenzco
+cualquier
+capaz
 lifeOS
 liking
 las
@@ -12154,6 +12160,7 @@ fRI
 fcG
 fpF
 frase
+facilidad
 Woke
 Write
 Went
@@ -18461,6 +18468,9 @@ immediate
 imagine
 ibmF
 inputted
+inc
+inter
+inquieto
 Enough
 Esta
 Est
@@ -28120,6 +28130,7 @@ MWEh
 MSmX
 MxX
 MozS
+Marcos
 reflections
 reels
 routine
@@ -30183,6 +30194,9 @@ rNh
 rInL
 rearranged
 rearrange
+repente
+redes
+razonar
 here
 hour
 home
@@ -32086,6 +32100,8 @@ hCT
 hZxESblg
 hhA
 hQs
+haber
+hombre
 Before
 Burocracia
 Buses
@@ -37890,6 +37906,11 @@ eVrf
 eFi
 egIG
 equalities
+encantado
+escuchado
+empat
+escuchar
+engancharme
 Instagram
 IRIS
 Intendencia
@@ -43503,6 +43524,8 @@ nbBU
 npb
 niforme
 nEA
+novia
+noto
 Post
 Papeleos
 Para
@@ -47643,6 +47666,8 @@ sbTX
 shower
 ski
 stays
+situation
+situaci
 No
 NOTE
 Normalmente
@@ -51506,6 +51531,12 @@ pos
 ppE
 parenthesis
 pDt
+paciencia
+poco
+pacientemente
+pasa
+peso
+pensamiento
 UC
 UNIDADES
 Unidades
@@ -57588,6 +57619,7 @@ aCxI
 abong
 acx
 aYo
+actividad
 of
 otro
 opciones
@@ -63563,6 +63595,8 @@ mhFN
 mlI
 multi
 multivariable
+moda
+manteniendo
 YYYY
 YYYYMMDD
 YU
@@ -78809,6 +78843,7 @@ Lastly
 LFN
 LOYD
 LucyDK
+LLevo
 Otras
 Otros
 OS

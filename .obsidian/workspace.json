@@ -29,7 +29,7 @@
         "dimension": 77.10674157303372,
         "children": [
           {
-            "id": "a3b520f1551c9ebf",
+            "id": "d130c6dab32bdb07",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -238,10 +238,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a3b520f1551c9ebf",
+  "active": "d130c6dab32bdb07",
   "lastOpenFiles": [
-    "01.Areas/0.DailyNote/2024-05-17.md",
+    "01.Areas/0.DailyNote/2024-05-30.md",
     "01.Areas/0.DailyNote/2024-05-29.md",
+    "01.Areas/0.DailyNote/2024-05-17.md",
     "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240408 - 185315 - Definition 113 Generating function.md",
@@ -266,7 +267,6 @@
     "02 - Atomic/20240529 - 132751 -.md",
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
-    "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
     "00.References/References_Derivatives&Integrals.pdf",
     "00.References/Discrete_Theory_All.pdf",
     "00.References/DiffCalc_Theory_ODEs.pdf",
