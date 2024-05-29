@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-05-29.md",
+                "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md"
+                "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md"
               }
             }
           }
@@ -278,12 +278,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0798c05747bb8eb0",
+  "active": "ba04517fd93fe66d",
   "lastOpenFiles": [
     "01.Areas/0.DailyNote/2024-05-29.md",
+    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "01.Areas/0.DailyNote/2024-05-28.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02 - Atomic/20240528 - 171701 -.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
     "00.References/References_Derivatives&Integrals.pdf",
