@@ -2050,6 +2050,7 @@ tQQ
 tOP
 tkE
 teG
+thinks
 dailyNote
 day
 during
@@ -16299,6 +16300,7 @@ ujr
 uiQ
 ubh
 usando
+undo
 in
 is
 important
@@ -18440,6 +18442,7 @@ iDf
 ibq
 ining
 immediate
+imagine
 Enough
 Esta
 Est
@@ -47583,6 +47586,7 @@ sQyXW
 swx
 smiL
 sbTX
+shower
 No
 NOTE
 Normalmente

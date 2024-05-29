@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
+                "file": "02 - Atomic/Exact ODE's.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md"
+                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md"
               }
             }
           }
@@ -264,17 +264,21 @@
   },
   "active": "a3b520f1551c9ebf",
   "lastOpenFiles": [
+    "02 - Atomic/20240529 - 162512 - First order, exact ODE 1.md",
+    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+    "02 - Atomic/Exact ODE's.md",
+    "02 - Atomic/20240307 - 000000 - ODEs.md",
+    "02 - Atomic/Homogeneous ODE's.md",
+    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
     "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
-    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
     "02 - Atomic/20240529 - 135228 -.md",
     "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
     "02 - Atomic/20240529 - 132751 -.md",
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
-    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
-    "02 - Atomic/20240307 - 000000 - ODEs.md",
     "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
@@ -287,11 +291,7 @@
     "02 - Atomic/20240418 - 193802 - Method - Separation of variables.md",
     "02 - Atomic/Separable ODE's.md",
     "01.Areas/1.UC3M/DiffCalc.md",
-    "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
-    "01.Areas/0.DailyNote/2024-05-27.md",
     "00.References/Discrete_Theory_All.pdf",
-    "02 - Atomic/Differential Equations.md",
-    "02 - Atomic/Initial value problem.md",
     "00.References/DiffCalc_Theory_ODEs.pdf",
     "Differential Calculus.canvas",
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
