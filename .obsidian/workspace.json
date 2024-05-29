@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240529 - 180146 - First order, homogeneous, xy substitution ODEs.md",
+                "file": "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240529 - 180146 - First order, homogeneous, xy substitution ODEs.md",
+                "file": "02 - Atomic/20240307 - 000000 - ODEs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240529 - 180146 - First order, homogeneous, xy substitution ODEs.md"
+                "file": "02 - Atomic/20240307 - 000000 - ODEs.md"
               }
             }
           }
@@ -277,10 +277,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a3b520f1551c9ebf",
+  "active": "ba04517fd93fe66d",
   "lastOpenFiles": [
+    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02 - Atomic/Homogeneous ODE's.md",
-    "02 - Atomic/20240529 - 180146 - First order, homogeneous, xy substitution ODEs.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
