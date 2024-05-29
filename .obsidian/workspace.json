@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/DiffCalc.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
+                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -53,35 +53,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b4647a9c500d6265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5a4fd501661e499",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -195,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/DiffCalc.md",
+                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/DiffCalc.md"
+                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md"
               }
             }
           }
@@ -278,14 +251,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "a3b520f1551c9ebf",
   "lastOpenFiles": [
-    "02 - Atomic/20240307 - 000000 - ODEs.md",
-    "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
-    "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
-    "02 - Atomic/Homogeneous ODE's.md",
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
+    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+    "01.Areas/1.UC3M/DiffCalc.md",
+    "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
+    "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
+    "02 - Atomic/20240307 - 000000 - ODEs.md",
+    "02 - Atomic/Homogeneous ODE's.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/Exact ODE's.md",
@@ -305,9 +280,7 @@
     "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "01.Areas/0.DailyNote/2024-05-29.md",
     "01.Areas/0.DailyNote/2024-05-28.md",
-    "02 - Atomic/20240528 - 171701 -.md",
     "00.References/References_Derivatives&Integrals.pdf",
-    "02 - Atomic/Linear ODE's.md",
     "00.References/Discrete_Theory_All.pdf",
     "00.References/DiffCalc_Theory_ODEs.pdf",
     "Differential Calculus.canvas",

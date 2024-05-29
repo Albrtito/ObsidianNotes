@@ -12,5 +12,9 @@
   "sanctum@@tag-color@@light": "#FFFFFF",
   "sanctum@@link-style": "italic",
   "sanctum@@hide-vault-title": true,
-  "sanctum@@wrap-nav-titles": true
+  "sanctum@@wrap-nav-titles": true,
+  "things-style@@active-line": true,
+  "things-style@@fancy-code": true,
+  "things-style@@default-font-color": false,
+  "things-style@@strong-color": "#EA7807"
 }
