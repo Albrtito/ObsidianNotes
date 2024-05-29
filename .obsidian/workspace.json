@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
+                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -205,8 +205,23 @@
                   "showTags": false,
                   "showAttachments": true,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Calc  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#DiffCalc  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7231206
+                      }
+                    }
+                  ],
                   "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -264,19 +279,20 @@
   },
   "active": "a3b520f1551c9ebf",
   "lastOpenFiles": [
+    "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
+    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+    "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
+    "02 - Atomic/20240529 - 165329 -.md",
+    "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
+    "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/Exact ODE's.md",
-    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE 1.md",
-    "02 - Atomic/Partial derivatives.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
     "02 - Atomic/Homogeneous ODE's.md",
     "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
-    "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
-    "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
     "02 - Atomic/20240529 - 135228 -.md",
-    "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
     "02 - Atomic/20240529 - 132751 -.md",
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
@@ -290,7 +306,6 @@
     "00.References/References_Derivatives&Integrals.pdf",
     "02 - Atomic/Linear ODE's.md",
     "02 - Atomic/20240418 - 193802 - Method - Separation of variables.md",
-    "02 - Atomic/Separable ODE's.md",
     "00.References/Discrete_Theory_All.pdf",
     "00.References/DiffCalc_Theory_ODEs.pdf",
     "Differential Calculus.canvas",

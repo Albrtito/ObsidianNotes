@@ -1,3 +1,14 @@
+---
+aliases:
+  - Partial derivatives
+tags:
+  - Calc
+  - DiffCalc
+  - review
+"References:": 
+cssclasses:
+---
+# Partial derivatives
 For computing the partial derivatives of a function, we choose the variable we'll perform the derivative to and assume that any other variables are constants in the function. 
 $$
 \delta f\over \delta x

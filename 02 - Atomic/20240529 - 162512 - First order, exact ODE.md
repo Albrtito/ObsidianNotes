@@ -4,6 +4,7 @@ aliases:
   - First order, exact ODE
 tags:
   - review
+  - DiffCalc
 "References:": 
 cssclasses:
 ---
@@ -33,5 +34,5 @@ f(x,u(x)) = c
 $$
 This means that in order to find the solution we need to **find f(x,u(x))**
 
-To find f we use [[Partial derivatives]]: 
+To find f we use [[20240529 - 165329 - Definition - Partial derivatives]]: 
 1. 
