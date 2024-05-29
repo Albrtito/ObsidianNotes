@@ -24,6 +24,27 @@ u_h = e^{-x}
 $$
 **Particular:**
 $$
-\
+\begin{gather}
+u_p = e^{-x}\int e^x F(x)\\
+u_p = e^{-x}\int e^x[2e^-x + x^2]
+\end{gather}
 $$
+After integration by parts we get:
+$$
+\begin{gather}
+u_p = e^{-x}[2x+e^x[x^2 -2x -2]] = \\2xe^{-x} + x^2 -2x -2
+\end{gather}
+$$
+
+**Final solution:**
+Sum of the particular and homogeneous parts
+$$
+u(x) = Ce^{-x} + x^2 -2x -2 + 2xe^{-x}
+$$
+**Notes:** 
++ Integration by parts is done twice
++ Careful when integrating by parts between the - signs and what is multiplying what when doing one inside of another. 
+
+## 2. $y’ + \frac{y}{x} = x^2 -1$ , with x > 0
+
 
