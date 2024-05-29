@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Exact ODE's.md",
+                "file": "02 - Atomic/Homogeneous ODE's.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,6 +81,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -194,7 +195,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,9 +249,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -277,20 +275,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a3b520f1551c9ebf",
+  "active": "0798c05747bb8eb0",
   "lastOpenFiles": [
-    "02 - Atomic/Exact ODE's.md",
-    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+    "02 - Atomic/Homogeneous ODE's.md",
     "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
-    "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
+    "02 - Atomic/Exact ODE's.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+    "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
     "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
     "02 - Atomic/20240529 - 165329 -.md",
     "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
     "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE 1.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
-    "02 - Atomic/Homogeneous ODE's.md",
     "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
     "02 - Atomic/20240529 - 135228 -.md",

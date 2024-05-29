@@ -77,15 +77,24 @@ Finally this value is inputted in f(x,u) to obtain the complete form of the func
 
 $$
 \begin{gather}
-\frac{\partial f}{\partial x} = \frac{g(u) + \int [M(x,u)]dx }{\partial u}\\
-\frac{\partial f}{\partial u} =  g(u)' + {\int [M(x,u)]dx\over \partial u} = N
+	\frac{\partial f}{\partial x} = \frac{g(u) + \int [N(x,u)]du }{\partial x}\\
+\frac{\partial f}{\partial x} =  g(u)' + {\int [M(x,u)]du\over \partial x} = M
 \end{gather}
 $$
 Then we can get the value of g(u)
 $$
-g(u)' = N - {\int [M(x,u)]dx\over \partial u}
+g(u)' = M - {\int [N(x,u)]du\over \partial x}
 $$
 $$
 g(u) = \int g(u) du 
 $$
+Finally this value is inputted in f(x,u) to obtain the complete form of the function.
+
+
+The final solution for both cases is: 
+$$
+f(x,u) = c
+$$
+This can later be rearranged in order to show the implicit form of u. (give u directly as a solution)
+
 
