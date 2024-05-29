@@ -42,7 +42,7 @@ Then:
 $$
 	h(t) = \int ^t _0 (t-\alpha) e^{2\alpha}d\alpha
 $$
-Computing the [Integration by parts](Integration%20by%20parts): 
+Computing the [20240529 - 132751 - Method -Integration by parts](20240529%20-%20132751%20-%20Method%20-Integration%20by%20parts.md): 
 u = $(t-\alpha)$
 dv = $e^{2\alpha} d\alpha$
 $$

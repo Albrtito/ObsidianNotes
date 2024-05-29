@@ -101,5 +101,8 @@ $$
 u_p = e^{-g(x)} \int F(x) e^{\frac{-x^2}{2}}
 $$
 $$
-u_p = e^{x^2\over 2}\int xe^
+u_p = e^{x^2\over 2}\int xe^{x^2}e^{-x^2\over 2}
+$$
+$$
+u_p = e^{x^2\over 2}\int x e^{3x^2\over 2}
 $$

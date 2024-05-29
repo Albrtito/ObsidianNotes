@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md"
+                "file": "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md"
               }
             }
           }
@@ -285,10 +285,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b4647a9c500d6265",
+  "active": "0798c05747bb8eb0",
   "lastOpenFiles": [
-    "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
+    "02 - Atomic/20240529 - 132751 -.md",
+    "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+    "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
     "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
@@ -315,8 +317,6 @@
     "00.References/DiffCalc_Theory_ODEs.pdf",
     "Differential Calculus.canvas",
     "02 - Atomic/DiffCalc_Theory_Ch 0_Intro.md",
-    "01.Areas/3.Matterhorn/Caleao 24.md",
-    "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",
