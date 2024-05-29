@@ -20,7 +20,7 @@ $$
 ### Solving: 
 Once checked that the ODE is homogeneous we apply the following: 
 1. Obtain F() where the function only depends on x/y or y/x and equals to the derivative of y wrt x. 
-2. Apply [u-substitution](u-substitution.md) where u = x/y or y/x depending on what F() depends of. 
+2. Apply [20240529 - 135228 - Method - u-substitution](20240529%20-%20135228%20-%20Method%20-%20u-substitution.md) where u = x/y or y/x depending on what F() depends of. 
 3. Based on the u-substitution there will be a value for y based on u: 
 	1. For y/x: $y/x = u : y = ux$
 	2. For x/y: $x/y = u : y = x/u$

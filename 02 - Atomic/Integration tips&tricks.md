@@ -3,4 +3,4 @@
 [Trigonometric Identities](Trigonometric%20Identities.md)
 [Trigonometric Integrations](Trigonometric%20Integrations.md)
 # Advanced techniques
-[u-substitution](u-substitution.md)
+[20240529 - 135228 - Method - u-substitution](20240529%20-%20135228%20-%20Method%20-%20u-substitution.md)

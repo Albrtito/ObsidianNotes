@@ -1,3 +1,13 @@
+---
+aliases:
+  - u-substitution
+  - Method - u-substitution
+tags:
+  - DiffCalc
+  - Calc
+"References:": 
+cssclasses:
+---
 The u-substitution method is useful when there are: 
 + Fractions and quotients
 + expressions such as: $nx^{n-1}(x^n + c)$. Where u can be equal to that expression and the derivative of what's inside the parenthesis can cancel the outside x (keep reading to understand what I mean)

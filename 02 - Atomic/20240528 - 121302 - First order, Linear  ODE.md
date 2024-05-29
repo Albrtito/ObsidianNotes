@@ -91,7 +91,7 @@ u' + xu = 0\\
 \frac{1}{u}du = -xdx\\
 \int \frac{1}{u}du = \int -xdx\\
 \ln u = \frac{-x^2}{2}\\
-u_h = e^{\frac{-x^2}{2}}
+u_h = C_1e^{\frac{-x^2}{2}}
 \end{gather}
 
 $$
@@ -107,4 +107,11 @@ $$
 $$
 u_p = e^{x^2\over 2}\int x e^{3x^2\over 2}
 $$
-Applying [[20240529 - 132751 - Method -Integration by parts|Integration by parts]] to solve:
+Applying integration by parts and u-substitution.
+$$
+u_p = \frac{1}{3} e^\frac{3x^2}{2} + C = \frac{1}{3} e^\frac{x^2}{2} \cdot e^{x^2} + C
+$$
+We obtain a final solution: 
+$$
+C_1e^{\frac{-x^2}{2}} + \frac{1}{3} e^\frac{3x^2}{2} = u
+$$
