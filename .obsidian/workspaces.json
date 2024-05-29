@@ -297,71 +297,16 @@
         "type": "split",
         "children": [
           {
-            "id": "15f0390215d3b1fb",
-            "type": "tabs",
-            "dimension": 46.72571970895286,
-            "children": [
-              {
-                "id": "d60ade257997ab51",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00.References/Discrete_Theory_All.pdf"
-                  }
-                }
-              },
-              {
-                "id": "8b46b5ded68afc01",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00.References/Discrete_Theory_All.pdf"
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
             "id": "9af070794635d90b",
             "type": "tabs",
-            "dimension": 53.274280291047134,
             "children": [
-              {
-                "id": "aa6f0fd2c1599c60",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "cc45c3e0ed7c0f32",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/20240429 - 111500 - Prime numbers.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
               {
                 "id": "a3b520f1551c9ebf",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
+                    "file": "02 - Atomic/20240307 - 000000 - ODEs.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -369,12 +314,51 @@
                 }
               },
               {
-                "id": "0db8d60790ace0e7",
+                "id": "ba04517fd93fe66d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
+                    "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bd07f1c560e854f8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b4647a9c500d6265",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0798c05747bb8eb0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -382,7 +366,7 @@
                 }
               }
             ],
-            "currentTab": 2,
+            "currentTab": 1,
             "stacked": true
           }
         ],
@@ -464,7 +448,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
+                    "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -481,7 +465,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
+                    "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -519,7 +503,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
+                    "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -542,7 +526,7 @@
                       "repelStrength": 17.3531310522918,
                       "linkStrength": 0.595351839896708,
                       "linkDistance": 374,
-                      "scale": 0.06542368901953775,
+                      "scale": 0.0974745936997114,
                       "close": true
                     }
                   }
@@ -560,7 +544,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md"
+                    "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md"
                   }
                 }
               }
@@ -568,11 +552,12 @@
           }
         ],
         "direction": "horizontal",
-        "width": 741
+        "width": 741,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
-          "homepage:Open homepage": true,
+          "mermaid-tools:Open Mermaid Toolbar": false,
           "obsidian-importer:Open Importer": true,
           "zk-prefixer:Create new unique note": true,
           "switcher:Open quick switcher": true,
@@ -587,8 +572,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "a3b520f1551c9ebf",
-      "mtime": "2024-05-20T00:14:14+02:00"
+      "active": "ba04517fd93fe66d",
+      "mtime": "2024-05-29T00:01:34+02:00"
     }
   },
   "active": "Layout1"

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+                "file": "01.Areas/0.DailyNote/2024-05-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.00418853759766,
-    "collapsed": true
+    "width": 357.00418853759766
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "01.Areas/0.DailyNote/2024-05-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "01.Areas/0.DailyNote/2024-05-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "01.Areas/0.DailyNote/2024-05-28.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md"
+                "file": "01.Areas/0.DailyNote/2024-05-28.md"
               }
             }
           }
@@ -279,13 +278,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0798c05747bb8eb0",
+  "active": "ba04517fd93fe66d",
   "lastOpenFiles": [
-    "02 - Atomic/20240528 - 171701 -.md",
+    "01.Areas/0.DailyNote/2024-05-29.md",
+    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+    "02 - Atomic/20240528 - 171701 -.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
     "00.References/References_Derivatives&Integrals.pdf",
-    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "02 - Atomic/Linear ODE's.md",
     "02 - Atomic/20240418 - 193802 - Method - Separation of variables.md",
@@ -310,7 +310,6 @@
     "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
     "02 - Atomic/20240429 - 111500 - Prime numbers.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
-    "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",
