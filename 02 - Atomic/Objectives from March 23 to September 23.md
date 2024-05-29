@@ -1,8 +1,8 @@
 ---
 DateStarted: 2024-03-17
 DateToFinish: 2024-09-01
-sr-due: 2024-05-28
-sr-interval: 56
+sr-due: 2024-11-07
+sr-interval: 162
 sr-ease: 286
 ---
 For this period I'll follow the  General, specific and operative objectives strategy. I'll divide the period in two. From march to July (une included as there are a few exams taking place in those dates) and July to September (the summer season). To keep track of the set objectives the [dailyNote](../99%20-%20Meta/1.%20Templates/dailyNote.md) template will be updated with all the task extracted in the operative objectives. 
@@ -70,24 +70,31 @@ Enfasis on planing the next morning and objectives that will be checked out by w
 ## 3.1 Mantener responsabilidades dentro de secretaría
 ### 3.1.1 Pasar las cuotas mensualmente 
 - [ ] DONE?
+**Recap: 2024-05-29** : Estoy aprendiendo bastante con las cuotas y las reuniones con la tesorería. Por ahora esto se esta haciendo y guay.
 ### 3.1.2 Recoger documentación de Madrid cada dos semanas
 - [ ] DONE?
+**Recap: 2024-05-29** : Yes, without a huge impact further on in the course but done. 
 ## 3.2 Aumentar responsabilidades de secretaría antes de campamentos y acampadas. 
 ### 3.2.1 Darle la tabarra a pi para que me vaya contando cositas e ir pudiendo enterarme de las cosas
-- [ ] 
+- [ ] DONE?
+**Recap: 2024-05-29** En esto no me he enfocado, pi tampoco ha transmitido. La secretaría se ha quedado algo estancada. Como reflexión, para verano sería interesante involucrarse más pero no sabría como. 
 ---
 ## 4.1 Create a sense of community inside the university. Be there. 
 ### 4.1.1 Go to university all days during class hours
 Even if I'm not in class, this means I'm near the community, I interact with them and create a sense of community. 
-- [ ] 
+- [ ] DONE? → **NO**
+
+
+**Recap: 2024-05-29** I can take this objective as done as there are no classes left. I could not do this but I got the sense of good that doing it could do. It has been very hard to go, less if it’s by car with my dad. Either way, know that I know there is people there everyday and that the community really makes me happier I’ll try it next year.
+
 ### 4.1.2 Do at least two nights out with the uni group 
-- [ ] 
+- [ ] DONE?
+**Recap: 2024-05-29** : We’ve done one in Ignacio’s birthday and another one will be this Friday, not bad.
 ## 4.2 Obtain an average higher than 6
 Better to achieve it with a higher notes than not being able to because I asked to much of myself
 ### 4.2.1 Daily use of active recall (space repetition) in obsidian
-- [ ] 
-
+- [ ] DONE?
+**Recap: 2024-05-29**:  This has not been done every day but I have notices the huge impact it did. I did not study a huge amount for some of the exams but I already had a base builded from active recalling the theory. Once I implemented generalised exercises it went even better.
 ## 4.3 Focus on first year courses
 ### 4.3.1 On busy weeks, prioritise Calculus, Discrete and Logic
-# Objective tracking:
 
