@@ -28,23 +28,27 @@ The main focus for this time is to create a routine. All objectives are mostly b
 ---
 ## 1.1 Use Instagram and Twitter as learning spaces
 
-### 1.1.1 Using the search tab to search (content just to fill some gap time)(even then better to just read)
-- [ ] 
+### 1.1.1 Using the search tab to search 
+(content just to fill some gap time)(even then better to just read)
+- [ ] DONE?
 ### 1.1.2 Read 30 min per day
 I'm not using reading as a whole general objective because even though I think it is of vital importance in my life. Right now learning h0w to manage the resources I have to learn also contains managing RRSS and others. 
-- [ ] 
+Having the kindle always near is a nice way to promote this.
+- [ ] DONE?
 
 
 ## 1.2 Control the time usage of RRSS
 
 ### 1.2.1 Maintain daily RRSS usage under 1h 
 
-- [ ] 
+**Recap: 2024-05-29** This is not going in a bad direction. However the use I’m giving it does not feel right. It I used it to post maybe, but just to keep on seeing content I cannot later remember?
+- [ ] DONE
 
 
 ## 1.3 Control the situational usage of RRSS
 ### 1.3.1 Tener un propósito antes de entrar en RRSS
 Keeping the time at the home tab as a previous objective reflects already helps. However there are many times when I don't choose to take out my phone. I just do it by instinct.  By thinking of what to use the RRSS before actually opening this stops. Another good thought to have at this moment is how long am I going to stay with the RRSS. Many times I won't be able to stop and time flies by. 
+**Recap: 2024-05-29** This has gone quite well, I now start asking that question (what is this for) before entering. I just cannot find other purposes rather than, to look at what my friends have posted. And I don’t mean it as “I don’t care”, just, it is so little for such huge RRSS apps.
 - [ ] 
 
 ---
@@ -54,7 +58,7 @@ Reading about sleep and learning all of the reasons I will really benefit is use
 ### 2.1.1 Plan the next day before going to bed. 
 Enfasis on planing the next morning and objectives that will be checked out by waking up at that time. 
 - [ ] 
-
+**Recap: 2024-05-29** : This has not been met. And even those days that has. It doesn’t make that an impact. However there hasn’t been enough days to compare. In order for this to succeed I need to change a great part of journaling into the night time. Before going to bed. 
 
 ## 2.2 Create a routine around sleep. 
 ### 2.2.1 Do 30 min of daily sport/movement
@@ -65,9 +69,9 @@ Enfasis on planing the next morning and objectives that will be checked out by w
 
 ## 3.1 Mantener responsabilidades dentro de secretaría
 ### 3.1.1 Pasar las cuotas mensualmente 
-- [ ] 
+- [ ] DONE?
 ### 3.1.2 Recoger documentación de Madrid cada dos semanas
-- [ ] 
+- [ ] DONE?
 ## 3.2 Aumentar responsabilidades de secretaría antes de campamentos y acampadas. 
 ### 3.2.1 Darle la tabarra a pi para que me vaya contando cositas e ir pudiendo enterarme de las cosas
 - [ ] 
@@ -86,16 +90,4 @@ Better to achieve it with a higher notes than not being able to because I asked 
 ## 4.3 Focus on first year courses
 ### 4.3.1 On busy weeks, prioritise Calculus, Discrete and Logic
 # Objective tracking:
-
-```dataview
-TABLE WITHOUT ID 
-key as Tasks, 
-length(rows) AS Total,
-length(filter(rows.tasks, (r) => r.completed)) AS Completed
-
-
-FROM "01.Areas/0.DailyNote"
-FLATTEN file.tasks as tasks 
-GROUP BY tasks.text
-SORT length(rows) DESC
 
