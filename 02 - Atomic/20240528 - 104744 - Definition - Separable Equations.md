@@ -6,6 +6,9 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
+sr-due: 2024-06-01
+sr-interval: 3
+sr-ease: 250
 ---
 # Separable  equations: 
 

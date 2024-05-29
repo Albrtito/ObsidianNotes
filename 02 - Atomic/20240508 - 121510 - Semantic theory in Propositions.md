@@ -6,8 +6,8 @@ tags:
   - Logic
 "References:": 
 cssclasses: []
-sr-due: 2024-05-29
-sr-interval: 9
+sr-due: 2024-06-19
+sr-interval: 21
 sr-ease: 250
 ---
 # Semantic theory in propositional calculus.

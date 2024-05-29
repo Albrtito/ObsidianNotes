@@ -6,6 +6,9 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
+sr-due: 2024-05-30
+sr-interval: 1
+sr-ease: 230
 ---
 # First order, linear ODE 
 An ODE is linear and has order 1 when the largest derivative appearing in the relation is the first derivative and the largest order of the dependent variable y is equal to 1. 
