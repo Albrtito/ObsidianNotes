@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
+                "file": "02 - Atomic/Exact ODE's.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
+                "file": "02 - Atomic/Exact ODE's.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md"
+                "file": "02 - Atomic/Exact ODE's.md"
               }
             }
           }
@@ -280,8 +280,8 @@
   },
   "active": "bd07f1c560e854f8",
   "lastOpenFiles": [
-    "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
     "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
+    "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
     "02 - Atomic/20240529 - 165329 -.md",
