@@ -77,3 +77,29 @@ $$
 + This solution is also true for an ODE of n-th order 
 
 ## Solved examples: 
+$$
+u' + xu = xe^{x^2}
+$$
++ With u(0) = 1 as Initial condition
+Then: 
+**Homogeneous part:**
+$$
+\begin{gather}
+u' + xu = 0\\
+{\frac{du}{dx}\over u} = -x\\
+\frac{1}{u}du = -xdx\\
+\int \frac{1}{u}du = \int -xdx\\
+\ln u = \frac{-x^2}{2}\\
+u_h = e^{\frac{-x^2}{2}}
+\end{gather}
+
+$$
+Here the **integrating factor is:** $e^{\frac{-x^2}{2}}\over 1$ and g(x) = $\frac{-x^2}{2}$
+
+**Particular part:**
+$$
+u_p = e^{-g(x)} \int F(x) e^{\frac{-x^2}{2}}
+$$
+$$
+u_p = e^{x^2\over 2}\int xe^
+$$
