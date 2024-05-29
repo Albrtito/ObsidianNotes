@@ -5,7 +5,8 @@ tags:
   - Calc
   - DiffCalc
   - review
-"References:": 
+"References:":
+  - https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives
 cssclasses:
 ---
 # Partial derivatives
@@ -42,7 +43,30 @@ $$
 > $$
 > It’s partial derivatives are: 
 > $$
->  
+> \frac{\partial f}{\partial x_i} \forall i \in N
+> $$
+> 
+
+## Computation of the partial derivatives: 
+
+When solving the partial derivatives of a function f. All independent variables that are not the one stated in the expression are **treated as constants.** This is better understood with an example: 
+
+For the function: 
+$$
+f(x,y,z) = 2x^2 + y + 4zx
+$$
+It’s partial derivative with respect to x is:
+$$
+\frac{\partial f}{\partial x} = 4x + 4z
+$$
++ See that y and z are evaluated as constants. The second term goes to 0 (as if y was any Real) and the third term stays as 4z. (as if z was any Real)
+
+## Evaluation of a function with it’s partial derivatives: 
+
+Because each derivative represents the changes in f wrt one of it’s independent variables. For each possible input combinations there is a value for each of the partial derivatives, these values all together represent the total change for that point.
+
+A nice visual example would be  a three dimensional function for which we only take the partial derivatives of two of it’s variables. 
+At any combination of values for those two variables we have a the value of the slope of the curve generated from the intersection of a plane in the position of the values used for the variables and the function. 
 
 
 ### Example: 
