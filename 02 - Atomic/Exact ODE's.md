@@ -17,7 +17,7 @@ $$
 {\delta M\over \delta y} = {\delta N \over \delta x}
 $$
 ### Solving exact ODEs
-Exact ODEs are solved once a function is found such as the [Partial derivatives](Partial%20derivatives.md) in x and y are equal to M and N.
+Exact ODEs are solved once a function is found such as the [[Partial derivatives]] in x and y are equal to M and N.
 
 $$
 \Psi (x,y) \Rightarrow {\delta \Psi\over \delta x} = M(x,y) ; {\delta \Psi \over \delta y} = N(x,y)
@@ -29,5 +29,3 @@ $$
 C = \Psi (x,y) 
 $$
 
-### Summary
-Highlight ==what’s important!==

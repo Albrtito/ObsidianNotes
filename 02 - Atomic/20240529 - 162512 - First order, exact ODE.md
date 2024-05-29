@@ -9,6 +9,20 @@ cssclasses:
 ---
 # Exact ODEs:
 Exact ODEs are those that can be written in the form: 
+
 $$
-M(x,u) + N(x,u)u' =0 \frac{d}{dx}f(x,u(x)) = 0
+\begin{gather}
+M(x,u) + N(x,u)u' =0 \\
+\text{or}\\
+\frac{d}{dx}f(x,u(x)) = 0
+\end{gather}
+$$
+And follow the **necessary condition:** 
+$$
+{\partial M\over \partial u} = {\partial N \over \partial x}
+$$
+**Remarks:**
++ [[20240528 - 110528 - Separable ODEs|Separable ODEs]] **are exact**: We can write them with the form: 
+$$
+M(x) + N(u)u' = 0
 $$
