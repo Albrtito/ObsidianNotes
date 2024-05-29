@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,20 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd07f1c560e854f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
+                "file": "01.Areas/0.DailyNote/2024-05-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -168,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+                "file": "01.Areas/0.DailyNote/2024-05-29.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md"
+                "file": "01.Areas/0.DailyNote/2024-05-29.md"
               }
             }
           }
@@ -253,9 +240,14 @@
   },
   "active": "a3b520f1551c9ebf",
   "lastOpenFiles": [
+    "01.Areas/0.DailyNote/2024-05-17.md",
+    "01.Areas/0.DailyNote/2024-05-29.md",
+    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+    "02 - Atomic/20240408 - 185315 - Definition 113 Generating function.md",
+    "02 - Atomic/Generating functions.md",
     "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
+    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
     "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "01.Areas/1.UC3M/DiffCalc.md",
@@ -275,11 +267,6 @@
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
-    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
-    "02 - Atomic/Objectives from March 23 to September 23.md",
-    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
-    "01.Areas/0.DailyNote/2024-05-29.md",
-    "01.Areas/0.DailyNote/2024-05-28.md",
     "00.References/References_Derivatives&Integrals.pdf",
     "00.References/Discrete_Theory_All.pdf",
     "00.References/DiffCalc_Theory_ODEs.pdf",

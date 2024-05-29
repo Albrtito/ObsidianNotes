@@ -3,10 +3,10 @@ aliases:
   - Generating Function definition
 tags:
   - review
-  - DiffCalc
+  - Discrete
 "References:":
   - "[Sequences of real numbers](Sequences%20of%20real%20numbers.md)"
-cssclasses:
+cssclasses: 
 sr-due: 2024-08-09
 sr-interval: 93
 sr-ease: 312

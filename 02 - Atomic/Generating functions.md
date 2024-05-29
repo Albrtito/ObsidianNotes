@@ -2,9 +2,9 @@
 aliases: 
 tags:
   - review
-  - DiffCalc
+  - Discrete
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-25
 sr-interval: 86
 sr-ease: 232

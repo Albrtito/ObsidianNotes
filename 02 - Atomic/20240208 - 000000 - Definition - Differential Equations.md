@@ -46,6 +46,7 @@ f.e:
 	$$
 	Are solutions for the equation. For all possible values of c1 and c2.
 
+Always, when looking for solutions, an essential part is to look for [[20240528 - 115005 - Lost solutions in a DE|Lost solutions in a DE]]
 ## ODEs and PDEs
 When analysing a differential equation, the resulting function we find can be of two types: 
 Lets say that the function is f()
