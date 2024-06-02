@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Sequences and series of real numbers.md",
+                "file": "02 - Atomic/Sets of numbers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "479a4fdb7c7c290d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240602 - 173244 - Method - Principle of induction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb996a902f25f3c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,6 +60,7 @@
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -63,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Calc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +107,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "74476affe76ac5b2",
@@ -98,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5041847229004
+    "width": 258.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -135,7 +164,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f97aefa6b972e655",
@@ -147,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md"
+                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md"
               }
             }
           }
@@ -211,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 242.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,11 +261,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d130c6dab32bdb07",
+  "active": "4d9e8083eba3a4a2",
   "lastOpenFiles": [
-    "02 - Atomic/Integration, fundamental theorems and techniques.md",
     "01.Areas/1.UC3M/Calculus I.md",
-    "02 - Atomic/Sequences and series of real numbers.md",
+    "02 - Atomic/Sets of numbers.md",
+    "02 - Atomic/20240602 - 173244 - Method - Principle of induction.md",
+    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+    "02 - Atomic/20240602 - 173244 -.md",
+    "02 - Atomic/20240602 - 172932 - Sequences and series of real numbers.md",
+    "02 - Atomic/Basic Functions.md",
+    "02 - Atomic/Ceiling Funciton.md",
+    "02 - Atomic/20240602 - 172932 -.md",
+    "02 - Atomic/Integration, fundamental theorems and techniques.md",
     "02 - Atomic/Taylor polynomial.md",
     "01.Areas/0.DailyNote/2024-06-02.md",
     "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
@@ -253,14 +291,7 @@
     "01.Areas/1.UC3M/DiffCalc.md",
     "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
-    "02 - Atomic/Homogeneous ODE's.md",
-    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
-    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
-    "02 - Atomic/Exact ODE's.md",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
-    "02 - Atomic/20240529 - 165329 -.md",
-    "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
-    "02 - Atomic/20240529 - 162512 - First order, exact ODE 1.md",
     "00.References/References_Derivatives&Integrals.pdf",
     "00.References/Discrete_Theory_All.pdf",
     "00.References/DiffCalc_Theory_ODEs.pdf",

@@ -1,21 +1,25 @@
 ---
+aliases:
+  - Principle of induction
 Date: 2024-03-12
 tags:
   - review
-  - Calc
-"References:":
+  - CalcI
+"References:": 
 sr-due: 2024-09-19
 sr-interval: 122
 sr-ease: 270
 ---
-### Conditions
-The principle of induction is a method used with [Natural numbers (set N)](set%20N)).md) in order to **prove** some property. 
+# Principle of induction
 
-**CONDITIONS:**
-+ The domain of the variables must be $\mathbb{N}$
-**OUTPUT:**
+> [!NOTE] Definition
+> The principle of induction is a method used with [[Natural numbers (set N)]] in order to **prove** some property defined earlier on this set.
+
+**Remarks:**
++ It needs to be applied over a domain N (or a domain isomorphic to N)
 + If it is possible to prove through this method, then the proposition is true. If the method shows that the proposition suffers of any contradiction then we can say that the proposition is false.
-### Using the method: 
+
+## Example: 
 For proving the property P which depends on a natural number n. The principle of induction establishes the following: 
 **IF**
 1. we **check that n = 1 verifies** the property P

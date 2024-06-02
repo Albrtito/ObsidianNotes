@@ -10211,6 +10211,7 @@ FRC
 FaH
 FMac
 FoPR
+Funciton
 first
 from
 file
@@ -12161,6 +12162,7 @@ fcG
 fpF
 frase
 facilidad
+func
 Woke
 Write
 Went
@@ -18471,6 +18473,7 @@ inputted
 inc
 inter
 inquieto
+isomorphic
 Enough
 Esta
 Est
@@ -45466,6 +45469,7 @@ PDc
 PScript
 PROPOSED
 Ptp
+Polynomial
 something
 start
 st
@@ -67422,6 +67426,7 @@ DnL
 Distiller
 Dxd
 DGq
+Derivatives
 HH
 Highlight
 Hay
@@ -73137,6 +73142,7 @@ CdC
 CvA
 Cjq
 Chosen
+Ceiling
 your
 ya
 yo

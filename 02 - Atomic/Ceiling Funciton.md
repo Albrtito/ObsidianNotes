@@ -1,1 +1,0 @@
-Obtain the minimum integer greater or equal to the given value. 

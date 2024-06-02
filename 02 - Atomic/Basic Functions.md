@@ -1,1 +1,0 @@
-[Ceiling Funciton](Ceiling%20Funciton.md)

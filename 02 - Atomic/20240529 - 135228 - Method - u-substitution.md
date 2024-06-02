@@ -4,7 +4,7 @@ aliases:
   - Method - u-substitution
 tags:
   - DiffCalc
-  - Calc
+  - CalcI
 "References:": 
 cssclasses:
 ---

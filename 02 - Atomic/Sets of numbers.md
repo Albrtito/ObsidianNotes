@@ -2,7 +2,7 @@
 Date: 2024-03-12
 tags:
   - review
-  - Calc
+  - CalcI
 "References:":
 sr-due: 2024-06-16
 sr-interval: 72
@@ -12,14 +12,12 @@ sr-ease: 290
 A set of numbers is the same as a grouping of numbers. These numbers may all follow some constraint or rule (f.e. all even numbers can be grouped into a set) , but can also just be in a set because they where chosen randomly. 
 There are some generally known sets that are usually used in mathematics such as natural numbers, real numbers, etc. 
 
-
-# Sylabus:
-1. [Natural numbers (set N)](set%20N)).md)
-	1. [The principle of induction](The%20principle%20of%20induction.md)
-2. [Integer numbers (set Z)](set%20Z)).md)
-3. [Rational and irrational numbers(set Q and I)](set%20Q%20and%20I)).md)
-4. [Real numbers (set R)](set%20R)).md)
-5. [Complex numbers (set C)](set%20C)).md)
+1. [[Natural numbers (set N)]]
+	+ [[20240602 - 173244 - Method - Principle of induction|Principle of induction]]
+2. [[Integer numbers (set Z)]]
+3. [[Rational and irrational numbers(set Q and I)]]
+4. [[Real numbers (set R)]]
+5. [[Complex numbers (set C)]]
 ---
 ### Summary
 Highlight ==what’s important!==
