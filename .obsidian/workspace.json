@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-02.md",
+                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3c1f02f815fe2b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/Sequences and series of real numbers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,11 +147,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-02.md",
+                "file": "01.Areas/1.UC3M/Calculus I.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -172,7 +185,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.16942550224111771,
+                  "scale": 0.12003315226621605,
                   "close": true
                 }
               }
@@ -190,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-02.md"
+                "file": "01.Areas/1.UC3M/Calculus I.md"
               }
             }
           }
@@ -217,10 +230,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "d130c6dab32bdb07",
   "lastOpenFiles": [
-    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+    "02 - Atomic/Integration, fundamental theorems and techniques.md",
+    "01.Areas/1.UC3M/Calculus I.md",
+    "02 - Atomic/Sequences and series of real numbers.md",
+    "02 - Atomic/Taylor polynomial.md",
     "01.Areas/0.DailyNote/2024-06-02.md",
+    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "01.Areas/0.DailyNote/2024-05-30.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "01.Areas/0.DailyNote/2024-05-29.md",
@@ -244,10 +261,6 @@
     "02 - Atomic/20240529 - 165329 -.md",
     "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE 1.md",
-    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
-    "02 - Atomic/20240529 - 135228 -.md",
-    "02 - Atomic/20240529 - 132751 -.md",
-    "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "00.References/References_Derivatives&Integrals.pdf",
     "00.References/Discrete_Theory_All.pdf",
     "00.References/DiffCalc_Theory_ODEs.pdf",

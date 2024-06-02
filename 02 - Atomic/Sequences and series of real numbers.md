@@ -4,7 +4,7 @@ tags:
   - review
   - Calc
 "References:":
-  - "[Calc_Theory_All](../00.References/Calc_Theory_All.pdf)"
+  - "[[Calc_Theory_All.pdf]]"
 sr-due: 2024-06-23
 sr-interval: 27
 sr-ease: 270
