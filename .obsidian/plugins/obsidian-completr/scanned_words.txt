@@ -2056,6 +2056,7 @@ tbxf
 treated
 terminar
 trico
+trigonometric
 dailyNote
 day
 during
@@ -6345,6 +6346,7 @@ conics
 circumference
 cuts
 cone
+compiled
 lifeOS
 liking
 las
@@ -30216,6 +30218,8 @@ repente
 redes
 razonar
 ranges
+radians
+radiants
 here
 hour
 home
@@ -55596,6 +55600,7 @@ AkkI
 AvN
 ACQ
 AiAqS
+Arguments
 all
 at
 aliases
@@ -63631,6 +63636,7 @@ multivariable
 moda
 manteniendo
 middle
+multiples
 YYYY
 YYYYMMDD
 YU

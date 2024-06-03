@@ -59,6 +59,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa9a3b10669c4f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3,
@@ -113,7 +126,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.24076380943551218,
+                  "scale": 0.1510380111751745,
                   "close": true
                 }
               }
@@ -256,8 +269,13 @@
   },
   "active": "c1bd1b5d99a3e342",
   "lastOpenFiles": [
-    "02 - Atomic/20240603 - 165823 - Definition - Root function.md",
+    "99 - Meta/0. Attachments/Pasted image 20240603171640.png",
+    "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
     "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
+    "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 17.09.41.png",
+    "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 17.09.08.png",
+    "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 17.08.31.png",
+    "02 - Atomic/20240603 - 165823 - Definition - Root function.md",
     "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
     "02 - Atomic/20240603 - 165400 - Definition - Polynomial function.md",
     "02 - Atomic/20240603 - 165215 - Elementary functions.md",
@@ -280,8 +298,6 @@
     "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/Sets of numbers.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
-    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
@@ -296,9 +312,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.39.55.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.27.37.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.27.14.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.18.58.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.15.19.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.06.58.png",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
     "00.References/OS_Biblio_J.Carretero.pdf",
