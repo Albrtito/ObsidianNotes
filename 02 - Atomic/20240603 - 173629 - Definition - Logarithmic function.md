@@ -1,0 +1,22 @@
+---
+aliases:
+  - Logarithmic function
+  - Definition - Logarithmic function
+tags:
+  - review
+  - CalcI
+"References:": 
+cssclasses:
+---
+The logarithmic function is defined as: 
+$$
+f(x) = \log x
+$$
++ Dom = {x > 0}
+
+See that this function has the following graph:
+
+**Remark:**
++ Using notation: $\log x = \ln x$
+
+![[Screenshot 2024-06-03 at 17.41.32.png]]

@@ -21,7 +21,8 @@ $$
 ![[Screenshot 2024-06-03 at 17.09.41.png]]
 + Arguments from this functions are always given **in radians**. 
 **Remarks:**
-
++ **Dom(sin x) = R**
++ **Dom(cos x) = R**
 + In **radiants** to degrees:
 
 	+ Any multiple of $\pi/2$ is multiple of 90º
@@ -34,6 +35,7 @@ Those functions that can be derived from the basic sin and cos, with their respe
 $$
 tan(x) = \frac{\sin x}{\cos x}
 $$
++ **Dom(tan x) =** $\{x \not = \frac{\pi}{2} + k\pi, k \in Z\}$ → There is no function for cos x = 0
 
 $$
 cotg(x) = \frac{1}{\tan x} = \frac{\cos x}{\sin x}

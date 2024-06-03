@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 165215 - Elementary functions.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,7 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 173629 - Logarithmic.md",
+                "file": "02 - Atomic/20240603 - 173629 - Definition - Logarithmic function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8b22e08d62889cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -35,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       },
       {
@@ -49,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 173629 - Logarithmic.md",
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 173629 - Logarithmic.md"
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md"
               }
             }
           }
@@ -228,11 +241,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "08642a9533326cba",
+  "active": "d8b22e08d62889cf",
   "lastOpenFiles": [
-    "02 - Atomic/20240603 - 173629 - Logarithmic.md",
-    "02 - Atomic/20240603 - 165215 - Elementary functions.md",
+    "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
+    "02 - Atomic/20240603 - 173629 - Definition - Logarithmic function.md",
+    "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 17.41.32.png",
     "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
+    "02 - Atomic/20240603 - 165215 - Elementary functions.md",
     "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "02 - Atomic/20240603 - 165400 - Definition - Polynomial function.md",
@@ -259,7 +274,6 @@
     "02 - Atomic/20240515 - 012315 - Subsets.md",
     "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/Sets of numbers.md",
-    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
@@ -272,7 +286,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.40.28.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.39.55.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.27.37.png",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
     "00.References/OS_Biblio_J.Carretero.pdf",
