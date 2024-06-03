@@ -14,10 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
+                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "ceeeff1050fcfca2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Calc_Theory_RealVarFuncs.pdf"
               }
             }
           },
@@ -35,7 +45,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       },
       {
@@ -154,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
+                "file": "00.References/Calc_Theory_RealVarFuncs.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
+                "file": "00.References/Calc_Theory_RealVarFuncs.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
+                "file": "00.References/Calc_Theory_RealVarFuncs.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +236,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.12842505331907286,
+                  "scale": 0.10556962515074363,
                   "close": true
                 }
               }
@@ -245,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md"
+                "file": "00.References/Calc_Theory_RealVarFuncs.pdf"
               }
             }
           }
@@ -272,13 +281,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6d648ea749618847",
+  "active": "08d0cca70a6e546c",
   "lastOpenFiles": [
-    "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
-    "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
-    "02 - Atomic/20240603 - 163014 - Definition - Function.md",
+    "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
     "00.References/Calc_Theory_RealVarFuncs.pdf",
+    "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
+    "02 - Atomic/20240603 - 163014 - Definition - Function.md",
     "02 - Atomic/Untitled 1.md",
     "02 - Atomic/20240603 - 173629 - Definition - Logarithmic function.md",
     "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
@@ -307,7 +316,6 @@
     "02 - Atomic/20240603 - 113531 - Definition - Intervals.md",
     "02 - Atomic/20240602 - 172932 - Sequences and series of real numbers.md",
     "02 - Atomic/20240603 - 114227 - Definition - Straight line.md",
-    "02 - Atomic/20240603 - 113531 -.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",

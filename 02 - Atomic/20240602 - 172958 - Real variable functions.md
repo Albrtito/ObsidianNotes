@@ -47,3 +47,8 @@ Some of the basic functions we’ll study and use are collected here:
 
 We’ll be working with compositions and variations of these functions. 
 
+## Operations with functions:
+
+See:[[Calc_Theory_RealVarFuncs.pdf]] (page 13)
+
+

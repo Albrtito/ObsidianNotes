@@ -2085,6 +2085,8 @@ tlIH
 tod
 tMm
 tnT
+tangent
+trigonometry
 dailyNote
 day
 during
@@ -6473,6 +6475,7 @@ cnP
 cvC
 cCd
 currentdict
+cotangent
 lifeOS
 liking
 las
@@ -32770,6 +32773,7 @@ hWz
 hLm
 hox
 hfV
+hyperbolic
 Before
 Burocracia
 Buses
@@ -48673,6 +48677,7 @@ sVY
 sBF
 ssrgWT
 sWpC
+sine
 No
 NOTE
 Normalmente
@@ -70716,6 +70721,7 @@ Hrv
 Hje
 HGu
 Hsvh
+Hyperbolic
 Journal
 January
 Jacobo

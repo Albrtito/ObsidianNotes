@@ -30,9 +30,12 @@ $$
 $$
 \coth x = \frac{\cosh x}{\sinh x}
 $$
-
-## Relation to trigonometry:
+## Properties:
+l
++ These functions are **not periodic**
+### Relation to trigonometry:
 Some properties are also satisfied: 
 $$
-\cosh
+\cosh^2 x - \sinh^2 x = 1
 $$
+
