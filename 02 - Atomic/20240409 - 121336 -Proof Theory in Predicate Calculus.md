@@ -1,10 +1,9 @@
 ---
 aliases: 
 tags:
-  - review
   - Logic
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-03
 sr-interval: 14
 sr-ease: 241

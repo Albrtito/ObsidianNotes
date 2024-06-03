@@ -3,7 +3,6 @@ aliases:
   - One variable Calculus
 Date: 2024-03-12
 tags:
-  - review
   - CalcI
 "References:":
   - https://ocw.uc3m.es/mod/page/view.php?id=5298

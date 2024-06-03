@@ -3,10 +3,9 @@ aliases:
   - PRENEX Normal form
   - PNF
 tags:
-  - review
   - Logic
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-02
 sr-interval: 25
 sr-ease: 270

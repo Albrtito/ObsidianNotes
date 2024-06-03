@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md"
+                "file": "02 - Atomic/20240528 - 103502 - The exponential differential equation.md"
               }
             }
           }
@@ -261,6 +261,12 @@
   },
   "active": "fb996a902f25f3c1",
   "lastOpenFiles": [
+    "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
+    "02 - Atomic/20240409 - 121336 -Proof Theory in Predicate Calculus.md",
+    "02 - Atomic/20240523 - 123037 - Assumptions.md",
+    "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
+    "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
+    "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/20240523 - 122919 - Propositional logic.md",
     "02 - Atomic/20240603 - 102925 - Definition - Neighbourhoods.md",
     "02 - Atomic/20240603 - 102925 -.md",
@@ -271,7 +277,6 @@
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "01.Areas/0.DailyNote/2024-06-03.md",
     "02 - Atomic/20240602 - 173244 - Method - Principle of induction.md",
-    "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/Sets of numbers.md",
     "02 - Atomic/20240602 - 173244 -.md",
     "02 - Atomic/20240602 - 172932 - Sequences and series of real numbers.md",
@@ -282,13 +287,8 @@
     "02 - Atomic/Taylor polynomial.md",
     "01.Areas/0.DailyNote/2024-06-02.md",
     "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
-    "01.Areas/0.DailyNote/2024-05-30.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
-    "01.Areas/0.DailyNote/2024-05-29.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
-    "01.Areas/0.DailyNote/2024-05-17.md",
-    "02 - Atomic/20240408 - 185315 - Definition 113 Generating function.md",
-    "02 - Atomic/Generating functions.md",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
     "00.References/References_Derivatives&Integrals.pdf",
     "00.References/Discrete_Theory_All.pdf",
