@@ -33,9 +33,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6987a3fd3455397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       },
       {
@@ -49,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 115107 - Conic curves.md",
+                "file": "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 115107 - Conic curves.md"
+                "file": "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md"
               }
             }
           }
@@ -228,8 +241,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fa7ce5f6596aa584",
+  "active": "b6987a3fd3455397",
   "lastOpenFiles": [
+    "02 - Atomic/20240603 - 115254 - Definition - Parabola.md",
+    "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
+    "02 - Atomic/20240603 - 115628 - Definition -  Circumference.md",
     "02 - Atomic/20240603 - 115107 - Conic curves.md",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "02 - Atomic/20240603 - 113531 - Definition - Intervals.md",
@@ -253,9 +269,6 @@
     "02 - Atomic/20240501 - 123051 - Unit testing.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/20240418 - 190338 - Fourier series.md",
-    "02 - Atomic/Absolute value of x.md",
-    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
-    "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",

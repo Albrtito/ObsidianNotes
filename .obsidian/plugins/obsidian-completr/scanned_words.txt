@@ -6340,6 +6340,7 @@ cualquier
 capaz
 closest
 curves
+conics
 lifeOS
 liking
 las
@@ -32112,6 +32113,7 @@ hQs
 haber
 hombre
 handy
+half
 Before
 Burocracia
 Buses
@@ -45480,6 +45482,7 @@ PROPOSED
 Ptp
 Polynomial
 PythonLib
+Parabola
 something
 start
 st
@@ -51554,6 +51557,7 @@ peso
 pensamiento
 proximity
 parameter
+parabola
 UC
 UNIDADES
 Unidades
@@ -67442,6 +67446,7 @@ Distiller
 Dxd
 DGq
 Derivatives
+Directrix
 HH
 Highlight
 Hay
@@ -73159,6 +73164,7 @@ Cjq
 Chosen
 Ceiling
 CalcI
+Conic
 your
 ya
 yo
