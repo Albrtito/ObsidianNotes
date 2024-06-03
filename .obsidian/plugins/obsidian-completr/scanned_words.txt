@@ -4149,6 +4149,9 @@ dFX
 detenerme
 drawing
 distance
+definici
+dada
+derivations
 check
 classes
 cssclasses
@@ -6347,6 +6350,8 @@ circumference
 cuts
 cone
 compiled
+coordinate
+cosine
 lifeOS
 liking
 las
@@ -12175,6 +12180,7 @@ fpF
 frase
 facilidad
 func
+funci
 Woke
 Write
 Went
@@ -26171,6 +26177,8 @@ TXO
 Tap
 Theoretically
 Trigonometric
+Tan
+TRIGFUNC
 Movement
 MM
 MMMM
@@ -30220,6 +30228,8 @@ razonar
 ranges
 radians
 radiants
+reformulate
+racism
 here
 hour
 home
@@ -35816,6 +35826,7 @@ wVC
 wju
 wXdC
 wellknown
+whoole
 end
 en
 el
@@ -39909,6 +39920,8 @@ Irx
 Izl
 IWq
 Introduce
+INSTEAD
+INSIDE
 Keep
 Key
 Kinds
@@ -43553,6 +43566,7 @@ niforme
 nEA
 novia
 noto
+notated
 Post
 Papeleos
 Para
@@ -45498,6 +45512,7 @@ PythonLib
 Parabola
 Placed
 Polynomials
+Partiendo
 something
 start
 st
@@ -47700,6 +47715,7 @@ ski
 stays
 situation
 situaci
+squares
 No
 NOTE
 Normalmente
@@ -77003,6 +77019,10 @@ SXH
 SJG
 Substitutions
 SeparationOfVariables
+Sin
+SUMS
+SOME
+SIN
 La
 Las
 Lanz
@@ -80659,6 +80679,7 @@ Oggi
 OaX
 OeD
 Oä
+Outputs
 varias
 verde
 visita
