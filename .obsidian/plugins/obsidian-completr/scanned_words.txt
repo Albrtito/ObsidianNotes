@@ -26168,6 +26168,7 @@ Tvg
 TXO
 Tap
 Theoretically
+Trigonometric
 Movement
 MM
 MMMM
@@ -45492,6 +45493,7 @@ Polynomial
 PythonLib
 Parabola
 Placed
+Polynomials
 something
 start
 st
@@ -78885,6 +78887,7 @@ LOYD
 LucyDK
 LLevo
 Lugar
+Logarithmic
 Otras
 Otros
 OS

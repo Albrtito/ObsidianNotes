@@ -33,8 +33,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "caa2f254f4906f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240603 - 165215 - Elementary functions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1bd1b5d99a3e342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       },
       {
@@ -48,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+                "file": "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md"
+                "file": "02 - Atomic/20240603 - 165616 - Definition - Rational function.md"
               }
             }
           }
@@ -227,10 +254,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fb996a902f25f3c1",
+  "active": "c1bd1b5d99a3e342",
   "lastOpenFiles": [
-    "02 - Atomic/20240603 - 163014 - Definition - Function.md",
+    "02 - Atomic/20240603 - 165400 - Definition - Polynomial function.md",
+    "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
+    "02 - Atomic/20240603 - 165215 - Elementary functions.md",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+    "02 - Atomic/20240603 - 163014 - Definition - Function.md",
     "02 - Atomic/20240603 - 115107 - Conic curves.md",
     "02 - Atomic/20240603 - 115628 - Definition -  Circumference.md",
     "02 - Atomic/20240603 - 115254 - Definition - Parabola.md",
@@ -252,9 +282,6 @@
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
-    "01.Areas/0.DailyNote/2024-06-03.md",
-    "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
-    "02 - Atomic/20240501 - 123051 - Unit testing.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
