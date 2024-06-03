@@ -4,9 +4,9 @@ tags:
   - review
   - CalcI
 "References:":
-sr-due: 2024-06-01
-sr-interval: 60
-sr-ease: 290
+sr-due: 2024-07-02
+sr-interval: 29
+sr-ease: 270
 ---
 ### Definition: 
 The absolute value of a variable x that is a real number is: 
@@ -26,17 +26,25 @@ This means the following:
 The absolute value for the subtraction of two values x and y outputs the distance there is between them (in the real line).  
 ### Properties: 
 $$
-\begin{aligned}
-& |x|^2=x^2 . \\
-& |x|=|-x| . \\
-& |x y|=|x||y| . \\
-& -|x| \leq x \leq|x| . \\
-& |x| \leq a \Longleftrightarrow-a \leq x \leq a \quad(\text { for all } a>0) . \\
-& |x| \geq a \Longleftrightarrow x \leq-a \text { or } x \geq a \quad \text { (for all } a>0) . \\
-& |x+y| \leq|x|+|y| \quad \text { (triangular inequality). } \\
-& |x|-|y| \leq|x-y| \leq|x|+|y| .
-\end{aligned}
+\begin{gather}
+ |x|^2=x^2 \\\\
+ 
+ |x|=|-x|  \\\\
+ 
+ |x y|=|x||y| \\\\
+ 
+ -|x| \leq x \leq|x| \\\\
+ 
+ |x| \leq a \Longleftrightarrow-a \leq x \leq a \quad\\(\text { for all } a>0)  \\\\
+ 
+ |x| \geq a \Longleftrightarrow x \leq-a \text { or } x \geq a \quad \\ \text { (for all } a>0) \\\\
+ 
+ |x+y| \leq|x|+|y| \quad \\ \text { (triangular inequality)} \\\\
+ 
+ |x|-|y| \leq|x-y| \leq|x|+|y|
+\end{gather}
 $$
+
 1. It is the same to have an absolute value squared than the variable squared
 2. Don't care about signs
 3. Important property about the ranges of x.

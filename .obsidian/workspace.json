@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
+                "file": "02 - Atomic/20240501 - 123051 - Unit testing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
+                "file": "02 - Atomic/20240501 - 123051 - Unit testing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240528 - 103502 - The exponential differential equation.md"
+                "file": "02 - Atomic/20240501 - 123051 - Unit testing.md"
               }
             }
           }
@@ -261,6 +261,10 @@
   },
   "active": "fb996a902f25f3c1",
   "lastOpenFiles": [
+    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+    "02 - Atomic/20240418 - 190338 - Fourier series.md",
+    "02 - Atomic/Absolute value of x.md",
+    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
     "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
     "02 - Atomic/20240409 - 121336 -Proof Theory in Predicate Calculus.md",
     "02 - Atomic/20240523 - 123037 - Assumptions.md",
@@ -283,10 +287,6 @@
     "02 - Atomic/Basic Functions.md",
     "02 - Atomic/Ceiling Funciton.md",
     "02 - Atomic/20240602 - 172932 -.md",
-    "02 - Atomic/Integration, fundamental theorems and techniques.md",
-    "02 - Atomic/Taylor polynomial.md",
-    "01.Areas/0.DailyNote/2024-06-02.md",
-    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",

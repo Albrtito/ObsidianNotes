@@ -4146,6 +4146,7 @@ decay
 dFX
 detenerme
 drawing
+distance
 check
 classes
 cssclasses
@@ -30202,6 +30203,7 @@ rearrange
 repente
 redes
 razonar
+ranges
 here
 hour
 home
@@ -45472,6 +45474,7 @@ PScript
 PROPOSED
 Ptp
 Polynomial
+PythonLib
 something
 start
 st
@@ -59492,6 +59495,7 @@ oIY
 oEQ
 oyKC
 oLc
+outputs
 References
 RRI
 RUTAS
@@ -76968,6 +76972,7 @@ SZL
 SXH
 SJG
 Substitutions
+SeparationOfVariables
 La
 Las
 Lanz
