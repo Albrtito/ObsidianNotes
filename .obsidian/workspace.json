@@ -6,7 +6,7 @@
       {
         "id": "9af070794635d90b",
         "type": "tabs",
-        "dimension": 80.12939001848429,
+        "dimension": 37.60932944606414,
         "children": [
           {
             "id": "c1bd1b5d99a3e342",
@@ -14,59 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08642a9533326cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240603 - 173629 - Definition - Logarithmic function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8b22e08d62889cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1903b45bac037bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08d0cca70a6e546c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
+                "file": "02 - Atomic/20240603 - 163014 - Definition - Function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,13 +22,12 @@
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       },
       {
-        "id": "ee1467cc77def7d1",
+        "id": "f7d7de943e194932",
         "type": "tabs",
-        "dimension": 19.87060998151571,
+        "dimension": 50.72886297376093,
         "children": [
           {
             "id": "36d1a43796975b90",
@@ -88,9 +35,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
+                "file": "02 - Atomic/20240603 - 163014 - Definition - Function.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -126,9 +73,26 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.059842705084061885,
+                  "scale": 0.3611457141532682,
                   "close": true
                 }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cea0faee848c5f97",
+        "type": "tabs",
+        "dimension": 11.661807580174926,
+        "children": [
+          {
+            "id": "08d0cca70a6e546c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Calc_Theory_RealVarFuncs.pdf"
               }
             }
           }
@@ -226,6 +190,35 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "2b3cacbbc8ee946a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Atomic/20240603 - 163014 - Definition - Function.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1450e88549b85358",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Atomic/20240603 - 163014 - Definition - Function.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       },
@@ -239,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md"
+                "file": "02 - Atomic/20240603 - 163014 - Definition - Function.md"
               }
             }
           }
@@ -247,8 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 512.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,20 +259,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "08d0cca70a6e546c",
+  "active": "c1bd1b5d99a3e342",
   "lastOpenFiles": [
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
-    "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
-    "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md",
-    "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
     "00.References/Calc_Theory_RealVarFuncs.pdf",
-    "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
-    "02 - Atomic/20240603 - 165215 - Elementary functions.md",
-    "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
-    "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 18.06.44.png",
-    "99 - Meta/0. Attachments/Pasted image 20240603180828.png",
+    "02 - Atomic/Untitled 1.md",
     "02 - Atomic/20240603 - 173629 - Definition - Logarithmic function.md",
     "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
+    "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
+    "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
+    "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
+    "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md",
+    "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
+    "02 - Atomic/20240603 - 165215 - Elementary functions.md",
+    "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 18.06.44.png",
+    "99 - Meta/0. Attachments/Pasted image 20240603180828.png",
     "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
     "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 17.41.32.png",
     "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
@@ -301,8 +294,6 @@
     "02 - Atomic/20240602 - 172932 - Sequences and series of real numbers.md",
     "02 - Atomic/20240603 - 114227 - Definition - Straight line.md",
     "02 - Atomic/20240603 - 113531 -.md",
-    "02 - Atomic/20240603 - 112803 - Definition - Inequalities.md",
-    "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
