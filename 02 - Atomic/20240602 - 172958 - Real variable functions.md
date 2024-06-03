@@ -4,7 +4,8 @@ aliases:
 tags:
   - review
   - CalcI
-"References:": 
+"References:":
+  - "[[Calc_Theory_RealVarFuncs.pdf]]"
 cssclasses:
 ---
 # Real variable functions: 
@@ -41,3 +42,9 @@ These functions can be drawn in graph obtaining the Cartesian coordinate:
 $$
 (x,f(x))
 $$
+Some of the basic functions we’ll study and use are collected here: 
++ [[20240603 - 165215 - Elementary functions|Basic functions]]
+
+We’ll be working with compositions and variations of these functions. 
+
+## Properties:

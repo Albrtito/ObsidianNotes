@@ -14,6 +14,7 @@ Collection of basic elementary functions for Calculus:
 + [[20240603 - 165823 - Definition - Root function|Root function]]
 + [[20240603 - 165923 - Definition - Trigonometric functions|Trigonometric functions]]
 + [[20240603 - 173629 - Definition - Logarithmic function|Logarithmic function]]
-+ Exponential function 
++ [[20240603 - 180502 - Definition - Exponential function|Exponential function]]
+
 
 

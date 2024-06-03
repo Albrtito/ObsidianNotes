@@ -10231,6 +10231,8 @@ FMac
 FoPR
 Funciton
 Focuses
+FUF
+FfA
 first
 from
 file
@@ -16346,6 +16348,7 @@ undo
 uRLh
 uWI
 uNL
+uity
 in
 is
 important
@@ -20475,6 +20478,8 @@ EXAMPLE
 ESIz
 Eub
 Ellipse
+Ebsf
+EQI
 breakfast
 benefit
 bien
@@ -30233,6 +30238,8 @@ radians
 radiants
 reformulate
 racism
+rWi
+rXT
 here
 hour
 home
@@ -39925,6 +39932,7 @@ IWq
 Introduce
 INSTEAD
 INSIDE
+Iqa
 Keep
 Key
 Kinds
@@ -41745,6 +41753,7 @@ KoF
 KGa
 KWr
 Knowing
+KFNX
 not
 now
 no
@@ -43570,6 +43579,7 @@ nEA
 novia
 noto
 notated
+nuzTD
 Post
 Papeleos
 Para
@@ -51594,6 +51604,7 @@ parameter
 parabola
 plotting
 particularly
+pzH
 UC
 UNIDADES
 Unidades
@@ -65542,6 +65553,7 @@ YDp
 Yxe
 YqZ
 YvH
+YWOgU
 DD
 Daily
 DAILY
@@ -78921,6 +78933,7 @@ Lugar
 Logarithmic
 Logarithm
 Logarithms
+Lmf
 Otras
 Otros
 OS
@@ -86279,6 +86292,7 @@ gLG
 gJm
 gfT
 geom
+gDy
 junio
 julio
 journaling
@@ -90254,6 +90268,7 @@ VJw
 Vydw
 Vna
 VrBB
+VnL
 Que
 Queremos
 QE
@@ -92108,6 +92123,7 @@ QzR
 QDC
 Qyv
 QhH
+QgM
 kindness
 key
 kept
@@ -97712,6 +97728,7 @@ ZoZ
 ZIp
 ZDEV
 ZpQ
+ZlL
 xr
 xx
 xz

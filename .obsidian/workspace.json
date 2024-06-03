@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 165215 - Elementary functions.md",
+                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -61,7 +61,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       },
       {
@@ -75,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
+                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,7 +112,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.4051118888984796,
+                  "scale": 0.059842705084061885,
                   "close": true
                 }
               }
@@ -226,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md"
+                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md"
               }
             }
           }
@@ -254,12 +253,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e1903b45bac037bf",
+  "active": "c1bd1b5d99a3e342",
   "lastOpenFiles": [
-    "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 18.06.44.png",
-    "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
-    "02 - Atomic/20240603 - 165215 - Elementary functions.md",
+    "00.References/Calc_Theory_RealVarFuncs.pdf",
     "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
+    "02 - Atomic/20240603 - 165215 - Elementary functions.md",
+    "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
+    "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 18.06.44.png",
+    "99 - Meta/0. Attachments/Pasted image 20240603180828.png",
     "02 - Atomic/20240603 - 173629 - Definition - Logarithmic function.md",
     "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
     "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
@@ -297,8 +298,6 @@
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.40.28.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.39.55.png",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
     "00.References/OS_Biblio_J.Carretero.pdf",
