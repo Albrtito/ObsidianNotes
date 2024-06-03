@@ -6,6 +6,9 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
+sr-due: 2024-06-06
+sr-interval: 3
+sr-ease: 252
 ---
 # Lost solutions in a DE
 When solving DEs, there is a chance that the Differential Equation expression is not valid for some value of y when using some method to obtain a solution to the DE.

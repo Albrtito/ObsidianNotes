@@ -7,6 +7,9 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
+sr-due: 2024-06-04
+sr-interval: 1
+sr-ease: 210
 ---
 # First order, homogeneous, substitutions ODEs
 Sometimes we can use an [[20240529 - 135228 - Method - u-substitution|u-substitution]] in order to transform an ODE to a form that we know and can solve. 

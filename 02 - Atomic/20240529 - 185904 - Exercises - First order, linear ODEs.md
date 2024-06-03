@@ -8,6 +8,9 @@ tags:
   - "[[20240528 - 121302 - First order, Linear  ODE|First order, Linear  ODE]]"
 cssclasses:
   - page-manila
+sr-due: 2024-06-05
+sr-interval: 2
+sr-ease: 248
 ---
 # Exercises - First order, linear ODEs
 
@@ -66,8 +69,19 @@ $$
 
 **Homogeneous:**
 $$
-u_h = e^{-sin(x)}
+u_h = Ce^{-sin(x)}
 $$
 
 **Particular:**
+$$
+u_p = sin(x) -1
+$$
+**Final solution:**
+
+$$
+u = Ce^{-\sin (x)} - 1 + sin(x)
+$$
+
+**Notes:**
++ Apply integration by parts with $e^{sin (x)} cos(x)$ as dv in order to obtain it’s antiderivative easily.
 

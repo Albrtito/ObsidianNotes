@@ -7,6 +7,9 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
+sr-due: 2024-06-04
+sr-interval: 1
+sr-ease: 210
 ---
 # First order, exact ODEs:
 Exact ODEs are those that can be written in the form: 
@@ -69,7 +72,7 @@ $$
 g(u)' = N - {\int [M(x,u)]dx\over \partial u}
 $$
 $$
-g(u) = \int g(u) du 
+g(u) = \int g(u)' du 
 $$
 Finally this value is inputted in f(x,u) to obtain the complete form of the function.
 
@@ -86,7 +89,7 @@ $$
 g(u)' = M - {\int [N(x,u)]du\over \partial x}
 $$
 $$
-g(u) = \int g(u) du 
+g(u) = \int g(u)' du 
 $$
 Finally this value is inputted in f(x,u) to obtain the complete form of the function.
 
