@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 165215 - Elementary functions.md",
+                "file": "02 - Atomic/20240603 - 165400 - Definition - Polynomial function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,7 +113,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.16269329533103777,
+                  "scale": 0.24076380943551218,
                   "close": true
                 }
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 165616 - Definition - Rational function.md"
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md"
               }
             }
           }
@@ -256,8 +256,10 @@
   },
   "active": "c1bd1b5d99a3e342",
   "lastOpenFiles": [
-    "02 - Atomic/20240603 - 165400 - Definition - Polynomial function.md",
+    "02 - Atomic/20240603 - 165823 - Definition - Root function.md",
+    "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
     "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
+    "02 - Atomic/20240603 - 165400 - Definition - Polynomial function.md",
     "02 - Atomic/20240603 - 165215 - Elementary functions.md",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "02 - Atomic/20240603 - 163014 - Definition - Function.md",
@@ -280,8 +282,6 @@
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-    "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
-    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
