@@ -25,3 +25,19 @@ The set of elementary curves that will be used during the UC3M calculus I course
 + [[20240603 - 115107 - Conic curves|Conic curves]]
 
 ## What is a function? Definitions:
+
+Partiendo de la definición de función dada aquí:
++ [[20240603 - 163014 - Definition - Function|Function]]
+
+Real variable functions are those such as: 
+$$
+f: A \rightarrow B
+$$
+$$
+A\in \mathbb{R}, B \in \mathbb{R}
+$$
+During the UC3M CalcI course we’ll be looking only at uni-variable calculus. This means only two dimensional functions. 
+These functions can be drawn in graph obtaining the Cartesian coordinate: 
+$$
+(x,f(x))
+$$
