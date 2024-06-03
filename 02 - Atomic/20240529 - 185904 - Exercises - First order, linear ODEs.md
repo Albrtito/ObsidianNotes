@@ -12,6 +12,7 @@ cssclasses:
 # Exercises - First order, linear ODEs
 
 ## 1. $u’ + u = 2e^{-x} + x^2$
+
 **Homogeneous:**
 $$
 u' + u = 0
@@ -47,8 +48,12 @@ $$
 
 
 ## 2. $y’ + \frac{y}{x} = x^2 -1$ , with x > 0
-**Homogeneous:** $u_h = Ce^{-\ln x} = {C\over x}$ 
+
+**Homogeneous:**
+$u_h = Ce^{-\ln x} = {C\over x}$ 
+
 **Particular:** $u_p = e^{-\ln x}\int e^{\ln x}(x^2 -1) = e^{-\ln x}\int (x^3 -x)$
+
 **Final solution:** 
 $$
 u(x) = \frac{C}{x} + \frac{x^3}{4} + \frac{-x}{2}
@@ -58,4 +63,11 @@ $$
 
 
 ## 3. $y’ + y\cos (x) = \sin (x) \cos (x)$
+
+**Homogeneous:**
+$$
+u_h = e^{-sin(x)}
+$$
+
+**Particular:**
 

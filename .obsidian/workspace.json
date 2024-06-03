@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-03.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240501 - 123051 - Unit testing.md",
+                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240501 - 123051 - Unit testing.md",
+                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240501 - 123051 - Unit testing.md"
+                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md"
               }
             }
           }
@@ -261,6 +261,11 @@
   },
   "active": "fb996a902f25f3c1",
   "lastOpenFiles": [
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+    "01.Areas/0.DailyNote/2024-06-03.md",
+    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+    "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
+    "02 - Atomic/20240501 - 123051 - Unit testing.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/20240418 - 190338 - Fourier series.md",
     "02 - Atomic/Absolute value of x.md",
@@ -276,17 +281,12 @@
     "02 - Atomic/20240603 - 102925 -.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
     "02 - Atomic/Predicate Logic.md",
-    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
-    "01.Areas/0.DailyNote/2024-06-03.md",
     "02 - Atomic/20240602 - 173244 - Method - Principle of induction.md",
     "02 - Atomic/Sets of numbers.md",
     "02 - Atomic/20240602 - 173244 -.md",
     "02 - Atomic/20240602 - 172932 - Sequences and series of real numbers.md",
-    "02 - Atomic/Basic Functions.md",
-    "02 - Atomic/Ceiling Funciton.md",
-    "02 - Atomic/20240602 - 172932 -.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
