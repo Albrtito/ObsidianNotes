@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d130c6dab32bdb07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3c1f02f815fe2b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/Sets of numbers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "479a4fdb7c7c290d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fb996a902f25f3c1",
             "type": "leaf",
             "state": {
@@ -60,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -138,14 +98,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0798c05747bb8eb0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "4d9e8083eba3a4a2",
             "type": "leaf",
             "state": {
@@ -176,6 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,14 +183,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,14 +212,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0798c05747bb8eb0",
+  "active": "fb996a902f25f3c1",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Calculus I.md",
+    "02 - Atomic/Sets of numbers.md",
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
-    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "01.Areas/0.DailyNote/2024-06-03.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "02 - Atomic/20240501 - 123051 - Unit testing.md",
@@ -276,14 +234,12 @@
     "02 - Atomic/20240523 - 123037 - Assumptions.md",
     "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
     "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
-    "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/20240523 - 122919 - Propositional logic.md",
     "02 - Atomic/20240603 - 102925 - Definition - Neighbourhoods.md",
     "02 - Atomic/20240603 - 102925 -.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
     "02 - Atomic/Predicate Logic.md",
     "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
-    "02 - Atomic/20240602 - 173244 - Method - Principle of induction.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
