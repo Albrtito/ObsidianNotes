@@ -8,7 +8,7 @@ tags:
 "References:": 
 cssclasses:
 ---
-The logarithmic function is defined as: 
+The logarithmic function is defined based on [[20240603 - 174244 - Definition - Logarithm|Logarithm]]s : 
 $$
 f(x) = \log x
 $$
