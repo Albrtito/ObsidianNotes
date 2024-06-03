@@ -1,9 +1,12 @@
 ---
+aliases:
+  - Intervals
+  - Definition - Intervals
 Date: 2024-03-12
 tags:
   - review
   - CalcI
-"References:":
+"References:": 
 sr-due: 2024-07-06
 sr-interval: 89
 sr-ease: 310
