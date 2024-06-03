@@ -6,6 +6,7 @@
       {
         "id": "9af070794635d90b",
         "type": "tabs",
+        "dimension": 75.97042513863215,
         "children": [
           {
             "id": "fb996a902f25f3c1",
@@ -19,9 +20,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14f1d7c281137ec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240602 - 172932 - Sequences and series of real numbers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5020543e89cb1ecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240603 - 112803 - Definition - Inequalities.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
+      },
+      {
+        "id": "ee1467cc77def7d1",
+        "type": "tabs",
+        "dimension": 24.029574861367838,
+        "children": [
+          {
+            "id": "36d1a43796975b90",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "02 - Atomic/20240603 - 112803 - Definition - Inequalities.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Calc  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#DiffCalc  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8548066
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0,
+                  "repelStrength": 17.3531310522918,
+                  "linkStrength": 0.595351839896708,
+                  "linkDistance": 374,
+                  "scale": 0.25242663996508524,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,62 +204,6 @@
         ]
       },
       {
-        "id": "f97aefa6b972e655",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "36d1a43796975b90",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#Calc  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "tag:#DiffCalc  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8548066
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0,
-                  "repelStrength": 17.3531310522918,
-                  "linkStrength": 0.595351839896708,
-                  "linkDistance": 374,
-                  "scale": 0.12003315226621605,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "2758c03c7f8ca0ae",
         "type": "tabs",
         "children": [
@@ -184,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md"
+                "file": "02 - Atomic/20240603 - 112803 - Definition - Inequalities.md"
               }
             }
           }
@@ -212,12 +241,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fb996a902f25f3c1",
+  "active": "5020543e89cb1ecd",
   "lastOpenFiles": [
+    "02 - Atomic/20240603 - 112803 - Definition - Inequalities.md",
+    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+    "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
+    "02 - Atomic/20240602 - 172932 - Sequences and series of real numbers.md",
+    "02 - Atomic/Sequences of real numbers.md",
+    "02 - Atomic/20240603 - 112254 -.md",
+    "02 - Atomic/20240515 - 012315 - Subsets.md",
     "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/Sets of numbers.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
@@ -234,12 +269,6 @@
     "02 - Atomic/20240523 - 123037 - Assumptions.md",
     "02 - Atomic/20240501 - 161016 - PRENEX Normal form.md",
     "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
-    "02 - Atomic/20240523 - 122919 - Propositional logic.md",
-    "02 - Atomic/20240603 - 102925 - Definition - Neighbourhoods.md",
-    "02 - Atomic/20240603 - 102925 -.md",
-    "02 - Atomic/20240307 - 000000 - ODEs.md",
-    "02 - Atomic/Predicate Logic.md",
-    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",

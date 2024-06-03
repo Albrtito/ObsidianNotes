@@ -12,4 +12,4 @@ cssclasses:
 
 Real functions are defined over a domain, this domain can belong to several [[Sets of numbers]]. Each of these sets has important properties and principles.
 
-##
+For any of these subsets we can define 
