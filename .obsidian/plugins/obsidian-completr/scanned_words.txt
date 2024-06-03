@@ -6343,6 +6343,8 @@ closest
 curves
 conics
 circumference
+cuts
+cone
 lifeOS
 liking
 las
@@ -26165,6 +26167,7 @@ TKt
 Tvg
 TXO
 Tap
+Theoretically
 Movement
 MM
 MMMM

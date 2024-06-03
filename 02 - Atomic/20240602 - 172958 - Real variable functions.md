@@ -22,4 +22,6 @@ Elementary curves are defined by basic/wellknown functions. The properties of th
 
 The set of elementary curves that will be used during the UC3M calculus I course is: 
 + [[20240603 - 114227 - Definition - Straight line|Definition - Straight line]]
-+ 
++ [[20240603 - 115107 - Conic curves|Conic curves]]
+
+## What is a function? Definitions:

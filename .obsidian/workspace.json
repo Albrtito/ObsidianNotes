@@ -6,7 +6,7 @@
       {
         "id": "9af070794635d90b",
         "type": "tabs",
-        "dimension": 75.97042513863215,
+        "dimension": 80.12939001848429,
         "children": [
           {
             "id": "fb996a902f25f3c1",
@@ -22,25 +22,12 @@
             }
           },
           {
-            "id": "fa7ce5f6596aa584",
+            "id": "7805c715cc0fe453",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 115107 - Conic curves.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6987a3fd3455397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
+                "file": "02 - Atomic/20240603 - 163014 - Definition - Function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -54,7 +41,7 @@
       {
         "id": "ee1467cc77def7d1",
         "type": "tabs",
-        "dimension": 24.029574861367838,
+        "dimension": 19.87060998151571,
         "children": [
           {
             "id": "36d1a43796975b90",
@@ -62,7 +49,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 115107 - Conic curves.md",
+                "file": "02 - Atomic/20240603 - 163014 - Definition - Function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -100,7 +87,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.5132097396831408,
+                  "scale": 0.16269329533103777,
                   "close": true
                 }
               }
@@ -213,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 115107 - Conic curves.md"
+                "file": "02 - Atomic/20240603 - 163014 - Definition - Function.md"
               }
             }
           }
@@ -241,14 +228,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fa7ce5f6596aa584",
+  "active": "7805c715cc0fe453",
   "lastOpenFiles": [
-    "02 - Atomic/20240603 - 162222 - Definition - Ellipse.md",
+    "02 - Atomic/20240603 - 163014 - Definition - Function.md",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
-    "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
     "02 - Atomic/20240603 - 115107 - Conic curves.md",
     "02 - Atomic/20240603 - 115628 - Definition -  Circumference.md",
     "02 - Atomic/20240603 - 115254 - Definition - Parabola.md",
+    "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
+    "02 - Atomic/20240603 - 162222 - Definition - Ellipse.md",
     "02 - Atomic/20240603 - 113531 - Definition - Intervals.md",
     "02 - Atomic/20240602 - 172932 - Sequences and series of real numbers.md",
     "02 - Atomic/20240603 - 114227 - Definition - Straight line.md",
@@ -268,7 +256,6 @@
     "01.Areas/0.DailyNote/2024-06-03.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "02 - Atomic/20240501 - 123051 - Unit testing.md",
-    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
