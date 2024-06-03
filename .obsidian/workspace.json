@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240602 - 173244 - Method - Principle of induction.md",
+                "file": "01.Areas/0.DailyNote/2024-06-03.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -164,8 +164,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f97aefa6b972e655",
@@ -177,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+                "file": "01.Areas/0.DailyNote/2024-06-03.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md"
+                "file": "01.Areas/0.DailyNote/2024-06-03.md"
               }
             }
           }
@@ -241,8 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 552.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,12 +259,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4d9e8083eba3a4a2",
+  "active": "479a4fdb7c7c290d",
   "lastOpenFiles": [
+    "02 - Atomic/20240602 - 173244 - Method - Principle of induction.md",
+    "01.Areas/0.DailyNote/2024-06-03.md",
+    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/Sets of numbers.md",
-    "02 - Atomic/20240602 - 173244 - Method - Principle of induction.md",
-    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "02 - Atomic/20240602 - 173244 -.md",
     "02 - Atomic/20240602 - 172932 - Sequences and series of real numbers.md",
     "02 - Atomic/Basic Functions.md",
@@ -290,7 +289,6 @@
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "01.Areas/1.UC3M/DiffCalc.md",
     "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
-    "02 - Atomic/20240307 - 000000 - ODEs.md",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
     "00.References/References_Derivatives&Integrals.pdf",
     "00.References/Discrete_Theory_All.pdf",
