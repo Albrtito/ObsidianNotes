@@ -34,4 +34,8 @@ $$
 \{(x,f(x)):x\in Dom(f)\}
 $$
 
+## The -ivities:
++ [[20240603 - 181804 - Definition - Injectivity|Injectivity]] or [[20240603 - 181804 - Definition - Injectivity|One to one]]
++ [[20240603 - 182102 - Definition - Surjectivity -|Surjectivity]]
++ [[20240603 - 182841 - Definition - Bijectivity|Bijectivity]]
 
