@@ -2055,6 +2055,7 @@ tIo
 tbxf
 treated
 terminar
+trico
 dailyNote
 day
 during
@@ -6341,6 +6342,7 @@ capaz
 closest
 curves
 conics
+circumference
 lifeOS
 liking
 las
@@ -10217,6 +10219,7 @@ FaH
 FMac
 FoPR
 Funciton
+Focuses
 first
 from
 file
@@ -20458,6 +20461,7 @@ Error
 EXAMPLE
 ESIz
 Eub
+Ellipse
 breakfast
 benefit
 bien
@@ -24149,6 +24153,7 @@ Gbe
 Gnb
 GSKd
 GWX
+Geom
 Training
 Today
 Tomorrow
@@ -45483,6 +45488,7 @@ Ptp
 Polynomial
 PythonLib
 Parabola
+Placed
 something
 start
 st
@@ -69271,6 +69277,7 @@ HPh
 HOOW
 Hnw
 HQhz
+Hyperbola
 Journal
 January
 Jacobo
@@ -73165,6 +73172,7 @@ Chosen
 Ceiling
 CalcI
 Conic
+Circumference
 your
 ya
 yo
@@ -78873,6 +78881,7 @@ LFN
 LOYD
 LucyDK
 LLevo
+Lugar
 Otras
 Otros
 OS
@@ -86229,6 +86238,7 @@ growth
 gLG
 gJm
 gfT
+geom
 junio
 julio
 journaling
