@@ -59,8 +59,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08d0cca70a6e546c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 4,
         "stacked": true
       },
       {
@@ -74,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+                "file": "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md"
+                "file": "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md"
               }
             }
           }
@@ -253,8 +267,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1bd1b5d99a3e342",
+  "active": "08d0cca70a6e546c",
   "lastOpenFiles": [
+    "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md",
+    "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
+    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "00.References/Calc_Theory_RealVarFuncs.pdf",
     "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
     "02 - Atomic/20240603 - 165215 - Elementary functions.md",
@@ -266,7 +283,6 @@
     "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
     "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 17.41.32.png",
     "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
-    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "02 - Atomic/20240603 - 165400 - Definition - Polynomial function.md",
     "02 - Atomic/20240603 - 163014 - Definition - Function.md",
     "99 - Meta/0. Attachments/Pasted image 20240603171640.png",
@@ -287,7 +303,6 @@
     "02 - Atomic/20240603 - 112803 - Definition - Inequalities.md",
     "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
     "02 - Atomic/Sequences of real numbers.md",
-    "02 - Atomic/20240603 - 112254 -.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
@@ -302,7 +317,6 @@
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
     "00.References/OS_Biblio_J.Carretero.pdf",
     "00.References/OS_Biblio_OpSystemConcepts.pdf",
-    "00.References/DiffCalc_Theory_EcuacionDeCalor.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/1.UC3M/Files and data bases.canvas",

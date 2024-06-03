@@ -48,3 +48,5 @@ Some of the basic functions we’ll study and use are collected here:
 We’ll be working with compositions and variations of these functions. 
 
 ## Properties:
++ [[20240603 - 181804 - Definition - Injectivity|Injectivity]]
++ 
