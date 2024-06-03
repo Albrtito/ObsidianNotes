@@ -8336,6 +8336,7 @@ lOc
 llH
 lang
 leMk
+logarithm
 First
 Fechas
 Familias
@@ -18493,6 +18494,7 @@ inter
 inquieto
 isomorphic
 inequalities
+interesting
 Enough
 Esta
 Est
@@ -51589,6 +51591,8 @@ pensamiento
 proximity
 parameter
 parabola
+plotting
+particularly
 UC
 UNIDADES
 Unidades
@@ -78914,6 +78918,8 @@ LucyDK
 LLevo
 Lugar
 Logarithmic
+Logarithm
+Logarithms
 Otras
 Otros
 OS
