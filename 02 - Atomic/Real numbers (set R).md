@@ -19,6 +19,6 @@ The set of real numbers is indicated by the letter R. This set is the union of t
 The set R increases. Given two real numbers either one is bigger than the other or they are equal.
 ## 2. ![Absolute value of x](Absolute%20value%20of%20x.md)
 ## 3. ![Intervals](Intervals.md)
-## 4. ![neighbourhoods](neighbourhoods.md)
+## 4. ![20240603 - 102925 - Definition - Neighbourhoods](20240603%20-%20102925%20-%20Definition%20-%20Neighbourhoods.md)
 ## 5. ![Subsets of  R, Bounds, Supremum, máximum, infimum, minimum](Subsets%20of%20%20R,%20Bounds,%20Supremum,%20máximum,%20infimum,%20minimum.md)
 

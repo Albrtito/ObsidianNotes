@@ -6,8 +6,8 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
-sr-due: 2024-05-30
-sr-interval: 1
+sr-due: 2024-06-10
+sr-interval: 7
 sr-ease: 230
 ---
 # First order, linear ODE 
@@ -22,7 +22,7 @@ $$
 + Solution is the function u(x) or u.
 **Where:**
 + $a_1(x)$ is a function of x multiplying the first derivative of u
-+ $a_2(x)$ is a function of x multiplying the function u
++ $a_0(x)$ is a function of x multiplying the function u
 + F(x) is a function of x
 
 **Remarks:**
@@ -79,7 +79,8 @@ $$
 
 **Remark:**
 + For the non-homogeneous part, the integral will need to be usually done applying [[20240529 - 132751 - Method -Integration by parts|Integration by parts]]
-+ The value: $e^{g(x)}\over a_1(x)$ is called **integrating factor** because it reduces the non-homogeneous part in order to solve by direct integration. #Duda : Same as last one in this same document. 
++ The value: $e^{g(x)}\over a_1(x)$ is called **integrating factor** because it reduces the non-homogeneous part in order to solve by direct integration.
++ #Duda : Same as last one in this same document. 
 + This solution is also true for an ODE of n-th order 
 
 ## Solved examples: 

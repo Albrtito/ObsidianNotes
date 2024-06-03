@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
+                "file": "01.Areas/1.UC3M/Calculus I.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
+                "file": "01.Areas/1.UC3M/Calculus I.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md"
+                "file": "01.Areas/1.UC3M/Calculus I.md"
               }
             }
           }
@@ -261,6 +261,13 @@
   },
   "active": "fb996a902f25f3c1",
   "lastOpenFiles": [
+    "02 - Atomic/20240523 - 122919 - Propositional logic.md",
+    "02 - Atomic/20240603 - 102925 - Definition - Neighbourhoods.md",
+    "02 - Atomic/20240603 - 102925 -.md",
+    "02 - Atomic/20240307 - 000000 - ODEs.md",
+    "02 - Atomic/Predicate Logic.md",
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "01.Areas/0.DailyNote/2024-06-03.md",
     "02 - Atomic/20240602 - 173244 - Method - Principle of induction.md",
@@ -280,15 +287,8 @@
     "01.Areas/0.DailyNote/2024-05-29.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "01.Areas/0.DailyNote/2024-05-17.md",
-    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240408 - 185315 - Definition 113 Generating function.md",
     "02 - Atomic/Generating functions.md",
-    "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
-    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
-    "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
-    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-    "01.Areas/1.UC3M/DiffCalc.md",
-    "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
     "00.References/References_Derivatives&Integrals.pdf",
     "00.References/Discrete_Theory_All.pdf",

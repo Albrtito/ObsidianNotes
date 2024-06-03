@@ -2,7 +2,6 @@
 Date: 2024-03-12
 tags:
   - Logic
-  - "#review"
 "References:": 
 sr-due: 2024-06-02
 sr-interval: 61
