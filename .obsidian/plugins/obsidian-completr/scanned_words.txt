@@ -33984,6 +33984,7 @@ BpCD
 BYYfCq
 BMD
 BeReal
+Bijectivity
 we
 would
 what
@@ -47733,6 +47734,7 @@ stays
 situation
 situaci
 squares
+surjective
 No
 NOTE
 Normalmente
@@ -77044,6 +77046,8 @@ Sin
 SUMS
 SOME
 SIN
+Surjectivity
+Surjecticity
 La
 Las
 Lanz

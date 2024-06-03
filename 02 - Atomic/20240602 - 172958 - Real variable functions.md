@@ -48,5 +48,6 @@ Some of the basic functions we’ll study and use are collected here:
 We’ll be working with compositions and variations of these functions. 
 
 ## Properties:
-+ [[20240603 - 181804 - Definition - Injectivity|Injectivity]]
-+ 
++ [[20240603 - 181804 - Definition - Injectivity|Injectivity]] or [[20240603 - 181804 - Definition - Injectivity|One to one]]
++ [[20240603 - 182102 - Definition - Surjectivity -|Surjectivity]]
++ [[20240603 - 182841 - Definition - Bijectivity|Bijectivity]]

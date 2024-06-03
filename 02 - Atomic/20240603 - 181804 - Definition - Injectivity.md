@@ -22,3 +22,7 @@ $$
 x_1 = x_2
 $$
 
+Trace a horizontal line from any point in B. This line **must intersect the graph AT MOST ONCE**
+
+f.e:
++ A parabola is **not injective**

@@ -66,7 +66,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
+                "file": "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
+                "file": "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md"
+                "file": "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md"
               }
             }
           }
@@ -269,9 +269,10 @@
   },
   "active": "08d0cca70a6e546c",
   "lastOpenFiles": [
-    "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md",
-    "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+    "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
+    "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md",
+    "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
     "00.References/Calc_Theory_RealVarFuncs.pdf",
     "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
     "02 - Atomic/20240603 - 165215 - Elementary functions.md",
@@ -302,7 +303,6 @@
     "02 - Atomic/20240603 - 113531 -.md",
     "02 - Atomic/20240603 - 112803 - Definition - Inequalities.md",
     "02 - Atomic/20240519 - 172613 - Well-ordered set.md",
-    "02 - Atomic/Sequences of real numbers.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
