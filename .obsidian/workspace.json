@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+                "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-03.md",
+                "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-03.md"
+                "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md"
               }
             }
           }
@@ -240,7 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 552.5
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,11 +259,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "479a4fdb7c7c290d",
+  "active": "fb996a902f25f3c1",
   "lastOpenFiles": [
-    "02 - Atomic/20240602 - 173244 - Method - Principle of induction.md",
-    "01.Areas/0.DailyNote/2024-06-03.md",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+    "01.Areas/0.DailyNote/2024-06-03.md",
+    "02 - Atomic/20240602 - 173244 - Method - Principle of induction.md",
     "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/Sets of numbers.md",
     "02 - Atomic/20240602 - 173244 -.md",
