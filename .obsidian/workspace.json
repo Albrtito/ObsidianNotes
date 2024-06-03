@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       },
       {
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
+                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md"
+                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md"
               }
             }
           }
@@ -267,11 +267,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1bd1b5d99a3e342",
+  "active": "fa9a3b10669c4f44",
   "lastOpenFiles": [
+    "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
     "99 - Meta/0. Attachments/Pasted image 20240603171640.png",
     "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
-    "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
     "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 17.09.41.png",
     "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 17.09.08.png",
     "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 17.08.31.png",
@@ -311,7 +311,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.40.28.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.39.55.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.27.37.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.27.14.png",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
     "00.References/OS_Biblio_J.Carretero.pdf",
