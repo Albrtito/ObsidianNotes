@@ -20,4 +20,6 @@ Finally, using the relation provided by inequalities [[20240603 - 113531 - Defin
 ## Elementary curves: 
 Elementary curves are defined by basic/wellknown functions. The properties of these functions come usually in handy to solve exercises and understand more complex definitions.
 
-The set of elementary curves that will be used during the UC3M calculus 
+The set of elementary curves that will be used during the UC3M calculus I course is: 
++ [[20240603 - 114227 - Definition - Straight line|Definition - Straight line]]
++ 
