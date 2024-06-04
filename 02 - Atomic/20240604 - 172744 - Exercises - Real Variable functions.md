@@ -13,7 +13,7 @@ cssclasses:
 
 Collection of solving methods for exercises provided in UC3M calculus course. 
 
-## 1. Prove an inequality: 
+## Prove an inequality: 
 Given:
 $$
 0< a < b: k > 0
@@ -39,6 +39,27 @@ $$
 \sqrt{ab}< \frac{a+b}{2}\\
 2\sqrt{ab} < a + b \\
 ab < \frac{(a+b)^2}{4}\\
-
+ab < \frac{a^2 + b^2 + 2ab}{4}\\
+0 < -2ab + a^2 + b^2\\
+\boxed{0 < (a-b)^2 : a \not = b}
 \end{gather}
 $$
+
+## Prove that some formula is multiple of m.
+
+Basic method with this types of exercises is to first of all factor the relation. 
+f.e: Given $n^2-n$ first obtain: $n(n-1)$
+
+Once factored, reason what types of multiples those factors must be. For this last example, either n or n-1 must be even. Therefore $n^2 - n$ must be even. 
+
+For composite numbers, find it’s decomposition in some of it’s multiples: 
+
+### 2.3: Given $n^2-1$ with n odd, prove that it is multiple of 8: 
+$$
+n^2 - 1 = (n-1)(n+1)
+$$
+If n is odd both factors must be even. One multiple of 2 and the other multiple of 4. From this we get 8. 
+
+### 5.1: $n\in N$ $10 ^n - 1$ => Multiple of 9
+
+
