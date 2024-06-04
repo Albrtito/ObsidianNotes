@@ -8,6 +8,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-07
+sr-interval: 3
+sr-ease: 250
 ---
 # Injectivity:
 

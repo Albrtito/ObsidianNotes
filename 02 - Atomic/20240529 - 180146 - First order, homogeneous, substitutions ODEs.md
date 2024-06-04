@@ -7,9 +7,9 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
-sr-due: 2024-06-04
+sr-due: 2024-06-05
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 # First order, homogeneous, substitutions ODEs
 Sometimes we can use an [[20240529 - 135228 - Method - u-substitution|u-substitution]] in order to transform an ODE to a form that we know and can solve. 
@@ -40,10 +40,24 @@ In order to check that the condition holds, rearrange the equation for u’.
 
 Once checked that the condition holds we can apply [[20240529 - 135228 - Method - u-substitution|u-substitution]] with the following changes:
 
-**Introduce y:** 
+### Change of var: 
+
 **Form 1:**
 + y = x/u 
-Then u’ is 
+
+Then u’ is: 
++ $u = x/y$
++ $\frac{du}{dx} = \frac{dx/y(x)}{dx}$
+
+**Form 2:** (preferred form)
+With this form the derivative of u is a product instead of a quotient.
+
 + y = u/x
+
+Then u’ is:
++ $u = y\cdot x$
++ $u’ = x\cdot dy + y \cdot dx$
+
+
 
 Finally, the new ODE is [[20240528 - 110528 - Separable ODEs|Separable ODEs]], and therefore solvable.

@@ -6,6 +6,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-08
+sr-interval: 4
+sr-ease: 270
 ---
 Inequalities define relations between the elements of a set, there are four of them: 
 

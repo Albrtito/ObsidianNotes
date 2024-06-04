@@ -7,6 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-07
+sr-interval: 3
+sr-ease: 250
 ---
 The Ellipse is defined as el Lugar Geométrico of: 
 + **Points with the same distance to the SUM of two fixed points** → Focuses

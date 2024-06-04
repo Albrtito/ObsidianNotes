@@ -24630,6 +24630,7 @@ GDWs
 Gla
 Goe
 GIY
+Greater
 Training
 Today
 Tomorrow
@@ -28718,6 +28719,7 @@ MKI
 MfD
 Mub
 MkVDx
+MOST
 reflections
 reels
 routine
@@ -32778,6 +32780,7 @@ hLm
 hox
 hfV
 hyperbolic
+horizontal
 Before
 Burocracia
 Buses
@@ -40727,6 +40730,8 @@ IjR
 IGP
 Ife
 IUsf
+Intercept
+Inequalities
 Keep
 Key
 Kinds
@@ -46443,6 +46448,7 @@ PDl
 PvD
 PWzWG
 Print
+Point
 something
 start
 st
@@ -48687,6 +48693,7 @@ sine
 suele
 supposed
 seems
+surrounding
 No
 NOTE
 Normalmente
@@ -78595,6 +78602,9 @@ Szk
 SsAn
 SsZ
 SxG
+Straight
+Slope
+Smaller
 La
 Las
 Lanz
