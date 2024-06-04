@@ -80,16 +80,16 @@ Finally this value is inputted in f(x,u) to obtain the complete form of the func
 
 $$
 \begin{gather}
-	\frac{\partial f}{\partial x} = \frac{g(u) + \int [N(x,u)]du }{\partial x}\\
-\frac{\partial f}{\partial x} =  g(u)' + {\int [M(x,u)]du\over \partial x} = M
+	\frac{\partial f}{\partial x} = \frac{g(x) + \int [N(x,u)]du }{\partial x}\\
+\frac{\partial f}{\partial x} =  g(x)' + {\int [M(x,u)]du\over \partial x} = M
 \end{gather}
 $$
 Then we can get the value of g(u)
 $$
-g(u)' = M - {\int [N(x,u)]du\over \partial x}
+g(x)' = M - {\int [N(x,u)]du\over \partial x}
 $$
 $$
-g(u) = \int g(u)' du 
+g(x) = \int g(u)' du 
 $$
 Finally this value is inputted in f(x,u) to obtain the complete form of the function.
 

@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+                "file": "00.References/Calc_Theory_RealVarFuncs.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+                "file": "00.References/Calc_Theory_RealVarFuncs.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+                "file": "00.References/Calc_Theory_RealVarFuncs.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md"
+                "file": "00.References/Calc_Theory_RealVarFuncs.pdf"
               }
             }
           }
@@ -258,8 +258,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1bd1b5d99a3e342",
+  "active": "08d0cca70a6e546c",
   "lastOpenFiles": [
+    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "00.References/Calc_Theory_RealVarFuncs.pdf",
     "01.Areas/0.DailyNote/2024-06-04.md",
