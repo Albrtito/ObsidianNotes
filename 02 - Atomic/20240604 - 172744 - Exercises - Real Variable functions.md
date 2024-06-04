@@ -80,3 +80,15 @@ $$
 
 $$
 ## Induction: 
+
+### Induction with SUMs: 
+Divide the n+1 sum into the sum until n plus the value for n+1: 
+f.e: Given: $\sum_1^n j = \frac{n(n+1)}{2}$ 
+	For n +1: 
+$$
+	\sum ^{n+1}_1 j = \sum^n_1j + (n+1)
+$$
+	Then use the relation assumed for n.
+
+### Induction with inequalities: 
+Use the assumed inequality for n in order to rearrange the n+1 inequality to obtain something that can be proven as greater than, etc…
