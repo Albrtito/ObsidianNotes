@@ -41,7 +41,9 @@ In order to check that the condition holds, rearrange the equation for u’.
 Once checked that the condition holds we can apply [[20240529 - 135228 - Method - u-substitution|u-substitution]] with the following changes:
 
 **Introduce y:** 
+**Form 1:**
 + y = x/u 
+Then u’ is 
 + y = u/x
 
 Finally, the new ODE is [[20240528 - 110528 - Separable ODEs|Separable ODEs]], and therefore solvable.
