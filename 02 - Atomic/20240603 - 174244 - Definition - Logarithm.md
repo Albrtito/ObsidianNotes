@@ -7,6 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-06
+sr-interval: 2
+sr-ease: 247
 ---
 # Logarithm: 
 

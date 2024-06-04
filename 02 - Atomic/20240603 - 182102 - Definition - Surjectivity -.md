@@ -7,6 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-07
+sr-interval: 3
+sr-ease: 250
 ---
 A function f: A→ B is **surjective** if:
 + For all y in B there **exists at least one x in A such as f(x) = y**

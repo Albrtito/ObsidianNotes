@@ -7,6 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-05
+sr-interval: 1
+sr-ease: 232
 ---
 The Hyperbola is el lugar geométrico where all points have:
 + **Same distance to the difference of two fixed points** → Focuses. 
@@ -20,4 +23,4 @@ $$
 a,b \not = 0: a^2 + b^2 = c^2
 \end{gather}
 $$
-
+![[Pasted image 20240604123511.png]]

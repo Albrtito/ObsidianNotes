@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md"
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md"
               }
             }
           }
@@ -255,6 +255,14 @@
   },
   "active": "c1bd1b5d99a3e342",
   "lastOpenFiles": [
+    "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
+    "02 - Atomic/20240603 - 165215 - Elementary functions.md",
+    "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
+    "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
+    "02 - Atomic/20240603 - 165400 - Definition - Polynomial function.md",
+    "02 - Atomic/20240603 - 163014 - Definition - Function.md",
+    "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
+    "99 - Meta/0. Attachments/Pasted image 20240604123511.png",
     "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
     "02 - Atomic/20240603 - 115628 - Definition -  Circumference.md",
     "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
@@ -276,13 +284,6 @@
     "00.References/Calc_Theory_RealVarFuncs.pdf",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "01.Areas/0.DailyNote/2024-06-04.md",
-    "01.Areas/0.DailyNote/2024-06-03.md",
-    "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
-    "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
-    "02 - Atomic/20240603 - 163014 - Definition - Function.md",
-    "02 - Atomic/Untitled 1.md",
-    "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
-    "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
     "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 18.06.44.png",
     "99 - Meta/0. Attachments/Pasted image 20240603180828.png",
     "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 17.41.32.png",
@@ -299,7 +300,6 @@
     "Differential Calculus.canvas",
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
-    "99 - Meta/0. Attachments/Screenshot 2024-05-24 at 02.52.12.png",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
     "00.References/OS_Biblio_J.Carretero.pdf",
