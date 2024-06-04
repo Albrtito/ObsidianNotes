@@ -6481,6 +6481,7 @@ cvC
 cCd
 currentdict
 cotangent
+cosec
 lifeOS
 liking
 las
@@ -26704,6 +26705,7 @@ TJV
 TlCo
 TQYvTg
 TJz
+Thee
 Movement
 MM
 MMMM
@@ -30841,6 +30843,7 @@ rzhcM
 rXH
 rCp
 romer
+reversing
 here
 hour
 home
@@ -56768,6 +56771,8 @@ AhJ
 Aie
 AKBA
 Apuntes
+Arcsin
+Arcos
 all
 at
 aliases
@@ -58857,6 +58862,10 @@ aRHRd
 amlN
 aOO
 aQTZ
+arcsin
+arccos
+arcos
+arc
 of
 otro
 opciones
@@ -74712,6 +74721,7 @@ CIDInit
 CMapName
 CMapType
 CMap
+CAREFUL
 your
 ya
 yo
