@@ -7,11 +7,10 @@ tags:
   - review
   - DiffCalc
 "References:": 
-sr-due: 2024-07-03
-sr-interval: 64
+sr-due: 2024-11-09
+sr-interval: 158
 sr-ease: 247
-cssclasses:
-  - page-theorem
+cssclasses: []
 ---
 
 > [!NOTE] Theorem: 

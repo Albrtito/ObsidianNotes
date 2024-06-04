@@ -6,7 +6,6 @@
       {
         "id": "9af070794635d90b",
         "type": "tabs",
-        "dimension": 62.46537396121884,
         "children": [
           {
             "id": "c1bd1b5d99a3e342",
@@ -14,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Convolution product.md",
+                "file": "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "684c55f2fcad4e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -23,23 +35,6 @@
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "573aea7cec44d815",
-        "type": "tabs",
-        "dimension": 37.53462603878116,
-        "children": [
-          {
-            "id": "f5add0aad4ef2321",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/DiffCalc_Exercises_S1.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/Convolution product.md",
+                "file": "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/Convolution product.md",
+                "file": "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/Convolution product.md",
+                "file": "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,7 +208,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.33527337619635456,
+                  "scale": 0.1374036589777103,
                   "close": true
                 }
               }
@@ -231,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/Convolution product.md"
+                "file": "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md"
               }
             }
           }
@@ -260,8 +255,13 @@
   },
   "active": "c1bd1b5d99a3e342",
   "lastOpenFiles": [
-    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "00.References/DiffCalc_Exercises_S1.pdf",
+    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
+    "02 - Atomic/Convolution product.md",
+    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
+    "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
+    "02 - Atomic/Using the convolution product to solve ODEs.md",
+    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "00.References/Calc_Theory_RealVarFuncs.pdf",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "01.Areas/0.DailyNote/2024-06-04.md",
@@ -289,11 +289,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 17.08.31.png",
     "02 - Atomic/20240603 - 165823 - Definition - Root function.md",
     "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
-    "02 - Atomic/20240603 - 115107 - Conic curves.md",
-    "02 - Atomic/20240603 - 115628 - Definition -  Circumference.md",
-    "02 - Atomic/20240603 - 115254 - Definition - Parabola.md",
-    "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
-    "02 - Atomic/20240603 - 162222 - Definition - Ellipse.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",

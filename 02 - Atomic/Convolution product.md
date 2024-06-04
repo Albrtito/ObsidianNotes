@@ -4,9 +4,9 @@ tags:
   - review
   - DiffCalc
 "References:":
-sr-due: 2024-06-04
-sr-interval: 42
-sr-ease: 224
+sr-due: 2024-06-26
+sr-interval: 22
+sr-ease: 204
 ---
 # Intro: 
 Suppose that we've the [The Laplace transform](The%20Laplace%20transform.md) H(s) = $\zeta\{h(t)\}$ , with H(s) = F(s) G(s) where F(s) = $\zeta\{f(t)\}, G(s) = \zeta\{g(t)\}$ (f,g known)
