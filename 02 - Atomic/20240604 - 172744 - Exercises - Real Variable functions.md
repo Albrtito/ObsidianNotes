@@ -105,3 +105,6 @@ $$
 $$
 \ln x = -1 : x = e^{-1} = \frac{1}{e}
 $$
+## Trigonometric relations:
+
+Prove: $\sin^2 x = \frac{1-\cos(2x)}{2}$ using [[20240603 - 171608 - Trigonometric relations|Trigonometric relations]]
