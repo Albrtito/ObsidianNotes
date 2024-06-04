@@ -61,5 +61,22 @@ $$
 If n is odd both factors must be even. One multiple of 2 and the other multiple of 4. From this we get 8. 
 
 ### 5.1: $n\in N$ $10 ^n - 1$ => Multiple of 9
+$$
+\begin{gather}
+10^n -1 = 9k\\
+¿10^{n+1} -1  ?
+\end{gather}
+$$
+Include a $-10^n + 10^n$ in order to obtain the following:
+$$
+\begin{gather}
+10^{n+1} -1 + 10^n - 10^n = \\
+10^{n+1} + 9k - 10^n = 10^n(10-1) + 9k =\\
+10^n(9) + 9k = 9[10^n + k]
+\end{gather}
+$$
 
+$$
 
+$$
+## Induction: 
