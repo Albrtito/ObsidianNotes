@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Absolute value of x.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,7 +208,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.21032656053835594,
+                  "scale": 0.1551764011870359,
                   "close": true
                 }
               }
@@ -227,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md"
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md"
               }
             }
           }
@@ -254,12 +253,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "684c55f2fcad4e7d",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
-    "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "02 - Atomic/Absolute value of x.md",
-    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
+    "00.References/Calc_Exercises_RealVarFuncs.pdf",
+    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
     "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
     "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
@@ -303,7 +302,6 @@
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/Discreta_Exercises_All_Solved.pdf",
     "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
-    "00.References/OS_Biblio_J.Carretero.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/1.UC3M/Files and data bases.canvas",

@@ -50,6 +50,7 @@ $$\sec(x) = \frac{1}{\cos x}$$
 $$cosec (x) = \frac{1}{sin(x)}$$
 ![[Screenshot 2024-06-03 at 17.09.08.png]]
 
+**CAREFUL:** sec(x) and cosec(x) are not the same as the 
 ## Trigonometric relations:
 All trigonometric functions are related in several ways, these relations are compiled in the following note: 
 + [[20240603 - 171608 - Trigonometric relations|Trigonometric relations]]
