@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
+                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
+                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
+                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
+                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md"
+                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md"
               }
             }
           }
@@ -255,6 +255,12 @@
   },
   "active": "c1bd1b5d99a3e342",
   "lastOpenFiles": [
+    "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
+    "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
+    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+    "02 - Atomic/20240603 - 165823 - Definition - Root function.md",
+    "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
+    "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
     "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
     "02 - Atomic/20240603 - 165215 - Elementary functions.md",
     "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
@@ -277,13 +283,7 @@
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "00.References/DiffCalc_Exercises_S1.pdf",
-    "02 - Atomic/Convolution product.md",
-    "02 - Atomic/20240319 - 000000 - Theorem - Convolution.md",
-    "02 - Atomic/Using the convolution product to solve ODEs.md",
-    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "00.References/Calc_Theory_RealVarFuncs.pdf",
-    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
-    "01.Areas/0.DailyNote/2024-06-04.md",
     "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 18.06.44.png",
     "99 - Meta/0. Attachments/Pasted image 20240603180828.png",
     "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 17.41.32.png",

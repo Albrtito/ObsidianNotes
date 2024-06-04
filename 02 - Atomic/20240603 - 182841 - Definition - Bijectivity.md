@@ -7,6 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-12
+sr-interval: 8
+sr-ease: 250
 ---
 A function f: A→ B is **bijective** if:
 + It follows [[20240603 - 181804 - Definition - Injectivity|Injectivity]]

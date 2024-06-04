@@ -6,6 +6,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-05
+sr-interval: 1
+sr-ease: 208
 ---
 Trigonometric relations are those that connect trigonometric functions between them. 
 Really useful to reformulate some functions or statements to solve exercises, derivations, etc.
