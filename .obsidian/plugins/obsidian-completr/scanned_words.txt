@@ -2087,6 +2087,7 @@ tMm
 tnT
 tangent
 trigonometry
+timer
 dailyNote
 day
 during
@@ -4228,6 +4229,8 @@ dHS
 dZw
 dkcJ
 defineresource
+descansos
+demanding
 check
 classes
 cssclasses
@@ -16653,6 +16656,7 @@ uzm
 uGVK
 uQg
 uQgC
+unproductive
 in
 is
 important
@@ -36545,6 +36549,8 @@ wnI
 wFW
 wck
 wLf
+wasting
+watching
 end
 en
 el
@@ -48678,6 +48684,9 @@ sBF
 ssrgWT
 sWpC
 sine
+suele
+supposed
+seems
 No
 NOTE
 Normalmente
@@ -52640,6 +52649,7 @@ pGO
 pZQ
 paCS
 pop
+pomodoro
 UC
 UNIDADES
 Unidades
@@ -64947,6 +64957,7 @@ mDGe
 mSlx
 mXH
 mBm
+mano
 YYYY
 YYYYMMDD
 YU
