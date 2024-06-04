@@ -6,7 +6,7 @@
       {
         "id": "9af070794635d90b",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 62.46537396121884,
         "children": [
           {
             "id": "c1bd1b5d99a3e342",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+                "file": "02 - Atomic/Convolution product.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,7 +27,7 @@
       {
         "id": "573aea7cec44d815",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 37.53462603878116,
         "children": [
           {
             "id": "f5add0aad4ef2321",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/DiffCalc_Exercises_S1.pdf",
+                "file": "02 - Atomic/Convolution product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/DiffCalc_Exercises_S1.pdf",
+                "file": "02 - Atomic/Convolution product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/DiffCalc_Exercises_S1.pdf",
+                "file": "02 - Atomic/Convolution product.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/DiffCalc_Exercises_S1.pdf"
+                "file": "02 - Atomic/Convolution product.md"
               }
             }
           }
@@ -258,7 +258,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f5add0aad4ef2321",
+  "active": "c1bd1b5d99a3e342",
   "lastOpenFiles": [
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "00.References/DiffCalc_Exercises_S1.pdf",
