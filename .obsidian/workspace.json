@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
+                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
+                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
+                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
+                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
+                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,10 +182,10 @@
                   "showTags": false,
                   "showAttachments": true,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
-                      "query": "tag:#Calc  ",
+                      "query": "tag:#CalcI ",
                       "color": {
                         "a": 1,
                         "rgb": 14048348
@@ -208,7 +209,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.1374036589777103,
+                  "scale": 0.21032656053835594,
                   "close": true
                 }
               }
@@ -226,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md"
+                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md"
               }
             }
           }
@@ -253,11 +254,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1bd1b5d99a3e342",
+  "active": "684c55f2fcad4e7d",
   "lastOpenFiles": [
+    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+    "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
+    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
+    "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
     "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
     "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
-    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "02 - Atomic/20240603 - 165823 - Definition - Root function.md",
     "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
     "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
@@ -279,9 +283,6 @@
     "02 - Atomic/20240603 - 115107 - Conic curves.md",
     "02 - Atomic/20240603 - 162222 - Definition - Ellipse.md",
     "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md",
-    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
-    "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
-    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "00.References/DiffCalc_Exercises_S1.pdf",
     "00.References/Calc_Theory_RealVarFuncs.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 18.06.44.png",
