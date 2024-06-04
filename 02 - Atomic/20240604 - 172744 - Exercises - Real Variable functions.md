@@ -92,3 +92,4 @@ $$
 
 ### Induction with inequalities: 
 Use the assumed inequality for n in order to rearrange the n+1 inequality to obtain something that can be proven as greater than, etc…
+ 
