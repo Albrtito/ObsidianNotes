@@ -14,30 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceeeff1050fcfca2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Calc_Theory_RealVarFuncs.pdf"
-              }
-            }
-          },
-          {
-            "id": "6d648ea749618847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
+                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -61,22 +38,8 @@
                 "file": "00.References/Calc_Theory_RealVarFuncs.pdf"
               }
             }
-          },
-          {
-            "id": "db2772120322375d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-04.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-04.md",
+                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,13 +156,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-04.md",
+                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "760b9d5497fedc0d",
@@ -211,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-04.md",
+                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +213,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.16379645949731902,
+                  "scale": 0.33527337619635456,
                   "close": true
                 }
               }
@@ -267,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-04.md"
+                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md"
               }
             }
           }
@@ -294,12 +258,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "db2772120322375d",
+  "active": "c1bd1b5d99a3e342",
   "lastOpenFiles": [
-    "01.Areas/0.DailyNote/2024-06-03.md",
-    "01.Areas/0.DailyNote/2024-06-04.md",
-    "00.References/Calc_Theory_RealVarFuncs.pdf",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+    "00.References/Calc_Theory_RealVarFuncs.pdf",
+    "01.Areas/0.DailyNote/2024-06-04.md",
+    "01.Areas/0.DailyNote/2024-06-03.md",
     "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
     "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
     "02 - Atomic/20240603 - 163014 - Definition - Function.md",
@@ -329,7 +293,6 @@
     "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
     "02 - Atomic/20240603 - 162222 - Definition - Ellipse.md",
     "02 - Atomic/20240603 - 113531 - Definition - Intervals.md",
-    "02 - Atomic/20240602 - 172932 - Sequences and series of real numbers.md",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
     "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
