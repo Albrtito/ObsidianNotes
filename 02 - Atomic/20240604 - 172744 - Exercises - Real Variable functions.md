@@ -92,4 +92,16 @@ $$
 
 ### Induction with inequalities: 
 Use the assumed inequality for n in order to rearrange the n+1 inequality to obtain something that can be proven as greater than, etc…
- 
+
+***
+
+## Domains of functions:
+
+### 1.2. $\arcsin(ln x)$
+The arcsin function is defined between -1 and 1. Then, find the values for the ln x such as ln x = 1 and ln x = -1. Those are directly obtained with the definition: 
+$$
+\ln x = 1: x = e^x
+$$
+$$
+\ln x = -1 : x = e^{-1} = \frac{1}{e}
+$$
