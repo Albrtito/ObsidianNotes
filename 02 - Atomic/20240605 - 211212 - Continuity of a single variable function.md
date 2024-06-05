@@ -4,7 +4,8 @@ aliases:
 tags:
   - review
   - CalcI
-"References:": 
+"References:":
+  - "[[Calc_Theory_Continuity.pdf]]"
 cssclasses:
 ---
-# Continuity of a single
+# Continuity of a single variable function: 
