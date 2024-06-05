@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00.References/Calc_Theory_Continuity.pdf"
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
               }
             }
           },
@@ -44,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -182,11 +181,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -220,8 +219,8 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.2756057617522272,
-                  "close": false
+                  "scale": 0.2160894365891515,
+                  "close": true
                 }
               }
             }
@@ -238,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md"
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
               }
             }
           }
@@ -265,16 +264,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "c1bd1b5d99a3e342",
   "lastOpenFiles": [
-    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+    "00.References/Calc_Theory_Continuity.pdf",
+    "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
-    "01.Areas/1.UC3M/Calculus I.md",
+    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
-    "00.References/Calc_Theory_Continuity.pdf",
     "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
     "01.Areas/0.DailyNote/2024-06-05.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
@@ -314,7 +313,6 @@
     "00.References/DiffCalc_Theory_ODEs.pdf",
     "Differential Calculus.canvas",
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
-    "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/1.UC3M/Files and data bases.canvas",

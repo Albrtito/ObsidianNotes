@@ -23,7 +23,3 @@ Based on the [courseware course](https://ocw.uc3m.es/mod/page/view.php?id=5299) 
 6. [[20240602 - 172932 - Sequences and series of real numbers]]
 
 
-
----
-### Summary
-Highlight ==what’s important!==
