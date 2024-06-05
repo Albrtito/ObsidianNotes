@@ -50,7 +50,7 @@ There are three posible casos based on the **maximum degree of x in P1 and P2**:
 
 1. If the max degree of x in P1 is greater than the one in P2 then **the limit goes to infinity**
    $$
-   Max(P_1) > Max(P_2)
+   Max(P_1) > Max(P_2) \Rightarrow \infty
    $$
    
    The idea is that the part above grows larger than the one below. Then it goes to infty before being able to be divided by anything. 
@@ -64,4 +64,19 @@ There are three posible casos based on the **maximum degree of x in P1 and P2**:
    
    Same idea, but if the part below goes to infinity first, then it is division by infinity → 0 
    $$
-   Max(P_2) > Max(P_1) 
+   Max(P_2) > Max(P_1) \Rightarrow 0
+   $$
+   f.e: 
+   $$
+	   \lim_{x\rightarrow x_0} \frac{x}{x^2 + 2} = 0
+	$$
+
+3. If the degree of x in P2 is equal to the one in P1 then:
+   **The limit is equal to the division of both coefficients of**: $x^{\text{maxDegree}}$
+   
+   f.e: 
+	   $$
+	   \lim_{x\rightarrow x_0} \frac{4x^2}{x^2 + 2} = \frac{4}{1} = 4
+	   $$
+	   
+	   
