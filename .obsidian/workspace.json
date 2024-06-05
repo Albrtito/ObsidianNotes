@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md"
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md"
               }
             }
           }
@@ -255,6 +255,15 @@
   },
   "active": "c1bd1b5d99a3e342",
   "lastOpenFiles": [
+    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
+    "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
+    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+    "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
+    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+    "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
+    "02 - Atomic/20240603 - 115254 - Definition - Parabola.md",
+    "01.Areas/0.DailyNote/2024-06-05.md",
+    "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
     "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
     "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
     "02 - Atomic/Absolute value of x.md",
@@ -262,8 +271,6 @@
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
     "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
-    "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
-    "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
     "02 - Atomic/20240603 - 165823 - Definition - Root function.md",
     "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
     "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
@@ -272,16 +279,10 @@
     "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
     "02 - Atomic/20240603 - 165400 - Definition - Polynomial function.md",
     "02 - Atomic/20240603 - 163014 - Definition - Function.md",
-    "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
     "99 - Meta/0. Attachments/Pasted image 20240604123511.png",
-    "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
     "02 - Atomic/20240603 - 115628 - Definition -  Circumference.md",
     "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
-    "02 - Atomic/20240603 - 115254 - Definition - Parabola.md",
     "02 - Atomic/20240603 - 112803 - Definition - Inequalities.md",
-    "02 - Atomic/20240603 - 173629 - Definition - Logarithmic function.md",
-    "02 - Atomic/20240603 - 114227 - Definition - Straight line.md",
-    "02 - Atomic/20240603 - 115107 - Conic curves.md",
     "00.References/DiffCalc_Exercises_S1.pdf",
     "00.References/Calc_Theory_RealVarFuncs.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 18.06.44.png",

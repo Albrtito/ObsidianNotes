@@ -6,8 +6,8 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-05
-sr-interval: 1
+sr-due: 2024-06-07
+sr-interval: 2
 sr-ease: 230
 ---
 # Hyperbolic functions:

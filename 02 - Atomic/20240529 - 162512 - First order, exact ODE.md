@@ -7,8 +7,8 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
-sr-due: 2024-06-05
-sr-interval: 1
+sr-due: 2024-06-07
+sr-interval: 2
 sr-ease: 190
 ---
 # First order, exact ODEs:
@@ -81,7 +81,7 @@ Finally this value is inputted in f(x,u) to obtain the complete form of the func
 $$
 \begin{gather}
 	\frac{\partial f}{\partial x} = \frac{g(x) + \int [N(x,u)]du }{\partial x}\\
-\frac{\partial f}{\partial x} =  g(x)' + {\int [M(x,u)]du\over \partial x} = M
+\frac{\partial f}{\partial x} =  g(x)' + {\int [N(x,u)]du\over \partial x} = M
 \end{gather}
 $$
 Then we can get the value of g(u)
