@@ -20,6 +20,7 @@ a ^\infty = \infty: a > 1& a^\infty = 0: a < 1
 \end{gather}
 $$
 
+
 Those operations not in here can result in: [[20240605 - 165543 - Infty indeterminate forms|indeterminate forms]]
 
 
