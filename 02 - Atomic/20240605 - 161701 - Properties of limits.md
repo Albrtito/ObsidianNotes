@@ -27,3 +27,20 @@ $$
    $$\lim _{x \rightarrow x_0}(f(x) g(x))=\ell m$$
 4. Limit of the quotient of two functions is equal to the quotient of the limits
    $$\lim _{x \rightarrow x_0} \frac{f(x)}{g(x)}=\frac{\ell}{m}, \quad if: m \neq 0$$
+5. The **limit of a composition** is obtained directly if all limits involved exists and  the operations make sense. 
+$$
+\begin{gather}
+\lim _{x \rightarrow x_0} f(x)=\ell \quad \text { and } \quad \lim _{x \rightarrow \ell} h(x)=m \quad\\
+ \Longrightarrow \quad \lim _{x \rightarrow x_0} h(f(x))=m \text {. }
+\end{gather}
+$$
++ This can be used for: 
+	+ **Square roots:**
+	   $\lim_{x\rightarrow x_0} \sqrt{f(x)} = \sqrt{l}: l>0$
+	  
+	+ **Powers:** 
+	  $\lim_{x\rightarrow x_0} {f(x)}^{h(x)} = l^m: l^m \not = 0$
+	  
+	+ **Logarithms:** 
+	  $\lim_{x\rightarrow x_0} \log_a{f(x)} = \log_a{l}: l>0 ,a>0$
+

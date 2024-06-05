@@ -59,3 +59,6 @@ This means that we **do not care** about the values of f far from x = $x_0$ , on
 ![[20240605 - 161701 - Properties of limits|Properties of limits]]
 
 ## Side limits: 
+![[20240605 - 162249 - Theorem - Side limits|Side limits]]
+## Limits at infty:
+
