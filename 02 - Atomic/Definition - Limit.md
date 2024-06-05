@@ -10,6 +10,7 @@ sr-interval: 56
 sr-ease: 252
 ---
 # Limit: 
+
 This note tries to explain the proper (formal) definition of limit, even if I cannot even begin to comprehend it. #Duda 
 
 
@@ -55,7 +56,6 @@ This means that we **do not care** about the values of f far from x = $x_0$ , on
 
 ## Properties: 
 
-> [!NOTE] Uniqueness of the limit:
-> If a limit exists, it is unique. If l and m both satisfy as the limits of f in $x_0$, then l must be equal to m: l = m
+![[20240605 - 161701 - Properties of limits|Properties of limits]]
 
-
+## Side limits: 

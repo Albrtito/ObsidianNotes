@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "fa281b46e1ead7ef",
+            "id": "6fef6e3db3405bcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,9 +29,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd2e04dd01c1a468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240605 - 162249 - Side limits.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/Definition - Limit.md",
+                "file": "02 - Atomic/20240605 - 162249 - Side limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/Definition - Limit.md",
+                "file": "02 - Atomic/20240605 - 162249 - Side limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/Definition - Limit.md",
+                "file": "02 - Atomic/20240605 - 162249 - Side limits.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/Definition - Limit.md"
+                "file": "02 - Atomic/20240605 - 162249 - Side limits.md"
               }
             }
           }
@@ -253,11 +266,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fa281b46e1ead7ef",
+  "active": "bd2e04dd01c1a468",
   "lastOpenFiles": [
+    "02 - Atomic/20240605 - 162249 - Side limits.md",
+    "02 - Atomic/Definition - Limit.md",
+    "02 - Atomic/20240605 - 161701 - Properties of limits.md",
+    "01.Areas/1.UC3M/Discrete Math.md",
     "00.References/Calc_Theory_Limits.pdf",
     "02 - Atomic/20240605 - 144850 - Limits in univariable calculus.md",
-    "02 - Atomic/Definition - Limit.md",
     "02 - Atomic/20240603 - 102925 - Definition - Neighbourhoods.md",
     "02 - Atomic/Limits of sequences.md",
     "02 - Atomic/Theorem 4 arithmetic of limits.md",
@@ -280,8 +296,6 @@
     "02 - Atomic/Absolute value of x.md",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
-    "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
-    "02 - Atomic/20240603 - 165823 - Definition - Root function.md",
     "99 - Meta/0. Attachments/Pasted image 20240604123511.png",
     "00.References/DiffCalc_Exercises_S1.pdf",
     "00.References/Calc_Theory_RealVarFuncs.pdf",
