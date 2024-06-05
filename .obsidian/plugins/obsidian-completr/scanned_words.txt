@@ -19128,6 +19128,8 @@ imH
 iShG
 iCz
 ijH
+infty
+indeterminate
 Enough
 Esta
 Est
@@ -41386,6 +41388,7 @@ IYJ
 IgCx
 ICpo
 IspR
+Infty
 Keep
 Key
 Kinds
@@ -59836,6 +59839,7 @@ aZMT
 aDlG
 aQBAC
 apart
+advance
 of
 otro
 opciones
