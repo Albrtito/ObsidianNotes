@@ -4,6 +4,7 @@ aliases:
   - Exponential limits
 tags:
   - review
+  - CalcI
 "References:": 
 cssclasses:
 ---
@@ -21,6 +22,8 @@ cssclasses:
 > **Remark:**
 > There is no restriction for which value $\alpha$ can take. $x_0, x_0^+, x_0^-,\infty , -\infty$
 
-**f.e:**** 
-**
-> 
+**f.e:**
+$$
+\lim_{x\to\infty}\left(\frac{2x+3}{2x-7}\right)^{x+5}=\mathrm{e}^{\lim_{x\to\infty}(x+5)\frac{10}{2x-7}}=\mathrm{e}^{5}.
+$$
+

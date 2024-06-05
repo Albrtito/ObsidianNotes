@@ -15,14 +15,7 @@
       }
     },
     {
-      "query": "tag:#review  ",
-      "color": {
-        "a": 1,
-        "rgb": 610218
-      }
-    },
-    {
-      "query": "tag:#DiffCalc  ",
+      "query": "tag:#DiffCalc ",
       "color": {
         "a": 1,
         "rgb": 8548066
@@ -34,6 +27,13 @@
         "a": 1,
         "rgb": 2393885
       }
+    },
+    {
+      "query": "tag:#CalcI  ",
+      "color": {
+        "a": 1,
+        "rgb": 12551107
+      }
     }
   ],
   "collapse-display": false,
@@ -42,10 +42,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.514984631147541,
-  "repelStrength": 16.7462879276953,
-  "linkStrength": 0.82479018721756,
-  "linkDistance": 210,
-  "scale": 0.11796568960904905,
-  "close": true
+  "centerStrength": 0.418340131785378,
+  "repelStrength": 15.8531989841894,
+  "linkStrength": 0.699717602761217,
+  "linkDistance": 168,
+  "scale": 0.06377991967641522,
+  "close": false
 }

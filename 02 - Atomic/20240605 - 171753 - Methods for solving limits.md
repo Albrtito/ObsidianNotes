@@ -14,9 +14,15 @@ List of useful theorems for limit solving:
 $$
 lim_{x\rightarrow x_0} f(x)
 $$
-+ **If you can find a function g(x) and h(x):** g(x) ≤ f(x) ≤ h(x) then: [[20240605 - 171939 - Theorem - Sandwich lemma|Sandwich lemma]]
-+ [[20240605 - 175232 - Theorem - Exponential limits|Exponential limits]]
-## Limits at infty:
+1. **If you can find a function g(x) and h(x):** g(x) ≤ f(x) ≤ h(x) then:
+   
+    → [[20240605 - 171939 - Theorem - Sandwich lemma|Sandwich lemma]]
+  
+2. For limits such as:
+	$$\lim_{x\rightarrow \alpha} 1^{\infty /-\infty}$$
+	→ [[20240605 - 175232 - Theorem - Exponential limits|Exponential limits]] 
+
+## For limits at infty:
 
 For solving limits at infty we can use several methods and strategies. Of course, because Calculus is just a bunch of happy ideas very smart people had to ruin the life of the student these are just some suggestions that could work. Who knows what ur dealing with!
 
