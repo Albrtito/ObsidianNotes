@@ -47214,6 +47214,7 @@ PHvZE
 PVd
 Pzln
 Powers
+Pinching
 something
 start
 st
@@ -79943,6 +79944,7 @@ SlQ
 Sfe
 SRm
 Square
+Sandwich
 La
 Las
 Lanz

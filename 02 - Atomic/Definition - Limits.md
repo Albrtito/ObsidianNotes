@@ -65,8 +65,7 @@ This means that we **do not care** about the values of f far from x = $x_0$ , on
 ![[20240605 - 162249 - Theorem - Side limits|Side limits]]
 ## Limits at infty:
 
-When working with infinity we need to take into account the **aviable** and **indeterminate** operations there are: 
-+ [[20240605 - 164622 - Formal operations with infty|Formal operations with infty]]
-+ [[20240605 - 165543 - Infty indeterminate forms|indeterminate forms]]
+![[20240605 - 164028 - Limits at infty|Limits at infty]]
+
 
 
