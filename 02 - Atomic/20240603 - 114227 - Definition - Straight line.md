@@ -6,9 +6,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-05
+sr-due: 2024-06-06
 sr-interval: 1
-sr-ease: 230
+sr-ease: 190
 ---
 # Straight line: 
 An straight line can be written in several forms:

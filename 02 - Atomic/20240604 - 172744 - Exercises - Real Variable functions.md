@@ -8,6 +8,9 @@ tags:
   - "[[20240602 - 172958 - Real variable functions|Real variable functions]]"
 cssclasses:
   - page-manila
+sr-due: 2024-06-08
+sr-interval: 3
+sr-ease: 265
 ---
 # Exercises - Real variable functions. 
 
