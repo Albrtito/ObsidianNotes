@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240605 - 162249 - Side limits.md",
+                "file": "02 - Atomic/20240605 - 162249 - Theorem - Side limits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240605 - 162249 - Side limits.md",
+                "file": "02 - Atomic/20240605 - 162249 - Theorem - Side limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240605 - 162249 - Side limits.md",
+                "file": "02 - Atomic/20240605 - 162249 - Theorem - Side limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240605 - 162249 - Side limits.md",
+                "file": "02 - Atomic/20240605 - 162249 - Theorem - Side limits.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240605 - 162249 - Side limits.md"
+                "file": "02 - Atomic/20240605 - 162249 - Theorem - Side limits.md"
               }
             }
           }
@@ -268,7 +268,10 @@
   },
   "active": "bd2e04dd01c1a468",
   "lastOpenFiles": [
-    "02 - Atomic/20240605 - 162249 - Side limits.md",
+    "99 - Meta/0. Attachments/Pasted image 20240605162902.png",
+    "99 - Meta/0. Attachments/Pasted image 20240605162656.png",
+    "02 - Atomic/20240605 - 162249 - Theorem - Side limits.md",
+    "02 - Atomic/![[Pasted image 20240605162656.png]].md",
     "02 - Atomic/Definition - Limit.md",
     "02 - Atomic/20240605 - 161701 - Properties of limits.md",
     "01.Areas/1.UC3M/Discrete Math.md",
@@ -293,9 +296,7 @@
     "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
     "02 - Atomic/20240603 - 115254 - Definition - Parabola.md",
     "01.Areas/0.DailyNote/2024-06-05.md",
-    "02 - Atomic/Absolute value of x.md",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
-    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
     "99 - Meta/0. Attachments/Pasted image 20240604123511.png",
     "00.References/DiffCalc_Exercises_S1.pdf",
     "00.References/Calc_Theory_RealVarFuncs.pdf",
@@ -308,7 +309,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 17.08.31.png",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",
     "99 - Meta/0. Attachments/Screenshot 2024-05-30 at 00.10.55.png",
-    "99 - Meta/0. Attachments/Pasted image 20240529171640.png",
     "00.References/References_Derivatives&Integrals.pdf",
     "00.References/Discrete_Theory_All.pdf",
     "00.References/DiffCalc_Theory_ODEs.pdf",
