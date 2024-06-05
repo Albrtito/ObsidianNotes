@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Limit
+  - Limits
 Date: 2024-03-19
 tags:
   - review
@@ -9,7 +12,7 @@ sr-due: 2024-06-20
 sr-interval: 56
 sr-ease: 252
 ---
-# Limit: 
+# Limits: 
 
 This note tries to explain the proper (formal) definition of limit, even if I cannot even begin to comprehend it. #Duda 
 
@@ -61,4 +64,9 @@ This means that we **do not care** about the values of f far from x = $x_0$ , on
 ## Side limits: 
 ![[20240605 - 162249 - Theorem - Side limits|Side limits]]
 ## Limits at infty:
+
+When working with infinity we need to take into account the **aviable** and **indeterminate** operations there are: 
++ [[20240605 - 164622 - Formal operations with infty|Formal operations with infty]]
++ [[20240605 - 165543 - Infty indeterminate forms|indeterminate forms]]
+
 

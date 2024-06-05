@@ -20,7 +20,7 @@ Before explaining how to actually compute and understand the convergence, lets s
 
 ### Representation and computation with limits
 Convergence can be represented in several ways. 
-+ Usually we represent it and compute it with [Definition - Limit](Definition%20-%20Limit.md). 
++ Usually we represent it and compute it with [Definition - Limits](Definition%20-%20Limits.md). 
 	$$
 	a = lim_{n\rightarrow \inf} a_n
 	$$
@@ -55,4 +55,4 @@ Convergence can be represented in several ways.
 
 **In order to compute wether a sequence converges or diverges we'll use limits**  
 #### Properly defining limits: 
-![Definition - Limit](Definition%20-%20Limit.md)
+![Definition - Limits](Definition%20-%20Limits.md)
