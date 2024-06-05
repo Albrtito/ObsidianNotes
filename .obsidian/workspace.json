@@ -11,9 +11,19 @@
             "id": "c1bd1b5d99a3e342",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Calc_Theory_Limits.pdf"
+              }
+            }
+          },
+          {
+            "id": "c9e2974661c29b47",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
+                "file": "02 - Atomic/20240605 - 144850 - Limits in univariable calculus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +31,12 @@
             }
           },
           {
-            "id": "684c55f2fcad4e7d",
+            "id": "fa281b46e1ead7ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
+                "file": "02 - Atomic/Definition - Limit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,6 +44,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5041847229004
+    "width": 258.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
+                "file": "02 - Atomic/Definition - Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
+                "file": "02 - Atomic/Definition - Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
+                "file": "02 - Atomic/Definition - Limit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +220,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.1551764011870359,
+                  "scale": 0.13017256524058637,
                   "close": true
                 }
               }
@@ -226,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md"
+                "file": "02 - Atomic/Definition - Limit.md"
               }
             }
           }
@@ -234,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 512.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,8 +266,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1bd1b5d99a3e342",
+  "active": "fa281b46e1ead7ef",
   "lastOpenFiles": [
+    "02 - Atomic/20240603 - 102925 - Definition - Neighbourhoods.md",
+    "02 - Atomic/Definition - Limit.md",
+    "00.References/Calc_Theory_Limits.pdf",
+    "02 - Atomic/20240605 - 144850 - Limits in univariable calculus.md",
+    "02 - Atomic/Limits of sequences.md",
+    "02 - Atomic/Theorem 4 arithmetic of limits.md",
+    "02 - Atomic/20240605 - 144925 -.md",
+    "01.Areas/1.UC3M/Calculus I.md",
+    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+    "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
     "02 - Atomic/20240603 - 114227 - Definition - Straight line.md",
@@ -267,22 +290,13 @@
     "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
     "02 - Atomic/20240603 - 115254 - Definition - Parabola.md",
     "01.Areas/0.DailyNote/2024-06-05.md",
-    "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
     "02 - Atomic/Absolute value of x.md",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
-    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
     "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
     "02 - Atomic/20240603 - 165823 - Definition - Root function.md",
     "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
-    "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
-    "02 - Atomic/20240603 - 165215 - Elementary functions.md",
-    "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
-    "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
-    "02 - Atomic/20240603 - 165400 - Definition - Polynomial function.md",
-    "02 - Atomic/20240603 - 163014 - Definition - Function.md",
     "99 - Meta/0. Attachments/Pasted image 20240604123511.png",
-    "02 - Atomic/20240603 - 115628 - Definition -  Circumference.md",
     "00.References/DiffCalc_Exercises_S1.pdf",
     "00.References/Calc_Theory_RealVarFuncs.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-03 at 18.06.44.png",
@@ -302,7 +316,6 @@
     "01.Areas/2. Self/HTB_Linux Fundamentals.canvas",
     "00.References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00.References/Discreta_Exercises_All_Solved.pdf",
-    "00.References/SoftwareDev_PracticeTheoryInittest EC and LV.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/1.UC3M/Files and data bases.canvas",

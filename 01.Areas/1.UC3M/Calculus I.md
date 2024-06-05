@@ -12,16 +12,21 @@ sr-interval: 62
 sr-ease: 267
 ---
 # One-var Calculus: 
-Based on the [courseware course](https://ocw.uc3m.es/mod/page/view.php?id=5299) and the UC3M course, the **following chapters are proposed:** 
+Based on the [courseware course](https://ocw.uc3m.es/mod/page/view.php?id=5299) and the UC3M course, the **following chapters are proposed:**
 
-1. [Sets of numbers](../../02%20-%20Atomic/Sets%20of%20numbers.md)
-2. [[20240602 - 172932 - Sequences and series of real numbers]]
-3. Real variable
-4. Limits and continuity
-5. Derivatives and applications
-6. Local study of a func.
-7. Taylor Polynomial 
-8. Integration on one variable
+1. [[20240602 - 172958 - Real variable functions|Real variable functions]]
+2. [[20240605 - 144850 - Limits in univariable calculus|Limits]]
+
+
+
+3. [Sets of numbers](../../02%20-%20Atomic/Sets%20of%20numbers.md)
+4. [[20240602 - 172932 - Sequences and series of real numbers]]
+5. Real variable
+6. Limits and continuity
+7. Derivatives and applications
+8. Local study of a func.
+9. Taylor Polynomial 
+10. Integration on one variable
 
 
 ---

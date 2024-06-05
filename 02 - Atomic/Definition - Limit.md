@@ -28,5 +28,4 @@ There's one part that is easier, the third condition. This is where the neighbou
 I'll ask for some tutoring sessions in the future for the rest of the definition. #Duda 
 
 **Remarks:**
-+ The definition of limit depends on the definition of [20240603 - 102925 - Definition - Neighbourhoods](20240603%20-%20102925%20-%20Definition%20-%20Neighbourhoods.md)
-+ 
++ The definition of limit is based on points inside a [[20240603 - 102925 - Definition - Neighbourhoods|Neighbourhoods]]
