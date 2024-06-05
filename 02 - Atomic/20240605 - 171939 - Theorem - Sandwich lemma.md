@@ -23,4 +23,21 @@ Why is this useful? Well, it tends to be less useful (in my humilde opinion) tha
 If **you need to find the value of g(x) at some point (lets say $x_0$), then if you can find two functions f(x) and h(x) that follow all what I have already explained, then you know that:**
 $$\boxed{g(x_0) = f(x_0) = h(x_0)}$$
 
-All the luck in the world in the journey to find f(x) and h(x)
+I wish u all the luck in the world in the journey to find f(x) and h(x)
+
+## Formal definition: 
+
+> [!NOTE] Theorem: 
+> **IF** $g(x) \leq f(x) \leq h(x)$ for every $0< |x-x_0| < \sigma$  and:
+> $$
+> lim_{x\rightarrow x_0}g(x) = lim_{x\rightarrow x_0} h(x)= l
+> $$
+> **THEN:**
+> $$
+> lim_{x\rightarrow x_0}f(x)= l
+> $$
+
+
+## Examples: 
+
+1. 
