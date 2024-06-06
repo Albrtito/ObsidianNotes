@@ -44,3 +44,11 @@ $$
 lim_{x\rightarrow 0} \frac{sin (x^2)}{x^2} = 1
 $$
 + With a change of variable we can directly see. Because it tends to 0. Does not matter there the change of variable and we can directly do t = $x^2$ 
+### 3.5: Perform a **change of variable** : 
+$$y = log(1 +x)$$
+Take into account that then: 
+$$
+e^y = e^{ln(1 +x )} \Rightarrow e^y = 1 + x \Rightarrow x = e^y -1
+$$
+
+### 3.6: 
