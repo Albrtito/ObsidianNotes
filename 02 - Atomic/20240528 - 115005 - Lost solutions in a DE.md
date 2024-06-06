@@ -6,8 +6,8 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
-sr-due: 2024-06-06
-sr-interval: 3
+sr-due: 2024-06-14
+sr-interval: 8
 sr-ease: 252
 ---
 # Lost solutions in a DE

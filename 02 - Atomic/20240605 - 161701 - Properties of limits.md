@@ -6,6 +6,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-09
+sr-interval: 3
+sr-ease: 250
 ---
 # Properties of limits: 
 

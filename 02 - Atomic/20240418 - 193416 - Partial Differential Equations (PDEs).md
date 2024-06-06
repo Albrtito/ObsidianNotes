@@ -7,7 +7,7 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
-sr-due: 2024-06-06
+sr-due: 2024-06-07
 sr-interval: 1
 sr-ease: 130
 ---

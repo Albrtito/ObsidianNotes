@@ -8,6 +8,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-09
+sr-interval: 3
+sr-ease: 250
 ---
 # Sandwich lemma: 
 The sandwich lemma is a method used for the computation of limits. 
