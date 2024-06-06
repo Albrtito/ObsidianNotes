@@ -31,7 +31,16 @@ sr-ease: 230
 ### 2.6: Apply the conjugate (With three terms, just swap the sign of the root)
 
 
-## 3. Using: $\lim_{x\rightarrow 0}\frac{sin x}{x} = 1$ and $\lim_{x\rightarrow 0}\frac{e^x -1}{x} = 1$
+## 3. Using: $\lim_{x\rightarrow 0}\frac{\sin x}{x} = 1$ and $\lim_{x\rightarrow 0}\frac{e^x -1}{x} = 1$
 
 ### 3.1: Use a change of variable in order to separe the function: $t = 2x^3$
+
 ### 3.2: Conjugate to have something else than x squared down. Then use the trigonometric relation $sin^2 + cos^2 = 1$ up with the 1. 
+
+### 3.3: This relation (the one defined above: [[#3. Using $ lim_{x rightarrow 0} frac{sin x}{x} = 1$ and $ lim_{x rightarrow 0} frac{e x -1}{x} = 1$|This one]]) is true for x. As long as x is equal everywhere the rest does not matter, so if: 
+
+#Duda : Sure about this?
+$$
+lim_{x\rightarrow 0} \frac{sin (x^2)}{x^2} = 1
+$$
++ With a change of variable we can directly see. Because it tends to 0. Does not matter there the change of variable and we can directly do t = $x^2$ 
