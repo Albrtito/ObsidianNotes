@@ -30,4 +30,8 @@ sr-ease: 230
 
 ### 2.6: Apply the conjugate (With three terms, just swap the sign of the root)
 
+
 ## 3. Using: $\lim_{x\rightarrow 0}\frac{sin x}{x} = 1$ and $\lim_{x\rightarrow 0}\frac{e^x -1}{x} = 1$
+
+### 3.1: Use a change of variable in order to separe the function: $t = 2x^3$
+### 3.2: Conjugate to have something else than x squared down. Then use the trigonometric relation $sin^2 + cos^2 = 1$ up with the 1. 
