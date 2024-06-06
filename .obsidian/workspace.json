@@ -23,14 +23,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Definition - Limits.md",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "18ce23939e841ad1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Calc_Theory_Limits.pdf"
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -131,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "00.References/Calc_Theory_Limits.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "00.References/Calc_Theory_Limits.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "00.References/Calc_Theory_Limits.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
+                "file": "00.References/Calc_Theory_Limits.pdf"
               }
             }
           }
@@ -250,8 +261,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1bd1b5d99a3e342",
+  "active": "18ce23939e841ad1",
   "lastOpenFiles": [
+    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+    "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
     "02 - Atomic/Definition - Limits.md",
     "01.Areas/0.DailyNote/2024-06-06.md",
     "01.Areas/0.DailyNote/2024-06-05.md",
@@ -262,7 +276,6 @@
     "02 - Atomic/20240605 - 164028 - Limits at infty.md",
     "02 - Atomic/20240605 - 162249 - Theorem - Side limits.md",
     "02 - Atomic/20240605 - 144850 - Limits in univariable calculus.md",
-    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
     "02 - Atomic/20240501 - 155450 - Theorem - Equivalence theorem.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
@@ -270,7 +283,6 @@
     "02 - Atomic/20240603 - 114227 - Definition - Straight line.md",
     "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
     "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
-    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "01.Areas/1.UC3M/Calculus I.md",
     "00.References/Calc_Theory_Continuity.pdf",
     "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
@@ -282,9 +294,7 @@
     "99 - Meta/0. Attachments/Screenshot 2024-04-11 at 16.11.08.png",
     "02 - Atomic/20240515 - 032223 - Eulerian Graphs.md",
     "99 - Meta/0. Attachments/Screenshot 2024-05-15 at 03.29.37.png",
-    "02 - Atomic/20240605 - 164622 - Formal operations with infty.md",
     "00.References/Calc_Theory_Limits.pdf",
-    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "99 - Meta/0. Attachments/Screenshot 2024-06-05 at 17.21.25.png",
     "99 - Meta/0. Attachments/Pasted image 20240605162902.png",
     "99 - Meta/0. Attachments/Pasted image 20240605162656.png",

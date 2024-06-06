@@ -14,4 +14,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 # Exercises - Limits
+## 1. Use the $\varepsilon - {\delta}$  definition of limit: 
+#Duda Como se hace esto? No entiendo
+
 
