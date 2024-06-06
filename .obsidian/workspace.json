@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "02 - Atomic/20240606 - 181806 - Notable Identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "02 - Atomic/20240606 - 181806 - Notable Identities.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "02 - Atomic/20240606 - 181806 - Notable Identities.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md"
+                "file": "02 - Atomic/20240606 - 181806 - Notable Identities.md"
               }
             }
           }
@@ -287,10 +287,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1df8570e1e46ab99",
+  "active": "ce2db226e4b48fa5",
   "lastOpenFiles": [
-    "02 - Atomic/20240606 - 181806 - Notable Identities.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+    "02 - Atomic/20240606 - 181806 - Notable Identities.md",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
     "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
     "00.References/Calc_Theory_Limits.pdf",
