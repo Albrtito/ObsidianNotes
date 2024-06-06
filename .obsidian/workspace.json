@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240606 - 181806 - Notable Identities.md",
+                "file": "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240606 - 181806 - Notable Identities.md",
+                "file": "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240606 - 181806 - Notable Identities.md",
+                "file": "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240606 - 181806 - Notable Identities.md",
+                "file": "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240606 - 181806 - Notable Identities.md"
+                "file": "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md"
               }
             }
           }
@@ -289,8 +289,10 @@
   },
   "active": "ce2db226e4b48fa5",
   "lastOpenFiles": [
-    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+    "02 - Atomic/20240605 - 164622 - Formal operations with infty.md",
+    "02 - Atomic/20240409 - 122918 -Definition - Test System S.md",
     "02 - Atomic/20240606 - 181806 - Notable Identities.md",
+    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
     "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
     "00.References/Calc_Theory_Limits.pdf",
@@ -318,7 +320,6 @@
     "00.References/Calc_Theory_Continuity.pdf",
     "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
-    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "99 - Meta/0. Attachments/Pasted image 20240605173722.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-11 at 16.11.08.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-15 at 03.29.37.png",
