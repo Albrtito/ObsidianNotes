@@ -29,6 +29,25 @@ $$
 $$
 \lim\limits_{x\to\infty}\left(\sqrt{x+1}-\sqrt{x}\right)=\lim\limits_{x\to\infty}\frac{1}{\sqrt{x+1}+\sqrt{x}}=0.
 $$
+## 4. Change of variable: 
+When there are several roots (dividing) of different exponent there may be a chance to perform a change of variable such as the roots disappear: 
+**f.e:**
+$$
+\lim_{x\to64}\frac{\sqrt{x}-8}{\sqrt[3]{x}-4}
+$$
+Because there is an square root and a cubic root. Use: $t^6 = x$ . Then $\sqrt[6]x = t$ and if x = 64   t = 2 ($2 = \sqrt[6]{64}$) and we have the following transformation to the limit: 
+$$
+\lim_{t\rightarrow 2} \frac{x^3 - 8}{x^2 - 4}
+$$
+This can be factored into: 
+$$
+\lim_{t\rightarrow 2} \frac{(x-2)(x^2+2x+4)}{(x-2)(x+2)}
+$$
+Turning into: 
+$$
+\frac{4 + 4 + 4}{2} = 
+$$
+
 
 ## Theorems: 
 List of useful theorems for limit solving: 
