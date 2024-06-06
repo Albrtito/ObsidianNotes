@@ -81558,6 +81558,7 @@ SEcC
 SCg
 SPI
 Subtraction
+Sure
 La
 Las
 Lanz

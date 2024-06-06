@@ -42,14 +42,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md"
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md"
               }
             }
           }
@@ -269,13 +270,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1df8570e1e46ab99",
+  "active": "aab5e8d7d0e2ce71",
   "lastOpenFiles": [
-    "01.Areas/1.UC3M/Discrete Math.md",
+    "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
+    "01.Areas/1.UC3M/Discrete Math.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
-    "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
     "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
     "02 - Atomic/20240605 - 161701 - Properties of limits.md",
