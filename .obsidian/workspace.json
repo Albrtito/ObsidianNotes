@@ -42,14 +42,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
+                "file": "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "997973892b56ef1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240606 - 220121 - Exponential limit form.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "02 - Atomic/20240606 - 220121 - Exponential limit form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "02 - Atomic/20240606 - 220121 - Exponential limit form.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "02 - Atomic/20240606 - 220121 - Exponential limit form.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md"
+                "file": "02 - Atomic/20240606 - 220121 - Exponential limit form.md"
               }
             }
           }
@@ -269,12 +283,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1df8570e1e46ab99",
+  "active": "997973892b56ef1a",
   "lastOpenFiles": [
+    "02 - Atomic/20240606 - 220121 - Exponential limit form.md",
+    "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
+    "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
     "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
-    "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
     "01.Areas/1.UC3M/Discrete Math.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
@@ -298,8 +314,6 @@
     "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
     "02 - Atomic/20240501 - 155450 - Theorem - Equivalence theorem.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
-    "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
-    "02 - Atomic/20240603 - 114227 - Definition - Straight line.md",
     "00.References/Calc_Theory_Continuity.pdf",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240605173722.png",

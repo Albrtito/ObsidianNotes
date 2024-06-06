@@ -54,13 +54,19 @@ List of useful theorems for limit solving:
 $$
 lim_{x\rightarrow x_0} f(x)
 $$
-1. **If you can find a function g(x) and h(x):** g(x) ≤ f(x) ≤ h(x) then:
+### 1. Sandwich lemma
+**If you can find a function g(x) and h(x):** g(x) ≤ f(x) ≤ h(x) then:
    
-    → [[20240605 - 171939 - Theorem - Sandwich lemma|Sandwich lemma]]
+→ [[20240605 - 171939 - Theorem - Sandwich lemma|Sandwich lemma]]
   
-2. For limits such as:
-	$$\lim_{x\rightarrow \alpha} 1^{\infty /-\infty}$$
-	→ [[20240605 - 175232 - Theorem - Exponential limits|Exponential limits]] 
+### 2. Exponential limits
+For limits such as:
+$$\lim_{x\rightarrow \alpha} 1^{\infty /-\infty}$$
+→ [[20240605 - 175232 - Theorem - Exponential limits|Exponential limits]] 
+
+### 3. Exponential form: 
+The following limit is well known and can be obtained directly: 
+
 
 ## For limits at infty:
 
