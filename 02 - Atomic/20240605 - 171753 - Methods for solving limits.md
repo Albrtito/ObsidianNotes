@@ -65,7 +65,15 @@ $$\lim_{x\rightarrow \alpha} 1^{\infty /-\infty}$$
 → [[20240605 - 175232 - Theorem - Exponential limits|Exponential limits]] 
 
 ### 3. Exponential form: 
-The following limit is well known and can be obtained directly: 
+The following limit is well known and can be obtained directly:
+
+$$
+\lim_{x\rightarrow 0} (1+x)^{1/x} = \lim_{x\rightarrow 0} [\frac{1} {(1+x)}]^x = e
+$$
+
+→ [[20240606 - 220121 - Exponential limit forms|Exponential limit form]]
+
+### 4. Trigonometric limit forms: 
 
 
 ## For limits at infty:
