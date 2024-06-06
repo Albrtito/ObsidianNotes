@@ -14,6 +14,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 # Exercises - Limits
+
 ## 1. Use the $\varepsilon - {\delta}$  definition of limit: 
 #Duda Como se hace esto? No entiendo
 
@@ -29,3 +30,4 @@ sr-ease: 230
 
 ### 2.6: Apply the conjugate (With three terms, just swap the sign of the root)
 
+## 3. Using: $\lim_{x\rightarrow 0}\frac{sin x}{x} = 1$ and $\lim_{x\rightarrow 0}\frac{e^x -1}{x} = 1$
