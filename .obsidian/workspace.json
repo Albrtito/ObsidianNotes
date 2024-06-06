@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md"
               }
             }
           }
@@ -268,8 +268,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1bd1b5d99a3e342",
+  "active": "1df8570e1e46ab99",
   "lastOpenFiles": [
+    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
     "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
@@ -282,7 +283,6 @@
     "02 - Atomic/20240606 - 181806 - Notable Identities.md",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
     "02 - Atomic/20240606 - 181613 -.md",
-    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
     "02 - Atomic/Definition - Limits.md",
     "01.Areas/0.DailyNote/2024-06-06.md",
