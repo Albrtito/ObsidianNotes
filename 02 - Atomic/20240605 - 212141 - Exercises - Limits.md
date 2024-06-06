@@ -17,4 +17,6 @@ sr-ease: 230
 ## 1. Use the $\varepsilon - {\delta}$  definition of limit: 
 #Duda Como se hace esto? No entiendo
 
+## 2. Common factor: 
+### 2.1: Use [[20240606 - 181806 - Notable Identities#($a n - b n)| Notable identity]]
 
