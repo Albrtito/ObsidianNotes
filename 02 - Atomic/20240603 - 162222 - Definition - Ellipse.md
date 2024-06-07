@@ -7,8 +7,8 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-07
-sr-interval: 3
+sr-due: 2024-06-16
+sr-interval: 9
 sr-ease: 250
 ---
 The Ellipse is defined as el Lugar Geométrico of: 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
+                "file": "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
+                "file": "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
+                "file": "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
+                "file": "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 165616 - Definition - Rational function.md"
+                "file": "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md"
               }
             }
           }
@@ -257,6 +257,11 @@
   },
   "active": "1df8570e1e46ab99",
   "lastOpenFiles": [
+    "02 - Atomic/20240603 - 163014 - Definition - Function.md",
+    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
+    "02 - Atomic/20240603 - 162222 - Definition - Ellipse.md",
+    "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
     "02 - Atomic/20240409 - 121336 -Proof Theory in Predicate Calculus.md",
     "01.Areas/0.DailyNote/2024-06-07.md",
     "01.Areas/0.DailyNote/2024-06-06.md",
@@ -281,11 +286,6 @@
     "02 - Atomic/20240606 - 181613 -.md",
     "02 - Atomic/20240524 - 030936 - Exercises - Logic - Resolution.md",
     "01.Areas/0.DailyNote/2024-06-05.md",
-    "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
-    "02 - Atomic/20240605 - 164028 - Limits at infty.md",
-    "02 - Atomic/20240605 - 162249 - Theorem - Side limits.md",
-    "02 - Atomic/20240605 - 144850 - Limits in univariable calculus.md",
-    "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
     "00.References/Calc_Theory_Continuity.pdf",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240605173722.png",

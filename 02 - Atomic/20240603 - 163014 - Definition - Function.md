@@ -7,8 +7,8 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-07
-sr-interval: 3
+sr-due: 2024-06-15
+sr-interval: 8
 sr-ease: 250
 ---
 # Def - Function: 
