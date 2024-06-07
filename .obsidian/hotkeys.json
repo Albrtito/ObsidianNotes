@@ -107,5 +107,19 @@
       ],
       "key": "ArrowLeft"
     }
+  ],
+  "obsidian-completr:completr-insert-selected-suggestion": [],
+  "obsidian-completr:completr-jump-to-next-snippet-placeholder": [],
+  "obsidian-completr:completr-blacklist-current-word": [],
+  "obsidian-completr:completr-select-next-suggestion": [],
+  "obsidian-completr:completr-select-previous-suggestion": [],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
   ]
 }

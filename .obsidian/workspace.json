@@ -29,8 +29,13 @@
             "id": "1df8570e1e46ab99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/Definition - Limits.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -49,8 +54,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5041847229004
+    "width": 258.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -150,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/Definition - Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/Definition - Limits.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,6 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/Definition - Limits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -238,7 +246,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/Definition - Limits.md"
+              }
             }
           }
         ]
@@ -264,7 +274,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "997973892b56ef1a",
+  "active": "1df8570e1e46ab99",
   "lastOpenFiles": [
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
