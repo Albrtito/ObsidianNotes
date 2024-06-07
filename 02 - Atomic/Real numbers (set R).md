@@ -4,9 +4,9 @@ tags:
   - review
   - CalcI
 "References:":
-sr-due: 2024-06-07
-sr-interval: 65
-sr-ease: 294
+sr-due: 2024-07-12
+sr-interval: 35
+sr-ease: 274
 ---
 # Intro: 
 The set of real numbers is indicated by the letter R. This set is the union of the rational and irrational sets. R contains all numbers defined in [Natural numbers (set N)](set%20N)).md)[Integer numbers (set Z)](set%20Z)).md)[Rational and irrational numbers(set Q and I)](set%20Q%20and%20I)).md). 
