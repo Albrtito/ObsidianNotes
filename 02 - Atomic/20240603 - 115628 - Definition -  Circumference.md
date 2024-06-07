@@ -7,8 +7,8 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-07
-sr-interval: 3
+sr-due: 2024-06-17
+sr-interval: 10
 sr-ease: 252
 ---
 A circumference is defined as the lugar geométrico to which belong: 
