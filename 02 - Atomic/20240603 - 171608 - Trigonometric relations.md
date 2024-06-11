@@ -47,6 +47,7 @@ $$
 $$
 \boxed{\tan(x+y) = \frac{\tan x + \tan y}{1 - \tan x\tan y}}
 $$
+**POWER REDUCING FORMULA:**
 
 **ADD SOME PI TO SIN**
 
