@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md"
+                "file": "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md"
               }
             }
           }
@@ -263,8 +263,10 @@
   },
   "active": "1df8570e1e46ab99",
   "lastOpenFiles": [
-    "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
+    "02 - Atomic/20240603 - 165823 - Definition - Root function.md",
+    "02 - Atomic/Definition 12 Sequence NOT BOUNDED from above or below.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+    "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
     "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
@@ -288,8 +290,6 @@
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02 - Atomic/20240603 - 162222 - Definition - Ellipse.md",
     "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
-    "02 - Atomic/20240409 - 121336 -Proof Theory in Predicate Calculus.md",
-    "01.Areas/0.DailyNote/2024-06-07.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "00.References/Calc_Theory_Limits.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
