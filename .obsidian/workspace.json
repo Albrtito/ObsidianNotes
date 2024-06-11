@@ -11,8 +11,13 @@
             "id": "1df8570e1e46ab99",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/0.DailyNote/2024-06-11.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -60,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Duda",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01.Areas/0.DailyNote/2024-06-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01.Areas/0.DailyNote/2024-06-11.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,6 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01.Areas/0.DailyNote/2024-06-11.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +210,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.25413825336167684,
+                  "scale": 0.06851130201334567,
                   "close": true
                 }
               }
@@ -219,7 +227,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01.Areas/0.DailyNote/2024-06-11.md"
+              }
             }
           }
         ]
@@ -230,21 +240,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-importer:Open Importer": true,
       "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
+      "obsidian-spaced-repetition:Review flashcards": true,
+      "templater-obsidian:Templater": true,
+      "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "1df8570e1e46ab99",
   "lastOpenFiles": [
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+    "01.Areas/0.DailyNote/2024-06-11.md",
     "02 - Atomic/20240603 - 115628 - Definition -  Circumference.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
     "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
@@ -270,7 +284,6 @@
     "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
     "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
     "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
-    "01.Areas/1.UC3M/Discrete Math.md",
     "00.References/Calc_Theory_Limits.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
     "00.References/Calc_Theory_Continuity.pdf",
