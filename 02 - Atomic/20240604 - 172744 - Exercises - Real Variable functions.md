@@ -9,8 +9,8 @@ tags:
   - "[[Calc_Exercises_RealVarFuncs.pdf]]"
 cssclasses:
   - page-manila
-sr-due: 2024-06-08
-sr-interval: 3
+sr-due: 2024-06-23
+sr-interval: 12
 sr-ease: 265
 ---
 # Exercises - Real variable functions. 
