@@ -7,9 +7,9 @@ tags:
 "References:":
   - https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives
 cssclasses:
-sr-due: 2024-06-09
-sr-interval: 5
-sr-ease: 244
+sr-due: 2024-07-03
+sr-interval: 22
+sr-ease: 264
 ---
 # Partial derivatives
 In single variable calculus the derivative is defined as the rate of change in the function for changes in the independent variable: 

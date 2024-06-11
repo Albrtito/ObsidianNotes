@@ -7,8 +7,8 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-10
-sr-interval: 5
+sr-due: 2024-06-24
+sr-interval: 13
 sr-ease: 230
 ---
 # Trigonometric functions:
@@ -51,6 +51,7 @@ $$cosec (x) = \frac{1}{sin(x)}$$
 ![[Screenshot 2024-06-03 at 17.09.08.png]]
 
 **CAREFUL:** sec(x) and cosec(x) are not the same as the following two functions: arcsin(x) and arccos(x). 
+#Duda: Why are these different?
 
 Arcsin and Arcos functions are obtained by **reversing the relation of the sin and cosine** 
 For sin: 

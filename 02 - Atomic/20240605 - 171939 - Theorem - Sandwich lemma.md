@@ -8,8 +8,8 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-09
-sr-interval: 3
+sr-due: 2024-06-21
+sr-interval: 10
 sr-ease: 250
 ---
 # Sandwich lemma: 

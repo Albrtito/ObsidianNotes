@@ -7,9 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-08
-sr-interval: 3
-sr-ease: 252
+sr-due: 2024-07-01
+sr-interval: 20
+sr-ease: 272
 ---
 All points with: 
 + **The same distance to a fixed point →** Focus
