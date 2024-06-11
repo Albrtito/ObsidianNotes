@@ -53,3 +53,4 @@ $$
 
 ### 3.6: This is a direct limit of to e when x tends to 0, see:[[20240606 - 220121 - Exponential limit forms|Exponential limit forms]]
 
+### 3.7: Apply Taylor? #Duda  How to do it without Taylor?
