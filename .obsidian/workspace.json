@@ -4,26 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "0e8f60bb2e12a13b",
-        "type": "tabs",
-        "dimension": 51.62011173184358,
-        "children": [
-          {
-            "id": "997973892b56ef1a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Calc_Exercises_RealVarFuncs.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "9af070794635d90b",
         "type": "tabs",
-        "dimension": 15.046554934823092,
+        "dimension": 61.885245901639344,
         "children": [
           {
             "id": "1df8570e1e46ab99",
@@ -37,13 +20,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c78a351d2e6fec85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240611 - 110755 - Exercise - Not a perfect square.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "367bce92cd40a76d",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 38.114754098360656,
         "children": [
           {
             "id": "aab5e8d7d0e2ce71",
@@ -159,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Calc_Exercises_RealVarFuncs.pdf",
+                "file": "02 - Atomic/20240611 - 110755 - Exercise - Not a perfect square.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Calc_Exercises_RealVarFuncs.pdf",
+                "file": "02 - Atomic/20240611 - 110755 - Exercise - Not a perfect square.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Calc_Exercises_RealVarFuncs.pdf",
+                "file": "02 - Atomic/20240611 - 110755 - Exercise - Not a perfect square.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Calc_Exercises_RealVarFuncs.pdf"
+                "file": "02 - Atomic/20240611 - 110755 - Exercise - Not a perfect square.md"
               }
             }
           }
@@ -278,9 +275,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "997973892b56ef1a",
+  "active": "c78a351d2e6fec85",
   "lastOpenFiles": [
+    "02 - Atomic/20240611 - 110755 - Exercise - Not a perfect square.md",
     "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
+    "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
@@ -305,12 +304,10 @@
     "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
     "02 - Atomic/20240409 - 121336 -Proof Theory in Predicate Calculus.md",
     "01.Areas/0.DailyNote/2024-06-07.md",
-    "01.Areas/0.DailyNote/2024-06-06.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "00.References/Calc_Theory_Limits.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
     "00.References/Calc_Theory_Continuity.pdf",
-    "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240605173722.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-11 at 16.11.08.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-15 at 03.29.37.png",

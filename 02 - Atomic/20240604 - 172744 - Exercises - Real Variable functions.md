@@ -17,6 +17,8 @@ sr-ease: 265
 
 Collection of solving methods for exercises provided in UC3M calculus course. 
 
+## Properties of sets of numbers: 
++ 
 ## Prove an inequality: 
 Given:
 $$
