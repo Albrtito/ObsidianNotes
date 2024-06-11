@@ -7,8 +7,8 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-08
-sr-interval: 3
+sr-due: 2024-06-22
+sr-interval: 11
 sr-ease: 250
 ---
 # The natural logarithm: 
