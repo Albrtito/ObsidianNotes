@@ -4,9 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "55fd72a83977e7f2",
+        "type": "tabs",
+        "dimension": 30.942622950819672,
+        "children": [
+          {
+            "id": "0ae86f5b08747897",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "9af070794635d90b",
         "type": "tabs",
-        "dimension": 61.885245901639344,
+        "dimension": 30.942622950819672,
         "children": [
           {
             "id": "1df8570e1e46ab99",
@@ -142,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md"
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
               }
             }
           }
@@ -261,10 +278,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1df8570e1e46ab99",
+  "active": "0ae86f5b08747897",
   "lastOpenFiles": [
-    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
+    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "02 - Atomic/20240606 - 181806 - Notable Identities.md",
     "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
