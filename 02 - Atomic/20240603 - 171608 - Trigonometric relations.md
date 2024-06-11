@@ -48,6 +48,7 @@ $$
 \boxed{\tan(x+y) = \frac{\tan x + \tan y}{1 - \tan x\tan y}}
 $$
 **POWER REDUCING FORMULA:**
+![[20240611 - 135712 - Trigonometric power reducing formula|Trigonometric power reducing formula]]
 
 **ADD SOME PI TO SIN**
 

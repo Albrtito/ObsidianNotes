@@ -56,3 +56,6 @@ $$
 ### 3.7: Apply Taylor? #Duda  How to do it without Taylor?
 
 ### 3.9: We are looking for the structure defined for this exercise. In order to get it we first obtain a common factor of $e^{sin x}$ and then apply a change of variable (that is not really necessary but in order to see the resemblance with the relation stated is needed)
+
+### 3.12: Solved using [[20240611 - 135712 - Trigonometric power reducing formula|Trigonometric power reducing formula]], #Duda is this the right and the proposed way to solve this?
+

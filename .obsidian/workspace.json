@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Definition - Limits.md",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -247,7 +247,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.06851130201334567,
+                  "scale": 0.08229926167336475,
                   "close": true
                 }
               }
@@ -294,11 +294,11 @@
   },
   "active": "4cf7c08852f4b501",
   "lastOpenFiles": [
-    "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
-    "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
-    "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
-    "02 - Atomic/Definition - Limits.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+    "02 - Atomic/Definition - Limits.md",
+    "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
+    "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
+    "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
     "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
