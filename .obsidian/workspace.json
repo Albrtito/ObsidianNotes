@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md"
               }
             }
           }
@@ -278,9 +278,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0ae86f5b08747897",
+  "active": "1df8570e1e46ab99",
   "lastOpenFiles": [
     "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
+    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "02 - Atomic/20240606 - 181806 - Notable Identities.md",
@@ -305,9 +306,7 @@
     "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
     "02 - Atomic/20240603 - 115254 - Definition - Parabola.md",
     "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
-    "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
-    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "00.References/Calc_Theory_Limits.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
     "00.References/Calc_Theory_Continuity.pdf",

@@ -10,7 +10,7 @@ sr-due: 2024-06-14
 sr-interval: 3
 sr-ease: 250
 ---
-# Proof - Not a perfect square: 
+**# Proof - Not a perfect square: 
 
 > [!NOTE] Proof
 > 
