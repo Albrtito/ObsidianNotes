@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
+                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
+                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
+                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
+                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md"
+                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md"
               }
             }
           }
@@ -294,10 +294,10 @@
   },
   "active": "4cf7c08852f4b501",
   "lastOpenFiles": [
+    "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/Definition - Limits.md",
     "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
-    "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
