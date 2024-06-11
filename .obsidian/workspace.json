@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 114227 - Definition - Straight line.md",
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240603 - 114227 - Definition - Straight line.md",
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240603 - 114227 - Definition - Straight line.md",
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 114227 - Definition - Straight line.md",
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 114227 - Definition - Straight line.md"
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md"
               }
             }
           }
@@ -263,6 +263,17 @@
   },
   "active": "1df8570e1e46ab99",
   "lastOpenFiles": [
+    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
+    "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
+    "02 - Atomic/20240603 - 115107 - Conic curves.md",
+    "02 - Atomic/20240605 - 164028 - Limits at infty.md",
+    "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
+    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+    "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
+    "02 - Atomic/The Laplace transform.md",
+    "02 - Atomic/20240603 - 112803 - Definition - Inequalities.md",
+    "02 - Atomic/20240603 - 165400 - Definition - Polynomial function.md",
+    "02 - Atomic/20240603 - 114227 - Definition - Straight line.md",
     "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
     "02 - Atomic/20240605 - 161701 - Properties of limits.md",
     "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
@@ -279,17 +290,6 @@
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
     "01.Areas/0.DailyNote/2024-06-11.md",
-    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
-    "02 - Atomic/20240603 - 115628 - Definition -  Circumference.md",
-    "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
-    "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
-    "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md",
-    "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
-    "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
-    "02 - Atomic/Real numbers (set R).md",
-    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
-    "02 - Atomic/20240605 - 164028 - Limits at infty.md",
-    "02 - Atomic/20240603 - 173629 - Definition - Logarithmic function.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "00.References/Calc_Theory_Limits.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",

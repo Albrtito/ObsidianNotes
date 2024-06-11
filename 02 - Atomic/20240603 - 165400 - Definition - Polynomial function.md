@@ -7,9 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-08
-sr-interval: 4
-sr-ease: 270
+sr-due: 2024-07-07
+sr-interval: 26
+sr-ease: 290
 ---
 Polynomial functions are those of the form: 
 $$

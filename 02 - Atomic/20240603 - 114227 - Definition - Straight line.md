@@ -6,8 +6,8 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-10
-sr-interval: 4
+sr-due: 2024-06-20
+sr-interval: 9
 sr-ease: 190
 ---
 # Straight line: 
