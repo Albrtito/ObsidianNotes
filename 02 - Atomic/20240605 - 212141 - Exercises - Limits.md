@@ -54,3 +54,5 @@ $$
 ### 3.6: This is a direct limit of to e when x tends to 0, see:[[20240606 - 220121 - Exponential limit forms|Exponential limit forms]]
 
 ### 3.7: Apply Taylor? #Duda  How to do it without Taylor?
+
+### 3.9: We are looking for the structure defined for this exercise. In order to get it we first obtain a common factor of $e^{sin x}$ and then apply a change of variable (that is not really necessary but in order to see the resemblance with the relation stated is needed)

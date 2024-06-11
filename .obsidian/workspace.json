@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md"
               }
             }
           }
@@ -278,13 +278,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0ae86f5b08747897",
+  "active": "1df8570e1e46ab99",
   "lastOpenFiles": [
+    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
     "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
     "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
