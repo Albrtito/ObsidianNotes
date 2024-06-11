@@ -4,8 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "0e8f60bb2e12a13b",
+        "type": "tabs",
+        "dimension": 51.62011173184358,
+        "children": [
+          {
+            "id": "997973892b56ef1a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Calc_Exercises_RealVarFuncs.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "9af070794635d90b",
         "type": "tabs",
+        "dimension": 15.046554934823092,
         "children": [
           {
             "id": "1df8570e1e46ab99",
@@ -13,19 +31,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+                "file": "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "997973892b56ef1a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -33,6 +43,7 @@
       {
         "id": "367bce92cd40a76d",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "aab5e8d7d0e2ce71",
@@ -112,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5041847229004
+    "width": 258.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "00.References/Calc_Exercises_RealVarFuncs.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "00.References/Calc_Exercises_RealVarFuncs.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "00.References/Calc_Exercises_RealVarFuncs.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md"
+                "file": "00.References/Calc_Exercises_RealVarFuncs.pdf"
               }
             }
           }
@@ -266,9 +278,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aab5e8d7d0e2ce71",
+  "active": "997973892b56ef1a",
   "lastOpenFiles": [
+    "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
     "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
     "01.Areas/0.DailyNote/2024-06-11.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
@@ -292,9 +306,7 @@
     "02 - Atomic/20240409 - 121336 -Proof Theory in Predicate Calculus.md",
     "01.Areas/0.DailyNote/2024-06-07.md",
     "01.Areas/0.DailyNote/2024-06-06.md",
-    "02 - Atomic/Definition - Limits.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
-    "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
     "00.References/Calc_Theory_Limits.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
     "00.References/Calc_Theory_Continuity.pdf",

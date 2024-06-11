@@ -8,8 +8,8 @@ tags:
   - "[[20240528 - 121302 - First order, Linear  ODE|First order, Linear  ODE]]"
 cssclasses:
   - page-manila
-sr-due: 2024-06-11
-sr-interval: 6
+sr-due: 2024-06-27
+sr-interval: 16
 sr-ease: 248
 ---
 # Exercises - First order, linear ODEs
