@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "02 - Atomic/Definition - Limits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "02 - Atomic/Definition - Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "02 - Atomic/Definition - Limits.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "02 - Atomic/Definition - Limits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md"
+                "file": "02 - Atomic/Definition - Limits.md"
               }
             }
           }
@@ -280,12 +280,12 @@
   },
   "active": "1df8570e1e46ab99",
   "lastOpenFiles": [
+    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
     "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
     "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "02 - Atomic/20240606 - 181806 - Notable Identities.md",
