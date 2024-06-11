@@ -6,8 +6,8 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
-sr-due: 2024-06-10
-sr-interval: 7
+sr-due: 2024-07-20
+sr-interval: 39
 sr-ease: 230
 ---
 # First order, linear ODE 

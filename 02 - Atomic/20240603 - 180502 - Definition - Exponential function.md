@@ -7,9 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-11
-sr-interval: 5
-sr-ease: 247
+sr-due: 2024-08-17
+sr-interval: 67
+sr-ease: 287
 ---
 $$
 \boxed{f(x) = e^x}

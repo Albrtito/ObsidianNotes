@@ -7,6 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-12
+sr-interval: 1
+sr-ease: 230
 ---
 When working with infinity we can find indeterminate forms. These forms are such as whose value **cannot be determined in advance** and may be different in each case. 
 

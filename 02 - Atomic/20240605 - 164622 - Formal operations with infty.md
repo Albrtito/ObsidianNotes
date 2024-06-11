@@ -6,6 +6,9 @@ tags:
   - review
 "References:": 
 cssclasses:
+sr-due: 2024-06-12
+sr-interval: 1
+sr-ease: 230
 ---
 $$
 \begin{gather}
@@ -19,6 +22,7 @@ a + \infty = \infty & a -\infty = -\infty\\\\
 a ^\infty = \infty: a > 1& a^\infty = 0: a < 1
 \end{gather}
 $$
+
 
 
 Those operations not in here can result in: [[20240605 - 165543 - Infty indeterminate forms|indeterminate forms]]

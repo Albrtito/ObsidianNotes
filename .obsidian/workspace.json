@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
+                "file": "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
+                "file": "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
+                "file": "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
+                "file": "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md"
+                "file": "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md"
               }
             }
           }
@@ -263,12 +263,21 @@
   },
   "active": "1df8570e1e46ab99",
   "lastOpenFiles": [
+    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+    "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
+    "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
+    "02 - Atomic/20240606 - 181806 - Notable Identities.md",
+    "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
+    "02 - Atomic/20240605 - 164622 - Formal operations with infty.md",
+    "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
+    "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+    "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
     "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
     "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
     "02 - Atomic/20240603 - 115107 - Conic curves.md",
     "02 - Atomic/20240605 - 164028 - Limits at infty.md",
     "02 - Atomic/20240418 - 193416 - Partial Differential Equations (PDEs).md",
-    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
     "02 - Atomic/The Laplace transform.md",
     "02 - Atomic/20240603 - 112803 - Definition - Inequalities.md",
@@ -280,16 +289,7 @@
     "02 - Atomic/20240603 - 115254 - Definition - Parabola.md",
     "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
     "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
-    "02 - Atomic/20240603 - 165823 - Definition - Root function.md",
-    "02 - Atomic/Definition 12 Sequence NOT BOUNDED from above or below.md",
-    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
-    "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
-    "02 - Atomic/20240604 - 172744 - Exercises - Real Variable functions.md",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
-    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
-    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-    "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
-    "01.Areas/0.DailyNote/2024-06-11.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "00.References/Calc_Theory_Limits.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
