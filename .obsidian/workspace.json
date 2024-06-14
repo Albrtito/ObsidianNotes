@@ -6,7 +6,7 @@
       {
         "id": "55fd72a83977e7f2",
         "type": "tabs",
-        "dimension": 30.942622950819672,
+        "dimension": 50,
         "children": [
           {
             "id": "0ae86f5b08747897",
@@ -23,7 +23,7 @@
       {
         "id": "9af070794635d90b",
         "type": "tabs",
-        "dimension": 30.942622950819672,
+        "dimension": 50,
         "children": [
           {
             "id": "1df8570e1e46ab99",
@@ -39,40 +39,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "367bce92cd40a76d",
-        "type": "tabs",
-        "dimension": 38.114754098360656,
-        "children": [
-          {
-            "id": "aab5e8d7d0e2ce71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cf7c08852f4b501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md"
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
               }
             }
           }
@@ -292,11 +258,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1df8570e1e46ab99",
+  "active": "0ae86f5b08747897",
   "lastOpenFiles": [
-    "01.Areas/0.DailyNote/2024-06-14.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
+    "01.Areas/0.DailyNote/2024-06-14.md",
     "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
     "02 - Atomic/Definition - Limits.md",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",

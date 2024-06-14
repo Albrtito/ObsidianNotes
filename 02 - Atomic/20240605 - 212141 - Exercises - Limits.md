@@ -59,3 +59,4 @@ $$
 
 ### 3.12: Solved using [[20240611 - 135712 - Trigonometric power reducing formula|Trigonometric power reducing formula]], #Duda is this the right and the proposed way to solve this?
 
+## 4. Limits to infty: 
