@@ -121,4 +121,8 @@ There are three posible casos based on the **maximum degree of x in P1 and P2**:
 	   \lim_{x\rightarrow x_0} \frac{4x^2}{x^2 + 2} = \frac{4}{1} = 4
 	   $$
 	   
-	   
+	## For limits at 0: 
+	
+	### 1. Trigo: Power reducing formula: 
+	+ [[20240611 - 135712 - Trigonometric power reducing formula|Trigonometric power reducing formula]]
+	+ 
