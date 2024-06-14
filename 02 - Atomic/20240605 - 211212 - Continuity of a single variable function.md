@@ -11,5 +11,53 @@ sr-due: 2024-06-15
 sr-interval: 1
 sr-ease: 210
 ---
-# Continuity of a single variable function: 
-![[20240614 - 121216 - Definition - Continuity in single variable|Definition - Continuity in single variable]]
+# Continuity of a single variable function:
+
+
+> [!NOTE] Definition: 
+> A function f(x) is **continuous at $x_0$** if: 
+> $$
+> lim_{x\rightarrow x_0}f(x) = f(x_0)
+> $$
+> 
+
+## Properties of continuity:
+Given f and g continuous at $x_0$ we define the functions as continuous or not (at point $x_0$)
+1. $f + g$ is **continuous** 
+2. $f\cdot g$ is **continuous**
+3. **If:** $g(x) \not = 0$ : $\frac{f(x)}{g(x)} is **continuous**
+   
+4. **If:** g is continuous at f($x_0$) then: 
+   $$
+   \boxed{lim_{x\rightarrow x_0}g(f(x)) = g(\lim_{x\rightarrow x_0}f(x))}
+   $$
+
+## Theorems: 
+
+> [!NOTE] Composition 
+> If g is continuous at $x_0$ and f is continuous at $g(x_0)$ then: 
+> $$
+> f \circ g
+> $$ 
+> Is **continuous at $x_0$**
+> 
+
+
+> [!NOTE] Sign:
+> If a function f is continuous at some point, then it …
+
+
+***
+
+If a function is continuous on (a,b) then it is said to be continuous at any point on the interval. 
+
+For the function to be continuous on the **closed interval** \[a,b\] then the limits for those points from the left and right must agree with it: 
+$$
+\begin{gather}
+lim_{x\rightarrow a^+} = f(a)\\
+lim_{x\rightarrow b^-} = f(b)
+\end{gather}
+$$
+
+
+

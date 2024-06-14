@@ -52,12 +52,12 @@
             }
           },
           {
-            "id": "6b9e75460e9ff209",
+            "id": "ceaa1453ae1c8411",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md",
+                "file": "02 - Atomic/20240614 - 122756 -.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md",
+                "file": "02 - Atomic/20240614 - 122756 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md",
+                "file": "02 - Atomic/20240614 - 122756 -.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md",
+                "file": "02 - Atomic/20240614 - 122756 -.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md"
+                "file": "02 - Atomic/20240614 - 122756 -.md"
               }
             }
           }
@@ -285,8 +285,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b9e75460e9ff209",
+  "active": "ceaa1453ae1c8411",
   "lastOpenFiles": [
+    "02 - Atomic/20240614 - 122756 -.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md",
     "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
@@ -314,7 +315,6 @@
     "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
     "01.Areas/0.DailyNote/2024-06-14.md",
     "02 - Atomic/Definition - Limits.md",
-    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "00.References/Calc_Theory_Limits.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
