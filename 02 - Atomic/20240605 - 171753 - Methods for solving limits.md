@@ -120,9 +120,16 @@ There are three posible casos based on the **maximum degree of x in P1 and P2**:
 	   $$
 	   \lim_{x\rightarrow x_0} \frac{4x^2}{x^2 + 2} = \frac{4}{1} = 4
 	   $$
-	   
-	## For limits at 0: 
-	
-	### 1. Trigo: Power reducing formula: 
-	+ [[20240611 - 135712 - Trigonometric power reducing formula|Trigonometric power reducing formula]]
-	+ 
+**Remark:**
++ For **roots** it is nothing more than changing the exponent of the x inside the root. 
+  f.e: An $1/x^1$ goes into an square root as $1/x^2$ and so on. 
+  So we can directly say that for limits such as: 
+  $$
+  lim_\infty \frac{x-2}{\sqrt{4x^2 + 1}}
+  $$
+  The solution would be 1/2 as the $x^2$ inside the root is equal to x outside. And the 4 goes to 2 because of the root. 
+
+## For limits at 0: 
+
+### 1. Trigo: Power reducing formula: 
++ [[20240611 - 135712 - Trigonometric power reducing formula|Trigonometric power reducing formula]]
