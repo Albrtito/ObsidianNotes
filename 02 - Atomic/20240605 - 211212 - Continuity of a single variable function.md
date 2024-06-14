@@ -52,4 +52,24 @@ The continuity of closed intervals relates directly to one of the main theorems 
 
 ## Max and min: 
 
+Given a function f, continuous or not, we can define a maximum/minimum point and value in the following way: 
+
+
+> [!NOTE] Definition: Maximum/Minimum
+> 1. For $c \in A$ such as: 
+>    $$
+>    f(c) \geq f(x) \forall x \in A
+>    $$
+>    We say: 
+>    + c is a **maximum point**
+>    + f(c) is a **maximum value of f on A**
+>
+>2. For $c \in A$ such as: 
+>    $$
+>    f(c) \leq f(x) \forall x \in A
+>    $$
+>    We say: 
+>    + c is a **minimum point**
+>    + f(c) is a **minimum value of f on A**
+
 

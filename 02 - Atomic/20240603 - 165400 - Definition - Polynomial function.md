@@ -18,3 +18,12 @@ $$
 **Properties:**
 + $Dom = \mathbb{R}$
 
+**Theorems:**
+
+> [!NOTE] Odd degree polynomials
+> Any odd degree polynomial has **at least one root**
+
+> [!NOTE] Even degree polynomials
+> Any even degree polynomial with **positive highest coefficient** is **bounded below.** 
+
+
