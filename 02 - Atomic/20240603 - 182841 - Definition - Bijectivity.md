@@ -7,8 +7,8 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-12
-sr-interval: 8
+sr-due: 2024-07-08
+sr-interval: 24
 sr-ease: 250
 ---
 A function f: A→ B is **bijective** if:

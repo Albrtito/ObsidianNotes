@@ -7,8 +7,8 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
-sr-due: 2024-06-13
-sr-interval: 6
+sr-due: 2024-06-29
+sr-interval: 15
 sr-ease: 210
 ---
 # First order, homogeneous, substitutions ODEs

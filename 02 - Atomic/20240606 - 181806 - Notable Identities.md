@@ -6,9 +6,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-12
-sr-interval: 1
-sr-ease: 228
+sr-due: 2024-06-24
+sr-interval: 10
+sr-ease: 248
 ---
 # Notable Identities: 
 

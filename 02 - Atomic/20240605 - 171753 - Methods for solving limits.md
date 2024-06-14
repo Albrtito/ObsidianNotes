@@ -6,8 +6,8 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-12
-sr-interval: 6
+sr-due: 2024-07-01
+sr-interval: 17
 sr-ease: 248
 ---
 # Methods for solving limits:

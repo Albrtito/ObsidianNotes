@@ -7,9 +7,9 @@ tags:
 "References:":
   - "[[Calc_Theory_RealVarFuncs.pdf]]"
 cssclasses:
-sr-due: 2024-06-14
-sr-interval: 7
-sr-ease: 260
+sr-due: 2024-07-09
+sr-interval: 25
+sr-ease: 280
 ---
 # Real variable functions: 
 
