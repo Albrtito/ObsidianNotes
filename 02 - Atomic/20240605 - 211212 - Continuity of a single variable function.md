@@ -32,6 +32,8 @@ Given f and g continuous at $x_0$ we define the functions as continuous or not (
    \boxed{lim_{x\rightarrow x_0}g(f(x)) = g(\lim_{x\rightarrow x_0}f(x))}
    $$
 
+If a function f is **not continuous** then we must differentiate between [[20240614 - 122756 - Definition - Discontinuity types|Discontinuity types]]. 
+
 ***
 ## Fundamental theorems:
 All main theorems related to continuity can be found here: 
@@ -46,6 +48,8 @@ lim_{x\rightarrow a^+} = f(a)\\
 lim_{x\rightarrow b^-} = f(b)
 \end{gather}
 $$
-The continuity of closed intervals relates directly to one of the main theorems in this area, used to evaluate these intervals. This theorem is the [[20240614 - 123841 - Theorem - Bolzano|Theorem - Bolzano]] 
+The continuity of closed intervals relates directly to one of the main theorems in this area, used to evaluate these intervals. This theorem is the [[20240614 - 123841 - Theorem - Bolzano|Theorem - Bolzano]] and the evaluation on closed intervals is part of the **local study of a function**
+
+## Max and min: 
 
 
