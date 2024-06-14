@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md"
               }
             }
           }
@@ -258,15 +258,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0ae86f5b08747897",
+  "active": "1df8570e1e46ab99",
   "lastOpenFiles": [
+    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
     "01.Areas/0.DailyNote/2024-06-14.md",
     "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
     "02 - Atomic/Definition - Limits.md",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
-    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
     "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
@@ -286,7 +286,6 @@
     "02 - Atomic/20240603 - 114227 - Definition - Straight line.md",
     "02 - Atomic/20240529 - 165329 - Definition - Partial derivatives.md",
     "02 - Atomic/20240605 - 161701 - Properties of limits.md",
-    "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "00.References/Calc_Theory_Limits.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",

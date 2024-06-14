@@ -60,3 +60,8 @@ $$
 ### 3.12: Solved using [[20240611 - 135712 - Trigonometric power reducing formula|Trigonometric power reducing formula]], #Duda is this the right and the proposed way to solve this?
 
 ## 4. Limits to infty: 
+
++ Polynomial formulas (whether one degree is greater than the other) are the a quick way of performing division by the largest factor. 
+  For ROOTS with SUMS this division is better done directly. Taking into account that anything divided by x. If x goes to infty, goes to 0. 
++ For trigonometric functions. If divided by x they still go to 0. (Bounded? #Duda )
++ 
