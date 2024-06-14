@@ -14,7 +14,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
+                "file": "00.References/Calc_Theory_Continuity.pdf"
               }
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
+                "file": "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,12 +52,12 @@
             }
           },
           {
-            "id": "8160d40e86b4ec19",
+            "id": "6b9e75460e9ff209",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
+                "file": "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
+                "file": "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
+                "file": "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
+                "file": "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md"
+                "file": "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md"
               }
             }
           }
@@ -285,15 +285,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3d7918ff9522a657",
+  "active": "6b9e75460e9ff209",
   "lastOpenFiles": [
-    "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
+    "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
+    "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md",
     "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
+    "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
+    "00.References/Calc_Theory_Continuity.pdf",
+    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+    "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
     "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
     "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
     "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md",
-    "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "02 - Atomic/20240603 - 200153 - Definition - Hyperbolic functions.md",
     "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
@@ -307,17 +311,13 @@
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
-    "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
-    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
     "01.Areas/0.DailyNote/2024-06-14.md",
     "02 - Atomic/Definition - Limits.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-    "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "00.References/Calc_Theory_Limits.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
-    "00.References/Calc_Theory_Continuity.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240605173722.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-11 at 16.11.08.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-15 at 03.29.37.png",

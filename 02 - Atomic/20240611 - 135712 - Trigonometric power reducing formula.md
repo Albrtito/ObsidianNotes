@@ -8,7 +8,7 @@ tags:
 cssclasses:
 sr-due: 2024-06-15
 sr-interval: 1
-sr-ease: 221
+sr-ease: 201
 ---
 # Trigonometric power reducing formula: 
 $$
