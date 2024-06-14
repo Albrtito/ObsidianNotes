@@ -7,13 +7,13 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
-sr-due: 2024-06-13
-sr-interval: 6
+sr-due: 2024-06-28
+sr-interval: 14
 sr-ease: 210
 ---
 # First order, exact ODEs:
 Exact ODEs are those that can be written in the form: 
-
+#Duda : Esto es así con f solo derivada en x? No me cuadra si luego utilizamos la parcial solo en x para resolver. 
 $$
 \begin{gather}
 M(x,u) + N(x,u)u' =0 \\

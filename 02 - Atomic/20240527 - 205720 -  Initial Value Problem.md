@@ -7,8 +7,8 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
-sr-due: 2024-06-14
-sr-interval: 11
+sr-due: 2024-07-13
+sr-interval: 29
 sr-ease: 252
 ---
 # Initial Value Problem (IVP):
