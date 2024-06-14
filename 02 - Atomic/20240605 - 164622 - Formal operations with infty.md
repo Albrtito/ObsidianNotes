@@ -25,6 +25,7 @@ $$
 
 
 
+
 Those operations not in here can result in: [[20240605 - 165543 - Infty indeterminate forms|indeterminate forms]]
 
 

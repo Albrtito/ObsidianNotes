@@ -6,8 +6,8 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-14
-sr-interval: 3
+sr-due: 2024-06-22
+sr-interval: 8
 sr-ease: 250
 ---
 **# Proof - Not a perfect square: 
