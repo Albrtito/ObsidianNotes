@@ -22,3 +22,5 @@ This note collects theorems related to continuity, from basic properties to theo
 > [!NOTE] Sign:
 > If a function f is continuous at some point, then it …
 
++ [[20240614 - 123841 - Theorem - Bolzano|Theorem - Bolzano]]
+

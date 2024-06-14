@@ -6674,6 +6674,8 @@ cubic
 conversions
 circ
 collects
+crossed
+crosses
 lifeOS
 liking
 las
@@ -23644,6 +23646,7 @@ bpe
 bZB
 boE
 boxed
+basically
 Gym
 Given
 GALVIN
@@ -81571,6 +81574,7 @@ SCg
 SPI
 Subtraction
 Sure
+Sign
 La
 Las
 Lanz
