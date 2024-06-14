@@ -7,9 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-13
-sr-interval: 2
-sr-ease: 232
+sr-due: 2024-06-15
+sr-interval: 1
+sr-ease: 192
 ---
 The Hyperbola is el lugar geométrico where all points have:
 + **Same distance to the difference of two fixed points** → Focuses. 
