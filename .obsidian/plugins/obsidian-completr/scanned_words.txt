@@ -19526,6 +19526,8 @@ iOQ
 iRyP
 iXU
 indicated
+integrar
+integraciones
 Enough
 Esta
 Est
@@ -40141,6 +40143,7 @@ eTjF
 efw
 eGJv
 entiendo
+equivalente
 Instagram
 IRIS
 Intendencia
@@ -50518,6 +50521,8 @@ sEu
 svr
 sgA
 simply
+sigue
+siendo
 No
 NOTE
 Normalmente
