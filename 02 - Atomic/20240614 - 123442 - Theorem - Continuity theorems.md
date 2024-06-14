@@ -24,8 +24,19 @@ This note collects theorems related to continuity, from basic properties to theo
 
 ## Continuity and boundedness:
 + [[20240614 - 123841 - Theorem - Bolzano|Theorem - Bolzano]]
+
 ## Maximum and Minimum: 
 
 > [!NOTE] Max/Min 
-> If f is continu 
+> If f is continuous on [a,b] then: 
+> + Exist a **max** and a **min** point of f on [a,b] such as: 
+>   $$
+>   \begin{gather}
+>   \exists c,d \in [a,b]\\\\
+>    f(c) \leq f(d) \leq(f(d)\\\\
+>     \forall x \in [a,b])
+>   \end{gather}
+>   $$
+>   
+
 

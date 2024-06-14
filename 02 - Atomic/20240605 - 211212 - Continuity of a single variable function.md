@@ -73,3 +73,7 @@ Given a function f, continuous or not, we can define a maximum/minimum point and
 >    + f(c) is a **minimum value of f on A**
 
 
+## Uniform continuity: 
+#Duda : No entiendo nada de esta definición 
+
+![[Screenshot 2024-06-14 at 13.32.01.png]]

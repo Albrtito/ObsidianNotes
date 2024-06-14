@@ -12862,6 +12862,7 @@ fZT
 fwe
 filled
 forget
+forall
 Woke
 Write
 Went
