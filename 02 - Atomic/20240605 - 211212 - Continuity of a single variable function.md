@@ -36,6 +36,7 @@ Given f and g continuous at $x_0$ we define the functions as continuous or not (
 ## Fundamental theorems:
 All main theorems related to continuity can be found here: 
 + [[20240614 - 123442 - Theorem - Continuity theorems|Theorem - Continuity theorems]]
+
 If a function is continuous on (a,b) then it is said to be continuous at any point on the interval. 
 
 For the function to be continuous on the **closed interval** \[a,b\] then the limits for those points from the left and right must agree with it: 
@@ -45,6 +46,6 @@ lim_{x\rightarrow a^+} = f(a)\\
 lim_{x\rightarrow b^-} = f(b)
 \end{gather}
 $$
-The continuity of closed intervals relates directly to one of the main theorems in this area: [[]]
+The continuity of closed intervals relates directly to one of the main theorems in this area, used to evaluate these intervals. This theorem is the [[20240614 - 123841 - Theorem - Bolzano|Theorem - Bolzano]] 
 
 
