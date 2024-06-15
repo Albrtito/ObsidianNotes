@@ -84,4 +84,6 @@ $$
 
 ## Relations with the inverse function: 
 Given the inverse function of f defined as [[20240615 - 202910 - Definition - Inverse function|Inverse function]]. 
++ ![[20240615 - 202910 - Definition - Inverse function#Differentiability of a function and it’s inverse]]
 
+The application of this theorem is used to compute the derivatives of the inverse of trigonometric functions. 
