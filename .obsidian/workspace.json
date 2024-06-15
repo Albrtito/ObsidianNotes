@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
+                "file": "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
+                "file": "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
+                "file": "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
+                "file": "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md"
+                "file": "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md"
               }
             }
           }
@@ -258,9 +258,12 @@
   },
   "active": "62b748b8b0843ff3",
   "lastOpenFiles": [
+    "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
+    "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
+    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+    "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
     "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
-    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "01.Areas/0.DailyNote/2024-06-15.md",
     "02 - Atomic/Definition 11 Bounded sequence.md",
@@ -274,7 +277,6 @@
     "02 - Atomic/20240614 - 125509 - Method - Newton's Bisection Method.md",
     "02 - Atomic/20240614 - 122756 - Definition - Discontinuity types.md",
     "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md",
-    "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
     "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
     "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
     "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
@@ -284,7 +286,6 @@
     "02 - Atomic/20240602 - 172958 - Real variable functions.md",
     "02 - Atomic/20240606 - 181806 - Notable Identities.md",
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-    "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
     "02 - Atomic/20240605 - 164622 - Formal operations with infty.md",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "00.References/Calc_Theory_Limits.pdf",
