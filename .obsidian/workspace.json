@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240605 - 164622 - Formal operations with infty.md",
+                "file": "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
+                "file": "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md"
               }
             }
           }
@@ -285,9 +285,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "62b748b8b0843ff3",
+  "active": "bd2f4f55dca90428",
   "lastOpenFiles": [
     "02 - Atomic/20240605 - 164622 - Formal operations with infty.md",
+    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
@@ -295,7 +296,6 @@
     "02 - Atomic/20240615 - 153916 - Exercises - Continuity.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "00.References/Calc_Theory_Continuity.pdf",
-    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240614 - 122756 - Definition - Discontinuity types.md",
     "02 - Atomic/20240614 - 125509 - Method - Newton's Bisection Method.md",
     "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
@@ -315,7 +315,6 @@
     "02 - Atomic/20240603 - 165400 - Definition - Polynomial function.md",
     "02 - Atomic/Boundedness.md",
     "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md",
-    "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "00.References/Calc_Theory_Limits.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
