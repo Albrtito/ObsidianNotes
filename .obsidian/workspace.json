@@ -6,37 +6,53 @@
       {
         "id": "1280de7f3143dfec",
         "type": "tabs",
+        "dimension": 69.15463917525774,
         "children": [
           {
-            "id": "8de3db720584d4f3",
+            "id": "62b748b8b0843ff3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00.References/Calc_Theory_Continuity.pdf"
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
               }
             }
           }
         ]
       },
       {
-        "id": "9af070794635d90b",
+        "id": "b3ce7ec732c9e7fc",
         "type": "tabs",
+        "dimension": 30.84536082474227,
         "children": [
           {
-            "id": "62b748b8b0843ff3",
+            "id": "8de3db720584d4f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240614 - 122756 - Definition - Discontinuity types.md",
+                "file": "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d08425b3aa58aee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240615 - 153916 - Exercises - Continuity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240614 - 122756 - Definition - Discontinuity types.md",
+                "file": "02 - Atomic/20240615 - 153916 - Exercises - Continuity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240614 - 122756 - Definition - Discontinuity types.md",
+                "file": "02 - Atomic/20240615 - 153916 - Exercises - Continuity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240614 - 122756 - Definition - Discontinuity types.md",
+                "file": "02 - Atomic/20240615 - 153916 - Exercises - Continuity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240614 - 122756 - Definition - Discontinuity types.md"
+                "file": "02 - Atomic/20240615 - 153916 - Exercises - Continuity.md"
               }
             }
           }
@@ -256,14 +272,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "62b748b8b0843ff3",
+  "active": "d08425b3aa58aee9",
   "lastOpenFiles": [
-    "02 - Atomic/20240614 - 125509 - Method - Newton's Bisection Method.md",
-    "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
+    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+    "02 - Atomic/20240615 - 153916 - Exercises - Continuity.md",
+    "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "00.References/Calc_Theory_Continuity.pdf",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+    "02 - Atomic/20240614 - 122756 - Definition - Discontinuity types.md",
+    "02 - Atomic/20240614 - 125509 - Method - Newton's Bisection Method.md",
+    "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
     "02 - Atomic/20240614 - 123442 - Theorem - Continuity theorems.md",
-    "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "02 - Atomic/20240501 - 123051 - Unit testing.md",
     "02 - Atomic/20240501 - 123332 - Black box testing.md",
     "02 - Atomic/20240603 - 163014 - Definition - Function.md",
@@ -272,7 +291,6 @@
     "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
     "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
     "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
-    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
     "01.Areas/0.DailyNote/2024-06-15.md",
@@ -280,7 +298,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-06-14 at 13.32.01.png",
     "02 - Atomic/20240603 - 165400 - Definition - Polynomial function.md",
     "02 - Atomic/Boundedness.md",
-    "02 - Atomic/20240614 - 122756 - Definition - Discontinuity types.md",
     "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md",
     "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
     "02 - Atomic/20240603 - 182102 - Definition - Surjectivity -.md",
