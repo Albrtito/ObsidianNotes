@@ -26,19 +26,6 @@
         "dimension": 30.84536082474227,
         "children": [
           {
-            "id": "bd2f4f55dca90428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5ac45d5b7c47fdb7",
             "type": "leaf",
             "state": {
@@ -83,15 +70,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240615 - 202537 - Theorem - Chain rule.md",
+                "file": "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac1689ff571eb34c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240615 - 202910 - Definition - Inverse function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240615 - 202537 - Theorem - Chain rule.md",
+                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240615 - 202537 - Theorem - Chain rule.md",
+                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240615 - 202537 - Theorem - Chain rule.md",
+                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -284,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240615 - 202537 - Theorem - Chain rule.md"
+                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md"
               }
             }
           }
@@ -311,14 +310,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c8e1d8a2ef33c743",
+  "active": "5ac45d5b7c47fdb7",
   "lastOpenFiles": [
+    "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
+    "02 - Atomic/20240615 - 202910 - Definition - Inverse function.md",
+    "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
     "02 - Atomic/20240615 - 202537 - Theorem - Chain rule.md",
     "02 - Atomic/20240615 - 195347 - Differentiability.md",
     "00.References/Calc_Theory_Differentiability.pdf",
     "02 - Atomic/20240615 - 153916 - Exercises - Continuity.md",
     "02 - Atomic/20240615 - 200708 - Definition - Tangent line to the graph of a function..md",
-    "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
     "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
@@ -340,8 +341,6 @@
     "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
     "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
-    "01.Areas/0.DailyNote/2024-06-15.md",
-    "02 - Atomic/Definition 11 Bounded sequence.md",
     "99 - Meta/0. Attachments/Screenshot 2024-06-14 at 13.32.01.png",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "00.References/Calc_Theory_Limits.pdf",

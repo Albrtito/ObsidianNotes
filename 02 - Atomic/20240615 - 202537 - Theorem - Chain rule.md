@@ -15,3 +15,6 @@ cssclasses:
 > If g is differentiable at a and f is differentiable at g(a) then: 
 > $$
 > (f\circ g)' (a) = f' (g(a))g'(a)
+> $$
+
+

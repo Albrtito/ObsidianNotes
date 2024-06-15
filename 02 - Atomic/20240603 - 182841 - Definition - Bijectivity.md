@@ -22,3 +22,6 @@ $$
 f(x) = x^3
 $$ 
 + Is bijective
+
+**Remarks:**
++ Observe that if f is bijective then it **must be either increasing or decreasing**

@@ -82,5 +82,6 @@ $$
 $$
 + g ≠ 0
 
-5. 
+## Relations with the inverse function: 
+Given the inverse function of f defined as [[20240615 - 202910 - Definition - Inverse function|Inverse function]]. 
 

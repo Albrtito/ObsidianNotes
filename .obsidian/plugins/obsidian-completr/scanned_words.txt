@@ -72177,6 +72177,7 @@ DHmVl
 Derivative
 Differentiability
 Differentiable
+Derivation
 HH
 Highlight
 Hay
@@ -78272,6 +78273,7 @@ CWf
 CjJ
 Cgi
 CpAz
+Corner
 your
 ya
 yo
@@ -86292,6 +86294,7 @@ ORlu
 OUg
 OMkX
 OSRd
+Observe
 varias
 verde
 visita
