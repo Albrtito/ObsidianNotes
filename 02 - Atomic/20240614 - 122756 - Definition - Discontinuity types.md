@@ -6,6 +6,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-21
+sr-interval: 6
+sr-ease: 242
 ---
 # Discontinuity types:
 

@@ -5,6 +5,9 @@ tags:
   - review
 "References:": 
 cssclasses:
+sr-due: 2024-06-16
+sr-interval: 1
+sr-ease: 224
 ---
 # Continuity theorems: 
 This note collects theorems related to continuity, from basic properties to theorems such as Bolzano’s: 
