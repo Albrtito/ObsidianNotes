@@ -4,6 +4,22 @@
     "type": "split",
     "children": [
       {
+        "id": "1280de7f3143dfec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8de3db720584d4f3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "9af070794635d90b",
         "type": "tabs",
         "children": [
@@ -13,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-15.md",
+                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-15.md",
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-15.md",
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-15.md",
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-15.md"
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
               }
             }
           }
@@ -240,10 +256,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "62b748b8b0843ff3",
+  "active": "8de3db720584d4f3",
   "lastOpenFiles": [
-    "02 - Atomic/Definition 11 Bounded sequence.md",
+    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "01.Areas/0.DailyNote/2024-06-15.md",
+    "02 - Atomic/Definition 11 Bounded sequence.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "00.References/Calc_Theory_Continuity.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-14 at 13.32.01.png",
@@ -253,7 +270,6 @@
     "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
     "02 - Atomic/20240614 - 125509 - Method - Newton's Bisection Method.md",
     "02 - Atomic/20240614 - 122756 - Definition - Discontinuity types.md",
-    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240614 - 121216 - Definition - Continuity in single variable.md",
     "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
     "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
