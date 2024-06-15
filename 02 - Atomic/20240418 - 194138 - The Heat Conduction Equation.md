@@ -6,8 +6,8 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses: 
-sr-due: 2024-06-15
-sr-interval: 4
+sr-due: 2024-06-20
+sr-interval: 5
 sr-ease: 130
 ---
 # The heat conduction equation

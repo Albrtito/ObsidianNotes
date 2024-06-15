@@ -3,10 +3,9 @@ aliases:
   - Black box testing
   - Functional testing
 tags:
-  - review
   - SoftwareDev
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-15
 sr-interval: 38
 sr-ease: 273

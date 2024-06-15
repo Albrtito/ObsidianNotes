@@ -25,7 +25,7 @@ sr-ease: 210
 Given f and g continuous at $x_0$ we define the functions as continuous or not (at point $x_0$)
 1. $f + g$ is **continuous** 
 2. $f\cdot g$ is **continuous**
-3. **If:** $g(x) \not = 0$ : $\frac{f(x)}{g(x)} is **continuous**
+3. **If:** $g(x) \not = 0$ : $\frac{f(x)}{g(x)}$ is **continuous**
    
 4. **If:** g is continuous at f($x_0$) then: 
    $$

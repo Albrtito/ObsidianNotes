@@ -6,9 +6,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-15
+sr-due: 2024-06-16
 sr-interval: 1
-sr-ease: 210
+sr-ease: 170
 ---
 # Exponential limit forms: 
 The following limits can be obtained directly:
