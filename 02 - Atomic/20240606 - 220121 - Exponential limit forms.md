@@ -22,3 +22,7 @@ $$
 \lim_{x\rightarrow 0}\frac{e^x -1}{x} = 1
 $$
 
+## 3. Obtain the natural logarithm of a constant. 
+$$
+\lim_{x\rightarrow 0} \frac{a^x - 1}{x} = \ln a
+$$
