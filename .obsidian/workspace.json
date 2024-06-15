@@ -76,9 +76,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6806d0549af39fad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
+                "file": "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
+                "file": "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
+                "file": "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md"
+                "file": "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md"
               }
             }
           }
@@ -298,13 +311,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6de0bf0766ed7b05",
+  "active": "6806d0549af39fad",
   "lastOpenFiles": [
+    "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
     "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
     "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points.md",
+    "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205834.png",
-    "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "02 - Atomic/20240615 - 195347 - Differentiability.md",
     "02 - Atomic/20240615 - 153916 - Exercises - Continuity.md",
@@ -331,7 +345,6 @@
     "02 - Atomic/20240501 - 123332 - Black box testing.md",
     "02 - Atomic/20240603 - 163014 - Definition - Function.md",
     "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
-    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "99 - Meta/0. Attachments/Screenshot 2024-06-14 at 13.32.01.png",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "00.References/Calc_Theory_Limits.pdf",
