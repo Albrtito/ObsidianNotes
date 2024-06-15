@@ -50,9 +50,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91314dc3be8a647b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240615 - 200708 -.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
+                "file": "02 - Atomic/20240615 - 200708 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
+                "file": "02 - Atomic/20240615 - 200708 -.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
+                "file": "02 - Atomic/20240615 - 200708 -.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md"
+                "file": "02 - Atomic/20240615 - 200708 -.md"
               }
             }
           }
@@ -272,14 +285,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5ac45d5b7c47fdb7",
+  "active": "91314dc3be8a647b",
   "lastOpenFiles": [
+    "02 - Atomic/20240615 - 200708 -.md",
     "02 - Atomic/20240615 - 195347 - Differentiability.md",
+    "00.References/Calc_Theory_Differentiability.pdf",
     "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
-    "00.References/Calc_Theory_Differentiability.pdf",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240605 - 164622 - Formal operations with infty.md",
     "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
@@ -303,7 +317,6 @@
     "02 - Atomic/Definition 11 Bounded sequence.md",
     "99 - Meta/0. Attachments/Screenshot 2024-06-14 at 13.32.01.png",
     "02 - Atomic/20240603 - 165400 - Definition - Polynomial function.md",
-    "02 - Atomic/Boundedness.md",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "00.References/Calc_Theory_Limits.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",

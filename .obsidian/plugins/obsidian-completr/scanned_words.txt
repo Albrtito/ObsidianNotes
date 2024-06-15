@@ -4408,6 +4408,7 @@ dsoX
 deS
 dXlw
 duda
+differentiable
 check
 classes
 cssclasses
@@ -6755,6 +6756,7 @@ cqQL
 crH
 cnr
 crk
+capacity
 lifeOS
 liking
 las
@@ -46596,6 +46598,7 @@ nxPq
 nqZ
 nov
 ndose
+ntoation
 Post
 Papeleos
 Para
@@ -72167,6 +72170,8 @@ DWC
 DgnaO
 DÖ
 DHmVl
+Derivative
+Differentiability
 HH
 Highlight
 Hay
@@ -84382,6 +84387,7 @@ Lwk
 LNf
 LWv
 LkXS
+Leibniz
 Otras
 Otros
 OS
