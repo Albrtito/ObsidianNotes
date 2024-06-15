@@ -13,6 +13,7 @@ sr-ease: 170
 ---
 # Continuity of a single variable function:
 
+#Duda: Misma duda que con los límites, definición basándose en epsilon?. Aplicada en el ejercicio 2.2.1. 
 
 > [!NOTE] Definition: 
 > A function f(x) is **continuous at $x_0$** if: 
