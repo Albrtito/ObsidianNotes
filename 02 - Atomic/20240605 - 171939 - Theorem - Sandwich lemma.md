@@ -13,6 +13,8 @@ sr-interval: 10
 sr-ease: 250
 ---
 # Sandwich lemma: 
+#Duda When to use it? Is there a type of limit where I just know, ok this needs to be done with sandwich. 
+
 The sandwich lemma is a method used for the computation of limits. 
 
 The idea is that if there are three functions g(x), g(x) and h(x) such as g(x) is smaller than h(x) but greater than f(x), something like this: 
