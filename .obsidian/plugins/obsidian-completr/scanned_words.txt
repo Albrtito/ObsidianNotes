@@ -4410,6 +4410,7 @@ dXlw
 duda
 differentiable
 differentiated
+derivates
 check
 classes
 cssclasses
@@ -27981,6 +27982,7 @@ TBK
 TRQC
 TZp
 TgbA
+Tangent
 Movement
 MM
 MMMM
@@ -34336,6 +34338,7 @@ hPz
 hWY
 hyU
 hkj
+hav
 Before
 Burocracia
 Buses

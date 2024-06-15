@@ -32,7 +32,13 @@ Differentiability is defined as the capacity for a function to be differentiable
 	+ **Leibniz’s notation**: $\frac{d^nf(x)}{dx^n}$
 
 + Derivatives of the most common functions can be seen here: [[References_Derivatives&Integrals.pdf]]
-+ Derivatives hav a direct impa
++ Derivatives have a direct impact on:
+  +  [[20240605 - 211212 - Continuity of a single variable function|Continuity of a single variable function]]
+    This is because **if f is differentiable at a, then it is also continuous at a**. This goes both ways. **If f is not continuous at a then it is also not differentiable at a**. 
+    BUT CAREFUL: Because if f is continuous then it is not mandatory differentiable. Corner points cannot be differentiable. 
+
++ See derivation in several variables at [[20240529 - 165329 - Definition - Partial derivatives|Partial derivatives]]
+
 
 ## Differentiable on an interval: 
 
@@ -52,4 +58,29 @@ Same as with limits, or because we can do side limits, we can also do side deriv
 > $$
 > \lim_{h \rightarrow 0^-} \frac{f(x)-f(a)}{h}
 > $$
+
+## Properties: 
+Basic properties, rules we use for the computation of derivatives: 
+
+1. Derivation is linear: 
+$$
+(cf)' = cf'
+$$
+$$
+(f+g)' = f' + g'
+$$
+2. Derivation of the **product:**
+$$
+(fg)' = f'g + fg'
+$$
+3. Derivative of:
+$$(\frac 1 g)’ = \frac {-g’}{g^2}: \text{ for } g ≠ 0
+$$
+4. Derivative of a **quotient:** 
+$$
+(\frac{f}{g})' = \frac{f'g - fg'}{g^2}
+$$
++ g ≠ 0
+
+5. 
 
