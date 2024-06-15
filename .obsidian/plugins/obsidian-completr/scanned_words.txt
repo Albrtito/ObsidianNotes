@@ -4409,6 +4409,7 @@ deS
 dXlw
 duda
 differentiable
+differentiated
 check
 classes
 cssclasses
@@ -72172,6 +72173,7 @@ DÖ
 DHmVl
 Derivative
 Differentiability
+Differentiable
 HH
 Highlight
 Hay
@@ -80237,6 +80239,7 @@ yoü
 yfR
 yDE
 yrf
+yes
 Summary
 Se
 Silvia

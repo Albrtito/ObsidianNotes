@@ -30,7 +30,9 @@ Differentiability is defined as the capacity for a function to be differentiable
 	+ **Newton’s notation:** $f’’(x), f’’’(x), …, f^{(n}(x)$ → (yes, only one parenthesis)
 	  
 	+ **Leibniz’s notation**: $\frac{d^nf(x)}{dx^n}$
-	
+
++ Derivatives of the most common functions can be seen here: [[References_Derivatives&Integrals.pdf]]
++ Derivatives hav a direct impa
 
 ## Differentiable on an interval: 
 
@@ -38,4 +40,16 @@ Differentiability is defined as the capacity for a function to be differentiable
 > We say that a function f is differentiable on an interval (a,b) if it is differentiable a all the points of (a,b).
 > The points where f is differentiable are given by the **domain of f’**
 > 
+
+## Side derivatives: 
+Same as with limits, or because we can do side limits, we can also do side derivatives with those same limits. 
+
+> [!NOTE] Definition: 
+> Using the concept of side limits we can define side derivates as: 
+>$$
+> \lim_{h \rightarrow 0^+} \frac{f(x) - f(a)}{h}
+> $$
+> $$
+> \lim_{h \rightarrow 0^-} \frac{f(x)-f(a)}{h}
+> $$
 

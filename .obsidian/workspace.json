@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240615 - 200708 -.md",
+                "file": "02 - Atomic/20240615 - 200708 - Definition - Tangent line to the graph of a function..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240615 - 200708 -.md",
+                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240615 - 200708 -.md",
+                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240615 - 200708 -.md",
+                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240615 - 200708 -.md"
+                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md"
               }
             }
           }
@@ -285,9 +285,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "91314dc3be8a647b",
+  "active": "5ac45d5b7c47fdb7",
   "lastOpenFiles": [
-    "02 - Atomic/20240615 - 200708 -.md",
+    "02 - Atomic/20240615 - 200708 - Definition - Tangent line to the graph of a function..md",
     "02 - Atomic/20240615 - 195347 - Differentiability.md",
     "00.References/Calc_Theory_Differentiability.pdf",
     "01.Areas/1.UC3M/Calculus I.md",
