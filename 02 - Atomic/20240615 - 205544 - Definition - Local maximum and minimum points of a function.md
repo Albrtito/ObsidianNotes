@@ -57,7 +57,8 @@ Using the [[20240616 - 143013 - Second derivative|Second derivative]] and the in
 **CAREFUL**, when applying it in reverse it is not exactly the same: 
 
 > [!NOTE] Theorem: 
-> Contents
+> 1. If f’’(a) exists and f has a local minimum at a **then f’’(a) ≥ 0**
+> 2. If f’’(a) exists and f has a local maximum at a **then f’’(a) ≤ 0**
 
 
 
