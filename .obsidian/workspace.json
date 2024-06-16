@@ -109,20 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81f7eea158653cb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md",
+                "file": "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -230,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md",
+                "file": "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md",
+                "file": "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md",
+                "file": "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -322,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md"
+                "file": "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md"
               }
             }
           }
@@ -349,10 +336,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "81f7eea158653cb5",
+  "active": "fb7963362c688b40",
   "lastOpenFiles": [
-    "02 - Atomic/Objectives from March 23 to September 23.md",
     "01.Areas/0.DailyNote/2024-06-16.md",
+    "02 - Atomic/Objectives from March 23 to September 23.md",
+    "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md",
     "01.Areas/0.DailyNote/2024-06-15.md",
     "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
     "00.References/Calc_Theory_DerivativeMeaning.pdf",
@@ -382,7 +370,6 @@
     "02 - Atomic/20240614 - 122756 - Definition - Discontinuity types.md",
     "02 - Atomic/20240614 - 125509 - Method - Newton's Bisection Method.md",
     "02 - Atomic/20240614 - 123442 - Theorem - Continuity theorems.md",
-    "02 - Atomic/20240501 - 123051 - Unit testing.md",
     "99 - Meta/0. Attachments/Screenshot 2024-06-14 at 13.32.01.png",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "00.References/Calc_Theory_Limits.pdf",
