@@ -89,9 +89,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ef229b33d549523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/0.DailyNote/2024-06-16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
+                "file": "01.Areas/0.DailyNote/2024-06-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
+                "file": "01.Areas/0.DailyNote/2024-06-16.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
+                "file": "01.Areas/0.DailyNote/2024-06-16.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -284,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md"
+                "file": "01.Areas/0.DailyNote/2024-06-16.md"
               }
             }
           }
@@ -311,8 +324,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6806d0549af39fad",
+  "active": "2ef229b33d549523",
   "lastOpenFiles": [
+    "01.Areas/0.DailyNote/2024-06-16.md",
     "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
     "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
     "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points.md",
@@ -344,7 +358,6 @@
     "02 - Atomic/20240501 - 123051 - Unit testing.md",
     "02 - Atomic/20240501 - 123332 - Black box testing.md",
     "02 - Atomic/20240603 - 163014 - Definition - Function.md",
-    "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
     "99 - Meta/0. Attachments/Screenshot 2024-06-14 at 13.32.01.png",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "00.References/Calc_Theory_Limits.pdf",
