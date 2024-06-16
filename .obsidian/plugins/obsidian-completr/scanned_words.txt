@@ -4452,6 +4452,7 @@ differentiability
 demasiado
 dejar
 distraerme
+discontinuity
 check
 classes
 cssclasses
@@ -6818,6 +6819,7 @@ caP
 conseguir
 cumplir
 contenido
+convexity
 lifeOS
 liking
 las
@@ -30410,6 +30412,7 @@ MCr
 MWcr
 Mean
 Menos
+Meaning
 reflections
 reels
 routine
@@ -62387,6 +62390,7 @@ akd
 aQi
 aplicando
 alcance
+avoidable
 of
 otro
 opciones
@@ -79132,6 +79136,7 @@ CXM
 CmMa
 CsB
 Chain
+Cauchy
 your
 ya
 yo

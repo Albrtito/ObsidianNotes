@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points of a function.md",
+                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points of a function.md",
+                "file": "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points of a function.md",
+                "file": "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points of a function.md",
+                "file": "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points of a function.md",
+                "file": "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points of a function.md"
+                "file": "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md"
               }
             }
           }
@@ -299,17 +299,17 @@
   },
   "active": "facbcd998ee18c9b",
   "lastOpenFiles": [
-    "02 - Atomic/20240616 - 143013 - Second derivative.md",
+    "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
+    "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
     "02 - Atomic/20240615 - 195347 - Differentiability.md",
     "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points of a function.md",
     "00.References/Calc_Theory_DerivativeMeaning.pdf",
+    "02 - Atomic/20240616 - 143013 - Second derivative.md",
     "02 - Atomic/Greek Alphabet.md",
     "02 - Atomic/20240616 - 141015 - Definition - Increasing, decreasing and continuous functions.md",
     "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
-    "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
     "02 - Atomic/Definition - Monotone increasing and decreasing.md",
     "01.Areas/0.DailyNote/2024-06-15.md",
-    "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "99 - Meta/0. Attachments/Pasted image 20240616140604.png",
     "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
@@ -328,7 +328,6 @@
     "01.Areas/0.DailyNote/2024-06-16.md",
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205834.png",
-    "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
     "00.References/Calc_Theory_Differentiability.pdf",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "00.References/Calc_Theory_Continuity.pdf",

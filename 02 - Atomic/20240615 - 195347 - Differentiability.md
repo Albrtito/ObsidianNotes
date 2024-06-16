@@ -84,6 +84,17 @@ $$
 (\frac{f}{g})' = \frac{f'g - fg'}{g^2}
 $$
 + g ≠ 0
+### Continuity of the derivative: 
+
+> [!NOTE] Theorem: 
+> IF f is continuous at a and the limit of the derivative of f at a exists and is finite. Then the derivative is continuous at a.Meaning:
+> $$
+> f'(a) = \lim_{x\rightarrow a}f'(x)
+> $$
+
+
+**Remark:**
++ A derivative never has an avoidable discontinuity
 
 ## Relations with the inverse function: 
 Given the inverse function of f defined as [[20240615 - 202910 - Definition - Inverse function|Inverse function]]. 
@@ -92,3 +103,7 @@ Given the inverse function of f defined as [[20240615 - 202910 - Definition - In
 The application of this theorem is used to compute the derivatives of the inverse of trigonometric functions.
 + [[20240615 - 204101 - Main Derivatives#Inverse functions|Derivatives of the inverse trigonometric functions]]
 
+## Applications: 
+
++ [[20240615 - 211237 - Theorem - Cauchy Mean Value theorem|Theorem - Cauchy Mean Value theorem]]
++ 
