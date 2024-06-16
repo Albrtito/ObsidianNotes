@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Definition 13 Monotone increasing and decreasing.md",
+                "file": "02 - Atomic/Definition - Monotone increasing and decreasing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,14 +44,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
+                "file": "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "513c489c002c1d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240616 - 141015 - Definition - Increasing, decreasing and continuous functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/Definition 13 Monotone increasing and decreasing.md",
+                "file": "02 - Atomic/20240616 - 141015 - Definition - Increasing, decreasing and continuous functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/Definition 13 Monotone increasing and decreasing.md",
+                "file": "02 - Atomic/20240616 - 141015 - Definition - Increasing, decreasing and continuous functions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/Definition 13 Monotone increasing and decreasing.md",
+                "file": "02 - Atomic/20240616 - 141015 - Definition - Increasing, decreasing and continuous functions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/Definition 13 Monotone increasing and decreasing.md"
+                "file": "02 - Atomic/20240616 - 141015 - Definition - Increasing, decreasing and continuous functions.md"
               }
             }
           }
@@ -270,11 +284,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2ef229b33d549523",
+  "active": "513c489c002c1d69",
   "lastOpenFiles": [
+    "02 - Atomic/20240616 - 141015 - Definition - Increasing, decreasing and continuous functions.md",
     "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
-    "01.Areas/0.DailyNote/2024-06-15.md",
     "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
+    "02 - Atomic/Definition - Monotone increasing and decreasing.md",
+    "01.Areas/0.DailyNote/2024-06-15.md",
     "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
     "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
@@ -302,7 +318,6 @@
     "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
-    "02 - Atomic/20240605 - 164622 - Formal operations with infty.md",
     "00.References/Calc_Theory_Continuity.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-14 at 13.32.01.png",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
