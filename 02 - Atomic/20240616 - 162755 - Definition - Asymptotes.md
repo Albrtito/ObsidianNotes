@@ -29,6 +29,23 @@ $$
 \lim_{x\rightarrow \pm \infty} f(x) = a
 $$
 
-3. **Oblique asymptote or Slant asymptote**: Are those found when **the limit when f tends to infty/-infty is a line: $y = mx **
+3. **Oblique asymptote or Slant asymptote**: Are those found when **the limit when f tends to infty/-infty is a line: $y = mx +b$**. In order to find if there are any oblique asymptotes we must perform two checks: 
 
+The limit of f divided by x must be finite and the solution will be the slope of the asymptote.
+$$
+m = \lim_{x\rightarrow \infty}
+\frac{f(x)}{x}
+$$
 
+In order to obtain the “ordenada en el origen (b)” we must find a finite limit such as: 
+$$
+b = \lim_{x\rightarrow \infty} (f(x) - mx)
+$$
++ Same thing happens if x → $-\infty$ 
+
+**Remarks:**
++ Vertical asymptotes wont be at points where f is continuous. Could be at the end of f. 
+
++ A graph can **cut an horizontal or sland asymptote** but never a vertical one. → Goes agains the definition of function. 
+
++ The **polynomials that are not a straight line** NEVER HAVE STRAIGHT ASYMPTOTES
