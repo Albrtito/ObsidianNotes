@@ -9,7 +9,7 @@ tags:
 cssclasses:
 ---
 # Increasing, decreasing and continuous functions
-Based on the concept of [[20240615 - 195347 - Differentiability|Derivative]] and the study of [[20240615 - 205544 - Definition - Extrema|Local maximum and minimum points]] we define three possible states for any interval of point in a function. 
+Based on the concept of [[20240615 - 195347 - Differentiability|Derivative]] and the study of [[20240615 - 205544 - Definition - Local maximum and minimum points of a function|Local maximum and minimum points]] we define three possible states for any interval of point in a function. 
 
 
 > [!NOTE]  Definition:

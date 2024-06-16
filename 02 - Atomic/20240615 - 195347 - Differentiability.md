@@ -91,3 +91,4 @@ Given the inverse function of f defined as [[20240615 - 202910 - Definition - In
 
 The application of this theorem is used to compute the derivatives of the inverse of trigonometric functions.
 + [[20240615 - 204101 - Main Derivatives#Inverse functions|Derivatives of the inverse trigonometric functions]]
+

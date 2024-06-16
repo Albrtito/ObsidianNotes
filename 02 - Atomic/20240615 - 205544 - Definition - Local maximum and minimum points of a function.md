@@ -1,5 +1,7 @@
 ---
-aliases: []
+aliases:
+  - Definition - Local maximum and minimum points of a function
+  - Local maximum and minimum points of a function
 tags:
   - review
   - CalcI
@@ -46,6 +48,16 @@ Formally:
 
 
 ### Using second derivative: 
-The second derivative 
->  
+Using the [[20240616 - 143013 - Second derivative|Second derivative]] and the information on convexity that it gives we can say the following: 
+
+> [!NOTE] Theorem:  
+> 1. If f’(a) = 0 and f’’(a) > 0 → **f has a local minimum at a**
+> 2. If f’(a) = 0 and f’’’(a) < 0 → **f has a local maximum at a**
+
+**CAREFUL**, when applying it in reverse it is not exactly the same: 
+
+> [!NOTE] Theorem: 
+> Contents
+
+
 
