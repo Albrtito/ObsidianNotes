@@ -26,20 +26,7 @@
         "dimension": 47.14780964387015,
         "children": [
           {
-            "id": "2ef229b33d549523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/Definition - Monotone increasing and decreasing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb7963362c688b40",
+            "id": "4c7c972253016043",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,33 +39,19 @@
             }
           },
           {
-            "id": "513c489c002c1d69",
+            "id": "f6139d247e1e0406",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "facbcd998ee18c9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
+                "file": "02 - Atomic/20240616 - 155905 - Extrema.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
+                "file": "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
+                "file": "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
+                "file": "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -270,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md"
+                "file": "02 - Atomic/20240615 - 205354 - Local Study of a function.md"
               }
             }
           }
@@ -297,18 +270,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "facbcd998ee18c9b",
+  "active": "4c7c972253016043",
   "lastOpenFiles": [
+    "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
     "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
-    "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
     "02 - Atomic/20240615 - 195347 - Differentiability.md",
+    "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
+    "02 - Atomic/Definition - Monotone increasing and decreasing.md",
+    "02 - Atomic/20240616 - 155905 - Extrema.md",
+    "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
+    "02 - Atomic/20240616 - 155016 - Theorem - L'Hôpital-Bernoully rule.md",
     "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points of a function.md",
     "00.References/Calc_Theory_DerivativeMeaning.pdf",
     "02 - Atomic/20240616 - 143013 - Second derivative.md",
     "02 - Atomic/Greek Alphabet.md",
     "02 - Atomic/20240616 - 141015 - Definition - Increasing, decreasing and continuous functions.md",
-    "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
-    "02 - Atomic/Definition - Monotone increasing and decreasing.md",
     "01.Areas/0.DailyNote/2024-06-15.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "99 - Meta/0. Attachments/Pasted image 20240616140604.png",
@@ -324,8 +300,6 @@
     "02 - Atomic/20240603 - 181804 - Definition - Injectivity.md",
     "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
     "02 - Atomic/Sets of numbers.md",
-    "02 - Atomic/20240614 - 123442 - Theorem - Continuity theorems.md",
-    "01.Areas/0.DailyNote/2024-06-16.md",
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205834.png",
     "00.References/Calc_Theory_Differentiability.pdf",

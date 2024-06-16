@@ -106,4 +106,4 @@ The application of this theorem is used to compute the derivatives of the invers
 ## Applications: 
 
 + [[20240615 - 211237 - Theorem - Cauchy Mean Value theorem|Theorem - Cauchy Mean Value theorem]]
-+ 
++ [[20240616 - 155016 - Theorem - L'Hôpital-Bernoully rule|Theorem - L'Hôpital-Bernoully rule]]

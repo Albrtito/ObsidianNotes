@@ -73,7 +73,13 @@ $$
 
 → [[20240606 - 220121 - Exponential limit forms|Exponential limit form]]
 
-### 4. Trigonometric limit forms: 
+### 4. L’Hôpital rule: 
+
+$$
+ \lim_{x\rightarrow a} \frac {f(x)}{g(x)} = \lim_{x\rightarrow a} \frac {f'(x)}{g'(x)}
+ $$
+
+→ [[20240616 - 155016 - Theorem - L'Hôpital-Bernoully rule|L'Hôpital rule]]
 
 
 ## For limits at infty:
