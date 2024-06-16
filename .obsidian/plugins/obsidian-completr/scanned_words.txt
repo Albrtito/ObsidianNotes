@@ -19935,6 +19935,7 @@ icq
 iUv
 ime
 itWol
+inflection
 Enough
 Esta
 Est
@@ -32654,6 +32655,7 @@ rpj
 rbE
 rVm
 realidad
+readable
 here
 hour
 home
@@ -38709,6 +38711,7 @@ wWP
 wUT
 wuUT
 wMrPa
+weird
 end
 en
 el
@@ -43119,6 +43122,7 @@ IBEUE
 IAD
 IWQz
 Idi
+Inflexion
 Keep
 Key
 Kinds
@@ -55837,6 +55841,7 @@ pues
 probarlo
 prefiero
 pital
+places
 UC
 UNIDADES
 Unidades
@@ -62395,6 +62400,8 @@ aQi
 aplicando
 alcance
 avoidable
+areas
+asymptotes
 of
 otro
 opciones
