@@ -4,6 +4,9 @@ tags:
   - review
 "References:": 
 cssclasses:
+sr-due: 2024-06-17
+sr-interval: 1
+sr-ease: 230
 ---
 # Mean value theorem: 
 

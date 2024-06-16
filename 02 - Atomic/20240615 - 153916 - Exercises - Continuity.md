@@ -9,6 +9,9 @@ tags:
   - "[[Calc_Exercises_LimitsContinuicity.pdf]]"
 cssclasses:
   - page-manila
+sr-due: 2024-06-19
+sr-interval: 3
+sr-ease: 262
 ---
 # Exercises - Continuity
 

@@ -6,6 +6,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-17
+sr-interval: 1
+sr-ease: 230
 ---
 # Tangent line to the graph of a function f: 
 
