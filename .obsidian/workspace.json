@@ -26,45 +26,6 @@
         "dimension": 47.14780964387015,
         "children": [
           {
-            "id": "4c7c972253016043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6139d247e1e0406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28f658b19b13338d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240616 - 162016 - Convexity of a function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0b5f0a8bf73743c2",
             "type": "leaf",
             "state": {
@@ -177,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
+                "file": "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
+                "file": "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
+                "file": "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240615 - 205354 - Local Study of a function.md"
+                "file": "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md"
               }
             }
           }
@@ -296,11 +257,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4c7c972253016043",
+  "active": "0b5f0a8bf73743c2",
   "lastOpenFiles": [
-    "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
-    "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
     "02 - Atomic/20240616 - 162016 - Convexity of a function.md",
+    "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
+    "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
     "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points of a function.md",
     "00.References/Calc_Theory_DerivativeMeaning.pdf",
     "02 - Atomic/20240615 - 204101 - Main Derivatives.md",

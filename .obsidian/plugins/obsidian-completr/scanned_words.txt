@@ -43123,6 +43123,7 @@ IAD
 IWQz
 Idi
 Inflexion
+Inflection
 Keep
 Key
 Kinds
@@ -49226,6 +49227,7 @@ Pez
 PhCS
 PCm
 Preocuparme
+Position
 something
 start
 st
@@ -51593,6 +51595,7 @@ sHq
 sEI
 scheduled
 salir
+symmetries
 No
 NOTE
 Normalmente
@@ -60180,6 +60183,7 @@ AqV
 AMW
 ALs
 Application
+Asymptotes
 all
 at
 aliases
@@ -62402,6 +62406,7 @@ alcance
 avoidable
 areas
 asymptotes
+aproximation
 of
 otro
 opciones
@@ -64435,6 +64440,7 @@ organizarme
 organice
 organizo
 objetivos
+oblique
 References
 RRI
 RUTAS
@@ -79148,6 +79154,7 @@ CmMa
 CsB
 Chain
 Cauchy
+Convexity
 your
 ya
 yo
@@ -89334,6 +89341,7 @@ vali
 vanish
 ver
 viendo
+vertical
 que
 quieren
 quedo
