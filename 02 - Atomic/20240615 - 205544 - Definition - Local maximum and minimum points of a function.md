@@ -19,7 +19,9 @@ The maximum/minimum points of a function or extrema are key points to understand
 > A point $x_0$ in A is a **local maximum/minimum point** of f in A if $\exists \sigma  > 0$ such as: 
 > + $x_0$ is the maximum/minimum value of f in : $A\cap(x_0 - \sigma, x_0 + \sigma)$
 
+**Remarks:**
 + Sigma here is defining an interval in which to study the function. This is the reason we call it **local study**
++ By [[20240615 - 210541 - Theorem - Rolle|Rolle]] we know that for a **continuous bounded function** there must be a maximum and a minimum. However if the function is **not closed or not bounded or not continuous** the existence of a maximum and minimum is **not guaranteed**.
 
 To study these points we need the most important theorem: 
 
