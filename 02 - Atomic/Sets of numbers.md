@@ -1,9 +1,8 @@
 ---
 Date: 2024-03-12
 tags:
-  - review
   - CalcI
-"References:":
+"References:": 
 sr-due: 2024-06-16
 sr-interval: 72
 sr-ease: 290
@@ -18,6 +17,3 @@ There are some generally known sets that are usually used in mathematics such as
 3. [[Rational and irrational numbers(set Q and I)]]
 4. [[Real numbers (set R)]]
 5. [[Complex numbers (set C)]]
----
-### Summary
-Highlight ==what’s important!==

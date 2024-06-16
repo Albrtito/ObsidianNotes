@@ -7,8 +7,8 @@ tags:
 "References:":
   - "[[Calc_Theory_Continuity.pdf]]"
 cssclasses:
-sr-due: 2024-06-16
-sr-interval: 1
+sr-due: 2024-06-18
+sr-interval: 2
 sr-ease: 170
 ---
 # Continuity of a single variable function:
