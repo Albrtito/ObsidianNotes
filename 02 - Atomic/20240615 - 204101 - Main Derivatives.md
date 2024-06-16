@@ -6,6 +6,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-17
+sr-interval: 1
+sr-ease: 207
 ---
 # Main derivatives: 
 Collection of all main/basic derivates used for most computations, from the basic ones to more complex forms that u’ll need to learn once in ur live and then forget until this note is required again 5 years later. 

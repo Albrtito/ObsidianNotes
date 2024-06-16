@@ -20,4 +20,7 @@ sr-ease: 230
 > $$
 > 
 
+Graphically this means that there exist a point c for which it’s tangent line is parallel to the line created when using the vector ab as direction. 
+![[Pasted image 20240616140604.png|600]]
+**Remarks:**
 

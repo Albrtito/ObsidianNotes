@@ -7,6 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-21
+sr-interval: 5
+sr-ease: 244
 ---
 # Differentiability: 
 Differentiability is defined as the capacity for a function to be differentiable.
@@ -86,4 +89,5 @@ $$
 Given the inverse function of f defined as [[20240615 - 202910 - Definition - Inverse function|Inverse function]]. 
 + ![[20240615 - 202910 - Definition - Inverse function#Differentiability of a function and it’s inverse]]
 
-The application of this theorem is used to compute the derivatives of the inverse of trigonometric functions. 
+The application of this theorem is used to compute the derivatives of the inverse of trigonometric functions.
++ [[20240615 - 204101 - Main Derivatives#Inverse functions|Derivatives of the inverse trigonometric functions]]

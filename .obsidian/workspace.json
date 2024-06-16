@@ -26,77 +26,12 @@
         "dimension": 47.14780964387015,
         "children": [
           {
-            "id": "5ac45d5b7c47fdb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "337d95f6176ad0ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4b2663ef38229dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6de0bf0766ed7b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6806d0549af39fad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2ef229b33d549523",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-15.md",
+                "file": "02 - Atomic/Definition 13 Monotone increasing and decreasing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,15 +44,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
+                "file": "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
+                "file": "02 - Atomic/Definition 13 Monotone increasing and decreasing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
+                "file": "02 - Atomic/Definition 13 Monotone increasing and decreasing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md",
+                "file": "02 - Atomic/Definition 13 Monotone increasing and decreasing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -309,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240615 - 195347 - Differentiability.md"
+                "file": "02 - Atomic/Definition 13 Monotone increasing and decreasing.md"
               }
             }
           }
@@ -336,15 +270,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fb7963362c688b40",
+  "active": "2ef229b33d549523",
   "lastOpenFiles": [
+    "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
+    "01.Areas/0.DailyNote/2024-06-15.md",
+    "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
+    "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
+    "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points.md",
+    "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
+    "99 - Meta/0. Attachments/Pasted image 20240616140604.png",
+    "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
+    "02 - Atomic/20240615 - 202910 - Definition - Inverse function.md",
+    "02 - Atomic/20240615 - 195347 - Differentiability.md",
     "02 - Atomic/20240615 - 153916 - Exercises - Continuity.md",
     "02 - Atomic/20240615 - 202537 - Theorem - Chain rule.md",
     "02 - Atomic/20240615 - 200708 - Definition - Tangent line to the graph of a function..md",
-    "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points.md",
-    "02 - Atomic/20240615 - 211237 - Theorem - Mean Value theorem.md",
-    "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
-    "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
     "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
     "02 - Atomic/20240603 - 162222 - Definition - Ellipse.md",
@@ -353,22 +293,16 @@
     "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
     "02 - Atomic/Sets of numbers.md",
     "02 - Atomic/20240614 - 123442 - Theorem - Continuity theorems.md",
-    "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "01.Areas/0.DailyNote/2024-06-16.md",
-    "01.Areas/0.DailyNote/2024-06-15.md",
     "00.References/Calc_Theory_DerivativeMeaning.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205834.png",
-    "02 - Atomic/20240615 - 195347 - Differentiability.md",
     "02 - Atomic/20240603 - 182841 - Definition - Bijectivity.md",
-    "02 - Atomic/20240615 - 202910 - Definition - Inverse function.md",
     "00.References/Calc_Theory_Differentiability.pdf",
-    "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
     "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240605 - 164622 - Formal operations with infty.md",
-    "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
     "00.References/Calc_Theory_Continuity.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-14 at 13.32.01.png",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
@@ -379,7 +313,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-05-15 at 03.29.37.png",
     "99 - Meta/0. Attachments/Screenshot 2024-06-05 at 17.21.25.png",
     "99 - Meta/0. Attachments/Pasted image 20240605162902.png",
-    "99 - Meta/0. Attachments/Pasted image 20240605162656.png",
     "00.References/DiffCalc_Exercises_S1.pdf",
     "00.References/Calc_Theory_RealVarFuncs.pdf",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",

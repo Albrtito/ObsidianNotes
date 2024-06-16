@@ -7,6 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-25
+sr-interval: 9
+sr-ease: 252
 ---
 # Inverse function: 
 Given the definition of [[20240603 - 163014 - Definition - Function|Function]], the inverse function of f is such as if: 
