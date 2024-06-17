@@ -63,9 +63,12 @@
             "id": "8aa4ffc0c85f15ff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
+                "file": "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -172,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+                "file": "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
+                "file": "02 - Atomic/20240606 - 220121 - Exponential limit forms.md"
               }
             }
           }
@@ -292,10 +295,11 @@
   },
   "active": "8aa4ffc0c85f15ff",
   "lastOpenFiles": [
+    "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
+    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
     "02 - Atomic/Definition - Limits.md",
-    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
     "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
@@ -320,7 +324,6 @@
     "01.Areas/0.DailyNote/2024-06-15.md",
     "99 - Meta/0. Attachments/Pasted image 20240616140604.png",
     "02 - Atomic/20240615 - 202910 - Definition - Inverse function.md",
-    "02 - Atomic/20240615 - 153916 - Exercises - Continuity.md",
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205834.png",
     "00.References/Calc_Theory_Differentiability.pdf",
