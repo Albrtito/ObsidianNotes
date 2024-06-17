@@ -71,6 +71,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8aa4ffc0c85f15ff",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Calc_Exercises_LimitsContinuicity.pdf"
+              }
+            }
           }
         ],
         "currentTab": 4,
@@ -295,9 +305,10 @@
   },
   "active": "35735c5f6aaf9fb2",
   "lastOpenFiles": [
+    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
+    "02 - Atomic/Definition - Limits.md",
     "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
     "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
-    "02 - Atomic/Definition - Limits.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
@@ -322,11 +333,9 @@
     "99 - Meta/0. Attachments/Pasted image 20240616140604.png",
     "02 - Atomic/20240615 - 202910 - Definition - Inverse function.md",
     "02 - Atomic/20240615 - 153916 - Exercises - Continuity.md",
-    "02 - Atomic/20240615 - 202537 - Theorem - Chain rule.md",
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205834.png",
     "00.References/Calc_Theory_Differentiability.pdf",
-    "00.References/Calc_Exercises_LimitsContinuicity.pdf",
     "00.References/Calc_Theory_Continuity.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-14 at 13.32.01.png",
     "00.References/Calc_Exercises_RealVarFuncs.pdf",
