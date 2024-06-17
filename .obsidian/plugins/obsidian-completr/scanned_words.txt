@@ -6821,6 +6821,7 @@ cumplir
 contenido
 convexity
 centers
+checks
 lifeOS
 liking
 las
@@ -26068,6 +26069,7 @@ GRz
 GiG
 GwO
 Gwj
+Goes
 Training
 Today
 Tomorrow
@@ -51596,6 +51598,7 @@ sEI
 scheduled
 salir
 symmetries
+sland
 No
 NOTE
 Normalmente
@@ -53612,6 +53615,7 @@ NLu
 NKL
 NlF
 NvIQ
+NEVER
 porn
 page
 pen
@@ -55845,6 +55849,7 @@ probarlo
 prefiero
 pital
 places
+polynomials
 UC
 UNIDADES
 Unidades
@@ -60184,6 +60189,7 @@ AMW
 ALs
 Application
 Asymptotes
+ASYMPTOTES
 all
 at
 aliases
@@ -62407,6 +62413,8 @@ avoidable
 areas
 asymptotes
 aproximation
+asymptote
+agains
 of
 otro
 opciones
@@ -64441,6 +64449,9 @@ organice
 organizo
 objetivos
 oblique
+orientations
+ordenada
+origen
 References
 RRI
 RUTAS
@@ -74965,6 +74976,8 @@ Hvw
 HryQ
 HzMT
 HXyYr
+Horizontal
+HAVE
 Journal
 January
 Jacobo
@@ -79155,6 +79168,7 @@ CsB
 Chain
 Cauchy
 Convexity
+Could
 your
 ya
 yo
@@ -83301,6 +83315,8 @@ SjN
 SrslJ
 Study
 Sigma
+Slant
+STRAIGHT
 La
 Las
 Lanz
@@ -87262,6 +87278,7 @@ OsX
 OBfs
 OGI
 Organizarme
+Oblique
 varias
 verde
 visita
@@ -97631,6 +97648,7 @@ VIN
 VxL
 VQGB
 Viendo
+Vertical
 Que
 Queremos
 QE
