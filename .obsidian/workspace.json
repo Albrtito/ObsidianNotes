@@ -19,61 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f9b7c9e66173ad9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b5f0a8bf73743c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e09b277c16b097e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8aa4ffc0c85f15ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -175,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
+                "file": "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
+                "file": "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
+                "file": "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240606 - 220121 - Exponential limit forms.md"
+                "file": "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md"
               }
             }
           }
@@ -293,18 +240,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8aa4ffc0c85f15ff",
+  "active": "83c573659852d149",
   "lastOpenFiles": [
+    "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
+    "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
+    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+    "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
-    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
     "02 - Atomic/Definition - Limits.md",
     "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
     "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
-    "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
-    "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
     "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
     "00.References/Calc_Theory_DerivativeMeaning.pdf",
     "02 - Atomic/20240616 - 162016 - Convexity of a function.md",
@@ -323,7 +271,6 @@
     "02 - Atomic/20240616 - 141015 - Definition - Increasing, decreasing and continuous functions.md",
     "01.Areas/0.DailyNote/2024-06-15.md",
     "99 - Meta/0. Attachments/Pasted image 20240616140604.png",
-    "02 - Atomic/20240615 - 202910 - Definition - Inverse function.md",
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205834.png",
     "00.References/Calc_Theory_Differentiability.pdf",
