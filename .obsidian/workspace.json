@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-19.md",
+                "file": "02 - Atomic/20240501 - 143420 - Control flow testing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f16cbfc249004013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240619 - 141717 - Definition - Cyclomatic complexity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-19.md",
+                "file": "02 - Atomic/20240619 - 141717 - Definition - Cyclomatic complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-19.md",
+                "file": "02 - Atomic/20240619 - 141717 - Definition - Cyclomatic complexity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-19.md",
+                "file": "02 - Atomic/20240619 - 141717 - Definition - Cyclomatic complexity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-19.md"
+                "file": "02 - Atomic/20240619 - 141717 - Definition - Cyclomatic complexity.md"
               }
             }
           }
@@ -240,8 +254,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "83c87d01e660e0e8",
+  "active": "f16cbfc249004013",
   "lastOpenFiles": [
+    "02 - Atomic/20240619 - 141717 - Definition - Cyclomatic complexity.md",
+    "02 - Atomic/20240501 - 143420 - Control flow testing.md",
     "01.Areas/0.DailyNote/2024-06-19.md",
     "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
     "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
@@ -268,8 +284,6 @@
     "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
     "02 - Atomic/20240616 - 155016 - Theorem - L'Hôpital-Bernoully rule.md",
     "02 - Atomic/20240616 - 143013 - Second derivative.md",
-    "02 - Atomic/Greek Alphabet.md",
-    "02 - Atomic/20240616 - 141015 - Definition - Increasing, decreasing and continuous functions.md",
     "99 - Meta/0. Attachments/Pasted image 20240616140604.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205834.png",

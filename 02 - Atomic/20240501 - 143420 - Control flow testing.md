@@ -28,3 +28,6 @@ Coverage is defined as the percentage of the code that has been tested. Followin
 2. **Level 1:** Execute each of the nodes at least once
 3. **Level 2:** Decision/Branch coverage. Check the true and false statement for each of the decisions
 4. **Level 3:** Condition coverage. Check all possible combinations of conditions for all decision-making.
+
+### Cyclomatic complexity: 
+Reference: [GeeksForGeeks](https://www.geeksforgeeks.org/cyclomatic-complexity/)
