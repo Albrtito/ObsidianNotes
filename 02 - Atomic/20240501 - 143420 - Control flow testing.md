@@ -30,3 +30,6 @@ Coverage is defined as the percentage of the code that has been tested. Followin
 4. **Level 3:** Condition coverage. Check all possible combinations of conditions for all decision-making.
 
 ### Cyclomatic complexity: 
+Used to measure number of possible linearly independent paths: 
++ [[20240619 - 141717 - Definition - Cyclomatic complexity|Cyclomatic complexity]]
++ 

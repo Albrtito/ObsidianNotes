@@ -9,7 +9,7 @@ tags:
 cssclasses:
 ---
 # Cyclomatic complexity: 
-The cyclomatic complexity measures the nyumber of **linearly independent paths**. It is given by the formula: 
+The cyclomatic complexity measures the number of **linearly independent paths**. It is given by the formula: 
 $$
 M = E - N + 2P
 $$
