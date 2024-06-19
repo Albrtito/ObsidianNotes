@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240501 - 143420 - Control flow testing.md",
+                "file": "02 - Atomic/20240619 - 145219 - Definition - Static Method.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240501 - 143420 - Control flow testing.md",
+                "file": "02 - Atomic/20240619 - 145219 - Definition - Static Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240501 - 143420 - Control flow testing.md",
+                "file": "02 - Atomic/20240619 - 145219 - Definition - Static Method.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240501 - 143420 - Control flow testing.md",
+                "file": "02 - Atomic/20240619 - 145219 - Definition - Static Method.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240501 - 143420 - Control flow testing.md"
+                "file": "02 - Atomic/20240619 - 145219 - Definition - Static Method.md"
               }
             }
           }
@@ -256,6 +256,7 @@
   "active": "83c87d01e660e0e8",
   "lastOpenFiles": [
     "02 - Atomic/20240619 - 141717 - Definition - Cyclomatic complexity.md",
+    "02 - Atomic/20240619 - 145219 - Definition - Static Method.md",
     "02 - Atomic/20240501 - 143420 - Control flow testing.md",
     "01.Areas/0.DailyNote/2024-06-19.md",
     "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
@@ -282,7 +283,6 @@
     "02 - Atomic/Definition - Monotone increasing and decreasing.md",
     "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
     "02 - Atomic/20240616 - 155016 - Theorem - L'Hôpital-Bernoully rule.md",
-    "02 - Atomic/20240616 - 143013 - Second derivative.md",
     "99 - Meta/0. Attachments/Pasted image 20240616140604.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205834.png",

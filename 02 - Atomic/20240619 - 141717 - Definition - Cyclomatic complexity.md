@@ -2,7 +2,6 @@
 aliases:
   - Cyclomatic complexity
 tags:
-  - review
   - SoftwareDev
 "References:":
   - https://www.geeksforgeeks.org/cyclomatic-complexity/
