@@ -8,5 +8,45 @@
         "role": "assistant",
         "content": "<div class=\"errorBotMessage\"><p>Model not found.</p></div>",
         "images": []
+    },
+    {
+        "role": "user",
+        "content": "Hey",
+        "images": []
+    },
+    {
+        "role": "assistant",
+        "content": "<div class=\"errorBotMessage\"><p>Model not found.</p></div>",
+        "images": []
+    },
+    {
+        "role": "user",
+        "content": "Hey",
+        "images": []
+    },
+    {
+        "role": "assistant",
+        "content": "<div class=\"errorBotMessage\"><p>Model not found.</p></div>",
+        "images": []
+    },
+    {
+        "role": "user",
+        "content": "Hey",
+        "images": []
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! I'm your helpful assistant, here to assist you with any questions or topics related to calculus of primitive integrals. Would you like me to explain a specific concept or method?",
+        "images": []
+    },
+    {
+        "role": "user",
+        "content": "Do you have acces to the current note I'm at?",
+        "images": []
+    },
+    {
+        "role": "assistant",
+        "content": "You're currently reading notes on \"Integration in one variable\" specifically about computing integrals, including definite integrals and improper integrals.\n\nI see that the notes also cover topics such as:\n\n* The fundamental theorem of calculus\n* Areas, volumes, and lengths\n* Definite integrals with examples (approximating area below a function)\n* Improper integrals (computing areas/volumes/lengths over infinite intervals)\n\nWould you like me to summarize or expand on any of these topics?",
+        "images": []
     }
 ]

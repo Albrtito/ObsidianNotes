@@ -126,6 +126,7 @@
       {
         "id": "5997a5c0c99a8696",
         "type": "tabs",
+        "dimension": 56.74518201284796,
         "children": [
           {
             "id": "4d9e8083eba3a4a2",
@@ -189,6 +190,7 @@
       {
         "id": "760b9d5497fedc0d",
         "type": "tabs",
+        "dimension": 14.275517487508923,
         "children": [
           {
             "id": "36d1a43796975b90",
@@ -234,7 +236,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.011994877717129258,
+                  "scale": 0.019644464293535856,
                   "close": true
                 }
               }
@@ -245,6 +247,7 @@
       {
         "id": "2758c03c7f8ca0ae",
         "type": "tabs",
+        "dimension": 28.979300499643113,
         "children": [
           {
             "id": "1223c0f85c541969",
@@ -260,7 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 898.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,7 +282,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "651f700913bf39e7",
+  "active": "4499b3484c4f01cb",
   "lastOpenFiles": [
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles/BMO.md",
