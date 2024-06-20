@@ -17,7 +17,7 @@ Based on the [courseware course](https://ocw.uc3m.es/mod/page/view.php?id=5299) 
 1. [[20240602 - 172958 - Real variable functions|Real variable functions]]
 2. [[Definition - Limits|Limit]]
 3. [[20240605 - 211212 - Continuity of a single variable function|Continuity of a single variable function]]
-4. [[]]
+4. [[20240620 - 154721 - Taylor Polynomial|Taylor Polynomial]]
 
 5. [Sets of numbers](../../02%20-%20Atomic/Sets%20of%20numbers.md)
 6. [[20240602 - 172932 - Sequences and series of real numbers]]
