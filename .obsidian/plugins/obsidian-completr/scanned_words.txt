@@ -2216,6 +2216,7 @@ tQMX
 tPN
 tPY
 taylor
+tending
 dailyNote
 day
 during
@@ -47702,6 +47703,7 @@ nxU
 nwW
 nSE
 nPf
+notate
 Post
 Papeleos
 Para
@@ -86434,6 +86436,7 @@ LMi
 LÜ
 LZK
 LSy
+Landau
 Otras
 Otros
 OS

@@ -36,4 +36,31 @@ P_{n,x_0}f(x) = \sum_{k = 0}^{n}\frac{f^{k)}(x_0)}{k!} (x-x_0)^k
 This means that the taylor polynomial gives out a **better approximation** the closer it is to the point $x_0$
 
 ## Usage of small-o
-With taylor polynomials the [[20240620 - 162021 - Definition - small-o|small-o]] definition is used to gat
+With taylor polynomials the [[20240620 - 162021 - Definition - small-o|small-o]] definition is used to gather all terms of the polynomials bigger than some x.
+
+f.e:
+	For the taylor polynomial of $e^x$ when x tends to 0 we have: 
+	$$
+	\frac 1{n!}x^n
+	$$
+	If we just want to express the first three terms and notate that all bigger terms are under some small-o:
+	$$
+	e^x = 1 + x + \frac{x^2}{2} + o(x^2)
+	$$
+## Properties: 
+
+1. If we want to obtain the taylor polynomial from a function that **is a polynomial** then it’s resulting taylor polynomial will be given by that **same function in terms of $(x-x_0)$ instead of x**
+
+## Taylor remainder:
+> [!NOTE] Definition: 
+>  We call Taylor remainder of order n at $x_0$ of the function f to the difference:
+>  $$
+>  R_{n,x_0}f(x) = f(x) - P_{n,x_0} f(x)
+>  $$
+
+**Remarks:**
++ This implies: $R_{n,x_0}f(x) = o((x-x_0)^n)$ #Duda : Why?
+
+
+> [!NOTE] Theorem:
+> Contents
