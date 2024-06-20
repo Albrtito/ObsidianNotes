@@ -38,3 +38,5 @@ Given all of these we can properly introduce the fundamental theorem of calculus
 ## Improper integrals: 
 When f is defined on an infinite interval we have [[20240620 - 201418 - Improper Integrals|Improper Integrals]]. These integrals are computed through limits. 
 
+## Areas, Volumes and lengths: 
+Because the integrals are performing an infinite sum to compute areas below the graph of a function, we can easily use them to compute areas in general and even expand this idea to vo
