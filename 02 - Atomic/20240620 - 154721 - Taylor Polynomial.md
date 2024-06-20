@@ -24,4 +24,16 @@ P_{n,x_0}f(x) = \sum_{k = 0}^{n}\frac{f^{k)}(x_0)}{k!} (x-x_0)^k
 **Remarks:**
 + When the point $x_0 = 0$ then the taylor polynomial is known as **McLaurin polynomial**
 + The following list compiles the basic taylor and McLaurin polynomials: [[20240620 - 160937 - Main Taylor Polynomials|Main Taylor Polynomials]]
-+ 
+
+
+> [!NOTE] Theorem:  
+> If f and its derivatives up to order n exists at $x_0$, then:
+> $$
+> lim_{x \rightarrow x_0} \frac{f(x)-P_{n,x_0}f(x)}{(x-x_0)^n} = 0
+> $$
+> 
+
+This means that the taylor polynomial gives out a **better approximation** the closer it is to the point $x_0$
+
+## Usage of small-o
+With taylor polynomials the [[20240620 - 162021 - Definition - small-o|small-o]] definition is used to gat

@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240620 - 160937 - Main Taylor Polynomials.md",
+                "file": "02 - Atomic/20240620 - 162021 - Definition - small-o.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -266,6 +266,7 @@
   },
   "active": "651f700913bf39e7",
   "lastOpenFiles": [
+    "02 - Atomic/20240620 - 162021 - Definition - small-o.md",
     "02 - Atomic/20240620 - 160937 - Main Taylor Polynomials.md",
     "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
     "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
@@ -292,7 +293,6 @@
     "02 - Atomic/20240507 - 153848 - The wave Equation.md",
     "02 - Atomic/20240515 - 033826 - Algorithm - Fleury's algorithm.md",
     "02 - Atomic/20240616 - 155905 - Extrema.md",
-    "02 - Atomic/20240616 - 141015 - Definition - Increasing, decreasing and continuous functions.md",
     "99 - Meta/0. Attachments/Pasted image 20240620150845.png",
     "99 - Meta/0. Attachments/Pasted image 20240620145246.png",
     "02 - Atomic/test.pdf",
