@@ -61,7 +61,7 @@ $$
 + Polynomial formulas (whether one degree is greater than the other) are the a quick way of performing division by the largest factor. 
   For ROOTS with SUMS this division is better done directly. Taking into account that anything divided by x. If x goes to infty, goes to 0. 
 + For trigonometric functions. If divided by x they still go to 0. 
-+ For the polynomial limits at infty is equivalent for terms for which we can perform a change of variable for a polynomial term. #Duda : In these cases when do I need to be careful in order not to change what the limit tends to? As long as it is not a division by some function of x am I ok? 
++ For the polynomial limits at infty is equivalent for terms for which we can perform a change of variable for a polynomial term. 
   f.e: 
   $$
   \lim_\infty \frac{e^x}{e^x - 1}

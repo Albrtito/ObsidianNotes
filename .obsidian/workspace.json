@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ef176ffd29bfb127",
+        "id": "e9e0dec972463ae1",
         "type": "tabs",
         "children": [
           {
-            "id": "83c87d01e660e0e8",
+            "id": "9a3bac7c17a0c8c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f16cbfc249004013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -134,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +150,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/20240605 - 171753 - Methods for solving limits.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -253,10 +230,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "83c87d01e660e0e8",
+  "active": "9a3bac7c17a0c8c6",
   "lastOpenFiles": [
-    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
+    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
+    "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
     "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
     "02 - Atomic/20240614 - 125509 - Method - Newton's Bisection Method.md",
     "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
@@ -281,7 +259,6 @@
     "99 - Meta/0. Attachments/Pasted image 20240620150845.png",
     "02 - Atomic/20240619 - 145219 - Definition - Static Method.md",
     "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
-    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
     "99 - Meta/0. Attachments/Pasted image 20240620145246.png",
     "02 - Atomic/test.pdf",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",

@@ -151,7 +151,7 @@ What does this imply for limits at infty. Well, we can define two cases.
 2. Bounded functions that oscillate between **positive and negative values**
    
    This functions are the **danger zone** ones, in some cases we **won’f find a solution to the limit**as the oscillation between positive and negative in, for example, a multiplication, makes it impossible to obtain only one value for the limit.
-   Other times when we have sum’s and similar opeartions with them we’ll easier find limits as it does not matter if we sum or substract any value to infy (or minus infty).
+   Other times when we have sum’s and similar operations with them we’ll easier find limits as it does not matter if we sum or subtract any value to infty (or minus infty).
 ## For limits at 0: 
 
 ### 1. Trigo: Power reducing formula: 
