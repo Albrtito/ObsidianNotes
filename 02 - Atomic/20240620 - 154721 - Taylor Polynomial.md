@@ -69,6 +69,5 @@ f.e:
 
 This means that the remainder for some degree n of the polynomial is equal to the value of the next term of the polynomial.
 
-f.e: 
-	
+
 >  
