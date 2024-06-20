@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "02 - Atomic/20240620 - 192729 - Definition - Definite Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "02 - Atomic/20240620 - 192729 - Definition - Definite Integrals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -203,11 +203,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "02 - Atomic/20240620 - 192729 - Definition - Definite Integrals.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -241,7 +241,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.011841434144715309,
+                  "scale": 0.020676623940807062,
                   "close": true
                 }
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md"
+                "file": "02 - Atomic/20240620 - 192729 - Definition - Definite Integrals.md"
               }
             }
           }
@@ -286,16 +286,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "a85c35aee1807dce",
   "lastOpenFiles": [
-    "02 - Atomic/20240620 - 191531 - Theorem -Fundamental theorem of calculus.md",
+    "00.References/Calc_Theory_FundamentalTheorem.pdf",
     "02 - Atomic/20240620 - 192729 - Definition - Definite Integrals.md",
+    "01.Areas/1.UC3M/Calculus I.md",
+    "02 - Atomic/20240620 - 191531 - Theorem -Fundamental theorem of calculus.md",
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
     "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md",
     "02 - Atomic/Theorem 3  Monotonicity + Boundedness = Convergence?.md",
-    "00.References/Calc_Theory_FundamentalTheorem.pdf",
     "00.References/Calc_Theory_PrimitiveIntegrals.pdf",
-    "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
     "02 - Atomic/Theorem 2 Convergent, then bounded. Not bounded, divergent.md",
     "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
@@ -317,7 +317,6 @@
     "02 - Atomic/20240620 - 160937 - Main Taylor Polynomials.md",
     "02 - Atomic/20240620 - 162021 - Definition - small-o.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
-    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "99 - Meta/0. Attachments/Pasted image 20240620150845.png",
     "99 - Meta/0. Attachments/Pasted image 20240620145246.png",
     "02 - Atomic/test.pdf",
