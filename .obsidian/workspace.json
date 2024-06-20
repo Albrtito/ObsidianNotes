@@ -174,8 +174,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "4499b3484c4f01cb",
+            "type": "leaf",
+            "state": {
+              "type": "chatbot-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "760b9d5497fedc0d",
@@ -251,8 +260,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5,
-    "collapsed": true
+    "width": 512.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,14 +275,18 @@
       "templater-obsidian:Templater": true,
       "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "4d9e8083eba3a4a2",
+  "active": "651f700913bf39e7",
   "lastOpenFiles": [
+    "00.References/Calc_Theory_ImproperIntegrals.pdf",
+    "BMO/Profiles/BMO.md",
+    "BMO/Profiles",
+    "BMO",
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
     "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
-    "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "02 - Atomic/20240620 - 201418 -.md",
     "00.References/Calc_Theory_FundamentalTheorem.pdf",
     "02 - Atomic/Integrals with the natural logarithm.md",
@@ -299,7 +311,6 @@
     "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
     "01.Areas/3.Matterhorn/Caleao 24.md",
     "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
-    "02 - Atomic/Using the Laplace transform to solve IVP.md",
     "00.References/Calc_Theory_Taylor.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-20 at 16.47.34.png",
     "99 - Meta/0. Attachments/Pasted image 20240620150845.png",
@@ -311,9 +322,7 @@
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205834.png",
     "00.References/Calc_Theory_Differentiability.pdf",
-    "00.References/Calc_Theory_Continuity.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-14 at 13.32.01.png",
-    "00.References/Calc_Exercises_RealVarFuncs.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
     "99 - Meta/0. Attachments/Pasted image 20240605173722.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-11 at 16.11.08.png",
