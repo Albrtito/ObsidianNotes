@@ -20,6 +20,7 @@ The sandwich lemma is a method used for the computation of limits.
 The idea is that if there are three functions g(x), g(x) and h(x) such as g(x) is smaller than h(x) but greater than f(x), something like this: 
 
 ![[Pasted image 20240605173722.png]]
+
 Then if at some point f(x) and h(x) have the same value (x = 2 in the image below), f(x) also has that same value. 
 
 Why? Because there is no room to go, we are saying that f is always on top and h always on the bottom, g(x) has nowhere to go but the same value that f and h are taking if they are equal. 
