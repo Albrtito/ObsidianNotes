@@ -2215,6 +2215,7 @@ tYZ
 tQMX
 tPN
 tPY
+taylor
 dailyNote
 day
 during
@@ -6906,6 +6907,7 @@ colA
 cYv
 cly
 cHJ
+compiles
 lifeOS
 liking
 las
@@ -30807,6 +30809,7 @@ MUh
 MuFj
 MfH
 Mmhz
+McLaurin
 reflections
 reels
 routine
@@ -63167,6 +63170,7 @@ aTj
 atBPt
 aAX
 aAl
+approximation
 of
 otro
 opciones
