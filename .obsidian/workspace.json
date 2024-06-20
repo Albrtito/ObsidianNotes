@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md"
+                "file": "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md"
               }
             }
           }
@@ -288,6 +288,7 @@
   },
   "active": "b8c3f1daa0c74bee",
   "lastOpenFiles": [
+    "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
     "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
     "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md",
@@ -307,7 +308,6 @@
     "02 - Atomic/20240605 - 171753 - Methods for solving limits.md",
     "02 - Atomic/20240620 - 160937 - Main Taylor Polynomials.md",
     "02 - Atomic/20240620 - 162021 - Definition - small-o.md",
-    "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
     "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
     "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
