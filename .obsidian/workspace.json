@@ -251,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 512.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,7 +270,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "651f700913bf39e7",
+  "active": "4d9e8083eba3a4a2",
   "lastOpenFiles": [
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
     "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
