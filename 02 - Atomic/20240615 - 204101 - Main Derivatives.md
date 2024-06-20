@@ -15,7 +15,17 @@ Collection of all main/basic derivates used for most computations, from the basi
 
 ## Trigonometric functions: 
 Based on [[20240603 - 165923 - Definition - Trigonometric functions|Trigonometric functions]] we define the following derivatives: 
+$$
+\begin{aligned}
+&f(x) =\operatorname{sin}x && \rightsquigarrow && f^{\prime}(x)  = \cos x  \\\\
 
+&f(x) =\operatorname{cos}x && \rightsquigarrow  && f^{\prime}(x)  =-\operatorname{sin}x  \\\\
+
+&f(x) =\tan x && \rightsquigarrow  && f^{\prime}(x)  =\sec^2 x = \frac{\\\
+&f(x) =\arcsin x && \rightsquigarrow  && f'(x)  =\frac1{\sqrt{1-x^2}}  \\\\
+&f(x) =\arccos x && \rightsquigarrow  && f^{\prime}(x)  =\frac{-1}{\sqrt{1-x^2}} 
+\end{aligned}
+$$
 ### Inverse functions:
 
 $$
