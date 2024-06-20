@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## New
 
-- [ ] [[Improper Integrals]]
+- [ ] [[20240620 - 201418 - Improper Integrals]]
 
 
 ## Reviewed

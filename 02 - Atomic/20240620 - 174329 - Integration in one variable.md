@@ -36,3 +36,5 @@ Given all of these we can properly introduce the fundamental theorem of calculus
 + [[20240620 - 191531 - Theorem -Fundamental theorem of calculus|Fundamental theorem of calculus]]
 
 ## Improper integrals: 
+When f is defined on an infinite interval we have [[20240620 - 201418 - Improper Integrals|Improper Integrals]]. These integrals are computed through limits. 
+

@@ -24,7 +24,7 @@ $$
 + s is the variable on which the new function depends on. (Parameter of the transform)
 + $e^{-st}$ is called **kernel**
 + The integral obtained is improper. 
-	**Recall:** [Improper Integrals](Improper%20Integrals.md)
+	**Recall:** [20240620 - 201418 - Improper Integrals](20240620%20-%20201418%20-%20Improper%20Integrals.md)
 
 # Applying the $\zeta$: 
 **Remark:** f is **piecewise continuous** on \[ $\alpha, \beta$  \] if f is cont on the interval except for a finite number of points where f has "jumps" (of finite size)
