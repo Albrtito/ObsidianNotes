@@ -13,7 +13,6 @@ sr-ease: 230
 ---
 # Improper Integrals
 
-## First kind:
 Improper integrals of first kind are those integrals defined on an **infinite interval** and **integrable on each bounded subinterval**:
 
 There are different improper integrals of **first kind:**
@@ -31,4 +30,3 @@ There are different improper integrals of **first kind:**
 >+ The limit **converges** => There is a solution
 >+ The limit **diverges** => There is no solution
  
-## Second kind: 

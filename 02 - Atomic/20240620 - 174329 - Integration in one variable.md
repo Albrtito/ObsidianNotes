@@ -39,4 +39,26 @@ Given all of these we can properly introduce the fundamental theorem of calculus
 When f is defined on an infinite interval we have [[20240620 - 201418 - Improper Integrals|Improper Integrals]]. These integrals are computed through limits. 
 
 ## Areas, Volumes and lengths: 
-Because the integrals are performing an infinite sum to compute areas below the graph of a function, we can easily use them to compute areas in general and even expand this idea to vo
+Because the integrals are performing an infinite sum to compute areas below the graph of a function, we can easily use them to compute areas in general and even expand this idea to volumes and lengths: 
+
+### Areas in the plane: 
+
+1. **Area delimited by the graph of a function f and the lines x = a and x = b:** 
+$$
+A = \int_a^b |f(x)| dx
+$$
+2. **Area delimited by the graph of TWO functions g and f and two horizontal lines x = a and x = b**
+$$
+A = \int^b_a |f(x) - g(x)| dx
+$$
+
+### Volumes: 
+
+1. **Knowing the area of each cross section of three dimensional volume as A(x).**
+$$
+V = \int_a^b A(x) dx
+$$
+2. **Rotation of the graph of f around the X axis**
+$$
+V = \pi \int_a^b (f(x))^2 dx
+$$
