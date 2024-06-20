@@ -1,9 +1,9 @@
 ---
 DateStarted: 2024-03-17
 DateToFinish: 2024-09-01
-sr-due: 2024-06-17
-sr-interval: 81
-sr-ease: 266
+sr-due: 2024-06-21
+sr-interval: 41
+sr-ease: 246
 ---
 For this period I'll follow the  General, specific and operative objectives strategy. I'll divide the period in two. From march to July (une included as there are a few exams taking place in those dates) and July to September (the summer season). To keep track of the set objectives the [dailyNote](../99%20-%20Meta/1.%20Templates/dailyNote.md) template will be updated with all the task extracted in the operative objectives. 
 This note will be reviewed periodically to modify any objectives and check that the chosen strategy is working. #review 

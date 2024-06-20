@@ -7,9 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-19
-sr-interval: 12
-sr-ease: 270
+sr-due: 2024-08-06
+sr-interval: 47
+sr-ease: 290
 ---
 The logarithmic function is defined based on [[20240603 - 174244 - Definition - Logarithm|Logarithm]]s : 
 $$

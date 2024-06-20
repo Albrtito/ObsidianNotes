@@ -7,9 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-19
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-07-02
+sr-interval: 12
+sr-ease: 270
 ---
 # Chain rule: 
 

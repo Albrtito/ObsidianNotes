@@ -26,20 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6465256b5c49e337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/Objectives from March 23 to September 23.md",
+                "file": "02 - Atomic/20240616 - 143013 - Second derivative.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
+                "file": "02 - Atomic/20240616 - 143013 - Second derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,13 +153,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
+                "file": "02 - Atomic/20240616 - 143013 - Second derivative.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "760b9d5497fedc0d",
@@ -184,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
+                "file": "02 - Atomic/20240616 - 143013 - Second derivative.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md"
+                "file": "02 - Atomic/20240616 - 143013 - Second derivative.md"
               }
             }
           }
@@ -269,8 +257,24 @@
   },
   "active": "f16cbfc249004013",
   "lastOpenFiles": [
-    "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
+    "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
+    "02 - Atomic/20240614 - 125509 - Method - Newton's Bisection Method.md",
+    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+    "02 - Atomic/20240615 - 200708 - Definition - Tangent line to the graph of a function..md",
+    "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
+    "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
+    "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
+    "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points of a function.md",
+    "02 - Atomic/20240603 - 173629 - Definition - Logarithmic function.md",
+    "02 - Atomic/20240614 - 123442 - Theorem - Continuity theorems.md",
+    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+    "02 - Atomic/20240603 - 115628 - Definition -  Circumference.md",
+    "02 - Atomic/20240615 - 202537 - Theorem - Chain rule.md",
+    "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
+    "02 - Atomic/Definition 12 Sequence NOT BOUNDED from above or below.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
+    "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
+    "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
     "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
     "02 - Atomic/20240605 - 162249 - Theorem - Side limits.md",
     "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
@@ -280,24 +284,8 @@
     "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
     "02 - Atomic/Definition - Limits.md",
     "99 - Meta/0. Attachments/Pasted image 20240620145246.png",
-    "02 - Atomic/20240605 - 161701 - Properties of limits.md",
-    "02 - Atomic/20240611 - 135712 - Trigonometric power reducing formula.md",
-    "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
-    "02 - Atomic/20240615 - 153916 - Exercises - Continuity.md",
-    "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
-    "02 - Atomic/20240603 - 114227 - Definition - Straight line.md",
-    "01.Areas/0.DailyNote/2024-06-20.md",
-    "02 - Atomic/20240619 - 141717 - Definition - Cyclomatic complexity.md",
-    "02 - Atomic/20240619 - 145219 - Definition - Static Method.md",
     "02 - Atomic/test.pdf",
-    "02 - Atomic/20240501 - 143420 - Control flow testing.md",
-    "01.Areas/0.DailyNote/2024-06-19.md",
-    "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
-    "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
-    "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
-    "02 - Atomic/20240611 - 110755 - Proof - Not a perfect square.md",
-    "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
     "00.References/Calc_Theory_DerivativeMeaning.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240616140604.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",

@@ -7,8 +7,8 @@ tags:
   - CalcI
 "References:": 
 cssclasses: 
-sr-due: 2024-06-18
-sr-interval: 2
+sr-due: 2024-06-28
+sr-interval: 8
 sr-ease: 248
 ---
 # Local maximum / minimum point of a function: 

@@ -6823,6 +6823,7 @@ convexity
 centers
 checks
 cyclomatic
+concave
 lifeOS
 liking
 las
@@ -53621,6 +53622,7 @@ NKL
 NlF
 NvIQ
 NEVER
+Newtons
 porn
 page
 pen

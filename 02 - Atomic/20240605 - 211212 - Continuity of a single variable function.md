@@ -7,13 +7,12 @@ tags:
 "References:":
   - "[[Calc_Theory_Continuity.pdf]]"
 cssclasses:
-sr-due: 2024-06-18
-sr-interval: 2
+sr-due: 2024-06-26
+sr-interval: 6
 sr-ease: 170
 ---
 # Continuity of a single variable function:
 
-#Duda: Misma duda que con los límites, definición basándose en epsilon?. Aplicada en el ejercicio 2.2.1. 
 
 > [!NOTE] Definition: 
 > A function f(x) is **continuous at $x_0$** if: 

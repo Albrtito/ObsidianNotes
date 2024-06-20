@@ -3,10 +3,9 @@ aliases:
   - SKOLEM Normal form
   - SNF
 tags:
-  - review
   - Logic
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-17
 sr-interval: 36
 sr-ease: 270

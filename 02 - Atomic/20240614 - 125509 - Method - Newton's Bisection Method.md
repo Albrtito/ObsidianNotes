@@ -7,9 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-18
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-07-09
+sr-interval: 19
+sr-ease: 270
 ---
 # Newton’s Bisection Method: 
 

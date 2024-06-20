@@ -6,8 +6,8 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-19
-sr-interval: 8
+sr-due: 2024-07-08
+sr-interval: 18
 sr-ease: 208
 ---
 Trigonometric relations are those that connect trigonometric functions between them. 
