@@ -6,14 +6,15 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-17
-sr-interval: 11
-sr-ease: 270
+sr-due: 2024-08-12
+sr-interval: 53
+sr-ease: 290
 ---
 # Side limits: 
 
 > [!NOTE] Definition: 
 > We say that a **function tends to the limit l FROM THE RIGHT/LEFT** when if x approaches $x_0$ from the right/left f approaches l. 
+
 ## Example: 
 This is really useful for functions that have two different definitions for points in the right/left of some given point.
 

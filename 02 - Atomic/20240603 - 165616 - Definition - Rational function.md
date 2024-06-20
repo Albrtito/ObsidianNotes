@@ -7,9 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-18
-sr-interval: 11
-sr-ease: 270
+sr-due: 2024-08-07
+sr-interval: 48
+sr-ease: 290
 ---
 Rational functions, or quotient functions have the form: 
 $$

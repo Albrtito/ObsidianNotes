@@ -6,8 +6,8 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-17
-sr-interval: 2
+sr-due: 2024-06-27
+sr-interval: 7
 sr-ease: 201
 ---
 # Trigonometric power reducing formula: 

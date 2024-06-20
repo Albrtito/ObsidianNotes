@@ -2,10 +2,9 @@
 aliases:
   - Semantic theory in propositions
 tags:
-  - review
   - Logic
 "References:": 
-cssclasses: []
+cssclasses: 
 sr-due: 2024-06-19
 sr-interval: 21
 sr-ease: 250

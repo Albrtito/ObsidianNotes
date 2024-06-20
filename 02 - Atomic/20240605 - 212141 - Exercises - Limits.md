@@ -9,8 +9,8 @@ tags:
   - "[[Definition - Limits|Limit]]"
 cssclasses:
   - page-manila
-sr-due: 2024-06-19
-sr-interval: 4
+sr-due: 2024-06-29
+sr-interval: 9
 sr-ease: 210
 ---
 # Exercises - Limits

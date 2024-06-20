@@ -7,9 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
-sr-due: 2024-06-21
-sr-interval: 7
-sr-ease: 230
+sr-due: 2024-06-24
+sr-interval: 4
+sr-ease: 210
 ---
 # Exponential limits theorem: 
 

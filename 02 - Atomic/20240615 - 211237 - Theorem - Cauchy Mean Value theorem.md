@@ -6,9 +6,9 @@ tags:
   - review
 "References:": 
 cssclasses: 
-sr-due: 2024-06-17
+sr-due: 2024-06-21
 sr-interval: 1
-sr-ease: 230
+sr-ease: 190
 ---
 # Cauchy Mean Value theorem: 
 
