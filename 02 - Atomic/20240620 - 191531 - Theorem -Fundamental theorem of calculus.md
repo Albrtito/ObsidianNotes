@@ -36,7 +36,5 @@ Now formally:
 > At x = a and x = b we have side derivatives. 
 
 **Remarks:**
-As a consecuence of this theorem we obtain **Barrow’s rule** as a way of solving Definite integrals: 
-$$
-\int_a^b f(x) dx = g(b) - g(a)
-$$
+As a Consequence of this theorem we obtain [[20240620 - 200345 - Method - Barrow's rule|Barrow's rule]] as a way of solving Definite integrals: 
+

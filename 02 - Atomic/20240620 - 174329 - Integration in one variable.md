@@ -1,6 +1,7 @@
 ---
 aliases:
   - Integration in one variable
+  - Integral
 tags:
   - review
   - CalcI
@@ -24,9 +25,14 @@ Given some function f(x), **the area below it** can be approximated with some nu
 Computing the area of those rectangles is easy (height times base) and therefore if we could somehow have **infinitely many rectangles** that approximated to the function really tightly it would give us a really good approximation of the area below that function. 
 
 This idea is exactly what the definite integrals are all about. 
-### Definite integrals:
+#### Definite integrals:
 
 ![[20240620 - 192729 - Definition - Definite Integrals|Definition - Definite Integrals]]
 
+***
+### Definition: 
 
-> 
+Given all of these we can properly introduce the fundamental theorem of calculus: 
++ [[20240620 - 191531 - Theorem -Fundamental theorem of calculus|Fundamental theorem of calculus]]
+
+## Improper integrals: 

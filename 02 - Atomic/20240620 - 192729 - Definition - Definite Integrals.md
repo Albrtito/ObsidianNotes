@@ -26,7 +26,9 @@ cssclasses:
 
 **Remark:**
 + If f has discontinuities on a **FINITE amount of points inside the interval** it is still integrable on that interval. 
-
+## Solving: 
+The solution of definite integrals is given by the **Barrow’s rule:**
+![[20240620 - 200345 - Method - Barrow's rule|Barrow's rule]]
 ## Properties: 
 
 1. We can take constants out and separe the integrals that are composed out of sums and subtractions
