@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
+                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md",
+                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md",
+                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md",
+                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md"
+                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md"
               }
             }
           }
@@ -286,11 +286,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "b8c3f1daa0c74bee",
   "lastOpenFiles": [
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
-    "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
+    "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
     "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md",
+    "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
     "02 - Atomic/20240620 - 174539 - Elementary primitive integrals.md",
     "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
     "00.References/Calc_Theory_PrimitiveIntegrals.pdf",
@@ -316,7 +317,6 @@
     "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
     "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
-    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
     "99 - Meta/0. Attachments/Pasted image 20240620150845.png",
     "99 - Meta/0. Attachments/Pasted image 20240620145246.png",
     "02 - Atomic/test.pdf",
