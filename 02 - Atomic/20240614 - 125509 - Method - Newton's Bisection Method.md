@@ -1,12 +1,11 @@
 ---
 aliases:
   - Method - Newton's Bisection Method
-  - Method
 tags:
   - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-09
 sr-interval: 19
 sr-ease: 270

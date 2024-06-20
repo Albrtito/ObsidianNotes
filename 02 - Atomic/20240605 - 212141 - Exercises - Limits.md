@@ -15,18 +15,15 @@ sr-ease: 210
 ---
 # Exercises - Limits
 
-## 1. Use the $\varepsilon - {\delta}$  definition of limit: 
-#Duda Como se hace esto? No entiendo
-
 ## 2. Common factor: 
 ### 2.1: Use [[20240606 - 181806 - Notable Identities#($a n - b n)| Notable identity]]
 
 ### 2.3: Apply a change of variable:With different exponent roots this is a good method. 
 
-#Duda : Can it be done simply by multiplying by the conjugate?
+Can it be done simply by multiplying by the conjugate? → With different value roots, go with a change of variable. 
 
 ### 2.5: Use [[20240515 - 013001 - Theorem - Newton's binomial theorem|Newton's binomial theorem]] 
-#Duda HOW?
+
 
 ### 2.6: Apply the conjugate (With three terms, just swap the sign of the root)
 
@@ -39,7 +36,7 @@ sr-ease: 210
 
 ### 3.3: This relation (the one defined above: [[#3. Using $ lim_{x rightarrow 0} frac{sin x}{x} = 1$ and $ lim_{x rightarrow 0} frac{e x -1}{x} = 1$|This one]]) is true for x. As long as x is equal everywhere the rest does not matter, so if: 
 
-#Duda : Sure about this?
+
 $$
 lim_{x\rightarrow 0} \frac{sin (x^2)}{x^2} = 1
 $$
@@ -53,17 +50,17 @@ $$
 
 ### 3.6: This is a direct limit of to e when x tends to 0, see:[[20240606 - 220121 - Exponential limit forms|Exponential limit forms]]
 
-### 3.7: Apply Taylor? #Duda  How to do it without Taylor?
+### 3.7: Apply Taylor
 
 ### 3.9: We are looking for the structure defined for this exercise. In order to get it we first obtain a common factor of $e^{sin x}$ and then apply a change of variable (that is not really necessary but in order to see the resemblance with the relation stated is needed)
 
-### 3.12: Solved using [[20240611 - 135712 - Trigonometric power reducing formula|Trigonometric power reducing formula]], #Duda is this the right and the proposed way to solve this?
+### 3.12: Solved using [[20240611 - 135712 - Trigonometric power reducing formula|Trigonometric power reducing formula]]
 
 ## 4. Limits to infty: 
 
 + Polynomial formulas (whether one degree is greater than the other) are the a quick way of performing division by the largest factor. 
   For ROOTS with SUMS this division is better done directly. Taking into account that anything divided by x. If x goes to infty, goes to 0. 
-+ For trigonometric functions. If divided by x they still go to 0. (Bounded? #Duda )
++ For trigonometric functions. If divided by x they still go to 0. 
 + For the polynomial limits at infty is equivalent for terms for which we can perform a change of variable for a polynomial term. #Duda : In these cases when do I need to be careful in order not to change what the limit tends to? As long as it is not a division by some function of x am I ok? 
   f.e: 
   $$

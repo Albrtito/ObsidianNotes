@@ -135,7 +135,29 @@ There are three posible casos based on the **maximum degree of x in P1 and P2**:
   $$
   The solution would be 1/2 as the $x^2$ inside the root is equal to x outside. And the 4 goes to 2 because of the root. 
 
+### Bounded functions: 
+There exists a family of functions that can be defined as **bounded** this means that **their values always oscillate in an interval**. 
+Some of this functions are trigo functions:
+$$
+\sin x, \cos x ...
+$$
+What does this imply for limits at infty. Well, we can define two cases. 
+
+1. Bounded functions that oscillate between all **positive values** or all **negative values**
+	
+	In this cases we can just treat the function as a constant, negative or positive. As when reaching infty this oscillation doesn’t really matter. 
+
+
+2. Bounded functions that oscillate between **positive and negative values**
+   
+   This functions are the **danger zone** ones, in some cases we **won’f find a solution to the limit**as the oscillation between positive and negative in, for example, a multiplication, makes it impossible to obtain only one value for the limit.
+   Other times when we have sum’s and similar opeartions with them we’ll easier find limits as it does not matter if we sum or substract any value to infy (or minus infty).
 ## For limits at 0: 
 
 ### 1. Trigo: Power reducing formula: 
 + [[20240611 - 135712 - Trigonometric power reducing formula|Trigonometric power reducing formula]]
+### 2. Different power roots: 
+For different power roots the best path is to perform a **change of variable** that takes out the roots or transforms them into squares roots. 
+
+### 3. Binomial limits: 
+Binomial limits can be expressed using the [[20240515 - 013001 - Theorem - Newton's binomial theorem|Newton's binomial theorem]]. After changing the expression the limit is usually easier.

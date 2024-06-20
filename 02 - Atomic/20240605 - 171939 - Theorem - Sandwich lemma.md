@@ -44,7 +44,8 @@ I wish u all the luck in the world in the journey to find f(x) and h(x)
 > $$
 
 **Remarks:**
-+ Using this lemma is not straighfor
++ Using this lemma is not straightforward. Mostly try to find an inequality for the limit. It is better to try anything else before going with this. 
+
 ## Examples: 
 
 1. 
