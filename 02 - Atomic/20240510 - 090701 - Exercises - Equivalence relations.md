@@ -3,7 +3,6 @@ aliases:
   - Exercises - Equivalence relations
 tags:
   - Discrete
-  - incomplete
 "References:":
   - "[[Discreta_Exercises_All_Solved.pdf]]"
 cssclasses:

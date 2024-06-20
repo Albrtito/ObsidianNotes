@@ -7,6 +7,9 @@ tags:
   - review
 "References:": 
 cssclasses:
+sr-due: 2024-06-23
+sr-interval: 3
+sr-ease: 269
 ---
 # L'Hôpital-Bernoully rule
 

@@ -51,7 +51,8 @@ $$cosec (x) = \frac{1}{sin(x)}$$
 ![[Screenshot 2024-06-03 at 17.09.08.png]]
 
 **CAREFUL:** sec(x) and cosec(x) are not the same as the following two functions: arcsin(x) and arccos(x). 
-#Duda: Why are these different?
+While sec(x) and cosec(x) are defined as 1 over the function. The arc…(x) functions are defined as the **inverse functions**, see [[20240615 - 202910 - Definition - Inverse function|Inverse function]]
+
 
 Arcsin and Arcos functions are obtained by **reversing the relation of the sin and cosine** 
 For sin: 

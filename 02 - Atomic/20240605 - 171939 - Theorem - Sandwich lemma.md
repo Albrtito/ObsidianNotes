@@ -13,7 +13,7 @@ sr-interval: 10
 sr-ease: 250
 ---
 # Sandwich lemma: 
-#Duda When to use it? Is there a type of limit where I just know, ok this needs to be done with sandwich. 
+
 
 The sandwich lemma is a method used for the computation of limits. 
 
@@ -43,7 +43,8 @@ I wish u all the luck in the world in the journey to find f(x) and h(x)
 > lim_{x\rightarrow x_0}f(x)= l
 > $$
 
-
+**Remarks:**
++ Using this lemma is not straighfor
 ## Examples: 
 
 1. 

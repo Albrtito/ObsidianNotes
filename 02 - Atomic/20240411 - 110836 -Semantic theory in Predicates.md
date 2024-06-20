@@ -2,7 +2,7 @@
 aliases:
   - Semantic theory in Predicates
 tags:
-  - incomplete
+  - Logic
 "References:": 
 cssclasses: 
 sr-due: 2024-04-19

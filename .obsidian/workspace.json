@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240619 - 145219 - Definition - Static Method.md",
+                "file": "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240616 - 143013 - Second derivative.md",
+                "file": "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5041847229004,
-    "collapsed": true
+    "width": 258.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240616 - 143013 - Second derivative.md",
+                "file": "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240616 - 143013 - Second derivative.md",
+                "file": "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240616 - 143013 - Second derivative.md",
+                "file": "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240616 - 143013 - Second derivative.md"
+                "file": "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md"
               }
             }
           }
@@ -257,6 +256,26 @@
   },
   "active": "f16cbfc249004013",
   "lastOpenFiles": [
+    "02 - Atomic/20240603 - 165923 - Definition - Trigonometric functions.md",
+    "02 - Atomic/20240515 - 013001 - Theorem - Newton's binomial theorem.md",
+    "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
+    "02 - Atomic/20240510 - 090701 - Exercises - Equivalence relations.md",
+    "02 - Atomic/20240418 - 190338 - Fourier series.md",
+    "02 - Atomic/20240409 - 171554 - Refactoring.md",
+    "02 - Atomic/Systems of First-Order ODEs.md",
+    "02 - Atomic/20240411 - 110836 -Semantic theory in Predicates.md",
+    "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
+    "02 - Atomic/20240515 - 032018 - Tree graph.md",
+    "02 - Atomic/20240507 - 153848 - The wave Equation.md",
+    "02 - Atomic/20240515 - 033826 - Algorithm - Fleury's algorithm.md",
+    "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
+    "02 - Atomic/20240616 - 155905 - Extrema.md",
+    "02 - Atomic/20240616 - 141015 - Definition - Increasing, decreasing and continuous functions.md",
+    "02 - Atomic/20240616 - 155016 - Theorem - L'Hôpital-Bernoully rule.md",
+    "02 - Atomic/20240616 - 162016 - Convexity of a function.md",
+    "02 - Atomic/20240616 - 143013 - Second derivative.md",
+    "99 - Meta/0. Attachments/Pasted image 20240620150845.png",
+    "02 - Atomic/20240619 - 145219 - Definition - Static Method.md",
     "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
     "02 - Atomic/20240614 - 125509 - Method - Newton's Bisection Method.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
@@ -264,25 +283,6 @@
     "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
     "02 - Atomic/20240603 - 171608 - Trigonometric relations.md",
     "02 - Atomic/20240501 - 165252 - SKOLEM Normal Form.md",
-    "02 - Atomic/20240615 - 205544 - Definition - Local maximum and minimum points of a function.md",
-    "02 - Atomic/20240603 - 173629 - Definition - Logarithmic function.md",
-    "02 - Atomic/20240614 - 123442 - Theorem - Continuity theorems.md",
-    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
-    "02 - Atomic/20240603 - 115628 - Definition -  Circumference.md",
-    "02 - Atomic/20240615 - 202537 - Theorem - Chain rule.md",
-    "02 - Atomic/20240605 - 211212 - Continuity of a single variable function.md",
-    "02 - Atomic/Definition 12 Sequence NOT BOUNDED from above or below.md",
-    "02 - Atomic/Objectives from March 23 to September 23.md",
-    "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
-    "02 - Atomic/20240605 - 171939 - Theorem - Sandwich lemma.md",
-    "02 - Atomic/20240605 - 165543 - Infty indeterminate forms.md",
-    "02 - Atomic/20240605 - 162249 - Theorem - Side limits.md",
-    "02 - Atomic/20240605 - 212141 - Exercises - Limits.md",
-    "02 - Atomic/20240603 - 115952 - Definition - Hyperbola.md",
-    "02 - Atomic/20240508 - 121510 - Semantic theory in Propositions.md",
-    "02 - Atomic/20240606 - 220121 - Exponential limit forms.md",
-    "02 - Atomic/20240603 - 165616 - Definition - Rational function.md",
-    "02 - Atomic/Definition - Limits.md",
     "99 - Meta/0. Attachments/Pasted image 20240620145246.png",
     "02 - Atomic/test.pdf",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
@@ -299,7 +299,6 @@
     "99 - Meta/0. Attachments/Pasted image 20240605173722.png",
     "99 - Meta/0. Attachments/Screenshot 2024-04-11 at 16.11.08.png",
     "99 - Meta/0. Attachments/Screenshot 2024-05-15 at 03.29.37.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-06-05 at 17.21.25.png",
     "00.References/DiffCalc_Exercises_S1.pdf",
     "00.References/Calc_Theory_RealVarFuncs.pdf",
     "02 - Atomic/#20240307 - 000000 - ODEs.md#",

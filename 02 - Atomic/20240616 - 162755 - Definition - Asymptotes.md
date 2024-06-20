@@ -7,6 +7,9 @@ tags:
   - CalcI
 "References:": 
 cssclasses:
+sr-due: 2024-06-25
+sr-interval: 5
+sr-ease: 244
 ---
 # Asymptotes: 
 

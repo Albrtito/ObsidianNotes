@@ -11,7 +11,7 @@ sr-ease: 190
 cssclasses:
 ---
 # Newton’s binomial theorem:
-#Duda : Usefulness. Use cases, etc. 
+
 Newton’s binomial theorem describes the the algebraic expansion of power of a binomial
  (x+y$)^n$. 
 
@@ -28,3 +28,7 @@ $$
 \sum_{k=0}^n(-1)^k\binom{n}{k} & =0 .
 \end{aligned}
 $$
+
+## Uses of the binomial: 
+
+1. Solving of limits. We can express binomials to powers greater than 2 in forms such as we can solve the limits. 
