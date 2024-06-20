@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
+                "file": "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
+                "file": "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
+                "file": "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md"
+                "file": "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md"
               }
             }
           }
@@ -278,7 +278,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b8c3f1daa0c74bee",
+  "active": "c24afe4b53373509",
   "lastOpenFiles": [
     "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
     "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
