@@ -51,4 +51,3 @@ $$
  4. If a function is integrable on some interval, then it is integrable on any subinterval within the first one.
  5. We can divide the integration into parts, so if an interval \[a,b] has a < c < b. The integral that went from a to b can be divided into two integrals. One from a to c another one from c to b. 
 
-
