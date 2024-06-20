@@ -4563,6 +4563,7 @@ dlHf
 dsn
 decompose
 denominator
+deg
 check
 classes
 cssclasses
@@ -20429,6 +20430,7 @@ idz
 iYH
 igBq
 iBS
+integrals
 Enough
 Esta
 Est
@@ -33455,6 +33457,7 @@ rJgs
 rzG
 rots
 refresh
+rationalisation
 here
 hour
 home
@@ -57196,6 +57199,8 @@ pSYBfy
 pduFJ
 pUR
 partitioning
+polynomic
+primitive
 UC
 UNIDADES
 Unidades
@@ -68236,6 +68241,7 @@ RYm
 RpUZ
 RDcD
 RTL
+Rationalise
 morning
 me
 mm

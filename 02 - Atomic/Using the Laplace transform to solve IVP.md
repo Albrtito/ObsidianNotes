@@ -54,7 +54,7 @@ $$
  + The bottom part is the characteristic equation
  + We **obtained the Laplace transform of the solution of the ODE.** Final step is to obtain the actual ODE solution. 
 
-Find y(t) wh0se Laplace transform is Y(s). In order to do so we'll use the [20240620 - 170611 - Method - Partial Fractions](20240620%20-%20170611%20-%20Method%20-%20Partial%20Fractions.md) 
+Find y(t) wh0se Laplace transform is Y(s). In order to do so we'll use the [[20240620 - 170611 - Method - Partial Fractions|Partial Fractions]] 
 $$
 Y(s) = {1\over 3}{1\over s-2} + {2 \over 3}{1\over s+1}(k_1, k_2 \in R): k_1 = 1/3, k_2 = 2/3
 $$
@@ -84,7 +84,7 @@ $$
 $$
 Y(s) = {s^3 + 1\over s^2(s^2-2s+5)} 
 $$
-Using the [20240620 - 170611 - Method - Partial Fractions](20240620%20-%20170611%20-%20Method%20-%20Partial%20Fractions.md) we obtain: 
+Using the [[20240620 - 170611 - Method - Partial Fractions|Partial Fractions]] we obtain: 
 $$
 Y(s) = \frac{A}{s} + \frac{B}{s^2}+ \frac {Cs + D}{s^2 - 2s + 5}
 $$
@@ -114,7 +114,7 @@ After these two examples we can say the following steps are used to compute IVP 
 4. Apply the initial conditions 
 5. Now u have obtained Y(s) = (some expression) here comes the difficult part
 6. Compute the **inverse Laplace transform** of Y(s) obtaining y(t). 
-	1. For this step use [20240620 - 170611 - Method - Partial Fractions](20240620%20-%20170611%20-%20Method%20-%20Partial%20Fractions.md) and the [DiffCalc_Resources_Laplace_Transforms](../00.References/DiffCalc_Resources_Laplace_Transforms.pdf) . We could also use the [Convolution product](Convolution%20product.md) of the function if we knew had the initial conditions in order to apply the convolution on Y(t)
+	1. For this step use [[20240620 - 170611 - Method - Partial Fractions|Partial Fractions]] and the [DiffCalc_Resources_Laplace_Transforms](../00.References/DiffCalc_Resources_Laplace_Transforms.pdf) . We could also use the [Convolution product](Convolution%20product.md) of the function if we knew had the initial conditions in order to apply the convolution on Y(t)
 	3. This table contains most of the inverse transformations we'll use. However some tricks could be needed in order to obtain expressions that can be used with the table. 
 
 ## Remarks: What if we don't know the values at 0 but at another point $t0$ ?

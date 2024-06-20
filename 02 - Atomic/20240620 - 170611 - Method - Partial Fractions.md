@@ -39,5 +39,20 @@ Perform [[20240620 - 172412 - Method - Polynomial long division|Polynomial long 
 1. Rationalise Q(x) into it’s factors. 
 2. Write an equality such as: 
 $$
-\frac{P(x)}{Q(x)} = \frac{A}{F_1(x)} +\frac{B}{F_2(x)} + ... + \frac{N}{F_n(x)} 
+\frac{P(x)}{Q(x)} = \frac{A_0}{F_1(x)} +\frac{A_1}{F_2(x)} + ... + \frac{A_n}{F_n(x)} 
+$$
+Where $F_i(x)$ are the factors of Q(x) after rationalisation
+
+**Remarks:**
+
++ If a factor is repeated n times then the partial fractions need to be: 
+$$
+\frac{P(x)}{Q(x)} = \frac{A_0}{F_1(x)} +\frac{A_1}{F_1(x)^2} + ... + \frac{A_n}{F_1(x)^n} + \frac{A_{n+1}}{F_2(x)}
+$$
+See that the factor $F_1(x)$ is repeated n times and therefore there are n fractions representing it, with increasing values for it’s degree.
+
++ If a factor is not simple but has degree 2 or more: 
+This example is for a degree 2: For greater degrees just follow the pattern.
+$$
+\frac{P(x)}{Q(x)} = \frac{A_0x + A_1}{F_1(x)} +\frac{A_2}{F_2(x)} + ... + \frac{A_n}{F_n(x)} 
 $$
