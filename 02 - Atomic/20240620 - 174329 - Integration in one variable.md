@@ -26,10 +26,8 @@ Computing the area of those rectangles is easy (height times base) and therefore
 
 This idea is exactly what the definite integrals are all about. 
 #### Definite integrals:
++ [[20240620 - 192729 - Definition - Definite Integrals|Definition - Definite Integrals]]
 
-![[20240620 - 192729 - Definition - Definite Integrals|Definition - Definite Integrals]]
-
-***
 ### Definition: 
 
 Given all of these we can properly introduce the fundamental theorem of calculus: 
@@ -51,7 +49,6 @@ $$
 $$
 A = \int^b_a |f(x) - g(x)| dx
 $$
-
 ### Volumes: 
 
 1. **Knowing the area of each cross section of three dimensional volume as A(x).**
@@ -61,4 +58,14 @@ $$
 2. **Rotation of the graph of f around the X axis**
 $$
 V = \pi \int_a^b (f(x))^2 dx
+$$
+3. **Rotation of the graph of f around the Y axis:**
+$$
+V = 2\pi \int^b _a xf(x) dx 
+$$
+### Lengths of curves: 
+
+1. **Length of the graph of a function f(x) bounded in an interval:**
+$$
+L = \int^b_a \sqrt{1 + (f'(x))^2}dx
 $$

@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5041847229004,
-    "collapsed": true
+    "width": 258.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -176,8 +175,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "760b9d5497fedc0d",
@@ -257,7 +255,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-importer:Open Importer": true,
       "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": true,
@@ -274,8 +271,8 @@
   },
   "active": "651f700913bf39e7",
   "lastOpenFiles": [
-    "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
+    "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "02 - Atomic/20240620 - 201418 -.md",
     "00.References/Calc_Theory_FundamentalTheorem.pdf",
