@@ -62,5 +62,13 @@ f.e:
 + This implies: $R_{n,x_0}f(x) = o((x-x_0)^n)$ #Duda : Why?
 
 
-> [!NOTE] Theorem:
-> Contents
+> [!NOTE] Theorem: **Lagrange form of the remainder**
+> $$
+> R_{n,x_0}f(x) = \frac{f^{n+1)}(t)}{(n+1)!}(x-x_0)^{n+1}
+> $$
+
+This means that the remainder for some degree n of the polynomial is equal to the value of the next term of the polynomial.
+
+f.e: 
+	
+>  

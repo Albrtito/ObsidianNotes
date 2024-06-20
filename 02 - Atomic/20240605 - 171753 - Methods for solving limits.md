@@ -47,7 +47,17 @@ When there are several roots (dividing) of different exponent there may be a cha
 	$$
 	\frac{4 + 4 + 4}{4} = 3
 	$$
+## 5. [[20240620 - 154721 - Taylor Polynomial|Taylor Polynomial]]
+We can use the taylor polynomial in order to approximate functions that appear in limits.
 
+f.e: 
+	$$
+	\begin{gather}
+	\operatorname*{lim}_{x\to0}\frac{\operatorname{cos}x-\operatorname{e}^{x}+x}{x^{2}} \\\\
+	=\lim_{x\to0}\frac{1-x^2/2+o(x^2)-(1+x+x^2/2+o(x^2))+x}{x^2} \\\\
+	=\lim_{x\to0}\frac{-x^2+o(x^2)}{x^2}=-1.
+	\end{gather}
+	$$
 
 ## Theorems: 
 List of useful theorems for limit solving: 
