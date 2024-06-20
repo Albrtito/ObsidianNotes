@@ -31,3 +31,13 @@ Direct integration uses the definition of the elementary primitive integrals as 
 See: [[20240529 - 132751 - Method -Integration by parts|Integration by parts]]
 
 ## Rational functions: 
+In order to compute the integral of a quotient such as: 
+$$
+\int \frac {P(x)} {Q(x)}
+$$
+The method to use is applying [[20240620 - 170611 - Method - Partial Fractions|Partial Fractions]] in order to simplify the integral into smaller and easier pieces separated by sums.
+
+## Change of variable 
+Apply [[20240529 - 135228 - Method - u-substitution|u-substitution]] method in order to simplify the integral. 
+
+## Trigonometric integrals: 

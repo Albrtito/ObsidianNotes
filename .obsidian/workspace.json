@@ -65,6 +65,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
+                "file": "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
+                "file": "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
+                "file": "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,7 +241,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.025598876524035467,
+                  "scale": 0.029077231099394626,
                   "close": true
                 }
               }
@@ -258,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md"
+                "file": "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md"
               }
             }
           }
@@ -266,8 +267,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5,
-    "collapsed": true
+    "width": 512.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,14 +286,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "651f700913bf39e7",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
+    "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
+    "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
     "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md",
     "02 - Atomic/20240620 - 174539 - Elementary primitive integrals.md",
     "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
-    "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
     "00.References/Calc_Theory_PrimitiveIntegrals.pdf",
-    "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
     "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
     "01.Areas/3.Matterhorn/Caleao 24.md",
