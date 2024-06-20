@@ -23,4 +23,10 @@ Before advancing into the theorem some definitions must be given. These definiti
 Given some function f(x), **the area below it** can be approximated with some number of rectangles. Even if the function is curved we can try and fit rectangles inside of it. 
 Computing the area of those rectangles is easy (height times base) and therefore if we could somehow have **infinitely many rectangles** that approximated to the function really tightly it would give us a really good approximation of the area below that function. 
 
-This idea is exactly what the integrals are al
+This idea is exactly what the definite integrals are all about. 
+
+![[20240620 - 192729 - Definition - Definite Integrals|Definition - Definite Integrals]]
+
+
+> 
+

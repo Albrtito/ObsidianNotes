@@ -2271,6 +2271,7 @@ tJJe
 tcD
 tjc
 tvt
+tightly
 dailyNote
 day
 during
@@ -4614,6 +4615,7 @@ drHU
 dNU
 dIg
 dSr
+definite
 check
 classes
 cssclasses
@@ -7060,6 +7062,7 @@ cte
 ctN
 cXo
 ckR
+curved
 lifeOS
 liking
 las
@@ -11420,6 +11423,7 @@ FFR
 FAm
 FHe
 FÜ
+FINITE
 first
 from
 file
@@ -33816,6 +33820,7 @@ rMX
 rsUiH
 rIT
 rVE
+rectangles
 here
 hour
 home
@@ -53408,6 +53413,7 @@ sgd
 sHZ
 ssT
 sNWE
+somehow
 No
 NOTE
 Normalmente
@@ -64622,6 +64628,8 @@ aCCs
 aOR
 ayb
 agh
+advancing
+approximated
 of
 otro
 opciones
@@ -68993,6 +69001,7 @@ Rbnc
 RRV
 RQn
 Rhl
+Riemann
 morning
 me
 mm
@@ -75615,6 +75624,7 @@ DXd
 DIz
 DuwYu
 DCA
+Definite
 HH
 Highlight
 Hay
