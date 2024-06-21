@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
+                "file": "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,35 +149,6 @@
             }
           },
           {
-            "id": "2b3cacbbc8ee946a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1450e88549b85358",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "4499b3484c4f01cb",
             "type": "leaf",
             "state": {
@@ -185,8 +156,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "760b9d5497fedc0d",
@@ -199,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
+                "file": "00.References/Calc_Theory_ImproperIntegrals.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -237,7 +207,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.029666499410337038,
+                  "scale": 0.03395966440171281,
                   "close": true
                 }
               }
@@ -256,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240620 - 201418 - Improper Integrals.md"
+                "file": "00.References/Calc_Theory_ImproperIntegrals.pdf"
               }
             }
           }
@@ -264,7 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 714.5
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,12 +253,14 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "632a1ad53c7ade84",
+  "active": "9a3bac7c17a0c8c6",
   "lastOpenFiles": [
-    "01.Areas/1.UC3M/Calculus I.md",
+    "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
+    "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
-    "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
+    "01.Areas/1.UC3M/Calculus I.md",
+    "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
@@ -314,7 +286,6 @@
     "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
     "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
     "01.Areas/3.Matterhorn/Caleao 24.md",
-    "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
     "00.References/Calc_Theory_Taylor.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-20 at 16.47.34.png",
     "99 - Meta/0. Attachments/Pasted image 20240620150845.png",
