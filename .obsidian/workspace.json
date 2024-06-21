@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
+                "file": "01.Areas/1.UC3M/Calculus I.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,6 +52,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
+                "file": "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
+                "file": "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
+                "file": "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,7 +237,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.019644464293535856,
+                  "scale": 0.029666499410337038,
                   "close": true
                 }
               }
@@ -255,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240620 - 174329 - Integration in one variable.md"
+                "file": "02 - Atomic/20240620 - 201418 - Improper Integrals.md"
               }
             }
           }
@@ -263,7 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 898.5
+    "width": 714.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,14 +283,15 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "4499b3484c4f01cb",
+  "active": "632a1ad53c7ade84",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Calculus I.md",
+    "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
+    "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
-    "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
-    "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
     "02 - Atomic/20240620 - 201418 -.md",
     "00.References/Calc_Theory_FundamentalTheorem.pdf",
     "02 - Atomic/Integrals with the natural logarithm.md",
@@ -298,7 +300,6 @@
     "02 - Atomic/20240620 - 200345 - Method - Barrow's rule.md",
     "02 - Atomic/20240620 - 194507 - Definition - Average of a function.md",
     "02 - Atomic/20240409 - 122918 - Definition - Test System S.md",
-    "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md",
     "02 - Atomic/Theorem 3  Monotonicity + Boundedness = Convergence?.md",
     "00.References/Calc_Theory_PrimitiveIntegrals.pdf",
