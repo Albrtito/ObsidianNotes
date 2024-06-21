@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md"
+                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md"
               }
             }
           }
@@ -254,12 +254,12 @@
   },
   "active": "651f700913bf39e7",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Calculus I.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
     "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
     "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
-    "01.Areas/1.UC3M/Calculus I.md",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
