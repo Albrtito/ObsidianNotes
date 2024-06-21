@@ -52,7 +52,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -169,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Calc_Theory_ImproperIntegrals.pdf",
+                "file": "01.Areas/1.UC3M/Calculus I.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +206,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.03395966440171281,
+                  "scale": 0.030654584836090248,
                   "close": true
                 }
               }
@@ -226,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Calc_Theory_ImproperIntegrals.pdf"
+                "file": "01.Areas/1.UC3M/Calculus I.md"
               }
             }
           }
@@ -253,14 +252,14 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "9a3bac7c17a0c8c6",
+  "active": "651f700913bf39e7",
   "lastOpenFiles": [
+    "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
     "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
     "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
     "01.Areas/1.UC3M/Calculus I.md",
-    "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
@@ -285,7 +284,6 @@
     "02 - Atomic/20240620 - 174539 - Elementary primitive integrals.md",
     "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
     "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
-    "01.Areas/3.Matterhorn/Caleao 24.md",
     "00.References/Calc_Theory_Taylor.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-20 at 16.47.34.png",
     "99 - Meta/0. Attachments/Pasted image 20240620150845.png",
