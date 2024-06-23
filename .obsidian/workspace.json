@@ -4,55 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d0e95e619ea4dbcf",
+        "id": "9ffd8c2163fe250e",
         "type": "tabs",
-        "dimension": 34.82475764354959,
         "children": [
           {
-            "id": "9a3bac7c17a0c8c6",
+            "id": "8816f3914a908ebb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00.References/Calc_Theory_ImproperIntegrals.pdf"
+                "file": "01.Areas/0.DailyNote/2024-06-23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "e9e0dec972463ae1",
-        "type": "tabs",
-        "dimension": 65.17524235645041,
-        "children": [
-          {
-            "id": "651f700913bf39e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "632a1ad53c7ade84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -154,6 +122,35 @@
               "type": "chatbot-view",
               "state": {}
             }
+          },
+          {
+            "id": "6ccddcd3e1efb279",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01.Areas/0.DailyNote/2024-06-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de45bd828df2f1c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01.Areas/0.DailyNote/2024-06-23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       },
@@ -168,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+                "file": "01.Areas/0.DailyNote/2024-06-23.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240602 - 172958 - Real variable functions.md"
+                "file": "01.Areas/0.DailyNote/2024-06-23.md"
               }
             }
           }
@@ -252,11 +249,14 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "651f700913bf39e7",
+  "active": "8816f3914a908ebb",
   "lastOpenFiles": [
-    "01.Areas/1.UC3M/Calculus I.md",
+    "01.Areas/0.DailyNote/2024-06-24.md",
+    "01.Areas/0.DailyNote/2024-06-23.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
+    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
+    "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
     "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
@@ -282,8 +282,6 @@
     "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
     "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
     "02 - Atomic/20240620 - 174539 - Elementary primitive integrals.md",
-    "02 - Atomic/20240529 - 132751 - Method -Integration by parts.md",
-    "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
     "00.References/Calc_Theory_Taylor.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-20 at 16.47.34.png",
     "99 - Meta/0. Attachments/Pasted image 20240620150845.png",
