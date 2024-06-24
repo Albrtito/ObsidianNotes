@@ -3,7 +3,6 @@ aliases:
   - Definition - small-o
   - small-o
 tags:
-  - review
   - CalcI
 "References:": 
 cssclasses:

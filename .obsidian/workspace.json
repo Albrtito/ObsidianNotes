@@ -11,13 +11,8 @@
             "id": "8816f3914a908ebb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-24.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Duda tag:#CalcI  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,20 +111,11 @@
             }
           },
           {
-            "id": "4499b3484c4f01cb",
-            "type": "leaf",
-            "state": {
-              "type": "chatbot-view",
-              "state": {}
-            }
-          },
-          {
             "id": "6ccddcd3e1efb279",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,10 +132,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "49a932224ece12c5",
+            "type": "leaf",
+            "state": {
+              "type": "chatbot-view",
+              "state": {}
             }
           }
         ]
@@ -165,7 +158,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-24.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,9 +213,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-24.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -249,39 +239,39 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "8816f3914a908ebb",
+  "active": "4d9e8083eba3a4a2",
   "lastOpenFiles": [
-    "01.Areas/0.DailyNote/2024-06-23.md",
-    "01.Areas/0.DailyNote/2024-06-24.md",
-    "00.References/Calc_Theory_ImproperIntegrals.pdf",
-    "02 - Atomic/20240616 - 162755 - Definition - Asymptotes.md",
-    "02 - Atomic/20240602 - 172958 - Real variable functions.md",
-    "01.Areas/1.UC3M/Calculus I.md",
-    "02 - Atomic/20240615 - 205354 - Local Study of a function.md",
+    "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
+    "02 - Atomic/20240620 - 200345 - Method - Barrow's rule.md",
     "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
-    "BMO/Profiles/BMO.md",
-    "BMO/Profiles",
-    "BMO",
-    "02 - Atomic/20240620 - 201418 -.md",
-    "00.References/Calc_Theory_FundamentalTheorem.pdf",
-    "02 - Atomic/Integrals with the natural logarithm.md",
+    "02 - Atomic/Definition - Limits.md",
+    "02 - Atomic/Definition 11 Bounded sequence.md",
+    "02 - Atomic/Integer numbers (set Z).md",
+    "02 - Atomic/Monotonicity of sequences.md",
+    "02 - Atomic/Rational and irrational numbers(set Q and I).md",
+    "02 - Atomic/Real numbers (set R).md",
+    "02 - Atomic/Sequences of real numbers.md",
+    "02 - Atomic/Subsets of  R, Bounds, Supremum, máximum, infimum, minimum.md",
+    "02 - Atomic/Theorem 2 Convergent, then bounded. Not bounded, divergent.md",
+    "02 - Atomic/Using the convolution product to solve ODEs.md",
+    "02 - Atomic/Using the Laplace transform to solve IVP.md",
+    "02 - Atomic/Theorem 3  Monotonicity + Boundedness = Convergence?.md",
+    "02 - Atomic/00000000 - 000000 - Definition - Sequence NOT BOUNDED from above or below.md",
+    "02 - Atomic/20240624 - 151216 -.md",
+    "02 - Atomic/Definition - Monotone increasing and decreasing.md",
+    "02 - Atomic/Convergence of sequences.md",
+    "02 - Atomic/Boundedness of sequences.md",
+    "02 - Atomic/Absolute value of x.md",
     "02 - Atomic/20240620 - 192729 - Definition - Definite Integrals.md",
     "02 - Atomic/20240620 - 191531 - Theorem -Fundamental theorem of calculus.md",
-    "02 - Atomic/20240620 - 200345 - Method - Barrow's rule.md",
-    "02 - Atomic/20240620 - 194507 - Definition - Average of a function.md",
-    "02 - Atomic/20240409 - 122918 - Definition - Test System S.md",
     "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md",
-    "02 - Atomic/Theorem 3  Monotonicity + Boundedness = Convergence?.md",
+    "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
+    "00.References/Calc_Theory_ImproperIntegrals.pdf",
+    "BMO/Profiles",
+    "BMO",
+    "00.References/Calc_Theory_FundamentalTheorem.pdf",
     "00.References/Calc_Theory_PrimitiveIntegrals.pdf",
-    "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
-    "02 - Atomic/Theorem 2 Convergent, then bounded. Not bounded, divergent.md",
-    "02 - Atomic/20240605 - 175232 - Theorem - Exponential limits.md",
-    "02 - Atomic/20240603 - 180502 - Definition - Exponential function.md",
-    "02 - Atomic/20240603 - 174745 - Definition - Natural Logarithm.md",
-    "02 - Atomic/20240603 - 174244 - Definition - Logarithm.md",
-    "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
-    "02 - Atomic/20240620 - 174539 - Elementary primitive integrals.md",
     "00.References/Calc_Theory_Taylor.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-20 at 16.47.34.png",
     "99 - Meta/0. Attachments/Pasted image 20240620150845.png",

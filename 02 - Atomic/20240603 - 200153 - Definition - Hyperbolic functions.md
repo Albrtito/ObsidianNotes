@@ -2,10 +2,9 @@
 aliases:
   - Hyperbolic functions
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-28
 sr-interval: 14
 sr-ease: 230

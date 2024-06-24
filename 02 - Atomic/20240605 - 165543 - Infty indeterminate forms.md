@@ -3,10 +3,9 @@ aliases:
   - Infty indeterminate forms
   - indeterminate forms
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-03
 sr-interval: 13
 sr-ease: 230

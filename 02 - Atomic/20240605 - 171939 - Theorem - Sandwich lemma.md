@@ -4,10 +4,9 @@ aliases:
   - Sandwich lemma
   - Pinching lemma
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-21
 sr-interval: 10
 sr-ease: 250

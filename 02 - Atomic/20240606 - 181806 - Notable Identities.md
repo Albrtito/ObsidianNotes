@@ -2,10 +2,9 @@
 aliases:
   - Notable Identinties
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-24
 sr-interval: 10
 sr-ease: 248

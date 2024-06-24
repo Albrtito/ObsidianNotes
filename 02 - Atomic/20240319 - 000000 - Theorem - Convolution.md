@@ -4,13 +4,12 @@ aliases:
   - 1D convolution
 Date: 2024-03-19
 tags:
-  - review
   - DiffCalc
 "References:": 
 sr-due: 2024-11-09
 sr-interval: 158
 sr-ease: 247
-cssclasses: []
+cssclasses:
 ---
 
 > [!NOTE] Theorem: 

@@ -3,10 +3,9 @@ aliases:
   - Ellipse
   - Definition - Ellipse
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-22
 sr-interval: 6
 sr-ease: 230

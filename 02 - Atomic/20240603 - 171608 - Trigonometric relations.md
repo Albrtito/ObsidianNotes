@@ -2,10 +2,9 @@
 aliases:
   - Trigonometric relations
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-08
 sr-interval: 18
 sr-ease: 208

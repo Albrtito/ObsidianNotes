@@ -3,10 +3,9 @@ aliases:
   - Definition - Exponential function
   - Exponential function
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-08-17
 sr-interval: 67
 sr-ease: 287

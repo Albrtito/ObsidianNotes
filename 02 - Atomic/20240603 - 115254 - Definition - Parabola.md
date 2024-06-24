@@ -3,10 +3,9 @@ aliases:
   - Parabola
   - Definition - Parabola
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-01
 sr-interval: 20
 sr-ease: 272

@@ -2,7 +2,6 @@
 aliases:
   - Barrow's rule
 tags:
-  - review
   - CalcI
 "References:": 
 cssclasses:

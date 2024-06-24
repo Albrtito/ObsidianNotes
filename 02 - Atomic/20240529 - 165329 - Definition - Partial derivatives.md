@@ -3,10 +3,9 @@ aliases:
   - Partial derivatives
 tags:
   - CalcI
-  - review
 "References:":
   - https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-03
 sr-interval: 22
 sr-ease: 264

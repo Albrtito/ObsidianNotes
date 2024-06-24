@@ -3,10 +3,9 @@ aliases:
   - Derivative
   - Differentiability of a function
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-21
 sr-interval: 5
 sr-ease: 244

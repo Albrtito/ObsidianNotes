@@ -2,7 +2,6 @@
 aliases:
   - Method - Newton's Bisection Method
 tags:
-  - review
   - CalcI
 "References:": 
 cssclasses: 

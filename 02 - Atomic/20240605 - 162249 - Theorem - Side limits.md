@@ -2,10 +2,9 @@
 aliases:
   - Side limits
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-08-12
 sr-interval: 53
 sr-ease: 290

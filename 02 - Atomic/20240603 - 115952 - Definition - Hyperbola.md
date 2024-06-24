@@ -3,10 +3,9 @@ aliases:
   - Definition - Hyperbola
   - Hyperbola
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-29
 sr-interval: 39
 sr-ease: 232

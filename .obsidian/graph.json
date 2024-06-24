@@ -34,18 +34,25 @@
         "a": 1,
         "rgb": 12551107
       }
+    },
+    {
+      "query": "tag:#Discrete  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -2.2,
-  "nodeSizeMultiplier": 0.885692516085337,
+  "nodeSizeMultiplier": 2.04390450389434,
   "lineSizeMultiplier": 1.48139180494412,
   "collapse-forces": false,
-  "centerStrength": 0.0470532319391635,
-  "repelStrength": 9.57788445621586,
-  "linkStrength": 0.651140684410646,
-  "linkDistance": 143,
-  "scale": 0.04013142675770345,
-  "close": true
+  "centerStrength": 0.144328263624842,
+  "repelStrength": 19.8841251448436,
+  "linkStrength": 0.905893536121673,
+  "linkDistance": 459,
+  "scale": 0.028106074109784624,
+  "close": false
 }

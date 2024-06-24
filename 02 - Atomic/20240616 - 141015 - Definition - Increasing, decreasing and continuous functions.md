@@ -3,10 +3,9 @@ aliases:
   - Increasing, decreasing and continuous functions
   - Definition - Increasing, decreasing and continuous functions
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-23
 sr-interval: 3
 sr-ease: 269

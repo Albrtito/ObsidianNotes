@@ -3,10 +3,9 @@ aliases:
   - Definition - Bijectivity
   - Bijectivity
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-08
 sr-interval: 24
 sr-ease: 250

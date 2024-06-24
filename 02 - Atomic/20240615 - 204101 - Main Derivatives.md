@@ -2,10 +2,9 @@
 aliases:
   - Main Derivatives
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-21
 sr-interval: 1
 sr-ease: 187

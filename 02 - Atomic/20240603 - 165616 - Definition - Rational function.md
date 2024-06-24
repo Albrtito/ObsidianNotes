@@ -3,10 +3,9 @@ aliases:
   - Definition - Rational function
   - Rational function
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-08-07
 sr-interval: 48
 sr-ease: 290

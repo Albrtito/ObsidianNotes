@@ -1,7 +1,6 @@
 ---
 Date: 2024-03-12
 tags:
-  - review
   - DiffCalc
 "References:":
   - "[Initial value problem](Initial%20value%20problem)"

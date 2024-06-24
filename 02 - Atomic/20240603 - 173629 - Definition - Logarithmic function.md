@@ -3,10 +3,9 @@ aliases:
   - Logarithmic function
   - Definition - Logarithmic function
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-08-06
 sr-interval: 47
 sr-ease: 290

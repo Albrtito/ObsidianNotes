@@ -3,10 +3,9 @@ aliases:
   - Definition - Inverse function
   - Inverse function
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-25
 sr-interval: 9
 sr-ease: 252

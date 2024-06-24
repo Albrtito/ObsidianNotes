@@ -2,11 +2,10 @@
 aliases:
   - Real variable functions
 tags:
-  - review
   - CalcI
 "References:":
   - "[[Calc_Theory_RealVarFuncs.pdf]]"
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-09
 sr-interval: 25
 sr-ease: 280

@@ -2,7 +2,6 @@
 aliases:
   - Exercises - Real Variable functions
 tags:
-  - review
   - CalcI
 "References:":
   - "[[20240602 - 172958 - Real variable functions|Real variable functions]]"

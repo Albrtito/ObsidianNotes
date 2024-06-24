@@ -2,10 +2,9 @@
 aliases:
   - Methods for solving limits
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-01
 sr-interval: 17
 sr-ease: 248

@@ -3,10 +3,9 @@ aliases:
   - Definition - Asymptotes
   - Asymptotes
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-25
 sr-interval: 5
 sr-ease: 244

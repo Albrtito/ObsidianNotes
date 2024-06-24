@@ -3,10 +3,9 @@ aliases:
   - Definition - Natural Logarithm
   - Natural logarithm
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-22
 sr-interval: 11
 sr-ease: 250

@@ -3,10 +3,9 @@ aliases:
   - Theorem - Chain rule
   - Chain rule
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-02
 sr-interval: 12
 sr-ease: 270

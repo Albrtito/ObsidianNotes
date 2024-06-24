@@ -4,10 +4,9 @@ aliases:
   - Injectivity
   - One to one
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-10
 sr-interval: 24
 sr-ease: 250

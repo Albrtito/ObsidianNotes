@@ -2,10 +2,9 @@
 aliases:
   - Exponential limit forms
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-22
 sr-interval: 2
 sr-ease: 150

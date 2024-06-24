@@ -3,10 +3,9 @@ aliases:
   - Definition - Trigonometric functions
   - Trigonometric functions
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-24
 sr-interval: 13
 sr-ease: 230

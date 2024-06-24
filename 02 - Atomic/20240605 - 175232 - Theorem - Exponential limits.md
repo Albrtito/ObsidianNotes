@@ -3,10 +3,9 @@ aliases:
   - Theorem - Exponential limits
   - Exponential limits
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-24
 sr-interval: 4
 sr-ease: 210

@@ -2,11 +2,10 @@
 aliases:
   - Continuity of a single variable function
 tags:
-  - review
   - CalcI
 "References:":
   - "[[Calc_Theory_Continuity.pdf]]"
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-26
 sr-interval: 6
 sr-ease: 170

@@ -2,10 +2,9 @@
 aliases:
   - Tangent line to the graph of a function.
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-26
 sr-interval: 6
 sr-ease: 230

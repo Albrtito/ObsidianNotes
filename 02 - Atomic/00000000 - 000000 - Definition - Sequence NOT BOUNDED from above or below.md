@@ -1,9 +1,8 @@
 ---
 Date: 2024-03-19
 tags:
-  - review
   - CalcI
-"References:":
+"References:": 
 sr-due: 2024-06-22
 sr-interval: 2
 sr-ease: 192

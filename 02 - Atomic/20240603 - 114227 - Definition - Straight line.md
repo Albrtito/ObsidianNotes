@@ -2,10 +2,9 @@
 aliases:
   - Definition - Straight line
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-15
 sr-interval: 25
 sr-ease: 210

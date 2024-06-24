@@ -4,7 +4,6 @@ aliases:
   - Definition - Intervals
 Date: 2024-03-12
 tags:
-  - review
   - CalcI
 "References:": 
 sr-due: 2024-07-06

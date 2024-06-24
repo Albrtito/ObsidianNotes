@@ -2,10 +2,9 @@
 aliases:
   - Properties of limits
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-16
 sr-interval: 26
 sr-ease: 250

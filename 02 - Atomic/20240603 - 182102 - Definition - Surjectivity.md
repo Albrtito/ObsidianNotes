@@ -3,10 +3,9 @@ aliases:
   - Surjectivity
   - Definition - Surjecticity
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-18
 sr-interval: 32
 sr-ease: 270

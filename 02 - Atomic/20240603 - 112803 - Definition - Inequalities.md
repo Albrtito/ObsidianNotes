@@ -2,10 +2,9 @@
 aliases:
   - Definition - Inequalities
 tags:
-  - review
   - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-07
 sr-interval: 26
 sr-ease: 290
