@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+                "file": "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+                "file": "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+                "file": "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+                "file": "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md"
+                "file": "02 - Atomic/20240529 - 135228 - Method - u-substitution.md"
               }
             }
           }
@@ -268,6 +268,7 @@
   },
   "active": "d38bf9f0d2abe167",
   "lastOpenFiles": [
+    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
     "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
@@ -293,7 +294,6 @@
     "02 - Atomic/Using the convolution product to solve ODEs.md",
     "02 - Atomic/Using the Laplace transform to solve IVP.md",
     "02 - Atomic/Theorem 3  Monotonicity + Boundedness = Convergence?.md",
-    "02 - Atomic/00000000 - 000000 - Definition - Sequence NOT BOUNDED from above or below.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
     "BMO",
