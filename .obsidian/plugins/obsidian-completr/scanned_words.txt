@@ -4644,6 +4644,7 @@ dnJV
 dVUw
 dXeoER
 delimited
+derivada
 check
 classes
 cssclasses
@@ -7113,6 +7114,7 @@ cjh
 cAB
 cbw
 completeness
+cuadra
 lifeOS
 liking
 las
@@ -18386,6 +18388,7 @@ uTMrr
 ukor
 uWHq
 uEP
+utilizamos
 in
 is
 important
@@ -34030,6 +34033,7 @@ rto
 rnGlTv
 rsX
 reductio
+resolver
 here
 hour
 home
@@ -58182,6 +58186,7 @@ pxI
 pPo
 pVuW
 pXc
+parcial
 UC
 UNIDADES
 Unidades
