@@ -27,6 +27,13 @@ All homogeneous non lineal first order ODEs have the following general form:
 $$
 M(x,u) + N(x,u)u' = 0
 $$
+These functions must meet: 
+$$
+M(kx,ku) = k^nN(x,u)
+$$
++ Where n is called **degree of homogeneity**
+**NOTE:**
+If the function is of the form of y/x substitution, then it proves that it is homogeneous. 
 
 Those that can be solved with an x/u substitution must comply with the following **condition**: 
 $$
