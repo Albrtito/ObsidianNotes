@@ -1,7 +1,7 @@
 ---
 DateStarted: 2024-03-17
 DateToFinish: 2024-09-01
-sr-due: 2024-06-21
+sr-due: 2024-06-26
 sr-interval: 41
 sr-ease: 246
 ---

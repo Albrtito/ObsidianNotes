@@ -4,9 +4,9 @@ aliases:
   - L'Hôpital-Bernoully rule
   - L'Hôpital rule
 tags:
-  - review
+  - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-23
 sr-interval: 3
 sr-ease: 269

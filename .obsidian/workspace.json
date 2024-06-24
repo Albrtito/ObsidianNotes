@@ -11,8 +11,13 @@
             "id": "8816f3914a908ebb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -116,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +152,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "760b9d5497fedc0d",
@@ -158,6 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,7 +222,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md"
+              }
             }
           }
         ]
@@ -239,12 +250,18 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "4d9e8083eba3a4a2",
+  "active": "8816f3914a908ebb",
   "lastOpenFiles": [
-    "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
+    "02 - Atomic/20240620 - 194507 - Definition - Average of a function.md",
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
-    "02 - Atomic/20240620 - 200345 - Method - Barrow's rule.md",
+    "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
+    "02 - Atomic/Objectives from March 23 to September 23.md",
     "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
+    "02 - Atomic/20240616 - 155016 - Theorem - L'Hôpital-Bernoully rule.md",
+    "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
+    "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
+    "02 - Atomic/20240408 - 185529 - Power Series.md",
+    "02 - Atomic/20240620 - 200345 - Method - Barrow's rule.md",
     "02 - Atomic/Definition - Limits.md",
     "02 - Atomic/Definition 11 Bounded sequence.md",
     "02 - Atomic/Integer numbers (set Z).md",
@@ -261,12 +278,6 @@
     "02 - Atomic/20240624 - 151216 -.md",
     "02 - Atomic/Definition - Monotone increasing and decreasing.md",
     "02 - Atomic/Convergence of sequences.md",
-    "02 - Atomic/Boundedness of sequences.md",
-    "02 - Atomic/Absolute value of x.md",
-    "02 - Atomic/20240620 - 192729 - Definition - Definite Integrals.md",
-    "02 - Atomic/20240620 - 191531 - Theorem -Fundamental theorem of calculus.md",
-    "02 - Atomic/20240620 - 174413 - Calculus of primitive integrals.md",
-    "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
     "BMO",

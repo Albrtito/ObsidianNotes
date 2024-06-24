@@ -1,7 +1,8 @@
 ---
-aliases: 
+aliases:
+  - Definition - Average of a function
 tags:
-  - review
+  - CalcI
 "References:": 
 cssclasses:
 ---

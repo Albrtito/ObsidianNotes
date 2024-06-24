@@ -8,6 +8,9 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
+sr-due: 2024-06-26
+sr-interval: 2
+sr-ease: 248
 ---
 # Integration in one variable: 
 Collection of notes and concepts about the computation of integrals in one variable calculus. 
