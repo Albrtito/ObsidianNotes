@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5041847229004
+    "width": 258.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md"
+                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md"
               }
             }
           }
@@ -231,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,6 +254,8 @@
   },
   "active": "8816f3914a908ebb",
   "lastOpenFiles": [
+    "02 - Atomic/20240307 - 000000 - ODEs.md",
+    "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
     "02 - Atomic/20240620 - 194507 - Definition - Average of a function.md",
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
     "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
@@ -276,8 +280,6 @@
     "02 - Atomic/Theorem 3  Monotonicity + Boundedness = Convergence?.md",
     "02 - Atomic/00000000 - 000000 - Definition - Sequence NOT BOUNDED from above or below.md",
     "02 - Atomic/20240624 - 151216 -.md",
-    "02 - Atomic/Definition - Monotone increasing and decreasing.md",
-    "02 - Atomic/Convergence of sequences.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
     "BMO",
