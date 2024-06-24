@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
+                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -237,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240529 - 162512 - First order, exact ODE.md"
+                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md"
               }
             }
           }
@@ -265,11 +266,13 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "8816f3914a908ebb",
+  "active": "d38bf9f0d2abe167",
   "lastOpenFiles": [
+    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+    "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
+    "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-    "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
     "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
     "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
     "02 - Atomic/20240620 - 194507 - Definition - Average of a function.md",
@@ -291,8 +294,6 @@
     "02 - Atomic/Sequences of real numbers.md",
     "02 - Atomic/Subsets of  R, Bounds, Supremum, máximum, infimum, minimum.md",
     "02 - Atomic/Theorem 2 Convergent, then bounded. Not bounded, divergent.md",
-    "02 - Atomic/Using the convolution product to solve ODEs.md",
-    "02 - Atomic/Using the Laplace transform to solve IVP.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
     "BMO",
