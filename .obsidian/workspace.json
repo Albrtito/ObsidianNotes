@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d38bf9f0d2abe167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
+                "file": "02 - Atomic/20240620 - 160937 - Main Taylor Polynomials.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
+                "file": "02 - Atomic/20240620 - 160937 - Main Taylor Polynomials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
+                "file": "02 - Atomic/20240620 - 160937 - Main Taylor Polynomials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
+                "file": "02 - Atomic/20240620 - 160937 - Main Taylor Polynomials.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -238,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240615 - 204101 - Main Derivatives.md"
+                "file": "02 - Atomic/20240620 - 160937 - Main Taylor Polynomials.md"
               }
             }
           }
@@ -266,8 +252,10 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "d38bf9f0d2abe167",
+  "active": "8816f3914a908ebb",
   "lastOpenFiles": [
+    "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
+    "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
@@ -275,7 +263,6 @@
     "02 - Atomic/20240615 - 204101 - Main Derivatives.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
-    "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
     "02 - Atomic/20240620 - 194507 - Definition - Average of a function.md",
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
     "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
@@ -293,7 +280,6 @@
     "02 - Atomic/Rational and irrational numbers(set Q and I).md",
     "02 - Atomic/Real numbers (set R).md",
     "02 - Atomic/Sequences of real numbers.md",
-    "02 - Atomic/Subsets of  R, Bounds, Supremum, máximum, infimum, minimum.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
     "BMO",
