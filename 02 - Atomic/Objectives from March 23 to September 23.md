@@ -110,18 +110,40 @@ Better to achieve it with a higher notes than not being able to because I asked 
 
 ## Extra: Uso de la nota diaria:
 
-## 1.1: Use RRSS to connect. 
+## 1.1: NOTE: Use RRSS to connect. 
 Maintain connection and make plans. Use the RRSS not to be alone but to be with others. → Focus on maintaining connections and making plans. 
-### 1.1.1:  
+
 ## 2.1: Work on recreating the bio sleep schedule: 
 Trabajar en que mi cuerpo vuelva a acostumbrarse a un horario.
 ### 2.1.1: Do the journal entry before going to bed.
-This way all about what is going to be done tomorrow can be worked on. 
-
-## 3.1: Scouts
+- [ ] This way all about what is going to be done tomorrow can be worked on. 
+### 2.1.2: Maintain a constant sleep schedule
+- [ ] Unless there is some activity that just doesn’t fit with it. Try to go to bed before 12. 
+## 3.1: Scouts, preparación del campamento
 Enfocarse en el campamento: Creación de actividades y materiales para el campamento. 
 ### 3.1.1: Finalizar actividades del dosier
+Finalizar con las 3 actividades que faltan por poner: 
+- [ ] Actividad con el clan 
+- [ ] Actividad de agua
+- [ ] Actividad de cuaderno
+- [ ] Escribir actividad transversal
+### 3.1.2: Día con la seeonee y preparación del material. 
+- [ ] Realizar un día de viejas lobas en el que preparemos material 
+- [ ] Finalizar el material de la actividad transversal
+- [ ] Preparar el material de la actividad de agua
 
 ## 4.1: Learning: Maintain knowledge
 Durante estos meses tengo mil cosas y poco tiempo para centrarme en aprendizaje extensivo de nuevas cosas pero querría mantener aquello que no he podido aprobar( Diferencial )
-### 4.1.1: mM
+### 4.1.1: Mantener calculo diferencial dentro de active recall. Seguir haciéndolo
+- [ ] Hacer periódicamente el active recall.
+      Se hará durante los días que este en Madrid, Tenerife y Asturias. 
+
+## 4.2: Learning: New knowledge
+Con el tiempo que tengo quiero enfocarme en introducirme al mundo de la ciberseguridad. 
+### 4.2.1: HackTheBox: 
+- [ ] Realizar 3 cursos completos de HTB
+
+### Extra: Matplotlib
+### Extra : C++
+
+### Extra: OpenGL
