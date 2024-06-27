@@ -106,6 +106,9 @@ Better to achieve it with a higher notes than not being able to because I asked 
 
 
 # Specific&Operatives(June-September)
+## Extra: Enfoque en moverse y hacer actividades fuera de casa. 
+
+## Extra: Uso de la nota diaria:
 
 ## 1.1: Use RRSS to connect. 
 Maintain connection and make plans. Use the RRSS not to be alone but to be with others. → Focus on maintaining connections and making plans. 
@@ -114,3 +117,11 @@ Maintain connection and make plans. Use the RRSS not to be alone but to be with 
 Trabajar en que mi cuerpo vuelva a acostumbrarse a un horario.
 ### 2.1.1: Do the journal entry before going to bed.
 This way all about what is going to be done tomorrow can be worked on. 
+
+## 3.1: Scouts
+Enfocarse en el campamento: Creación de actividades y materiales para el campamento. 
+### 3.1.1: Finalizar actividades del dosier
+
+## 4.1: Learning: Maintain knowledge
+Durante estos meses tengo mil cosas y poco tiempo para centrarme en aprendizaje extensivo de nuevas cosas pero querría mantener aquello que no he podido aprobar( Diferencial )
+### 4.1.1: mM
