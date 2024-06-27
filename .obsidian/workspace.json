@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "74476affe76ac5b2",
@@ -85,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5041847229004,
-    "collapsed": true
+    "width": 313.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -154,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "760b9d5497fedc0d",
@@ -232,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 1045.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,7 +249,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "8816f3914a908ebb",
+  "active": "b89f836cb1d8a8cd",
   "lastOpenFiles": [
     "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
     "01.Areas/1.UC3M/Calculus I.md",
