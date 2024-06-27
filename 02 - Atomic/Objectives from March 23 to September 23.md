@@ -1,8 +1,8 @@
 ---
 DateStarted: 2024-03-17
 DateToFinish: 2024-09-01
-sr-due: 2024-06-26
-sr-interval: 41
+sr-due: 2024-10-07
+sr-interval: 102
 sr-ease: 246
 ---
 For this period I'll follow the  General, specific and operative objectives strategy. I'll divide the period in two. From march to July (une included as there are a few exams taking place in those dates) and July to September (the summer season). To keep track of the set objectives the [dailyNote](../99%20-%20Meta/1.%20Templates/dailyNote.md) template will be updated with all the task extracted in the operative objectives. 
@@ -107,8 +107,12 @@ Better to achieve it with a higher notes than not being able to because I asked 
 
 # Specific&Operatives(June-September)
 ## Extra: Enfoque en moverse y hacer actividades fuera de casa. 
+Cuanto más tiempo estoy en casa más fácil es que me encierre en mi mismo. Los planes y cosas que vaya ha hacer durante estos meses de verano ya serán fuera de casa, incluir yo los míos propios y enfocarme en estar yo fuera (auqn sea por mi cuenta) me parece algo que aunque no sea actualmente un objetivo general le quiero dar aquí una importancia para tenerlo en mente cuando organice. 
 
 ## Extra: Uso de la nota diaria:
+El uso que me parece más correcto de la nota diaria es reflexionar en lo que se ha hecho en ese día, que se podría haber cambiado o mejorado. Esto se hace por la noche. 
+Por la mañana se reorganizarían los objetivos para adaptarlos a ese día y ser realistas. 
+
 
 ## 1.1: NOTE: Use RRSS to connect. 
 Maintain connection and make plans. Use the RRSS not to be alone but to be with others. → Focus on maintaining connections and making plans. 
@@ -142,6 +146,7 @@ Durante estos meses tengo mil cosas y poco tiempo para centrarme en aprendizaje 
 Con el tiempo que tengo quiero enfocarme en introducirme al mundo de la ciberseguridad. 
 ### 4.2.1: HackTheBox: 
 - [ ] Realizar 3 cursos completos de HTB
+
 
 ### Extra: Matplotlib
 ### Extra : C++
