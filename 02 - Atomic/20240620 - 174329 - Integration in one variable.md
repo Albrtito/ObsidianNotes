@@ -3,11 +3,10 @@ aliases:
   - Integration in one variable
   - Integral
 tags:
-  - review
   - CalcI
   - DiffCalc
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-26
 sr-interval: 2
 sr-ease: 248

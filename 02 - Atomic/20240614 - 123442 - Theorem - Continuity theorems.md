@@ -2,9 +2,9 @@
 aliases:
   - Theorem - Continuity theorems
 tags:
-  - review
+  - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-27
 sr-interval: 7
 sr-ease: 224

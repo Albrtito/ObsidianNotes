@@ -11,9 +11,11 @@ This note will be reviewed periodically to modify any objectives and check that 
 ## 1. Use of RRSS and online learning resources
 With a great use of social media comes great responsibility. I can really easily go towards a misusage of it all. I want to focus on using it for longer content. I recently discovered during the t3chfest that all CS media is on twitter. If I start using twitter or instagram I would like it to be focused on the content I have chosen to see. 
 - [ ] DONE?
+**Update:2024-06-27** The use of social media started good but moved towards a misusage similar to the one I had previously (to march of 2024). From now on my objective here is to center in communication and connection. Still use everything for **long content** **focused on learning**. But focus the usage more in the control less in the proper usage.
 ## 2. Sleep / Wake up in time
 Sleeping has always troubled me. Now with the afternoon uni courses it has all gotten even worse. This is one of the main objectives I want to work on, controlling and learning about sleep so that I can use it as a power instead of it controlling me. 
 - [ ] DONE?
+**Update:2024-06-27** Not having a proper good night sleep and refusing to do it has been one of the main reasons I could not feel happy during the day and I woke up really angry with myself for it. Aprovechando que estos días de verano ya no tengo un horario que me requiera despertarme a una hora voy a intentar ir acostumbrando a mi cuerpo a levantarse más pronto. Irme a dormir antes (o lo más pronto posible dependiendo del plan) y dejar que mi cuerpo se vaya acostumbrando a dormir las 8 horas y despertarse con ese horario. 
 ## 3.Scouts: 
 During this period there are three main focuses. Camps, Documentation and the  MTL course. Working on more courses would be a nice thing to do. However It doesn't seem realistic. 
 - [ ] DONE?

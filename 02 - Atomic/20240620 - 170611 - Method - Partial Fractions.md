@@ -8,8 +8,8 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
-sr-due: 2024-06-27
-sr-interval: 3
+sr-due: 2024-07-05
+sr-interval: 8
 sr-ease: 250
 ---
 # Partial fractions:

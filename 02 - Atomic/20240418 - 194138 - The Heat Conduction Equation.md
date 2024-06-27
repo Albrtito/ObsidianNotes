@@ -2,7 +2,6 @@
 aliases:
   - The Heat Conduction Eq.
 tags:
-  - review
   - DiffCalc
 "References:": 
 cssclasses: 
