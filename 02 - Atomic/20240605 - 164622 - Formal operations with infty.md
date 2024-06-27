@@ -3,9 +3,9 @@ aliases:
   - Formal operations with infty
   - Operations with infty
 tags:
-  - review
+  - CalcI
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-06-26
 sr-interval: 12
 sr-ease: 230
