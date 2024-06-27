@@ -22,6 +22,9 @@ During this period there are three main focuses. Camps, Documentation and the  M
 ## 4.Uni & Learning: 
 I've been struggling with university since I started with it. I think it's mostly because of a lack of effort from my part. At the start of this year I noticed a big change when I  focused on going to all clases. Even more with the friendships  and connections I started to create. What I'm lacking is success, seeing my efforts create something I'm proud of. 
 - [ ] DONE?
+**Update:2024-06-27** Aquí lo que veo es falta de trabajo constante. Durante el verano quiero tener proyectos. Enfocarme en aprender cosas que me obliguen a trabajar de forma constante en ellas.
+
+
 
 # Specific&Operative (March - June)
 
@@ -44,7 +47,7 @@ Having the kindle always near is a nice way to promote this.
 ### 1.2.1 Maintain daily RRSS usage under 1h 
 
 **Recap: 2024-05-29** This is not going in a bad direction. However the use I’m giving it does not feel right. It I used it to post maybe, but just to keep on seeing content I cannot later remember?
-- [ ] DONE
+- [x] DONE
 
 
 ## 1.3 Control the situational usage of RRSS
@@ -71,10 +74,10 @@ Enfasis on planing the next morning and objectives that will be checked out by w
 
 ## 3.1 Mantener responsabilidades dentro de secretaría
 ### 3.1.1 Pasar las cuotas mensualmente 
-- [ ] DONE?
+- [x] DONE?
 **Recap: 2024-05-29** : Estoy aprendiendo bastante con las cuotas y las reuniones con la tesorería. Por ahora esto se esta haciendo y guay.
 ### 3.1.2 Recoger documentación de Madrid cada dos semanas
-- [ ] DONE?
+- [x] DONE?
 **Recap: 2024-05-29** : Yes, without a huge impact further on in the course but done. 
 ## 3.2 Aumentar responsabilidades de secretaría antes de campamentos y acampadas. 
 ### 3.2.1 Darle la tabarra a pi para que me vaya contando cositas e ir pudiendo enterarme de las cosas
@@ -90,13 +93,16 @@ Even if I'm not in class, this means I'm near the community, I interact with the
 **Recap: 2024-05-29** I can take this objective as done as there are no classes left. I could not do this but I got the sense of good that doing it could do. It has been very hard to go, less if it’s by car with my dad. Either way, know that I know there is people there everyday and that the community really makes me happier I’ll try it next year.
 
 ### 4.1.2 Do at least two nights out with the uni group 
-- [ ] DONE?
+- [x] DONE?
 **Recap: 2024-05-29** : We’ve done one in Ignacio’s birthday and another one will be this Friday, not bad.
 ## 4.2 Obtain an average higher than 6
 Better to achieve it with a higher notes than not being able to because I asked to much of myself
+**NO: 5.86**
 ### 4.2.1 Daily use of active recall (space repetition) in obsidian
-- [ ] DONE?
+- [x] DONE?
 **Recap: 2024-05-29**:  This has not been done every day but I have notices the huge impact it did. I did not study a huge amount for some of the exams but I already had a base builded from active recalling the theory. Once I implemented generalised exercises it went even better.
 ## 4.3 Focus on first year courses
 ### 4.3.1 On busy weeks, prioritise Calculus, Discrete and Logic
 
+
+# Specific&Operatives(June-September)
