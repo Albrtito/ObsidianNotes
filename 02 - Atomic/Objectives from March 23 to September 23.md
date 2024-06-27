@@ -106,3 +106,11 @@ Better to achieve it with a higher notes than not being able to because I asked 
 
 
 # Specific&Operatives(June-September)
+
+## 1.1: Use RRSS to connect. 
+Maintain connection and make plans. Use the RRSS not to be alone but to be with others. → Focus on maintaining connections and making plans. 
+### 1.1.1:  
+## 2.1: Work on recreating the bio sleep schedule: 
+Trabajar en que mi cuerpo vuelva a acostumbrarse a un horario.
+### 2.1.1: Do the journal entry before going to bed.
+This way all about what is going to be done tomorrow can be worked on. 
