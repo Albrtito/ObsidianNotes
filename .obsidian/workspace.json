@@ -230,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1045.5
+    "width": 902
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,7 +249,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "b89f836cb1d8a8cd",
+  "active": "8816f3914a908ebb",
   "lastOpenFiles": [
     "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
     "01.Areas/1.UC3M/Calculus I.md",
