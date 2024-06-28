@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9ffd8c2163fe250e",
+        "id": "ebe754dce9c48c40",
         "type": "tabs",
         "children": [
           {
-            "id": "8bb5a954e9d27ca0",
+            "id": "170f6aa46cdbbc2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/1. Templates/dailyNote.md",
+                "file": "02 - Atomic/Objectives from March 23 to September 23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Meta/1. Templates/dailyNote.md",
+                "file": "02 - Atomic/Objectives from March 23 to September 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Meta/1. Templates/dailyNote.md",
+                "file": "02 - Atomic/Objectives from March 23 to September 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "99 - Meta/1. Templates/dailyNote.md",
+                "file": "02 - Atomic/Objectives from March 23 to September 23.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Meta/1. Templates/dailyNote.md"
+                "file": "02 - Atomic/Objectives from March 23 to September 23.md"
               }
             }
           }
@@ -249,13 +249,14 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "8bb5a954e9d27ca0",
+  "active": "170f6aa46cdbbc2e",
   "lastOpenFiles": [
-    "02 - Atomic/20240627 - 154831 - Loredo Jun24.md",
+    "99 - Meta/1. Templates/dailyNote.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
+    "01.Areas/0.DailyNote/2024-06-28.md",
+    "02 - Atomic/20240627 - 154831 - Loredo Jun24.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
     "02 - Atomic/20240627 - 154942 -.md",
-    "99 - Meta/1. Templates/dailyNote.md",
     "00.References/UC3M_Resources_Calendario2425.pdf",
     "02 - Atomic/Convolution product.md",
     "02 - Atomic/20240614 - 123442 - Theorem - Continuity theorems.md",
@@ -277,7 +278,6 @@
     "02 - Atomic/20240620 - 194507 - Definition - Average of a function.md",
     "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
     "02 - Atomic/20240616 - 155016 - Theorem - L'Hôpital-Bernoully rule.md",
-    "02 - Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
     "BMO",
