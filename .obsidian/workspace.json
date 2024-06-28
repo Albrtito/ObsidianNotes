@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240627 - 154831 - Loredo Jun24.md",
+                "file": "99 - Meta/1. Templates/dailyNote.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240627 - 154831 - Loredo Jun24.md",
+                "file": "99 - Meta/1. Templates/dailyNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240627 - 154831 - Loredo Jun24.md",
+                "file": "99 - Meta/1. Templates/dailyNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240627 - 154831 - Loredo Jun24.md",
+                "file": "99 - Meta/1. Templates/dailyNote.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240627 - 154831 - Loredo Jun24.md"
+                "file": "99 - Meta/1. Templates/dailyNote.md"
               }
             }
           }
@@ -251,8 +251,8 @@
   },
   "active": "8bb5a954e9d27ca0",
   "lastOpenFiles": [
-    "02 - Atomic/Objectives from March 23 to September 23.md",
     "02 - Atomic/20240627 - 154831 - Loredo Jun24.md",
+    "02 - Atomic/Objectives from March 23 to September 23.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
     "02 - Atomic/20240627 - 154942 -.md",
     "99 - Meta/1. Templates/dailyNote.md",
