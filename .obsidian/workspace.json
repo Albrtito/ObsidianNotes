@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-28.md",
+                "file": "01.Areas/0.DailyNote/2024-06-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-28.md",
+                "file": "01.Areas/0.DailyNote/2024-06-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-28.md",
+                "file": "01.Areas/0.DailyNote/2024-06-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-28.md",
+                "file": "01.Areas/0.DailyNote/2024-06-29.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-06-28.md"
+                "file": "01.Areas/0.DailyNote/2024-06-29.md"
               }
             }
           }
@@ -251,8 +251,9 @@
   },
   "active": "170f6aa46cdbbc2e",
   "lastOpenFiles": [
-    "02 - Atomic/Objectives from March 23 to September 23.md",
     "01.Areas/0.DailyNote/2024-06-28.md",
+    "01.Areas/0.DailyNote/2024-06-29.md",
+    "02 - Atomic/Objectives from March 23 to September 23.md",
     "99 - Meta/1. Templates/dailyNote.md",
     "02 - Atomic/20240627 - 154831 - Loredo Jun24.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
@@ -277,7 +278,6 @@
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240620 - 194507 - Definition - Average of a function.md",
     "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
-    "02 - Atomic/20240616 - 155016 - Theorem - L'Hôpital-Bernoully rule.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
     "BMO",
