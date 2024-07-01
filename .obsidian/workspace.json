@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
+                "file": "01.Areas/0.DailyNote/2024-07-01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
+                "file": "01.Areas/0.DailyNote/2024-07-01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240701 - 181920 - Nmap.md"
+                "file": "01.Areas/0.DailyNote/2024-07-01.md"
               }
             }
           }
@@ -243,6 +243,7 @@
   },
   "active": "7e2e43c9744b9676",
   "lastOpenFiles": [
+    "01.Areas/0.DailyNote/2024-07-02.md",
     "02 - Atomic/20240701 - 181920 - Nmap.md",
     "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md",
     "02 - Atomic/Linux command palette.md",
@@ -270,7 +271,6 @@
     "02 - Atomic/20240307 - 000000 - ODEs.md",
     "02 - Atomic/20240620 - 160937 - Main Taylor Polynomials.md",
     "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
-    "01.Areas/1.UC3M/Calculus I.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
     "BMO",
