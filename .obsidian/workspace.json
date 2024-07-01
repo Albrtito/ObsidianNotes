@@ -11,14 +11,12 @@
             "id": "0e8e44f76ac55583",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
-                "viewState": {
-                  "x": -440,
-                  "y": -230,
-                  "zoom": -0.1364272871905959
-                }
+                "file": "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -95,7 +93,7 @@
       {
         "id": "5997a5c0c99a8696",
         "type": "tabs",
-        "dimension": 56.74518201284796,
+        "dimension": 38.16901408450704,
         "children": [
           {
             "id": "4d9e8083eba3a4a2",
@@ -132,13 +130,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "760b9d5497fedc0d",
         "type": "tabs",
-        "dimension": 14.275517487508923,
+        "dimension": 32.887323943661976,
         "children": [
           {
             "id": "36d1a43796975b90",
@@ -146,6 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,7 +181,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.030654584836090248,
+                  "scale": 0.06074422899414368,
                   "close": true
                 }
               }
@@ -194,14 +192,16 @@
       {
         "id": "2758c03c7f8ca0ae",
         "type": "tabs",
-        "dimension": 28.979300499643113,
+        "dimension": 28.943661971830988,
         "children": [
           {
             "id": "1223c0f85c541969",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md"
+              }
             }
           }
         ]
@@ -227,8 +227,11 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "c69f6bd53a970edb",
+  "active": "0e8e44f76ac55583",
   "lastOpenFiles": [
+    "02 - Atomic/Linux command palette.md",
+    "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md",
+    "02 - Atomic/sudo.md",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/0.DailyNote/2024-07-01.md",
     "99 - Meta/1. Templates/dailyNote.md",
@@ -254,8 +257,6 @@
     "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
     "01.Areas/1.UC3M/Calculus I.md",
     "02 - Atomic/20240529 - 135228 - Method - u-substitution.md",
-    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
     "BMO",

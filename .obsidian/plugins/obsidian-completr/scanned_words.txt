@@ -2287,6 +2287,7 @@ tsu
 transversal
 terminado
 tardado
+tail
 dailyNote
 day
 during
@@ -7139,6 +7140,9 @@ centro
 costando
 consumiendo
 confiar
+column
+chmod
+chown
 lifeOS
 liking
 las
@@ -53847,6 +53851,7 @@ surfeando
 surf
 semos
 sencillo
+sudo
 No
 NOTE
 Normalmente
@@ -58285,6 +58290,7 @@ peri
 planes
 parece
 prendas
+privileges
 UC
 UNIDADES
 Unidades
@@ -65158,6 +65164,7 @@ auqn
 adaptarlos
 ade
 ansiedad
+administrative
 of
 otro
 opciones
@@ -69567,6 +69574,7 @@ RWJ
 Rotation
 Realizar
 Reorganizar
+Runs
 morning
 me
 mm
