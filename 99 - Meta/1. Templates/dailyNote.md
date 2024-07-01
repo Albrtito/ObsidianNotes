@@ -25,9 +25,7 @@ Customize this template to your liking!
 
 
 - [ ]  Instagram usage
-	- [ ] Keep usage under 1 hour
-	- [ ] Keep usage in the home not in reels
-	- [ ] Post something
+	- [ ] No usage
 
 - [ ] No porn 
 
