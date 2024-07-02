@@ -11,26 +11,16 @@
             "id": "0e8e44f76ac55583",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "7e2e43c9744b9676",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/0.DailyNote/2024-07-01.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -107,7 +97,7 @@
       {
         "id": "5997a5c0c99a8696",
         "type": "tabs",
-        "dimension": 38.16901408450704,
+        "dimension": 38.16901408450703,
         "children": [
           {
             "id": "4d9e8083eba3a4a2",
@@ -142,6 +132,33 @@
             "state": {
               "type": "chatbot-view",
               "state": {}
+            }
+          },
+          {
+            "id": "9e5b6f40fa890456",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a4b03877a1fcd95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -206,7 +223,7 @@
       {
         "id": "2758c03c7f8ca0ae",
         "type": "tabs",
-        "dimension": 28.943661971830988,
+        "dimension": 28.943661971830984,
         "children": [
           {
             "id": "1223c0f85c541969",
