@@ -11,20 +11,43 @@
             "id": "0e8e44f76ac55583",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
             "id": "7e2e43c9744b9676",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8474d1bba55f5e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,6 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-07-01.md",
+                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-07-01.md"
+                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md"
               }
             }
           }
@@ -239,7 +264,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 605
+    "width": 605,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,11 +284,13 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "7e2e43c9744b9676",
+  "active": "c8474d1bba55f5e9",
   "lastOpenFiles": [
-    "01.Areas/0.DailyNote/2024-07-02.md",
-    "02 - Atomic/20240701 - 181920 - Nmap.md",
     "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md",
+    "02 - Atomic/20240701 - 181920 - Nmap.md",
+    "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
+    "02 - Atomic/Objectives from March 23 to September 23.md",
+    "01.Areas/0.DailyNote/2024-07-02.md",
     "02 - Atomic/Linux command palette.md",
     "02 - Atomic/sudo.md",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
@@ -272,7 +300,6 @@
     "01.Areas/0.DailyNote/2024-06-24.md",
     "01.Areas/0.DailyNote/2024-06-28.md",
     "01.Areas/0.DailyNote/2024-06-29.md",
-    "02 - Atomic/Objectives from March 23 to September 23.md",
     "02 - Atomic/20240627 - 154831 - Loredo Jun24.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
     "02 - Atomic/20240627 - 154942 -.md",
@@ -287,7 +314,6 @@
     "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
     "02 - Atomic/20240307 - 000000 - ODEs.md",
     "02 - Atomic/20240620 - 160937 - Main Taylor Polynomials.md",
-    "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
     "BMO",

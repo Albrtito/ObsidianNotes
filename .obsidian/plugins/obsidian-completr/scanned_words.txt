@@ -4653,6 +4653,7 @@ dependiendo
 despertarse
 diaria
 dicamente
+discovery
 check
 classes
 cssclasses
@@ -16135,6 +16136,7 @@ WVf
 WsW
 Wae
 WkV
+Written
 up
 usage
 under
@@ -23045,6 +23047,7 @@ Enfoque
 Enfocarse
 Escribir
 Estimando
+Enumeration
 breakfast
 benefit
 bien
@@ -42806,6 +42809,9 @@ encierre
 exactas
 esperado
 esperaba
+enumeration
+enumerated
+exploit
 Instagram
 IRIS
 Intendencia
@@ -53852,6 +53858,7 @@ surf
 semos
 sencillo
 sudo
+security
 No
 NOTE
 Normalmente
@@ -55949,6 +55956,8 @@ NJjv
 NCyd
 NmY
 NxBA
+Nmap
+Network
 porn
 page
 pen
@@ -65165,6 +65174,7 @@ adaptarlos
 ade
 ansiedad
 administrative
+auditing
 of
 otro
 opciones
@@ -78332,6 +78342,7 @@ Hacer
 HackTheBox
 HTB
 Hack
+Host
 Journal
 January
 Jacobo
@@ -82704,6 +82715,7 @@ Creaci
 Camping
 Cuanto
 Comprar
+Cyber
 your
 ya
 yo
@@ -87024,6 +87036,7 @@ Seqs
 Squared
 Still
 Seguir
+Scan
 La
 Las
 Lanz
@@ -89172,6 +89185,7 @@ LQh
 Lqr
 Lengths
 Loredo
+Lua
 Otras
 Otros
 OS
@@ -93360,6 +93374,8 @@ volume
 vuelva
 viejas
 viernes
+vulnerabilities
+vulnerability
 que
 quieren
 quedo
