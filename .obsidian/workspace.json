@@ -100,15 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "16dcd8a21d79e28b",
-            "type": "leaf",
-            "state": {
-              "type": "chatbot-view",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md"
+              }
             }
           },
           {
@@ -117,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,12 +128,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "87535b23983f9a5e",
+            "type": "leaf",
+            "state": {
+              "type": "chatbot-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "760b9d5497fedc0d",
@@ -151,6 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,8 +258,9 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "c69f6bd53a970edb",
+  "active": "87535b23983f9a5e",
   "lastOpenFiles": [
+    "02 - Atomic/20240706 - 215721 -.md",
     "02 - Atomic/20240706 - 172609 - LOPIVI.md",
     "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md",
     "02 - Atomic/20240701 - 181920 - Nmap.md",
@@ -282,7 +289,6 @@
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
     "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
     "02 - Atomic/20240418 - 194138 - The Heat Conduction Equation.md",
-    "02 - Atomic/20240605 - 164622 - Formal operations with infty.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
     "BMO",
