@@ -93,33 +93,16 @@
       {
         "id": "5997a5c0c99a8696",
         "type": "tabs",
-        "dimension": 38.16901408450703,
+        "dimension": 38.285714285714285,
         "children": [
           {
-            "id": "4d9e8083eba3a4a2",
+            "id": "1223c0f85c541969",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "outline",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md"
               }
-            }
-          },
-          {
-            "id": "fea6a7bd9cb3093d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c69f6bd53a970edb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -164,7 +147,7 @@
       {
         "id": "760b9d5497fedc0d",
         "type": "tabs",
-        "dimension": 32.887323943661976,
+        "dimension": 30.28571428571429,
         "children": [
           {
             "id": "36d1a43796975b90",
@@ -219,26 +202,43 @@
         ]
       },
       {
-        "id": "2758c03c7f8ca0ae",
+        "id": "4ffe38cb4b366bf0",
         "type": "tabs",
-        "dimension": 28.943661971830984,
+        "dimension": 31.428571428571427,
         "children": [
           {
-            "id": "1223c0f85c541969",
+            "id": "4d9e8083eba3a4a2",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "fea6a7bd9cb3093d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c69f6bd53a970edb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 605,
-    "collapsed": true
+    "width": 605
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,7 +257,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "8aca27b8a28c8ce3",
+  "active": "1223c0f85c541969",
   "lastOpenFiles": [
     "02 - Atomic/20240706 - 172609 - LOPIVI.md",
     "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md",
