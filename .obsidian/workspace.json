@@ -100,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md"
-              }
+              "state": {}
             }
           },
           {
@@ -119,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +151,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,7 +252,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "1223c0f85c541969",
+  "active": "c69f6bd53a970edb",
   "lastOpenFiles": [
     "02 - Atomic/20240706 - 172609 - LOPIVI.md",
     "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md",
