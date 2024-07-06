@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b77aea71d6eb5f0a",
+        "id": "f588422cfcfafc5c",
         "type": "tabs",
         "children": [
           {
-            "id": "0e8e44f76ac55583",
+            "id": "8aca27b8a28c8ce3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e2e43c9744b9676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8474d1bba55f5e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "111271bafbb80121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240705 - 175359 - Equipo Chispas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33ae5c479aa4ea07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240705 - 175423 - Diagramas de circuitos.md",
+                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240705 - 175423 - Diagramas de circuitos.md",
+                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240705 - 175423 - Diagramas de circuitos.md",
+                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240705 - 175423 - Diagramas de circuitos.md",
+                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -282,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240705 - 175423 - Diagramas de circuitos.md"
+                "file": "02 - Atomic/20240706 - 172609 - LOPIVI.md"
               }
             }
           }
@@ -310,14 +257,15 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "33ae5c479aa4ea07",
+  "active": "8aca27b8a28c8ce3",
   "lastOpenFiles": [
-    "99 - Meta/0. Attachments/Diagrama3 (1).png",
-    "02 - Atomic/20240705 - 175423 - Diagramas de circuitos.md",
-    "02 - Atomic/20240705 - 175359 - Equipo Chispas.md",
-    "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
+    "02 - Atomic/20240706 - 172609 - LOPIVI.md",
     "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md",
     "02 - Atomic/20240701 - 181920 - Nmap.md",
+    "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
+    "02 - Atomic/20240705 - 175359 - Equipo Chispas.md",
+    "02 - Atomic/20240705 - 175423 - Diagramas de circuitos.md",
+    "99 - Meta/0. Attachments/Diagrama3 (1).png",
     "02 - Atomic/Objectives from March 23 to September 23.md",
     "01.Areas/0.DailyNote/2024-07-02.md",
     "02 - Atomic/Linux command palette.md",
@@ -358,7 +306,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-06-14 at 13.32.01.png",
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
     "99 - Meta/0. Attachments/Pasted image 20240605173722.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-04-11 at 16.11.08.png",
     "Differential Calculus.canvas",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
