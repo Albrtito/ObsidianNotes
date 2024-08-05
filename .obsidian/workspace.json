@@ -150,7 +150,7 @@
             }
           },
           {
-            "id": "87535b23983f9a5e",
+            "id": "7025800e5cad7a38",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -273,7 +273,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "fbd2aea8de1c627f",
+  "active": "7025800e5cad7a38",
   "lastOpenFiles": [
     "02 - Atomic/20240701 - 181920 - Nmap.md",
     "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
