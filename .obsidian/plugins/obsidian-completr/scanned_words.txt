@@ -40631,6 +40631,7 @@ wTr
 wTi
 wtK
 wLu
+wired
 end
 en
 el
@@ -54130,6 +54131,7 @@ sico
 sospechas
 seguir
 sean
+scan
 No
 NOTE
 Normalmente
