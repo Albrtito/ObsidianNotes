@@ -3,9 +3,8 @@ aliases:
   - Host discovery with Nmap
 tags:
   - Cyber
-"References:": 
+"References:":
+  - "[[20240701 - 181920 - Nmap|Nmap]]"
 cssclasses:
 ---
 # Host discovery: 
-+ We can use it to discover online host in a network. 
-+ Most effective host discovery is ICMP echo request. 

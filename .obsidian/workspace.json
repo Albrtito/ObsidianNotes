@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240701 - 181920 - Nmap.md"
+                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md"
               }
             }
           },
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
+                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
+                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
+                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -272,10 +273,10 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "8aca27b8a28c8ce3",
+  "active": "fbd2aea8de1c627f",
   "lastOpenFiles": [
-    "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
     "02 - Atomic/20240701 - 181920 - Nmap.md",
+    "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
     "02 - Atomic/20240706 - 172609 - LOPIVI.md",
     "02 - Atomic/20240706 - 215721 -.md",
     "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md",
