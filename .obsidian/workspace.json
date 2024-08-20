@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md"
+                "file": "02 - Atomic/20240701 - 181920 - Nmap.md"
               }
             }
           },
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
+                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
+                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +182,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "760b9d5497fedc0d",
@@ -197,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
+                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +233,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.06074422899414368,
+                  "scale": 0.04993375762165483,
                   "close": true
                 }
               }
@@ -280,8 +278,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,10 +297,10 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "fbd2aea8de1c627f",
+  "active": "8aca27b8a28c8ce3",
   "lastOpenFiles": [
-    "02 - Atomic/20240701 - 181920 - Nmap.md",
     "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
+    "02 - Atomic/20240701 - 181920 - Nmap.md",
     "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
     "02 - Atomic/20240820 - 191156 - CIDR-notation for IPs.md",
     "02 - Atomic/20240706 - 172609 - LOPIVI.md",

@@ -11,7 +11,8 @@ cssclasses:
 Host discovery is the act of searching for online targets we can work with.
 
 ## Scan ranges: 
-**By default Nmap uses the ICMP echo request** to search for active host. 
+**By default Nmap uses the ICMP echo request** to search for active host, however before sending an ICMP request it tries with an **ARP request**. To ensure that the scan is being done with ICMP use the `--disable-arp-ping flag`. 
+
 
 Most of these scans disable the port scanning (-sn) this is because we don’t really care about the state of each port, only if the machine is online. 
 ### Scanning the network range:
