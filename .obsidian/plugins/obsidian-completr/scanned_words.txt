@@ -2305,6 +2305,7 @@ tropera
 tres
 tranquila
 terminada
+targets
 dailyNote
 day
 during
@@ -13877,6 +13878,7 @@ ficas
 figuras
 funcionamiento
 familia
+filtered
 Woke
 Write
 Went
@@ -18541,6 +18543,7 @@ utilizamos
 unos
 usamos
 usa
+unfiltered
 in
 is
 important
@@ -29693,6 +29696,7 @@ Trabajo
 TROPA
 Tropa
 TAMBI
+Target
 Movement
 MM
 MMMM
@@ -34282,6 +34286,7 @@ rnoslo
 responsabilidad
 recomiendo
 reaccionar
+resolve
 here
 hour
 home
@@ -36431,6 +36436,7 @@ hacemos
 hemos
 hacha
 haya
+hostname
 Before
 Burocracia
 Buses
@@ -45259,6 +45265,7 @@ Interesarte
 Informar
 Intencionado
 Impacto
+IPs
 Keep
 Key
 Kinds
@@ -49445,6 +49452,7 @@ navajas
 nuevo
 ndonos
 nosotros
+nmap
 Post
 Papeleos
 Para
@@ -51644,6 +51652,7 @@ PODEMOS
 PERSONAS
 PUEDE
 PELIGROSA
+Port
 something
 start
 st
@@ -54132,6 +54141,8 @@ sospechas
 seguir
 sean
 scan
+scanned
+skip
 No
 NOTE
 Normalmente
@@ -58615,6 +58626,8 @@ ponga
 protocolo
 punto
 pesta
+port
+ports
 UC
 UNIDADES
 Unidades
@@ -65526,6 +65539,7 @@ acordarnos
 abrazos
 autoridades
 agresores
+addresses
 of
 otro
 opciones
@@ -67672,6 +67686,7 @@ ocurra
 ocurran
 obstante
 opiniones
+option
 References
 RRI
 RUTAS
@@ -69951,6 +69966,7 @@ Referencias
 Reunirse
 RIESGO
 Responsabilizaci
+Responsive
 morning
 me
 mm
@@ -78742,6 +78758,7 @@ Host
 Hacerles
 HACER
 Hecho
+Hostname
 Journal
 January
 Jacobo
@@ -83134,6 +83151,8 @@ COMUNICAC
 CONCRETO
 CONTINUACI
 COMUNICACI
+CIDR
+Comma
 your
 ya
 yo
@@ -91634,6 +91653,7 @@ OpenGL
 Otro
 Obligaciones
 Obtener
+Output
 varias
 verde
 visita
