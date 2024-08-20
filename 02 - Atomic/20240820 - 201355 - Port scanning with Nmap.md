@@ -36,16 +36,30 @@ If we ask for the package trace we will see that each SYN scan is composed of re
 SENT (0.0429s) TCP 10.10.14.2:63090 > 10.129.2.28:21 S ttl=56 id=57322 iplen=44  seq=1699105818 win=1024 <mss 1460>
 ```
 + TCP: Used protocol
-+ **10.10.14.2:63090 > 10.129.2.28:21**: IPv4 addresses and their respective ports from which the packets are being send 
++ **10.10.14.2:63090 > 10.129.2.28:21**: IPv4 addresses and their respective ports from and to which the packets are being send.
++ **S:** SYN packet is being send
++ **more:** Other TCP parameters
 **RESPONSE (example): **
 ```shell
 RCVD (0.0573s) TCP 10.129.2.28:21 > 10.10.14.2:63090 RA ttl=64 id=0 iplen=40  seq=0 win=0
 ```
 
-### Defining ports: 
+Same as the request, however here we can see two different flags for the RST packet and ACK packet (RA).
+
+### TCP Connect Scan
++ Using the `-sT` flag
++ Uses the three-way handshake to scan each port.
++ **stealthier than SYN**
+	+ No unfinished connections → less likely to be detected
+	+ More polite 
+	+ Does not disturb services running on the network
++ **Slower** → Needs to wait for the target to answer
+
+## Defining ports: 
 Some useful flags for port definition: 
 + **List of target ports:** `-p <portNum>, <portNum>, ...`
 + **Port range:** `-p <portNum>-<portNum>`
 + **Use top ports:**(Defined by the Nmap database) `--top-ports= <number>` 
 + **All ports:** `-p-`
 + **Fast port scan:** (top 100 ports) `-F-` 
+## Filte

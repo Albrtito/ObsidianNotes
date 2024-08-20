@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "d17d97b57567a69b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fdb7747bd8f8651c",
             "type": "leaf",
             "state": {
@@ -302,8 +289,8 @@
   "lastOpenFiles": [
     "02 - Atomic/20240701 - 181920 - Nmap.md",
     "02 - Atomic/20240820 - 202516 - SYN scan.md",
-    "02 - Atomic/20240820 - 201355 - Port scanning with Nmap.md",
     "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
+    "02 - Atomic/20240820 - 201355 - Port scanning with Nmap.md",
     "02 - Atomic/20240820 - 191156 - CIDR-notation for IPs.md",
     "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
     "02 - Atomic/20240706 - 172609 - LOPIVI.md",
