@@ -4691,6 +4691,7 @@ deliberado
 duchan
 duro
 debemos
+disable
 check
 classes
 cssclasses
@@ -13881,6 +13882,8 @@ figuras
 funcionamiento
 familia
 filtered
+firewalls
+flag
 Woke
 Write
 Went
@@ -36439,6 +36442,7 @@ hemos
 hacha
 haya
 hostname
+hosts
 Before
 Burocracia
 Buses
@@ -54146,6 +54150,9 @@ sean
 scan
 scanned
 skip
+searching
+scans
+scanning
 No
 NOTE
 Normalmente
@@ -87486,6 +87493,8 @@ Selecci
 Situaci
 Saberlo
 Salvo
+Scanning
+Single
 La
 Las
 Lanz
