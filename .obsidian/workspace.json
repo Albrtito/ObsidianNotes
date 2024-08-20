@@ -45,9 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "74199e63a0f7fc68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240820 - 191156 - CIDR-notation for IPs.md"
+                "file": "02 - Atomic/20240701 - 181920 - Nmap.md"
               }
             }
           },
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240820 - 191156 - CIDR-notation for IPs.md",
+                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240820 - 191156 - CIDR-notation for IPs.md",
+                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240820 - 191156 - CIDR-notation for IPs.md",
+                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,7 +279,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,11 +299,12 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "ea07003e0d1339d5",
+  "active": "8aca27b8a28c8ce3",
   "lastOpenFiles": [
-    "02 - Atomic/20240820 - 191156 - CIDR-notation for IPs.md",
-    "02 - Atomic/20240701 - 181920 - Nmap.md",
     "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
+    "02 - Atomic/20240701 - 181920 - Nmap.md",
+    "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
+    "02 - Atomic/20240820 - 191156 - CIDR-notation for IPs.md",
     "02 - Atomic/20240706 - 172609 - LOPIVI.md",
     "02 - Atomic/20240706 - 215721 -.md",
     "02 - Atomic/20240701 - 180716 - Network enumeration with Nmap.md",
@@ -316,7 +330,6 @@
     "02 - Atomic/20240614 - 123442 - Theorem - Continuity theorems.md",
     "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
     "02 - Atomic/20240620 - 174329 - Integration in one variable.md",
-    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
     "BMO",

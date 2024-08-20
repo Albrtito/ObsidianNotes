@@ -12,6 +12,12 @@ Notation used to define ranges or groups of ip addresses.
 ## Basics: 
 The notation goes in the following way: 
 ``` Shell
-192.168.0.0/<32-
-
+192.168.0.0/<0-32>
 ```
+
+This means: Take a number of ip addresses, starting with `192.168.0.`, equal to 32-<number> being <number> the number specified after the bar. 
+
+**Let’s say we have `192.168.0.1/28`:**
+Number of ip address = 2 ^ (32–28), which is 2 ^ 4 = 16
+**The ip addresses are thus 192.168.0.0, 192.168.0.1, 192.168.0.2 … 192.168.0.15**
+
