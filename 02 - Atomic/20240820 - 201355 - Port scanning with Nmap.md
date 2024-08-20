@@ -22,4 +22,16 @@ As explained in the basic Nmap page, when Nmap scans a port it filters it as one
 4. **unfiltered**: Responsive port, however cannot tell if open or closed
 5. **open|filtered** or **closed|filtered**: Cannot determine between the two states
 ## Scan types:
-Nmap uses by default **SYN scan** over the top 100 TCP ports. 
+Nmap uses by default [[20240820 - 202516 - SYN scan|SYN scan]] over the top 1000 TCP ports. However the scan needs root privileged, without it the TCP scan will be performed.
+
+Specifying scan types: 
++ `-sS` : **SYN scan**
++ `-sT`: **TCP scan**
+
+### Defining ports: 
+Some useful flags for port definition: 
++ **List of target ports:** `-p <portNum>, <portNum>, ...`
++ **Port range:** `-p <portNum>-<portNum>`
++ **Use top ports:**(Defined by the Nmap database) `--top-ports=#` 
++ **All ports:** `-p-`
++ **Fast port scan:** (top 100 ports) `-F-` 
