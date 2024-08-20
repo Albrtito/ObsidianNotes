@@ -32,6 +32,6 @@ Specifying scan types:
 Some useful flags for port definition: 
 + **List of target ports:** `-p <portNum>, <portNum>, ...`
 + **Port range:** `-p <portNum>-<portNum>`
-+ **Use top ports:**(Defined by the Nmap database) `--top-ports=#` 
++ **Use top ports:**(Defined by the Nmap database) `--top-ports= <number>` 
 + **All ports:** `-p-`
 + **Fast port scan:** (top 100 ports) `-F-` 
