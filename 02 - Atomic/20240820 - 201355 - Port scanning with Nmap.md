@@ -28,6 +28,20 @@ Specifying scan types:
 + `-sS` : **SYN scan**
 + `-sT`: **TCP scan**
 
+### SYN scan: 
+If we ask for the package trace we will see that each SYN scan is composed of request and responses with the following structure: 
+
+**REQUEST (example):**
+```shell
+SENT (0.0429s) TCP 10.10.14.2:63090 > 10.129.2.28:21 S ttl=56 id=57322 iplen=44  seq=1699105818 win=1024 <mss 1460>
+```
++ TCP: Used protocol
++ **10.10.14.2:63090 > 10.129.2.28:21**: IPv4 addresses and their respective ports from which the packets are being send 
+**RESPONSE (example): **
+```shell
+RCVD (0.0573s) TCP 10.129.2.28:21 > 10.10.14.2:63090 RA ttl=64 id=0 iplen=40  seq=0 win=0
+```
+
 ### Defining ports: 
 Some useful flags for port definition: 
 + **List of target ports:** `-p <portNum>, <portNum>, ...`
