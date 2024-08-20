@@ -62,4 +62,11 @@ Some useful flags for port definition:
 + **Use top ports:**(Defined by the Nmap database) `--top-ports= <number>` 
 + **All ports:** `-p-`
 + **Fast port scan:** (top 100 ports) `-F-` 
-## Filte
+## Filtered ports: 
+Filtered ports are those that cannot be properly scanned, **nmap does not know what to do.** 
+This status can be set by either two things: 
+1. The packet has been **dropped**
+2. The packet has been **rejected**
+
++ packet is dropped = **scan is longer**
++ packet is rejected = **look at the package trace for an unreachable port (ICMP error code)**
