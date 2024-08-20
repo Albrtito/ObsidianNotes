@@ -31,3 +31,8 @@ First use a basic scan to know if it is active:
 ```shell
 sudo nmap <targetIP> -sn -oA host 
 ```
+
+**Then:**
++ To force the scan with ICMP: `-PE` and `--disable-arp-ping` 
+
+Once we find if the target is alive we can proceed to perform a port scan: [[20240820 - 201355 - Port scanning with Nmap|Port scanning with Nmap]]
