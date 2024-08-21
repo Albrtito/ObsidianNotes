@@ -14,4 +14,7 @@ Nmap saves the results in 3 different formats:
 + `.xml` extension: flag `-oX`
 
 The **xml** can be converted to html for better readability using the `xsltproc` tool: 
+```shell
+xsltproc target.xml -o target.html
+```
 
