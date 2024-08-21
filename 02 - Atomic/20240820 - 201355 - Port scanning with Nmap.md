@@ -28,6 +28,7 @@ Specifying scan types:
 + `-sS` : **SYN scan**
 + `-sT`: **TCP scan**
 
+Scans can take time, instead of just taking the output in the terminal is a good practice to save the information provided by the scans: [[20240821 - 151931 - Saving Nmap scan results|Saving Nmap scan results]]
 ### SYN scan: 
 If we ask for the package trace we will see that each SYN scan is composed of request and responses with the following structure: 
 
