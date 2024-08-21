@@ -54,7 +54,12 @@ Same as the request, however here we can see two different flags for the RST pac
 	+ More polite 
 	+ Does not disturb services running on the network
 + **Slower** → Needs to wait for the target to answer
-
+### UDP scan: 
++ Use the `-sU` flag
++ Much slower than the -sS
+### Version scan: 
+Scan versions, service names and details about the target. 
++ Use the `-
 ## Defining ports: 
 Some useful flags for port definition: 
 + **List of target ports:** `-p <portNum>, <portNum>, ...`
