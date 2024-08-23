@@ -17,4 +17,3 @@ The **xml** can be converted to html for better readability using the `xsltproc`
 ```shell
 xsltproc target.xml -o target.html
 ```
-
