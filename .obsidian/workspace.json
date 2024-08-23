@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "74199e63a0f7fc68",
+            "id": "98c1ee340bbdcbfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02 - Atomic/20240820 - 201355 - Port scanning with Nmap.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20f860aa42a0cac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240823 - 131904 - Service enumeration with nmap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -163,14 +150,15 @@
             }
           },
           {
-            "id": "9c174705baacdc09",
+            "id": "95384299c72a5731",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "760b9d5497fedc0d",
@@ -285,11 +273,11 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "74199e63a0f7fc68",
+  "active": "98c1ee340bbdcbfc",
   "lastOpenFiles": [
+    "02 - Atomic/20240701 - 181920 - Nmap.md",
     "02 - Atomic/20240823 - 131904 - Service enumeration with nmap.md",
     "02 - Atomic/20240820 - 201355 - Port scanning with Nmap.md",
-    "02 - Atomic/20240701 - 181920 - Nmap.md",
     "02 - Atomic/20240821 - 151931 - Saving Nmap scan results.md",
     "02 - Atomic/20240820 - 202516 - SYN scan.md",
     "02 - Atomic/20240702 - 132355 - Host discovery with Nmap.md",
