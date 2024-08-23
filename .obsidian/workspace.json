@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "a90c3d15a38983cf",
+            "id": "20f860aa42a0cac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/20240821 - 151931 - Saving Nmap scan results.md",
+                "file": "02 - Atomic/20240823 - 131904 - Service enumeration with nmap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240821 - 151931 - Saving Nmap scan results.md"
+                "file": "02 - Atomic/20240823 - 131904 - Service enumeration with nmap.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240821 - 151931 - Saving Nmap scan results.md",
+                "file": "02 - Atomic/20240823 - 131904 - Service enumeration with nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,14 +156,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240821 - 151931 - Saving Nmap scan results.md",
+                "file": "02 - Atomic/20240823 - 131904 - Service enumeration with nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7025800e5cad7a38",
+            "id": "9c174705baacdc09",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240821 - 151931 - Saving Nmap scan results.md",
+                "file": "02 - Atomic/20240823 - 131904 - Service enumeration with nmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -285,9 +285,10 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "a90c3d15a38983cf",
+  "active": "20f860aa42a0cac1",
   "lastOpenFiles": [
     "02 - Atomic/20240820 - 201355 - Port scanning with Nmap.md",
+    "02 - Atomic/20240823 - 131904 - Service enumeration with nmap.md",
     "02 - Atomic/20240701 - 181920 - Nmap.md",
     "02 - Atomic/20240821 - 151931 - Saving Nmap scan results.md",
     "02 - Atomic/20240820 - 202516 - SYN scan.md",
@@ -315,7 +316,6 @@
     "99 - Meta/1. Templates/NoteTemplate.md",
     "02 - Atomic/20240627 - 154942 -.md",
     "00.References/UC3M_Resources_Calendario2425.pdf",
-    "02 - Atomic/Convolution product.md",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
     "BMO",
