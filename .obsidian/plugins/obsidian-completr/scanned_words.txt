@@ -54175,6 +54175,7 @@ scanning
 synchronizatoin
 stealthier
 saves
+shell
 No
 NOTE
 Normalmente
@@ -98080,6 +98081,7 @@ grave
 gracias
 generada
 grepable
+gnmap
 junio
 julio
 journaling
@@ -113158,6 +113160,7 @@ xdo
 xpH
 xiB
 ximo
+xsltproc
 XObject
 XR
 Xy

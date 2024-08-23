@@ -77,3 +77,11 @@ This status can be set by either two things:
 
 + packet is dropped = **scan is longer**
 + packet is rejected = **look at the package trace for an unreachable port (ICMP error code)**
+
+## Scan status and optimisation
+Scans can take a long time, to see the status of the scan there are several methods: 
++ Press space bar to see the status at that exact moment
++ Use the `--stats-every=<number>s|m` flag to show stats every some number of seconds|minutes
+
+For optimising the scans I have found the following command base: 
+
