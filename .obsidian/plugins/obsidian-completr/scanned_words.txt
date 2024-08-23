@@ -2307,6 +2307,7 @@ tranquila
 terminada
 targets
 throughout
+traceroute
 dailyNote
 day
 during
@@ -9494,6 +9495,7 @@ llevar
 llegado
 leeros
 likely
+looks
 First
 Fechas
 Familias
@@ -54185,6 +54187,7 @@ stats
 seconds
 stealth
 sent
+script
 No
 NOTE
 Normalmente
@@ -93911,6 +93914,7 @@ verificas
 verdad
 vais
 verbose
+vuln
 que
 quieren
 quedo
