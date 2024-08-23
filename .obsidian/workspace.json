@@ -252,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,7 +272,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "1223c0f85c541969",
+  "active": "8aca27b8a28c8ce3",
   "lastOpenFiles": [
     "02 - Atomic/20240820 - 201355 - Port scanning with Nmap.md",
     "02 - Atomic/20240701 - 181920 - Nmap.md",
