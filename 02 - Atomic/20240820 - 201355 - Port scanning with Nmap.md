@@ -82,6 +82,18 @@ This status can be set by either two things:
 Scans can take a long time, to see the status of the scan there are several methods: 
 + Press space bar to see the status at that exact moment
 + Use the `--stats-every=<number>s|m` flag to show stats every some number of seconds|minutes
++ Use the verbose options
+	+ `-v` : Level 1
+	+ `-vv`: Level 2
 
 For optimising the scans I have found the following command base: 
+**Performing an stealth and version scan**
+```shell
+nmap <IP> -sS -sV -min-rate=2000 -nv -Pn
+```
++ **-sS**: Stealth scan
++ **-sV**: Version scan
++ **min-rate=2000**: Min # of packages sent
++ **-nv**: Two flags, n: no DNS resolution, v: verbose output
++ **-Pn**: Not using ICMP Echo request. 
 

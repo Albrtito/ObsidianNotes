@@ -13894,6 +13894,7 @@ force
 filters
 flags
 formats
+founded
 Woke
 Write
 Went
@@ -43058,6 +43059,7 @@ educanda
 escribamos
 establecer
 explica
+exploits
 Instagram
 IRIS
 Intendencia
@@ -51679,6 +51681,8 @@ PERSONAS
 PUEDE
 PELIGROSA
 Port
+Press
+Performing
 something
 start
 st
@@ -54176,6 +54180,10 @@ synchronizatoin
 stealthier
 saves
 shell
+stats
+seconds
+stealth
+sent
 No
 NOTE
 Normalmente
@@ -58668,6 +58676,7 @@ packets
 package
 protocol
 polite
+ping
 UC
 UNIDADES
 Unidades
@@ -67731,6 +67740,8 @@ ocurran
 obstante
 opiniones
 option
+optimisation
+optimising
 References
 RRI
 RUTAS
@@ -72433,6 +72444,7 @@ medida
 mucha
 melo
 meterse
+minutes
 YYYY
 YYYYMMDD
 YU
@@ -87538,6 +87550,7 @@ Specifying
 Slower
 Saving
 Scans
+Stealth
 La
 Las
 Lanz
@@ -93896,6 +93909,7 @@ violento
 verificas
 verdad
 vais
+verbose
 que
 quieren
 quedo
