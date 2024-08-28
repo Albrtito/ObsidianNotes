@@ -32,17 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e8aa41f933cd42c5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/20240701 - 181920 - Nmap.md"
+              }
             }
           },
           {
@@ -132,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,6 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -276,7 +273,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "e8aa41f933cd42c5",
+  "active": "c4ead0faab0f5f98",
   "lastOpenFiles": [
     "02 - Atomic/20240701 - 181920 - Nmap.md",
     "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
