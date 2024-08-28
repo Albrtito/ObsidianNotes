@@ -2308,6 +2308,8 @@ terminada
 targets
 throughout
 traceroute
+timeout
+timing
 dailyNote
 day
 during
@@ -9496,6 +9498,7 @@ llegado
 leeros
 likely
 looks
+latest
 First
 Fechas
 Familias
@@ -29718,6 +29721,7 @@ TROPA
 Tropa
 TAMBI
 Target
+Timing
 Movement
 MM
 MMMM
@@ -34312,6 +34316,7 @@ resolve
 responses
 rejected
 readability
+retries
 here
 hour
 home
@@ -54189,6 +54194,7 @@ stealth
 sent
 script
 somefootnote
+sneaky
 No
 NOTE
 Normalmente
@@ -65598,6 +65604,7 @@ alive
 acknowledgement
 acknowledged
 assumes
+aggressiveness
 of
 otro
 opciones
@@ -76734,6 +76741,7 @@ Debemos
 Derecho
 DECIRLES
 Defining
+Determining
 HH
 Highlight
 Hay
