@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [<%+ let userTitle = await tp.system.prompt("Enter the text to append to the current title:");%>]
 tags:
   - review
 "References:": 
@@ -19,23 +19,6 @@ if (userTitle) {
 } else {
     await tp.file.rename(currentTitle + " - Untitled Suffix");
 }
-
-// Prompt the user to enter a custom alias
-let customAlias = userTitle;
-if (customAlias) {
-    // Get the current aliases from the frontmatter (if any)
-    let aliases = tp.frontmatter['aliases'] || [];
-
-    // Add the new alias to the aliases array
-    aliases.push(customAlias);
-
-    await tp.frontmatter.update("aliases", aliases);
-    } else {
-        // Optional: Handle the case where no alias was provided
-        new Notice("No alias was provided. The alias will not be updated.");
-    }
 %>
-
-# <% tp.file.title %>
-
+# <% userTitle %>
 
