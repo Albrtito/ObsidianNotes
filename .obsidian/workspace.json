@@ -145,14 +145,15 @@
             }
           },
           {
-            "id": "95384299c72a5731",
+            "id": "1d26da89fc663237",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "760b9d5497fedc0d",
@@ -248,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,8 +268,10 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "c4ead0faab0f5f98",
+  "active": "1d26da89fc663237",
   "lastOpenFiles": [
+    "02 - Atomic/20240901 - 231634 -.md",
+    "99 - Meta/1. Templates/NoteTemplate.md",
     "02 - Atomic/20240701 - 181920 - Nmap.md",
     "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
     "02 - Atomic/20240820 - 201355 - Port scanning with Nmap.md",
@@ -296,8 +298,6 @@
     "01.Areas/0.DailyNote/2024-06-24.md",
     "01.Areas/0.DailyNote/2024-06-28.md",
     "01.Areas/0.DailyNote/2024-06-29.md",
-    "02 - Atomic/20240627 - 154831 - Loredo Jun24.md",
-    "99 - Meta/1. Templates/NoteTemplate.md",
     "00.References/UC3M_Resources_Calendario2425.pdf",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
