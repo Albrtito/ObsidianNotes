@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/3.Matterhorn/Caleao 24.md",
+                "file": "99 - Meta/1. Templates/NoteTemplate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/3.Matterhorn/Caleao 24.md"
+                "file": "99 - Meta/1. Templates/NoteTemplate.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/3.Matterhorn/Caleao 24.md",
+                "file": "99 - Meta/1. Templates/NoteTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/3.Matterhorn/Caleao 24.md",
+                "file": "99 - Meta/1. Templates/NoteTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/3.Matterhorn/Caleao 24.md",
+                "file": "99 - Meta/1. Templates/NoteTemplate.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,11 +267,12 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "752fa6e79c953f3c",
+  "active": "c4ead0faab0f5f98",
   "lastOpenFiles": [
+    "99 - Meta/1. Templates/command.md",
+    "01.Areas/3.Matterhorn/Caleao 24.md",
     "02 - Atomic/1725225461-CPLT.md",
     "2024-09-01.md",
-    "01.Areas/3.Matterhorn/Caleao 24.md",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "BMO/Profiles/BMO.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
@@ -297,7 +298,6 @@
     "02 - Atomic/sudo.md",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/0.DailyNote/2024-07-01.md",
-    "99 - Meta/1. Templates/dailyNote.md",
     "00.References/UC3M_Resources_Calendario2425.pdf",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
