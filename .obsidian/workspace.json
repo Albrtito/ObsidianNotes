@@ -27,22 +27,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2de879bba69c5ab2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1725228629 -.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1725228629 -.md"
+                "file": "99 - Meta/1. Templates/NoteTemplate.md"
               }
             }
           },
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1725228629 -.md",
+                "file": "99 - Meta/1. Templates/NoteTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,14 +137,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1725228629 -.md",
+                "file": "99 - Meta/1. Templates/NoteTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4a9935db5109ca8d",
+            "id": "058c039cf8fc47a5",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -178,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1725228629 -.md",
+                "file": "99 - Meta/1. Templates/NoteTemplate.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -280,10 +267,18 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "2de879bba69c5ab2",
+  "active": "c4ead0faab0f5f98",
   "lastOpenFiles": [
-    "02 - Atomic/1725228629 -.md",
+    "02 - Atomic/1725229167 - SOme title.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
+    "02 - Atomic/1725229152 -.md",
+    "02 - Atomic/1725229055 - SOme title.md",
+    "02 - Atomic/1725228916 -.md",
+    "02 - Atomic/1725228872 - Some text.md",
+    "02 - Atomic/1725228845 - SOme text.md",
+    "02 - Atomic/1725228765 - Some title.md",
+    "02 - Atomic/1725228663 - New file.md",
+    "02 - Atomic/1725228629 - Some title.md",
     "02 - Atomic/1725228458 - Title.md",
     "02 - Atomic/1725228384 - Some note.md",
     "02 - Atomic/1725228359 -.md",
@@ -300,14 +295,6 @@
     "02 - Atomic/1725227630 - SOme note.md",
     "02 - Atomic/1725227392 - Some title.md",
     "02 - Atomic/1725227315 - Some Note.md",
-    "02 - Atomic/1725227125 - SOme title.md",
-    "02 - Atomic/1725227108 - Some title.md",
-    "02 - Atomic/1725227040 -  Some title.md",
-    "02 - Atomic/Some note.md",
-    "02 - Atomic/1725226850 - Title.md",
-    "99 - Meta/1. Templates/command.md",
-    "01.Areas/3.Matterhorn/Caleao 24.md",
-    "02 - Atomic/1725225461-CPLT.md",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "99 - Meta/0. Attachments/Diagrama3 (1).png",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",

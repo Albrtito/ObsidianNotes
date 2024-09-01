@@ -1,13 +1,13 @@
 ---
 aliases:
-  - <%+ tp.file.title %>
+  - 
 tags:
   - review
 "References:": 
 cssclasses:
 ---
 <%* 
-let userTitle = await tp.system.prompt("Enter the text to append to the current title:");
+let userTitle = await tp.system.prompt("Enter title");
 // Prompt the user for a title to append
 // Get the current file title
 let currentTitle = tp.file.title;
@@ -19,6 +19,17 @@ if (userTitle) {
 } else {
     await tp.file.rename(currentTitle + " - Untitled Suffix");
 }
+let frontmatterTitle = userTitle || "Untitled";
+
+let frontmatter = 
+`
+--- 
+aliases: 
+	- ${frontmatterTitle} 
+tags: 
+	- review 
+"References:": 
+cssclasses: --- `;
 %>
 # <% userTitle %>
 
