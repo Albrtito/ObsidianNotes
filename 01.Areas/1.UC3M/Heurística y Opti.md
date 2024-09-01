@@ -1,0 +1,6 @@
+---
+tags:
+  - HyO
+aliases:
+  - HyO
+---

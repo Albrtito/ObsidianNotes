@@ -17,7 +17,7 @@
     "messageContainerBackgroundColor": "--background-secondary",
     "userMessageFontColor": "--text-normal",
     "userMessageBackgroundColor": "--background-primary",
-    "botMessageFontColor": "--text-normal",
+    "botMessageFontColor": "#fcfcfc",
     "botMessageBackgroundColor": "--background-secondary",
     "chatBoxFontColor": "--text-normal",
     "chatBoxBackgroundColor": "--interactive-accent",

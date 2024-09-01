@@ -1,8 +1,8 @@
 {
   "accentColor": "#8a5fec",
-  "cssTheme": "Sanctum",
+  "cssTheme": "Prism",
   "translucency": false,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 25,
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "textFontFamily": "Iosevka Nerd Font",

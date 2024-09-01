@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Untitled.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Untitled.md"
+                "file": "01.Areas/1.UC3M/Cripto.md"
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Untitled.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,14 +128,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Untitled.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "efe88d7562ba7001",
+            "id": "45cd58c1cbb85d60",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -156,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Untitled.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,8 +260,15 @@
   },
   "active": "8aca27b8a28c8ce3",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Redes.md",
+    "01.Areas/1.UC3M/Logic.md",
+    "02 - Atomic/20240523 - 122919 - Propositional logic.md",
+    "01.Areas/1.UC3M/Empresa.md",
+    "01.Areas/1.UC3M/Heurística y Opti.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "01.Areas/1.UC3M/DiffCalc.md",
+    "02 - Atomic/1725231651 - - Untitled Suffix.md",
     "99 - Meta/1. Templates/command.md",
-    "01.Areas/1.UC3M/Untitled.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
     "02 - Atomic/1725231555 - Some file.md",
     "02 - Atomic/1725231534 - Some file.md",
@@ -279,13 +286,6 @@
     "02 - Atomic/1725231010 - Some note.md",
     "02 - Atomic/1725230889 - New note.md",
     "02 - Atomic/1725230847 - Some file .md",
-    "02 - Atomic/1725230757 - somenote.md",
-    "02 - Atomic/1725230742 - Some note.md",
-    "02 - Atomic/1725230575 - SOme new note.md",
-    "02 - Atomic/1725230440 - New note.md",
-    "02 - Atomic/1725230393 - New title.md",
-    "02 - Atomic/1725230295 -.md",
-    "02 - Atomic/1725230283 -.md",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "99 - Meta/0. Attachments/Diagrama3 (1).png",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",

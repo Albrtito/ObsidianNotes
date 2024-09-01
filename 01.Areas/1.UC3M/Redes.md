@@ -1,0 +1,6 @@
+---
+tags:
+  - redes
+aliases:
+---
+# Redes
