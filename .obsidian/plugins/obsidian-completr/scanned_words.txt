@@ -2315,6 +2315,8 @@ tagsInput
 tagsArray
 tag
 trim
+tagArray
+tagOptions
 dailyNote
 day
 during
@@ -9514,6 +9516,7 @@ likely
 looks
 latest
 llama
+listFiles
 First
 Fechas
 Familias
@@ -11672,6 +11675,7 @@ FhH
 Finalizar
 Fomentar
 Filtered
+Fetch
 first
 from
 file
@@ -13917,6 +13921,7 @@ formats
 founded
 frontmatter
 frontmatterTitle
+forEach
 Woke
 Write
 Went
@@ -18585,6 +18590,7 @@ unfiltered
 unfinished
 unreachable
 userTitle
+userTags
 in
 is
 important
@@ -43094,6 +43100,7 @@ establecer
 explica
 exploits
 enable
+extractTags
 Instagram
 IRIS
 Intendencia
@@ -54225,6 +54232,7 @@ script
 somefootnote
 sneaky
 seed
+substring
 No
 NOTE
 Normalmente
@@ -65648,6 +65656,8 @@ await
 additional
 append
 alias
+async
+allTags
 of
 otro
 opciones
@@ -83275,6 +83285,7 @@ Comma
 Connect
 CPLT
 Created
+Convert
 your
 ya
 yo
@@ -93975,6 +93986,7 @@ verdad
 vais
 verbose
 vuln
+vault
 que
 quieren
 quedo
