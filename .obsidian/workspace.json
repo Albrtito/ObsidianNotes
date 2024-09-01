@@ -29,15 +29,20 @@
             }
           },
           {
-            "id": "7316c7016acf2fff",
+            "id": "2de879bba69c5ab2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1725228629 -.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md"
+                "file": "02 - Atomic/1725228629 -.md"
               }
             }
           },
@@ -128,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "file": "02 - Atomic/1725228629 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,14 +150,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "file": "02 - Atomic/1725228629 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4015224bdf33c04a",
+            "id": "4a9935db5109ca8d",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -173,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "file": "02 - Atomic/1725228629 -.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -275,10 +280,19 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "c4ead0faab0f5f98",
+  "active": "2de879bba69c5ab2",
   "lastOpenFiles": [
-    "02 - Atomic/1725227935 - Some title.md",
+    "02 - Atomic/1725228629 -.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
+    "02 - Atomic/1725228458 - Title.md",
+    "02 - Atomic/1725228384 - Some note.md",
+    "02 - Atomic/1725228359 -.md",
+    "02 - Atomic/1725228206 -.md",
+    "02 - Atomic/1725228171 -.md",
+    "02 - Atomic/1725228137 -.md",
+    "02 - Atomic/1725228107 -.md",
+    "02 - Atomic/1725228041 -.md",
+    "02 - Atomic/1725227935 - Some title.md",
     "02 - Atomic/1725227892 - Some title.md",
     "02 - Atomic/1725227883 -.md",
     "02 - Atomic/1725227849 - Some Title.md",
@@ -294,16 +308,7 @@
     "99 - Meta/1. Templates/command.md",
     "01.Areas/3.Matterhorn/Caleao 24.md",
     "02 - Atomic/1725225461-CPLT.md",
-    "2024-09-01.md",
     "01.Areas/3.Matterhorn/Tatto.canvas",
-    "BMO/Profiles/BMO.md",
-    "02 - Atomic/20240901 - 231634 -.md",
-    "02 - Atomic/20240701 - 181920 - Nmap.md",
-    "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
-    "02 - Atomic/20240820 - 201355 - Port scanning with Nmap.md",
-    "02 - Atomic/20240823 - 131904 - Service enumeration with nmap.md",
-    "02 - Atomic/20240821 - 151931 - Saving Nmap scan results.md",
-    "02 - Atomic/20240820 - 202516 - SYN scan.md",
     "99 - Meta/0. Attachments/Diagrama3 (1).png",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "00.References/UC3M_Resources_Calendario2425.pdf",
