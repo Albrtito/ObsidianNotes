@@ -144,7 +144,7 @@
             }
           },
           {
-            "id": "058c039cf8fc47a5",
+            "id": "3a1a7e055270e9c1",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -267,10 +267,16 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "c4ead0faab0f5f98",
+  "active": "3a1a7e055270e9c1",
   "lastOpenFiles": [
-    "02 - Atomic/1725229167 - SOme title.md",
+    "02 - Atomic/1725229799 -.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
+    "02 - Atomic/1725229701 -;.md",
+    "02 - Atomic/1725229656 - New file.md",
+    "02 - Atomic/1725229567 - New file.md",
+    "02 - Atomic/1725229321 - some title.md",
+    "02 - Atomic/1725229286 - Some title.md",
+    "02 - Atomic/1725229167 - SOme title.md",
     "02 - Atomic/1725229152 -.md",
     "02 - Atomic/1725229055 - SOme title.md",
     "02 - Atomic/1725228916 -.md",
@@ -289,12 +295,6 @@
     "02 - Atomic/1725228041 -.md",
     "02 - Atomic/1725227935 - Some title.md",
     "02 - Atomic/1725227892 - Some title.md",
-    "02 - Atomic/1725227883 -.md",
-    "02 - Atomic/1725227849 - Some Title.md",
-    "02 - Atomic/1725227835 -.md",
-    "02 - Atomic/1725227630 - SOme note.md",
-    "02 - Atomic/1725227392 - Some title.md",
-    "02 - Atomic/1725227315 - Some Note.md",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "99 - Meta/0. Attachments/Diagrama3 (1).png",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",

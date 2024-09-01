@@ -7262,6 +7262,7 @@ ctx
 currentTitle
 custom
 customAlias
+cursor
 lifeOS
 liking
 las
