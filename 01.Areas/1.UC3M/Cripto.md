@@ -6,5 +6,21 @@ tags:
 
 + Grupo 85
 	+ Magistrales: 85-84
-+ 
++ **Coordinador/a:** GONZALEZ-TABLAS FERRERES, ANA ISABEL
++ Profesor: Pablo Martín Gonzalez 
 
+## Evaluación: 
+- Final: 40
+	- Nota mínima de 4/10
+- Continua: 60
+	- Trabajos a entregar en semanas 8,9,12-13,14-15
+	- Desglose: 
+		- 40%: Trabajo práctico
+		- 10%: Examen parcial 
+		- 10%: Presentación del trabajo 
+## Bibliografía: 
+- A.I. González-Tablas Ferreres y P. Martín González. Recopilación de problemas de examen 2010-2015. Criptografía y Seguridad Informática. CopyRed. 2016
+- C. Paar. Understanding Cryptography: A Textbook for Students and Practitioners. Springer-Verlag. 2014
+- J. PASTOR; M.A. SARASA; J.L. SALAZAR. CRIPTOGRAFÍA DIGITAL. FUNDAMENTOS Y APLICACIONES. (2ª EDICIÓN). PRENSAS UNIVERSITARIAS DE ZARAGOZA.
+- Jean-Philippe Aumasson . Serious Cryptography: A Practical Introduction to Modern Encryption . Random House LCC US .
+- W. STALLINGS. CRYPTOGRAPHY AND NETWORK SECURITY. (5ª EDICIÓN). PRENTICE HALL.
