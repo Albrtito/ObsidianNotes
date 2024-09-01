@@ -19,8 +19,13 @@
             "id": "c4ead0faab0f5f98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -106,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240701 - 181920 - Nmap.md"
+                "file": "99 - Meta/1. Templates/NoteTemplate.md"
               }
             }
           },
@@ -116,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
+                "file": "99 - Meta/1. Templates/NoteTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
+                "file": "99 - Meta/1. Templates/NoteTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240701 - 181920 - Nmap.md",
+                "file": "99 - Meta/1. Templates/NoteTemplate.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
