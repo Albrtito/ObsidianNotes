@@ -15,7 +15,7 @@
 		{"id":"cd84c0aa582c61d3","type":"file","file":"99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.08.27.png","x":-3440,"y":545,"width":756,"height":1057,"color":"1"},
 		{"id":"f6dc25a9584c2583","type":"file","file":"99 - Meta/0. Attachments/Pasted image 20240428173615.png","x":-3084,"y":2271,"width":400,"height":400},
 		{"id":"2bb148bc6bd3c3e8","type":"file","file":"99 - Meta/0. Attachments/Pasted image 20240428173636.png","x":-2817,"y":-458,"width":805,"height":585},
-		{"id":"9aac044df12f5daf","x":-570,"y":695,"width":874,"height":1541,"type":"file","file":"99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.10.06.png"}
+		{"id":"9aac044df12f5daf","type":"file","file":"99 - Meta/0. Attachments/Screenshot 2024-04-28 at 18.10.06.png","x":-570,"y":695,"width":874,"height":1541}
 	],
 	"edges":[]
 }

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "file": "01.Areas/3.Matterhorn/Caleao 24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5041847229004,
-    "collapsed": true
+    "width": 313.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md"
+                "file": "01.Areas/3.Matterhorn/Caleao 24.md"
               }
             }
           },
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "file": "01.Areas/3.Matterhorn/Caleao 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,14 +137,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "file": "01.Areas/3.Matterhorn/Caleao 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1d26da89fc663237",
+            "id": "752fa6e79c953f3c",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -166,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "file": "01.Areas/3.Matterhorn/Caleao 24.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -268,10 +267,15 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "1d26da89fc663237",
+  "active": "752fa6e79c953f3c",
   "lastOpenFiles": [
-    "02 - Atomic/20240901 - 231634 -.md",
+    "02 - Atomic/1725225461-CPLT.md",
+    "2024-09-01.md",
+    "01.Areas/3.Matterhorn/Caleao 24.md",
+    "01.Areas/3.Matterhorn/Tatto.canvas",
+    "BMO/Profiles/BMO.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
+    "02 - Atomic/20240901 - 231634 -.md",
     "02 - Atomic/20240701 - 181920 - Nmap.md",
     "02 - Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
     "02 - Atomic/20240820 - 201355 - Port scanning with Nmap.md",
@@ -294,10 +298,6 @@
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/0.DailyNote/2024-07-01.md",
     "99 - Meta/1. Templates/dailyNote.md",
-    "01.Areas/0.DailyNote/2024-W27.md",
-    "01.Areas/0.DailyNote/2024-06-24.md",
-    "01.Areas/0.DailyNote/2024-06-28.md",
-    "01.Areas/0.DailyNote/2024-06-29.md",
     "00.References/UC3M_Resources_Calendario2425.pdf",
     "00.References/Calc_Theory_ImproperIntegrals.pdf",
     "BMO/Profiles",
@@ -318,7 +318,6 @@
     "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
     "99 - Meta/0. Attachments/Pasted image 20240605173722.png",
     "Differential Calculus.canvas",
-    "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/1.UC3M/Files and data bases.canvas",
     "01.Areas/1.UC3M/Discrete Math.canvas",
