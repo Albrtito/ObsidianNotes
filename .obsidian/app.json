@@ -17,5 +17,6 @@
   "propertiesInDocument": "visible",
   "spellcheck": true,
   "newLinkFormat": "shortest",
-  "livePreview": true
+  "livePreview": true,
+  "showInlineTitle": false
 }

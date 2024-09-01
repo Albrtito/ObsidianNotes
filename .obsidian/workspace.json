@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "file": "02 - Atomic/1725231010 - Some note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md"
+                "file": "02 - Atomic/1725231010 - Some note.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "file": "02 - Atomic/1725231010 - Some note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,14 +137,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "file": "02 - Atomic/1725231010 - Some note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8e041f8c56f65afb",
+            "id": "e675ca0b96db7595",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "file": "02 - Atomic/1725231010 - Some note.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,8 +269,15 @@
   },
   "active": "c4ead0faab0f5f98",
   "lastOpenFiles": [
-    "02 - Atomic/1725230393 - New title.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
+    "02 - Atomic/1725231010 - Some note.md",
+    "02 - Atomic/1725230889 - New note.md",
+    "02 - Atomic/1725230847 - Some file .md",
+    "02 - Atomic/1725230757 - somenote.md",
+    "02 - Atomic/1725230742 - Some note.md",
+    "02 - Atomic/1725230575 - SOme new note.md",
+    "02 - Atomic/1725230440 - New note.md",
+    "02 - Atomic/1725230393 - New title.md",
     "02 - Atomic/1725230295 -.md",
     "02 - Atomic/1725230283 -.md",
     "02 - Atomic/1725230261 - + ' ' SOme title.md",
@@ -288,13 +295,6 @@
     "02 - Atomic/1725229167 - SOme title.md",
     "02 - Atomic/1725229152 -.md",
     "02 - Atomic/1725229055 - SOme title.md",
-    "02 - Atomic/1725228916 -.md",
-    "02 - Atomic/1725228872 - Some text.md",
-    "02 - Atomic/1725228845 - SOme text.md",
-    "02 - Atomic/1725228765 - Some title.md",
-    "02 - Atomic/1725228663 - New file.md",
-    "02 - Atomic/1725228629 - Some title.md",
-    "02 - Atomic/1725228458 - Title.md",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "99 - Meta/0. Attachments/Diagrama3 (1).png",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
