@@ -12,6 +12,7 @@ aliases:
 + Grupo: 85
 	+ Magistrales: 84,85
 + Coordinador: Linares Lopez, Carlos
+	+ [GitHub](https://github.com/clinaresl?tab=repositories)
 + Profesor: 
 	+ Linares (Magistral)
 	+ Susana Fernandez
