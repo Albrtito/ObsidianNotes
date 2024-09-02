@@ -12,7 +12,8 @@ aliases:
 	+ 4.1.C06
 	+ francisco.valera@uc3m.es
 	+ [Página personal](https://www.it.uc3m.es/fvalera/indice.html)
-
++ Más profes: 
+	+ Marcelo Gabriel Bagnulo Braun
 ## Evaluación: 
 + Continua 70%
 	+ Semanas: 2,3,4,6,10,11,13,15 (Alternando test-prueba)
@@ -24,3 +25,24 @@ aliases:
 	+ **Sin notas mínimas**
 + Final 30%
 	+ **Sin nota mínima**
+## Bibliografía: 
+
+### Básica: 
+
+- KUROSE, JAMES F., Keith W. Ross. . Redes de Computadoras, un enfoque descendente. Octava edición.. Pearson. 2022
+
+![Recursos electrónicos](https://aplicaciones.uc3m.es/cpa/web/imagenes/ARROBA.gif)Recursos Electrónicos *
+#Duda : Como entrar a este recurso
+- Jame Kurose · Redes de Computadores (accesible desde dentro de la universidad) : [http://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=6752](http://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=6752)
+
+### Complementaria: 
+- COMER, DOUGLAS E. Internetworking with TCP/IP. Vol I: Principles Protocols, and Architecture. Fourth edition.. Prentice Hall.
+- STALLINGS, WILLIAM. Data and Computer Communications. Seventh edition. Prentice Hall International.
+- STEVENS,W.R.. TCP/IP illustrated. Vol 1. The protocols Addison. Wesley.
+- TANENBAUM, ANDREW S. Computer Networks. Fourth edition. Prentice Hall International.
+
+![Recursos electrónicos](https://aplicaciones.uc3m.es/cpa/web/imagenes/ARROBA.gif)Recursos Electrónicos *
+
+- Francisco Valera · Computer Networks Padlet : [https://padlet.com/fvalera/8njxmoxyj4qgck6d](https://padlet.com/fvalera/8njxmoxyj4qgck6d)
+
+## Notas: 
