@@ -13,7 +13,7 @@ aliases:
 	+ Magistrales: 84,85
 + Coordinador: Linares Lopez, Carlos
 + Profesor: 
-	+ Linares
+	+ Linares (Magistral)
 	+ Susana Fernandez
 ## Evaluación: 
 + Continua: 60%
@@ -26,7 +26,7 @@ aliases:
 	+ Nota mínima: 4/10
 
 ## Biblio: 
-- Hamdy A. Taha. Investigación de Operaciones. Pearson. 2004
+- Hamdy A. Taha. Investigación de Operaciones. Pearson. 2004: [[HyO_Biblio_Hamdy.pdf]]
 - Novo Sanjurjo, Vicent J. . Teoría de la Optimización. Universidad Nacional de Educación a Distancia. 1999
 - Novo Sanjurjo, Vicente J.. Optimización: casos prácticos. Universidad Nacional de Educación a Distancia. 2000
 - Sixto Ríos Insua. Investigación Operativa. Optimización. Centro de estudios Ramón Areces. 1988
