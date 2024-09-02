@@ -149,7 +149,7 @@
             }
           },
           {
-            "id": "45cd58c1cbb85d60",
+            "id": "67a0c77019ecb95d",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -272,8 +272,10 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "0fc54c7094320c25",
+  "active": "67a0c77019ecb95d",
   "lastOpenFiles": [
+    "00.References/Redes_Biblio_Kurose.pdf",
+    "00.References/redes-de-computadoras-un-enfoque-descendente_compress.pdf",
     "01.Areas/1.UC3M/Cripto.md",
     "01.Areas/1.UC3M/Calculus I.md",
     "01.Areas/1.UC3M/Redes.md",
@@ -299,7 +301,6 @@
     "02 - Atomic/1725231100 - text.md",
     "02 - Atomic/1725231075 - Some note.md",
     "02 - Atomic/1725231010 - Some note.md",
-    "02 - Atomic/1725230889 - New note.md",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "99 - Meta/0. Attachments/Diagrama3 (1).png",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
@@ -315,7 +316,6 @@
     "99 - Meta/0. Attachments/Pasted image 20240620145246.png",
     "02 - Atomic/test.pdf",
     "00.References/Calc_Exercises_LimitsContinuicity.pdf",
-    "00.References/Calc_Theory_DerivativeMeaning.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240616140604.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205834.png",
