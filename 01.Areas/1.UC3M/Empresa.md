@@ -8,7 +8,8 @@ tags:
 + Coordinadora: Carmen Paz Aparicio
 + Profesora: María Castañar Sanchez García
 	+ mariacastanar.sanchez@uc3m.es
-	+ 
+	+ 1.3.A06
+
 ## Evaluación
 + Continua: 40%
 + Examen final: 60%
