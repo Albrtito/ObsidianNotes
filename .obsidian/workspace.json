@@ -149,7 +149,7 @@
             }
           },
           {
-            "id": "67a0c77019ecb95d",
+            "id": "bda930323b1e8fdf",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -272,7 +272,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "0fc54c7094320c25",
+  "active": "bda930323b1e8fdf",
   "lastOpenFiles": [
     "00.References/HyO_Biblio_Hamdy.pdf",
     "01.Areas/1.UC3M/Empresa.md",
