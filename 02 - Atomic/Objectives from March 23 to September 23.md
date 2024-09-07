@@ -127,13 +127,13 @@ Trabajar en que mi cuerpo vuelva a acostumbrarse a un horario.
 Enfocarse en el campamento: Creación de actividades y materiales para el campamento. 
 ### 3.1.1: Finalizar actividades del dosier
 Finalizar con las 3 actividades que faltan por poner: 
-- [ ] Actividad con el clan 
+- [x] Actividad con el clan 
 - [ ] Actividad de agua
-- [ ] Actividad de cuaderno
-- [ ] Escribir actividad transversal
+- [x] Actividad de cuaderno
+- [x] Escribir actividad transversal
 ### 3.1.2: Día con la seeonee y preparación del material. 
-- [ ] Realizar un día de viejas lobas en el que preparemos material 
-- [ ] Finalizar el material de la actividad transversal
+- [x] Realizar un día de viejas lobas en el que preparemos material 
+- [x] Finalizar el material de la actividad transversal
 - [ ] Preparar el material de la actividad de agua
 
 ## 4.1: Learning: Maintain knowledge

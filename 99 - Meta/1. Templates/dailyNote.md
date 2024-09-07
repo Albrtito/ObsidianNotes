@@ -2,10 +2,9 @@
 date: <%tp.date.now("YYYY-MM-DD")%>T<%tp.date.now("HH:mm")%>
 tags:
   - dailyNote
-check(1-5): []
 cssclasses:
   - daily
- <% "- " + tp.date.now("dddd", 0, tp.file.title, "YYYYMMDD").toLowerCase() %>
+  - monday
 ---
 
 # DAILY NOTE
@@ -13,9 +12,8 @@ cssclasses:
 
 ***
 ### Journal
-#### TIME
-Customize this template to your liking!
-...
+#### TIME: <%tp.date.now("HH:mm")%>
+
 ***
 ## Today’s [Objectives](Objectives%20from%20March%2023%20to%20September%2023%20)
 
