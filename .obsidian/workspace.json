@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Heurística y Opti.md",
+                "file": "01.Areas/1.UC3M/Redes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Heurística y Opti.md"
+                "file": "01.Areas/1.UC3M/Redes.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Heurística y Opti.md",
+                "file": "01.Areas/1.UC3M/Redes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Heurística y Opti.md",
+                "file": "01.Areas/1.UC3M/Redes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Heurística y Opti.md",
+                "file": "01.Areas/1.UC3M/Redes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,8 +271,9 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "1223c0f85c541969",
+  "active": "0fc54c7094320c25",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Heurística y Opti.md",
     "00.References/HyO_Biblio_Hamdy.pdf",
     "01.Areas/1.UC3M/Empresa.md",
     "01.Areas/1.UC3M/Redes.md",
@@ -282,7 +283,6 @@
     "01.Areas/1.UC3M/Calculus I.md",
     "01.Areas/1.UC3M/Logic.md",
     "02 - Atomic/20240523 - 122919 - Propositional logic.md",
-    "01.Areas/1.UC3M/Heurística y Opti.md",
     "01.Areas/1.UC3M/DiffCalc.md",
     "02 - Atomic/1725231651 - - Untitled Suffix.md",
     "99 - Meta/1. Templates/command.md",
@@ -314,7 +314,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-06-20 at 16.47.34.png",
     "99 - Meta/0. Attachments/Pasted image 20240620150845.png",
     "99 - Meta/0. Attachments/Pasted image 20240620145246.png",
-    "02 - Atomic/test.pdf",
     "99 - Meta/0. Attachments/Pasted image 20240616140604.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205834.png",
