@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f9e2153f8671ccfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/0.DailyNote/2024-09-07.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-09-07.md"
+                "file": "99 - Meta/1. Templates/dailyNote.md"
               }
             }
           },
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-09-07.md",
+                "file": "99 - Meta/1. Templates/dailyNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,14 +155,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-09-07.md",
+                "file": "99 - Meta/1. Templates/dailyNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "28b818da35c7b0bc",
+            "id": "3e8b29998dafba01",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -196,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-09-07.md",
+                "file": "99 - Meta/1. Templates/dailyNote.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -298,10 +285,10 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "f9e2153f8671ccfc",
+  "active": "3e8b29998dafba01",
   "lastOpenFiles": [
-    "99 - Meta/1. Templates/dailyNote.md",
     "01.Areas/0.DailyNote/2024-09-07.md",
+    "99 - Meta/1. Templates/dailyNote.md",
     "02 - Atomic/1725728319 - - Untitled Suffix.md",
     "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
