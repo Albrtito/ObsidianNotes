@@ -156,8 +156,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "760b9d5497fedc0d",
@@ -272,7 +271,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "bda930323b1e8fdf",
+  "active": "1223c0f85c541969",
   "lastOpenFiles": [
     "00.References/HyO_Biblio_Hamdy.pdf",
     "01.Areas/1.UC3M/Empresa.md",
