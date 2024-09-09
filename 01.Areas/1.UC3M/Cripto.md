@@ -23,7 +23,7 @@ tags:
 	- Trabajos a entregar en semanas 8,9,12-13,14-15
 	- Desglose: 
 		- 40%: Trabajo práctico(Entregas de laboratorio)
-			- Nota mínima (4 o 5)
+			- Nota mínima (4 | 5)
 		- 10%: Examen parcial 
 			- Preguntas test, cortas o problemas. 
 			- Sin calculadora 
