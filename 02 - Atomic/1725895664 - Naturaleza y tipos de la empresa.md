@@ -9,7 +9,7 @@ cssclasses:
 ---
 # Naturaleza y tipos de la empresa
 
-
+## Concepto, definición: 
 > [!NOTE] Empresa
 > Transformar un input en bienes o servicios satisfaciendo necesidades. 
 
@@ -24,7 +24,7 @@ cssclasses:
 **Remarks:**
 + Se crea/genera riqueza → Actividad empresarial → Valor añadido: **Crear riqueza a través del valor añadido**
 	+ Llamamos valor añadido de la empresa a la diferencia entre el coste inicial la materia prima/capital invertido y la ganancia final obtenida. 
-		+ p.e: La madera+tornillería+pintura que cuesta 15 se vende como mes
+		+ p.e: La madera+tornillería+pintura que cuesta 15 se vende como mesa completa por 50 generando 35 de riqueza. Suma todas las mesas y tienes el valor añadido de la empresa de mesería.
 	+ El PIB será la suma del valor añadido de todas las empresas.
 **VISUALIZACIÓN DE LA EMPRESA EN DIFERENTES ÁMBITOS**
 
@@ -40,6 +40,33 @@ cssclasses:
 + Pueden estar ganando dinero pero que no sea su fin final 
 
 **MICROECONOMÍA EN LA EMPRESA:**
+Llamamos ciclo microeconómico a la relación entre los consumidores y las empresas junto al input y al output. 
 
+**Input:** (Factores productivos)
+El consumidor **ofrece:**
++ Su tiempo (mano de obra)
++ Su dinero (acciones)
+La empresa **devuelve**:
++ Una renta
++ Dividendos o beneficios
+
+**Output:** Bienes y servicios
+La empresa **ofrece:** 
++ Productos 
+Consumidores **devuelven**: 
++ Ingresos (Comprando los bienes y servicios)
+
+
+> [!info] Teoría económica de la empresa:
+> Como sociedad nos especializamos, las empresas, junto al mercado, aparecen para coordinar el uso de recursos y a la mano de obra ya especializada. 
+
+## Funciones y procesos: 
+División en: 
+
+**Funciones reales:** Convertir input en output
++ Aprovisionamiento (conseguir el input)
++ Producción (Transformarlo en output)
++ Comercialización (Vender lo transformado)
+Otras: ()
 
 
