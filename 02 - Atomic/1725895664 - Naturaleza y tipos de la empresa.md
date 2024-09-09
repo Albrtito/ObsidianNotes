@@ -67,6 +67,28 @@ División en:
 + Aprovisionamiento (conseguir el input)
 + Producción (Transformarlo en output)
 + Comercialización (Vender lo transformado)
-Otras: ()
+Otras: (Actividades necesarias para que todo funciones) → #Duda Necesidad o comodidad?
+
+**Funciones financieras:** Como conseguir dinero
++ Financiación de la empresa → Conseguir
++ Inversión del capital → Donde meter el dinero 
+
+ **Funciones de la dirección:** Coordinar 
+ + Actividades de planificación: Objetivos de la empresa y medios necesarios
+ + Actividades o funciones de control: Ver si se cumplen los objetivos 
+ + Actividades de organización: Diseñar la organización de la empresa, definir las funciones y tareas de los distintos puestos de trabajo
+
+**CADENA DE VALOR:**
+La cadena de valor diferencia entre **procesos y subprocesos**, actividades que se desglosan en otras más pequeñas.
++ Importante poder diferenciar entre cada una y sus subactividades. 
++ 
+**Primarias:** Logística, operaciones, marketing, ventas
+
+Son aquellas relacionadas con la creación física del producto/servicio. 
+
+
+**Actividades soporte:** Gestión, Recursos humanos, Desarrollo, compras.Ayudan a la creación de valor 
+
+Llamamos actividades de soporte a aquellas que no se ocupan directamente de nada en el proceso de producción. 
 
 
