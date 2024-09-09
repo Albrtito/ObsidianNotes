@@ -22,9 +22,13 @@ tags:
 - Continua: 60%
 	- Trabajos a entregar en semanas 8,9,12-13,14-15
 	- Desglose: 
-		- 40%: Trabajo práctico
+		- 40%: Trabajo práctico(Entregas de laboratorio)
 		- 10%: Examen parcial 
 		- 10%: Presentación del trabajo 
+
+> [!Danger] Coincidencias
+> Examen parcial y entrega intermedia del trabajo práctico coinciden.
+
 ## Bibliografía: 
 - A.I. González-Tablas Ferreres y P. Martín González. Recopilación de problemas de examen 2010-2015. Criptografía y Seguridad Informática. CopyRed. 2016
 - C. Paar. Understanding Cryptography: A Textbook for Students and Practitioners. Springer-Verlag. 2014
