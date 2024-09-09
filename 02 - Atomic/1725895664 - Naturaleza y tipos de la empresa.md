@@ -21,21 +21,23 @@ cssclasses:
 **Outputs:** → Tienen valor económico
 + Bienes: Lo tangible
 + Servicios: (p.e: abogacía, turismo, profesorado)
+
+
 **Remarks:**
-+ Se crea/genera riqueza → Actividad empresarial → Valor añadido: **Crear riqueza a través del valor añadido**
-	+ Llamamos valor añadido de la empresa a la diferencia entre el coste inicial la materia prima/capital invertido y la ganancia final obtenida. 
-		+ p.e: La madera+tornillería+pintura que cuesta 15 se vende como mesa completa por 50 generando 35 de riqueza. Suma todas las mesas y tienes el valor añadido de la empresa de mesería.
-	+ El PIB será la suma del valor añadido de todas las empresas.
-**VISUALIZACIÓN DE LA EMPRESA EN DIFERENTES ÁMBITOS**
++ 
 
-**Unidad técnica:** De input a output
-**Económica:** Conseguir pasta
-**socio-política:** Por el trabajo que se hace dentro (la gente)
-**de decisión:** Hay que tener un plan estratégico de decisión
+### Visualización en diferentes ámbitos
 
-**ORGANIZACIONES:**
-+ Empresas → Animo de lucro 
-+ Organización → Sin ánimo de lucro 
+Ámbito **técnico**: De input a output
+Ámbito **económico**: Conseguir pasta
+Ámbito so**cio-político**: Por el trabajo que se hace dentro (la gente)
+Ámbito de **decisión**: Hay que tener un plan estratégico de decisión
+
+### Organización vs Empresa
++ Empresas → Animo de lucro (Quieren dinero y lo dicen)
++ Organización → Sin ánimo de lucro (No quieren dinero)
+
+**Remarks:**
 (Pero no hay una diferencia clara, la propia org/empresa se define basándose en sus fines)
 + Pueden estar ganando dinero pero que no sea su fin final 
 
