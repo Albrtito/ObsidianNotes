@@ -79,9 +79,15 @@ Otras: (Actividades necesarias para que todo funciones) → #Duda Necesidad o co
  + Actividades de organización: Diseñar la organización de la empresa, definir las funciones y tareas de los distintos puestos de trabajo
 
 **CADENA DE VALOR:**
+Definimos la cadena de la siguiente forma: 
+
+> [!NOTE] De mayor a menor (cantidad de trabajo)
+> **Proceso → Subproceso → Actividad → Subactividad → Tareas**
+
+**Casti se ha dedicado a esto**
 La cadena de valor diferencia entre **procesos y subprocesos**, actividades que se desglosan en otras más pequeñas.
-+ Importante poder diferenciar entre cada una y sus subactividades. 
-+ 
++ Importante poder diferenciar entre cada una y sus subactividades → Siempre se puede ir bajando hasta llegar al nivel de tarea.
+
 **Primarias:** Logística, operaciones, marketing, ventas
 
 Son aquellas relacionadas con la creación física del producto/servicio. 
@@ -91,4 +97,9 @@ Son aquellas relacionadas con la creación física del producto/servicio.
 
 Llamamos actividades de soporte a aquellas que no se ocupan directamente de nada en el proceso de producción. 
 
+**Procesos de negocio:** Satisfacción del cliente.
 
+**Procesos de apoyo:** Servicio a los procesos de negocio
+
+## Que hace un ingeniero aquí?
+Tener **conocimientos técnicos y conocimientos de gestión** a la salida de la carrera. 
