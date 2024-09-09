@@ -4,6 +4,25 @@
     "type": "split",
     "children": [
       {
+        "id": "00f77138e33be2f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c38aed663b133c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "f588422cfcfafc5c",
         "type": "tabs",
         "children": [
@@ -21,25 +40,12 @@
             }
           },
           {
-            "id": "7c38aed663b133c3",
+            "id": "0877b85050a6b741",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68b3986739d62a03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1725910455 - Valor añadido de una empresa.md",
+                "file": "02 - Atomic/1725910842 - Definition - Empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1725910455 - Valor añadido de una empresa.md"
+                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md"
               }
             }
           },
@@ -139,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1725910455 - Valor añadido de una empresa.md",
+                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,21 +162,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1725910455 - Valor añadido de una empresa.md",
+                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "069427d7f0481fdf",
+            "id": "ed2b513f283ba1fa",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "760b9d5497fedc0d",
@@ -183,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1725910455 - Valor añadido de una empresa.md",
+                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,7 +273,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 1131.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,10 +292,11 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "68b3986739d62a03",
+  "active": "7c38aed663b133c3",
   "lastOpenFiles": [
+    "02 - Atomic/1725910842 - Definition - Empresa.md",
     "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
-    "02 - Atomic/1725910455 - Valor añadido de una empresa.md",
+    "02 - Atomic/1725910455 - El valor añadido de una empresa.md",
     "01.Areas/1.UC3M/Empresa.md",
     "01.Areas/0.DailyNote/2024-09-07.md",
     "01.Areas/1.UC3M/Cripto.md",
@@ -315,7 +323,6 @@
     "02 - Atomic/1725231507 - Some file.md",
     "02 - Atomic/1725231428 - new file.md",
     "02 - Atomic/1725231383 - Some file.md",
-    "02 - Atomic/1725231318 - Some note.md",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "99 - Meta/0. Attachments/Diagrama3 (1).png",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",

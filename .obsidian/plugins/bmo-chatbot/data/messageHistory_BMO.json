@@ -1,102 +1,22 @@
 [
     {
         "role": "user",
-        "content": "Hey",
+        "content": "/help",
         "images": []
     },
     {
         "role": "assistant",
-        "content": "<div class=\"errorBotMessage\"><p>Model not found.</p></div>",
+        "content": "<div class=\"commandBotMessage\"><h3 style=\"text-align: center;\">Manual</h3><h4 style=\"text-align: left;\">General Commands</h4><p><code>/clear</code> or <code>/c</code> - Clear chat history.</p><p><code>/ref on</code> - Turn on \"reference current note\".</p><p><code>/ref off</code> - Turn off \"reference current note\".</p><p><code>/maxtokens [VALUE]</code> - Set max tokens.</p><p><code>/temp [VALUE]</code> - Change temperature range from 0 to 2.</p><h4 style=\"text-align: left;\">Profile Commands</h4><p><code>/profile</code> - List profile.</p><p><code>/profile [PROFILE-NAME] or [VALUE]</code> - Change profile.</p><h4 style=\"text-align: left;\">Model Commands</h4><p><code>/model</code> - List model.</p><p><code>/model [MODEL-NAME] or [VALUE]</code> - Change model.</p><h4 style=\"text-align: left;\">Prompt Commands</h4><p><code>/prompt</code> - List prompts.</p><p><code>/prompt [PROMPT-NAME] or [VALUE]</code> - Change prompts.</p><p><code>/prompt clear</code> - Clear prompt.</p><h4 style=\"text-align: left;\">Editor Commands</h4><p><code>/append</code> - Append current chat history to current active note.</p><p><code>/save</code> - Save current chat history to a note.</p><h4 style=\"text-align: left;\">Stream Commands</h4><p><code>/stop</code> or <code>/s</code> - Stop fetching response for streaming models only.</p></div>",
         "images": []
     },
     {
         "role": "user",
-        "content": "Hey",
+        "content": "Can you summarise the current note im in?",
         "images": []
     },
     {
         "role": "assistant",
-        "content": "<div class=\"errorBotMessage\"><p>Model not found.</p></div>",
-        "images": []
-    },
-    {
-        "role": "user",
-        "content": "Hey",
-        "images": []
-    },
-    {
-        "role": "assistant",
-        "content": "<div class=\"errorBotMessage\"><p>Model not found.</p></div>",
-        "images": []
-    },
-    {
-        "role": "user",
-        "content": "Hey",
-        "images": []
-    },
-    {
-        "role": "assistant",
-        "content": "Hello! I'm your helpful assistant, here to assist you with any questions or topics related to calculus of primitive integrals. Would you like me to explain a specific concept or method?",
-        "images": []
-    },
-    {
-        "role": "user",
-        "content": "Do you have acces to the current note I'm at?",
-        "images": []
-    },
-    {
-        "role": "assistant",
-        "content": "You're currently reading notes on \"Integration in one variable\" specifically about computing integrals, including definite integrals and improper integrals.\n\nI see that the notes also cover topics such as:\n\n* The fundamental theorem of calculus\n* Areas, volumes, and lengths\n* Definite integrals with examples (approximating area below a function)\n* Improper integrals (computing areas/volumes/lengths over infinite intervals)\n\nWould you like me to summarize or expand on any of these topics?",
-        "images": []
-    },
-    {
-        "role": "user",
-        "content": "Can you provide some exercises to test my knowledge in this subject?",
-        "images": []
-    },
-    {
-        "role": "assistant",
-        "content": "I've got some exercises for you to test your understanding of integration in one variable. Please find them below:\n\n**",
-        "images": []
-    },
-    {
-        "role": "user",
-        "content": "Provide some exercises to test my knowledge",
-        "images": []
-    },
-    {
-        "role": "assistant",
-        "content": "Here are a few exercises to help you test your understanding of integration in one variable:\n\n**",
-        "images": []
-    },
-    {
-        "role": "user",
-        "content": "what is the current note about?",
-        "images": []
-    },
-    {
-        "role": "assistant",
-        "content": "I apologize for not providing that information earlier! As your helpful assistant, I don't have any specific notes or topics assigned to us. This conversation started with no prior notes or context.\n\nIf you'd like to discuss a specific topic in calculus of primitive integrals, such as definite integrals, improper integrals, or the fundamental theorem of calculus, just let me know!",
-        "images": []
-    },
-    {
-        "role": "user",
-        "content": "What is the current note about?",
-        "images": []
-    },
-    {
-        "role": "assistant",
-        "content": "I apologize for the earlier confusion! According to our initial conversation, the current note is about \"Integration in one variable\" from the course notes on One-var Calculus. This topic covers computing integrals, including definite integrals and improper integrals, as well as related concepts like areas, volumes, and lengths.",
-        "images": []
-    },
-    {
-        "role": "user",
-        "content": "How can I write in LaTeX the fraction 1/21",
-        "images": []
-    },
-    {
-        "role": "assistant",
-        "content": "To write a fraction like 1/21 in LaTeX, you can use the `\\frac` command provided by the `amsmath` package (which is usually loaded by default).\n\nHere's how you can do it:\n\n`\\frac{1}{21}`\n\nThis will produce the desired output: $\\frac{1}{21}$.\n\nNote that you don't need to add any space or punctuation around the `\\frac` command. It will automatically format the fraction for you.\n\nIf you want to customize the appearance of the fraction, such as changing the font size or style, you can wrap the `\\frac` command inside other LaTeX commands. For example:\n\n`\\text{\\small $\\frac{1}{21}$}`\n\nThis would produce a smaller-sized fraction: $\\frac{1}{21}$.",
+        "content": "You are currently in a note about \"Naturaleza y tipos de la empresa\" (Nature and types of the company). It appears to be an economics note, discussing various aspects of companies, such as inputs and outputs, organizational structures, and functions. The note also touches on concepts like microeconomics, entrepreneurship, and business processes.",
         "images": []
     }
 ]

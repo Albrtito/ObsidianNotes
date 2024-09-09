@@ -10,8 +10,7 @@ cssclasses:
 # Naturaleza y tipos de la empresa
 
 ## Concepto, definición: 
-> [!NOTE] Empresa
-> Transformar un input en bienes o servicios satisfaciendo necesidades. 
+
 
 **Inputs:**
 + Capital: Todo aquello en lo que ha **invertido** la empresa (f.e: maquinaria)
@@ -22,9 +21,6 @@ cssclasses:
 + Bienes: Lo tangible
 + Servicios: (p.e: abogacía, turismo, profesorado)
 
-
-**Remarks:**
-+ 
 
 ### Visualización en diferentes ámbitos
 
