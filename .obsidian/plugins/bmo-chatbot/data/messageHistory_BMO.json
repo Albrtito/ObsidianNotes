@@ -58,5 +58,15 @@
         "role": "assistant",
         "content": "**",
         "images": []
+    },
+    {
+        "role": "user",
+        "content": "Resume la nota actual ",
+        "images": []
+    },
+    {
+        "role": "assistant",
+        "content": "**",
+        "images": []
     }
 ]
