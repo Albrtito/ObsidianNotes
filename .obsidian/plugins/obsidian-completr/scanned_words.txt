@@ -2322,6 +2322,8 @@ turismo
 torniller
 tienes
 transformado
+transformar
+teor
 dailyNote
 day
 during
@@ -7312,6 +7314,13 @@ conocimientos
 cnicos
 carrera
 cnico
+concepto
+clave
+convierte
+considerar
+coordina
+comercializaci
+controlar
 lifeOS
 liking
 las
@@ -9561,6 +9570,7 @@ llama
 listFiles
 laboratorio
 lucro
+lucrativos
 First
 Fechas
 Familias
@@ -11729,6 +11739,7 @@ Fern
 Factores
 Funciones
 Financiaci
+Finalmente
 first
 from
 file
@@ -13979,6 +13990,8 @@ francisco
 fines
 funciones
 financieras
+funcionar
+financiamiento
 Woke
 Write
 Went
@@ -21072,6 +21085,9 @@ individual
 invertido
 inicial
 ingeniero
+instituci
+inversi
+implican
 Enough
 Esta
 Est
@@ -25496,6 +25512,8 @@ body
 bienes
 beneficios
 bajando
+buscan
+blica
 Gym
 Given
 GALVIN
@@ -34463,6 +34481,7 @@ renta
 recursos
 reales
 relacionadas
+resultados
 here
 hour
 home
@@ -43232,6 +43251,11 @@ empresarial
 estrat
 especializamos
 especializada
+entra
+elementos
+enfocarnos
+examinando
+educar
 Instagram
 IRIS
 Intendencia
@@ -49676,6 +49700,9 @@ nchez
 nimo
 nivel
 negocio
+necesita
+ngulos
+nes
 Post
 Papeleos
 Para
@@ -54417,6 +54444,8 @@ subactividades
 servicio
 soporte
 salida
+segundas
+satisfacer
 No
 NOTE
 Normalmente
@@ -58937,6 +58966,13 @@ peque
 producto
 proceso
 producci
+producir
+productos
+perspectiva
+primeras
+promover
+planificar
+persigue
 UC
 UNIDADES
 Unidades
@@ -63503,6 +63539,7 @@ Avisar
 Animo
 Aprovisionamiento
 Ayudan
+Adem
 all
 at
 aliases
@@ -65887,6 +65924,10 @@ antelaci
 abogac
 adido
 acciones
+analizar
+amplios
+ayudar
+aprovisionamiento
 of
 otro
 opciones
@@ -68044,6 +68085,7 @@ ofrece
 obra
 operaciones
 ocupan
+organizaciones
 References
 RRI
 RUTAS
@@ -77065,6 +77107,8 @@ Divisi
 Dise
 Definimos
 Desarrollo
+Desde
+Definici
 HH
 Highlight
 Hay
@@ -94314,6 +94358,7 @@ vault
 valera
 vende
 ventas
+vista
 que
 quieren
 quedo
@@ -98506,6 +98551,8 @@ ganancia
 gico
 ganando
 gesti
+generar
+ganar
 junio
 julio
 journaling
@@ -105081,6 +105128,7 @@ Qjb
 Quitando
 QUE
 Quieren
+Quiere
 kindness
 key
 kept

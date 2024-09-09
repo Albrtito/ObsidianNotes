@@ -9,18 +9,27 @@ cssclasses:
 ---
 # Naturaleza y tipos de la empresa
 
-## Concepto, definición: 
+## Definición:
+Para empezar, debemos definir qué es una [[1725910842 - Definition - Empresa|empresa]] . Una empresa es un tipo de institución que consume recursos, como capital, trabajo y materia prima, para producir bienes o servicios. Y aquí entra el concepto clave de inputs y outputs. Los inputs son todos los elementos que la empresa necesita para funcionar, mientras que los outputs son los resultados que produce, que pueden ser bienes o servicios.
 
 
-**Inputs:**
-+ Capital: Todo aquello en lo que ha **invertido** la empresa (f.e: maquinaria)
-+ Trabajo
-+ Materia prima: 
+Ahora, podemos analizar las empresas desde diferentes ángulos. Por ejemplo, desde un punto de vista técnico, podemos ver cómo la empresa consume recursos y los convierte en productos o servicios. Desde el punto de vista económico, podemos enfocarnos en cómo la empresa busca ganar beneficios o lucro. Y también podemos considerar la perspectiva socio-política, examinando quiénes son las personas involucradas y qué tipo de trabajo se hace dentro de la empresa.
 
-**Outputs:** → Tienen valor económico
-+ Bienes: Lo tangible
-+ Servicios: (p.e: abogacía, turismo, profesorado)
+  
 
+Pero hay algo más que debemos tener en cuenta: la diferencia entre empresas con ánimo de lucro y organizaciones sin ánimo de lucro. Las primeras buscan ganar beneficios, mientras que las segundas pueden tener objetivos más amplios, como promover un bien común o ayudar a una comunidad.
+
+  
+
+Además, debemos hablar sobre la teoría económica de la empresa. Esta teoría nos dice que la empresa es una institución que coordina el uso de recursos y mano de obra especializada para satisfacer las necesidades del mercado.
+
+  
+
+Finalmente, debemos hablar sobre las funciones y procesos dentro de la empresa. Hay funciones reales como aprovisionamiento, producción y comercialización; funciones financieras como financiamiento e inversión del capital; y funciones de dirección que implican planificar, controlar y organizar.
+
+  
+
+Y, por último, hay el concepto de cadena de valor, que describe el proceso de creación de valor dentro de la empresa. Esta cadena se compone de procesos, subprocesos, actividades y tareas, con un enfoque en la creación de bienes o servicios.b
 
 ### Visualización en diferentes ámbitos
 
@@ -29,9 +38,6 @@ cssclasses:
 Ámbito so**cio-político**: Por el trabajo que se hace dentro (la gente)
 Ámbito de **decisión**: Hay que tener un plan estratégico de decisión
 
-### Organización vs Empresa
-+ Empresas → Animo de lucro (Quieren dinero y lo dicen)
-+ Organización → Sin ánimo de lucro (No quieren dinero)
 
 **Remarks:**
 (Pero no hay una diferencia clara, la propia org/empresa se define basándose en sus fines)

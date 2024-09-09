@@ -57,6 +57,7 @@
       "keep_alive": ""
     },
     "ollamaModels": [
+      "codegemma:latest",
       "codellama:latest",
       "llama3:latest"
     ]

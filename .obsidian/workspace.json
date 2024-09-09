@@ -127,7 +127,7 @@
       {
         "id": "5997a5c0c99a8696",
         "type": "tabs",
-        "dimension": 38.285714285714285,
+        "dimension": 49.777975133214916,
         "children": [
           {
             "id": "1223c0f85c541969",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md"
+                "file": "02 - Atomic/1725910842 - Definition - Empresa.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
+                "file": "02 - Atomic/1725910842 - Definition - Empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
+                "file": "02 - Atomic/1725910842 - Definition - Empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
       {
         "id": "760b9d5497fedc0d",
         "type": "tabs",
-        "dimension": 30.28571428571429,
+        "dimension": 18.78330373001776,
         "children": [
           {
             "id": "36d1a43796975b90",
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
+                "file": "02 - Atomic/1725910842 - Definition - Empresa.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,7 +239,7 @@
       {
         "id": "4ffe38cb4b366bf0",
         "type": "tabs",
-        "dimension": 31.428571428571427,
+        "dimension": 31.438721136767317,
         "children": [
           {
             "id": "4d9e8083eba3a4a2",
@@ -273,7 +273,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1131.5
+    "width": 987.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,12 +292,12 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "7c38aed663b133c3",
+  "active": "0877b85050a6b741",
   "lastOpenFiles": [
-    "02 - Atomic/1725910842 - Definition - Empresa.md",
     "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
-    "02 - Atomic/1725910455 - El valor añadido de una empresa.md",
+    "02 - Atomic/1725910842 - Definition - Empresa.md",
     "01.Areas/1.UC3M/Empresa.md",
+    "02 - Atomic/1725910455 - El valor añadido de una empresa.md",
     "01.Areas/0.DailyNote/2024-09-07.md",
     "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
