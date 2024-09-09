@@ -29,36 +29,10 @@ Finalmente, debemos hablar sobre las funciones y procesos dentro de la empresa. 
 
   
 
-Y, por último, hay el concepto de cadena de valor, que describe el proceso de creación de valor dentro de la empresa. Esta cadena se compone de procesos, subprocesos, actividades y tareas, con un enfoque en la creación de bienes o servicios.b
-
-### Visualización en diferentes ámbitos
-
-Ámbito **técnico**: De input a output
-Ámbito **económico**: Conseguir pasta
-Ámbito so**cio-político**: Por el trabajo que se hace dentro (la gente)
-Ámbito de **decisión**: Hay que tener un plan estratégico de decisión
+Y, por último, hay el concepto de cadena de valor, que describe el proceso de creación de valor dentro de la empresa. Esta cadena se compone de procesos, subprocesos, actividades y tareas, con un enfoque en la creación de bienes o servicios.
 
 
-**Remarks:**
-(Pero no hay una diferencia clara, la propia org/empresa se define basándose en sus fines)
-+ Pueden estar ganando dinero pero que no sea su fin final 
 
-**MICROECONOMÍA EN LA EMPRESA:**
-Llamamos ciclo microeconómico a la relación entre los consumidores y las empresas junto al input y al output. 
-
-**Input:** (Factores productivos)
-El consumidor **ofrece:**
-+ Su tiempo (mano de obra)
-+ Su dinero (acciones)
-La empresa **devuelve**:
-+ Una renta
-+ Dividendos o beneficios
-
-**Output:** Bienes y servicios
-La empresa **ofrece:** 
-+ Productos 
-Consumidores **devuelven**: 
-+ Ingresos (Comprando los bienes y servicios)
 
 
 > [!info] Teoría económica de la empresa:

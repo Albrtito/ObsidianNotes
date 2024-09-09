@@ -25,6 +25,7 @@ tags:
 ### Complementaria: 
 - Fernández, E.. Estrategia de innovación. Thompson. 2005
 - Rodríguez Márquez, A., Nieto, María Jesús, Fernández, Z. y Revilla Castejón, A.. Manual de creación de empresas. De la oportunidad a la puesta en marcha. Thompson Reuters. 2014
-- Sánchez Gómez, R. y González Benito, J.. Administración de Empresas: objetivos y decisiones. MCGraw Hill. 2012
+- Sánchez Gómez, R. y González Benito, J.. Administración de Empresas: objetivos y decisiones. McGraw Hill. 2012
 ## Notas: 
-
+1.  [[1725895664 - Naturaleza y tipos de la empresa|Naturaleza y tipos de la empresa]]
++ 
