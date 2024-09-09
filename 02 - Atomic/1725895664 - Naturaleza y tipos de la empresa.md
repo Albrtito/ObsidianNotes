@@ -38,31 +38,14 @@ Y, por último, hay el concepto de cadena de valor, que describe el proceso de c
 ## Funciones y procesos: 
 División en: 
 
-**Funciones reales:** Convertir input en output
-+ Aprovisionamiento (conseguir el input)
-+ Producción (Transformarlo en output)
-+ Comercialización (Vender lo transformado)
-Otras: (Actividades necesarias para que todo funciones) → #Duda Necesidad o comodidad?
 
-**Funciones financieras:** Como conseguir dinero
-+ Financiación de la empresa → Conseguir
-+ Inversión del capital → Donde meter el dinero 
-
- **Funciones de la dirección:** Coordinar 
- + Actividades de planificación: Objetivos de la empresa y medios necesarios
- + Actividades o funciones de control: Ver si se cumplen los objetivos 
- + Actividades de organización: Diseñar la organización de la empresa, definir las funciones y tareas de los distintos puestos de trabajo
 
 **CADENA DE VALOR:**
 Definimos la cadena de la siguiente forma: 
 
-> [!NOTE] De mayor a menor (cantidad de trabajo)
-> **Proceso → Subproceso → Actividad → Subactividad → Tareas**
-
 **Casti se ha dedicado a esto**
 La cadena de valor diferencia entre **procesos y subprocesos**, actividades que se desglosan en otras más pequeñas.
-+ Importante poder diferenciar entre cada una y sus subactividades → Siempre se puede ir bajando hasta llegar al nivel de tarea.
-
++ 
 **Primarias:** Logística, operaciones, marketing, ventas
 
 Son aquellas relacionadas con la creación física del producto/servicio. 
