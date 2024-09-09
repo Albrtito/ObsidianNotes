@@ -11,7 +11,10 @@ tags:
 		+ 2.2.B31
 		+ aigonzal@inf.uc3m.es
 		+ [COSEC web profile](https://cosec.inf.uc3m.es/people/ana-isabel-gonzalez-tablas/)
-+ Profesor: Pablo Martín Gonzalez 
++ **Profesor magistrales**: Daniel Garzón Rubio
+	+ dgarzon@inf.uc3m.es
++ **Profesor reducidas**: Pablo Martín Gonzalez
+
 
 ## Evaluación: 
 - Final: 40%

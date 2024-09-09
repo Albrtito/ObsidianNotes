@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e2d3e0c3e769d27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/1.UC3M/Cripto.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-09-07.md"
+                "file": "01.Areas/1.UC3M/Cripto.md"
               }
             }
           },
@@ -111,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-09-07.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,14 +142,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-09-07.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "069427d7f0481fdf",
+            "type": "leaf",
+            "state": {
+              "type": "chatbot-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "760b9d5497fedc0d",
@@ -148,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/0.DailyNote/2024-09-07.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,12 +272,14 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "8aca27b8a28c8ce3",
+  "active": "0e2d3e0c3e769d27",
   "lastOpenFiles": [
+    "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "02 - Atomic/1725886962 - s.md",
     "01.Areas/0.DailyNote/2024-09-07.md",
     "99 - Meta/1. Templates/dailyNote.md",
     "02 - Atomic/1725728319 - - Untitled Suffix.md",
-    "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
     "01.Areas/1.UC3M/Redes.md",
     "2024-09-07.md",
@@ -279,8 +303,6 @@
     "02 - Atomic/1725231318 - Some note.md",
     "02 - Atomic/1725231297 - Some note.md",
     "02 - Atomic/1725231258 -.md",
-    "02 - Atomic/1725231261 -.md",
-    "02 - Atomic/1725231151 - some note.md",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "99 - Meta/0. Attachments/Diagrama3 (1).png",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
