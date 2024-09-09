@@ -23,11 +23,18 @@ tags:
 	- Trabajos a entregar en semanas 8,9,12-13,14-15
 	- Desglose: 
 		- 40%: Trabajo práctico(Entregas de laboratorio)
+			- Nota mínima (4 o 5)
 		- 10%: Examen parcial 
-		- 10%: Presentación del trabajo 
+		- 10%: Presentación del trabajo
+			- Trabajo de tema extra
+			- Investigación
 
-> [!Danger] Coincidencias
+> [!Danger] Remarks: 
 > Examen parcial y entrega intermedia del trabajo práctico coinciden.
+> + Hay que aprobar cada parte por separado 
+> + En principio el final no incluye nada de los labs ni práctica. 
+
+
 
 ## Bibliografía: 
 - A.I. González-Tablas Ferreres y P. Martín González. Recopilación de problemas de examen 2010-2015. Criptografía y Seguridad Informática. CopyRed. 2016
