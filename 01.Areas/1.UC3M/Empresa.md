@@ -8,7 +8,8 @@ tags:
 + Coordinadora: Carmen Paz Aparicio
 + Profesora: María Castañar Sanchez García
 	+ mariacastanar.sanchez@uc3m.es
-	+ 1.3.A06
+	+ 1.3.A05 → Avisar por mail con 24h de antelación
+		+ Tutorías: Miércoles de 9 a 11 y de 13 a 15
 
 ## Evaluación
 + Continua: 40%
