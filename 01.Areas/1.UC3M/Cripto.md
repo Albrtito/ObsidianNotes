@@ -25,6 +25,8 @@ tags:
 		- 40%: Trabajo práctico(Entregas de laboratorio)
 			- Nota mínima (4 o 5)
 		- 10%: Examen parcial 
+			- Preguntas test, cortas o problemas. 
+			- Sin calculadora 
 		- 10%: Presentación del trabajo
 			- Trabajo de tema extra
 			- Investigación
