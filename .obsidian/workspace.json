@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5041847229004
+    "width": 313.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Net_Biblio_Kurose.pdf"
+                "file": "02 - Atomic/1725968193 - Intro to networking.md"
               }
             }
           },
@@ -143,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Net_Biblio_Kurose.pdf",
+                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Net_Biblio_Kurose.pdf",
+                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Net_Biblio_Kurose.pdf",
+                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +264,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 406.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,11 +284,11 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "7c38aed663b133c3",
+  "active": "58b0840eae7ff12b",
   "lastOpenFiles": [
+    "00.References/Net_Biblio_Kurose.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
     "01.Areas/1.UC3M/Networks.md",
-    "00.References/Net_Biblio_Kurose.pdf",
     "02 - Atomic/1725968193 - Intro to networking.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
     "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
