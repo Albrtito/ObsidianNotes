@@ -18,7 +18,7 @@ aliases:
 		+ Oficina: 4.1.A02
 ## Evaluación: 
 + Continua 70%
-	+ Semanas: 2,3,4,6,10,11,13,15 (Alternando test-prueba)
+	+ Semanas: **2**,3,**4**,6,**10**,11,**13**,15 (Alternando **test**-prueba)
 		+ Test: 5-10 min. 2.5p → Se realizan fuera de clase. Activos durante una semana
 		+ Pruebas: max 1.5h, 10p
 	+ Pruebas de laboratorio: 30p
@@ -33,6 +33,9 @@ aliases:
 
 - KUROSE, JAMES F., Keith W. Ross. . Redes de Computadoras, un enfoque descendente. Octava edición.. Pearson. 2022
 + [[Redes_Biblio_Kurose.pdf]]
++ Copies in library
++ The relation between the chapters covered in class and the book chapters is [here](https://docs.google.com/spreadsheets/d/1w4c3xFZ6zc3_oHcHirE9T8Ncijwhzms-/edit?gid=1511838856#gid=1511838856)
++ 
 
 **Recurso electrónico:**
 #Duda : Como entrar a este recurso

@@ -30,65 +30,40 @@
             "id": "0e2d3e0c3e769d27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/1.UC3M/Empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "0877b85050a6b741",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1725910842 - Definition - Empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "fa091d52cd9a6a7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "bed96ec4593b4aa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "ccd92fd680806877",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1725918620 - Cadena de valor.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -166,7 +141,7 @@
       {
         "id": "5997a5c0c99a8696",
         "type": "tabs",
-        "dimension": 49.777975133214916,
+        "dimension": 49.77797513321492,
         "children": [
           {
             "id": "1223c0f85c541969",
@@ -228,7 +203,7 @@
       {
         "id": "760b9d5497fedc0d",
         "type": "tabs",
-        "dimension": 18.78330373001776,
+        "dimension": 18.783303730017764,
         "children": [
           {
             "id": "36d1a43796975b90",
@@ -285,7 +260,7 @@
       {
         "id": "4ffe38cb4b366bf0",
         "type": "tabs",
-        "dimension": 31.438721136767317,
+        "dimension": 31.43872113676732,
         "children": [
           {
             "id": "4d9e8083eba3a4a2",
@@ -329,7 +304,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "1223c0f85c541969",
+  "active": "7c38aed663b133c3",
   "lastOpenFiles": [
     "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
