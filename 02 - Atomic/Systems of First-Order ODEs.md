@@ -9,7 +9,8 @@ sr-due: 2024-04-24
 sr-interval: 1
 sr-ease: 130
 ---
-# Intro: 
+# Systems of first order ODEs
+## Intro: 
 As we’ve already seen, a differential equation is defined as the relation between a function y(x), it’s derivative y’(x) and the independent variable x. 
 The usual goal in those cases is to find the function y(x) such as the whole relationship is valid. 
 
@@ -49,7 +50,7 @@ we can now generalise this case to **define any system of first order ODEs**
 
 It is linear cause all the functions of x (all the y’s) are never to the power of nothing bigger than 1. 
 
-## General form of a system of first order ODEs
+### General form of a system of first order ODEs
 I’ll make some naming changes from the naming I’ve used for the example: 
 + t will be the independent variable (instead of x)
 + functions of t will be represented by $u_n$
@@ -85,12 +86,12 @@ $$
 $$
 
 
-# Linear System:
+## Linear System:
 
 **Remember:** Linearity of an ODE is based on wheter the exponent of y(t) is smaller or equal to 1.  
 
 Then, linear ODEs systems can be described in terms of a linear algebra equation system. This way we’ll use a matrix A to represent the coefficients of each function for each equation (these coefficients are functions of t), the functions (u’s) will be represented as a vector. And the part there is left (the t in the functions for the general form) will be represented as a vector containing all funcitons of t. (I think I really did not explain myself in this paragraph, I will try to compensate in the following generalisation.)
-## General form of a system of first order LINEAL ODEs
+### General form of a system of first order LINEAL ODEs
 #Duda Why are can we transform the system into this vectorial form if it’s lineal 
 
 $$
@@ -124,13 +125,13 @@ F_1(t)\\...\\F_n(t)
 \end{gather}
 $$
 
-## Homogeneous linear system: 
+### Homogeneous linear system: 
 
 For an homogeneous system we’ll allways have: $F(t) = 0$
 
 Using Abel’s theorem … (the whole explanation about how the eigenvalues are really important and where we really get those form goes here(or maybe the explanation is different, anyways it would go here and it’s not important for the solving of systems))
 
-## A. Autonomous lineal systems: 
+### A. Autonomous lineal systems: 
 
 This systems are of the form: 
 $$
@@ -198,8 +199,8 @@ where:
 
 ![Theorem syst,first order, linear ODE](Theorem%20syst,first%20order,%20linear%20ODE.md)
 
-# Cases: 
-## Case with constant coefficients. 
+## Cases: 
+### Case with constant coefficients. 
 + With A being a real matrix (n x n)
 $$
 X'(t) = Ax(t)
@@ -222,7 +223,7 @@ The proposed exponential solution is a solution of the system if v and u are an 
 
 + We need to calculate the eigenvalues $v_1,...,v_n$ of A
 
-### Computation of eigenvalues of A: 
+#### Computation of eigenvalues of A: 
 There are three cases we need to distinguish: 
 1. All eigenvalues are real and different
 	1. Able to find n linearly independent eigenvectors (**we want this**)
@@ -233,7 +234,7 @@ There are three cases we need to distinguish:
 3. Some eigenvalues are repeated
 
 **Summarising:** We want A to be symmetric
-### Case 1: 
+#### Case 1: 
 For all eigenvectors real and different (linearly independent)
 In this case we've n linearly indept.. eigenvectors $u^1,...,u^n$
 $$
@@ -372,5 +373,5 @@ x
 
 ---
 
-### Case 2: 
+#### Case 2: 
 #### Example: 
