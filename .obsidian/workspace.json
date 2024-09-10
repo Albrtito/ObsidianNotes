@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
+                "file": "01.Areas/1.UC3M/Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:redes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "74476affe76ac5b2",
@@ -156,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5041847229004,
-    "collapsed": true
+    "width": 313.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md"
+                "file": "01.Areas/1.UC3M/Networks.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "01.Areas/1.UC3M/Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,14 +217,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "01.Areas/1.UC3M/Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "760b9d5497fedc0d",
@@ -237,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                "file": "01.Areas/1.UC3M/Networks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -307,12 +306,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 987.5
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -331,13 +329,13 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "bed96ec4593b4aa7",
+  "active": "1223c0f85c541969",
   "lastOpenFiles": [
+    "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
     "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
     "02 - Atomic/1725918620 - Cadena de valor.md",
-    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-    "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
     "02 - Atomic/20240501 - 123349 - White box testing.md",
     "02 - Atomic/1725910842 - Definition - Empresa.md",
     "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
@@ -350,7 +348,7 @@
     "99 - Meta/1. Templates/dailyNote.md",
     "02 - Atomic/1725728319 - - Untitled Suffix.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
-    "01.Areas/1.UC3M/Redes.md",
+    "01.Areas/1.UC3M/Networks.md",
     "2024-09-07.md",
     "01.Areas/1.UC3M/Heurística y Opti.md",
     "00.References/HyO_Biblio_Hamdy.pdf",
