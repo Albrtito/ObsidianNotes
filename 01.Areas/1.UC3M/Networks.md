@@ -51,3 +51,4 @@ aliases:
 - Francisco Valera · Computer Networks Padlet : [https://padlet.com/fvalera/8njxmoxyj4qgck6d](https://padlet.com/fvalera/8njxmoxyj4qgck6d)
 
 ## Notas: 
++ [[1725968193 - Intro to networking|Intro to networking]]

@@ -11,9 +11,19 @@
             "id": "7c38aed663b133c3",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Redes_Biblio_Kurose.pdf"
+              }
+            }
+          },
+          {
+            "id": "58b0840eae7ff12b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md"
+                "file": "00.References/Redes_Biblio_Kurose.pdf"
               }
             }
           },
@@ -120,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "00.References/Redes_Biblio_Kurose.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "00.References/Redes_Biblio_Kurose.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "00.References/Redes_Biblio_Kurose.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,13 +270,14 @@
   },
   "active": "7c38aed663b133c3",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Networks.md",
+    "02 - Atomic/1725968193 - Intro to networking.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
     "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
     "02 - Atomic/20240515 - 032018 - Tree graph.md",
     "02 - Atomic/20240620 - 174539 - Elementary primitive integrals.md",
     "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
     "02 - Atomic/20240515 - 033826 - Algorithm - Fleury's algorithm.md",
-    "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
@@ -285,7 +296,6 @@
     "02 - Atomic/1725728319 - - Untitled Suffix.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
     "2024-09-07.md",
-    "01.Areas/1.UC3M/Heurística y Opti.md",
     "00.References/HyO_Biblio_Hamdy.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/redes-de-computadoras-un-enfoque-descendente_compress.pdf",
