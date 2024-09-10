@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00.References/Redes_Biblio_Kurose.pdf"
+                "file": "00.References/Net_Biblio_Kurose.pdf"
               }
             }
           },
@@ -24,6 +24,19 @@
               "type": "markdown",
               "state": {
                 "file": "02 - Atomic/1725968193 - Intro to networking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c4c0e6dd9ed68ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/1.UC3M/Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Redes_Biblio_Kurose.pdf"
+                "file": "00.References/Net_Biblio_Kurose.pdf"
               }
             }
           },
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Redes_Biblio_Kurose.pdf",
+                "file": "00.References/Net_Biblio_Kurose.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Redes_Biblio_Kurose.pdf",
+                "file": "00.References/Net_Biblio_Kurose.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Redes_Biblio_Kurose.pdf",
+                "file": "00.References/Net_Biblio_Kurose.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -270,7 +283,9 @@
   },
   "active": "7c38aed663b133c3",
   "lastOpenFiles": [
+    "00.References/Redes_Biblio_Kurose.pdf",
     "01.Areas/1.UC3M/Networks.md",
+    "00.References/Net_Biblio_Kurose.pdf",
     "02 - Atomic/1725968193 - Intro to networking.md",
     "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
     "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
@@ -295,9 +310,7 @@
     "99 - Meta/1. Templates/dailyNote.md",
     "02 - Atomic/1725728319 - - Untitled Suffix.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
-    "2024-09-07.md",
     "00.References/HyO_Biblio_Hamdy.pdf",
-    "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/redes-de-computadoras-un-enfoque-descendente_compress.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "99 - Meta/0. Attachments/Diagrama3 (1).png",
@@ -308,7 +321,6 @@
     "BMO",
     "00.References/Calc_Theory_FundamentalTheorem.pdf",
     "00.References/Calc_Theory_PrimitiveIntegrals.pdf",
-    "00.References/Calc_Theory_Taylor.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-20 at 16.47.34.png",
     "99 - Meta/0. Attachments/Pasted image 20240620150845.png",
     "99 - Meta/0. Attachments/Pasted image 20240620145246.png",
