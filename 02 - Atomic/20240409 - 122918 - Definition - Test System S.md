@@ -2,10 +2,9 @@
 aliases:
   - Formal demonstration system
 tags:
-  - review
   - Logic
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-07-11
 sr-interval: 64
 sr-ease: 290

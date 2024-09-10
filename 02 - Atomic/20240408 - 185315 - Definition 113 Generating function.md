@@ -2,7 +2,6 @@
 aliases:
   - Generating Function definition
 tags:
-  - review
   - Discrete
 "References:":
   - "[Sequences of real numbers](Sequences%20of%20real%20numbers.md)"

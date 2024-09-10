@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Systems of First-Order ODEs.md",
+                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/Systems of First-Order ODEs.md"
+                "file": "02 - Atomic/1725968193 - Intro to networking.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/Systems of First-Order ODEs.md",
+                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,14 +162,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/Systems of First-Order ODEs.md",
+                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "85f3bc181db57b9f",
+            "id": "70bb47a0b8d1b9c8",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/Systems of First-Order ODEs.md",
+                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,7 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,33 +284,34 @@
   },
   "active": "1223c0f85c541969",
   "lastOpenFiles": [
+    "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
+    "02 - Atomic/1725229167 - SOme title.md",
+    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
+    "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
+    "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
+    "02 - Atomic/lifeOS.md",
+    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+    "02 - Atomic/20240501 - 124636 - Equivalent test classes.md",
+    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
+    "02 - Atomic/20240409 - 122918 - Definition - Test System S.md",
+    "02 - Atomic/20240408 - 185315 - Definition 113 Generating function.md",
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+    "02 - Atomic/The Laplace transform.md",
+    "02 - Atomic/20240501 - 123349 - White box testing.md",
+    "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
+    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
+    "02 - Atomic/Generating functions.md",
+    "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
+    "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
+    "02 - Atomic/20240409 - 122243 -Proof theory.md",
+    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
+    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+    "02 - Atomic/Systems of First-Order ODEs.md",
     "01.Areas/1.UC3M/Networks.md",
     "00.References/Net_Biblio_Kurose.pdf",
     "02 - Atomic/1725968193 - Intro to networking.md",
     "00.References/Redes_Biblio_Kurose.pdf",
-    "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
-    "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
-    "02 - Atomic/20240515 - 032018 - Tree graph.md",
-    "02 - Atomic/20240620 - 174539 - Elementary primitive integrals.md",
-    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
-    "02 - Atomic/20240515 - 033826 - Algorithm - Fleury's algorithm.md",
-    "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
-    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-    "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
-    "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
-    "02 - Atomic/1725918620 - Cadena de valor.md",
-    "02 - Atomic/20240501 - 123349 - White box testing.md",
-    "02 - Atomic/1725910842 - Definition - Empresa.md",
-    "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
-    "01.Areas/1.UC3M/Empresa.md",
-    "02 - Atomic/1725910455 - El valor añadido de una empresa.md",
-    "01.Areas/0.DailyNote/2024-09-07.md",
-    "01.Areas/1.UC3M/Cripto.md",
-    "02 - Atomic/20240620 - 154721 - Taylor Polynomial.md",
-    "02 - Atomic/1725886962 - s.md",
-    "99 - Meta/1. Templates/dailyNote.md",
-    "02 - Atomic/1725728319 - - Untitled Suffix.md",
-    "02 - Atomic/Objectives from March 23 to September 23.md",
     "00.References/HyO_Biblio_Hamdy.pdf",
     "00.References/redes-de-computadoras-un-enfoque-descendente_compress.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",

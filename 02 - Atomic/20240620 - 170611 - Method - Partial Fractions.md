@@ -8,9 +8,9 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
-sr-due: 2024-07-05
-sr-interval: 8
-sr-ease: 250
+sr-due: 2024-09-22
+sr-interval: 12
+sr-ease: 230
 ---
 # Partial fractions:
 The partial fraction method is used to **decompose**fractions into **sums of simpler** rational functions. The objective is to rewrite expressions such as: 

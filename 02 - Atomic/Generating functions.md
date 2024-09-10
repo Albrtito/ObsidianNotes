@@ -1,7 +1,6 @@
 ---
 aliases: 
 tags:
-  - review
   - Discrete
 "References:": 
 cssclasses: 

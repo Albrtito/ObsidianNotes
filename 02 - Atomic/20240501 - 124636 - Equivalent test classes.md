@@ -2,7 +2,6 @@
 aliases:
   - Equiv. test classes
 tags:
-  - review
   - SoftwareDev
 "References:":
   - "[SoftwareDev_Resources_GE2_Presentation_Hands-onLab](../00.References/SoftwareDev_Resources_GE2_Presentation_Hands-onLab.pdf)"

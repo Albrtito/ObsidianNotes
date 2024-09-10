@@ -47,7 +47,7 @@ $$
 we can now generalise this case to **define any system of first order ODEs** 
 
 **Remember:** It’s first order cause the biggest order of any of the derivatives we have is 1. 
-
+f
 It is linear cause all the functions of x (all the y’s) are never to the power of nothing bigger than 1. 
 
 ### General form of a system of first order ODEs

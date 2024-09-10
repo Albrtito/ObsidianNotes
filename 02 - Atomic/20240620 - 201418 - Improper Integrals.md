@@ -7,9 +7,9 @@ tags:
   - DiffCalc
   - CalcI
 "References:": 
-sr-due: 2024-08-27
-sr-interval: 64
-sr-ease: 230
+sr-due: 2024-10-14
+sr-interval: 34
+sr-ease: 210
 ---
 # Improper Integrals
 

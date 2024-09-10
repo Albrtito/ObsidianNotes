@@ -7,9 +7,9 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
-sr-due: 2024-06-28
-sr-interval: 14
-sr-ease: 210
+sr-due: 2024-09-26
+sr-interval: 16
+sr-ease: 190
 ---
 # First order, exact ODEs:
 Exact ODEs are those that can be written in the form: 

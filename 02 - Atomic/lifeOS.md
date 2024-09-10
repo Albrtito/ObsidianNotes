@@ -1,9 +1,9 @@
 ---
 tags:
-  - "#review"
-sr-due: 2024-09-05
-sr-interval: 156
-sr-ease: 250
+  - review
+sr-due: 2024-11-28
+sr-interval: 79
+sr-ease: 230
 ---
 # Strategy:
 The idea of this file is to describe the current strategy that is being followed in order to keep track of all the objectives, notes and routines that are  being followed. Also explain why those particular choices have been made and how. 

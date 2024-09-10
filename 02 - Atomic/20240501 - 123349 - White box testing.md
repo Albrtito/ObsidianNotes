@@ -3,10 +3,9 @@ aliases:
   - White box testing
   - Structural testing
 tags:
-  - review
   - SoftwareDev
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-08-08
 sr-interval: 73
 sr-ease: 297

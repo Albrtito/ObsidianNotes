@@ -2,11 +2,9 @@
 aliases:
   - Normal forms and resolution
 tags:
-  - review
   - Logic
-  - "#incomplete"
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-08-02
 sr-interval: 67
 sr-ease: 272

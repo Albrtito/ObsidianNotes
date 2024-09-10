@@ -4,9 +4,9 @@ tags:
   - review
   - DiffCalc
 "References:":
-sr-due: 2024-06-30
-sr-interval: 19
-sr-ease: 188
+sr-due: 2024-09-30
+sr-interval: 20
+sr-ease: 168
 ---
 # Intro
  + This technique can be also applied for non-homog. terms with discontinuities(g(t))
