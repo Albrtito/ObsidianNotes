@@ -3,7 +3,6 @@ aliases:
   - Resolution proof method
 tags:
   - Logic
-  - incomplete
 "References:": 
 cssclasses: 
 sr-due: 2024-05-02

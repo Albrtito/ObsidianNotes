@@ -26,7 +26,7 @@ aliases:
 		+ Práctica de routers: 25p 
 	+ **Sin notas mínimas**
 + Final 30%
-	+ **Sin nota mínima**
+	+ **Sin nota mínima** 
 ## Bibliografía: 
 
 ### Básica: 

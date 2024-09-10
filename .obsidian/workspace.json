@@ -21,53 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "f588422cfcfafc5c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0e2d3e0c3e769d27",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0877b85050a6b741",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "fa091d52cd9a6a7f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bed96ec4593b4aa7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ccd92fd680806877",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,14 +115,6 @@
             }
           },
           {
-            "id": "ed2b513f283ba1fa",
-            "type": "leaf",
-            "state": {
-              "type": "chatbot-view",
-              "state": {}
-            }
-          },
-          {
             "id": "9e5b6f40fa890456",
             "type": "leaf",
             "state": {
@@ -197,8 +142,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "85f3bc181db57b9f",
+            "type": "leaf",
+            "state": {
+              "type": "chatbot-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "760b9d5497fedc0d",
@@ -306,6 +260,13 @@
   },
   "active": "7c38aed663b133c3",
   "lastOpenFiles": [
+    "02 - Atomic/20240501 - 171518 - Proof method Resolution.md",
+    "02 - Atomic/20240515 - 031951 - Definition - Isomorphic graph.md",
+    "02 - Atomic/20240515 - 032018 - Tree graph.md",
+    "02 - Atomic/20240620 - 174539 - Elementary primitive integrals.md",
+    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
+    "02 - Atomic/20240515 - 033826 - Algorithm - Fleury's algorithm.md",
+    "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
@@ -323,18 +284,11 @@
     "99 - Meta/1. Templates/dailyNote.md",
     "02 - Atomic/1725728319 - - Untitled Suffix.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
-    "01.Areas/1.UC3M/Networks.md",
     "2024-09-07.md",
     "01.Areas/1.UC3M/Heurística y Opti.md",
     "00.References/HyO_Biblio_Hamdy.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/redes-de-computadoras-un-enfoque-descendente_compress.pdf",
-    "01.Areas/1.UC3M/Calculus I.md",
-    "01.Areas/1.UC3M/Logic.md",
-    "02 - Atomic/20240523 - 122919 - Propositional logic.md",
-    "01.Areas/1.UC3M/DiffCalc.md",
-    "02 - Atomic/1725231651 - - Untitled Suffix.md",
-    "99 - Meta/1. Templates/command.md",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "99 - Meta/0. Attachments/Diagrama3 (1).png",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
