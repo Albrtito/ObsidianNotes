@@ -67,7 +67,7 @@ Solución: Mecanismos de control a los directivos
 + Unir al directivo con la pasta → Pagar en acciones o extras en el sueldo
 + Auditores para comprobar (gente que mandas para ver q tal)
 + Indicadores → (Cuidado pq con esto se puede jugar hacerlos cambiar como quieras)
-+ Controles externos: OPAS
++ Controles externos: OPAS → Si una empresa baja de valor hasta un punto crítico existen agencias con la capacidad de la empresa de bolsa y vender gran parte de las acciones a otra empresa. 
 def:  **OPA**: Oferta pública de adquisición de empresas
 	
 Vs la empresa individual: 
@@ -77,6 +77,15 @@ Vs la empresa individual:
 + Se obtiene financiación más fácilmente
 + Favorece la especialización → Se separa la parte económica, política y de gestión. 
 + Aunq desapareciese el fundador la empresa puede seguir 
+
+**Sociedades colectivas:**
+Conjunto de socios con responsabilidad ilimitada y derecho a participar en la dirección. 
++ No se transmite la participación del socio (salvo que haya autorización del resto de los socios)
++ Los socios son imprescindibles para que exista la sociedad
+**Remarks:** 
++ Cada socio responde de forma ilimitada p**or el porcentaje de la empresa que tiene**
++ Lo que importa es **el nombre** y **prestigio** de la empresa, que van ligados
++ Se ve en: Colegios de abogados o arquitectos
 ### Criterios de elección: 
 + Tipo de actividad
 + Responsabilidad
