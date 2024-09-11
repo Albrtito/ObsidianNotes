@@ -2548,6 +2548,8 @@ transmitting
 traditional
 transmit
 technicalities
+terciario
+trabajadores
 dailyNote
 day
 during
@@ -5187,6 +5189,7 @@ describing
 desktop
 destination
 decibilidad
+develop
 check
 classes
 cssclasses
@@ -8017,6 +8020,8 @@ communicate
 calculator
 consiste
 cticos
+communicating
+competencia
 lifeOS
 liking
 las
@@ -30175,6 +30180,7 @@ GlNt
 Gtk
 GoWdz
 GzWd
+Grande
 Training
 Today
 Tomorrow
@@ -32699,6 +32705,7 @@ TdJ
 TIN
 TZd
 Taha
+Tama
 Movement
 MM
 MMMM
@@ -35163,6 +35170,11 @@ MKi
 Myb
 Movility
 Mobility
+Micro
+Mediana
+Monomercado
+Multimercado
+Multinacional
 reflections
 reels
 routine
@@ -37756,6 +37768,7 @@ rlb
 rwl
 rXb
 resoluci
+receipt
 here
 hour
 home
@@ -47368,6 +47381,7 @@ encodings
 establishing
 estudiante
 estudios
+entities
 Instagram
 IRIS
 Intendencia
@@ -56875,6 +56889,7 @@ PsKK
 Prj
 Packet
 Practicas
+Peque
 something
 start
 st
@@ -59615,6 +59630,7 @@ switches
 splits
 switcher
 suits
+secundario
 No
 NOTE
 Normalmente
@@ -64583,6 +64599,8 @@ portable
 public
 primaria
 providing
+private
+primario
 UC
 UNIDADES
 Unidades
@@ -72164,6 +72182,7 @@ aVv
 aFu
 asignatura
 algoritmos
+actions
 of
 otro
 opciones
@@ -79709,6 +79728,9 @@ mrKnY
 myth
 measured
 measure
+messages
+mediana
+microempresas
 YYYY
 YYYYMMDD
 YU
@@ -91598,6 +91620,7 @@ CgbnDQytJ
 CUO
 Computers
 Carlos
+Criterios
 your
 ya
 yo
@@ -96352,6 +96375,7 @@ Switches
 Susana
 Sanjurjo
 Sixto
+Sector
 La
 Las
 Lanz

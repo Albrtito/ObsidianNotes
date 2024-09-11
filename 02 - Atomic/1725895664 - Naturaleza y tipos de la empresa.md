@@ -33,3 +33,4 @@ Finalmente, debemos hablar sobre las funciones y procesos dentro de la empresa. 
 ### Cadena de valor:
 Y, por último, hay el concepto de cadena de valor, que describe el proceso de creación de valor dentro de la empresa. Esta cadena se compone de procesos, subprocesos, actividades y tareas, con un enfoque en la creación de bienes o servicios.
 
+## Tipos de empresas: 
