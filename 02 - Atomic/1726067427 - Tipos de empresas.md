@@ -35,10 +35,11 @@ Podemos dividir los tipos de empresa según:
 		  **Namely**: Los socios se juntan para crear una persona jurídica.
 ### Más allá en las empresas sociales: 
 Dividimos: 
-+ Sociedades personalistas: La persona socio con independencia a la aportación económica. La condición de socio es intransmisible.
+
+**Sociedades personalistas(Autónomos)**: La persona socio con independencia a la aportación económica. La condición de socio es intransmisible.
 	+ Colectiva:
 	+ Comanditaria simple: 
-+ Sociedades de capitales: Cuenta la aportación económica (capital aportado) con independencia de la condición de socio. La condición de socio siendo transmissible con habilidades limitadas a su condición económica.
+**Sociedades de capitales:** Cuenta la aportación económica (capital aportado) con independencia de la condición de socio. La condición de socio siendo transmissible con habilidades limitadas a su condición económica.
 
 **Empresa individual:** (El autónomo)
 Individual con su propio negocio. Asumiendo riesgos y pero también toda la toma de decisiones cae bajo su cargo. 
@@ -64,6 +65,8 @@ Al **dividir entre accionistas y directivos** los directivos solo asumen el ries
 
 Solución: Mecanismos de control a los directivos
 + Órganos de gobierno de la empresa (mediadores)
+	+ Junta de accionistas
+	+ Consejo de administración
 + Unir al directivo con la pasta → Pagar en acciones o extras en el sueldo
 + Auditores para comprobar (gente que mandas para ver q tal)
 + Indicadores → (Cuidado pq con esto se puede jugar hacerlos cambiar como quieras)
@@ -86,6 +89,17 @@ Conjunto de socios con responsabilidad ilimitada y derecho a participar en la di
 + Cada socio responde de forma ilimitada p**or el porcentaje de la empresa que tiene**
 + Lo que importa es **el nombre** y **prestigio** de la empresa, que van ligados
 + Se ve en: Colegios de abogados o arquitectos
+
+**Cooperativas:**
+Empresas formadas por **grupos grandes**
++ Cooperativa de producción: Producción del aceite
+	+ trabajador = socio
++ Cooperativa de venta: Venta de cerezas
+	+ Actúan como **provedores**
+	+ Comercializan productos para mejorar condiciones de venta
++ Consumo y servicios diversos: Comunidades de vecinos
+
+
 ### Criterios de elección: 
 + Tipo de actividad
 + Responsabilidad
