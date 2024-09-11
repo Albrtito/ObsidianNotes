@@ -22,9 +22,14 @@ aliases:
 + Continua: 60%
 	+ Nota mínima en total: 3.5/10
 	+ Semanas: 
-		+ 6,13 → Problemas
-		+ 7,14 → Test
+		+ 6,13 → Problemas (2.5p)
+		+ 7,14 → Test 
 		+ 8,15 → Practicas
+	+ Problemas y test: 2.5p
+		+ Las notas de los test cuentan doble a la hora de hacer la media
+	+ Prácticas: 3.5p
+		+ Lineal: 1.75p
+		+ Búsqueda: 1.75
 + Final: 40%
 	+ Nota mínima: 4/10
 
