@@ -22,5 +22,9 @@ When we talk about the internet we are just describing a net of connected device
 
 In order to **connect all the host** to the network we use: 
 + [[1726049178 - Definition - Communication links|Communication links]] (the medium part of the net) 
-+ Packet switches (More about this later)
++ [[1726049339 - Definition - Packet switches|Packet switches]] (More about this later)
+
+When a computer sends any data, it **splits it into smaller parts (packets) and adds an explanatory header to each of them**, then this packets are send to the nearest switcher.
+
+### Protocols:
 
