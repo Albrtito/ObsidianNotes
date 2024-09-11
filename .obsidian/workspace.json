@@ -167,14 +167,15 @@
             }
           },
           {
-            "id": "70bb47a0b8d1b9c8",
+            "id": "53fa90150bb490db",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "760b9d5497fedc0d",
@@ -280,7 +281,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "b89f836cb1d8a8cd",
+  "active": "53fa90150bb490db",
   "lastOpenFiles": [
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
