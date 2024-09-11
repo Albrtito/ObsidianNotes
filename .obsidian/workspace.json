@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726049339 - Definition - Packet switches.md",
+                "file": "01.Areas/1.UC3M/Empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86db2124a93af0a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726067427 - Tipos de empresas.md"
+                "file": "02 - Atomic/1726071498 - Práctica - Elevator pitch.md"
               }
             }
           },
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
+                "file": "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
+                "file": "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
+                "file": "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -297,16 +310,17 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "35d81da1a7a8acbf",
+  "active": "86db2124a93af0a2",
   "lastOpenFiles": [
-    "02 - Atomic/1726049888 - Net protocols.md",
-    "02 - Atomic/1726067427 - Tipos de empresas.md",
-    "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
+    "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
     "01.Areas/1.UC3M/Empresa.md",
+    "02 - Atomic/1726049339 - Definition - Packet switches.md",
+    "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
+    "02 - Atomic/1726067427 - Tipos de empresas.md",
+    "02 - Atomic/1726049888 - Net protocols.md",
     "01.Areas/1.UC3M/Heurística y Opti.md",
     "02 - Atomic/1725968193 - Intro to networking.md",
     "00.References/Net_Biblio_Kurose.pdf",
-    "02 - Atomic/1726049339 - Definition - Packet switches.md",
     "02 - Atomic/1726049178 - Definition - Communication links.md",
     "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
     "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
@@ -325,7 +339,6 @@
     "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/Objectives from March 23 to September 23.md",
     "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
-    "02 - Atomic/20240307 - 000000 - ODEs.md",
     "00.References/Algebra_Biblio_Lectures.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/HyO_Biblio_Hamdy.pdf",

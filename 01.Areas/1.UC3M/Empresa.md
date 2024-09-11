@@ -29,3 +29,5 @@ tags:
 ## Notas: 
 1.  [[1725895664 - Naturaleza y tipos de la empresa|Naturaleza y tipos de la empresa]]
 + 
+## Prácticas:
+1. 
