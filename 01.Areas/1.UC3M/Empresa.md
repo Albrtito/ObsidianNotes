@@ -30,4 +30,4 @@ tags:
 1.  [[1725895664 - Naturaleza y tipos de la empresa|Naturaleza y tipos de la empresa]]
 + 
 ## Prácticas:
-1. 
+1.[[1726071498 - Práctica - Elevator pitch|Práctica - Elevator pitch]]
