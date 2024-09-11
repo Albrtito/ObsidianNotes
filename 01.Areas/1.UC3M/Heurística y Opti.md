@@ -16,6 +16,7 @@ aliases:
 + Profesor: 
 	+ Carlos Linares (Magistral)
 		+ carlos.linares@uc3m.es
+		+ 2.2.B09
 	+ Susana Fernandez
 ## Evaluación: 
 + Continua: 60%
