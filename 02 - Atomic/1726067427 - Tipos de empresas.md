@@ -67,6 +67,9 @@ Solución: Mecanismos de control a los directivos
 + Órganos de gobierno de la empresa (mediadores)
 	+ Junta de accionistas
 	+ Consejo de administración
+		+ Eligen al CEO
+		+ Consejeros internos y externos
+	+ El gobierno de la empresa sigue el **código de buen gobierno**
 + Unir al directivo con la pasta → Pagar en acciones o extras en el sueldo
 + Auditores para comprobar (gente que mandas para ver q tal)
 + Indicadores → (Cuidado pq con esto se puede jugar hacerlos cambiar como quieras)
