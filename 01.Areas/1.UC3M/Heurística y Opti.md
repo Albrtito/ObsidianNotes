@@ -14,7 +14,8 @@ aliases:
 + Coordinador: Linares Lopez, Carlos
 	+ [GitHub](https://github.com/clinaresl?tab=repositories)
 + Profesor: 
-	+ Linares (Magistral)
+	+ Carlos Linares (Magistral)
+		+ carlos.linares@uc3m.es
 	+ Susana Fernandez
 ## Evaluación: 
 + Continua: 60%
