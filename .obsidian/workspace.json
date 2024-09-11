@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Movilidad.md",
+                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Movilidad.md"
+                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Movilidad.md",
+                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Movilidad.md",
+                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Movilidad.md",
+                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -296,8 +296,8 @@
   },
   "active": "5f267c68f634cbeb",
   "lastOpenFiles": [
-    "02 - Atomic/1726044587 - Non-European Mobility.md",
     "01.Areas/1.UC3M/Movilidad.md",
+    "02 - Atomic/1726044587 - Non-European Mobility.md",
     "01.Areas/1.UC3M/Calculus I.md",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
