@@ -10,11 +10,11 @@ cssclasses:
 # Tipos de empresas
 Podemos dividir los tipos de empresa según: 
 ## Criterios económicos
-+ Sector:
++ **Sector**:
 	+ primario
 	+ secundario
 	+ terciario 
-+ Tamaño: 
++ **Tamaño**: 
 	+ Micro: < 10 trabajadores, < 2M
 	+ Pequeña: 10-49 trabajadores, 2-10M
 	+ Mediana: 50-249 trabajadores, 10-50M
@@ -28,5 +28,32 @@ Podemos dividir los tipos de empresa según:
 	+ Privadas
 	+ Públicas
 + **Personalidad:** 
-	+ Individuales
-	+ Sociales
+	+ Individuales: 
+		+ Titularidad sobre una **persona física** sea una persona individual, sociedad civil o comunidad de bienes. 
+	+ Sociales: 
+		+ Titularidad no sobre personas físicas sino sobre una **persona jurídica.** La persona jurídica se constituye en virtud de un **contrato de sociedades.** 
+		  **Namely**: Los socios se juntan para crear una persona jurídica.
+### Más allá en las empresas sociales: 
+Dividimos: 
++ Sociedades personalistas: La persona socio con independencia a la aportación económica. La condición de socio es intransmisible.
+	+ Colectiva:
+	+ Comanditaria simple: 
++ Sociedades de capitales: Cuenta la aportación económica (capital aportado) con independencia de la condición de socio. La condición de socio siendo transmissible con habilidades limitadas a su condición económica.
+
+Empresa individual: (El autónomo)
+Individual con su prpio negocio. Asumiendo riesgos y pero también toda la toma de decisiones cae bajo su cargo. 
+Ventajas: 
++ Autonomía 
++ Totalidad de renta
+Problemas: 
++ De financiación 
++ Para crecer
++ Aprovechar determinadas oportunidades de inversión
++ Concentración de los riesgos: La **responsabilidad es ilimitada**, esto quiere decir que el empresario responde con todos sus bienes ante deudas. 
++ 
+### Criterios de elección: 
++ Tipo de actividad
++ Responsabilidad
++ Fiscalidad 
++ Gastos
++ …
