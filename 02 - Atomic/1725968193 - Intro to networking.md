@@ -6,6 +6,9 @@ tags:
   - Networks
 References: "[[Net_Biblio_Kurose.pdf#page=28]]"
 cssclasses:
+sr-due: 2024-09-14
+sr-interval: 3
+sr-ease: 250
 ---
 # Intro to networking
 ## What is a net?
@@ -26,5 +29,7 @@ In order to **connect all the host** to the network we use:
 
 When a computer sends any data, it **splits it into smaller parts (packets) and adds an explanatory header to each of them**, then this packets are send to the nearest switcher.
 
-### Protocols:
-
+### Communication between nodes: 
+**Remark:** There is a bijection between a net and a graph. Therefore we can use notation such as nodes to refer the host or switches and edges to refer the communication links
+Computers communicate between them using [[1726049888 - Net protocols|Net protocols]]. These protocols give an **standard way of establishing a communication between two nodes**. 
+Anyone can create a protocol, though most protocols used are public.

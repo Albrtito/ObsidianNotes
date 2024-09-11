@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1725968193 - Intro to networking.md",
+                "file": "02 - Atomic/1726049888 - Net protocols.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +205,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "760b9d5497fedc0d",
@@ -312,36 +312,36 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "e28b9f0945e37a15",
+  "active": "5f267c68f634cbeb",
   "lastOpenFiles": [
-    "02 - Atomic/1726049888 - Net protocols.md",
-    "02 - Atomic/1725968193 - Intro to networking.md",
-    "00.References/Net_Biblio_Kurose.pdf",
     "02 - Atomic/1726049339 - Definition - Packet switches.md",
     "02 - Atomic/1726049178 - Definition - Communication links.md",
-    "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
-    "01.Areas/1.UC3M/Calculus I.md",
-    "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
-    "02 - Atomic/Some note.md",
-    "01.Areas/1.UC3M/Movilidad.md",
-    "02 - Atomic/1726044587 - Non-European Mobility.md",
-    "01.Areas/1.UC3M/Networks.md",
-    "00.References/Algebra_Biblio_Lectures.pdf",
-    "02 - Atomic/1725229167 - SOme title.md",
-    "02 - Atomic/20240501 - 154905 - Normal forms and resolution.md",
-    "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
+    "02 - Atomic/1725968193 - Intro to networking.md",
+    "02 - Atomic/1725910842 - Definition - Empresa.md",
     "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
-    "02 - Atomic/lifeOS.md",
+    "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
+    "02 - Atomic/20240501 - 143420 - Control flow testing.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
-    "02 - Atomic/20240501 - 124636 - Equivalent test classes.md",
-    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
-    "02 - Atomic/20240409 - 122918 - Definition - Test System S.md",
-    "02 - Atomic/20240408 - 185315 - Definition 113 Generating function.md",
-    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
-    "02 - Atomic/The Laplace transform.md",
-    "02 - Atomic/20240501 - 123349 - White box testing.md",
+    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
+    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
+    "02 - Atomic/The Laplace transform.md",
+    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
+    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
+    "02 - Atomic/Objectives from March 23 to September 23.md",
+    "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
+    "02 - Atomic/20240307 - 000000 - ODEs.md",
+    "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
+    "02 - Atomic/Syntax analysis.md",
+    "02 - Atomic/lifeOS.md",
+    "02 - Atomic/Using the convolution product to solve ODEs.md",
+    "02 - Atomic/20240409 - 132720 - Theorem - DeductionTheorem.md",
+    "02 - Atomic/1726049888 - Net protocols.md",
+    "00.References/Net_Biblio_Kurose.pdf",
+    "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
+    "00.References/Algebra_Biblio_Lectures.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/HyO_Biblio_Hamdy.pdf",
     "00.References/redes-de-computadoras-un-enfoque-descendente_compress.pdf",

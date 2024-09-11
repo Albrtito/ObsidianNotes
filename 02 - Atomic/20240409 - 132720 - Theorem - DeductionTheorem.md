@@ -2,10 +2,9 @@
 aliases:
   - Deduction Theorem
 tags:
-  - review
   - Logic
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-07
 sr-interval: 257
 sr-ease: 330

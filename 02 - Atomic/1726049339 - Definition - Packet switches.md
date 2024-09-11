@@ -8,6 +8,9 @@ tags:
   - Networks
 References: 
 cssclasses:
+sr-due: 2024-09-12
+sr-interval: 1
+sr-ease: 230
 ---
 # Packet switches
 

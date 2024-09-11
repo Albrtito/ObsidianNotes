@@ -2,8 +2,7 @@
 Date: 2024-03-12
 tags:
   - SoftwareDev
-  - "#review"
-"References:":
+"References:": 
 sr-due: 2024-10-18
 sr-interval: 170
 sr-ease: 250

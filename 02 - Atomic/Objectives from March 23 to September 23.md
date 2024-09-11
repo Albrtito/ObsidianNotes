@@ -6,7 +6,7 @@ sr-interval: 102
 sr-ease: 246
 ---
 For this period I'll follow the  General, specific and operative objectives strategy. I'll divide the period in two. From march to July (une included as there are a few exams taking place in those dates) and July to September (the summer season). To keep track of the set objectives the [dailyNote](../99%20-%20Meta/1.%20Templates/dailyNote.md) template will be updated with all the task extracted in the operative objectives. 
-This note will be reviewed periodically to modify any objectives and check that the chosen strategy is working. #review 
+This note will be reviewed periodically to modify any objectives and check that the chosen strategy is working. 
 # General objectives: 
 ## 1. Use of RRSS and online learning resources
 With a great use of social media comes great responsibility. I can really easily go towards a misusage of it all. I want to focus on using it for longer content. I recently discovered during the t3chfest that all CS media is on twitter. If I start using twitter or instagram I would like it to be focused on the content I have chosen to see. 
