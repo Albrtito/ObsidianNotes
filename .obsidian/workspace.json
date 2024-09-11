@@ -42,9 +42,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f267c68f634cbeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/1.UC3M/Movilidad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md"
+                "file": "01.Areas/1.UC3M/Movilidad.md"
               }
             }
           },
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "01.Areas/1.UC3M/Movilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "01.Areas/1.UC3M/Movilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Calculus I.md",
+                "file": "01.Areas/1.UC3M/Movilidad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -281,8 +294,11 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "53fa90150bb490db",
+  "active": "5f267c68f634cbeb",
   "lastOpenFiles": [
+    "02 - Atomic/1726044587 - Non-European Mobility.md",
+    "01.Areas/1.UC3M/Movilidad.md",
+    "01.Areas/1.UC3M/Calculus I.md",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/20240614 - 123841 - Theorem - Bolzano.md",
     "02 - Atomic/1725968193 - Intro to networking.md",
@@ -307,9 +323,6 @@
     "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
     "02 - Atomic/20240409 - 122243 -Proof theory.md",
     "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
-    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
-    "02 - Atomic/Systems of First-Order ODEs.md",
     "00.References/Net_Biblio_Kurose.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/HyO_Biblio_Hamdy.pdf",
