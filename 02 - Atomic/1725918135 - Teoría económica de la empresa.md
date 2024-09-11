@@ -43,3 +43,4 @@ Cuando hablamos de procesos apare el concepto de [[1725918620 - Cadena de valor|
 Podemos dividir entre: 
 + **Procesos de negocio/Actividades primarias:** Aquellas que satisfacen al cliente. (Logística, operaciones, marketing, ventas)
 + **Procesos de apoyo/Actividades de soporte:** Dan servicio a los procesos de negocio/proceso de producción. (Gestión, Recursos humanos, Desarrollo). 
+#Duda : Diferencia entre proceso de negocio/actividad primaria? Además de la relación que tienen en la cadena de valor.
