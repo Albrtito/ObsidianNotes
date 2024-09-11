@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-09-11
-sr-interval: 1
+sr-due: 2024-09-13
+sr-interval: 2
 sr-ease: 230
 ---
 # Naturaleza y tipos de la empresa
