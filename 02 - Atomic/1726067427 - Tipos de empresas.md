@@ -56,15 +56,27 @@ Problemas:
 Capital dividido en acciones → Se compran en los mercados. Quien tenga la acción tiene derechos económicos y políticos
 Ventajas: 
 + Obtener capital sacando más acciones → #Duda Esto devalúa a las actuales?
++ 
+Problema de agente: 
 
+Al **dividir entre accionistas y directivos** los directivos solo asumen el riesgo profesional, pueden tomar decisiones que perjudiquen al accionista.
+	  La información que tienen directivos es muy diferente a la que tienen los accionistas → Divergencia de objetivos
+
+Solución: Mecanismos de control a los directivos
++ Órganos de gobierno de la empresa (mediadores)
++ Unir al directivo con la pasta → Pagar en acciones o extras en el sueldo
++ Auditores para comprobar (gente que mandas para ver q tal)
++ Indicadores → (Cuidado pq con esto se puede jugar hacerlos cambiar como quieras)
++ Controles externos: OPAS
+def:  **OPA**: Oferta pública de adquisición de empresas
+	
 Vs la empresa individual: 
 + Limitación de responsabilidad → Solo se pierde lo invertido
 + Diversificación de riesgos → El riesgo se divide entre político y económico. (Junta directiva)
 + Facilidad de deshacerse de la acción
 + Se obtiene financiación más fácilmente
 + Favorece la especialización → Se separa la parte económica, política y de gestión. 
-+ Aunq se muera el fundador 
-+ 
++ Aunq desapareciese el fundador la empresa puede seguir 
 ### Criterios de elección: 
 + Tipo de actividad
 + Responsabilidad
