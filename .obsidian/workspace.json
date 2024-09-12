@@ -78,33 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726140844 - Pins.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f24d2ebdeb0cc38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726140902 - Sudadera EmeStudios.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c6c326299f8dea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726140949 - Mochilas Vans.md",
+                "file": "02 - Atomic/1726141160 - Altavoces.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -193,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726140949 - Mochilas Vans.md"
+                "file": "02 - Atomic/1726141160 - Altavoces.md"
               }
             }
           },
@@ -211,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726140949 - Mochilas Vans.md",
+                "file": "02 - Atomic/1726141160 - Altavoces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726140949 - Mochilas Vans.md",
+                "file": "02 - Atomic/1726141160 - Altavoces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726140949 - Mochilas Vans.md",
+                "file": "02 - Atomic/1726141160 - Altavoces.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -348,16 +322,19 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "5c6c326299f8dea2",
+  "active": "7383809d89ea172f",
   "lastOpenFiles": [
-    "02 - Atomic/1726140949 - Mochilas Vans.md",
+    "99 - Meta/0. Attachments/Pasted image 20240912133935.png",
+    "01.Areas/1.UC3M/Empresa.md",
+    "02 - Atomic/1726141160 - Altavoces.md",
     "02 - Atomic/1726140844 - Pins.md",
     "02 - Atomic/1726140902 - Sudadera EmeStudios.md",
+    "02 - Atomic/1726140949 - Mochilas Vans.md",
+    "99 - Meta/0. Attachments/Pasted image 20240912133611.png",
     "99 - Meta/0. Attachments/Pasted image 20240912133443.png",
     "01.Areas/3.Matterhorn/Caleao 24.md",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
-    "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
     "02 - Atomic/1726049339 - Definition - Packet switches.md",
     "02 - Atomic/1726067427 - Tipos de empresas.md",
@@ -377,8 +354,6 @@
     "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "02 - Atomic/The Laplace transform.md",
-    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
-    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
     "00.References/Algebra_Biblio_Lectures.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/HyO_Biblio_Hamdy.pdf",
@@ -397,7 +372,6 @@
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205834.png",
     "99 - Meta/0. Attachments/Screenshot 2024-06-14 at 13.32.01.png",
-    "99 - Meta/0. Attachments/Pasted image 20240606182258.png",
     "Differential Calculus.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/1.UC3M/Files and data bases.canvas",
