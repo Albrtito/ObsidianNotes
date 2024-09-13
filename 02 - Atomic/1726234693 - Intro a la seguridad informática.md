@@ -38,6 +38,8 @@ La definición moderna incluye los tres objetivos de la seguridad informática: 
 + Cuando la clave del cifrado y la del descifrado es la misma se denomina **cifrado simétrico**. Cuando son dos claves diferentes lo llamamos **cifrado asimétrico**
 	+ La criptografía asimétrica hace un **intercambio de claves en medio público de forma segura**. → En esto está lo importante. 
 	  De esta forma podemos introducir el cripto sistemas.
+#### Criptosistema:![[Screenshot 2024-09-13 at 4.07.14 PM.png]]
+
 #### Propiedades del cifrado: 
 Definimos una serie de espacios y transformaciones de cada cifrado. 
 **Espacio de mensajes:** Cantidad de mensajes que se pueden generar
