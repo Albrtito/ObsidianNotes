@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "856d8827fec0c08d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática .md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25cd44e5029377ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/1.UC3M/Networks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5041847229004
+    "width": 313.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -101,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md"
+                "file": "01.Areas/1.UC3M/Networks.md"
               }
             }
           },
@@ -119,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "01.Areas/1.UC3M/Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,21 +164,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "01.Areas/1.UC3M/Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1ce674b122fb57b1",
+            "id": "5fcb3196d7e0f846",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "760b9d5497fedc0d",
@@ -163,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "01.Areas/1.UC3M/Networks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,8 +285,14 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "bec98dd69ebac4cb",
+  "active": "25cd44e5029377ca",
   "lastOpenFiles": [
+    "02 - Atomic/1725968193 - Intro to networking.md",
+    "01.Areas/1.UC3M/Networks.md",
+    "02 - Atomic/1726234693 - Intro a la seguridad informática .md",
+    "02 - Atomic/1726234986 - - Untitled Suffix.md",
+    "02 - Atomic/1726234981 - - Untitled Suffix.md",
+    "01.Areas/1.UC3M/Cripto.md",
     "99 - Meta/0. Attachments/Pasted image 20240912133935.png",
     "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1726141160 - Altavoces.md",
@@ -274,7 +309,6 @@
     "02 - Atomic/1726067427 - Tipos de empresas.md",
     "02 - Atomic/1726049888 - Net protocols.md",
     "01.Areas/1.UC3M/Heurística y Opti.md",
-    "02 - Atomic/1725968193 - Intro to networking.md",
     "00.References/Net_Biblio_Kurose.pdf",
     "02 - Atomic/1726049178 - Definition - Communication links.md",
     "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
@@ -284,10 +318,6 @@
     "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
     "02 - Atomic/20240501 - 143420 - Control flow testing.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
-    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
-    "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
-    "02 - Atomic/The Laplace transform.md",
     "00.References/Algebra_Biblio_Lectures.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/HyO_Biblio_Hamdy.pdf",
@@ -305,7 +335,6 @@
     "99 - Meta/0. Attachments/Pasted image 20240616140604.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205836.png",
     "99 - Meta/0. Attachments/Pasted image 20240615205834.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-06-14 at 13.32.01.png",
     "Differential Calculus.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/1.UC3M/Files and data bases.canvas",

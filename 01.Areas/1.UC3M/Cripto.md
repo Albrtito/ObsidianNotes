@@ -45,3 +45,5 @@ tags:
 - Jean-Philippe Aumasson . Serious Cryptography: A Practical Introduction to Modern Encryption . Random House LCC US .
 - W. STALLINGS. CRYPTOGRAPHY AND NETWORK SECURITY. (5ª EDICIÓN). PRENTICE HALL.
 ## Notas: 
++ [[1726234693 - Intro a la seguridad informática |Intro a la seguridad informática]]
++ 
