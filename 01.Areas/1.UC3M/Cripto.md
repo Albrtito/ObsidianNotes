@@ -37,7 +37,7 @@ tags:
 > + En principio el final no incluye nada de los labs ni práctica. 
 
 
-
+	
 ## Bibliografía: 
 - A.I. González-Tablas Ferreres y P. Martín González. Recopilación de problemas de examen 2010-2015. Criptografía y Seguridad Informática. CopyRed. 2016
 - C. Paar. Understanding Cryptography: A Textbook for Students and Practitioners. Springer-Verlag. 2014

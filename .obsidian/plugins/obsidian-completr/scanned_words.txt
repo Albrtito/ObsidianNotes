@@ -5196,6 +5196,8 @@ disciplina
 datos
 descifrado
 denomina
+directa
+difusi
 check
 classes
 cssclasses
@@ -8039,6 +8041,9 @@ claves
 cripto
 cifrados
 codificaci
+criptosistema
+confusi
+caracteres
 lifeOS
 liking
 las
@@ -20422,6 +20427,7 @@ uUFeJ
 uXt
 ultimate
 utilizando
+usan
 in
 is
 important
@@ -32733,6 +32739,7 @@ TIN
 TZd
 Taha
 Tama
+Transposici
 Movement
 MM
 MMMM
@@ -35204,6 +35211,7 @@ Multimercado
 Multinacional
 Medidas
 Mensaje
+Mismos
 reflections
 reels
 routine
@@ -52164,6 +52172,7 @@ KCTt
 Kza
 KZC
 KlW
+Kerckhoffs
 not
 now
 no
@@ -56926,6 +56935,7 @@ Peque
 Pins
 Protecci
 Posibles
+Principios
 something
 start
 st
@@ -59671,6 +59681,9 @@ seguridad
 sicas
 significado
 serie
+sustituci
+secrecy
+sustituyendo
 No
 NOTE
 Normalmente
@@ -64643,6 +64656,8 @@ private
 primario
 proteger
 principios
+permutaci
+posiciones
 UC
 UNIDADES
 Unidades
@@ -77119,6 +77134,7 @@ RFe
 Routers
 Ram
 Ropa
+Redistribuci
 morning
 me
 mm
@@ -79789,6 +79805,9 @@ moderna
 mensaje
 medio
 mensajes
+mediante
+modificando
+modificaci
 YYYY
 YYYYMMDD
 YU
@@ -91689,6 +91708,8 @@ Clave
 Criptosistema
 Cantidad
 Codificaci
+Caracter
+Claude
 your
 ya
 yo
@@ -96445,6 +96466,8 @@ Sanjurjo
 Sixto
 Sector
 Sudadera
+Shanon
+Sustituci
 La
 Las
 Lanz

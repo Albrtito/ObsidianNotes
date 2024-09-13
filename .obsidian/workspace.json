@@ -32,19 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "25cd44e5029377ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -287,8 +274,8 @@
   "active": "856d8827fec0c08d",
   "lastOpenFiles": [
     "01.Areas/1.UC3M/Cripto.md",
-    "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+    "01.Areas/1.UC3M/Networks.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 4.07.14 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.58.36 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.57.42 PM.png",

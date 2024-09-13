@@ -54,3 +54,8 @@ Definimos una serie de espacios y transformaciones de cada cifrado.
 #### Características del criptosistema:
 
 ### Operaciones de sustitución y permutación: 
+> **Bibliografía:** Claude Shanon. Communication theory of secrecy systems (1949)
+Las técnicas matemáticas de cifrado que se usan aún hoy en día son las más básicas: 
++ **Sustitución:** Añade **confusión** mediante sustituyendo o modificando caracteres
++ **Transposición o permutación:** Redistribución de los caracteres sin modificación directa. A esto se le llama **difusión**
+	+ Mismos elementos en posiciones diferentes
