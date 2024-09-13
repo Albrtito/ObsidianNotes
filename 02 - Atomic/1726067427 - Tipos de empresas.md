@@ -11,7 +11,7 @@ cssclasses:
 Podemos dividir los tipos de empresa según: 
 ## Criterios económicos
 + **Sector**:
-	+ primario
+	+ Primario
 	+ secundario
 	+ terciario 
 + **Tamaño**: 
@@ -24,6 +24,9 @@ Podemos dividir los tipos de empresa según:
 	+ Nacional/Multinacional
 
 ## Criterios jurídicos: 
+### Titularidad de los medios de producción:
+Esto se traduce a titularidad del capital total de la empresa. Dividimos empresas en do
+
 + **Titularidad de los medios de producción:** (Titularidad de las acciones)
 	+ Privadas
 	+ Públicas
