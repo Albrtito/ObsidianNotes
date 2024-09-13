@@ -24,18 +24,25 @@ Podemos dividir los tipos de empresa según:
 	+ Nacional/Multinacional
 
 ## Criterios jurídicos: 
+Desde un punto de vista legal podemos analizar las empresas bajo dos importantes criterios. Según la titularidad del capital y según la personalidad (De quién es la empresa).
+### Criterios de selección: 
+1. **Tipo de actividad:** Se require un tipo de forma jurídica?
+2. **Responsabilidad:** Que responsabilidad se quiere tener respecto a los bienes de la empresa?
+#Duda : Cuando hablamos de bienes de la empresa, lo estamos usando como un sinónimo de capital?
+3. **Fiscalidad:** Impuestos
+4. **Gastos de constitución y mantenimiento:** Las empresas sociales grandes requieren una gestión de gobierno interior para solucionar el problema de agencia
+5. **Flexibilidad:** Quienes forman la empresa? Queremos que esto cambie pronto?
 ### Titularidad de los medios de producción:
-Esto se traduce a titularidad del capital total de la empresa. Dividimos empresas en do
-
-+ **Titularidad de los medios de producción:** (Titularidad de las acciones)
-	+ Privadas
-	+ Públicas
-+ **Personalidad:** 
-	+ Individuales: 
-		+ Titularidad sobre una **persona física** sea una persona individual, sociedad civil o comunidad de bienes. 
-	+ Sociales: 
-		+ Titularidad no sobre personas físicas sino sobre una **persona jurídica.** La persona jurídica se constituye en virtud de un **contrato de sociedades.** 
-		  **Namely**: Los socios se juntan para crear una persona jurídica.
+Esto se traduce a titularidad del capital total de la empresa. Dividimos empresas en dos grandes grupos.
++ **Privadas**: Aquellas empresas tituladas por conjuntos de ciudadanos. Con poca o nula aportación económica del estado.
++ **Públicas**: Aquellas empresas tituladas por el estado. El capital de la empresa proviene en gran parte del estado. 
+	+ ejemplo: Las universidades publicas.
+### Personalidad:
++ **Individuales**: 
+	Titularidad sobre una **persona física** sea una persona individual, sociedad civil o comunidad de bienes. 
+ + **Sociales**: 
+	Titularidad no sobre personas físicas sino sobre una **persona jurídica.** La persona jurídica se constituye en virtud de un **contrato de sociedades.** 
+	**Namely**: Los socios se juntan para crear una persona jurídica.
 ### Más allá en las empresas sociales: 
 Dividimos: 
 
