@@ -11,52 +11,16 @@
             "id": "bec98dd69ebac4cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "abbfe1933e72d3b3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e28b9f0945e37a15",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "35d81da1a7a8acbf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "86db2124a93af0a2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7383809d89ea172f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/1.UC3M/Cripto.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726141160 - Altavoces.md"
+                "file": "01.Areas/1.UC3M/Cripto.md"
               }
             }
           },
@@ -155,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726141160 - Altavoces.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726141160 - Altavoces.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726141160 - Altavoces.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -292,7 +256,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "7383809d89ea172f",
+  "active": "bec98dd69ebac4cb",
   "lastOpenFiles": [
     "99 - Meta/0. Attachments/Pasted image 20240912133935.png",
     "01.Areas/1.UC3M/Empresa.md",
