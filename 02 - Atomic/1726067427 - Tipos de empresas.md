@@ -47,11 +47,7 @@ Esto se traduce a titularidad del capital total de la empresa. Dividimos empresa
 	**Namely**: Los socios se juntan para crear una persona jurídica.
 
 
-**Sociedad anónima:** (S.A)
-Capital dividido en acciones → Se compran en los mercados. Quien tenga la acción tiene derechos económicos y políticos
-Ventajas: 
-+ Obtener capital sacando más acciones → #Duda Esto devalúa a las actuales?
-+ 
+
 Problema de agente: 
 
 Al **dividir entre accionistas y directivos** los directivos solo asumen el riesgo profesional, pueden tomar decisiones que perjudiquen al accionista.

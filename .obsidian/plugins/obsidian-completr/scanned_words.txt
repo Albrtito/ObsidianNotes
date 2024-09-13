@@ -2561,6 +2561,7 @@ traduce
 tituladas
 titulares
 transmitir
+transmiten
 dailyNote
 day
 during
@@ -8089,6 +8090,7 @@ corre
 cuestas
 colectiva
 comanditaria
+coordinaci
 lifeOS
 liking
 las
@@ -32816,6 +32818,7 @@ Titularidad
 Totalidad
 Tipo
 Toda
+Tienes
 Movement
 MM
 MMMM
@@ -47512,6 +47515,8 @@ exista
 elecci
 estamos
 encima
+elegir
+encuentra
 Instagram
 IRIS
 Intendencia
@@ -59796,6 +59801,7 @@ separa
 salvo
 selecci
 solucionar
+siguientes
 No
 NOTE
 Normalmente

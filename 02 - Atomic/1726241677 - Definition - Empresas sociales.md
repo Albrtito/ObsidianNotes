@@ -23,7 +23,7 @@ Son aquellas en las que los socios son.Con **independencia a la aportación de e
 3. **Sociedades de capitales:**
 **La aportación económica cuenta por encima de la condición de socio**. 
 + Se puede transmitir la condición de socio. 
-	1. Sociedad anónima 
+	1. [[1726242484 - Definition - Sociedad anónima (S.A)|Sociedad anónima (S.A)]] 
 	2. Sociedad de Responsabilidad Limitada
 	3. Sociedad Comanditaria por Acciones
 1. **Otras:**
