@@ -28,7 +28,6 @@ La definición moderna incluye los tres objetivos de la seguridad informática: 
 > La criptografía es la disciplina que estudia los principios, métodos y medios de **transformar los datos para ocultar su significado**, garantizar su **integridad**, establecer su autenticidad y **prevenir** su **repudio** 
 #Duda: Diferencia entre codificador y cifrador?
 
-### Cifrado:
 **Cifrador:** Aquel que cifra el mensaje original utilizando una clave.
 ![[Screenshot 2024-09-13 at 3.58.36 PM.png]]
 + **k:** Clave
@@ -38,14 +37,20 @@ La definición moderna incluye los tres objetivos de la seguridad informática: 
 + Cuando la clave del cifrado y la del descifrado es la misma se denomina **cifrado simétrico**. Cuando son dos claves diferentes lo llamamos **cifrado asimétrico**
 	+ La criptografía asimétrica hace un **intercambio de claves en medio público de forma segura**. → En esto está lo importante. 
 	  De esta forma podemos introducir el cripto sistemas.
-#### Criptosistema:![[Screenshot 2024-09-13 at 4.07.14 PM.png]]
++ A diferencia que en el cifrado, la codificación **no no necesita una clave.**
 
-#### Propiedades del cifrado: 
+### Propiedades del cifrado: 
 Definimos una serie de espacios y transformaciones de cada cifrado. 
 **Espacio de mensajes:** Cantidad de mensajes que se pueden generar
 **Espacio de cifrados:** Posibles cifrados que se pueden generar
 **Espacio de claves:**
 **Familia de transformaciones de cifrado:**
 **Familia de transformaciones de descifrado:**
-### Codificación:
-En la codificación, al contrario que en en el cifrado, **no hace falta que haya una clave.**
+
+### Principios de Kerckhoffs
+
+### Criptosistema:
+![[Screenshot 2024-09-13 at 4.07.14 PM.png]]
+#### Características del criptosistema:
+
+### Operaciones de sustitución y permutación: 

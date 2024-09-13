@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md"
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,14 +284,14 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "bec98dd69ebac4cb",
+  "active": "856d8827fec0c08d",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Cripto.md",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 4.07.14 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.58.36 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.57.42 PM.png",
-    "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1725968193 - Intro to networking.md",
     "02 - Atomic/1726234986 - - Untitled Suffix.md",
     "02 - Atomic/1726234981 - - Untitled Suffix.md",
