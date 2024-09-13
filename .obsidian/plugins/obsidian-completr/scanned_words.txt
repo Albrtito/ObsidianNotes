@@ -2559,6 +2559,8 @@ trabajador
 titularidad
 traduce
 tituladas
+titulares
+transmitir
 dailyNote
 day
 during
@@ -5219,6 +5221,7 @@ desapareciese
 derecho
 diversos
 decide
+dicas
 check
 classes
 cssclasses
@@ -8084,6 +8087,8 @@ caen
 contratados
 corre
 cuestas
+colectiva
+comanditaria
 lifeOS
 liking
 las
@@ -15380,6 +15385,7 @@ financiaci
 fundador
 formadas
 forman
+firma
 Woke
 Write
 Went
@@ -23155,6 +23161,7 @@ internos
 imprescindibles
 importa
 individualmente
+intranspitible
 Enough
 Esta
 Est
@@ -47504,6 +47511,7 @@ extras
 exista
 elecci
 estamos
+encima
 Instagram
 IRIS
 Intendencia
@@ -69753,6 +69761,7 @@ Asumiendo
 Autonom
 Aprovechar
 Auditores
+Acciones
 all
 at
 aliases
@@ -98986,6 +98995,7 @@ Lopez
 Legales
 LOPD
 Limitaci
+Limitada
 Otras
 Otros
 OS

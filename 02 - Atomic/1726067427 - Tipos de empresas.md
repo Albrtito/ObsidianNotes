@@ -25,7 +25,8 @@ Podemos dividir los tipos de empresa según:
 
 ## Criterios jurídicos: 
 Desde un punto de vista legal podemos analizar las empresas bajo dos importantes criterios. Según la titularidad del capital y según la personalidad (De quién es la empresa).
-### Criterios de selección: 
+### Como elegir tipo: 
+Se tienen en cuenta los siguientes aspectos:
 1. **Tipo de actividad:** Se require un tipo de forma jurídica?
 2. **Responsabilidad:** Que responsabilidad se quiere tener respecto a los bienes de la empresa?
 #Duda : Cuando hablamos de bienes de la empresa, lo estamos usando como un sinónimo de capital?
@@ -44,14 +45,6 @@ Esto se traduce a titularidad del capital total de la empresa. Dividimos empresa
  + [[1726241677 - Definition - Empresas sociales|Empresas sociales]]: 
 	Titularidad no sobre personas físicas sino sobre una **persona jurídica.** La persona jurídica se constituye en virtud de un **contrato de sociedades.** 
 	**Namely**: Los socios se juntan para crear una persona jurídica.
-### Más allá en las empresas sociales: 
-Dividimos: 
-
-**Sociedades personalistas(Autónomos)**: La persona socio con independencia a la aportación económica. La condición de socio es intransmisible.
-	+ Colectiva:
-	+ Comanditaria simple: 
-**Sociedades de capitales:** Cuenta la aportación económica (capital aportado) con independencia de la condición de socio. La condición de socio siendo transmissible con habilidades limitadas a su condición económica.
-
 
 
 **Sociedad anónima:** (S.A)
@@ -103,10 +96,3 @@ Empresas formadas por **grupos grandes**
 	+ Comercializan productos para mejorar condiciones de venta
 + Consumo y servicios diversos: Comunidades de vecinos
 
-
-### Criterios de elección: 
-+ Tipo de actividad
-+ Responsabilidad
-+ Fiscalidad 
-+ Gastos
-+ …
