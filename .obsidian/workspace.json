@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática .md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md"
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,14 +164,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5fcb3196d7e0f846",
+            "id": "feab4feeb51e66fa",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -285,14 +285,14 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "25cd44e5029377ca",
+  "active": "856d8827fec0c08d",
   "lastOpenFiles": [
-    "02 - Atomic/1725968193 - Intro to networking.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
     "01.Areas/1.UC3M/Networks.md",
-    "02 - Atomic/1726234693 - Intro a la seguridad informática .md",
+    "02 - Atomic/1725968193 - Intro to networking.md",
     "02 - Atomic/1726234986 - - Untitled Suffix.md",
     "02 - Atomic/1726234981 - - Untitled Suffix.md",
-    "01.Areas/1.UC3M/Cripto.md",
     "99 - Meta/0. Attachments/Pasted image 20240912133935.png",
     "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1726141160 - Altavoces.md",
@@ -317,7 +317,6 @@
     "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
     "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
     "02 - Atomic/20240501 - 143420 - Control flow testing.md",
-    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "00.References/Algebra_Biblio_Lectures.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/HyO_Biblio_Hamdy.pdf",
