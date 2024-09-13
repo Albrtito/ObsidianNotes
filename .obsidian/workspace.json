@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Empresa.md",
+                "file": "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,20 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53a0bec80af80a6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
+                "file": "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726067427 - Tipos de empresas.md"
+                "file": "02 - Atomic/1726241677 - Definition - Empresas sociales.md"
               }
             }
           },
@@ -192,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
+                "file": "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
+                "file": "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
+                "file": "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -329,12 +316,13 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "a4294bb77125d7c8",
+  "active": "663d646c373b11d2",
   "lastOpenFiles": [
     "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
     "02 - Atomic/1726067427 - Tipos de empresas.md",
-    "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
     "01.Areas/1.UC3M/Empresa.md",
+    "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
+    "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
     "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
     "01.Areas/1.UC3M/Cripto.md",
     "01.Areas/1.UC3M/Networks.md",
@@ -364,7 +352,6 @@
     "02 - Atomic/1725910842 - Definition - Empresa.md",
     "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
     "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
-    "02 - Atomic/20240501 - 143420 - Control flow testing.md",
     "00.References/Algebra_Biblio_Lectures.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/HyO_Biblio_Hamdy.pdf",

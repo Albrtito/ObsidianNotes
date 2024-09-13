@@ -38,9 +38,10 @@ Esto se traduce a titularidad del capital total de la empresa. Dividimos empresa
 + **Públicas**: Aquellas empresas tituladas por el estado. El capital de la empresa proviene en gran parte del estado. 
 	+ ejemplo: Las universidades publicas.
 ### Personalidad:
-+ **Individuales**: 
+#Duda : Personalidad y titularidad se refieren a lo mismo?
++ [[1726241219 - Definition - Empresas Individuales|Empresas Individuales]]: 
 	Titularidad sobre una **persona física** sea una persona individual, sociedad civil o comunidad de bienes. 
- + **Sociales**: 
+ + [[1726241677 - Definition - Empresas sociales|Empresas sociales]]: 
 	Titularidad no sobre personas físicas sino sobre una **persona jurídica.** La persona jurídica se constituye en virtud de un **contrato de sociedades.** 
 	**Namely**: Los socios se juntan para crear una persona jurídica.
 ### Más allá en las empresas sociales: 
@@ -51,17 +52,7 @@ Dividimos:
 	+ Comanditaria simple: 
 **Sociedades de capitales:** Cuenta la aportación económica (capital aportado) con independencia de la condición de socio. La condición de socio siendo transmissible con habilidades limitadas a su condición económica.
 
-**Empresa individual:** (El autónomo)
-Individual con su propio negocio. Asumiendo riesgos y pero también toda la toma de decisiones cae bajo su cargo. 
-Ventajas: 
-+ Autonomía 
-+ Totalidad de renta
-Problemas: 
-+ De financiación 
-+ Para crecer
-+ Aprovechar determinadas oportunidades de inversión
-+ Concentración de los riesgos: La **responsabilidad es ilimitada**, esto quiere decir que el empresario responde con todos sus bienes ante deudas. 
-+ Supervivencia → La persona y el negocio van juntos
+
 
 **Sociedad anónima:** (S.A)
 Capital dividido en acciones → Se compran en los mercados. Quien tenga la acción tiene derechos económicos y políticos
