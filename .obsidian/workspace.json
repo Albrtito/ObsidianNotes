@@ -87,9 +87,17 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "4447bdf7b79e98e4",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -173,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,7 +198,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +214,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +240,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -330,10 +333,10 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "e8ad653d6942ab19",
+  "active": "4447bdf7b79e98e4",
   "lastOpenFiles": [
-    "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "02 - Atomic/1726315729 - Problem - Problema de agente.md",
+    "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
     "02 - Atomic/1726067427 - Tipos de empresas.md",
     "02 - Atomic/1726315564 - Definition - Cooperativa.md",
