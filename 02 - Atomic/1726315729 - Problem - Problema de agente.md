@@ -24,4 +24,4 @@ Existen diferentes formas de **mitigar el problema de agencia:**
 + Auditorías externas → Información para los accionistas
 + Indicadores → Manipulables y usados en algunas empresas
 + Controles externos: 
-	+ OPAS: (**Oferta Pública de Adquisición de empresas**) Si las acciones de una empresa bajan por debajo de un límite la entidad pública saca un lote (grande) de estas acciones a un precio bajo que puede comprar cualquiera para así ganar control de la empresa. 
+	+ OPAS: (**Oferta Pública de Adquisición de empresas**) Si las acciones de una empresa bajan por debajo de un límite la entidad pública saca un lote (grande) de estas acciones a un precio bajo que puede comprar cualquiera para así ganar control de la empresa. i
