@@ -27,4 +27,7 @@ Son aquellas en las que los socios son.Con **independencia a la aportación de e
 	2. Sociedad de Responsabilidad Limitada
 	3. Sociedad Comanditaria por Acciones
 3. **Otras:**
-1
+	1. Sociedad civil
+	2. Comunidad de bienes
+	3. Cuentas de participación 
+	4. [[1726315564 - Definition - Cooperativa|Cooperativa]] 

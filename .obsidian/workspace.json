@@ -42,6 +42,19 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "69affc0478aeacb5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1726315564 - Definition - Cooperativa.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ]
           },
@@ -61,8 +74,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "e8ad653d6942ab19",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -147,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726241677 - Definition - Empresas sociales.md"
+                "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md"
               }
             }
           },
@@ -165,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
+                "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
+                "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
+                "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -303,11 +330,13 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "663d646c373b11d2",
+  "active": "e8ad653d6942ab19",
   "lastOpenFiles": [
     "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
-    "02 - Atomic/1726067427 - Tipos de empresas.md",
+    "02 - Atomic/1726315729 - Problem - Problema de agente.md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
+    "02 - Atomic/1726067427 - Tipos de empresas.md",
+    "02 - Atomic/1726315564 - Definition - Cooperativa.md",
     "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
     "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
@@ -337,8 +366,6 @@
     "02 - Atomic/1726049178 - Definition - Communication links.md",
     "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
     "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
-    "02 - Atomic/1725910842 - Definition - Empresa.md",
-    "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
     "00.References/Algebra_Biblio_Lectures.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/HyO_Biblio_Hamdy.pdf",
