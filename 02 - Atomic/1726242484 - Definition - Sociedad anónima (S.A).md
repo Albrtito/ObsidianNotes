@@ -16,5 +16,5 @@ cssclasses:
 > + Si tienes una acción → Tienes derechos **económicos y políticos** (Funciones económica y funciones de coordinación)
 
 Este tipo de sociedad se ha dado con popularida en la sociedad moderna, sin embargo conlleva un problema: 
-
+  
 

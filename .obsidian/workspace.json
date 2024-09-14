@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md"
+                "file": "02 - Atomic/1726241677 - Definition - Empresas sociales.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+                "file": "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+                "file": "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+                "file": "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -303,10 +303,10 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "bec98dd69ebac4cb",
+  "active": "663d646c373b11d2",
   "lastOpenFiles": [
-    "02 - Atomic/1726067427 - Tipos de empresas.md",
     "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+    "02 - Atomic/1726067427 - Tipos de empresas.md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
     "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
