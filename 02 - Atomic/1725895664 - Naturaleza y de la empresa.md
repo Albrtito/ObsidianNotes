@@ -1,16 +1,16 @@
 ---
 aliases:
-  - Naturaleza y tipos de la empresa
+  - Naturaleza de la empresa
 tags:
   - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-09-13
 sr-interval: 2
 sr-ease: 230
 ---
-# Naturaleza y tipos de la empresa
+# Naturaleza de la empresa
 
 ## Definición:
 Para empezar, debemos definir qué es una [[1725910842 - Definition - Empresa|empresa]] . Una empresa es un tipo de institución que consume recursos, como capital, trabajo y materia prima, para producir bienes o servicios. Y aquí entra el concepto clave de inputs y outputs. Los inputs son todos los elementos que la empresa necesita para funcionar, mientras que los outputs son los resultados que produce, que pueden ser bienes o servicios.
@@ -33,4 +33,4 @@ Finalmente, debemos hablar sobre las funciones y procesos dentro de la empresa. 
 ### Cadena de valor:
 Y, por último, hay el concepto de cadena de valor, que describe el proceso de creación de valor dentro de la empresa. Esta cadena se compone de procesos, subprocesos, actividades y tareas, con un enfoque en la creación de bienes o servicios.
 
-## Tipos de empresas: 
+
