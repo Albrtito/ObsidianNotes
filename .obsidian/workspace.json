@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
+                "file": "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,91 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "11a589b9ee5056bd",
-        "type": "split",
-        "children": [
-          {
-            "id": "329a59bcb877e2dd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "663d646c373b11d2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "69affc0478aeacb5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726315564 - Definition - Cooperativa.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "816bec0a12cbb374",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bec98dd69ebac4cb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e8ad653d6942ab19",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b087a2e6cff78ae4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726315564 - Definition - Cooperativa.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -187,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726315564 - Definition - Cooperativa.md"
+                "file": "02 - Atomic/1725918135 - Teoría económica de la empresa.md"
               }
             }
           },
@@ -205,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726315564 - Definition - Cooperativa.md",
+                "file": "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726315564 - Definition - Cooperativa.md",
+                "file": "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +151,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "760b9d5497fedc0d",
@@ -249,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726315564 - Definition - Cooperativa.md",
+                "file": "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -324,7 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 412.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -343,17 +259,21 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "b087a2e6cff78ae4",
+  "active": "a4294bb77125d7c8",
   "lastOpenFiles": [
+    "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
     "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
-    "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
+    "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
+    "02 - Atomic/1726140902 - Sudadera EmeStudios.md",
+    "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+    "02 - Atomic/1726049339 - Definition - Packet switches.md",
     "02 - Atomic/1726067427 - Tipos de empresas.md",
-    "02 - Atomic/1726315729 - Problem - Problema de agente.md",
-    "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "02 - Atomic/1726315564 - Definition - Cooperativa.md",
+    "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
+    "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+    "02 - Atomic/1726315729 - Problem - Problema de agente.md",
     "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
-    "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
     "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1725895664 - Naturaleza y tipos de la empresa.md",
     "01.Areas/1.UC3M/Networks.md",
@@ -366,19 +286,15 @@
     "99 - Meta/0. Attachments/Pasted image 20240912133935.png",
     "02 - Atomic/1726141160 - Altavoces.md",
     "02 - Atomic/1726140844 - Pins.md",
-    "02 - Atomic/1726140902 - Sudadera EmeStudios.md",
     "02 - Atomic/1726140949 - Mochilas Vans.md",
     "99 - Meta/0. Attachments/Pasted image 20240912133611.png",
     "99 - Meta/0. Attachments/Pasted image 20240912133443.png",
     "01.Areas/3.Matterhorn/Caleao 24.md",
     "01.Areas/3.Matterhorn/Tatto.canvas",
-    "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
-    "02 - Atomic/1726049339 - Definition - Packet switches.md",
     "02 - Atomic/1726049888 - Net protocols.md",
     "01.Areas/1.UC3M/Heurística y Opti.md",
     "00.References/Net_Biblio_Kurose.pdf",
     "02 - Atomic/1726049178 - Definition - Communication links.md",
-    "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
     "00.References/Algebra_Biblio_Lectures.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/HyO_Biblio_Hamdy.pdf",

@@ -5226,6 +5226,7 @@ dicas
 divisi
 divergencia
 debajo
+distribuci
 check
 classes
 cssclasses
@@ -8100,6 +8101,12 @@ crecimiento
 cualquiera
 compuesta
 conjunto
+cooperativa
+cooperativas
+costes
+calidad
+conjunta
+comerciales
 lifeOS
 liking
 las
@@ -15400,6 +15407,8 @@ forman
 firma
 formas
 favorece
+formada
+facilita
 Woke
 Write
 Went
@@ -20501,6 +20510,7 @@ usan
 universidades
 unido
 usados
+unen
 in
 is
 important
@@ -25668,6 +25678,7 @@ Existen
 Extras
 Especializaci
 Existencia
+Elevator
 breakfast
 benefit
 bien
@@ -28038,6 +28049,8 @@ blicas
 bolsa
 beneficio
 bajan
+buscando
+benefician
 Gym
 Given
 GALVIN
@@ -35313,6 +35326,7 @@ Mensaje
 Mismos
 Mecanismos
 Manipulables
+Mejoran
 reflections
 reels
 routine
@@ -37913,6 +37927,7 @@ responde
 rganos
 requieren
 refieren
+resuelven
 here
 hour
 home
@@ -57072,6 +57087,7 @@ Problema
 Pagar
 Primario
 Pago
+Pasos
 something
 start
 st
@@ -64832,6 +64848,8 @@ poseen
 precio
 pone
 perder
+productores
+pitch
 UC
 UNIDADES
 Unidades
@@ -69810,6 +69828,7 @@ Acciones
 Auditor
 Adquisici
 Accionistas
+Aparece
 all
 at
 aliases
@@ -74834,6 +74853,7 @@ oportunidades
 otra
 obtiene
 organizativa
+olas
 References
 RRI
 RUTAS
@@ -80023,6 +80043,8 @@ mantenimiento
 muere
 mitigar
 mina
+miembro
+miembros
 YYYY
 YYYYMMDD
 YU
@@ -103717,6 +103739,10 @@ virtud
 vender
 venta
 vecinos
+varios
+voto
+vendedores
+venderlas
 que
 quieren
 quedo
@@ -105960,6 +105986,7 @@ qmr
 qOEq
 qbKz
 quieras
+quieran
 grupal
 generales
 grupo
@@ -108361,6 +108388,7 @@ gobierno
 grandes
 gane
 grande
+generado
 junio
 julio
 journaling
@@ -110835,6 +110863,7 @@ jur
 juntan
 juntos
 jugar
+juntas
 Visita
 VLVn
 VLNVn

@@ -1,8 +1,7 @@
 ---
 aliases:
   - Sudadera EmeStudios
-tags:
-  - review
+tags: []
 References: https://emestudios.com/products/roots-full-zip
 cssclasses:
 ---

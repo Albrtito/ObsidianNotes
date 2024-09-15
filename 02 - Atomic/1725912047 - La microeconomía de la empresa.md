@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-09-13
-sr-interval: 3
+sr-due: 2024-09-25
+sr-interval: 10
 sr-ease: 250
 ---
 # La microeconomía de la empresa
