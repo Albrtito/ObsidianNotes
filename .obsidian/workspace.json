@@ -94,7 +94,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
+                    "file": "02 - Atomic/1726315564 - Definition - Cooperativa.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md"
+                "file": "02 - Atomic/1726315564 - Definition - Cooperativa.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
+                "file": "02 - Atomic/1726315564 - Definition - Cooperativa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
+                "file": "02 - Atomic/1726315564 - Definition - Cooperativa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
+                "file": "02 - Atomic/1726315564 - Definition - Cooperativa.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -346,10 +346,10 @@
   "active": "b087a2e6cff78ae4",
   "lastOpenFiles": [
     "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
-    "02 - Atomic/1726315729 - Problem - Problema de agente.md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
-    "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "02 - Atomic/1726067427 - Tipos de empresas.md",
+    "02 - Atomic/1726315729 - Problem - Problema de agente.md",
+    "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "02 - Atomic/1726315564 - Definition - Cooperativa.md",
     "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",

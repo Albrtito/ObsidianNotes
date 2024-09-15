@@ -48,14 +48,6 @@ Esto se traduce a titularidad del capital total de la empresa. Dividimos empresa
 
 
 
-**Sociedades colectivas:**
-Conjunto de socios con responsabilidad ilimitada y derecho a participar en la dirección. 
-+ No se transmite la participación del socio (salvo que haya autorización del resto de los socios)
-+ Los socios son imprescindibles para que exista la sociedad
-**Remarks:** 
-+ Cada socio responde de forma ilimitada p**or el porcentaje de la empresa que tiene**
-+ Lo que importa es **el nombre** y **prestigio** de la empresa, que van ligados
-+ Se ve en: Colegios de abogados o arquitectos
 
 **Cooperativas:**
 Empresas formadas por **grupos grandes**
