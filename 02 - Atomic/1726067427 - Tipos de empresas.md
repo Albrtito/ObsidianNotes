@@ -48,32 +48,6 @@ Esto se traduce a titularidad del capital total de la empresa. Dividimos empresa
 
 
 
-Problema de agente: 
-
-Al **dividir entre accionistas y directivos** los directivos solo asumen el riesgo profesional, pueden tomar decisiones que perjudiquen al accionista.
-	  La información que tienen directivos es muy diferente a la que tienen los accionistas → Divergencia de objetivos
-
-Solución: Mecanismos de control a los directivos
-+ Órganos de gobierno de la empresa (mediadores)
-	+ Junta de accionistas
-	+ Consejo de administración
-		+ Eligen al CEO
-		+ Consejeros internos y externos
-	+ El gobierno de la empresa sigue el **código de buen gobierno**
-+ Unir al directivo con la pasta → Pagar en acciones o extras en el sueldo
-+ Auditores para comprobar (gente que mandas para ver q tal)
-+ Indicadores → (Cuidado pq con esto se puede jugar hacerlos cambiar como quieras)
-+ Controles externos: OPAS → Si una empresa baja de valor hasta un punto crítico existen agencias con la capacidad de la empresa de bolsa y vender gran parte de las acciones a otra empresa. 
-def:  **OPA**: Oferta pública de adquisición de empresas
-	
-Vs la empresa individual: 
-+ Limitación de responsabilidad → Solo se pierde lo invertido
-+ Diversificación de riesgos → El riesgo se divide entre político y económico. (Junta directiva)
-+ Facilidad de deshacerse de la acción
-+ Se obtiene financiación más fácilmente
-+ Favorece la especialización → Se separa la parte económica, política y de gestión. 
-+ Aunq desapareciese el fundador la empresa puede seguir 
-
 **Sociedades colectivas:**
 Conjunto de socios con responsabilidad ilimitada y derecho a participar en la dirección. 
 + No se transmite la participación del socio (salvo que haya autorización del resto de los socios)
