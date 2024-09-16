@@ -29,21 +29,35 @@
       }
     },
     {
-      "query": "tag:#CalcI  ",
-      "color": {
-        "a": 1,
-        "rgb": 12551107
-      }
-    },
-    {
       "query": "tag:#Discrete  ",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
+    },
+    {
+      "query": "tag:#Empresa  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#CalcI  ",
+      "color": {
+        "a": 1,
+        "rgb": 16091127
+      }
+    },
+    {
+      "query": "tag:#Cripto  ",
+      "color": {
+        "a": 1,
+        "rgb": 4415466
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -2.2,
   "nodeSizeMultiplier": 1.65230274297325,
@@ -53,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.0078125,
+  "scale": 0.014217113267693015,
   "close": true
 }
