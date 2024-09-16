@@ -4,49 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "a882b536cd62d75a",
-        "type": "tabs",
+        "id": "eed413157da2321d",
+        "type": "split",
         "children": [
           {
-            "id": "a4294bb77125d7c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "5bc2d0b64af8ef9e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "099e669cdd7adaa5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "daf1d34a1900b0bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "d7eefc48c1c1da86",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "daf1d34a1900b0bd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "3790088579fdb2f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726493246 - Algorithm - AES.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md"
+                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,21 +163,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3ea39caa47f9eb7f",
+            "id": "f02ae6b0e9426e87",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "760b9d5497fedc0d",
@@ -190,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -284,11 +285,16 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "a4294bb77125d7c8",
+  "active": "daf1d34a1900b0bd",
   "lastOpenFiles": [
-    "02 - Atomic/1726493246 - Algorithm - AES.md",
-    "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+    "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
+    "02 - Atomic/1726494186 - Transposición por columnas.md",
+    "02 - Atomic/1726494070 - Transposición por series.md",
+    "02 - Atomic/1726494153 -.md",
+    "02 - Atomic/1726493957 - Transposición por grupos.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "02 - Atomic/1726493246 - Algorithm - AES.md",
     "02 - Atomic/1726493220 - - Untitled Suffix.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 3.12.04 PM.png",
     "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
@@ -308,11 +314,6 @@
     "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
     "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
     "02 - Atomic/1726140902 - Sudadera EmeStudios.md",
-    "02 - Atomic/1726067427 - Tipos de empresas.md",
-    "02 - Atomic/1726315564 - Definition - Cooperativa.md",
-    "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
-    "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
-    "02 - Atomic/1726315729 - Problem - Problema de agente.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 4.07.14 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.58.36 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.57.42 PM.png",

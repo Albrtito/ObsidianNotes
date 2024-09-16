@@ -85,4 +85,12 @@ Las técnicas matemáticas de cifrado que se usan aún hoy en día son las más 
 + **Transposición o permutación:** Redistribución de los caracteres sin modificación directa. A esto se le llama **difusión**
 	+ Mismos elementos en posiciones diferentes
 ## Criptografía clásica:
-Dividimos los métodos criptográficos clásicos entre aq
+Dividimos los métodos criptográficos clásicos por las operaciones de sustitución y transposición. 
++ **Transposición**: Divididos en:
+	+ [[1726493957 - Transposición por grupos|Transposición por grupos]]
+	+ [[1726494070 - Transposición por series|Transposición por series]]
+	+ [[1726494186 - Transposición por columnas|Transposición por columnas]]
++ **Sustitución**: Divididos a su vez en: 
+	+ Mono-alfabéticos
+		+ Monográfica
+	+ Poli-alfabéticos
