@@ -24,7 +24,6 @@ $$
 ## Alfabetos progresivos: 
 
 > [!NOTE] Alfabeto progresivo: 
-> Esto quiere decir que cada nuevo grafo cifrado **depende del anterior grafo**
-> 
+> Esto quiere decir que cada nuevo grafo cifrado **depende del anterior grafo**. (El nuevo alfabeto depende de algo anterior)
 
 + p.e: La máquina enigma

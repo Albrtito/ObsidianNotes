@@ -96,3 +96,4 @@ Dividimos los métodos criptográficos clásicos por las operaciones de sustituc
 		+ [[1726495455 - Sustitución monoalfabeta poligráfica|Sustitución monoalfabeta poligráfica]]
 	+ Polialfabética:
 		+ [[1726496164 - Sustitución polialfabética periódica|Sustitución polialfabética periódica]]
+		+ [[1726497421 - Sustitución polialfabética no-periódica|Sustitución polialfabética no-periódica]]
