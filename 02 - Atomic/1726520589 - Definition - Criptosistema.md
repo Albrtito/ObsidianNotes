@@ -13,6 +13,22 @@ cssclasses:
 
 ## Características: 
 Las características de estos sistemas son las del método de cifrado utilizado por los cifradores y el generador de claves. 
-1. **Las operaciones realizas son sustituciones y transposiciones**
-2. **Un criptosistema no puede perder información**
-3. **El sistema tendrá una o dos claves
+
+### Técnicas matemáticas de cifrado:
+Para generar cifrados se utilizan dos técnicas básicas: 
+1. **Sustitución:** Modificar un carácter por otro
+   + Este método sirve para crear **confusión**. 
+2. **Transposición o permutación:** Redistribuir los caracteres **sin modificarlos**. 
+   + Esta técnica se utiliza para difundir las características del mensaje original.
+Ambos métodos realizan la operación matemática **basándose en una función/reglas**.
+
++ Ambas técnicas ya fueron introducidas por Claude Shanon en “Communication theory of secrecy systems(1949)”
++ Con estas técnicas tenemos que asegurarnos de que el sistema **no ha perdido información.**
+
+### Sistemas simétricos y asimétricos:
+Basándonos en el número de distintas claves en un sistema de cifr podemos dividirl
+	+ Una clave → Sistema **simétrico** 
+	+ Doss claves →. Sistema **asimétrico**
+4.  El texto se procesa por: 
+	+ **Bloques:** Grupos de grafos, de forma secuencial.
+	+ **Flujo:** De grafo en grafo, de forma continua.
