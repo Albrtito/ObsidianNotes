@@ -1,8 +1,8 @@
 {
   "accentColor": "#8a5fec",
-  "cssTheme": "Vanilla AMOLED",
+  "cssTheme": "Things",
   "translucency": false,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 23,
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "textFontFamily": "Iosevka Nerd Font",
