@@ -7,8 +7,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-09-16
-sr-interval: 3
+sr-due: 2024-09-24
+sr-interval: 8
 sr-ease: 250
 ---
 # Definition - Empresas Individuales

@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md"
+                "file": "02 - Atomic/1726067427 - Tipos de empresas.md"
               }
             }
           },
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md",
+                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md",
+                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "760b9d5497fedc0d",
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md",
+                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -343,8 +343,10 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "51e3cd7e1e903827",
+  "active": "ad9a0345a2aee78c",
   "lastOpenFiles": [
+    "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
+    "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
     "02 - Atomic/1726520589 - Definition - Criptosistema.md",
     "02 - Atomic/1726519620 - Principios de Kerckhoff.md",
@@ -370,8 +372,6 @@
     "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
     "02 - Atomic/1726494186 - Transposición por columnas.md",
     "02 - Atomic/1726494070 - Transposición por series.md",
-    "02 - Atomic/1726494153 -.md",
-    "02 - Atomic/1726493957 - Transposición por grupos.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 3.12.04 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 4.07.14 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.58.36 PM.png",

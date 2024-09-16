@@ -26,9 +26,13 @@ Ambos métodos realizan la operación matemática **basándose en una función/r
 + Con estas técnicas tenemos que asegurarnos de que el sistema **no ha perdido información.**
 
 ### Sistemas simétricos y asimétricos:
-Basándonos en el número de distintas claves en un sistema de cifr podemos dividirl
-	+ Una clave → Sistema **simétrico** 
-	+ Doss claves →. Sistema **asimétrico**
-4.  El texto se procesa por: 
-	+ **Bloques:** Grupos de grafos, de forma secuencial.
-	+ **Flujo:** De grafo en grafo, de forma continua.
+Basándonos en el número de distintas claves en un sistema de cifrado dividimos entre:
++ Sistemas **simétricos:**
+  Aquellos sistemas con **una sola clave, privada y compartida**. La clave ha de ser **compartida a través de un canal privado** para asegurar la confidencialidad del sistema. Hablamos entonces de **claves privadas**
++ Sistema **asimétrico:** 
+  Aquellos sistemas con **dos claves, una privada y otra pública**. La clave pública se utiliza para cifrar el mensaje y la privada para descifrar. La clave pública **puede ser compartida en un canal público.**
+
+### Procesamiento de texto en bloque y flujo:
+El texto del mensaje a des/cifrar se puede procesar en:
++ **Bloques:** Grupos de caracter, de forma secuencial.
++ **Flujo:** De caracter en caracter, de forma continua.

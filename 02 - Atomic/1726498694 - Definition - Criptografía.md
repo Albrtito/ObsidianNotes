@@ -23,23 +23,7 @@ La definición moderna de criptografía incluye los tres objetivos de la segurid
 
 
 	
-### Criptosistema:
 
-#### Características del criptosistema:
-1. Tipo de operación que realiza: **Sustituciones y transposiciones**
-2. Número de claves usadas: 
-	+ **Simétricos**: Tiene solo una clave → La clave es secreta
-	+ **Asimétricos**: Tienen dos claves (una de cifrado y otra de descifrado) → La clave es pública
-3. Tipo de procesamiento del texto en claro:
-	+ Se va cifrando por bloques → **Bloques**
-	+ Se cifra todo junto → **Flujo**
-### Operaciones de sustitución y permutación: 
-> **Bibliografía:** Claude Shanon. Communication theory of secrecy systems (1949)
-
-Las técnicas matemáticas de cifrado que se usan aún hoy en día son las más básicas: 
-+ **Sustitución:** Añade **confusión** mediante sustituyendo o modificando caracteres
-+ **Transposición o permutación:** Redistribución de los caracteres sin modificación directa. A esto se le llama **difusión**
-	+ Mismos elementos en posiciones diferentes
 ## Criptografía clásica:
 [Recurso web](https://www.cryptool.org/en/cto/)
 Dividimos los métodos criptográficos clásicos por las operaciones de sustitución y transposición. 
