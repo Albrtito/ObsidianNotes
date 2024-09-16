@@ -13,26 +13,13 @@ La definición moderna de criptografía incluye los tres objetivos de la segurid
 
 > [!NOTE] Definición:
 > La criptografía es la disciplina que estudia los principios, métodos y medios de **transformar los datos para ocultar su significado**, garantizar su **integridad**, establecer su autenticidad y **prevenir** su **repudio** 
-+ Cifrador: Aquella máquina que cifra el mensaje
 
-**Cifrador:** Aquel que cifra el mensaje original utilizando una clave.
-![[Screenshot 2024-09-13 at 3.58.36 PM.png]]
-+ **k:** Clave
-+ **C:** Mensaje cifrado
 
 **Remarks:**
 + Cuando la clave del cifrado y la del descifrado es la misma se denomina **cifrado simétrico**. Cuando son dos claves diferentes lo llamamos **cifrado asimétrico**
 	+ La criptografía asimétrica hace un **intercambio de claves en medio público de forma segura**. → En esto está lo importante. 
 	  De esta forma podemos introducir el cripto sistemas.
 + A diferencia que en el cifrado, la codificación **no no necesita una clave.**
-
-### Propiedades del cifrado: 
-Definimos una serie de espacios y transformaciones de cada cifrado. 
-**Espacio de mensajes:** Cantidad de mensajes que se pueden generar
-**Espacio de cifrados:** Posibles cifrados que se pueden generar
-**Espacio de claves:**
-**Familia de transformaciones de cifrado:**
-**Familia de transformaciones de descifrado:**
 
 ### Principios de Kerckhoff
 + **Computacionalmente seguro**

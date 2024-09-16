@@ -8140,6 +8140,7 @@ cesar
 creamos
 cuadrada
 cambio
+competitiva
 lifeOS
 liking
 las
@@ -103931,6 +103932,7 @@ venderlas
 viable
 variar
 vectores
+ventaja
 que
 quieren
 quedo
