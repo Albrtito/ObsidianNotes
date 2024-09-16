@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f589008ef1445c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
+                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,46 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bea85324429f1a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54799185127d577b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4af840f66e81aea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
+                "file": "02 - Atomic/1726507033 - Cripto - Entropía y aleatoriedad.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md"
+                "file": "02 - Atomic/1726507033 - Cripto - Entropía y aleatoriedad.md"
               }
             }
           },
@@ -199,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
+                "file": "02 - Atomic/1726507033 - Cripto - Entropía y aleatoriedad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
+                "file": "02 - Atomic/1726507033 - Cripto - Entropía y aleatoriedad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
+                "file": "02 - Atomic/1726507033 - Cripto - Entropía y aleatoriedad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -338,24 +286,25 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "4f589008ef1445c2",
+  "active": "c9675cc0c562c028",
   "lastOpenFiles": [
-    "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 7.13.37 PM.png",
-    "02 - Atomic/1726498694 - Definition - Criptografía.md",
-    "02 - Atomic/1726498880 - Definition - Cifrador.md",
-    "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "02 - Atomic/1726507033 - Cripto - Entropía y aleatoriedad.md",
     "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
     "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+    "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
     "01.Areas/1.UC3M/Empresa.md",
+    "02 - Atomic/1726498694 - Definition - Criptografía.md",
+    "02 - Atomic/1726498880 - Definition - Cifrador.md",
+    "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+    "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
+    "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 7.13.37 PM.png",
     "02 - Atomic/1726503711 - - Untitled Suffix.md",
     "02 - Atomic/1726500637 - Definición - Saldo de la balanza comercial.md",
     "02 - Atomic/1726500297 - Plan de Empresa.md",
-    "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
     "02 - Atomic/1725910455 - El valor añadido de una empresa.md",
     "02 - Atomic/1726498989 -.md",
-    "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
     "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
-    "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
     "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
     "02 - Atomic/1726494186 - Transposición por columnas.md",
@@ -387,7 +336,6 @@
     "BMO",
     "00.References/Calc_Theory_FundamentalTheorem.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-06-20 at 16.47.34.png",
-    "99 - Meta/0. Attachments/Pasted image 20240620150845.png",
     "Differential Calculus.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/1.UC3M/Files and data bases.canvas",
