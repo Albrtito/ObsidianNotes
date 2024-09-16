@@ -21,11 +21,7 @@ La definición moderna de criptografía incluye los tres objetivos de la segurid
 	  De esta forma podemos introducir el cripto sistemas.
 + A diferencia que en el cifrado, la codificación **no no necesita una clave.**
 
-### Principios de Kerckhoff
-+ **Computacionalmente seguro**
-+ **Seguridad en la clave NO EN EL ALGORITMO**
-	El desconocimiento de la clave hace que romper el algoritmo sea practicamente imposible. Con el conocimiento de la clave ha de ser muy fácil comunicar información.
-	Conseguir que la única opción viable sea la fuerza bruta.
+
 	
 ### Criptosistema:
 ![[Screenshot 2024-09-13 at 4.07.14 PM.png]]

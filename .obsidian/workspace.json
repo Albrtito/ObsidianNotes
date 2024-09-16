@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d7eefc48c1c1da86",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726519620 - Principios de Kerckhoff.md"
+                "file": "02 - Atomic/1726498880 - Definition - Cifrador.md"
               }
             }
           },
@@ -192,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726519620 - Principios de Kerckhoff.md",
+                "file": "02 - Atomic/1726498880 - Definition - Cifrador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726519620 - Principios de Kerckhoff.md",
+                "file": "02 - Atomic/1726498880 - Definition - Cifrador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726519620 - Principios de Kerckhoff.md",
+                "file": "02 - Atomic/1726498880 - Definition - Cifrador.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -275,7 +274,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.09683000894980646,
+                  "scale": 0.0647056846516156,
                   "close": true
                 }
               }
@@ -331,11 +330,11 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "51e3cd7e1e903827",
+  "active": "717e5b370a5073a8",
   "lastOpenFiles": [
-    "02 - Atomic/1726519620 - Principios de Kerckhoff.md",
-    "02 - Atomic/1726498880 - Definition - Cifrador.md",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
+    "02 - Atomic/1726498880 - Definition - Cifrador.md",
+    "02 - Atomic/1726519620 - Principios de Kerckhoff.md",
     "02 - Atomic/1726510994 - ChaCha20.md",
     "02 - Atomic/1726510122 - LFSR.md",
     "02 - Atomic/1726507033 - Cripto - Entropía y aleatoriedad.md",
