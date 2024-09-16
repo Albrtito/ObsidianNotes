@@ -2569,6 +2569,7 @@ transposiciones
 tricos
 texto
 transposici
+transformarlo
 dailyNote
 day
 during
@@ -5241,6 +5242,7 @@ desconocimiento
 decimos
 desplazamiento
 desplaza
+decimaci
 check
 classes
 cssclasses
@@ -8135,6 +8137,7 @@ criptogr
 columnas
 cter
 cesar
+creamos
 lifeOS
 liking
 las
@@ -20549,6 +20552,7 @@ unen
 unirlo
 usuario
 usadas
+utiliza
 in
 is
 important
@@ -37985,6 +37989,7 @@ refieren
 resuelven
 rendimiento
 romper
+realizado
 here
 hour
 home
@@ -40346,6 +40351,7 @@ hooked
 habilidades
 hacerlos
 haces
+histograma
 Before
 Burocracia
 Buses
@@ -57170,6 +57176,8 @@ Pago
 Pasos
 Presentar
 Poli
+Problemitas
+PLAYFAIR
 something
 start
 st
@@ -64948,6 +64956,9 @@ proyecto
 practicamente
 procesamiento
 puro
+pura
+probabilidades
+poligr
 UC
 UNIDADES
 Unidades
@@ -72587,6 +72598,7 @@ alfab
 alfabeta
 alfabeto
 aquel
+alfabetismo
 of
 otro
 opciones
@@ -77483,6 +77495,7 @@ Ropa
 Redistribuci
 Responsabilidad
 Riesgo
+Rotaci
 morning
 me
 mm
@@ -80172,6 +80185,9 @@ multitud
 mecanismo
 monoalfabeto
 monogr
+multiplicaci
+mantienen
+monoalfabeta
 YYYY
 YYYYMMDD
 YU
@@ -92103,6 +92119,9 @@ Creando
 CIA
 Clasificamos
 Computacionalmente
+Constante
+Cesar
+Cifra
 your
 ya
 yo
@@ -103884,6 +103903,7 @@ voto
 vendedores
 venderlas
 viable
+variar
 que
 quieren
 quedo

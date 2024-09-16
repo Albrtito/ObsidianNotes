@@ -42,8 +42,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "fa609ac6dc26c78f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -128,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md"
+                "file": "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md"
               }
             }
           },
@@ -146,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
+                "file": "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
+                "file": "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
+                "file": "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -284,10 +298,11 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "daf1d34a1900b0bd",
+  "active": "fa609ac6dc26c78f",
   "lastOpenFiles": [
-    "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
     "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
+    "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
+    "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
     "02 - Atomic/1726494186 - Transposición por columnas.md",
     "02 - Atomic/1726494070 - Transposición por series.md",
     "02 - Atomic/1726494153 -.md",
@@ -312,7 +327,6 @@
     "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
     "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
     "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
-    "02 - Atomic/1726140902 - Sudadera EmeStudios.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 4.07.14 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.58.36 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.57.42 PM.png",
