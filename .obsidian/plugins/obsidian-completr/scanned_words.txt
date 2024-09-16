@@ -2572,6 +2572,9 @@ transposici
 transformarlo
 teniendo
 tasa
+tecnol
+taxi
+tama
 dailyNote
 day
 during
@@ -5247,6 +5250,13 @@ desplaza
 decimaci
 definido
 deficit
+desarrollando
+dificil
+despido
+diferenciado
+desarrolla
+debilidades
+desarrollar
 check
 classes
 cssclasses
@@ -8151,6 +8161,12 @@ contentos
 corporativa
 conforman
 comercial
+clicos
+culturales
+conseguirlos
+clientes
+cambios
+competidores
 lifeOS
 liking
 las
@@ -10634,6 +10650,9 @@ lote
 levantar
 letra
 llamaremos
+legales
+laboral
+lucha
 First
 Fechas
 Familias
@@ -15466,6 +15485,9 @@ fica
 fijan
 factores
 fico
+fiscal
+fuerzas
+fortalezas
 Woke
 Write
 Went
@@ -20572,6 +20594,7 @@ unirlo
 usuario
 usadas
 utiliza
+uber
 in
 is
 important
@@ -23256,6 +23279,10 @@ interpretan
 isomorfo
 implementando
 inflaci
+impuestos
+industrias
+incipiente
+interno
 Enough
 Esta
 Est
@@ -25750,6 +25777,8 @@ Existencia
 Elevator
 Escuchar
 Existe
+Estructura
+Estudio
 breakfast
 benefit
 bien
@@ -32933,6 +32962,8 @@ TROZO
 Triad
 Tiene
 Trabajadores
+Tecnolog
+Tenerlo
 Movement
 MM
 MMMM
@@ -35415,6 +35446,7 @@ Monogr
 Monoalfabetismo
 Monoalfabeto
 Maximizar
+Muchas
 reflections
 reels
 routine
@@ -38024,6 +38056,9 @@ repiten
 random
 restricci
 rico
+recesi
+ritu
+rivalidad
 here
 hour
 home
@@ -40387,6 +40422,7 @@ hacerlos
 haces
 histograma
 habiendo
+hacerse
 Before
 Burocracia
 Buses
@@ -42657,6 +42693,7 @@ BdD
 Beneficio
 Botella
 Bloques
+Barreras
 we
 would
 what
@@ -47673,6 +47710,13 @@ ecimos
 existe
 estabilidad
 exporta
+expansi
+estancos
+entrada
+estandarizado
+estandarizaci
+entradas
+externo
 Instagram
 IRIS
 Intendencia
@@ -50143,6 +50187,8 @@ Importa
 Imparto
 Interceptaci
 Interrupci
+Identificaci
+Identificar
 Keep
 Key
 Kinds
@@ -54758,6 +54804,10 @@ necesidad
 ndome
 negociando
 negativo
+nimos
+normativa
+negociaci
+negociar
 Post
 Papeleos
 Para
@@ -57225,6 +57275,8 @@ PONER
 PARA
 PLAN
 Poner
+Poder
+Porter
 something
 start
 st
@@ -60001,6 +60053,10 @@ siga
 supervivencia
 saldo
 similares
+salario
+sector
+sustitutivos
+sirve
 No
 NOTE
 Normalmente
@@ -62355,6 +62411,7 @@ NpBB
 Nowadays
 Novo
 Nacional
+Nivel
 porn
 page
 pen
@@ -65021,6 +65078,12 @@ pueda
 ponen
 paro
 positivo
+pocas
+percibe
+proveedores
+potenciales
+porter
+posici
 UC
 UNIDADES
 Unidades
@@ -70009,6 +70072,8 @@ AES
 Asim
 Alfabetos
 Aquella
+Actualmente
+Adelantarse
 all
 at
 aliases
@@ -72668,6 +72733,9 @@ alfabetos
 abecedario
 alinean
 afectan
+aportan
+abierta
+adaptarse
 of
 otro
 opciones
@@ -75055,6 +75123,7 @@ obstaculiza
 objetos
 opci
 operaci
+ofertado
 References
 RRI
 RUTAS
@@ -77565,6 +77634,12 @@ Redistribuci
 Responsabilidad
 Riesgo
 Rotaci
+Regulaci
+Requisitos
+Relaci
+Rivalidad
+Ritmo
+Relacionado
 morning
 me
 mm
@@ -80263,6 +80338,8 @@ mencionados
 mismos
 macroecon
 moneda
+monetarias
+modelos
 YYYY
 YYYYMMDD
 YU
@@ -85016,6 +85093,8 @@ Directivos
 Divididos
 Debido
 Decimos
+Dependiendo
+Diferenciaci
 HH
 Highlight
 Hay
@@ -92200,6 +92279,7 @@ Constante
 Cesar
 Cifra
 COMO
+Clima
 your
 ya
 yo
@@ -96970,6 +97050,8 @@ Sientes
 Sustituciones
 Sim
 Saldo
+Sistema
+Sustitutivos
 La
 Las
 Lanz
@@ -99317,6 +99399,7 @@ LOPD
 Limitaci
 Limitada
 Llevo
+Licencias
 Otras
 Otros
 OS
@@ -108641,6 +108724,7 @@ gimnasio
 grafos
 grafo
 gen
+geogr
 junio
 julio
 journaling
