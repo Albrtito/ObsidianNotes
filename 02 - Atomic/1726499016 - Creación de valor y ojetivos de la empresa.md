@@ -63,4 +63,12 @@ Conjunto de factores que afectan a una única empresa o a un grupo de empresas *
 + **Sustitutivos:** Productos que, aún siendo diferentes, las funciones que aportan son las mismas.
 	+ p.e: uber y taxi. 
 + **Relación con los proovedores:** Poder de negociación con los proovedores.
-+ 
+	+ Empresas grandes tienen mucho poder a la hora de negociar mientras que las pequeñas no le importan a nadie.
++ **Relación con los clientes:** Poder de negociación que tiene **el cliente sobre la empresa**
++ **Rivalidad en el sector:** La lucha mas o menos abierta que tienen las empresas que están dentro de un mismo mercado. Dependiendo de tres factores: 
+	+ **Concentración del mercado**: Número y tamaño de las empresas del mercado.
+		+ Muchas empresas → Más rivalidad
+	+ **Ritmo del crecimiento del sector:**
+		+ Más crecimiento → Menos rivalidad
+	+ **Diferenciación del producto:** Se percibe como único o diferente sobre el resto ofertado en el mercado. Un producto **no diferenciado esta estandarizado.** 
+		+ Más estandarización → Más rivalidad
