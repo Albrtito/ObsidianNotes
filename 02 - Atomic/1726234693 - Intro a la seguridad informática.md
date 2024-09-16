@@ -62,7 +62,11 @@ Definimos una serie de espacios y transformaciones de cada cifrado.
 **Familia de transformaciones de descifrado:**
 
 ### Principios de Kerckhoffs
-
++ **Computacionalmente seguro**
++ **Seguridad en la clave NO EN EL ALGORITMO**
+	El desconocimiento de la clave hace que romper el algoritmo sea practicamente imposible. Con el conocimiento de la clave ha de ser muy fácil comunicar información.
+	Conseguir que la única opción viable sea la fuerza bruta.
+	
 ### Criptosistema:
 ![[Screenshot 2024-09-13 at 4.07.14 PM.png]]
 #### Características del criptosistema:
