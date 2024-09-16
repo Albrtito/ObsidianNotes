@@ -5258,6 +5258,7 @@ desarrolla
 debilidades
 desarrollar
 diferenciaci
+desplazado
 check
 classes
 cssclasses
@@ -8174,6 +8175,10 @@ compite
 corporativas
 cuales
 celdas
+complejidad
+consta
+conexi
+corresponden
 lifeOS
 liking
 las
@@ -13031,6 +13036,7 @@ Flexibilidad
 Flujo
 Fase
 Forward
+Funcionamiento
 first
 from
 file
@@ -15499,6 +15505,7 @@ fuerzas
 fortalezas
 fijar
 flujo
+formado
 Woke
 Write
 Went
@@ -20606,6 +20613,7 @@ usuario
 usadas
 utiliza
 uber
+unir
 in
 is
 important
@@ -23295,6 +23303,7 @@ industrias
 incipiente
 interno
 implementadas
+izq
 Enough
 Esta
 Est
@@ -35463,6 +35472,8 @@ Monoalfabetismo
 Monoalfabeto
 Maximizar
 Muchas
+Mayor
+Menor
 reflections
 reels
 routine
@@ -38076,6 +38087,7 @@ recesi
 ritu
 rivalidad
 rentabilidad
+registros
 here
 hour
 home
@@ -54828,6 +54840,7 @@ normativa
 negociaci
 negociar
 negocios
+nueva
 Post
 Papeleos
 Para
@@ -57297,6 +57310,8 @@ PLAN
 Poner
 Poder
 Porter
+Polinomio
+Periodo
 something
 start
 st
@@ -60080,6 +60095,7 @@ sirve
 supermercado
 semilla
 salsa
+secuencias
 No
 NOTE
 Normalmente
@@ -65107,6 +65123,8 @@ proveedores
 potenciales
 porter
 posici
+periodos
+polinomio
 UC
 UNIDADES
 Unidades
@@ -72762,6 +72780,8 @@ adaptarse
 abandonar
 aleatoriedad
 aleatorias
+altos
+aumentar
 of
 otro
 opciones
@@ -85132,6 +85152,7 @@ Decisiones
 Define
 DONDE
 Desplazamiento
+Depende
 HH
 Highlight
 Hay
@@ -108772,6 +108793,8 @@ gen
 geogr
 gias
 generador
+grado
+grados
 junio
 julio
 journaling
@@ -127615,6 +127638,7 @@ Xrn
 XgE
 XIsz
 XpF
+XOR
 Üm
 Üp
 ÜI
