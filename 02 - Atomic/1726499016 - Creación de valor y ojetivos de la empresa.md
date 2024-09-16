@@ -26,6 +26,7 @@ El objetivo común que todos comparten es simple, que siga habiendo empresa. Par
 
 
 # Entorno y competencia de la empresa: 
+## Análisis externo:
 ## Entorno genérico:
 > [!NOTE] Definición:
 > Conjunto de factores que afectan a todas las empresas en un **lugar y tiempo definido**. 
@@ -72,3 +73,20 @@ Conjunto de factores que afectan a una única empresa o a un grupo de empresas *
 		+ Más crecimiento → Menos rivalidad
 	+ **Diferenciación del producto:** Se percibe como único o diferente sobre el resto ofertado en el mercado. Un producto **no diferenciado esta estandarizado.** 
 		+ Más estandarización → Más rivalidad
+### Las 5 fuerzas de Porter, 
+**Remarks:**
++ Es un estudio que ha de hacerse **periódicamente**
++ Estudiar un sector como **empresa que está dentro del sector**.
+
+> [!NOTE] Objetivos: 
+> **Objetivo:** Adelantarse al cambio de mercado para poder adaptarse a los cambios. 
+
+
+1. **Estudio de los clientes:** Identificación del cliente: cantidad de clientes, poder de negociación, etc.
+2. **Estudio de los productos sustitutivos:** 
+3. **Estudio de los proveedores**
+4. **Estudio de los competidores potenciales o nuevas entradas:** Relacionado con la facilidad de entrada/Barreras de entrada
+5. **Estudio de la rivalidad del sector:**
+
+## Análisis interno:
+Identificar las fortalezas y las debilidades para desarrollar una posición competitiva. Estudio de recursos financiero… 
