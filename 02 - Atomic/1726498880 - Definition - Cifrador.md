@@ -45,4 +45,4 @@ D_k: C \rightarrow M
 $$
 	+ Del cifrado(C) se obtiene el mensaje (M)
 
-Para considerar un sistema de cifrado como válido, Kerckhoff propuso 
+Para considerar un sistema de cifrado como válido, Kerckhoff propuso los [[1726519620 - Principios de Kerckhoff|Principios de Kerckhoff]]. 

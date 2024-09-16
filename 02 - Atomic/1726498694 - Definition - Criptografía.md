@@ -13,7 +13,7 @@ La definición moderna de criptografía incluye los tres objetivos de la segurid
 
 > [!NOTE] Definición:
 > La criptografía es la disciplina que estudia los principios, métodos y medios de **transformar los datos para ocultar su significado**, garantizar su **integridad**, establecer su autenticidad y **prevenir** su **repudio** 
-
++ Aplicamos esta disciplina con la creación de [[1726498880 - Definition - Cifrador|cifradores]], sistemas que utilizan métodos específicos para cifrar la información.
 
 **Remarks:**
 + Cuando la clave del cifrado y la del descifrado es la misma se denomina **cifrado simétrico**. Cuando son dos claves diferentes lo llamamos **cifrado asimétrico**
@@ -24,7 +24,7 @@ La definición moderna de criptografía incluye los tres objetivos de la segurid
 
 	
 ### Criptosistema:
-![[Screenshot 2024-09-13 at 4.07.14 PM.png]]
+
 #### Características del criptosistema:
 1. Tipo de operación que realiza: **Sustituciones y transposiciones**
 2. Número de claves usadas: 

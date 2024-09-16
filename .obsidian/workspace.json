@@ -4,36 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "8892801850b59030",
-        "type": "tabs",
+        "id": "87ff5c8c75603867",
+        "type": "split",
         "children": [
           {
-            "id": "717e5b370a5073a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726498880 - Definition - Cifrador.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "8892801850b59030",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "717e5b370a5073a8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1726498880 - Definition - Cifrador.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "51e3cd7e1e903827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726519620 - Principios de Kerckhoff.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "ce2c3a85a36e91c6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "51e3cd7e1e903827",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "d7eefc48c1c1da86",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726498880 - Definition - Cifrador.md"
+                "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md"
               }
             }
           },
@@ -191,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726498880 - Definition - Cifrador.md",
+                "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726498880 - Definition - Cifrador.md",
+                "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726498880 - Definition - Cifrador.md",
+                "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -274,7 +287,7 @@
                   "repelStrength": 17.3531310522918,
                   "linkStrength": 0.595351839896708,
                   "linkDistance": 374,
-                  "scale": 0.0647056846516156,
+                  "scale": 0.03623122932767302,
                   "close": true
                 }
               }
@@ -330,11 +343,12 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "717e5b370a5073a8",
+  "active": "51e3cd7e1e903827",
   "lastOpenFiles": [
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
-    "02 - Atomic/1726498880 - Definition - Cifrador.md",
+    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
     "02 - Atomic/1726519620 - Principios de Kerckhoff.md",
+    "02 - Atomic/1726498880 - Definition - Cifrador.md",
     "02 - Atomic/1726510994 - ChaCha20.md",
     "02 - Atomic/1726510122 - LFSR.md",
     "02 - Atomic/1726507033 - Cripto - Entropía y aleatoriedad.md",
@@ -358,7 +372,6 @@
     "02 - Atomic/1726494070 - Transposición por series.md",
     "02 - Atomic/1726494153 -.md",
     "02 - Atomic/1726493957 - Transposición por grupos.md",
-    "02 - Atomic/1726493246 - Algorithm - AES.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 3.12.04 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 4.07.14 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.58.36 PM.png",
