@@ -7,4 +7,20 @@ References:
 cssclasses:
 ---
 # Creación de valor, entorno y  ventaja competitiva de la empresa
-Existe un problema a la hora
+**Problema:**
+Existe un problema a la hora de definir el objetivo de la empresa como “ganar dinero” puesto a que no podemos cuantificar cuanto dinero y no es un objetivo válido para todos los grupos (políticos y económicos) de la empresa. 
++ Los directivos no tienen los mismos objetivos que los accionistas. → Estos se alinean solucionando el [[1726315729 - Problem - Problema de agente|Problema de agente]]
+
+No solo tenemos al grupo de los directivos sino también al de los **trabajadores**, **proovedores**, **estado** etc. 
++ **Trabajadores:** Piden mejores condiciones, sueldos y estabilidad.
+A la **unión de estos grupos les llamaremos Grupos de interés(stakeholders)**. 
+
+## Grupos de interés: 
+El objetivo común que todos comparten es simple, que siga habiendo empresa. Para que esto se de con todos los grupos lo más contentos que se pueda se **fijan objetivos negociando con todos los grupos de interés**. 
+**Finalmente:**
+> [!NOTE] Solución: Puesta de objetivos
+> Los directivos ponen los objetivos, **(teniendo en cuenta | tomando como restricción) los objetivos del resto de grupos y la supervivencia de la empresa**
++ p.e: Maximizar el valor de la empresa → C
+
+
+
