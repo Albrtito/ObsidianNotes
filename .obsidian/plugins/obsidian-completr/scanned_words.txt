@@ -2570,6 +2570,8 @@ tricos
 texto
 transposici
 transformarlo
+teniendo
+tasa
 dailyNote
 day
 during
@@ -5243,6 +5245,8 @@ decimos
 desplazamiento
 desplaza
 decimaci
+definido
+deficit
 check
 classes
 cssclasses
@@ -8141,6 +8145,12 @@ creamos
 cuadrada
 cambio
 competitiva
+cuantificar
+comparten
+contentos
+corporativa
+conforman
+comercial
 lifeOS
 liking
 las
@@ -10623,6 +10633,7 @@ ligados
 lote
 levantar
 letra
+llamaremos
 First
 Fechas
 Familias
@@ -12991,6 +13002,7 @@ Favorece
 Fiscalidad
 Flexibilidad
 Flujo
+Fase
 first
 from
 file
@@ -15451,6 +15463,9 @@ funcionalidad
 fuerza
 ficos
 fica
+fijan
+factores
+fico
 Woke
 Write
 Went
@@ -23240,6 +23255,7 @@ incondicionalmente
 interpretan
 isomorfo
 implementando
+inflaci
 Enough
 Esta
 Est
@@ -25733,6 +25749,7 @@ Especializaci
 Existencia
 Elevator
 Escuchar
+Existe
 breakfast
 benefit
 bien
@@ -28109,6 +28126,7 @@ botella
 barra
 bruta
 bloques
+balanza
 Gym
 Given
 GALVIN
@@ -30379,6 +30397,7 @@ GzWd
 Grande
 Gastos
 Generaci
+Grupos
 Training
 Today
 Tomorrow
@@ -32913,6 +32932,7 @@ Tienes
 TROZO
 Triad
 Tiene
+Trabajadores
 Movement
 MM
 MMMM
@@ -35394,6 +35414,7 @@ Mono
 Monogr
 Monoalfabetismo
 Monoalfabeto
+Maximizar
 reflections
 reels
 routine
@@ -38001,6 +38022,8 @@ realizado
 relleno
 repiten
 random
+restricci
+rico
 here
 hour
 home
@@ -40363,6 +40386,7 @@ habilidades
 hacerlos
 haces
 histograma
+habiendo
 Before
 Burocracia
 Buses
@@ -47647,6 +47671,8 @@ estudiantes
 experiencias
 ecimos
 existe
+estabilidad
+exporta
 Instagram
 IRIS
 Intendencia
@@ -54730,6 +54756,8 @@ nombre
 nula
 necesidad
 ndome
+negociando
+negativo
 Post
 Papeleos
 Para
@@ -57191,6 +57219,12 @@ Problemitas
 PLAYFAIR
 Poligr
 Polialfab
+Piden
+Puesta
+PONER
+PARA
+PLAN
+Poner
 something
 start
 st
@@ -59960,6 +59994,13 @@ superbotella
 secreta
 sicos
 sustituye
+solucionando
+sueldos
+stakeholders
+siga
+supervivencia
+saldo
+similares
 No
 NOTE
 Normalmente
@@ -64975,6 +65016,11 @@ poligr
 polialfab
 poli
 progresivos
+proovedores
+pueda
+ponen
+paro
+positivo
 UC
 UNIDADES
 Unidades
@@ -72620,6 +72666,8 @@ aquel
 alfabetismo
 alfabetos
 abecedario
+alinean
+afectan
 of
 otro
 opciones
@@ -80212,6 +80260,9 @@ monoalfabeta
 matriz
 multiplica
 mencionados
+mismos
+macroecon
+moneda
 YYYY
 YYYYMMDD
 YU
@@ -92148,6 +92199,7 @@ Computacionalmente
 Constante
 Cesar
 Cifra
+COMO
 your
 ya
 yo
@@ -96917,6 +96969,7 @@ Stand
 Sientes
 Sustituciones
 Sim
+Saldo
 La
 Las
 Lanz
@@ -101530,6 +101583,7 @@ OPAS
 OPA
 Oferta
 Obteniendo
+OBJETIVO
 varias
 verde
 visita
@@ -108586,6 +108640,7 @@ grabar
 gimnasio
 grafos
 grafo
+gen
 junio
 julio
 journaling
