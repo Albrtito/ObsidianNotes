@@ -61,7 +61,7 @@ Definimos una serie de espacios y transformaciones de cada cifrado.
 **Familia de transformaciones de cifrado:**
 **Familia de transformaciones de descifrado:**
 
-### Principios de Kerckhoffs
+### Principios de Kerckhoff
 + **Computacionalmente seguro**
 + **Seguridad en la clave NO EN EL ALGORITMO**
 	El desconocimiento de la clave hace que romper el algoritmo sea practicamente imposible. Con el conocimiento de la clave ha de ser muy fácil comunicar información.
@@ -70,10 +70,19 @@ Definimos una serie de espacios y transformaciones de cada cifrado.
 ### Criptosistema:
 ![[Screenshot 2024-09-13 at 4.07.14 PM.png]]
 #### Características del criptosistema:
-
+1. Tipo de operación que realiza: **Sustituciones y transposiciones**
+2. Número de claves usadas: 
+	+ **Simétricos**: Tiene solo una clave → La clave es secreta
+	+ **Asimétricos**: Tienen dos claves (una de cifrado y otra de descifrado) → La clave es pública
+3. Tipo de procesamiento del texto en claro:
+	+ Se va cifrando por bloques → **Bloques**
+	+ Se cifra todo junto → **Flujo**
 ### Operaciones de sustitución y permutación: 
 > **Bibliografía:** Claude Shanon. Communication theory of secrecy systems (1949)
+
 Las técnicas matemáticas de cifrado que se usan aún hoy en día son las más básicas: 
 + **Sustitución:** Añade **confusión** mediante sustituyendo o modificando caracteres
 + **Transposición o permutación:** Redistribución de los caracteres sin modificación directa. A esto se le llama **difusión**
 	+ Mismos elementos en posiciones diferentes
+## Criptografía clásica:
+Dividimos los métodos criptográficos clásicos entre aq

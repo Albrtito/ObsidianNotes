@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726493246 - Algorithm - AES.md"
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726493246 - Algorithm - AES.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726493246 - Algorithm - AES.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +177,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "760b9d5497fedc0d",
@@ -192,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726493246 - Algorithm - AES.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,8 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5,
-    "collapsed": true
+    "width": 412.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,12 +284,12 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "3790088579fdb2f3",
+  "active": "a4294bb77125d7c8",
   "lastOpenFiles": [
     "02 - Atomic/1726493246 - Algorithm - AES.md",
     "01.Areas/1.UC3M/Cripto.md",
-    "02 - Atomic/1726493220 - - Untitled Suffix.md",
     "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+    "02 - Atomic/1726493220 - - Untitled Suffix.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 3.12.04 PM.png",
     "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
     "01.Areas/1.UC3M/Networks.md",
