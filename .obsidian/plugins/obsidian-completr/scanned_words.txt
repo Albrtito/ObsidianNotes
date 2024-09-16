@@ -8173,6 +8173,7 @@ competir
 compite
 corporativas
 cuales
+celdas
 lifeOS
 liking
 las
@@ -13029,6 +13030,7 @@ Fiscalidad
 Flexibilidad
 Flujo
 Fase
+Forward
 first
 from
 file
@@ -25790,6 +25792,7 @@ Estructura
 Estudio
 Evaluar
 Estrategias
+Entrop
 breakfast
 benefit
 bien
@@ -30438,6 +30441,7 @@ Grande
 Gastos
 Generaci
 Grupos
+Generador
 Training
 Today
 Tomorrow
@@ -60073,6 +60077,7 @@ sector
 sustitutivos
 sirve
 supermercado
+semilla
 No
 NOTE
 Normalmente
@@ -72753,6 +72758,8 @@ aportan
 abierta
 adaptarse
 abandonar
+aleatoriedad
+aleatorias
 of
 otro
 opciones
@@ -77658,6 +77665,9 @@ Relaci
 Rivalidad
 Ritmo
 Relacionado
+Registers
+Registros
+Retroalimentaci
 morning
 me
 mm
@@ -85119,6 +85129,7 @@ Desarrollar
 Decisiones
 Define
 DONDE
+Desplazamiento
 HH
 Highlight
 Hay
@@ -97077,6 +97088,7 @@ Sim
 Saldo
 Sistema
 Sustitutivos
+Shift
 La
 Las
 Lanz
@@ -99425,6 +99437,9 @@ Limitaci
 Limitada
 Llevo
 Licencias
+LFSR
+Lineal
+Longitud
 Otras
 Otros
 OS
@@ -108751,6 +108766,7 @@ grafo
 gen
 geogr
 gias
+generador
 junio
 julio
 journaling
