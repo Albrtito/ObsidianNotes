@@ -32,8 +32,20 @@ El objetivo común que todos comparten es simple, que siga habiendo empresa. Par
 
 + **Factores económicos**: Conjunto de factores que conforman el sistema económico de un país
 	+ Variables macroeconómicas: Tipo de interés, tipo de cambio de la moneda, inflación, deficit público, [[1726500637 - Definición - Saldo de la balanza comercial|Saldo de la balanza comercial]] y la tasa de paro.
-	+ Fase del ciclo económico: 
-+ 
+	+ Fase del ciclo económico: Son cíclicos y existen dos, de **expansión y de recesión**
+	+ Tipo de política económica: Política de impuestos y política de tipos de interés
+	+ Recursos del país: Situación geográfica, Clima, etc.
++ **Factores político legales:** 
+	+ Políticas fiscal-monetarias
+	+ Regulación del mercado laboral: 
+		+ p.e: El salario mínimo
+	+ Regulación de las industrias
+		+ p.e: Licencias de estancos
++ **Factores socio-culturales:**
+	+ Sistema de valores: 
+		+ p.e: Espíritu al trabajo
+## Entorno específico:
 
-**Entorno genérico:** 
-**Entorno específico:** Conjunto de factores que afectan a una única empresa o a un grupo de empresas **con características similares**. 
+> [!NOTE] Definición:
+Conjunto de factores que afectan a una única empresa o a un grupo de empresas **con características similares**. 
+
