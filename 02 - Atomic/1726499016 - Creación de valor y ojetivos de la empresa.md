@@ -29,7 +29,22 @@ El objetivo común que todos comparten es simple, que siga habiendo empresa. Par
 La dirección estratégica de la empresa sigue los siguientes pasos: 
 1. **Definir** la misión de la empresa
 2. **Definir** los objetivos
-3. **Desarrollar** estrategias
+3. **Desarrollar**: decisiones estrategias
+	1. Decisiones tácticas
+	2. Decisiones operativas
 4. **Implementar** estratégias
 5. **Evaluar** las estrategias implementadas
 ## Tipos de estrategias: 
+### Estrategias competitivas:
+
+> [!NOTE] Definición: 
+> Define como va a competir la empresa con otras empresas para vender sus productos o servicios para tener la máxima rentabilidad. **COMO COMPETIR**
+
++ p.e: Un supermercado que compite bajando sus precios.
+### Estrategias corporativas: 
+
+> [!NOTE] Definición: 
+> Lo que busca es fijar en que negocios va a competir la empresa y cuales abandonará. **DONDE COMPETIR**
+
++ p.e: Un supermercado que compite via exclusividad del producto o diferenciación. 
+
