@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726071498 - Práctica - Elevator pitch.md"
+                "file": "01.Areas/1.UC3M/Cripto.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +279,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "42d275f3ffa890e5",
+  "active": "a4294bb77125d7c8",
   "lastOpenFiles": [
     "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
     "01.Areas/1.UC3M/Networks.md",
