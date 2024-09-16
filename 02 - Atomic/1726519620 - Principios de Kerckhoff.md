@@ -6,6 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
+sr-due: 2024-09-19
+sr-interval: 3
+sr-ease: 250
 ---
 # Principios de Kerckhoff
 Los principios de Kerckhoff fueron publicados en 1883 dentro del artículo “Military Cryptography”. Dan una serie de características que **un cifrado ha de cumplir para ser seguro**

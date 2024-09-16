@@ -7,6 +7,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
+sr-due: 2024-09-19
+sr-interval: 3
+sr-ease: 250
 ---
 # Definition - Cifrador
 

@@ -2,7 +2,6 @@
 aliases:
   - Plan de Empresa
 tags:
-  - review
   - Empresa
 References: 
 cssclasses:

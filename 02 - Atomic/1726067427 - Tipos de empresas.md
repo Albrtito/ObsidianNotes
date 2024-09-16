@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-09-16
+sr-due: 2024-09-17
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 # Tipos de empresas
 Podemos dividir los tipos de empresa según: 
@@ -42,22 +42,8 @@ Esto se traduce a titularidad del capital total de la empresa. Dividimos empresa
 + **Públicas**: Aquellas empresas tituladas por el estado. El capital de la empresa proviene en gran parte del estado. 
 	+ ejemplo: Las universidades publicas.
 ### Personalidad:
-#Duda : Personalidad y titularidad se refieren a lo mismo?
 + [[1726241219 - Definition - Empresas Individuales|Empresas Individuales]]: 
 	Titularidad sobre una **persona física** sea una persona individual, sociedad civil o comunidad de bienes. 
  + [[1726241677 - Definition - Empresas sociales|Empresas sociales]]: 
 	Titularidad no sobre personas físicas sino sobre una **persona jurídica.** La persona jurídica se constituye en virtud de un **contrato de sociedades.** 
 	**Namely**: Los socios se juntan para crear una persona jurídica.
-
-
-
-
-**Cooperativas:**
-Empresas formadas por **grupos grandes**
-+ Cooperativa de producción: Producción del aceite
-	+ trabajador = socio
-+ Cooperativa de venta: Venta de cerezas
-	+ Actúan como **provedores**
-	+ Comercializan productos para mejorar condiciones de venta
-+ Consumo y servicios diversos: Comunidades de vecinos
-

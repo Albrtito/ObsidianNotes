@@ -27,12 +27,14 @@ Clasificamos las amenazas en 4 tipos:
 Podemos clasificar las medidas de seguridad que se aplican para proteger un sistema según diferentes criterios. 
 
 **Según activación:**
-+ **Prevención**: 
-+ **Detección**:
-+ **Respuesta**:
+Según cuando se utilizan las medidas de protección, las dividimos en tres grupos: 
+
++ Prevención: Aquellas medidas para ****
++ Detección:
++ Respuesta:
 
 **Según el tipo:**
-+ **Medidas físicas:** Hay que proteger el hardware ademas del software. 
-+ **Técnicas:** Cifrados
-+ **Administrativas:** 
-+ **Legales:** Medidas aplicadas en la ley. En España tenemos la LOPD (Ley Orgánica de Protección de Datos)
++ Medidas físicas: Hay que **proteger el hardware** ademas del software. 
++ Técnicas: **Cifrados**
++ Administrativas: 
++ Legales: **Medidas aplicadas en la ley**. En España tenemos la LOPD (Ley Orgánica de Protección de Datos)

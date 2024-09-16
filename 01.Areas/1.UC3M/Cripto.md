@@ -46,4 +46,4 @@ tags:
 - W. STALLINGS. CRYPTOGRAPHY AND NETWORK SECURITY. (5ª EDICIÓN). PRENTICE HALL.
 ## Notas: 
 + [[1726234693 - Intro a la seguridad informática |Intro a la seguridad informática]]
-+ 
++ [[1726498694 - Definition - Criptografía|Criptografía]]

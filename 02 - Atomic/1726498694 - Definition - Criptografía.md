@@ -7,6 +7,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
+sr-due: 2024-09-19
+sr-interval: 3
+sr-ease: 250
 ---
 # Criptografía:
 La definición moderna de criptografía incluye los tres objetivos de la seguridad informática ya [[1726234693 - Intro a la seguridad informática|mencionados]]: **Confidencialidad, Integridad y aviabilidad**
@@ -16,13 +19,7 @@ La definición moderna de criptografía incluye los tres objetivos de la segurid
 + Aplicamos esta disciplina con la creación de [[1726498880 - Definition - Cifrador|cifradores]], sistemas que utilizan métodos específicos para cifrar la información.
 
 **Remarks:**
-+ Cuando la clave del cifrado y la del descifrado es la misma se denomina **cifrado simétrico**. Cuando son dos claves diferentes lo llamamos **cifrado asimétrico**
-	+ La criptografía asimétrica hace un **intercambio de claves en medio público de forma segura**. → En esto está lo importante. 
-	  De esta forma podemos introducir el cripto sistemas.
 + A diferencia que en el cifrado, la codificación **no no necesita una clave.**
-
-
-	
 
 ## Criptografía clásica:
 [Recurso web](https://www.cryptool.org/en/cto/)

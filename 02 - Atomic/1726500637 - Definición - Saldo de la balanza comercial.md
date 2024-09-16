@@ -7,7 +7,15 @@ tags:
   - Empresa
 References: 
 cssclasses:
+sr-due: 2024-09-19
+sr-interval: 3
+sr-ease: 250
 ---
 # Definición - Saldo de la balanza comercial 
-Si se exporta mas de lo que se importa el saldo es positivo
-Si se importa más de lo que se exporta es negativo
+
+> [!NOTE] Definición: 
+> Diferencia entre la cantidad de bienes exportados e importados de un país.
+> 
+
++ Si se exporta mas de lo que se importa el saldo es positivo.
++ Si se importa más de lo que se exporta es negativo

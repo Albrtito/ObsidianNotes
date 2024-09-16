@@ -5,6 +5,9 @@ tags:
   - review
 "References":
 cssclasses:
+sr-due: 2024-09-19
+sr-interval: 3
+sr-ease: 250
 ---
 # Definition - Criptosistema
 ![[Screenshot 2024-09-13 at 4.07.14 PM.png]]
