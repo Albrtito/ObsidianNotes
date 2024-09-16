@@ -9,4 +9,4 @@ cssclasses:
 ---
 # Sustitución polialfabética no-periódica
 El cambio de alfabetos se da de forma “random”. 
-Cifrador de Vernam.
+Cifrador de Vernam.2

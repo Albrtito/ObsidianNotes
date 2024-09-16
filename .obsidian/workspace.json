@@ -4,49 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "22354925b8b5b532",
-        "type": "split",
+        "id": "d7eefc48c1c1da86",
+        "type": "tabs",
         "children": [
           {
-            "id": "d7eefc48c1c1da86",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ad9a0345a2aee78c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "ad9a0345a2aee78c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "e7fd4d77d2f57e6d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1a786c60b3b5a5cc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "4f589008ef1445c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "717e5b370a5073a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1726498880 - Definition - Cifrador.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9675cc0c562c028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/1.UC3M/Empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bea85324429f1a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1726499016 - Entorno y ventaja competitiva de la empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md"
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md"
               }
             }
           },
@@ -146,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,21 +189,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f02ae6b0e9426e87",
+            "id": "e16831720848d859",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "760b9d5497fedc0d",
@@ -190,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -284,8 +311,13 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "1a786c60b3b5a5cc",
+  "active": "ad9a0345a2aee78c",
   "lastOpenFiles": [
+    "02 - Atomic/1726499016 - Entorno y ventaja competitiva de la empresa.md",
+    "01.Areas/1.UC3M/Empresa.md",
+    "02 - Atomic/1726498989 -.md",
+    "02 - Atomic/1726498880 - Definition - Cifrador.md",
+    "02 - Atomic/1726498694 - Definition - Criptografía.md",
     "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
     "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
     "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
@@ -304,15 +336,10 @@
     "02 - Atomic/20240501 - 124636 - Equivalent test classes.md",
     "02 - Atomic/1726049888 - Net protocols.md",
     "02 - Atomic/1726242484 - - Untitled Suffix.md",
-    "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1725895664 - Naturaleza y de la empresa.md",
     "02 - Atomic/1725918620 - Cadena de valor.md",
     "02 - Atomic/1726049339 - Definition - Packet switches.md",
     "02 - Atomic/1725968193 - Intro to networking.md",
-    "02 - Atomic/1725910842 - Definition - Empresa.md",
-    "02 - Atomic/1725910455 - El valor añadido de una empresa.md",
-    "02 - Atomic/1726049178 - Definition - Communication links.md",
-    "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 4.07.14 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.58.36 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.57.42 PM.png",

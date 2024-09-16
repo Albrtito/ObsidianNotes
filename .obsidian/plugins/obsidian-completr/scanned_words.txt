@@ -8139,6 +8139,7 @@ cter
 cesar
 creamos
 cuadrada
+cambio
 lifeOS
 liking
 las
@@ -23237,6 +23238,7 @@ implementaci
 incondicionalmente
 interpretan
 isomorfo
+implementando
 Enough
 Esta
 Est
@@ -37997,6 +37999,7 @@ romper
 realizado
 relleno
 repiten
+random
 here
 hour
 home
@@ -69958,6 +69961,7 @@ ALGORITMO
 AES
 Asim
 Alfabetos
+Aquella
 all
 at
 aliases
@@ -80206,6 +80210,7 @@ mantienen
 monoalfabeta
 matriz
 multiplica
+mencionados
 YYYY
 YYYYMMDD
 YU
@@ -106172,6 +106177,7 @@ quieras
 quieran
 quejado
 quejan
+quina
 grupal
 generales
 grupo
@@ -113466,6 +113472,7 @@ Vicent
 Ventajas
 Venta
 Volviendo
+Vernam
 Que
 Queremos
 QE
