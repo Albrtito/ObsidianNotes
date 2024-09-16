@@ -40,11 +40,11 @@ La dirección estratégica de la empresa sigue los siguientes pasos:
 > [!NOTE] Definición: 
 > Define como va a competir la empresa con otras empresas para vender sus productos o servicios para tener la máxima rentabilidad. **COMO COMPETIR**
 
-+ p.e: Un supermercado que compite bajando sus precios.
++ p.e: **Estrategia de liderazgo en coste:** Un supermercado que compite bajando sus precios.
++ p.e: **Estrategia de liderazgo en diferenciación** Un supermercado que compite via exclusividad del producto o diferenciación.
 ### Estrategias corporativas: 
 
 > [!NOTE] Definición: 
 > Lo que busca es fijar en que negocios va a competir la empresa y cuales abandonará. **DONDE COMPETIR**
 
-+ p.e: Un supermercado que compite via exclusividad del producto o diferenciación. 
 

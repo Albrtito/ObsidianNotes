@@ -5257,6 +5257,7 @@ diferenciado
 desarrolla
 debilidades
 desarrollar
+diferenciaci
 check
 classes
 cssclasses
@@ -8167,6 +8168,11 @@ conseguirlos
 clientes
 cambios
 competidores
+competitivas
+competir
+compite
+corporativas
+cuales
 lifeOS
 liking
 las
@@ -15488,6 +15494,7 @@ fico
 fiscal
 fuerzas
 fortalezas
+fijar
 Woke
 Write
 Went
@@ -23283,6 +23290,7 @@ impuestos
 industrias
 incipiente
 interno
+implementadas
 Enough
 Esta
 Est
@@ -25779,6 +25787,8 @@ Escuchar
 Existe
 Estructura
 Estudio
+Evaluar
+Estrategias
 breakfast
 benefit
 bien
@@ -38059,6 +38069,7 @@ rico
 recesi
 ritu
 rivalidad
+rentabilidad
 here
 hour
 home
@@ -47717,6 +47728,7 @@ estandarizado
 estandarizaci
 entradas
 externo
+exclusividad
 Instagram
 IRIS
 Intendencia
@@ -50189,6 +50201,7 @@ Interceptaci
 Interrupci
 Identificaci
 Identificar
+Implementar
 Keep
 Key
 Kinds
@@ -54808,6 +54821,7 @@ nimos
 normativa
 negociaci
 negociar
+negocios
 Post
 Papeleos
 Para
@@ -60057,6 +60071,7 @@ salario
 sector
 sustitutivos
 sirve
+supermercado
 No
 NOTE
 Normalmente
@@ -72736,6 +72751,7 @@ afectan
 aportan
 abierta
 adaptarse
+abandonar
 of
 otro
 opciones
@@ -75124,6 +75140,7 @@ objetos
 opci
 operaci
 ofertado
+operativas
 References
 RRI
 RUTAS
@@ -80340,6 +80357,7 @@ macroecon
 moneda
 monetarias
 modelos
+misi
 YYYY
 YYYYMMDD
 YU
@@ -85095,6 +85113,11 @@ Debido
 Decimos
 Dependiendo
 Diferenciaci
+Definir
+Desarrollar
+Decisiones
+Define
+DONDE
 HH
 Highlight
 Hay
@@ -92280,6 +92303,7 @@ Cesar
 Cifra
 COMO
 Clima
+COMPETIR
 your
 ya
 yo
@@ -108725,6 +108749,7 @@ grafos
 grafo
 gen
 geogr
+gias
 junio
 julio
 journaling
@@ -125270,6 +125295,7 @@ xDS
 xuo
 xiy
 xQO
+xima
 XObject
 XR
 Xy
