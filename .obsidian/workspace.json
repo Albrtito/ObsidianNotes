@@ -4,15 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eed413157da2321d",
+        "id": "22354925b8b5b532",
         "type": "split",
         "children": [
           {
-            "id": "5bc2d0b64af8ef9e",
+            "id": "d7eefc48c1c1da86",
             "type": "tabs",
             "children": [
               {
-                "id": "099e669cdd7adaa5",
+                "id": "ad9a0345a2aee78c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -27,37 +27,23 @@
             ]
           },
           {
-            "id": "d7eefc48c1c1da86",
+            "id": "e7fd4d77d2f57e6d",
             "type": "tabs",
             "children": [
               {
-                "id": "daf1d34a1900b0bd",
+                "id": "1a786c60b3b5a5cc",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fa609ac6dc26c78f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
+                    "file": "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md"
+                "file": "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md"
               }
             }
           },
@@ -160,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
+                "file": "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
+                "file": "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
+                "file": "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -298,16 +284,17 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "fa609ac6dc26c78f",
+  "active": "1a786c60b3b5a5cc",
   "lastOpenFiles": [
-    "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
-    "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
     "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
+    "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
+    "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
     "02 - Atomic/1726494186 - Transposición por columnas.md",
     "02 - Atomic/1726494070 - Transposición por series.md",
     "02 - Atomic/1726494153 -.md",
     "02 - Atomic/1726493957 - Transposición por grupos.md",
-    "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1726493246 - Algorithm - AES.md",
     "02 - Atomic/1726493220 - - Untitled Suffix.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 3.12.04 PM.png",
@@ -326,7 +313,6 @@
     "02 - Atomic/1726049178 - Definition - Communication links.md",
     "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
     "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
-    "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 4.07.14 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.58.36 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.57.42 PM.png",

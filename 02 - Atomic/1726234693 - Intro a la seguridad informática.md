@@ -91,6 +91,9 @@ Dividimos los métodos criptográficos clásicos por las operaciones de sustituc
 	+ [[1726494070 - Transposición por series|Transposición por series]]
 	+ [[1726494186 - Transposición por columnas|Transposición por columnas]]
 + **Sustitución**: Divididos a su vez en: 
-	+ Mono-alfabéticos
-		+ Monográfica
-	+ Poli-alfabéticos
+	+ Monoalfabeto:
+		+ [[1726494310 - Sustitución monoalfabeto monográfica|Sustitución monoalfabeto monográfica]] 
+		+ [[1726495455 - Sustitución monoalfabeta poligráfica|Sustitución monoalfabeta poligráfica]]
+	+ Polialfabética:
+		+ [[1726496164 - Sustitución polialfabética periódica|Sustitución polialfabética periódica]]
+		+ 

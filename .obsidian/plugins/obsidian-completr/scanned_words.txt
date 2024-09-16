@@ -8138,6 +8138,7 @@ columnas
 cter
 cesar
 creamos
+cuadrada
 lifeOS
 liking
 las
@@ -23233,6 +23234,7 @@ iniciado
 innovador
 implementaci
 incondicionalmente
+interpretan
 Enough
 Esta
 Est
@@ -35386,6 +35388,7 @@ Modificaci
 Mono
 Monogr
 Monoalfabetismo
+Monoalfabeto
 reflections
 reels
 routine
@@ -37990,6 +37993,7 @@ resuelven
 rendimiento
 romper
 realizado
+relleno
 here
 hour
 home
@@ -57178,6 +57182,8 @@ Presentar
 Poli
 Problemitas
 PLAYFAIR
+Poligr
+Polialfab
 something
 start
 st
@@ -64959,6 +64965,7 @@ puro
 pura
 probabilidades
 poligr
+polialfab
 UC
 UNIDADES
 Unidades
@@ -67547,6 +67554,7 @@ Uzl
 UehZ
 UTyu
 Universidad
+Utiliza
 Achieved
 Antes
 Ah
@@ -80188,6 +80196,8 @@ monogr
 multiplicaci
 mantienen
 monoalfabeta
+matriz
+multiplica
 YYYY
 YYYYMMDD
 YU
@@ -87262,6 +87272,7 @@ Hands
 Heur
 Hamdy
 Historia
+HILL
 Journal
 January
 Jacobo
@@ -101503,6 +101514,7 @@ Operativa
 OPAS
 OPA
 Oferta
+Obteniendo
 varias
 verde
 visita
@@ -103904,6 +103916,7 @@ vendedores
 venderlas
 viable
 variar
+vectores
 que
 quieren
 quedo
