@@ -21,5 +21,11 @@ cssclasses:
 **Ideas:**
 + Stand para el móvil
 + Botella para cargar pesas, grabar con el móvil los entrenamientos...
-	1. 
-+ 
+	1. Historia, meter “algo que ayudase a cargar el peso”
+	2. Presentación:  Creando contenido fitness durante varios años. Ayudando a que muchos mejoren su estilo de vida
+		1. → Idea de grabar con el móvil 
+	3. Presentar el problema anterior, unirlo al de grabar con el móvil
+	4. Solución: La botella de agua que además incluye una funcionalidad más y no añade nada a lo que llevarías normalmente al gimnasio. 
+	5.  (Te permite llevar más cosas en la misma botella)
+	6. Después de muchos años entrenando y probando diferentes productos. Se puede decir por experiencia que este mola. 
+
