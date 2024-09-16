@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md"
+                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -319,7 +319,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -338,17 +338,18 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "8bea85324429f1a9",
+  "active": "4f589008ef1445c2",
   "lastOpenFiles": [
-    "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+    "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 7.13.37 PM.png",
+    "02 - Atomic/1726498694 - Definition - Criptografía.md",
+    "02 - Atomic/1726498880 - Definition - Cifrador.md",
     "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
     "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+    "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1726503711 - - Untitled Suffix.md",
     "02 - Atomic/1726500637 - Definición - Saldo de la balanza comercial.md",
     "02 - Atomic/1726500297 - Plan de Empresa.md",
-    "02 - Atomic/1726498880 - Definition - Cifrador.md",
-    "02 - Atomic/1726498694 - Definition - Criptografía.md",
     "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
     "02 - Atomic/1725910455 - El valor añadido de una empresa.md",
     "02 - Atomic/1726498989 -.md",
@@ -366,7 +367,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 3.12.04 PM.png",
     "02 - Atomic/1726071498 - Práctica - Elevator pitch.md",
     "01.Areas/1.UC3M/Networks.md",
-    "02 - Atomic/20240501 - 124636 - Equivalent test classes.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 4.07.14 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.58.36 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.57.42 PM.png",
