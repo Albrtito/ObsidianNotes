@@ -29,7 +29,7 @@ El objetivo común que todos comparten es simple, que siga habiendo empresa. Par
 ## Entorno genérico:
 > [!NOTE] Definición:
 > Conjunto de factores que afectan a todas las empresas en un **lugar y tiempo definido**. 
-
+### Factores:
 + **Factores económicos**: Conjunto de factores que conforman el sistema económico de un país
 	+ Variables macroeconómicas: Tipo de interés, tipo de cambio de la moneda, inflación, deficit público, [[1726500637 - Definición - Saldo de la balanza comercial|Saldo de la balanza comercial]] y la tasa de paro.
 	+ Fase del ciclo económico: Son cíclicos y existen dos, de **expansión y de recesión**
@@ -44,8 +44,23 @@ El objetivo común que todos comparten es simple, que siga habiendo empresa. Par
 + **Factores socio-culturales:**
 	+ Sistema de valores: 
 		+ p.e: Espíritu al trabajo
+	+ Nivel educativo 
+	+ Estructura de clases: Cantidad de clase media
+	+ …
++ **Factores tecnológicos:**
+	+ Tecnologías básicas: Aquellas que están al alcance de cualquier empresa
+	+ Tecnología clave: No está al alcance. Tenerlo es bueno y diferencia del resto. 
+	+ Tecnología incipiente: Aquella que será clave pero se está desarrollando. 
+
 ## Entorno específico:
 
 > [!NOTE] Definición:
 Conjunto de factores que afectan a una única empresa o a un grupo de empresas **con características similares**. 
 
+### Factores: 
++ **Barreras de entrada**: Requisitos mínimos necesarios para entrar al mercado y como de dificil es conseguirlos.
++ **Barreras de salida:** Actualmente hay muy pocas. Una fácil de ver es la del despido laboral (hay q cumplir una normativa). 
++ **Sustitutivos:** Productos que, aún siendo diferentes, las funciones que aportan son las mismas.
+	+ p.e: uber y taxi. 
++ **Relación con los proovedores:** Poder de negociación con los proovedores.
++ 
