@@ -6,6 +6,9 @@ tags:
   - Cripto
 References: https://aulaglobal.uc3m.es/pluginfile.php/7291371/mod_resource/content/1/M1_Intro_Ciber_Cifrado_2425.pdf
 cssclasses:
+sr-due: 2024-09-17
+sr-interval: 1
+sr-ease: 230
 ---
 # Intro a la seguridad informática.
 
@@ -20,8 +23,8 @@ Los objetivos de seguridad se dividen en lo que llamamos la **triada CIA**: (CIA
 ### Tipos de amenazas:
 Clasificamos las amenazas en 4 tipos: 
 1. **Interceptación:** Escuchar lo que se esta diciendo a través de un medio de comunicación
-2. **Interrupción**: 
-3. **Modificación:**
+2. **Interrupción**: Hacer imposible el uso de un servicio
+3. **Modificación:** 
 4. **Generación:**
 ### Tipos de medidas:
 Podemos clasificar las medidas de seguridad que se aplican para proteger un sistema según diferentes criterios. 
@@ -29,9 +32,9 @@ Podemos clasificar las medidas de seguridad que se aplican para proteger un sist
 **Según activación:**
 Según cuando se utilizan las medidas de protección, las dividimos en tres grupos: 
 
-+ Prevención: Aquellas medidas para ****
-+ Detección:
-+ Respuesta:
++ Prevención: Aquellas medidas para **prevenir posibles ataques futuros**
++ Detección: Medidas para detectar el ataque **cuando esta ocurriendo**
++ Respuesta: Medidas de actuación en caso de ataque.
 
 **Según el tipo:**
 + Medidas físicas: Hay que **proteger el hardware** ademas del software. 
