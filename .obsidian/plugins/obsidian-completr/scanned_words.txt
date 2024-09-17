@@ -30475,6 +30475,7 @@ Gastos
 Generaci
 Grupos
 Generador
+Generators
 Training
 Today
 Tomorrow
@@ -57343,6 +57344,8 @@ Polinomio
 Periodo
 Pues
 Procesamiento
+PRNGs
+Pseudo
 something
 start
 st
