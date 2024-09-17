@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Layers
+  - The network stack
 tags:
   - review
   - Networks
 References: 
 cssclasses:
 ---
-# Layers
+# The network stack
 From bottom to top, each layer offers a different service.:
 **Physical:** The actual things we can touch → Hardware
 **Link:** Data transfer between **neighboring network elements**
 **Network:** Joining all the linked devices in the link layer (the glue to actually create the network)
 4. **Transport:** Only exists in the end points/host systems. Adapts the service offered by the network layer to the specific needs os applications. How are we going to send the packages? How are they gonna be transported? → With protocols
-5. **Application:** Again, only exists in the endpoint devices. 
+5. [[1726574469 - Application layer|Application layer]]:Again, only exists in the endpoint devices. 
 
 + Layers 4 and 5 are only required to be implemented by any device with the need of using application services. 
 + **Routers:** Implement the first three layers

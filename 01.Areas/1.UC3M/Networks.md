@@ -53,4 +53,4 @@ aliases:
 
 ## Notas: 
 + [[1725968193 - Intro to networking|Intro to networking]]
-+ [[1726572508 - Layers|Layers]]
++ [[1726572508 - The network stack|Layers]]
