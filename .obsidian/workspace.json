@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1725968193 - Intro to networking.md",
+                "file": "01.Areas/1.UC3M/Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -290,13 +290,13 @@
   },
   "active": "558990c36a33e3f9",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Networks.md",
+    "02 - Atomic/1725968193 - Intro to networking.md",
     "00.References/Net_References_s1_1.pdf",
     "02 - Atomic/1726572508 - Layers.md",
-    "02 - Atomic/1725968193 - Intro to networking.md",
     "00.References/Net_References_s1_2.pdf",
     "00.References/Net_Resources_s3_1.pdf",
     "00.References/pbcopy",
-    "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
     "02 - Atomic/1726510994 - ChaCha20.md",
     "01.Areas/1.UC3M/Cripto.md",
