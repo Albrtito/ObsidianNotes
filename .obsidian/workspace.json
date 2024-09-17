@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8c6c4ee09992ef8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/1725968193 - Intro to networking.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +169,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,8 +262,9 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "1223c0f85c541969",
+  "active": "d8c6c4ee09992ef8",
   "lastOpenFiles": [
+    "02 - Atomic/1725968193 - Intro to networking.md",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
     "02 - Atomic/1726510994 - ChaCha20.md",
@@ -285,7 +290,6 @@
     "02 - Atomic/1726242484 - - Untitled Suffix.md",
     "02 - Atomic/1726140949 - Mochilas Vans.md",
     "02 - Atomic/1726519620 - Principios de Kerckhoff.md",
-    "02 - Atomic/1725895664 - Naturaleza y de la empresa.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 7.13.37 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 3.12.04 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 4.07.14 PM.png",
