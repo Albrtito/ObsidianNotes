@@ -5428,6 +5428,8 @@ dyCHYuS
 dyi
 dKZ
 dyCE
+doble
+definimos
 check
 classes
 cssclasses
@@ -8441,6 +8443,8 @@ ceP
 cPN
 crucigramas
 compuesto
+carlos
+cuentan
 lifeOS
 liking
 las
@@ -11010,6 +11014,7 @@ lZzH
 lXj
 lingüista
 lingüistas
+linares
 First
 Fechas
 Familias
@@ -23991,6 +23996,7 @@ iHi
 importados
 inicia
 investigaci
+incorrecto
 Enough
 Esta
 Est
@@ -39168,6 +39174,7 @@ rtMNF
 rGNu
 rUK
 rompieron
+restricciones
 here
 hour
 home
@@ -58973,6 +58980,7 @@ PNvl
 PmQJ
 PBq
 PUe
+Programaci
 something
 start
 st
@@ -61827,6 +61835,7 @@ sAJ
 sGfg
 sRuBFJQ
 sWxk
+squeda
 No
 NOTE
 Normalmente
@@ -67017,6 +67026,9 @@ pwcd
 pgrM
 pfrrf
 pertenecen
+programaci
+primer
+paso
 UC
 UNIDADES
 Unidades
@@ -82731,6 +82743,8 @@ mnfN
 mHF
 militar
 modernos
+modelo
+maximizar
 YYYY
 YYYYMMDD
 YU
@@ -90050,6 +90064,7 @@ HraW
 HER
 HfL
 Hardware
+Heuri
 Journal
 January
 Jacobo

@@ -1,6 +1,6 @@
 ---
 tags:
-  - HyO
+  - Heuri
 aliases:
   - HyO
 ---
@@ -38,3 +38,9 @@ aliases:
 - Novo Sanjurjo, Vicent J. . Teoría de la Optimización. Universidad Nacional de Educación a Distancia. 1999
 - Novo Sanjurjo, Vicente J.. Optimización: casos prácticos. Universidad Nacional de Educación a Distancia. 2000
 - Sixto Ríos Insua. Investigación Operativa. Optimización. Centro de estudios Ramón Areces. 1988
+
+## Notas: 
++ [[1726759457 - Programación Lineal|Programación Lineal]]
+
+## Ejercicios: 
++ 
