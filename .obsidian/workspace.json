@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "3c901d9ac2b6114b",
+            "id": "25fd452d15bfb121",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Heurística y Opti.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87ee5c7f45bc3ff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
+                "file": "02 - Atomic/1726759873 - Exercises - Programación Lineal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Heurística y Opti.md"
+                "file": "02 - Atomic/1726759873 - Exercises - Programación Lineal.md"
               }
             }
           },
@@ -166,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Heurística y Opti.md",
+                "file": "02 - Atomic/1726759873 - Exercises - Programación Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Heurística y Opti.md",
+                "file": "02 - Atomic/1726759873 - Exercises - Programación Lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Heurística y Opti.md",
+                "file": "02 - Atomic/1726759873 - Exercises - Programación Lineal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -304,14 +291,15 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "3c901d9ac2b6114b",
+  "active": "25fd452d15bfb121",
   "lastOpenFiles": [
     "02 - Atomic/1726759457 - Programación Lineal.md",
-    "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
     "01.Areas/1.UC3M/Heurística y Opti.md",
+    "02 - Atomic/1726067427 - Tipos de empresas.md",
+    "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
+    "02 - Atomic/1726759873 - Exercises - Programación Lineal.md",
     "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
     "02 - Atomic/1726520589 - Definition - Criptosistema.md",
-    "02 - Atomic/1726067427 - Tipos de empresas.md",
     "02 - Atomic/1725968193 - Intro to networking.md",
     "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
     "02 - Atomic/1726315564 - Definition - Cooperativa.md",
@@ -332,7 +320,6 @@
     "00.References/Net_References_s2_1.pdf",
     "02 - Atomic/1726574469 - Application layer.md",
     "02 - Atomic/1726572508 - The network stack.md",
-    "01.Areas/1.UC3M/Networks.md",
     "00.References/Net_References_s1_2.pdf",
     "00.References/Net_References_s1_1.pdf",
     "00.References/Net_Resources_s3_1.pdf",

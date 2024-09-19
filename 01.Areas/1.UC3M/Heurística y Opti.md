@@ -43,4 +43,4 @@ aliases:
 + [[1726759457 - Programación Lineal|Programación Lineal]]
 
 ## Ejercicios: 
-+ 
++ [[1726759873 - Exercises - Programación Lineal|Exercises - Programación Lineal]]
