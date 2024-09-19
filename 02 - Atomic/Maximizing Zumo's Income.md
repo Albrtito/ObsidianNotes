@@ -9,7 +9,9 @@ References: https://aulaglobal.uc3m.es/pluginfile.php/7298887/mod_resource/conte
 cssclasses:
 ---
 # Exercises - Programación Lineal
-## Problema 1:
+## Resolución gráfica:
+Una vez obtenidas las variables, función y restricciones podemos aplicar la resolución line
+### Problema 1:
 La empresa UniZumo fabrica y distribuye zumos de piña en las presentaciones Néctar de Piña y Unizumo de Piña. Ambos zumos se fabrican a base de concentrado de piña, de modo que en cada litro de zumo hay un 20 % y un 50 % de concentrado respectivamente. Para la fabricación del año se dispone de 2,4 millones de litros de concentrado de piña y se ha pactado con los mayoristas un precio de 1,25 euros por tetra brik (con una capacidad de un litro) de Néctar de Piña y 2,05 euros por el de Unizumo de Piña, bajo la condición de que no se saquen al mercado más de 6 millones de litros de zumo. 
 Se pide: 
 1. Modelar el problema como un problema de Programación Lineal para obtener las cantidades de cada producto que UniZumo debe fabricar para maximizar los ingresos por ventas. 

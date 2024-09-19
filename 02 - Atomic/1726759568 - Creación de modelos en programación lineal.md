@@ -15,3 +15,5 @@ Crear un modelo es el primer paso a la hora de resolver un problema de programac
 1. Identificar las **variables** 
 2. Definir la **función objetivo** que queremos maximizar o minimizar
 3. Definir las **restricciones del problema**
+
+
