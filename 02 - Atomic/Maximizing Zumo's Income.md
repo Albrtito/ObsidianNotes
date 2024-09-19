@@ -10,7 +10,8 @@ cssclasses:
 ---
 # Exercises - Programación Lineal
 ## Resolución gráfica:
-Una vez obtenidas las variables, función y restricciones podemos aplicar la resolución line
+Una vez obtenidas las variables, función y restricciones podemos aplicar la resolución lineal para obtener la solución que maximiza/minimiza la función objetivo: 
+1. **Identificación de la región factible** (S): Para esto usamos las restricciones establecidas para delimitar los posibles valores para nuestras variables, pintando el modelo gráficamente.
 ### Problema 1:
 La empresa UniZumo fabrica y distribuye zumos de piña en las presentaciones Néctar de Piña y Unizumo de Piña. Ambos zumos se fabrican a base de concentrado de piña, de modo que en cada litro de zumo hay un 20 % y un 50 % de concentrado respectivamente. Para la fabricación del año se dispone de 2,4 millones de litros de concentrado de piña y se ha pactado con los mayoristas un precio de 1,25 euros por tetra brik (con una capacidad de un litro) de Néctar de Piña y 2,05 euros por el de Unizumo de Piña, bajo la condición de que no se saquen al mercado más de 6 millones de litros de zumo. 
 Se pide: 
