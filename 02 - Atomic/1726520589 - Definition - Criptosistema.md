@@ -39,3 +39,9 @@ Basándonos en el número de distintas claves en un sistema de cifrado dividimos
 El texto del mensaje a des/cifrar se puede procesar en:
 + **Bloques:** Grupos de carácter, de forma secuencial.
 + **Flujo:** De caracter en caracter, de forma continua.
+
+## Clásicos y modernos: 
+Dividimos los criptosistemas en dos grandes grupos según si pertenecen a la [[1726498694 - Definition - Criptografía#Clásica y moderna|criptografía clásica o moderna]]. 
+ + [[1726753991 - Criptosistemas clásicos|Criptosistemas clásicos]]
+ + 
++ 
