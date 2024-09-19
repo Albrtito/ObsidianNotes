@@ -184,8 +184,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "760b9d5497fedc0d",
@@ -291,7 +290,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "25fd452d15bfb121",
+  "active": "1223c0f85c541969",
   "lastOpenFiles": [
     "02 - Atomic/1726759457 - Programación Lineal.md",
     "01.Areas/1.UC3M/Heurística y Opti.md",
