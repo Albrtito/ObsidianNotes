@@ -8439,6 +8439,7 @@ cpp
 cNJ
 ceP
 cPN
+crucigramas
 lifeOS
 liking
 las
@@ -11006,6 +11007,8 @@ lzR
 lfDJ
 lZzH
 lXj
+lingüista
+lingüistas
 First
 Fechas
 Familias
@@ -39160,6 +39163,7 @@ rQq
 rtMNF
 rGNu
 rUK
+rompieron
 here
 hour
 home
@@ -49102,6 +49106,7 @@ eDz
 eeH
 eLn
 exportados
+eran
 Instagram
 IRIS
 Intendencia

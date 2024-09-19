@@ -20,8 +20,12 @@ La definición moderna de criptografía incluye los tres objetivos de la segurid
 
 **Remarks:**
 + A diferencia que en el cifrado, codificación **no no necesita una clave.**
+## Clásica y moderna:
+**Referencia**: [PDF: Intro a la criptografía, criptohistoria.es](https://www.criptohistoria.es/files/I-Introduccion.pdf)
 
-Dividimos entre la criptografía clásica y la moderna, siendo la clásica más rudimentaria con métodos simétricos 
+Dividimos entre la criptografía clásica y la moderna. 
++ La criptografía clásica utiliza un **enfoque lingüista** (la mayoría de los que rompieron enigma eran lingüistas), son problemas de **la familia de los crucigramas**
++ La criptografía **moderna** utiliza un **enfoque matemático**. Se inicia la investigación **pública, no militar,** de la criptografía con Shannon. 
 ## Criptografía clásica:
 [Recurso web](https://www.cryptool.org/en/cto/)
 Dividimos los métodos criptográficos clásicos por las operaciones de sustitución y transposición. 

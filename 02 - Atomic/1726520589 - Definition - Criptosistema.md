@@ -37,5 +37,5 @@ Basándonos en el número de distintas claves en un sistema de cifrado dividimos
 
 ### Procesamiento de texto en bloque y flujo:
 El texto del mensaje a des/cifrar se puede procesar en:
-+ **Bloques:** Grupos de caracter, de forma secuencial.
++ **Bloques:** Grupos de carácter, de forma secuencial.
 + **Flujo:** De caracter en caracter, de forma continua.

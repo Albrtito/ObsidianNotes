@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726510994 - ChaCha20.md",
+                "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md"
+                "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -293,11 +293,13 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "d8c6c4ee09992ef8",
+  "active": "717e5b370a5073a8",
   "lastOpenFiles": [
+    "02 - Atomic/1726498694 - Definition - Criptografía.md",
+    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
+    "02 - Atomic/1726498880 - Definition - Cifrador.md",
     "02 - Atomic/1726510994 - ChaCha20.md",
     "01.Areas/1.UC3M/Empresa.md",
-    "02 - Atomic/1726498694 - Definition - Criptografía.md",
     "02 - Atomic/1725910842 - Definition - Empresa.md",
     "02 - Atomic/1726500637 - Definición - Saldo de la balanza comercial.md",
     "00.References/Net_References_s2_1.pdf",
@@ -324,8 +326,6 @@
     "02 - Atomic/1726494186 - Transposición por columnas.md",
     "02 - Atomic/1726494070 - Transposición por series.md",
     "02 - Atomic/1726493957 - Transposición por grupos.md",
-    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
-    "02 - Atomic/1726498880 - Definition - Cifrador.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 7.13.37 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 3.12.04 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 4.07.14 PM.png",
