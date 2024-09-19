@@ -19,8 +19,9 @@ La definición moderna de criptografía incluye los tres objetivos de la segurid
 + Aplicamos esta disciplina con la creación de [[1726498880 - Definition - Cifrador|cifradores]], sistemas que utilizan métodos específicos para cifrar la información.
 
 **Remarks:**
-+ A diferencia que en el cifrado, la codificación **no no necesita una clave.**
++ A diferencia que en el cifrado, codificación **no no necesita una clave.**
 
+Dividimos entre la criptografía clásica y la moderna, siendo la clásica más rudimentaria con métodos simétricos 
 ## Criptografía clásica:
 [Recurso web](https://www.cryptool.org/en/cto/)
 Dividimos los métodos criptográficos clásicos por las operaciones de sustitución y transposición. 
