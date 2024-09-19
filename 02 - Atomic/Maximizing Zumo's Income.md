@@ -34,3 +34,20 @@ x_1, x_2 \in \mathbb{N} \cup \{0\}
 \end{gather}
 $$
 
+**Sistemas de ecuaciones:**
+Se han de solucionar utilizando el **método de la matriz inversa**. 
+$$
+\begin{gather}
+AX = b\\
+X = A^{-1}b
+\end{gather}
+$$
++ Para ello debemos de calcular la matriz inversa. Lo haremos a través del siguiente método: 
+$$
+A^{-1} = \frac{(adj(A))^T}{det(A)}
+$$
+
+**Trabajo con números enteros y racionales:** 
+Trabajaremos usando números racionales para **prevenir la pérdida de error**. 
+> p.e: Usaremos $1 \over 5$ en vez de $0.2$
+
