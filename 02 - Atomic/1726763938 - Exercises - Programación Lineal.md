@@ -1,13 +1,14 @@
 ---
 aliases:
   - Exercises - Programación Lineal
+  - Ejercicios programación lineal
 tags:
   - review
   - Heuri
-References: 
+References: https://aulaglobal.uc3m.es/pluginfile.php/7298887/mod_resource/content/2/enunciados_representacion_lp.pdf
 cssclasses:
 ---
-# Exercises - Programación Lineal
+# Ejercicios - Programación Lineal
 ## Resolución gráfica:
 Una vez obtenidas las variables, función y restricciones podemos aplicar la resolución lineal para obtener la solución que maximiza/minimiza la función objetivo: 
 1. **Identificación de la región factible** (S): Para esto usamos las restricciones establecidas para delimitar los posibles valores para nuestras variables, pintando el modelo gráficamente.
