@@ -7,8 +7,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-09-18
-sr-interval: 3
+sr-due: 2024-09-29
+sr-interval: 10
 sr-ease: 250
 ---
 # Problem - Problema de agente
