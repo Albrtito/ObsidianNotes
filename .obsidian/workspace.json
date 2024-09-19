@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+                "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md"
+                "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+                "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+                "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+                "file": "02 - Atomic/1726315729 - Problem - Problema de agente.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -293,16 +293,18 @@
   },
   "active": "d8c6c4ee09992ef8",
   "lastOpenFiles": [
+    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
+    "02 - Atomic/1726498880 - Definition - Cifrador.md",
+    "02 - Atomic/1726519620 - Principios de Kerckhoff.md",
+    "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
     "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
     "02 - Atomic/1726049888 - Net protocols.md",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
-    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
     "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
     "02 - Atomic/1726754186 - Criptosistemas modernos.md",
     "02 - Atomic/1726510994 - ChaCha20.md",
     "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
-    "02 - Atomic/1726498880 - Definition - Cifrador.md",
     "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1725910842 - Definition - Empresa.md",
     "02 - Atomic/1726500637 - Definición - Saldo de la balanza comercial.md",
@@ -322,8 +324,6 @@
     "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
     "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
-    "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
-    "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 7.13.37 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 3.12.04 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 4.07.14 PM.png",
