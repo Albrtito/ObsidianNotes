@@ -15984,6 +15984,7 @@ fWs
 fXN
 fSA
 frame
+futuros
 Woke
 Write
 Went
@@ -74924,6 +74925,8 @@ aJYE
 aAv
 aTs
 aou
+ataques
+ataque
 of
 otro
 opciones
@@ -77379,6 +77382,7 @@ oLg
 oxV
 oIM
 oTW
+ocurriendo
 References
 RRI
 RUTAS

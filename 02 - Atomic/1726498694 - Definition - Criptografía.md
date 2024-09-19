@@ -7,8 +7,8 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-09-19
-sr-interval: 3
+sr-due: 2024-09-27
+sr-interval: 8
 sr-ease: 250
 ---
 # Criptografía:
@@ -26,17 +26,3 @@ La definición moderna de criptografía incluye los tres objetivos de la segurid
 Dividimos entre la criptografía clásica y la moderna. 
 + La criptografía clásica utiliza un **enfoque lingüista** (la mayoría de los que rompieron enigma eran lingüistas), son problemas de **la familia de los crucigramas**
 + La criptografía **moderna** utiliza un **enfoque matemático**. Se inicia la investigación **pública, no militar,** de la criptografía con Shannon. 
-## Criptografía clásica:
-[Recurso web](https://www.cryptool.org/en/cto/)
-Dividimos los métodos criptográficos clásicos por las operaciones de sustitución y transposición. 
-+ **Transposición**: Divididos en:
-	+ [[1726493957 - Transposición por grupos|Transposición por grupos]]
-	+ [[1726494070 - Transposición por series|Transposición por series]]
-	+ [[1726494186 - Transposición por columnas|Transposición por columnas]]
-+ **Sustitución**: Divididos a su vez en: 
-	+ Monoalfabeto:
-		+ [[1726494310 - Sustitución monoalfabeto monográfica|Sustitución monoalfabeto monográfica]] 
-		+ [[1726495455 - Sustitución monoalfabeta poligráfica|Sustitución monoalfabeta poligráfica]]
-	+ Polialfabética:
-		+ [[1726496164 - Sustitución polialfabética periódica|Sustitución polialfabética periódica]]
-		+ [[1726497421 - Sustitución polialfabética no-periódica|Sustitución polialfabética no-periódica]]

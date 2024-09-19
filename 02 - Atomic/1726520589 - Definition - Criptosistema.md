@@ -43,5 +43,4 @@ El texto del mensaje a des/cifrar se puede procesar en:
 ## Clásicos y modernos: 
 Dividimos los criptosistemas en dos grandes grupos según si pertenecen a la [[1726498694 - Definition - Criptografía#Clásica y moderna|criptografía clásica o moderna]]. 
  + [[1726753991 - Criptosistemas clásicos|Criptosistemas clásicos]]
- + 
-+ 
+ + [[1726754186 - Criptosistemas modernos|Criptosistemas modernos]]

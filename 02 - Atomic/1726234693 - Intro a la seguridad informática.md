@@ -6,9 +6,9 @@ tags:
   - Cripto
 References: https://aulaglobal.uc3m.es/pluginfile.php/7291371/mod_resource/content/1/M1_Intro_Ciber_Cifrado_2425.pdf
 cssclasses:
-sr-due: 2024-09-17
+sr-due: 2024-09-20
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 # Intro a la seguridad informática.
 
@@ -31,13 +31,12 @@ Podemos clasificar las medidas de seguridad que se aplican para proteger un sist
 
 **Según activación:**
 Según cuando se utilizan las medidas de protección, las dividimos en tres grupos: 
-
-+ Prevención: Aquellas medidas para **prevenir posibles ataques futuros**
-+ Detección: Medidas para detectar el ataque **cuando esta ocurriendo**
-+ Respuesta: Medidas de actuación en caso de ataque.
++ **Prevención**: Aquellas medidas para **prevenir posibles ataques futuros**
++ **Detección**: Medidas para detectar el ataque **cuando esta ocurriendo**
++ **Respuesta**: Medidas de actuación en caso de ataque.
 
 **Según el tipo:**
-+ Medidas físicas: Hay que **proteger el hardware** ademas del software. 
-+ Técnicas: **Cifrados**
-+ Administrativas: 
-+ Legales: **Medidas aplicadas en la ley**. En España tenemos la LOPD (Ley Orgánica de Protección de Datos)
++ Medidas **físicas**: Hay que **proteger el hardware** ademas del software. 
++ **Técnicas**: **Cifrados**
++ **Administrativas**: 
++ **Legales**: **Medidas aplicadas en la ley**. En España tenemos la LOPD (Ley Orgánica de Protección de Datos)
