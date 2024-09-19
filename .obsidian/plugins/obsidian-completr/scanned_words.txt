@@ -5433,6 +5433,9 @@ doble
 definimos
 distribuye
 dispone
+delimitar
+desigualdades
+derechas
 check
 classes
 cssclasses
@@ -8451,6 +8454,9 @@ cuentan
 ctar
 concentrado
 calcular
+cumpla
+condicionales
+consecuencia
 lifeOS
 liking
 las
@@ -16005,6 +16011,8 @@ fabrican
 fabricaci
 fabricar
 ficamente
+factible
+factibles
 Woke
 Write
 Went
@@ -24013,6 +24021,8 @@ investigaci
 incorrecto
 ingresos
 inversa
+identificar
+igualdades
 Enough
 Esta
 Est
@@ -33959,6 +33969,7 @@ TBOp
 TKOr
 TYV
 Trabajaremos
+Transformamos
 Movement
 MM
 MMMM
@@ -39199,6 +39210,9 @@ restricciones
 respectivamente
 racionales
 rdida
+regi
+rectas
+representar
 here
 hour
 home
@@ -41617,6 +41631,7 @@ hNG
 hNg
 headers
 haremos
+holgura
 Before
 Burocracia
 Buses
@@ -49145,6 +49160,10 @@ exportados
 eran
 euros
 enteros
+establecidas
+extremos
+esquinas
+estandar
 Instagram
 IRIS
 Intendencia
@@ -51703,6 +51722,8 @@ IXjH
 IuYx
 IeeK
 INp
+Isobeneficio
+Implementaci
 Keep
 Key
 Kinds
@@ -59009,6 +59030,7 @@ PmQJ
 PBq
 PUe
 Programaci
+Parar
 something
 start
 st
@@ -67061,6 +67083,9 @@ paso
 presentaciones
 pactado
 pide
+pintando
+paralelas
+positivos
 UC
 UNIDADES
 Unidades
@@ -72224,6 +72249,7 @@ AdB
 Aig
 AWzZ
 AMR
+Aplicar
 all
 at
 aliases
@@ -74975,6 +75001,8 @@ aTs
 aou
 ataques
 ataque
+aplicar
+alejar
 of
 otro
 opciones
@@ -77432,6 +77460,7 @@ oIM
 oTW
 ocurriendo
 obtener
+obtenidas
 References
 RRI
 RUTAS
@@ -80015,6 +80044,8 @@ Referencia
 Resolver
 Representar
 Restricciones
+Rectas
+Representaci
 morning
 me
 mm
@@ -82788,6 +82819,8 @@ modo
 millones
 mayoristas
 meros
+maximiza
+minimiza
 YYYY
 YYYYMMDD
 YU
@@ -95128,6 +95161,8 @@ CRB
 CPBl
 CbTz
 Criptosistemas
+Calcular
+Curvas
 your
 ya
 yo

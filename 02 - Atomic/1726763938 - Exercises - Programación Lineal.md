@@ -1,11 +1,10 @@
 ---
 aliases:
   - Exercises - Programación Lineal
-  - Ejercicios programación lineal
 tags:
   - review
   - Heuri
-References: https://aulaglobal.uc3m.es/pluginfile.php/7298887/mod_resource/content/2/enunciados_representacion_lp.pdf
+References: 
 cssclasses:
 ---
 # Exercises - Programación Lineal
@@ -65,5 +64,6 @@ Trabajaremos usando números racionales para **prevenir la pérdida de error**.
 Parar representar un problema de forma estandar hemos de representar las desigualdades de las restricciones como igualdades en las que todos los valores de la parte derechas son positivos. 
 + Para esto introducimos **variables de holgura**
 > p.e: Transformamos $0.2x_1 + 0.5x_2 \leq 2.4$ en $0.2x_1 + 0.5x_2 + x_3 = 2.4$. Dnd $x_3$ es la variable de holgura. 
+
 
 

@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "654e84d44037603c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "8892801850b59030",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/Maximizing Zumo's Income.md"
+                "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md"
               }
             }
           },
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/Maximizing Zumo's Income.md",
+                "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/Maximizing Zumo's Income.md",
+                "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/Maximizing Zumo's Income.md",
+                "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -290,11 +303,12 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "25fd452d15bfb121",
+  "active": "654e84d44037603c",
   "lastOpenFiles": [
+    "02 - Atomic/Maximizing Zumo's Income.md",
+    "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
     "02 - Atomic/1726759457 - Programación Lineal.md",
-    "02 - Atomic/Maximizing Zumo's Income.md",
     "01.Areas/1.UC3M/Heurística y Opti.md",
     "02 - Atomic/1726067427 - Tipos de empresas.md",
     "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
@@ -318,7 +332,6 @@
     "02 - Atomic/1726500637 - Definición - Saldo de la balanza comercial.md",
     "00.References/Net_References_s2_1.pdf",
     "02 - Atomic/1726574469 - Application layer.md",
-    "02 - Atomic/1726572508 - The network stack.md",
     "00.References/Net_References_s1_2.pdf",
     "00.References/Net_References_s1_1.pdf",
     "00.References/Net_Resources_s3_1.pdf",
