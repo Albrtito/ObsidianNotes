@@ -5436,6 +5436,7 @@ dispone
 delimitar
 desigualdades
 derechas
+descomponer
 check
 classes
 cssclasses
@@ -16013,6 +16014,7 @@ fabricar
 ficamente
 factible
 factibles
+fibonacci
 Woke
 Write
 Went
@@ -24023,6 +24025,7 @@ ingresos
 inversa
 identificar
 igualdades
+intermedios
 Enough
 Esta
 Est
@@ -26584,6 +26587,7 @@ EkV
 EBfF
 EIhd
 Ejercicios
+Ejemplos
 breakfast
 benefit
 bien
@@ -39213,6 +39217,8 @@ rdida
 regi
 rectas
 representar
+reusarse
+recursivamente
 here
 hour
 home
@@ -61887,6 +61893,7 @@ sRuBFJQ
 sWxk
 squeda
 saquen
+subproblemas
 No
 NOTE
 Normalmente
@@ -67086,6 +67093,7 @@ pide
 pintando
 paralelas
 positivos
+ptima
 UC
 UNIDADES
 Unidades
@@ -69746,6 +69754,8 @@ Ukoe
 UniZumo
 Unizumo
 Usaremos
+Util
+Usando
 Achieved
 Antes
 Ah
@@ -75003,6 +75013,7 @@ ataques
 ataque
 aplicar
 alejar
+arriba
 of
 otro
 opciones
@@ -77461,6 +77472,7 @@ oTW
 ocurriendo
 obtener
 obtenidas
+ordenados
 References
 RRI
 RUTAS
@@ -87742,6 +87754,7 @@ DKBl
 DZc
 DBu
 DOiSu
+Descomponer
 HH
 Highlight
 Hay
@@ -100085,6 +100098,7 @@ SEsq
 Sma
 SEN
 Shannon
+Serie
 La
 Las
 Lanz
@@ -112114,6 +112128,7 @@ gyav
 gJO
 gvIJ
 gFIdh
+guardan
 junio
 julio
 journaling
