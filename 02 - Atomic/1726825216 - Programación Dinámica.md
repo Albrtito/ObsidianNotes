@@ -7,6 +7,9 @@ References: https://aulaglobal.uc3m.es/pluginfile.php/7277686/mod_resource/conte
 cssclasses:
 ---
 # Programación Dinámica
+#Biblio: 
+> Steven S.Skiena: **The algorithm Design Manual**. Ch:8 
+> Dejan Zivkovic: **Foundations of Algorithm analisis and Design**. Ch: 7
 
 > [!NOTE] Definición: 
 > La programación dinámica es una **técnica bottom-up** en la que se **guardan resultados intermedios** para luego reusarse durante la resolución de un problema. 

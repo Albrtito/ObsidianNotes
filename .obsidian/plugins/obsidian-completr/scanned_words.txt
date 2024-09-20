@@ -8465,6 +8465,7 @@ calculando
 corte
 corto
 codificar
+caminom
 lifeOS
 liking
 las
@@ -33986,6 +33987,7 @@ TKOr
 TYV
 Trabajaremos
 Transformamos
+TODOS
 Movement
 MM
 MMMM
@@ -72282,6 +72284,7 @@ AWzZ
 AMR
 Aplicar
 Algoritmo
+Algorith
 all
 at
 aliases
