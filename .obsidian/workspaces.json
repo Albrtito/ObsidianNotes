@@ -297,16 +297,16 @@
         "type": "split",
         "children": [
           {
-            "id": "9af070794635d90b",
+            "id": "6e5f58f1e920590c",
             "type": "tabs",
             "children": [
               {
-                "id": "a3b520f1551c9ebf",
+                "id": "717e5b370a5073a8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/20240307 - 000000 - ODEs.md",
+                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -314,12 +314,12 @@
                 }
               },
               {
-                "id": "ba04517fd93fe66d",
+                "id": "25fd452d15bfb121",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+                    "file": "02 - Atomic/1726759457 - Programación Lineal.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -327,38 +327,12 @@
                 }
               },
               {
-                "id": "bd07f1c560e854f8",
+                "id": "08c9e4a5ed483c73",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b4647a9c500d6265",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "0798c05747bb8eb0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+                    "file": "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -366,7 +340,6 @@
                 }
               }
             ],
-            "currentTab": 1,
             "stacked": true
           }
         ],
@@ -396,7 +369,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "",
+                    "query": "tag:redes",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -431,7 +404,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 357.00418853759766,
+        "width": 313.5041847229004,
         "collapsed": true
       },
       "right": {
@@ -441,14 +414,33 @@
           {
             "id": "5997a5c0c99a8696",
             "type": "tabs",
+            "dimension": 49.77797513321492,
             "children": [
               {
-                "id": "6ac2d010ad26804a",
+                "id": "1223c0f85c541969",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md"
+                  }
+                }
+              },
+              {
+                "id": "fea6a7bd9cb3093d",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9e5b6f40fa890456",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -460,17 +452,89 @@
                 }
               },
               {
-                "id": "19bec87b90240b33",
+                "id": "6a4b03877a1fcd95",
                 "type": "leaf",
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
                 }
               },
+              {
+                "id": "689d7ca0b1d5701b",
+                "type": "leaf",
+                "state": {
+                  "type": "chatbot-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "760b9d5497fedc0d",
+            "type": "tabs",
+            "dimension": 18.783303730017764,
+            "children": [
+              {
+                "id": "36d1a43796975b90",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": true,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#Heuri  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6577366
+                          }
+                        },
+                        {
+                          "query": "tag:#Networks  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15099955
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0,
+                      "repelStrength": 17.3531310522918,
+                      "linkStrength": 0.595351839896708,
+                      "linkDistance": 374,
+                      "scale": 0.09062090041185625,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "4ffe38cb4b366bf0",
+            "type": "tabs",
+            "dimension": 31.43872113676732,
+            "children": [
               {
                 "id": "4d9e8083eba3a4a2",
                 "type": "leaf",
@@ -483,19 +547,225 @@
                 }
               },
               {
+                "id": "c69f6bd53a970edb",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 279
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "zk-prefixer:Create new unique note": true,
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "graph:Open graph view": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "templater-obsidian:Templater": false,
+          "omnisearch:Omnisearch": false,
+          "obsidian-importer:Open Importer": false,
+          "janitor:Janitor: scan vault": false
+        }
+      },
+      "active": "717e5b370a5073a8",
+      "mtime": "2024-09-20T15:13:52+02:00"
+    },
+    "Heuri": {
+      "main": {
+        "id": "17d7a5216cd24ae3",
+        "type": "split",
+        "children": [
+          {
+            "id": "6e5f58f1e920590c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "717e5b370a5073a8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "25fd452d15bfb121",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "08c9e4a5ed483c73",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "145a221e0e2d66f9",
+        "type": "split",
+        "children": [
+          {
+            "id": "499a66215ecf4828",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b89f836cb1d8a8cd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fb67b24a9341e2ad",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:redes",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "11873d04252143b6",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "74476affe76ac5b2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0b81a69190cd8ecc",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 313.5041847229004,
+        "collapsed": true
+      },
+      "right": {
+        "id": "8881aa8c79e29157",
+        "type": "split",
+        "children": [
+          {
+            "id": "5997a5c0c99a8696",
+            "type": "tabs",
+            "dimension": 49.77797513321492,
+            "children": [
+              {
+                "id": "1223c0f85c541969",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md"
+                  }
+                }
+              },
+              {
                 "id": "fea6a7bd9cb3093d",
                 "type": "leaf",
                 "state": {
                   "type": "review-queue-list-view",
                   "state": {}
                 }
+              },
+              {
+                "id": "9e5b6f40fa890456",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6a4b03877a1fcd95",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "689d7ca0b1d5701b",
+                "type": "leaf",
+                "state": {
+                  "type": "chatbot-view",
+                  "state": {}
+                }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
-            "id": "f97aefa6b972e655",
+            "id": "760b9d5497fedc0d",
             "type": "tabs",
+            "dimension": 18.783303730017764,
             "children": [
               {
                 "id": "36d1a43796975b90",
@@ -503,7 +773,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -515,10 +785,25 @@
                       "showAttachments": true,
                       "hideUnresolved": false,
                       "collapse-color-groups": true,
-                      "colorGroups": [],
+                      "colorGroups": [
+                        {
+                          "query": "tag:#Heuri  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6577366
+                          }
+                        },
+                        {
+                          "query": "tag:#Networks  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15099955
+                          }
+                        }
+                      ],
                       "collapse-display": false,
                       "showArrow": false,
-                      "textFadeMultiplier": 0,
+                      "textFadeMultiplier": -3,
                       "nodeSizeMultiplier": 1,
                       "lineSizeMultiplier": 1,
                       "collapse-forces": false,
@@ -526,7 +811,7 @@
                       "repelStrength": 17.3531310522918,
                       "linkStrength": 0.595351839896708,
                       "linkDistance": 374,
-                      "scale": 0.0974745936997114,
+                      "scale": 0.09062090041185625,
                       "close": true
                     }
                   }
@@ -535,46 +820,55 @@
             ]
           },
           {
-            "id": "2758c03c7f8ca0ae",
+            "id": "4ffe38cb4b366bf0",
             "type": "tabs",
+            "dimension": 31.43872113676732,
             "children": [
               {
-                "id": "1223c0f85c541969",
+                "id": "4d9e8083eba3a4a2",
                 "type": "leaf",
                 "state": {
-                  "type": "outline",
+                  "type": "tag",
                   "state": {
-                    "file": "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md"
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
                   }
+                }
+              },
+              {
+                "id": "c69f6bd53a970edb",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 741,
-        "collapsed": true
+        "width": 279
       },
       "left-ribbon": {
         "hiddenItems": {
-          "mermaid-tools:Open Mermaid Toolbar": false,
-          "obsidian-importer:Open Importer": true,
           "zk-prefixer:Create new unique note": true,
           "switcher:Open quick switcher": true,
           "canvas:Create new canvas": true,
           "daily-notes:Open today's daily note": true,
           "templates:Insert template": true,
           "command-palette:Open command palette": true,
-          "obsidian-spaced-repetition:Review flashcards": true,
-          "templater-obsidian:Templater": true,
-          "omnisearch:Omnisearch": false,
           "graph:Open graph view": false,
-          "workspaces:Manage workspace layouts": false
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "templater-obsidian:Templater": false,
+          "omnisearch:Omnisearch": false,
+          "obsidian-importer:Open Importer": false,
+          "janitor:Janitor: scan vault": false
         }
       },
-      "active": "ba04517fd93fe66d",
-      "mtime": "2024-05-29T00:01:34+02:00"
+      "active": "717e5b370a5073a8",
+      "mtime": "2024-09-20T15:14:09+02:00"
     }
   },
-  "active": "Layout1"
+  "active": "Main"
 }
