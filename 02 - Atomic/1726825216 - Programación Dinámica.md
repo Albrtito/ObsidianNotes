@@ -34,19 +34,45 @@ Usando la implementación básica:
 
 Podemos utilizar programación dinámica para resolver este problema, **almacenando valores intermedios**. 
 + **Implementación almacenando valores:**
-```c
-long fibonacci aux(int n) {
-  if (f[n] == UNKNOWN)
-    f[n] = fibonacci aux(n - 1) + fibonacci aux(n - 2);
-  return f[n];
-}
-long fibonacci 1(int n) {
-  int i;
-  f[0] = 0;
-  f[1] = 1;
-  for (i = 2; i≤n; f[i++] = UNKNOWN)
-    ;
-  return fibonacci aux(n);
-}
-```
+	```c
+	list f;
+	long fibonacci_aux (int n) {
+	  if (f[n] == UNKNOWN)
+	    f[n] = fibonacci aux(n - 1) + fibonacci aux(n - 2);
+	  return f[n];
+	}
+	long fibonacci_1 (int n) {
+	  int i;
+	  f[0] = 0;
+	  f[1] = 1;
+	  for (i = 2; i≤n; f[i++] = UNKNOWN)
+	    ;
+	  return fibonacci aux(n);
+	}
+	```
++ Tenemos una tabla/lista de valores f en la que guardamos el valor de la serie fibonacci para cada n. 
++ Comprobamos si sabemos ya el valor para fibonacci(n) para no volver a calcularlo. 
 
+Se puede optimizar aún más con programación dinámica, sin necesidad de usar siquiera una tabla o recursividad. 
++ **Implementación usando programación dinámica:**
+	```c
+	long fibonacci_2 (int n)
+	{
+		int i,z;
+		int x = 0;
+		int y = 1;
+		if (n<2)
+			return n
+		for (i =2; i<= n; i++)
+		{
+			z = x + y;
+			x = y;
+			y = z; 
+		}
+		return z;
+	}
+	```
++ En vez de calcular cada valor “hacia abajo” lo hacemos de abajo hacia arriba. Vamos calculando valores empezando desde los dos primeros (0 y 1) hasta que llegamos al valor deseado. 
+
+### All-pairs shortest-path
+Dado un grafo G(V,E), obtener el coste del camino más corte entre todos los pares de vértices i y j, D(i,j). 
