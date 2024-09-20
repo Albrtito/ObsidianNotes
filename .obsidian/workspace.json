@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "654e84d44037603c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Net_Resources_s3_1.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "8892801850b59030",
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Net_Resources_s3_1.pdf"
+                "file": "02 - Atomic/Maximizing Zumo's Income.md"
               }
             }
           },
@@ -163,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Net_Resources_s3_1.pdf",
+                "file": "02 - Atomic/Maximizing Zumo's Income.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Net_Resources_s3_1.pdf",
+                "file": "02 - Atomic/Maximizing Zumo's Income.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Net_Resources_s3_1.pdf",
+                "file": "02 - Atomic/Maximizing Zumo's Income.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -300,8 +290,9 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "654e84d44037603c",
+  "active": "25fd452d15bfb121",
   "lastOpenFiles": [
+    "00.References/Net_Resources_s3_1.pdf",
     "00.References/Net_References_s2_1.pdf",
     "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02 - Atomic/1726067427 - Tipos de empresas.md",
@@ -330,7 +321,6 @@
     "02 - Atomic/1726500637 - Definición - Saldo de la balanza comercial.md",
     "00.References/Net_References_s1_2.pdf",
     "00.References/Net_References_s1_1.pdf",
-    "00.References/Net_Resources_s3_1.pdf",
     "00.References/pbcopy",
     "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 7.13.37 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-16 at 3.12.04 PM.png",
