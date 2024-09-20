@@ -40,6 +40,7 @@ aliases:
 - Sixto Ríos Insua. Investigación Operativa. Optimización. Centro de estudios Ramón Areces. 1988
 
 ## Notas: 
++ [[1726825216 - Programación Dinámica|Programación Dinámica]]
 + [[1726759457 - Programación Lineal|Programación Lineal]]
 
 ## Ejercicios: 
