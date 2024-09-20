@@ -15,6 +15,7 @@ ambas
 aplican
 append
 await
+alternativas
 Creaci
 Crear
 Cuando
@@ -48,6 +49,7 @@ define
 definen
 delimitan
 desigualdad
+decimos
 modelos
 modelo
 maximizar
@@ -65,6 +67,8 @@ media
 minimizaci
 maximizaci
 multiplicamos
+maximice
+minimice
 en
 ease
 es
@@ -93,6 +97,8 @@ expresar
 equivalencias
 equivalente
 ejercicios
+encuentra
+existen
 programaci
 primer
 paso
@@ -125,6 +131,8 @@ problemas
 pr
 pueden
 prompt
+progamaci
+ptimas
 lineal
 la
 lo
@@ -177,6 +185,7 @@ rename
 resuelven
 restriciones
 resolverlo
+res
 References
 Resoluci
 Rectas
@@ -228,6 +237,7 @@ currentTitle
 cursor
 contenga
 creado
+caso
 sr
 se
 subproblemas
@@ -249,6 +259,8 @@ su
 signo
 sentido
 system
+segundo
+soluciones
 interval
 importancia
 incorrecto
@@ -415,6 +427,7 @@ Semanas
 Sanjurjo
 Sixto
 Seg
+Soluci
 Manual
 Modelar
 Millones

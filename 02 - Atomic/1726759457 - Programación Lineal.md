@@ -22,6 +22,13 @@ cssclasses:
 >Además, el problema define **restricciones que se aplican a las variables de la función.**
 
 + En resumen: Los problemas de programación lineal se definen con **variables, función y restricciones**
+
+
+> [!done] Solución:
+> La solución de un problema de progamación lineal se encuentra en el vector de variables que maximice/minimice la función objetivo.
+> + La solución óptima puede ser única o no. En este segundo caso decimos que existen **soluciones óptimas alternativas**
+
+
 Según la forma en la que se exprese la función y las restricciones podemos representar el problema de forma **canónica o de forma estandar**
 ## Forma canónica:
 Un problema de programación lineal esta en forma canónica si: 
@@ -50,9 +57,14 @@ Para transformar un modelo lineal a su forma canónica utilizamos las siguientes
 
 
 ## Forma estandar:
-
+Un problema de programación lineal esta en forma estandar si: 
++ Se busca **MAXIMIZAR o MINIMIZAR**
++ Las restricciones son de **igualdad**
++ Variables → **≥ 0**
++ Vector de re
 ## Resolución de problemas lineales: 
 Los ejercicios de programación lineal se resuelven a trozos:
 1. Primero se debe de [[1726759568 - Creación de modelos en programación lineal|crear un modelo]] que contenga la función objetivo, restriciones y variables. 
 2. Una vez creado el modelo debemos de aplicar un método para resolverlo. 
-	+ Método de res
+	+ [[1726835656 - Method - Resolución gráfica de modelos lineales|Method - Resolución gráfica de modelos lineales]]
+	+ 
