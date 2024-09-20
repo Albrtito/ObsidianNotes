@@ -75,4 +75,5 @@ Se puede optimizar aún más con programación dinámica, sin necesidad de usar 
 + En vez de calcular cada valor “hacia abajo” lo hacemos de abajo hacia arriba. Vamos calculando valores empezando desde los dos primeros (0 y 1) hasta que llegamos al valor deseado. 
 
 ### All-pairs shortest-path
-Dado un grafo G(V,E), obtener el coste del camino más corte entre todos los pares de vértices i y j, D(i,j). 
+Dado un grafo G(V,E), obtener el coste del camino más corto entre todos los pares de vértices i y j, D(i,j). 
++ **Algoritmo Floyd-Warshall**

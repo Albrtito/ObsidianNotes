@@ -36,23 +36,6 @@
       "key": "1"
     }
   ],
-  "workspace:previous-tab": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "Tab"
-    }
-  ],
-  "workspace:next-tab": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "Tab"
-    }
-  ],
   "file-explorer:new-file": [],
   "zk-prefixer": [
     {
@@ -62,7 +45,6 @@
       "key": "N"
     }
   ],
-  "obsidian-completr:completr-bypass-tab-key": [],
   "workspaces:load": [
     {
       "modifiers": [
@@ -108,9 +90,7 @@
       "key": "ArrowLeft"
     }
   ],
-  "obsidian-completr:completr-insert-selected-suggestion": [],
   "obsidian-completr:completr-jump-to-next-snippet-placeholder": [],
-  "obsidian-completr:completr-blacklist-current-word": [],
   "obsidian-completr:completr-select-previous-suggestion": [],
   "omnisearch:show-modal": [
     {
@@ -121,5 +101,13 @@
       "key": "O"
     }
   ],
-  "obsidian-completr:completr-select-next-suggestion": []
+  "obsidian-completr:completr-select-next-suggestion": [],
+  "obsidian-completr:completr-bypass-tab-key": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ]
 }

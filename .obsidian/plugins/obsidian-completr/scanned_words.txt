@@ -2662,6 +2662,7 @@ tFu
 touch
 traveling
 tetra
+tabla
 dailyNote
 day
 during
@@ -5437,6 +5438,7 @@ delimitar
 desigualdades
 derechas
 descomponer
+deseado
 check
 classes
 cssclasses
@@ -8458,6 +8460,9 @@ calcular
 cumpla
 condicionales
 consecuencia
+calcularlo
+calculando
+corte
 lifeOS
 liking
 las
@@ -11030,6 +11035,8 @@ lingüistas
 linares
 litro
 litros
+lista
+llegamos
 First
 Fechas
 Familias
@@ -26588,6 +26595,7 @@ EBfF
 EIhd
 Ejercicios
 Ejemplos
+Evaluamos
 breakfast
 benefit
 bien
@@ -39219,6 +39227,8 @@ rectas
 representar
 reusarse
 recursivamente
+recursividad
+rtices
 here
 hour
 home
@@ -49170,6 +49180,9 @@ establecidas
 extremos
 esquinas
 estandar
+eval
+evaluar
+exponencial
 Instagram
 IRIS
 Intendencia
@@ -61894,6 +61907,7 @@ sWxk
 squeda
 saquen
 subproblemas
+siquiera
 No
 NOTE
 Normalmente
@@ -67094,6 +67108,7 @@ pintando
 paralelas
 positivos
 ptima
+pares
 UC
 UNIDADES
 Unidades
@@ -75014,6 +75029,7 @@ ataque
 aplicar
 alejar
 arriba
+almacenando
 of
 otro
 opciones
@@ -77473,6 +77489,7 @@ ocurriendo
 obtener
 obtenidas
 ordenados
+optimizar
 References
 RRI
 RUTAS
@@ -87755,6 +87772,7 @@ DZc
 DBu
 DOiSu
 Descomponer
+Dado
 HH
 Highlight
 Hay
@@ -95176,6 +95194,7 @@ CbTz
 Criptosistemas
 Calcular
 Curvas
+Comprobamos
 your
 ya
 yo
@@ -107326,6 +107345,8 @@ vsh
 vTB
 vDLw
 vziO
+vuelven
+volver
 que
 quieren
 quedo
@@ -112129,6 +112150,7 @@ gJO
 gvIJ
 gFIdh
 guardan
+guardamos
 junio
 julio
 journaling
@@ -117171,6 +117193,7 @@ VwS
 VjSW
 VlGE
 Vlin
+Vamos
 Que
 Queremos
 QE
