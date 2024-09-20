@@ -88,6 +88,17 @@ asim
 asegurar
 alfabeta
 alfabetos
+alfab
+alfabeto
+aquel
+alfabetismo
+af
+aparici
+algo
+abecedario
+anterior
+aleatoria
+aleatorias
 Creaci
 Crear
 Cuando
@@ -195,6 +206,8 @@ Claude
 Communication
 Con
 Criptosistemas
+Constante
+Cesar
 de
 due
 dar
@@ -303,6 +316,15 @@ dividimos
 descifrar
 des
 divide
+desplazamiento
+desplaza
+dentro
+decimaci
+despu
+dica
+doy
+decir
+depende
 modelos
 modelo
 maximizar
@@ -417,6 +439,9 @@ multiplica
 monoalfabeto
 monoalfab
 monogr
+mismo
+mantienen
+manera
 en
 ease
 es
@@ -537,6 +562,9 @@ estos
 estas
 elementos
 exactamente
+existe
+ejemplo
+ellas
 programaci
 primer
 paso
@@ -662,6 +690,17 @@ pro
 poligr
 polialfabeto
 polialfab
+puro
+posiciones
+pura
+probabilidad
+probabilidades
+peri
+poli
+progresivos
+progresivo
+puerta
+pseudoaleatorio
 lineal
 la
 lo
@@ -747,6 +786,9 @@ lingüistas
 le
 llama
 lido
+llamamos
+letra
+longitud
 tags
 tres
 todos
@@ -849,6 +891,8 @@ tricos
 trico
 texto
 transposici
+tipo
+transformarlo
 review
 resolver
 realizar
@@ -944,6 +988,9 @@ rompieron
 realizan
 reglas
 relleno
+realizado
+repiten
+realmente
 References
 Resoluci
 Rectas
@@ -1036,6 +1083,8 @@ Referencia
 Redistribuir
 Referencias
 Respecto
+ROT
+Rotaci
 cssclasses
 correcto
 correcta
@@ -1183,6 +1232,13 @@ conocer
 concepto
 criptados
 crean
+claro
+cesar
+cantidad
+creamos
+constante
+consigue
+capaces
 sr
 se
 subproblemas
@@ -1304,6 +1360,9 @@ seg
 sustituci
 series
 sustituye
+siempre
+seguro
+somos
 interval
 importancia
 incorrecto
@@ -1397,6 +1456,10 @@ interlocutores
 introducidas
 interpretan
 individualmente
+isomorfo
+incondicionalmente
+igual
+implementar
 un
 una
 utiliza
@@ -1483,6 +1546,7 @@ uyZ
 utilizan
 utilizar
 utilizado
+usa
 hora
 hacemos
 hacia
@@ -1564,6 +1628,9 @@ hlSn
 hxU
 hnQ
 hK
+histograma
+haber
+hago
 Es
 Este
 Ejemplos
@@ -1645,6 +1712,8 @@ EDICI
 Encryption
 Espacio
 Esta
+Estoy
+Esto
 vital
 variables
 vez
@@ -1723,6 +1792,8 @@ vjt
 vS
 vld
 vectores
+ver
+variar
 no
 nuestras
 ndar
@@ -1969,6 +2040,7 @@ Definimos
 Del
 Divididos
 Debido
+Decimos
 funci
 fibonacci
 fica
@@ -2216,6 +2288,7 @@ qCm
 qQC
 quoteright
 quina
+quiere
 Algorith
 Algorithm
 All
@@ -2304,6 +2377,8 @@ Aquella
 Al
 Ambas
 Aquellos
+Alfabetos
+Alfabeto
 Floyd
 Foundations
 Funci
@@ -2383,6 +2458,7 @@ Ferreres
 FUNDAMENTOS
 Familia
 Flujo
+FICA
 Warshall
 Width
 We
@@ -2700,6 +2776,8 @@ generador
 grandes
 grupos
 grafos
+generado
+generando
 Programaci
 Para
 Problema
@@ -2802,6 +2880,9 @@ Poligr
 PLAYFAIR
 Por
 Poli
+Problemitas
+POLYGR
+Polyalfab
 Biblio
 BitsPerComponent
 BI
@@ -2968,6 +3049,8 @@ Shannon
 Sustituci
 Shanon
 Sistema
+Solo
+Ser
 Manual
 Modelar
 Millones
@@ -3067,6 +3150,7 @@ Monoalfabeto
 Monogr
 Mono
 Monoalfab
+MONOGR
 Zivkovic
 Zo
 Zi
@@ -3361,6 +3445,8 @@ Understanding
 UNIVERSITARIAS
 Utiliza
 Uno
+Uni
+Uso
 QUE
 Que
 QE
@@ -3695,6 +3781,7 @@ VM
 VIaK
 Vr
 Verlag
+Vernam
 Grupo
 Get
 GWgw
@@ -3830,6 +3917,7 @@ NN
 NmP
 NETWORK
 Necesitamos
+No
 Xr
 XObject
 Xw
@@ -3898,6 +3986,7 @@ Xk
 XS
 XH
 XQrzX
+XOR
 yh
 yp
 yr

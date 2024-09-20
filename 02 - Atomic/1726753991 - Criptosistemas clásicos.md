@@ -12,7 +12,9 @@ cssclasses:
 
 Según si se basan en la transposición o en la sustitución[^1].
 ## Sistemas de transposición:
-+ **Por grupos**
++ **Por grupos**: 
+	Se cambián grupos de caracteres entre ellos según una clave. 
+	> p.e: La **escítala** es un mecanismo antiguo en el que, al enrolllar el pensaj
 + **Por series**
 + **Por columnas**
 ## Sistemas de sustitución:
@@ -27,6 +29,8 @@ Necesitamos conocer el concepto de sustitución monoalfabética, polialfabética
 > + Poli→ Más de uno
 
 ### Monoalfabéticas:
+
+**POLYGRÁFICA:**
  Cifrador de PLAYFAIR:
  **Cifrador de HILL:**
 Utiliza multiplicación por matrices: 
@@ -34,10 +38,11 @@ Utiliza multiplicación por matrices:
 + Estos grupos se interpretan como vectores
 + Se multiplica cada vector por la matriz. Obteniendo un nuevo vector. Los nuevos valores están cifrados con la clave (matriz).
 
-		+ [[1726494310 - Sustitución monoalfabeto monográfica|Sustitución monoalfabeto monográfica]] 
-		+ [[1726495455 - Sustitución monoalfabeta poligráfica|Sustitución monoalfabeta poligráfica]]
-	+ Polialfabética:
-		+ [[1726496164 - Sustitución polialfabética periódica|Sustitución polialfabética periódica]]
-		+ [[1726497421 - Sustitución polialfabética no-periódica|Sustitución polialfabética no-periódica]]
+**MONOGRÁFICA:**
++ [[1726494310 - Sustitución monoalfabeto monográfica|Sustitución monoalfabeto monográfica]]
+
+### Polialfabéticas:
++ [[1726496164 - Sustitución polialfabética periódica|Sustitución polialfabética periódica]]
++ [[1726497421 - Sustitución polialfabética no-periódica|Sustitución polialfabética no-periódica]]
 ***
 [^1]: [[1726520589 - Definition - Criptosistema#Técnicas matemáticas de cifrado]]
