@@ -7,7 +7,7 @@ sr-due: 2024-06-05
 sr-interval: 43
 sr-ease: 208
 ---
-Recurrence relations are those that define a sequence of elements  such as each element is related to the previous ones. A well known recurrence is the [Fibonacci sequence](Fibonacci%20sequence) , where each element is the sum of the two previous elements. 
+Recurrence relations are those that define a sequence of elements  such as each element is related to the previous ones. A well known recurrence is the [[1726827729 - Defninition - Serie de Fibonacci|Fibonacci sequence]] , where each element is the sum of the two previous elements. 
 
 # Formal definition: 
 ![Definition 107  Recurrence relation](Definition%20107%20%20Recurrence%20relation.md)

@@ -8463,6 +8463,7 @@ consecuencia
 calcularlo
 calculando
 corte
+corto
 lifeOS
 liking
 las
@@ -13472,6 +13473,7 @@ FwWjC
 Fad
 FEJh
 Funci
+Floyd
 first
 from
 file
@@ -18665,6 +18667,7 @@ WZg
 WLZO
 WqX
 WTk
+Warshall
 up
 usage
 under
@@ -39229,6 +39232,7 @@ reusarse
 recursivamente
 recursividad
 rtices
+recursiva
 here
 hour
 home
@@ -72275,6 +72279,7 @@ Aig
 AWzZ
 AMR
 Aplicar
+Algoritmo
 all
 at
 aliases
@@ -87773,6 +87778,7 @@ DBu
 DOiSu
 Descomponer
 Dado
+Defninition
 HH
 Highlight
 Hay
