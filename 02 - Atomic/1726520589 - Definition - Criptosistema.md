@@ -1,10 +1,11 @@
 ---
 aliases:
   - Definition - Criptosistema
+  - Criptosistema
 tags:
   - review
-"References":
-cssclasses:
+References: 
+cssclasses: 
 sr-due: 2024-09-28
 sr-interval: 9
 sr-ease: 250

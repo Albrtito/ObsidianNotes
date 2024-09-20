@@ -645,6 +645,7 @@ privado
 privadas
 procesar
 pertenecen
+pro
 lineal
 la
 lo
@@ -1158,6 +1159,7 @@ confidencialidad
 continua
 criptosistemas
 criptogr
+columnas
 sr
 se
 subproblemas
@@ -1277,6 +1279,7 @@ secuencial
 sicos
 seg
 sustituci
+series
 interval
 importancia
 incorrecto
@@ -3236,6 +3239,7 @@ blica
 bas
 blico
 bloque
+basan
 Util
 Una
 UniZumo

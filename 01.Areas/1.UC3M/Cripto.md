@@ -49,3 +49,4 @@ tags:
 + [[1726498694 - Definition - Criptografía|Criptografía]]
 + [[1726507033 - Entropía y aleatoriedad|Entropía y aleatoriedad en criptografía]]
 
+## Práctica:
