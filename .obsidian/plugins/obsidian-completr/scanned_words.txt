@@ -86,6 +86,7 @@ autenticidad
 asegurarnos
 asim
 asegurar
+alfabeta
 Creaci
 Crear
 Cuando
@@ -300,6 +301,7 @@ distintas
 dividimos
 descifrar
 des
+divide
 modelos
 modelo
 maximizar
@@ -406,6 +408,12 @@ mensajes
 modificarlos
 mero
 modernos
+monoalfabeta
+mono
+multiplicaci
+matrices
+multiplica
+monoalfabeto
 en
 ease
 es
@@ -524,6 +532,8 @@ espacios
 espacio
 estos
 estas
+elementos
+exactamente
 programaci
 primer
 paso
@@ -646,6 +656,8 @@ privadas
 procesar
 pertenecen
 pro
+poligr
+polialfabeto
 lineal
 la
 lo
@@ -927,6 +939,7 @@ repudio
 rompieron
 realizan
 reglas
+relleno
 References
 Resoluci
 Rectas
@@ -1160,6 +1173,9 @@ continua
 criptosistemas
 criptogr
 columnas
+cuadrada
+conocer
+concepto
 sr
 se
 subproblemas
@@ -1280,6 +1296,7 @@ sicos
 seg
 sustituci
 series
+sustituye
 interval
 importancia
 incorrecto
@@ -1371,6 +1388,7 @@ inicia
 investigaci
 interlocutores
 introducidas
+interpretan
 un
 una
 utiliza
@@ -1696,6 +1714,7 @@ vZi
 vjt
 vS
 vld
+vectores
 no
 nuestras
 ndar
@@ -1770,6 +1789,8 @@ nada
 necesita
 ndose
 ndonos
+nuevo
+nuevos
 Identificar
 Intro
 Identificaci
@@ -1939,6 +1960,7 @@ Dividimos
 Definimos
 Del
 Divididos
+Debido
 funci
 fibonacci
 fica
@@ -2512,6 +2534,7 @@ Hay
 House
 HALL
 Hablamos
+HILL
 TODOS
 The
 Trabajo
@@ -2668,6 +2691,7 @@ generaci
 generador
 grandes
 grupos
+grafos
 Programaci
 Para
 Problema
@@ -2766,6 +2790,9 @@ Propiedades
 Posibles
 Procesamiento
 Polialfab
+Poligr
+PLAYFAIR
+Por
 Biblio
 BitsPerComponent
 BI
@@ -3320,6 +3347,7 @@ UQNYRF
 UFUMQB
 Understanding
 UNIVERSITARIAS
+Utiliza
 QUE
 Que
 QE
@@ -3448,6 +3476,7 @@ OHZ
 OVITLN
 OWAPLH
 OUENHS
+Obteniendo
 ximo
 xrL
 xFQ
@@ -3787,6 +3816,7 @@ NT
 NN
 NmP
 NETWORK
+Necesitamos
 Xr
 XObject
 Xw

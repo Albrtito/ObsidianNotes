@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726520589 - Definition - Criptosistema.md",
+                "file": "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md"
+                "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md"
               }
             }
           }
@@ -295,17 +296,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "03f33b4f75a925ed",
+  "active": "7722a01080201872",
   "lastOpenFiles": [
+    "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
     "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
+    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
+    "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1726494186 - Transposición por columnas.md",
     "02 - Atomic/1726494070 - Transposición por series.md",
-    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
     "02 - Atomic/1726493957 - Transposición por grupos.md",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
     "02 - Atomic/1726498880 - Definition - Cifrador.md",
     "02 - Atomic/criptografia.md",
-    "01.Areas/1.UC3M/Cripto.md",
     "00.References/DiffCalc_Theory_ODEs.pdf",
     "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02 - Atomic/1726759457 - Programación Lineal.md",
@@ -325,7 +327,6 @@
     "02 - Atomic/1726827729 - Defninition - Serie de Fibonacci.md",
     "02 - Atomic/Recurrence relations.md",
     "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
-    "02 - Atomic/Theorem 111 Solution of a linear non-homogeneous recurrence relation.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 11.53.10 AM.png",
     "00.References/Net_Resources_s3_1.pdf",
     "00.References/Net_References_s2_1.pdf",

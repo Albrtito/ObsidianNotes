@@ -9,10 +9,6 @@ cssclasses:
 ---
 # Sustitución mono-alfabeta poligráfica
 
-> [!NOTE] Definición:
-> **Poligráfica:** Debido a que sustituye los grafos en grupos de más de uno. 
-> 
-
 ## Cifrador de PLAYFAIR:
 ## Cifrador de HILL:
 Utiliza multiplicación por matrices: 

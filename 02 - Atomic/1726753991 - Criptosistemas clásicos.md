@@ -12,13 +12,21 @@ cssclasses:
 
 Según si se basan en la transposición o en la sustitución[^1].
 ## Sistemas de transposición:
-### Transposición por grupos:
-### Transposición pro series:
-### Transposición por columnas:
-
++ **Por grupos**
++ **Por series**
++ **Por columnas**
 ## Sistemas de sustitución:
-+ **Sustitución**: Divididos a su vez en: 
-	+ Monoalfabeto:
+Necesitamos conocer el concepto de sustitución monoalfabética, polialfabética, monográfica y poligráfica
+
+> [!NOTE] Definición:
+> **Poligráfica/Monográfica:** Debido a que sustituye los grafos individualmente(Mono) o en grupos(Poli).
+
+> [!NOTE] Definición:
+> **Monoalfabética/Polialfabética:** Respecto al número de 
+
+> 
+
+
 		+ [[1726494310 - Sustitución monoalfabeto monográfica|Sustitución monoalfabeto monográfica]] 
 		+ [[1726495455 - Sustitución monoalfabeta poligráfica|Sustitución monoalfabeta poligráfica]]
 	+ Polialfabética:
