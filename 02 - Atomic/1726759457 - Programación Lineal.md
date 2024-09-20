@@ -25,6 +25,20 @@ cssclasses:
 Según la forma en la que se exprese la función y las restricciones podemos representar el problema de forma **canónica o de forma estandar**
 ## Forma canónica:
 Un problema de programación lineal esta en forma canónica si: 
++ **El objetivo/función busca MAXIMIZAR**
++ **Igualdades: ≤**
++ **Variables ≥ 0**
+$$
+\begin{gather}
+\text{Función:}\\
+\max z = c^Tx\\\\
+\text{Restricciones:}\\
+Ax <= b\\\\
+\text{Variables:}\\
+x>= 0
+\end{gather}
+$$
+Para transformar el modelo 
 
 
 ## Forma estandar:

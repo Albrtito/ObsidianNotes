@@ -58,22 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "08cb25b17ec906ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md"
+                "file": "02 - Atomic/1726759457 - Programación Lineal.md"
               }
             }
           },
@@ -173,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "99 - Meta/1. Templates/NoteTemplate.md",
+                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -306,20 +293,21 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "janitor:Janitor: scan vault": false
     }
   },
-  "active": "08cb25b17ec906ca",
+  "active": "25fd452d15bfb121",
   "lastOpenFiles": [
-    "02 - Atomic/1726833810 - test.md",
-    "99 - Meta/1. Templates/NoteTemplate.md",
-    "02 - Atomic/1726833770 - Test .md",
+    "02 - Atomic/1726825216 - Programación Dinámica.md",
     "02 - Atomic/1726828714 - Algorith - Floyd-Warshall.md",
+    "99 - Meta/1. Templates/NoteTemplate.md",
+    "02 - Atomic/1726833810 - test.md",
+    "02 - Atomic/1726833770 - Test .md",
     "02 - Atomic/note tem+.md",
     "02 - Atomic/1726833125 - CHord test.md",
     "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
-    "02 - Atomic/1726825216 - Programación Dinámica.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.40.09 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.39.55 PM.png",
     "02 - Atomic/1726827729 - Defninition - Serie de Fibonacci.md",
