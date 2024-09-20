@@ -53,15 +53,19 @@ Para transformar un modelo lineal a su forma canónica utilizamos las siguientes
 ### Transformaciones:
 1. Un problema de minimización es equivalente al de maximización, **con un cambio de signo a f**
 2. Para cambiar el sentido de una desigualdad multiplicamos por -1.
-3. 
-
-
 ## Forma estandar:
 Un problema de programación lineal esta en forma estandar si: 
 + Se busca **MAXIMIZAR o MINIMIZAR**
 + Las restricciones son de **igualdad**
 + Variables → **≥ 0**
-+ Vector de re
++ Vector de recursos (b) → **≥ 0** 
+
+### Transformaciones: 
++ Cambiar de signo al vector de recursos es lo mismo que multiplicar por -1. 
++ Para convertir una igualdad en desigualdad debemos de **introducir una variable de holgura** (sumando o restando).
+$$
+
+$$
 ## Resolución de problemas lineales: 
 Los ejercicios de programación lineal se resuelven a trozos:
 1. Primero se debe de [[1726759568 - Creación de modelos en programación lineal|crear un modelo]] que contenga la función objetivo, restriciones y variables. 
