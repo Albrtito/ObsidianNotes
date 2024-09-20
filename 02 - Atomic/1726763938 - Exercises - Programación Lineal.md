@@ -9,13 +9,7 @@ References: https://aulaglobal.uc3m.es/pluginfile.php/7298887/mod_resource/conte
 cssclasses:
 ---
 # Ejercicios - Programación Lineal
-## Resolución gráfica:
-Una vez obtenidas las variables, función y restricciones podemos aplicar la resolución lineal para obtener la solución que maximiza/minimiza la función objetivo: 
-1. **Identificación de la región factible** (S): Para esto usamos las restricciones establecidas para delimitar los posibles valores para nuestras variables, pintando el modelo gráficamente.
-2. **Obtener los puntos extremos:** Estos puntos son **las esquinas de la región factible**
-3. **Identificar la solución:** La solución será **uno de los puntos factibles**. Para identificar que punto factible es podemos utiliza dos métodos. 
-	1. **Búsqueda del máximo** entre todos los puntos: Calcular el valor de cada uno de los puntos. Aplicar este valor a la función del problema y comparar entre el valor de la función para cada punto para obtener el máximo. 
-	2. **Curvas/Rectas de Isobeneficio**: Obtener la función objetivo para un valor que cumpla con las restricciones. Hecho esto “alejar” esta función a través de rectas paralelas hasta identificar el punto factible con el que se obtiene el valor máximo de f.
+
 ### Problema 1:
 La empresa UniZumo fabrica y distribuye zumos de piña en las presentaciones Néctar de Piña y Unizumo de Piña. Ambos zumos se fabrican a base de concentrado de piña, de modo que en cada litro de zumo hay un 20 % y un 50 % de concentrado respectivamente. Para la fabricación del año se dispone de 2,4 millones de litros de concentrado de piña y se ha pactado con los mayoristas un precio de 1,25 euros por tetra brik (con una capacidad de un litro) de Néctar de Piña y 2,05 euros por el de Unizumo de Piña, bajo la condición de que no se saquen al mercado más de 6 millones de litros de zumo. 
 Se pide: 

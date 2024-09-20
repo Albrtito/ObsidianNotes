@@ -25,9 +25,10 @@ cssclasses:
 Según la forma en la que se exprese la función y las restricciones podemos representar el problema de forma **canónica o de forma estandar**
 ## Forma canónica:
 Un problema de programación lineal esta en forma canónica si: 
-+ **El objetivo/función busca MAXIMIZAR**
-+ **Igualdades: ≤**
-+ **Variables ≥ 0**
++ El objetivo/función busca **MAXIMIZAR**
++ Igualdades: **≤**
++ Variables: **≥ 0**
+EL modelo se puede expresar de la siguiente forma:
 $$
 \begin{gather}
 \text{Función:}\\
@@ -38,7 +39,20 @@ Ax <= b\\\\
 x>= 0
 \end{gather}
 $$
-Para transformar el modelo 
++ c → Vector de costes/beneficios (A obtener/reducir)
++ b → Vector de recursos (Que delimitan)
+
+Para transformar un modelo lineal a su forma canónica utilizamos las siguientes equivalencias:
+### Transformaciones:
+1. Un problema de minimización es equivalente al de maximización, **con un cambio de signo a f**
+2. Para cambiar el sentido de una desigualdad multiplicamos por -1.
+3. 
 
 
 ## Forma estandar:
+
+## Resolución de problemas lineales: 
+Los ejercicios de programación lineal se resuelven a trozos:
+1. Primero se debe de [[1726759568 - Creación de modelos en programación lineal|crear un modelo]] que contenga la función objetivo, restriciones y variables. 
+2. Una vez creado el modelo debemos de aplicar un método para resolverlo. 
+	+ Método de res
