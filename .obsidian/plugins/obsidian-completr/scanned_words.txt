@@ -87,6 +87,7 @@ asegurarnos
 asim
 asegurar
 alfabeta
+alfabetos
 Creaci
 Crear
 Cuando
@@ -414,6 +415,8 @@ multiplicaci
 matrices
 multiplica
 monoalfabeto
+monoalfab
+monogr
 en
 ease
 es
@@ -658,6 +661,7 @@ pertenecen
 pro
 poligr
 polialfabeto
+polialfab
 lineal
 la
 lo
@@ -1031,6 +1035,7 @@ Random
 Referencia
 Redistribuir
 Referencias
+Respecto
 cssclasses
 correcto
 correcta
@@ -1176,6 +1181,8 @@ columnas
 cuadrada
 conocer
 concepto
+criptados
+crean
 sr
 se
 subproblemas
@@ -1389,6 +1396,7 @@ investigaci
 interlocutores
 introducidas
 interpretan
+individualmente
 un
 una
 utiliza
@@ -2793,6 +2801,7 @@ Polialfab
 Poligr
 PLAYFAIR
 Por
+Poli
 Biblio
 BitsPerComponent
 BI
@@ -3055,6 +3064,9 @@ Modern
 Mensaje
 Modificar
 Monoalfabeto
+Monogr
+Mono
+Monoalfab
 Zivkovic
 Zo
 Zi
@@ -3348,6 +3360,7 @@ UFUMQB
 Understanding
 UNIVERSITARIAS
 Utiliza
+Uno
 QUE
 Que
 QE

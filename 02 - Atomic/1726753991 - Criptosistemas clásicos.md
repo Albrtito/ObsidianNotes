@@ -22,10 +22,17 @@ Necesitamos conocer el concepto de sustitución monoalfabética, polialfabética
 > **Poligráfica/Monográfica:** Debido a que sustituye los grafos individualmente(Mono) o en grupos(Poli).
 
 > [!NOTE] Definición:
-> **Monoalfabética/Polialfabética:** Respecto al número de 
+> **Monoalfabética/Polialfabética:** Respecto al n**úmero de alfabetos criptados** que se crean. 
+> + Mono → Uno
+> + Poli→ Más de uno
 
-> 
-
+### Monoalfabéticas:
+ Cifrador de PLAYFAIR:
+ **Cifrador de HILL:**
+Utiliza multiplicación por matrices: 
++ La matriz es la clave. Es una matriz cuadrada de n x n. El texto se divide en grupos de n elementos. Se aplican caracteres de relleno (si el texto no se divide exactamente en grupos de n)
++ Estos grupos se interpretan como vectores
++ Se multiplica cada vector por la matriz. Obteniendo un nuevo vector. Los nuevos valores están cifrados con la clave (matriz).
 
 		+ [[1726494310 - Sustitución monoalfabeto monográfica|Sustitución monoalfabeto monográfica]] 
 		+ [[1726495455 - Sustitución monoalfabeta poligráfica|Sustitución monoalfabeta poligráfica]]
