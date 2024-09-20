@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/Recurrence relations.md",
+                "file": "02 - Atomic/1726828714 - Algorith - Floyd-Warshall.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/Recurrence relations.md"
+                "file": "02 - Atomic/1726825216 - Programación Dinámica.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/Recurrence relations.md",
+                "file": "02 - Atomic/1726825216 - Programación Dinámica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,14 +177,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/Recurrence relations.md",
+                "file": "02 - Atomic/1726825216 - Programación Dinámica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "61dee93e05777e08",
+            "id": "689d7ca0b1d5701b",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/Recurrence relations.md",
+                "file": "02 - Atomic/1726825216 - Programación Dinámica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -297,10 +297,16 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "66ffec9f1831e7c0",
+  "active": "fbc6cf193843252c",
   "lastOpenFiles": [
+    "02 - Atomic/1726828714 - Algorith - Floyd-Warshall.md",
+    "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.40.09 PM.png",
+    "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.39.55 PM.png",
     "02 - Atomic/1726827729 - Defninition - Serie de Fibonacci.md",
     "02 - Atomic/1726825216 - Programación Dinámica.md",
+    "02 - Atomic/Recurrence relations.md",
+    "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
+    "02 - Atomic/Theorem 111 Solution of a linear non-homogeneous recurrence relation.md",
     "02 - Atomic/Theorem 110 Solution of a homogeneous Fibonacci-type recurrence relation.md",
     "02 - Atomic/1726759457 - Programación Lineal.md",
     "01.Areas/1.UC3M/Heurística y Opti.md",
@@ -323,11 +329,6 @@
     "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
     "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
-    "02 - Atomic/1726498694 - Definition - Criptografía.md",
-    "02 - Atomic/1726754186 - Criptosistemas modernos.md",
-    "02 - Atomic/1726510994 - ChaCha20.md",
-    "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
-    "01.Areas/1.UC3M/Empresa.md",
     "00.References/Net_References_s1_2.pdf",
     "00.References/Net_References_s1_1.pdf",
     "00.References/pbcopy",
@@ -338,14 +339,12 @@
     "99 - Meta/0. Attachments/Screenshot 2024-09-13 at 3.57.42 PM.png",
     "99 - Meta/0. Attachments/Pasted image 20240912133935.png",
     "99 - Meta/0. Attachments/Pasted image 20240912133611.png",
-    "99 - Meta/0. Attachments/Pasted image 20240912133443.png",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "00.References/Net_Biblio_Kurose.pdf",
     "00.References/Algebra_Biblio_Lectures.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/HyO_Biblio_Hamdy.pdf",
     "00.References/redes-de-computadoras-un-enfoque-descendente_compress.pdf",
-    "99 - Meta/0. Attachments/Diagrama3 (1).png",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "Differential Calculus.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",

@@ -25,5 +25,4 @@ Recurrence relations are those that define a sequence of elements  such as each 
 ![Generalisation of linear homogeneous recurrence relations](Generalisation%20of%20linear%20homogeneous%20recurrence%20relations.md)
 
 ## Non-Homogeneous relations: 
-
-![Theorem 111 Solution of a linear non-homogeneous recurrence relation](Theorem%20111%20Solution%20of%20a%20linear%20non-homogeneous%20recurrence%20relation.md)
+![[20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation|Theorem - Solution of a non-homogeneous recurrence relation]]
