@@ -17,5 +17,7 @@
   "no-dupe-leaves",
   "nuke-orphans",
   "chord-sheets",
-  "obsidian-footnotes"
+  "obsidian-footnotes",
+  "obsidian-paste-image-rename",
+  "janitor"
 ]
