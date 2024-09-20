@@ -109,5 +109,13 @@
       ],
       "key": "Tab"
     }
+  ],
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "0"
+    }
   ]
 }
