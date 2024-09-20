@@ -95208,6 +95208,8 @@ Criptosistemas
 Calcular
 Curvas
 Comprobamos
+CHord
+Chord
 your
 ya
 yo

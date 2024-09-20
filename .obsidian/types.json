@@ -10,6 +10,7 @@
     "Ponente": "multitext",
     "DateStarted": "date",
     "DateToFinish": "date",
-    "lifeOS": "multitext"
+    "lifeOS": "multitext",
+    "autoscroll-speed": "number"
   }
 }

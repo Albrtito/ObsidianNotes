@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "136a9e29dd549035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1726833125 - CHord test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md"
+                "file": "02 - Atomic/1726833125 - CHord test.md"
               }
             }
           },
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1726833125 - CHord test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1726833125 - CHord test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1726833125 - CHord test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -297,10 +310,12 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "25fd452d15bfb121",
+  "active": "136a9e29dd549035",
   "lastOpenFiles": [
-    "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
     "02 - Atomic/1726828714 - Algorith - Floyd-Warshall.md",
+    "02 - Atomic/1726833125 - CHord test.md",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
+    "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
     "02 - Atomic/1726825216 - Programación Dinámica.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.40.09 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.39.55 PM.png",
@@ -309,7 +324,6 @@
     "02 - Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
     "02 - Atomic/Theorem 111 Solution of a linear non-homogeneous recurrence relation.md",
     "02 - Atomic/Theorem 110 Solution of a homogeneous Fibonacci-type recurrence relation.md",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
     "01.Areas/1.UC3M/Heurística y Opti.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 11.53.10 AM.png",
     "02 - Atomic/1726067427 - Tipos de empresas.md",
