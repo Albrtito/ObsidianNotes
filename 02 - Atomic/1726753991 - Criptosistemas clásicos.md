@@ -14,8 +14,9 @@ Según si se basan en la transposición o en la sustitución[^1].
 ## Sistemas de transposición:
 + **Por grupos**: 
 	Se cambián grupos de caracteres entre ellos según una clave. 
-	> p.e: La **escítala** es un mecanismo antiguo en el que, al enrolllar el pensaj
-+ **Por series**
+	> p.e: La **escítala** es un mecanismo antiguo en el que, al enrolllar el pensaje en un bastón con **determinado diámetro**, el mensaje era descifrado. 
++ **Por series**:
+	
 + **Por columnas**
 ## Sistemas de sustitución:
 Necesitamos conocer el concepto de sustitución monoalfabética, polialfabética, monográfica y poligráfica
