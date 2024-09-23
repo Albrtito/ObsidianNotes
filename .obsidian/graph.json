@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#incomplete  ",
@@ -60,7 +60,7 @@
       "query": "tag:#Empresa  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 13622296
       }
     }
   ],
@@ -74,6 +74,6 @@
   "repelStrength": 8.38114754098361,
   "linkStrength": 0.648501536885246,
   "linkDistance": 210,
-  "scale": 0.048676751448862736,
-  "close": false
+  "scale": 0.02482859215004825,
+  "close": true
 }

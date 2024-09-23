@@ -166,6 +166,7 @@ apare
 apoyo
 actividad
 apalancamientos
+acordes
 Creaci
 Crear
 Cuando
@@ -867,6 +868,10 @@ especializada
 ente
 entidad
 encontraba
+estandarizadas
+ella
+estados
+estudiar
 programaci
 primer
 paso
@@ -1079,6 +1084,8 @@ planificaci
 puestos
 primarias
 primaria
+profundidad
+propuestos
 lineal
 la
 lo
@@ -1336,6 +1343,7 @@ tercio
 tangible
 turismo
 trozo
+tomar
 review
 resolver
 realizar
@@ -1478,6 +1486,8 @@ reales
 realizables
 realizaba
 ratios
+reflejar
+ramas
 References
 Resoluci
 Rectas
@@ -2168,6 +2178,8 @@ implican
 invertido
 individuos
 introducir
+invertir
+iabilidad
 un
 una
 utiliza
@@ -3011,6 +3023,8 @@ fin
 fines
 formar
 finalmente
+finalidad
+fotos
 objetivo
 obtener
 of
@@ -3576,6 +3590,7 @@ Hill
 Hacia
 Horizontal
 Herramienta
+Herramientas
 TODOS
 The
 Trabajo
@@ -4468,6 +4483,7 @@ buscan
 bien
 bases
 basa
+beneficio
 Util
 Una
 UniZumo
