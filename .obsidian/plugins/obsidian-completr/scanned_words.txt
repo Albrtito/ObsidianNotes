@@ -110,6 +110,8 @@ arithmetics
 although
 applied
 arithmetic
+all
+any
 Creaci
 Crear
 Cuando
@@ -492,6 +494,7 @@ multiplicative
 modular
 most
 modulus
+multiple
 en
 ease
 es
@@ -788,6 +791,8 @@ properties
 primes
 prime
 proof
+particular
+pairwise
 lineal
 la
 lo
@@ -998,6 +1003,8 @@ totient
 theorem
 they
 those
+theorems
+then
 review
 resolver
 realizar
@@ -1208,6 +1215,7 @@ Redes
 Ross
 Recurso
 Remember
+Relatively
 cssclasses
 correcto
 correcta
@@ -1377,6 +1385,7 @@ classes
 cases
 composite
 compute
+coprimos
 sr
 se
 subproblemas
@@ -1511,6 +1520,9 @@ set
 solutions
 say
 some
+simultaneously
+steps
+smallest
 interval
 importancia
 incorrecto
@@ -1624,6 +1636,8 @@ inverse
 inversee
 invertible
 infinite
+identity
+imply
 un
 una
 utiliza
@@ -1717,6 +1731,7 @@ unique
 unit
 understand
 understood
+unrolling
 hora
 hacemos
 hacia
@@ -1896,6 +1911,7 @@ Even
 Every
 Eulers
 Euclid
+Exists
 vital
 variables
 vez
@@ -2153,6 +2169,8 @@ Indicador
 Invertible
 Invertibility
 Infinity
+Identity
+Integers
 Definir
 Din
 Design
@@ -2440,6 +2458,7 @@ obtaining
 over
 other
 odd
+obtain
 que
 queremos
 qD
@@ -2692,6 +2711,7 @@ Francisco
 Fourth
 For
 Formal
+From
 Warshall
 Width
 We
@@ -2953,6 +2973,7 @@ There
 THEN
 They
 Theorems
+Two
 grafo
 guardan
 global
@@ -3145,6 +3166,7 @@ PRNGs
 Pseudo
 Properties
 Prime
+Pairwise
 Biblio
 BitsPerComponent
 BI
@@ -3558,6 +3580,7 @@ LastChar
 LCC
 Linear
 Lemma
+Let
 bottom
 base
 brik
@@ -3645,6 +3668,7 @@ byte
 bit
 based
 better
+back
 Util
 Una
 UniZumo
@@ -3999,6 +4023,7 @@ zsjF
 zfl
 zRY
 zj
+zout
 Variables
 Vicent
 Vicente
@@ -4147,6 +4172,7 @@ Generators
 Gracias
 Generalisation
 Given
+Going
 Nota
 Novo
 Nacional
@@ -4216,6 +4242,7 @@ No
 Networks
 Number
 Notation
+Not
 Xr
 XObject
 Xw
@@ -4565,6 +4592,7 @@ whether
 would
 what
 where
+written
 kL
 kMZ
 kC

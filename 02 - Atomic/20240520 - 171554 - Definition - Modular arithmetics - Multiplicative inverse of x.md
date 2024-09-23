@@ -18,7 +18,7 @@ cssclasses:
 
 **Remarks:**
 + In modular arithmetics, there **does not exist in general** the multiplicative inverse of an integer x.
-+ Una 
++ La inversa(y) existe únicamente cuando x y m son [[20240519 - 232552 - Definition - Relatively prime numbers|coprimos]]
 ## Properties:
 Even if there is no multiplicative inverse in most cases, two properties hold, **although not in general in $Z_m$**
 

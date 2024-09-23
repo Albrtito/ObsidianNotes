@@ -30,4 +30,4 @@ $$
 
 ***
 
-[^1]: [[Multiplicative inverse]]
+[^1]: [[20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x|Modular arithmetics - Multiplicative inverse of x]]
