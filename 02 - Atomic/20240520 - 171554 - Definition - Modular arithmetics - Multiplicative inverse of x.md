@@ -1,7 +1,6 @@
 ---
 aliases:
   - Modular arithmetics - Multiplicative inverse of x
-  - Definition - Modular arithmetics - Multiplicative inverse of x
 tags:
   - Discrete
 "References:": 
@@ -19,6 +18,7 @@ cssclasses:
 
 **Remarks:**
 + In modular arithmetics, there **does not exist in general** the multiplicative inverse of an integer x.
++ Una 
 ## Properties:
 Even if there is no multiplicative inverse in most cases, two properties hold, **although not in general in $Z_m$**
 
@@ -49,6 +49,3 @@ For a congruence relation defined over the modulus of a prime number p. **THEN:*
 + $\mathbb{Z}_p$ is a field like $(\mathbb{R}, + ,\cdot)$
 + **IF:** m = p $\cdot$ q (m is composite) **THEN:** There are divisors of zero in Zm and Zm is **a ring with divisors of zero** 
  #Duda : Divisors of zero and what the hell is a ring.
-
-## Eulers totient function:
-

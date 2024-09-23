@@ -10,20 +10,8 @@
           {
             "id": "bd08768241446185",
             "type": "tabs",
+            "dimension": 69.21428571428572,
             "children": [
-              {
-                "id": "a1d4d0b5b0f9fd73",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
               {
                 "id": "1f8fdb88d13839d5",
                 "type": "leaf",
@@ -41,72 +29,119 @@
                 "id": "23b77fbd76dde76a",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3393ee04dedcc073",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
                 }
               }
             ],
             "currentTab": 2
           },
           {
-            "id": "40a80fb98a8b5b19",
-            "type": "tabs",
+            "id": "1564d19e0f349d88",
+            "type": "split",
+            "dimension": 30.78571428571429,
             "children": [
               {
-                "id": "03f33b4f75a925ed",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
+                "id": "f3cd2baafda53b50",
+                "type": "tabs",
+                "dimension": 76.74418604651163,
+                "children": [
+                  {
+                    "id": "a1d4d0b5b0f9fd73",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    }
                   }
-                }
+                ]
               },
               {
-                "id": "7722a01080201872",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
+                "id": "40a80fb98a8b5b19",
+                "type": "tabs",
+                "dimension": 23.25581395348837,
+                "children": [
+                  {
+                    "id": "03f33b4f75a925ed",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "7722a01080201872",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "34492e249d8258af",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "be9c8c856ecb0631",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02 - Atomic/1727096148 - Cifrador de flujo.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    }
                   }
-                }
-              },
-              {
-                "id": "34492e249d8258af",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "be9c8c856ecb0631",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1727096148 - Cifrador de flujo.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+                ],
+                "currentTab": 3,
+                "stacked": true
               }
             ],
-            "currentTab": 3,
-            "stacked": true
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -218,6 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,6 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,6 +288,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,7 +299,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "tag:#Calc  ",
@@ -278,7 +316,7 @@
                       }
                     },
                     {
-                      "query": "tag:#Logic  ",
+                      "query": "tag:#Networks",
                       "color": {
                         "a": 1,
                         "rgb": 11392604
@@ -292,7 +330,7 @@
                       }
                     },
                     {
-                      "query": "tag:#SoftwareDev  ",
+                      "query": "tag:#Cripto",
                       "color": {
                         "a": 1,
                         "rgb": 6084269
@@ -304,12 +342,12 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 13.341859845457,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 211,
-                  "scale": 0.13466731006565916,
+                  "scale": 0.21322213071750382,
                   "close": true
                 }
               }
@@ -326,7 +364,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md"
+              }
             }
           }
         ]
@@ -352,9 +392,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "23b77fbd76dde76a",
+  "active": "3393ee04dedcc073",
   "lastOpenFiles": [
+    "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
+    "02 - Atomic/Multiplicative inverse.md",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
+    "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
+    "02 - Atomic/20240429 - 111500 - Prime numbers.md",
+    "02 - Atomic/20240429 - 111944 - Theorem - Euclid's proof of infinite prime numbers.md",
+    "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02 - Atomic/1727100831 - - Untitled Suffix.md",
     "02 - Atomic/Untitled 1.md",
@@ -374,13 +420,7 @@
     "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
     "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
     "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
-    "02 - Atomic/1726494186 - Transposición por columnas.md",
-    "02 - Atomic/1726494070 - Transposición por series.md",
-    "02 - Atomic/1726493957 - Transposición por grupos.md",
     "00.References/DiffCalc_Theory_ODEs.pdf",
-    "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
-    "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.40.09 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.39.55 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 11.53.10 AM.png",

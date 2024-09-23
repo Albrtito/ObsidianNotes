@@ -106,6 +106,10 @@ aleatoriedad
 are
 ask
 also
+arithmetics
+although
+applied
+arithmetic
 Creaci
 Crear
 Cuando
@@ -225,6 +229,8 @@ Computer
 Communications
 Cada
 Congruence
+Cancellation
+Composite
 de
 due
 dar
@@ -349,6 +355,12 @@ determinado
 deducir
 denoted
 definition
+does
+defined
+divisors
+do
+divisible
+divided
 modelos
 modelo
 maximizar
@@ -477,6 +489,9 @@ multiplied
 must
 modulo
 multiplicative
+modular
+most
+modulus
 en
 ease
 es
@@ -619,6 +634,10 @@ equivalent
 every
 each
 exists
+exist
+elements
+else
+example
 programaci
 primer
 paso
@@ -765,6 +784,10 @@ primo
 proposing
 positive
 possible
+properties
+primes
+prime
+proof
 lineal
 la
 lo
@@ -855,6 +878,10 @@ letra
 longitud
 library
 linear
+law
+like
+lemmas
+last
 tags
 tres
 todos
@@ -967,6 +994,10 @@ this
 type
 there
 that
+totient
+theorem
+they
+those
 review
 resolver
 realizar
@@ -1074,6 +1105,11 @@ realiza
 reducido
 restos
 rewritten
+relatively
+ring
+references
+recursively
+remainder
 References
 Resoluci
 Rectas
@@ -1171,6 +1207,7 @@ Rotaci
 Redes
 Ross
 Recurso
+Remember
 cssclasses
 correcto
 correcta
@@ -1337,6 +1374,9 @@ congruence
 comply
 called
 classes
+cases
+composite
+compute
 sr
 se
 subproblemas
@@ -1469,6 +1509,8 @@ solution
 single
 set
 solutions
+say
+some
 interval
 importancia
 incorrecto
@@ -1580,6 +1622,8 @@ integer
 integers
 inverse
 inversee
+invertible
+infinite
 un
 una
 utiliza
@@ -1670,6 +1714,9 @@ usa
 universidad
 uso
 unique
+unit
+understand
+understood
 hora
 hacemos
 hacia
@@ -1755,6 +1802,10 @@ histograma
 haber
 hago
 have
+hold
+has
+hell
+however
 Es
 Este
 Ejemplos
@@ -1841,6 +1892,10 @@ Esto
 Entrop
 Euler
 Elements
+Even
+Every
+Eulers
+Euclid
 vital
 variables
 vez
@@ -2005,6 +2060,10 @@ nicamente
 ncrono
 nos
 number
+not
+numbers
+non
+natural
 Identificar
 Intro
 Identificaci
@@ -2091,6 +2150,9 @@ Internetworking
 IP
 International
 Indicador
+Invertible
+Invertibility
+Infinity
 Definir
 Din
 Design
@@ -2184,6 +2246,7 @@ DOUGLAS
 Data
 Discrete
 Diophantine
+Divisors
 funci
 fibonacci
 fica
@@ -2275,6 +2338,11 @@ fuera
 following
 found
 form
+follow
+field
+function
+factors
+first
 objetivo
 obtener
 of
@@ -2369,6 +2437,9 @@ operaciones
 ordenadores
 only
 obtaining
+over
+other
+odd
 que
 queremos
 qD
@@ -2536,6 +2607,7 @@ Architecture
 Addison
 ANDREW
 After
+Any
 Floyd
 Foundations
 Funci
@@ -2879,6 +2951,8 @@ Teorema
 Then
 There
 THEN
+They
+Theorems
 grafo
 guardan
 global
@@ -3069,6 +3143,8 @@ Prentice
 Padlet
 PRNGs
 Pseudo
+Properties
+Prime
 Biblio
 BitsPerComponent
 BI
@@ -3137,6 +3213,7 @@ Bloques
 Bagnulo
 Braun
 Because
+Based
 Steven
 Skiena
 Serie
@@ -3243,6 +3320,7 @@ Ser
 Seventh
 STEVENS
 Solving
+Such
 Manual
 Modelar
 Millones
@@ -3344,6 +3422,8 @@ Mono
 Monoalfab
 MONOGR
 Marcelo
+Modular
+Multiplicative
 Zivkovic
 Zo
 Zi
@@ -3477,6 +3557,7 @@ LQ
 LastChar
 LCC
 Linear
+Lemma
 bottom
 base
 brik
@@ -3562,6 +3643,8 @@ book
 bast
 byte
 bit
+based
+better
 Util
 Una
 UniZumo
@@ -3647,6 +3730,7 @@ Uno
 Uni
 Uso
 Utilizan
+Unit
 QUE
 Que
 QE
@@ -4061,6 +4145,8 @@ Grupos
 Gabriel
 Generators
 Gracias
+Generalisation
+Given
 Nota
 Novo
 Nacional
@@ -4397,6 +4483,7 @@ joL
 jWbomZk
 jA
 junto
+jet
 wA
 wo
 wpMuB
@@ -4476,6 +4563,8 @@ with
 way
 whether
 would
+what
+where
 kL
 kMZ
 kC

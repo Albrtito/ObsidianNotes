@@ -21,7 +21,7 @@ Gracias a este teorema podemos deducir la siguiente expresión:
 $$
 a^{-|} = a^{\Phi(n)-1} \mod n = 1
 $$
-+ Esta expresión nos permite **calcular el inverso de a mod n**
++ Esta expresión nos permite **calcular el inverso de a mod n**[^1]
 Si n es primo (p), todo se simplifica más aún (según la teoría del indicador de euler): 
 $$
 a^{-1} = a^{p-2} \mod p
@@ -29,3 +29,5 @@ $$
 
 
 ***
+
+[^1]: [[Multiplicative inverse]]
