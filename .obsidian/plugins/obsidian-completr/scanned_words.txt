@@ -101,6 +101,8 @@ aleatoria
 aleatorias
 accesible
 antiguo
+ambos
+aleatoriedad
 Creaci
 Crear
 Cuando
@@ -925,6 +927,7 @@ transposici
 tipo
 transformarlo
 tala
+tiempo
 review
 resolver
 realizar
@@ -1408,6 +1411,7 @@ siempre
 seguro
 somos
 semana
+sino
 interval
 importancia
 incorrecto
@@ -1761,6 +1765,7 @@ Espacio
 Esta
 Estoy
 Esto
+Entrop
 vital
 variables
 vez
@@ -1921,6 +1926,7 @@ nuevos
 nimas
 nota
 nico
+nicamente
 Identificar
 Intro
 Identificaci
@@ -2848,6 +2854,7 @@ grupos
 grafos
 generado
 generando
+gicas
 Programaci
 Para
 Problema
@@ -2959,6 +2966,8 @@ Principles
 Protocols
 Prentice
 Padlet
+PRNGs
+Pseudo
 Biblio
 BitsPerComponent
 BI
@@ -3941,6 +3950,7 @@ Gonzalez
 Gonz
 Grupos
 Gabriel
+Generators
 Nota
 Novo
 Nacional
@@ -4008,6 +4018,7 @@ NETWORK
 Necesitamos
 No
 Networks
+Number
 Xr
 XObject
 Xw
