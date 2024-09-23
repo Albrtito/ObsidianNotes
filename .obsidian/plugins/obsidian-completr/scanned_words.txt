@@ -100,6 +100,7 @@ anterior
 aleatoria
 aleatorias
 accesible
+antiguo
 Creaci
 Crear
 Cuando
@@ -337,6 +338,7 @@ depende
 dise
 descendente
 desde
+determinado
 modelos
 modelo
 maximizar
@@ -457,6 +459,8 @@ manera
 marcelo
 min
 max
+mecanismo
+metro
 en
 ease
 es
@@ -584,6 +588,10 @@ edici
 electr
 entrar
 edition
+ellos
+esc
+enrolllar
+era
 programaci
 primer
 paso
@@ -722,6 +730,7 @@ puerta
 pseudoaleatorio
 prueba
 protocols
+pensaje
 lineal
 la
 lo
@@ -915,6 +924,7 @@ texto
 transposici
 tipo
 transformarlo
+tala
 review
 resolver
 realizar
@@ -1272,6 +1282,7 @@ clase
 chapters
 covered
 class
+cambi
 sr
 se
 subproblemas
@@ -3435,6 +3446,7 @@ bloque
 basan
 between
 book
+bast
 Util
 Una
 UniZumo

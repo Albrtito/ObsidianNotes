@@ -8,17 +8,17 @@ References:
 cssclasses:
 ---
 # Criptosistemas clásicos
-**Referencias:**[Recurso web: Cifrar mensajes con cifradores clásicos](https://www.cryptool.org/en/cto/)
 
-Según si se basan en la transposición o en la sustitución[^1].
-## Sistemas de transposición:
+**Referencias:**[Recurso web: Cifrar mensajes con cifradores clásicos](https://www.cryptool.org/en/cto/)
+Los criptosistemas clásicos utilizan métodos clasicos de cifrado basados en la transposición y la sustitución como únicas operaciones matemáticas.[^1].
+## Métodos de transposición:
 + **Por grupos**: 
 	Se cambián grupos de caracteres entre ellos según una clave. 
 	> p.e: La **escítala** es un mecanismo antiguo en el que, al enrolllar el pensaje en un bastón con **determinado diámetro**, el mensaje era descifrado. 
 + **Por series**:
 	
 + **Por columnas**
-## Sistemas de sustitución:
+## Métodos de sustitución:
 Necesitamos conocer el concepto de sustitución monoalfabética, polialfabética, monográfica y poligráfica
 
 > [!NOTE] Definición:

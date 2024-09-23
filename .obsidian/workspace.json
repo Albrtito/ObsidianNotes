@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
+                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md"
+                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md"
               }
             }
           }
@@ -295,22 +296,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "03f33b4f75a925ed",
+  "active": "34492e249d8258af",
   "lastOpenFiles": [
-    "01.Areas/1.UC3M/Networks.md",
-    "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
+    "02 - Atomic/1726754186 - Criptosistemas modernos.md",
+    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
+    "02 - Atomic/1726498880 - Definition - Cifrador.md",
     "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
+    "02 - Atomic/criptografia.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
     "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
-    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
     "02 - Atomic/1726495455 - Sustitución monoalfabeta poligráfica.md",
     "02 - Atomic/1726494186 - Transposición por columnas.md",
     "02 - Atomic/1726494070 - Transposición por series.md",
     "02 - Atomic/1726493957 - Transposición por grupos.md",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
-    "02 - Atomic/1726498880 - Definition - Cifrador.md",
-    "02 - Atomic/criptografia.md",
     "00.References/DiffCalc_Theory_ODEs.pdf",
     "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02 - Atomic/1726759457 - Programación Lineal.md",
@@ -323,7 +325,6 @@
     "99 - Meta/1. Templates/NoteTemplate.md",
     "02 - Atomic/1726833810 - test.md",
     "02 - Atomic/1726833770 - Test .md",
-    "02 - Atomic/note tem+.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.40.09 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.39.55 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 11.53.10 AM.png",
