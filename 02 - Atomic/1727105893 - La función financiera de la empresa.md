@@ -53,7 +53,7 @@ Ha de recoger
 		+ Activo **corriente**: Cuentas que permanecen menos de un año: Existencias: Lo del almacen. Clientes: Dinero que deben los clientes. Inversiones financieras: A corto plzo. Tesorería,caja,efectivo
 
 	A la hora de colocar los activos en el balance se realiza de la siguiente forma:
-	+ De menor a mayor liquiez (lo menor arriba)
+	+ De menor a mayor liquiez (lo menor arriba). Liquidez quiere decir **disponibilidad**. 
 
 + **Estructura financiera:** De donde han salido los recuross. De donde se ha obtenido el dinero para hacer las inversiones. Se materializa en el pasivo y en los **fondos propios de la empresa** **(Patrimonio neto)**
 	+ **Pasivo:** Representa de donde han venido los recursos utilizados para llevar a cabo las inversiones de la empresa. **Deudas y obligaciones de pago**
@@ -74,7 +74,7 @@ $$
 			\text{Activo} = \text{Patrimonio Neto (PN)} + \text{Pasivo exigible (P)}
 	$$
 + Todo el activo que se tiene tiene que ser igual al patrimonio neto (El dinero de la empresa). 
-+ Lo mismo a u
++ Lo mismo a un lado que al otro.
 + Visto de otra forma: 
 $$
 \text{Activo} -  \text{Pasivo exigible (P)}= \text{Patrimonio Neto (PN)} 

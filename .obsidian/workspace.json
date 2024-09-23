@@ -85,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +97,7 @@
       {
         "id": "499a66215ecf4828",
         "type": "tabs",
+        "dimension": 67.15758468335787,
         "children": [
           {
             "id": "b89f836cb1d8a8cd",
@@ -143,12 +143,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1087c22e61a64185",
         "type": "tabs",
+        "dimension": 32.84241531664212,
         "children": [
           {
             "id": "23ab2a729b7c2289",
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5041847229004,
-    "collapsed": true
+    "width": 358.0041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -195,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
+                "file": "01.Areas/1.UC3M/Empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
+                "file": "01.Areas/1.UC3M/Empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
+                "file": "01.Areas/1.UC3M/Empresa.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -289,7 +288,7 @@
                   "repelStrength": 13.341859845457,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 211,
-                  "scale": 0.20753572267272902,
+                  "scale": 0.25122447785633184,
                   "close": true
                 }
               }
@@ -307,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md"
+                "file": "01.Areas/1.UC3M/Empresa.md"
               }
             }
           }
@@ -315,7 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 335
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,14 +333,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "b89f836cb1d8a8cd",
   "lastOpenFiles": [
+    "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "02 - Atomic/1726500297 - Plan de Empresa.md",
     "02 - Atomic/1727105227 - Modelos de negocio de la empresa.md",
     "02 - Atomic/1727105121 - Estrategia competitiva de la empresa.md",
     "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
     "01.Areas/1.UC3M/Empresa.md",
-    "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-23 at 5.34.01 PM.png",
     "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "00.References/DiffCalc_Theory_ODEs.pdf",
