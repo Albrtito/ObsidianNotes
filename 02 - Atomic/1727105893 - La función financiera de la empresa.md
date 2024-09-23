@@ -11,9 +11,9 @@ cssclasses:
 ### Contabilidad y estructura económicao-financiera:
 ## Intro:
 Las decisiones financieras de la empresa se dividen en dos tipos: 
-+ **Decisiones de inversión:** Donde meter el capital para que se mantenga en movimiento. 
++ **Decisiones de inversión:** Donde meter el capital para que se mantenga en movimiento. **Definen estructura económica**
 	+ Se invierte en proyectos que generen valor. 
-+ **Decisiones de financiación:** Como conseguir el dinero 
++ **Decisiones de financiación:** Como conseguir el dinero. **Define estructura financiera.**
 
 Los objetivos que tienen las decisiones financieras son: 
 + Definición de viabilidad económica de los proyectos y empresas
@@ -43,15 +43,36 @@ Existen tres documentos importantes dentro de esta contabilidad:
 > Cuentas de balanzas caerá en **primer parcial y examen final** 
 
 #### Estados contables:
-+ **Balance de situación:** Bienes, derechos y obligaciones en **un momento determinado**. Se obtienen anualmente o en momentos puntuales
-+ **Cuénta de pérdidas y ganancias:** Cálculo realizado **al final del año** de la diferencia global entre pérdidas y ganancias. 
-	+ Se realiza **antes que el balance**
-+ **Memoria**:
-+ **Asientos:**
+##### Balance de situación: 
+Bienes, derechos y obligaciones en **un momento determinado**. Se obtienen anualmente o en momentos puntuales
+Ha de recoger 
+
++ **Estructura económica:** Se corresponde con las inversiones que hace la empresa y se materializa en el activo. 
+	+ **Activo:** Que bienes y derechos tiene la empresa. El activo puede ser corriente y no corriente. 
++ **Estructura financiera:** 
+##### Cuénta de pérdidas y ganancias:
+Cálculo realizado **al final del año** de la diferencia global entre pérdidas y ganancias. 
++ Se realiza **antes que el balance**
+
+##### Libros de mayores:
+Cada una de las cuentas tiene su propio libro mayor. Estos libros mayores tienen una columna de activos y otra de pasivos. 
+	+ **Activos:** Lo que ha entrado en la cuenta
+	+ **Pasivos:** Lo que ha salido de la cuenta. 
+	El restultado de los libros mayores (diferencia entre pasivos y activos) se ve reflejado en el balance de situación. 
+##### Otros
+**Memoria**: Información **más ampliada y detallada**
+**Asientos:** Se realizan cada 
+
+#### Normativa:
+La normativa de contabilidad se rigen por:
++ **Plan general contable** 
+
+**Remark:** 
++ Solo agunas formas jurídicas tienen obligación de generar cuentas anuales, entre ellas: SL, SA, Sociedad Labroral,…
 
 > [!warning] Examen: 
 > En examen entran mayoritariamente cuentas de **situación y pérdidas y balanzas.** 
-> No hacer asientos contables. Se estan pidiendo balances no 
+> No hacer asientos contables. Se piden balances no asientos. Muchas veces se realizan asientos cuando no es.
 
 ### Contabilidad analítica: 
 + Útil para los usuarios internos → Le interesa a la propia empresa y su crecimiento.
