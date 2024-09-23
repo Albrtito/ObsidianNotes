@@ -48,3 +48,8 @@ La dirección estratégica de la empresa sigue los siguientes pasos:
 > Lo que busca es fijar en que negocios va a competir la empresa y cuales abandonará. **DONDE COMPETIR**
 
 
+Hay dos timpos de integración corporativa, vertical y horizontal: 
++ Vertical: Puede ser hacia delante, hacia atrás o compensada
+	+ Hacia atrás: Es cuando la empresa crea otras empresas subsidiarias que producen algunos de los materiales utilizados en la fabricación de los Productos
+	+ Hacia delante: La empresa crea subsidiarias que distribuyen o venden a otras empresas o a los consumidores finales. 
+	+ Compensada: Se establecen subsidiaria
