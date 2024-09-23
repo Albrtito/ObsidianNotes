@@ -86,7 +86,8 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -195,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727112501 - Practica - Análisis MAPFRE.md",
+                "file": "02 - Atomic/1727105121 - Estrategia competitiva de la empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727112501 - Practica - Análisis MAPFRE.md",
+                "file": "02 - Atomic/1727105121 - Estrategia competitiva de la empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727112501 - Practica - Análisis MAPFRE.md",
+                "file": "02 - Atomic/1727105121 - Estrategia competitiva de la empresa.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -307,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727112501 - Practica - Análisis MAPFRE.md"
+                "file": "02 - Atomic/1727105121 - Estrategia competitiva de la empresa.md"
               }
             }
           }
@@ -334,11 +335,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9f59d8fadb7ffa44",
+  "active": "7def7eb036d79740",
   "lastOpenFiles": [
     "01.Areas/1.UC3M/Empresa.md",
-    "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
     "02 - Atomic/1727112501 - Practica - Análisis MAPFRE.md",
+    "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "02 - Atomic/1727112468 - - Untitled Suffix.md",
     "02 - Atomic/1726500297 - Plan de Empresa.md",
