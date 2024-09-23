@@ -48,8 +48,24 @@ Bienes, derechos y obligaciones en **un momento determinado**. Se obtienen anual
 Ha de recoger 
 
 + **Estructura económica:** Se corresponde con las inversiones que hace la empresa y se materializa en el activo. 
-	+ **Activo:** Que bienes y derechos tiene la empresa. El activo puede ser corriente y no corriente. 
-+ **Estructura financiera:** 
+	+ **Activo:** Que **bienes y derechos tiene la empresa**. El activo puede ser corriente y no corriente. El activo se divide de la siguiente forma: 
+		+ Activo no corriente:
+		+ Activo corriente:
+
++ **Estructura financiera:** De donde han salido los recuross. De donde se ha obtenido el dinero para hacer las inversiones. Se materializa en el pasivo y en los **fondos propios de la empresa**
+	+ **Pasivo:** Representa de donde han venido los recursos utilizados para llevar a cabo las inversiones de la empresa. **Deudas y obligaciones de pago**
+		+ Como se ha financiado? 
+
+$$
+\text{Activo} = \text{Patrimonio Neto (PN)} + \text{Pasivo exigible (P)}
+$$
++ Todo el activo que se tiene tiene que ser igual al patrimonio neto (El dinero de la empresa). 
++ Visto de otra forma: 
+$$
+\text{Activo} -  \text{Pasivo exigible (P)}= \text{Patrimonio Neto (PN)} 
+$$
+	Lo ganado y que se tiene menos lo debido da el patrimonio Neto.
+
 ##### Cuénta de pérdidas y ganancias:
 Cálculo realizado **al final del año** de la diferencia global entre pérdidas y ganancias. 
 + Se realiza **antes que el balance**
