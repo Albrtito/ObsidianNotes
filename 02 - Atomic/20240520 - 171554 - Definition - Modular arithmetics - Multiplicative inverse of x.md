@@ -3,6 +3,7 @@ aliases:
   - Modular arithmetics - Multiplicative inverse of x
 tags:
   - Discrete
+  - Cripto
 "References:": 
 cssclasses:
 ---
@@ -37,11 +38,11 @@ Even if there is no multiplicative inverse in most cases, two properties hold, *
 >  r^{-1}
 >  $$
 
-
 ## Invertible elements: 
 
 > [!NOTE] Theorem: Invertible elements:
-> An element r in Zm is invertible if it has a multiplicative inverse. **THEN:** r and m are relatively primes
+> An element r in Zm is invertible if it has a multiplicative inverse. **THEN:** r and m are [[20240519 - 232552 - Definition - Relatively prime numbers|relatively primes]]
+
 
 ## Invertibility of with prime numbers
 **Remember:** [[20240429 - 111500 - Prime numbers|Prime numbers]]
@@ -49,3 +50,9 @@ For a congruence relation defined over the modulus of a prime number p. **THEN:*
 + $\mathbb{Z}_p$ is a field like $(\mathbb{R}, + ,\cdot)$
 + **IF:** m = p $\cdot$ q (m is composite) **THEN:** There are divisors of zero in Zm and Zm is **a ring with divisors of zero** 
  #Duda : Divisors of zero and what the hell is a ring.
+
+## Computation of the multiplicative inverse:
+Para obtener el inverso de un número a en $Z_n$ podemos utilizar dos técnicas:
+### [[1727100415 - Theorem - Indicador de Euler|Indicador de euler]] 
+
+### [[20240519 - 233523 - Algorithm - Euclid's algorithm|Euclid's algorithm]]

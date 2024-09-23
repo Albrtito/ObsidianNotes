@@ -31,7 +31,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
+                    "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -44,7 +44,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
+                    "file": "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
+                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
+                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
+                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -391,7 +391,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md"
+                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md"
               }
             }
           }
@@ -420,14 +420,14 @@
   },
   "active": "23b77fbd76dde76a",
   "lastOpenFiles": [
+    "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
     "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
+    "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
     "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
     "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
-    "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02 - Atomic/Multiplicative inverse.md",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
-    "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
     "02 - Atomic/20240429 - 111500 - Prime numbers.md",
     "02 - Atomic/20240429 - 111944 - Theorem - Euclid's proof of infinite prime numbers.md",
     "02 - Atomic/1727100831 - - Untitled Suffix.md",
