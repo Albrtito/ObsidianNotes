@@ -125,6 +125,13 @@ atr
 algunos
 alante
 actividades
+adir
+alguna
+antiguos
+apertura
+aumenten
+aumento
+antes
 Creaci
 Crear
 Cuando
@@ -411,6 +418,9 @@ delante
 distribuyen
 distribuci
 dedicamos
+desventajas
+diversificar
+diversificaci
 modelos
 modelo
 maximizar
@@ -562,6 +572,10 @@ mismos
 mejores
 misi
 materiales
+mercados
+meno
+movimientos
+medio
 en
 ease
 es
@@ -726,6 +740,11 @@ estrat
 exclusividad
 establecen
 establece
+esa
+estrategia
+econom
+efecto
+especializaci
 programaci
 primer
 paso
@@ -897,6 +916,10 @@ producen
 producci
 pescado
 piscifactor
+preguntar
+pregunta
+personas
+potenciado
 lineal
 la
 lo
@@ -1132,6 +1155,7 @@ tener
 timpos
 tareas
 tiendas
+tarea
 review
 resolver
 realizar
@@ -1254,6 +1278,7 @@ rivalidad
 restricci
 rentabilidad
 rea
+relacionada
 References
 Resoluci
 Rectas
@@ -1363,6 +1388,8 @@ Relaci
 Rivalidad
 Ritmo
 Responsabilidad
+Remark
+Relacionada
 cssclasses
 correcto
 correcta
@@ -1565,6 +1592,11 @@ crea
 consumidores
 congelados
 cadena
+comerciales
+capitales
+circulaci
+conocimientos
+contrato
 sr
 se
 subproblemas
@@ -1720,6 +1752,7 @@ sigue
 servicios
 supermercado
 subsidiarias
+subcontratan
 interval
 importancia
 incorrecto
@@ -1846,6 +1879,11 @@ importan
 interno
 implementadas
 integraci
+internalizaci
+incrementen
+inercambios
+ideas
+internet
 un
 una
 utiliza
@@ -2035,6 +2073,8 @@ however
 habiendo
 horizontal
 hablamos
+hace
+hac
 Es
 Este
 Ejemplos
@@ -2222,6 +2262,7 @@ via
 vertical
 venden
 venta
+ventajas
 no
 nuestras
 ndar
@@ -2323,6 +2364,7 @@ negocio
 negocios
 normalmente
 nivel
+nueva
 Identificar
 Intro
 Identificaci
@@ -2621,6 +2663,7 @@ fijan
 fijar
 finales
 fabricados
+fronteras
 objetivo
 obtener
 of
@@ -3257,6 +3300,7 @@ Tipo
 Tecnolog
 Tenerlo
 Trabajadores
+Tareas
 grafo
 guardan
 global
@@ -3540,6 +3584,7 @@ Because
 Based
 Benito
 Barreras
+Buscando
 Steven
 Skiena
 Serie
@@ -3652,6 +3697,7 @@ Sobre
 Son
 Situaci
 Sustitutivos
+Subcontrataci
 Manual
 Modelar
 Millones
@@ -4205,6 +4251,8 @@ Oficina
 Octava
 Obtaining
 OBJETIVO
+Ofertar
+Outsourcing
 ximo
 xrL
 xFQ
@@ -4417,6 +4465,7 @@ Vernam
 Valera
 Vol
 Vertical
+Ventajas
 Grupo
 Get
 GWgw
@@ -4494,6 +4543,7 @@ Generalisation
 Given
 Going
 Garc
+Glovalizaci
 Nota
 Novo
 Nacional

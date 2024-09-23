@@ -1,0 +1,15 @@
+Note
+Summary
+Abstract
+TL;DR
+Info
+To-Do
+Tip
+Hint
+Important
+Success
+Check
+Done
+Question
+Help
+FAQ
