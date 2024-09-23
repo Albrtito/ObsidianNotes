@@ -220,6 +220,7 @@ Complementaria
 COMER
 Computer
 Communications
+Cada
 de
 due
 dar
@@ -463,6 +464,7 @@ min
 max
 mecanismo
 metro
+mientras
 en
 ease
 es
@@ -594,6 +596,9 @@ ellos
 esc
 enrolllar
 era
+elemento
+emisor
+externa
 programaci
 primer
 paso
@@ -733,6 +738,8 @@ pseudoaleatorio
 prueba
 protocols
 pensaje
+per
+pseudoaleatorias
 lineal
 la
 lo
@@ -1030,6 +1037,8 @@ red
 routers
 relation
 recurso
+receptor
+realiza
 References
 Resoluci
 Rectas
@@ -1286,6 +1295,8 @@ chapters
 covered
 class
 cambi
+cifrante
+criptaci
 sr
 se
 subproblemas
@@ -1510,6 +1521,12 @@ incondicionalmente
 igual
 implementar
 illustrated
+idealmente
+infinita
+imposible
+infinitamente
+intercambiar
+intercambio
 un
 una
 utiliza
@@ -1598,6 +1615,7 @@ utilizar
 utilizado
 usa
 universidad
+uso
 hora
 hacemos
 hacia
@@ -1927,6 +1945,7 @@ nimas
 nota
 nico
 nicamente
+ncrono
 Identificar
 Intro
 Identificaci
@@ -2282,6 +2301,7 @@ ocultar
 original
 operaci
 operaciones
+ordenadores
 que
 queremos
 qD
@@ -2781,6 +2801,7 @@ Textbook
 Transposici
 TCP
 TANENBAUM
+Tipos
 grafo
 guardan
 global
@@ -3456,6 +3477,8 @@ basan
 between
 book
 bast
+byte
+bit
 Util
 Una
 UniZumo
@@ -3540,6 +3563,7 @@ Utiliza
 Uno
 Uni
 Uso
+Utilizan
 QUE
 Que
 QE
