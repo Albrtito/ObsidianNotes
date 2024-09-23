@@ -24,5 +24,12 @@ AL ser un método de criptación síncrono, los cifradores de emisor y receptor 
 + #Duda: Diferencias en la generación de la serie cifrante para cada uno de los casos
 
 ## Pros&Cons:
-+ 
++ Cifrado muy rápido
++ Los errores no se propagan (Cifrado uno a uno)
+
++ Poca difusión
++ No se puede generar aleatoriedad
++ Problemas al reutilizar la clave. 
+	Se pueden realizar ataques sabiendo solo parte del sistema:
+	1. **Ataque con texto original**
 ***
