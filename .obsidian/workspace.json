@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Empresa.md",
+                "file": "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,6 +34,14 @@
             }
           },
           {
+            "id": "1087055cabadd75b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "9f59d8fadb7ffa44",
             "type": "leaf",
             "state": {
@@ -47,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -136,14 +144,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1087055cabadd75b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "fea6a7bd9cb3093d",
             "type": "leaf",
             "state": {
@@ -157,7 +157,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +190,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -275,9 +272,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -303,12 +298,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5b80f9ddf6015488",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
     "02 - Atomic/1727121162 - Contabilidad.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
-    "02 - Atomic/1727112501 - Practica - Análisis MAPFRE.md",
+    "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
+    "02 - Atomic/1725895664 - Naturaleza y de la empresa.md",
+    "02 - Atomic/1725910842 - Definition - Empresa.md",
     "01.Areas/1.UC3M/Empresa.md",
+    "02 - Atomic/1727112501 - Practica - Análisis MAPFRE.md",
     "02 - Atomic/1727105227 - Modelos de negocio de la empresa.md",
     "02 - Atomic/1726500297 - Plan de Empresa.md",
     "02 - Atomic/1727105121 - Estrategia competitiva de la empresa.md",
@@ -330,9 +328,6 @@
     "02 - Atomic/1727100831 - - Untitled Suffix.md",
     "02 - Atomic/Untitled 1.md",
     "02 - Atomic/1727096148 - Cifrador de flujo.md",
-    "02 - Atomic/1727096846 - - Untitled Suffix.md",
-    "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
-    "01.Areas/1.UC3M/Cripto.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.40.09 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.39.55 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 11.53.10 AM.png",

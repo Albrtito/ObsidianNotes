@@ -10,12 +10,11 @@ cssclasses:
 # Contabilidad
 
 > [!NOTE] Definición 
- > **Contabilidad:** Herramienta para dar soporte a la toma de decisiones en la función financiera para alcanzar objetivos financieros. 
+ > **Contabilidad:** Herramientas **estandarizadas** de análisis que tienen como finalidad **reflejar el estado económico de la empresa**.
  > $$ \text{Contabilidad} = \text{Análisis}$$
+ > + Permite **analizar la situación** para tomar decisiones acordes a ella
 
-+ **Permite:** Observar la situación y ocndiciones en las que se encuentra la empresa.
-
-Dividimos en dos tipos: 
+Dividimos la contabilidad en dos ramas, según el tipo de análisis que realizan.
 ### Contabilidad financiera: 
 + Útil para usuarios externos y legales
 Tener una foto de la compañía y presentar su situación en un momento del tiepmo concreto. 
