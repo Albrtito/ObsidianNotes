@@ -30,8 +30,32 @@ Los objetivos que tienen las decisiones financieras son:
 
 Dividimos en dos tipos: 
 ### Contabilidad financiera: 
++ Útil para usuarios externos y legales
 Tener una foto de la compañía y presentar su situación en un momento del tiepmo concreto. 
 + Esa foto prentende mostrar la situación de la empresa, con los mismos criterios, reglas y principios. (Un método formalmente definido para el análisis de situación.)
+
+Existen tres documentos importantes dentro de esta contabilidad:
++ **Cuenta de balanzas**
++ **Cuenta de resultados**
++ **Memoria económica** → Esta no nos importa tanto durante el curso 
+
+> [!warning] Examen: 
+> Cuentas de balanzas caerá en **primer parcial y examen final** 
+
+#### Estados contables:
++ **Balance de situación:** Bienes, derechos y obligaciones en **un momento determinado**. Se obtienen anualmente o en momentos puntuales
++ **Cuénta de pérdidas y ganancias:** Cálculo realizado **al final del año** de la diferencia global entre pérdidas y ganancias. 
+	+ Se realiza **antes que el balance**
++ **Memoria**:
++ **Asientos:**
+
+> [!warning] Examen: 
+> En examen entran mayoritariamente cuentas de **situación y pérdidas y balanzas.** 
+> No hacer asientos contables. Se estan pidiendo balances no 
+
+### Contabilidad analítica: 
++ Útil para los usuarios internos → Le interesa a la propia empresa y su crecimiento.
+Ver si el gasto es rentable. Valoran futuro para compras de 
 
 
 ***
