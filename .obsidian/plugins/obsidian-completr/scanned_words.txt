@@ -123,6 +123,8 @@ alinean
 abandonar
 atr
 algunos
+alante
+actividades
 Creaci
 Crear
 Cuando
@@ -257,6 +259,7 @@ Clima
 Concentraci
 COMO
 COMPETIR
+Compensada
 de
 due
 dar
@@ -406,6 +409,8 @@ direcci
 diferenciaci
 delante
 distribuyen
+distribuci
+dedicamos
 modelos
 modelo
 maximizar
@@ -719,6 +724,8 @@ estado
 estabilidad
 estrat
 exclusividad
+establecen
+establece
 programaci
 primer
 paso
@@ -887,6 +894,9 @@ ponen
 productos
 precios
 producen
+producci
+pescado
+piscifactor
 lineal
 la
 lo
@@ -1120,6 +1130,8 @@ teniendo
 tomando
 tener
 timpos
+tareas
+tiendas
 review
 resolver
 realizar
@@ -1241,6 +1253,7 @@ resto
 rivalidad
 restricci
 rentabilidad
+rea
 References
 Resoluci
 Rectas
@@ -1549,6 +1562,9 @@ corporativas
 cuales
 compensada
 crea
+consumidores
+congelados
+cadena
 sr
 se
 subproblemas
@@ -2018,6 +2034,7 @@ hell
 however
 habiendo
 horizontal
+hablamos
 Es
 Este
 Ejemplos
@@ -2204,6 +2221,7 @@ vender
 via
 vertical
 venden
+venta
 no
 nuestras
 ndar
@@ -2303,6 +2321,8 @@ nadie
 negociando
 negocio
 negocios
+normalmente
+nivel
 Identificar
 Intro
 Identificaci
@@ -2599,6 +2619,8 @@ funciones
 fortalezas
 fijan
 fijar
+finales
+fabricados
 objetivo
 obtener
 of
@@ -2874,6 +2896,7 @@ Avisar
 Administraci
 Aquellas
 Actualmente
+Adquirir
 Floyd
 Foundations
 Funci
@@ -3129,6 +3152,8 @@ HILL
 Hall
 Has
 Hill
+Hacia
+Horizontal
 TODOS
 The
 Trabajo
@@ -3443,6 +3468,7 @@ Puesta
 PONER
 PARA
 Puede
+Pescanova
 Biblio
 BitsPerComponent
 BI
