@@ -103,6 +103,9 @@ accesible
 antiguo
 ambos
 aleatoriedad
+are
+ask
+also
 Creaci
 Crear
 Cuando
@@ -221,6 +224,7 @@ COMER
 Computer
 Communications
 Cada
+Congruence
 de
 due
 dar
@@ -342,6 +346,9 @@ dise
 descendente
 desde
 determinado
+deducir
+denoted
+definition
 modelos
 modelo
 maximizar
@@ -465,6 +472,11 @@ max
 mecanismo
 metro
 mientras
+mod
+multiplied
+must
+modulo
+multiplicative
 en
 ease
 es
@@ -599,6 +611,14 @@ era
 elemento
 emisor
 externa
+euler
+expresi
+equations
+equation
+equivalent
+every
+each
+exists
 programaci
 primer
 paso
@@ -740,6 +760,11 @@ protocols
 pensaje
 per
 pseudoaleatorias
+permite
+primo
+proposing
+positive
+possible
 lineal
 la
 lo
@@ -829,6 +854,7 @@ llamamos
 letra
 longitud
 library
+linear
 tags
 tres
 todos
@@ -935,6 +961,12 @@ tipo
 transformarlo
 tala
 tiempo
+teorema
+teor
+this
+type
+there
+that
 review
 resolver
 realizar
@@ -1039,6 +1071,9 @@ relation
 recurso
 receptor
 realiza
+reducido
+restos
+rewritten
 References
 Resoluci
 Rectas
@@ -1297,6 +1332,11 @@ class
 cambi
 cifrante
 criptaci
+conjunto
+congruence
+comply
+called
+classes
 sr
 se
 subproblemas
@@ -1423,6 +1463,12 @@ seguro
 somos
 semana
 sino
+simplifica
+such
+solution
+single
+set
+solutions
 interval
 importancia
 incorrecto
@@ -1527,6 +1573,13 @@ imposible
 infinitamente
 intercambiar
 intercambio
+indicador
+inverso
+if
+integer
+integers
+inverse
+inversee
 un
 una
 utiliza
@@ -1616,6 +1669,7 @@ utilizado
 usa
 universidad
 uso
+unique
 hora
 hacemos
 hacia
@@ -1700,6 +1754,7 @@ hK
 histograma
 haber
 hago
+have
 Es
 Este
 Ejemplos
@@ -1784,6 +1839,8 @@ Esta
 Estoy
 Esto
 Entrop
+Euler
+Elements
 vital
 variables
 vez
@@ -1946,6 +2003,8 @@ nota
 nico
 nicamente
 ncrono
+nos
+number
 Identificar
 Intro
 Identificaci
@@ -2031,6 +2090,7 @@ Integridad
 Internetworking
 IP
 International
+Indicador
 Definir
 Din
 Design
@@ -2122,6 +2182,8 @@ Debido
 Decimos
 DOUGLAS
 Data
+Discrete
+Diophantine
 funci
 fibonacci
 fica
@@ -2210,6 +2272,9 @@ fueron
 flujo
 francisco
 fuera
+following
+found
+form
 objetivo
 obtener
 of
@@ -2302,6 +2367,8 @@ original
 operaci
 operaciones
 ordenadores
+only
+obtaining
 que
 queremos
 qD
@@ -2468,6 +2535,7 @@ Activos
 Architecture
 Addison
 ANDREW
+After
 Floyd
 Foundations
 Funci
@@ -2550,6 +2618,8 @@ Flujo
 FICA
 Francisco
 Fourth
+For
+Formal
 Warshall
 Width
 We
@@ -2627,6 +2697,7 @@ WBP
 Widths
 WILLIAM
 Wesley
+Where
 Heuri
 Hecho
 HyO
@@ -2713,6 +2784,7 @@ HALL
 Hablamos
 HILL
 Hall
+Has
 TODOS
 The
 Trabajo
@@ -2802,6 +2874,11 @@ Transposici
 TCP
 TANENBAUM
 Tipos
+Theorem
+Teorema
+Then
+There
+THEN
 grafo
 guardan
 global
@@ -2876,6 +2953,9 @@ grafos
 generado
 generando
 gicas
+gcd
+general
+given
 Programaci
 Para
 Problema
@@ -3056,6 +3136,7 @@ Bas
 Bloques
 Bagnulo
 Braun
+Because
 Steven
 Skiena
 Serie
@@ -3161,6 +3242,7 @@ Solo
 Ser
 Seventh
 STEVENS
+Solving
 Manual
 Modelar
 Millones
@@ -3394,6 +3476,7 @@ LR
 LQ
 LastChar
 LCC
+Linear
 bottom
 base
 brik
@@ -3695,6 +3778,7 @@ OUENHS
 Obteniendo
 Oficina
 Octava
+Obtaining
 ximo
 xrL
 xFQ
@@ -3759,6 +3843,7 @@ xu
 xcp
 xz
 xref
+xists
 zumos
 zumo
 zQ
@@ -3975,6 +4060,7 @@ Gonz
 Grupos
 Gabriel
 Generators
+Gracias
 Nota
 Novo
 Nacional
@@ -4043,6 +4129,7 @@ Necesitamos
 No
 Networks
 Number
+Notation
 Xr
 XObject
 Xw
@@ -4386,6 +4473,9 @@ wuE
 wY
 wRm
 with
+way
+whether
+would
 kL
 kMZ
 kC

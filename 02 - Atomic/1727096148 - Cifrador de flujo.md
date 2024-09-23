@@ -31,5 +31,6 @@ AL ser un método de criptación síncrono, los cifradores de emisor y receptor 
 + No se puede generar aleatoriedad
 + Problemas al reutilizar la clave. 
 	Se pueden realizar ataques sabiendo solo parte del sistema:
-	1. **Ataque con texto original**
+	1. **Ataque con texto original conocido:** Obtener K teniendo M yC
+	2. **Ataque solo al criptograma:** Usando dos trozos diferentes de la clave. 
 ***
