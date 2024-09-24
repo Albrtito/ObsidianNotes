@@ -29,8 +29,22 @@
                 "file": "00.References/Net_References_s3_2.pdf"
               }
             }
+          },
+          {
+            "id": "fc637da6318ab1dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1727177356 - Method - Checksum.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -140,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
+                "file": "02 - Atomic/1727177356 - Method - Checksum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
+                "file": "02 - Atomic/1727177356 - Method - Checksum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
+                "file": "02 - Atomic/1727177356 - Method - Checksum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727176650 - Principles of reliable data transfer.md"
+                "file": "02 - Atomic/1727177356 - Method - Checksum.md"
               }
             }
           }
@@ -279,10 +293,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fcbcd17444f63270",
+  "active": "fc637da6318ab1dd",
   "lastOpenFiles": [
-    "02 - Atomic/1726572508 - The network stack.md",
+    "02 - Atomic/1727177356 - Method - Checksum.md",
     "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
+    "02 - Atomic/1726572508 - The network stack.md",
     "00.References/Net_References_s3_2.pdf",
     "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "00.References/Net_Resources_s3_1.pdf",
@@ -310,7 +325,6 @@
     "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
     "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
     "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
-    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.40.09 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.39.55 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 11.53.10 AM.png",
