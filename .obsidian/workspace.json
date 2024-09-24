@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726572508 - The network stack.md",
+                "file": "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00.References/Net_Resources_s3_1.pdf"
+                "file": "00.References/Net_References_s3_2.pdf"
               }
             }
           }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726572508 - The network stack.md",
+                "file": "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726572508 - The network stack.md",
+                "file": "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726572508 - The network stack.md",
+                "file": "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726572508 - The network stack.md"
+                "file": "02 - Atomic/1727176650 - Principles of reliable data transfer.md"
               }
             }
           }
@@ -281,8 +281,12 @@
   },
   "active": "fcbcd17444f63270",
   "lastOpenFiles": [
-    "01.Areas/1.UC3M/Networks.md",
+    "02 - Atomic/1726572508 - The network stack.md",
+    "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
+    "00.References/Net_References_s3_2.pdf",
+    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "00.References/Net_Resources_s3_1.pdf",
+    "01.Areas/1.UC3M/Networks.md",
     "01.Areas/1.UC3M/Movilidad.md",
     "02 - Atomic/1727166266 - Movilidad no Europea.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
@@ -307,8 +311,6 @@
     "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
     "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
-    "02 - Atomic/Multiplicative inverse.md",
-    "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.40.09 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.39.55 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 11.53.10 AM.png",
@@ -326,7 +328,6 @@
     "00.References/Net_Biblio_Kurose.pdf",
     "00.References/Algebra_Biblio_Lectures.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
-    "00.References/HyO_Biblio_Hamdy.pdf",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "Differential Calculus.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
