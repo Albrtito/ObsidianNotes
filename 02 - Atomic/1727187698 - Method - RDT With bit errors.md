@@ -10,20 +10,26 @@ cssclasses:
 
 > [!BUG] PROBLEMS: 
 > 1. Bits may be flipped (erros) in trasfer
-> 2. 
 
-+ Using error detection methods such as the **checksum**. 
-	+ IF there where an error, drop it, ask for it and send it again.
+**Solution:**
+In order to recover from this problem we can use the [[1727177356 - Method - Checksum|checksum]] method. **Once the receiver gets a package it checks if there has been any errors.**
+## Acknowledgment packages: ACKs/NAKs
+Once the reciever checks if the package has been corrupted it sends a package that tells it to the sender. These packages are **acknowledgment packages**. 
 
-The cycle of sending-recieving messages goes: 
+There are two of them: 
++ **ACK:** Afirmative acknowledgement. Nice, everything ok
++ **NAK**: Negative acknowledgement. The package had corruption
+
+Then, for each package that is send triggers the following cycle:
 $$
-\text{sent package → recieved → dropped/kept → positive/negative acknowledge }
+\boxed{\text{sent package → recieved → dropped/kept → positive/negative acknowledge }}
 $$
 
+Once the cycle finishes(recieved ACK or NAK):
 + With a positive acknowledgement: Send next one
 + With a negative acknowledgment: Resend last one
 
-We can define this cycle as two FSMs in the following ways:
+
 
 The FSM of the sender:
 	![[Screenshot 2024-09-24 at 1.35.21 PM.png|640]]
