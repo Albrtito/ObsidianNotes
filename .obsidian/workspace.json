@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1d4d0b5b0f9fd73",
+            "id": "fcbcd17444f63270",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Movilidad.md",
+                "file": "02 - Atomic/1726572508 - The network stack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +21,17 @@
             }
           },
           {
-            "id": "fcbcd17444f63270",
+            "id": "ee7ca3f8017f698d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "00.References/Net_Resources_s3_1.pdf"
               }
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -143,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
+                "file": "02 - Atomic/1726572508 - The network stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
+                "file": "02 - Atomic/1726572508 - The network stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
+                "file": "02 - Atomic/1726572508 - The network stack.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727166266 - Movilidad no Europea.md"
+                "file": "02 - Atomic/1726572508 - The network stack.md"
               }
             }
           }
@@ -284,6 +281,8 @@
   },
   "active": "fcbcd17444f63270",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Networks.md",
+    "00.References/Net_Resources_s3_1.pdf",
     "01.Areas/1.UC3M/Movilidad.md",
     "02 - Atomic/1727166266 - Movilidad no Europea.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
@@ -310,12 +309,9 @@
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02 - Atomic/Multiplicative inverse.md",
     "02 - Atomic/20240520 - 163951 - Linear congruence equations.md",
-    "02 - Atomic/20240429 - 111500 - Prime numbers.md",
-    "02 - Atomic/20240429 - 111944 - Theorem - Euclid's proof of infinite prime numbers.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.40.09 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.39.55 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 11.53.10 AM.png",
-    "00.References/Net_Resources_s3_1.pdf",
     "00.References/Net_References_s2_1.pdf",
     "00.References/Net_References_s1_2.pdf",
     "00.References/Net_References_s1_1.pdf",

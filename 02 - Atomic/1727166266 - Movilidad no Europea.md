@@ -14,7 +14,7 @@ cssclasses:
 + Oficina de Alumnos - Sección Internacional, despacho 2.0.D15. Horario: de lunes a viernes de 11:30 a 14:00 y de lunes a jueves de 16:00 a 17:00 movilidadeps@uc3m.es
 + [Oficina internacional](https://www.uc3m.es/ss/Satellite/SecretariaVirtual/_/TextoMixta/1371211201509/)
 + Para información y asesoramiento sobre los países y universidades de destino contacta con:
-	+ David Gil (Email: [david.gil@uc3m.es](mailto:david.gil@uc3m.es)) / Tel: 91 624 58 99 (Responsable del programa)
+	+ zDavid Gil (Email: [david.gil@uc3m.es](mailto:david.gil@uc3m.es)) / Tel: 91 624 58 99 (Responsable del programa)
 ## Fechas:
 + La convocatoria empieza a mediados (20 aprox) de septiembre
 + Existe un calendario de google que te puedes añadir con todas las fechas de la convocatoria. 
