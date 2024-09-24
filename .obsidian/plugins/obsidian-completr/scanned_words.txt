@@ -633,6 +633,9 @@ aNi
 aFu
 architecture
 aplication
+aspets
+assumptions
+abstract
 Creaci
 Crear
 Cuando
@@ -1837,6 +1840,8 @@ dxSh
 dKq
 dWy
 dhlI
+during
+difficulties
 modelos
 modelo
 maximizar
@@ -3148,6 +3153,7 @@ etY
 elj
 eQSEy
 eAfx
+encharged
 programaci
 primer
 paso
@@ -5014,6 +5020,7 @@ tGkm
 tvx
 tkHh
 transport
+turn
 review
 resolver
 realizar
@@ -5619,6 +5626,8 @@ rOE
 rSI
 rXb
 rWH
+rely
+recieves
 References
 Resoluci
 Rectas
@@ -7504,6 +7513,7 @@ soP
 stsr
 sfTs
 switching
+simplified
 interval
 importancia
 incorrecto
@@ -8121,6 +8131,8 @@ ied
 iyw
 iyJ
 ige
+interfaces
+implementations
 un
 una
 utiliza
@@ -8630,6 +8642,7 @@ uzW
 uyOG
 uUFeJ
 uXt
+use
 hora
 hacemos
 hacia
@@ -11780,6 +11793,7 @@ Dnb
 DQve
 Delays
 DNS
+Delivers
 funci
 fibonacci
 fica
@@ -12915,6 +12929,7 @@ oNasE
 olz
 oJUj
 oMF
+occur
 que
 queremos
 qD
@@ -20778,6 +20793,7 @@ Uml
 UehZ
 UOW
 UTyu
+Used
 QUE
 Que
 QE

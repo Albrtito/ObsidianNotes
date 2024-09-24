@@ -9,16 +9,35 @@ cssclasses:
 ---
 # Principles of reliable data transfer.
 The problem of comunication within the internet lies on **how to transfer data reliablely using an unreliable channel.** 
-We’ll use simplified system to understand the different problems that may occur during transfer. For this systems we’ll implement interfaces, enchar
-**Interfaces:**
+We’ll use simplified system to understand the different problems that may occur during transfer. For this systems we’ll implement interfaces, encharged on different aspets of the transfer.
 
+## Interfaces and assumptions:
++ The reliable data transfer protocol is referenced by the acronym **RDT**(**R**eliable **D**ata **T**ransfer).
 > [!NOTE] Definitions: 
-> + **rdt_send()**: Function used to send data over a reliable channel
-> + **udt_send()**: Function used to send data over an unreliable channel
-> + **rdt_rcv()** : Function used to receive reliable data
-> + **deliver_data**(): Function that delivers the data to the app.
+> + **rdt_send()**: Used to send data over a reliable channel. 
+> 	+ Called from an app 
+> + **udt_send()**: Used to send data over an unreliable channel
+> 	+ Called by rdt to start the transfer
+> + **rdt_rcv()** : Used to receive reliable data
+> 	+ Called when packet arrives
+> + **deliver_data**(): Delivers the data to the app.
+> 	+ Called by rdt to deliver to app
 
-+ **Only unidirectional data transfer:** This implementation will be based on a systen where ther is only one sender and one reciever. This means that there cannot be any message sent by the reciever. If we wanted to implement it the other way around we would just do it as a new implementation. 
++ The **difficulties in implementation** will rely on **the channel and it’s properties**
+
+For the following implementations we’ll take into account the following **assumptions**
+
++ **Only unidirectional data transfer:** The sender only sends and the reciever only recieves. For info to go both ways → Turn around themodel
+
++ Sender, reciever only know what is communicated.They do not know the state of the other one. state? → FSM (see Automatas if any doubd)
+
++ The sender and receiver are **finite state machines (FSM)** and therefore:
+	+ There is a **current state**
+	+ They change state based on the input (pck’s)
+
+## Implementations:
+
+
 
 + We assure a reliable transmission of data. We **do not assure a reliable transmission of the acknowledgment packages.** 
 ## Channel with bit errors: 
