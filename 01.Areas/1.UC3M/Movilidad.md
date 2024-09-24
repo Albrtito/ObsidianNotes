@@ -2,7 +2,7 @@
 Resumen de las páginas web de importancia, burocracia y cosas a tener en cuenta a la hora de realizar la movilidad europea o no europea en la UC3M. 
 
 Link de referencia con todos los programas de movilidad de la uc3m: [aquí](https://www.uc3m.es/ss/Satellite/SecretariaVirtual/es/TextoMixta/1371211195334/)
-
++ [[1727166266 - Movilidad no Europea|Movilidad no Europea]]
 
 ## Movilidad europea:
 + Link de referencia de la uc3m: [aquí](https://www.uc3m.es/secretaria-virtual/convocatoria-erasmusplus-grado)
