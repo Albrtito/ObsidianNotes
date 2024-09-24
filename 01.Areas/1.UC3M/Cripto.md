@@ -36,7 +36,8 @@ tags:
 > + Hay que aprobar cada parte por separado 
 > + En principio el final no incluye nada de los labs ni práctica. 
 
-
++ Calendario de la continua: 
+	![[Cripto.png]]
 	
 ## Bibliografía: 
 - A.I. González-Tablas Ferreres y P. Martín González. Recopilación de problemas de examen 2010-2015. Criptografía y Seguridad Informática. CopyRed. 2016
