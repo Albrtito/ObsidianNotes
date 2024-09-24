@@ -40,4 +40,8 @@ The FSM of the receiver:
 	![[Screenshot 2024-09-24 at 1.38.16 PM.png|640]]
 
 **PROBLEM:** This method does not take into account that there **may be an error in the acknowledgment packages.** 
-+ 
++ Adding a checksum for this package does not solve anything due to a repeating creation of vulnerable packages. “The acknowledgment of the acknowledgment”
+ 
++ With an optimistic implentation of the sender the packages may be lost. Transforming data corruption into data loss. This is not reliable
++ With a pesimistic implementation of the sender, the packages may be send twice (duplicated). Is duplication equal to **no data loss**? Nop, this isn’t acceptable or reliable. However it is a problem that **can be fixed** once recieved the packages by **numbering the packages (sequence number)**. 
+  When the reciever gets a duplicated package it drops it by checking the sequence number. 
