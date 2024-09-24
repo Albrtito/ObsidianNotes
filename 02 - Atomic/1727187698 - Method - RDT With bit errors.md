@@ -58,8 +58,34 @@ The management of duplicated packages is **handled by the reciever**.
 
 Once dropped, the reciever must send a **positive acknowledgment**. (Even though it was duplicated). We can just think that the positive ACKs are allways send, unless corruption.
 
+##### Alternating sequence numbers:
+
+> [!BUG] Problem: 
+> The space of the sequence numbers must be finite. 
+> + There cannot be a million sequence numbers, we cannot give memory just to the sequence number.
+
++ We’ll only use a finite number (usually pck0, pck1) of sequence numbers.
++ See [[#Getting rid of the NAK]] to understand why only ACKs
+
+>f.e: **Communication with no errors:**
+>1. Send pck0
+>2. ACK pck0
+>3. Send pck1
+>4. ACK pck1
+>5. Send pck0
+>6. …
++ We can just alternate
+> f.e: **Comunication with errors**:
+> 1. Send pck0
+> 2. ACK pck0
+> 3. Send pck1
+> 4. ACK pck0
+> 5. Send pck1
+> 6. ACK pck1
+> 7. …
++ The last ok recieved package is 0. pck1 must be retransmitted
 ### Getting rid of the NAK:
-Only have positive ack with the sequence number of the ack pck.
+**Only have positive ACKs instead of both types of packages** 
 The receiver will generate an **ACK package with the sequence number of the last package it recieved ok**.
 + This way we get rid of the NaK
 > f.e: 
