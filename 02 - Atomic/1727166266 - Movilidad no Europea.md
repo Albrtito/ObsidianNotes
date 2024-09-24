@@ -18,15 +18,18 @@ cssclasses:
 + REnuncias fuera de plazo te deja sin posibilidad de volver a pedir una movilidad: Aquellas renuncias juistificadas son:
 	+ Fuerza mayor
 	+ Enfermedad grave
++ En plazo abierto la solicitud se puede modificar todo lo que queramos.
 ## Idiomas: 
 + Comprobar las puntuaciones dee cad una de las partes del certificado
 + No fiarse de la web de las universidades par ver niveles. Ver la documentación dad por la uni
 
 ## Notas medias:
++ Link de consulta de notas medias: [aquí](https://aplicaciones.uc3m.es/medias/)
 + Se require un mínimo de 5 en la nota media ponderada. Luego se multiplica por 1.17
-
+> A 2024-09-24: 5.79 * 1.17 = 6,7743
 ## A tener en cuenta:
 + Coste de vida y fondos. 
 	+ Las universidades te van a pedir acreditar fondos
-+ Aquellos que ya han estado en programas de movilidad no europea son **advaisers**
++ Aquellos que ya han estado en programas de movilidad no europea son **advaisers** con los que podemos hablar para ver si ir para lla.
++ Las plazas van por media, se ordenan las solicitudes por nota media. El orden de las asignaturas no nulifica 
 ***
