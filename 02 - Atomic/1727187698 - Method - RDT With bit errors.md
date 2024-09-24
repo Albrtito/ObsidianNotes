@@ -25,19 +25,20 @@ $$
 \boxed{\text{sent package → recieved → dropped/kept → positive/negative acknowledge }}
 $$
 
-Once the cycle finishes(recieved ACK or NAK):
-+ With a positive acknowledgement: Send next one
-+ With a negative acknowledgment: Resend last one
+Once the **cycle finishes**(recieved ACK or NAK) the sender can do one of two things:
 
++ With a **positive** acknowledgement: **Send next one**
++ With a **negative** acknowledgment: **Resend last one**
+### Acknowledgment states:
+IF we wante to apply this acknowledgment in the previous state machine (the one with no problems in the medium):
++ We add the states for waiting for  the ACKs and NAKs in the **sender**
++ Add the sending of ACKs and NAKs in the **receiver** **based on the corruption** in the message
 
+### Reliability of the acknowledgment pck’s:
+> [!BUG] PROBLEM: 
+> This method does not take into account that there **may be an error in the acknowledgment packages.**
 
-The FSM of the sender:
-	![[Screenshot 2024-09-24 at 1.35.21 PM.png|640]]
-The FSM of the receiver:
-	![[Screenshot 2024-09-24 at 1.38.16 PM.png|640]]
-
-**PROBLEM:** This method does not take into account that there **may be an error in the acknowledgment packages.** 
-+ Adding a checksum for this package does not solve anything due to a repeating creation of vulnerable packages. “The acknowledgment of the acknowledgment”
++ Adding a checksum for this package does not solve anything due to a repeating creation of vulnerable packages. “The acknowledgment of the acknowledgment of the acknowledgedment of the ack is vulnerable”
  
 + With an optimistic implentation of the sender the packages may be lost. Transforming data corruption into data loss. This is not reliable
 + With a pesimistic implementation of the sender, the packages may be send twice (duplicated). Is duplication equal to **no data loss**? Nop, this isn’t acceptable or reliable. However it is a problem that **can be fixed** once recieved the packages by **numbering the packages (sequence number)**. 
