@@ -647,6 +647,7 @@ assume
 assumed
 allways
 alternate
+apps
 Creaci
 Crear
 Cuando
@@ -1215,6 +1216,7 @@ CKU
 CUO
 Called
 Comunication
+Computers
 de
 due
 dar
@@ -1860,6 +1862,12 @@ differences
 drawback
 dropped
 described
+describing
+description
+developers
+differentiate
+developing
+desktop
 modelos
 modelo
 maximizar
@@ -2514,6 +2522,7 @@ medium
 management
 million
 memory
+more
 en
 ease
 es
@@ -3184,6 +3193,10 @@ extremly
 efficient
 erros
 everything
+electric
+explanatory
+edges
+establishing
 programaci
 primer
 paso
@@ -3853,6 +3866,13 @@ packet
 protocol
 perfect
 perform
+phone
+phones
+providing
+portable
+part
+parts
+public
 lineal
 la
 lo
@@ -4441,6 +4461,7 @@ lfs
 lOy
 layered
 later
+links
 tags
 tres
 todos
@@ -5063,6 +5084,11 @@ triggers
 transform
 think
 types
+talk
+telephone
+technicalities
+these
+traditional
 review
 resolver
 realizar
@@ -5676,6 +5702,8 @@ really
 recover
 reasking
 retransmission
+run
+refer
 References
 Resoluci
 Rectas
@@ -6948,6 +6976,15 @@ checks
 corrupted
 could
 compares
+connected
+connection
+copper
+care
+calculator
+choose
+connect
+computer
+communicate
 sr
 se
 subproblemas
@@ -7577,6 +7614,14 @@ slow
 states
 said
 same
+signals
+structure
+suits
+splits
+smaller
+switcher
+switches
+standard
 interval
 importancia
 incorrecto
@@ -8199,6 +8244,8 @@ implementations
 info
 implementing
 instead
+infrastructure
+initial
 un
 una
 utiliza
@@ -9186,6 +9233,7 @@ hXF
 hNiNm
 had
 handled
+hooked
 Es
 Este
 Ejemplos
@@ -10792,6 +10840,13 @@ neP
 nqou
 noting
 needed
+networking
+net
+nothing
+note
+nearest
+nodes
+notation
 Identificar
 Intro
 Identificaci
@@ -11343,6 +11398,7 @@ IerSi
 Implementations
 Implementation
 Instead
+Internet
 Definir
 Din
 Design
@@ -11870,6 +11926,7 @@ Delays
 DNS
 Delivers
 Duplicated
+Distributed
 funci
 fibonacci
 fica
@@ -14099,6 +14156,7 @@ ACKs
 Afirmative
 Add
 APP
+Anyone
 Floyd
 Foundations
 Funci
@@ -14584,6 +14642,7 @@ FrX
 FvN
 FmT
 FYi
+Fisionom
 Warshall
 Width
 We
@@ -15103,6 +15162,7 @@ WwG
 WWYx
 Wait
 Waiting
+What
 Heuri
 Hecho
 HyO
@@ -15642,6 +15702,7 @@ HxR
 HGl
 Hev
 Hgm
+Host
 TODOS
 The
 Trabajo
@@ -16171,6 +16232,8 @@ TUU
 TZd
 Turn
 These
+Those
+Therefore
 grafo
 guardan
 global
@@ -16729,6 +16792,7 @@ gumu
 gRJ
 gUo
 give
+graph
 Programaci
 Para
 Problema
@@ -19853,6 +19917,7 @@ Lgy
 Lfs
 LND
 LeJ
+Local
 bottom
 base
 brik
@@ -20373,6 +20438,9 @@ bkb
 bKRSW
 both
 because
+basic
+best
+bijection
 Util
 Una
 UniZumo
@@ -24485,6 +24553,7 @@ NpBB
 NAKs
 Nice
 Negative
+Nowadays
 Xr
 XObject
 Xw
@@ -26981,6 +27050,10 @@ within
 world
 wante
 why
+wire
+won
+while
+workstations
 kL
 kMZ
 kC

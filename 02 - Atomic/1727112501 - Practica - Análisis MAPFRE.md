@@ -3,7 +3,7 @@ aliases:
   - Practica - Análisis MAPFRE
 tags:
   - Empresa
-References: 
+References: https://docs.google.com/presentation/d/1LfHGnlAYZYKG-vGiYn2egM1MIPCXsa4MuzsCqLRjF2M/edit#slide=id.p
 cssclasses:
 ---
 # Practica - Análisis MAPFRE
