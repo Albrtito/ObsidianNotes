@@ -32,8 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50e91493dd88f253",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Net_Biblio_Kurose.pdf"
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -143,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "00.References/Net_Biblio_Kurose.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "00.References/Net_Biblio_Kurose.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "00.References/Net_Biblio_Kurose.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md"
+                "file": "00.References/Net_Biblio_Kurose.pdf"
               }
             }
           }
@@ -282,8 +293,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fcbcd17444f63270",
+  "active": "50e91493dd88f253",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Cripto.md",
     "99 - Meta/0. Attachments/Cripto.png",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1725968193 - Intro to networking.md",
@@ -324,7 +336,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-09-23 at 5.34.01 PM.png",
     "00.References/DiffCalc_Theory_ODEs.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.40.09 PM.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.39.55 PM.png",
     "00.References/Net_References_s2_1.pdf",
     "00.References/Net_References_s1_2.pdf",
     "00.References/Net_References_s1_1.pdf",
