@@ -20,6 +20,7 @@ The problem lies on how to transfer data reliablely using an unreliable channel.
 
 + **Only unidirectional data transfer:** This implementation will be based on a systen where ther is only one sender and one reciever. This means that there cannot be any message sent by the reciever. If we wanted to implement it the other way around we would just do it as a new implementation. 
 
++ We assure a reliable transmission of data. We **do not assure a reliable transmission of the acknowledgment packages.** 
 ## Channel with bit errors: 
 + Using error detection methods such as the **checksum**. 
 	+ IF there where an error, drop it, ask for it and send it again.
@@ -53,7 +54,8 @@ The FSM of the receiver:
 > 2. Sender waits for response
 
 ### Complete FSMs: 
-+ Sender an receiver need to know how many packages there are and how are they numbered → Checking for duplicates
++ Sender an receiver need to know how many packages there are and how are they numbered → Checking for duplicates. 
+  Given the delteion of the NAK there can be only two numberings of the package.Alternating betwen those is enought.
 + There is only a need for two flags → **ACK and NAK** (positive/negative acknowledgment)
 **Sender:**
 	![[Screenshot 2024-09-24 at 1.54.39 PM.png]]
@@ -74,9 +76,16 @@ The receiver will generate an **ACK package with the sequence number of the last
 In a channel with losses, the previous designed mechanism will **get stuck** waiting for **some packages that never arrive.**
 +  **Solution:** Include a timer
 
-Once the package is send a timer starts, when the timer ends, the sender asumes that the package has been lost. 
+Once the package is send a timer starts, when the timer ends, the sender asumes that the package has been lost **and retransmits it**. 
 + Duplicate packages can be generated → We already have sequence numbers to deal with this. 
 + The timer waits for **exactly 1 RTT** (Round Trip Time)
 	+ To compute the RTT we can check the history of packages sent and how long they took. **However the only variable that will change the RTT is the queueing delay**. This means that the last package wont be a good prediction of the next one. 
 	+ Because it is an estimation. The RTT will be wrong some times. 
-+ 
++ For the first package: Either be very agressive and start sending with small RTT untill there is a response, or be loose and set a long RTT. THe thing is we need that first response to estimate a better RTT.
++ We say that packages are retransmitted, however ack packages are **never retransmitted** but send again for a retransmitted package.
+### Complete FSMs:
+**Sender:**
+	![[1727176650 - Principles of reliable data transfer.png]]
+**Receiver:**
++ Is unchanged with respect to the last model 
+

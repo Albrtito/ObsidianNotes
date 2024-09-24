@@ -283,6 +283,11 @@ acknowledgment
 account
 anything
 acceptable
+ack
+arrive
+asumes
+already
+agressive
 Creaci
 Crear
 Cuando
@@ -515,6 +520,7 @@ Ckw
 CwU
 Channel
 Complete
+Checking
 de
 due
 dar
@@ -788,6 +794,10 @@ drop
 duplicated
 duplication
 drops
+duplicates
+designed
+deal
+delay
 modelos
 modelo
 maximizar
@@ -1062,6 +1072,8 @@ methods
 messages
 method
 may
+many
+mechanism
 en
 ease
 es
@@ -1346,6 +1358,10 @@ ezD
 eOx
 eXL
 errors
+ends
+exactly
+estimation
+estimate
 programaci
 primer
 paso
@@ -1673,6 +1689,8 @@ problem
 package
 pesimistic
 pck
+previous
+prediction
 lineal
 la
 lo
@@ -1877,6 +1895,9 @@ lNN
 lies
 lost
 loss
+losses
+long
+loose
 tags
 tres
 todos
@@ -2110,6 +2131,10 @@ take
 twice
 transmission
 transmits
+timer
+took
+times
+thing
 review
 resolver
 realizar
@@ -2340,6 +2365,7 @@ receiver
 repeating
 recieved
 response
+rid
 References
 Resoluci
 Rectas
@@ -2534,6 +2560,8 @@ RUz
 ReR
 Resend
 Receiver
+RTT
+Round
 cssclasses
 correcto
 correcta
@@ -2892,6 +2920,8 @@ cycle
 creation
 corruption
 checking
+check
+change
 sr
 se
 subproblemas
@@ -3162,6 +3192,11 @@ solve
 sequence
 sends
 stop
+says
+stuck
+starts
+start
+small
 interval
 importancia
 incorrecto
@@ -3564,6 +3599,7 @@ uUc
 unreliable
 udt
 unidirectional
+untill
 hora
 hacemos
 hacia
@@ -3723,6 +3759,7 @@ hGL
 htp
 hUR
 hfjr
+history
 Es
 Este
 Ejemplos
@@ -3897,6 +3934,7 @@ Emz
 EmQ
 EOD
 EOn
+Either
 vital
 variables
 vez
@@ -4061,6 +4099,7 @@ vQH
 vbC
 vKzO
 vulnerable
+very
 no
 nuestras
 ndar
@@ -4249,6 +4288,8 @@ new
 next
 negative
 numbering
+numbered
+never
 Identificar
 Intro
 Identificaci
@@ -4439,6 +4480,7 @@ Italic
 IlAB
 InDc
 Interfaces
+Include
 Definir
 Din
 Design
@@ -4632,6 +4674,7 @@ Dvx
 DyH
 DVue
 Definitions
+Duplicate
 funci
 fibonacci
 fica
@@ -4838,6 +4881,7 @@ fTw
 fRH
 fWb
 fixed
+flags
 objetivo
 obtener
 of
@@ -5178,6 +5222,7 @@ qHE
 qzG
 qUv
 qnQ
+queueing
 Algorith
 Algorithm
 All
@@ -5375,6 +5420,7 @@ AKx
 Arial
 Abc
 Adding
+ACK
 Floyd
 Foundations
 Funci
@@ -6068,6 +6114,9 @@ TsU
 Tim
 TimesNewRomanPSMT
 Transforming
+Trip
+Time
+THe
 grafo
 guardan
 global
@@ -6255,6 +6304,10 @@ gisq
 gQf
 goes
 gets
+generate
+get
+generated
+good
 Programaci
 Para
 Problema
@@ -6837,6 +6890,7 @@ SUe
 Sir
 Send
 Sender
+Solution
 Manual
 Modelar
 Millones
@@ -7498,6 +7552,7 @@ bW
 baPfnAp
 bCa
 bVR
+been
 Util
 Una
 UniZumo
@@ -7993,6 +8048,7 @@ OKj
 OFm
 OvO
 ONv
+Once
 ximo
 xrL
 xFQ
@@ -8629,6 +8685,7 @@ GVM
 GLn
 GKR
 GXh
+Getting
 Nota
 Novo
 Nacional
@@ -8782,6 +8839,7 @@ NaK
 Nag
 NGg
 Nop
+NAK
 Xr
 XObject
 Xw
@@ -9517,6 +9575,9 @@ wanted
 ways
 wait
 waits
+waiting
+wont
+wrong
 kL
 kMZ
 kC
@@ -9688,6 +9749,7 @@ kIRqO
 kIRqF
 kjh
 kKm
+know
 YUV
 YN
 Yt
