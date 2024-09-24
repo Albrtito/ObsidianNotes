@@ -8,14 +8,15 @@
           {
             "id": "f3cd2baafda53b50",
             "type": "tabs",
+            "dimension": 58.281893004115226,
             "children": [
               {
-                "id": "a1d4d0b5b0f9fd73",
+                "id": "fcbcd17444f63270",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01.Areas/1.UC3M/Movilidad.md",
+                    "file": "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -23,12 +24,12 @@
                 }
               },
               {
-                "id": "fcbcd17444f63270",
+                "id": "e3858ecd9be31104",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
+                    "file": "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -36,7 +37,28 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 1,
+            "stacked": true
+          },
+          {
+            "id": "67ab0745d5ed087f",
+            "type": "tabs",
+            "dimension": 41.718106995884774,
+            "children": [
+              {
+                "id": "4fecba0230a1bac2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
         ],
         "direction": "vertical"
@@ -145,7 +167,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -162,7 +183,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -180,7 +200,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -256,16 +275,14 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "02 - Atomic/1727166266 - Movilidad no Europea.md"
-                  }
+                  "state": {}
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 651
+        "width": 265
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -284,8 +301,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "fcbcd17444f63270",
-      "mtime": "2024-09-24T10:48:53+02:00"
+      "active": "1087055cabadd75b",
+      "mtime": "2024-09-24T23:01:50+02:00"
     }
   },
   "active": "Main"

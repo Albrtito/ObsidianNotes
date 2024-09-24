@@ -165,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +181,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +198,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,9 +273,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -304,13 +299,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4fecba0230a1bac2",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
+    "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
     "00.References/Net_References_s3_2.pdf",
     "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
     "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
     "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
-    "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
     "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
     "99 - Meta/0. Attachments/1727187154 - Method - RDT Over reliable channel.png",
     "01.Areas/1.UC3M/Networks.md",

@@ -645,6 +645,8 @@ apply
 acknowledgedment
 assume
 assumed
+allways
+alternate
 Creaci
 Crear
 Cuando
@@ -1212,6 +1214,7 @@ CiP
 CKU
 CUO
 Called
+Comunication
 de
 due
 dar
@@ -1855,6 +1858,7 @@ difficulties
 doubd
 differences
 drawback
+dropped
 modelos
 modelo
 maximizar
@@ -2507,6 +2511,8 @@ much
 machine
 medium
 management
+million
+memory
 en
 ease
 es
@@ -5054,6 +5060,8 @@ trasfer
 tells
 triggers
 transform
+think
+types
 review
 resolver
 realizar
@@ -6938,6 +6946,7 @@ call
 checks
 corrupted
 could
+compares
 sr
 se
 subproblemas
@@ -8188,6 +8197,7 @@ interfaces
 implementations
 info
 implementing
+instead
 un
 una
 utiliza
@@ -8698,6 +8708,8 @@ uyOG
 uUFeJ
 uXt
 use
+unless
+usually
 hora
 hacemos
 hacia
@@ -16713,6 +16725,7 @@ gAng
 gumu
 gRJ
 gUo
+give
 Programaci
 Para
 Problema
@@ -18282,6 +18295,7 @@ Smk
 SUE
 SwP
 SrO
+States
 Manual
 Modelar
 Millones
@@ -26962,6 +26976,7 @@ wNvN
 within
 world
 wante
+why
 kL
 kMZ
 kC
