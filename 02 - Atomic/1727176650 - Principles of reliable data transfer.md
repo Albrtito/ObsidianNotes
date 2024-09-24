@@ -35,6 +35,12 @@ For the following implementations we’ll take into account the following **assu
 	+ There is a **current state**
 	+ They change state based on the input (pck’s)
 
+> [!quote] Remember: 
+> A reliable transmission means:
+> + All packets arrive
+> + Packets arrive **in order** to the APP
+
+
 ## Implementations:
 We’ll go through different implementations of the RDT, each of them will be different because of the **differences in the communication channel**.
 

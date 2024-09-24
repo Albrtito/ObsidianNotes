@@ -641,6 +641,10 @@ ata
 arrives
 about
 actions
+apply
+acknowledgedment
+assume
+assumed
 Creaci
 Crear
 Cuando
@@ -1850,6 +1854,7 @@ during
 difficulties
 doubd
 differences
+drawback
 modelos
 modelo
 maximizar
@@ -2499,6 +2504,9 @@ mRiw
 mrKnY
 machines
 much
+machine
+medium
+management
 en
 ease
 es
@@ -3165,6 +3173,10 @@ eQSEy
 eAfx
 encharged
 eliable
+extremly
+efficient
+erros
+everything
 programaci
 primer
 paso
@@ -5038,6 +5050,10 @@ transport
 turn
 themodel
 therefore
+trasfer
+tells
+triggers
+transform
 review
 resolver
 realizar
@@ -5648,6 +5664,9 @@ recieves
 referenced
 ransfer
 really
+recover
+reasking
+retransmission
 References
 Resoluci
 Rectas
@@ -6196,6 +6215,7 @@ RRw
 RyP
 RFe
 RDT
+Reliability
 cssclasses
 correcto
 correcta
@@ -6915,6 +6935,9 @@ comunication
 communicated
 communication
 call
+checks
+corrupted
+could
 sr
 se
 subproblemas
@@ -7540,6 +7563,10 @@ switching
 simplified
 state
 solved
+slow
+states
+said
+same
 interval
 importancia
 incorrecto
@@ -9144,6 +9171,8 @@ hmg
 hHu
 hXF
 hNiNm
+had
+handled
 Es
 Este
 Ejemplos
@@ -11300,6 +11329,7 @@ IaVkNI
 IerSi
 Implementations
 Implementation
+Instead
 Definir
 Din
 Design
@@ -11826,6 +11856,7 @@ DQve
 Delays
 DNS
 Delivers
+Duplicated
 funci
 fibonacci
 fica
@@ -12384,6 +12415,9 @@ fgN
 fEJ
 fWY
 finite
+fixing
+flipped
+finishes
 objetivo
 obtener
 of
@@ -14046,6 +14080,10 @@ Aswa
 AZij
 Aplicaation
 Automatas
+Acknowledgment
+ACKs
+Afirmative
+Add
 Floyd
 Foundations
 Funci
@@ -15049,6 +15087,7 @@ WiIy
 WwG
 WWYx
 Wait
+Waiting
 Heuri
 Hecho
 HyO
@@ -16116,6 +16155,7 @@ TIN
 TUU
 TZd
 Turn
+These
 grafo
 guardan
 global
@@ -17227,6 +17267,8 @@ PsKK
 PbE
 PoA
 Prj
+PROBLEMS
+PCK
 Biblio
 BitsPerComponent
 BI
@@ -17687,6 +17729,7 @@ BwhA
 BqF
 BvGj
 BdD
+Bits
 Steven
 Skiena
 Serie
@@ -24421,6 +24464,9 @@ NRZ
 Nzi
 NEP
 NpBB
+NAKs
+Nice
+Negative
 Xr
 XObject
 Xw
@@ -26915,6 +26961,7 @@ wfF
 wNvN
 within
 world
+wante
 kL
 kMZ
 kC
