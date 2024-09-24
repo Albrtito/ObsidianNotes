@@ -640,6 +640,7 @@ acronym
 ata
 arrives
 about
+actions
 Creaci
 Crear
 Cuando
@@ -3831,6 +3832,8 @@ pvZ
 pnU
 packet
 protocol
+perfect
+perform
 lineal
 la
 lo
@@ -4418,6 +4421,7 @@ lqH
 lfs
 lOy
 layered
+later
 tags
 tres
 todos
@@ -5643,6 +5647,7 @@ rely
 recieves
 referenced
 ransfer
+really
 References
 Resoluci
 Rectas
@@ -6909,6 +6914,7 @@ circuits
 comunication
 communicated
 communication
+call
 sr
 se
 subproblemas
@@ -7533,6 +7539,7 @@ sfTs
 switching
 simplified
 state
+solved
 interval
 importancia
 incorrecto
@@ -8153,6 +8160,7 @@ ige
 interfaces
 implementations
 info
+implementing
 un
 una
 utiliza
@@ -10740,6 +10748,8 @@ nmbd
 nVJ
 neP
 nqou
+noting
+needed
 Identificar
 Intro
 Identificaci
@@ -15038,6 +15048,7 @@ WoPVAB
 WiIy
 WwG
 WWYx
+Wait
 Heuri
 Hecho
 HyO
@@ -26903,6 +26914,7 @@ wii
 wfF
 wNvN
 within
+world
 kL
 kMZ
 kC

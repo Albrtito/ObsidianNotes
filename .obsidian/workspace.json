@@ -6,7 +6,7 @@
       {
         "id": "f3cd2baafda53b50",
         "type": "tabs",
-        "dimension": 74.12551440329219,
+        "dimension": 58.281893004115226,
         "children": [
           {
             "id": "fcbcd17444f63270",
@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "2c7fa866b289d5cd",
+            "id": "e3858ecd9be31104",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
+                "file": "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -41,7 +41,7 @@
       {
         "id": "67ab0745d5ed087f",
         "type": "tabs",
-        "dimension": 25.87448559670782,
+        "dimension": 41.718106995884774,
         "children": [
           {
             "id": "4fecba0230a1bac2",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
+                "file": "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
+                "file": "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
+                "file": "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md"
+                "file": "02 - Atomic/1727187698 - Method - RDT With bit errors.md"
               }
             }
           }
@@ -301,12 +301,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2c7fa866b289d5cd",
+  "active": "e3858ecd9be31104",
   "lastOpenFiles": [
+    "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
+    "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
+    "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
+    "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+    "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
     "99 - Meta/0. Attachments/1727187154 - Method - RDT Over reliable channel.png",
     "00.References/Net_References_s3_2.pdf",
-    "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
-    "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
     "01.Areas/1.UC3M/Networks.md",
     "00.References/Net_Biblio_Kurose.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
@@ -339,11 +342,8 @@
     "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "00.References/DiffCalc_Theory_ODEs.pdf",
     "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
-    "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
-    "02 - Atomic/20240429 - 114501 - Theorem -Bézout's Identity.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.40.09 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.39.55 PM.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 11.53.10 AM.png",
     "00.References/Net_References_s2_1.pdf",
     "00.References/Net_References_s1_2.pdf",
     "00.References/Net_References_s1_1.pdf",
