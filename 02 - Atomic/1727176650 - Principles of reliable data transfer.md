@@ -24,4 +24,20 @@ The problem lies on how to transfer data reliablely using an unreliable channel.
 + Using error detection methods such as the **checksum**. 
 	+ IF there where an error, drop it, ask for it and send it again.
 
-***
+The cycle of sending-recieving messages goes: 
+$$
+\text{sent package → recieved → dropped/kept → positive/negative acknowledge }
+$$
+
++ With a positive acknowledgement: Send next one
++ With a negative acknowledgment: Resend last one
+
+We can define this cycle as two FSMs in the following ways:
+
+The FSM of the sender:
+	![[Screenshot 2024-09-24 at 1.35.21 PM.png|640]]
+The FSM of the receiver:
+	![[Screenshot 2024-09-24 at 1.38.16 PM.png|640]]
+
+**PROBLEM:** This method does not take into account that there **may be an error in the acknowledgment packages.** 
++ 

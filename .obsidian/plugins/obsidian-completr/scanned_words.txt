@@ -277,6 +277,9 @@ aFx
 abOeO
 aCU
 aor
+again
+acknowledgement
+acknowledgment
 Creaci
 Crear
 Cuando
@@ -507,6 +510,7 @@ CdU
 Caf
 Ckw
 CwU
+Channel
 de
 due
 dar
@@ -772,6 +776,11 @@ dhv
 dXV
 dLR
 dBI
+data
+deliver
+delivers
+detection
+drop
 modelos
 modelo
 maximizar
@@ -1041,6 +1050,9 @@ mMy
 mYh
 mkB
 mLWB
+means
+methods
+messages
 en
 ease
 es
@@ -1324,6 +1336,7 @@ erJlJG
 ezD
 eOx
 eXL
+errors
 programaci
 primer
 paso
@@ -1647,6 +1660,7 @@ pYl
 pKZ
 pLK
 puJU
+problem
 lineal
 la
 lo
@@ -1848,6 +1862,7 @@ lUE
 lQs
 lGI
 lNN
+lies
 tags
 tres
 todos
@@ -2076,6 +2091,7 @@ tSy
 tDy
 tMpF
 thV
+ther
 review
 resolver
 realizar
@@ -2295,6 +2311,14 @@ roA
 rYw
 rQn
 rcd
+reliable
+reliablely
+rdt
+rcv
+receive
+reciever
+recieving
+receiver
 References
 Resoluci
 Rectas
@@ -2487,6 +2511,7 @@ Rij
 RDtb
 RUz
 ReR
+Resend
 cssclasses
 correcto
 correcta
@@ -2838,6 +2863,10 @@ cLE
 cgn
 cVe
 ccwH
+channel
+cannot
+checksum
+cycle
 sr
 se
 subproblemas
@@ -3100,6 +3129,10 @@ sPV
 sYZ
 sDQj
 siwL
+systen
+sender
+sent
+sending
 interval
 importancia
 incorrecto
@@ -3326,6 +3359,8 @@ iHx
 isc
 ijj
 iim
+implementation
+implement
 un
 una
 utiliza
@@ -3493,6 +3528,9 @@ uuU
 ups
 uCU
 uUc
+unreliable
+udt
+unidirectional
 hora
 hacemos
 hacia
@@ -4173,6 +4211,9 @@ nuv
 nMR
 nVI
 nGy
+new
+next
+negative
 Identificar
 Intro
 Identificaci
@@ -4362,6 +4403,7 @@ Imk
 Italic
 IlAB
 InDc
+Interfaces
 Definir
 Din
 Design
@@ -4554,6 +4596,7 @@ DpV
 Dvx
 DyH
 DVue
+Definitions
 funci
 fibonacci
 fica
@@ -5463,6 +5506,9 @@ FPL
 FzN
 FSV
 Fob
+Function
+FSM
+FSMs
 Warshall
 Width
 We
@@ -6165,6 +6211,7 @@ gHD
 gTwTM
 gisq
 gQf
+goes
 Programaci
 Para
 Problema
@@ -6744,6 +6791,7 @@ SnY
 SzG
 SUe
 Sir
+Send
 Manual
 Modelar
 Millones
@@ -7572,6 +7620,7 @@ Urmzmf
 UnB
 UTVUGjj
 UMk
+Using
 QUE
 Que
 QE
@@ -9262,6 +9311,7 @@ jGm
 jpW
 jle
 jgjt
+just
 wA
 wo
 wpMuB
@@ -9416,6 +9466,9 @@ wkU
 wUxu
 wHu
 wpaM
+will
+wanted
+ways
 kL
 kMZ
 kC
