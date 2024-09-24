@@ -36,8 +36,9 @@ For the following implementations we’ll take into account the following **assu
 	+ They change state based on the input (pck’s)
 
 ## Implementations:
-
-
+We’ll go through different implementations of the RDT, each of them will be different because of the **differences in the communication channel**.
+1. [[1727187154 - Method - RDT Over reliable channel|Method - RDT Over reliable channel]]
+2. 
 
 + We assure a reliable transmission of data. We **do not assure a reliable transmission of the acknowledgment packages.** 
 ## Channel with bit errors: 

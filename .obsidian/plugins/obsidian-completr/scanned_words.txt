@@ -636,6 +636,10 @@ aplication
 aspets
 assumptions
 abstract
+acronym
+ata
+arrives
+about
 Creaci
 Crear
 Cuando
@@ -1202,6 +1206,7 @@ CgbnDQytJ
 CiP
 CKU
 CUO
+Called
 de
 due
 dar
@@ -1842,6 +1847,8 @@ dWy
 dhlI
 during
 difficulties
+doubd
+differences
 modelos
 modelo
 maximizar
@@ -2489,6 +2496,8 @@ mRO
 mmm
 mRiw
 mrKnY
+machines
+much
 en
 ease
 es
@@ -3154,6 +3163,7 @@ elj
 eQSEy
 eAfx
 encharged
+eliable
 programaci
 primer
 paso
@@ -3820,6 +3830,7 @@ pur
 pvZ
 pnU
 packet
+protocol
 lineal
 la
 lo
@@ -5021,6 +5032,8 @@ tvx
 tkHh
 transport
 turn
+themodel
+therefore
 review
 resolver
 realizar
@@ -5628,6 +5641,8 @@ rXb
 rWH
 rely
 recieves
+referenced
+ransfer
 References
 Resoluci
 Rectas
@@ -6175,6 +6190,7 @@ Rtuh
 RRw
 RyP
 RFe
+RDT
 cssclasses
 correcto
 correcta
@@ -6891,6 +6907,8 @@ cjJi
 chJE
 circuits
 comunication
+communicated
+communication
 sr
 se
 subproblemas
@@ -7514,6 +7532,7 @@ stsr
 sfTs
 switching
 simplified
+state
 interval
 importancia
 incorrecto
@@ -8133,6 +8152,7 @@ iyJ
 ige
 interfaces
 implementations
+info
 un
 una
 utiliza
@@ -11268,6 +11288,8 @@ IPx
 Ilg
 IaVkNI
 IerSi
+Implementations
+Implementation
 Definir
 Din
 Design
@@ -12351,6 +12373,7 @@ fND
 fgN
 fEJ
 fWY
+finite
 objetivo
 obtener
 of
@@ -14012,6 +14035,7 @@ ALO
 Aswa
 AZij
 Aplicaation
+Automatas
 Floyd
 Foundations
 Funci
@@ -16080,6 +16104,7 @@ TdJ
 TIN
 TUU
 TZd
+Turn
 grafo
 guardan
 global
@@ -20274,6 +20299,8 @@ bUz
 bSl
 bkb
 bKRSW
+both
+because
 Util
 Una
 UniZumo
@@ -21821,6 +21848,7 @@ OYoB
 OGk
 OUnAS
 OMA
+Over
 ximo
 xrL
 xFQ
