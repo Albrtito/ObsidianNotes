@@ -2,12 +2,8 @@
 Resumen de las páginas web de importancia, burocracia y cosas a tener en cuenta a la hora de realizar la movilidad europea o no europea en la UC3M. 
 
 Link de referencia con todos los programas de movilidad de la uc3m: [aquí](https://www.uc3m.es/ss/Satellite/SecretariaVirtual/es/TextoMixta/1371211195334/)
-## Movilidad **no europea**
-+ Link de referencia de la uc3m: [aquí](https://www.uc3m.es/secretaria-virtual/convocatoria-movilidad-no-europea) 
-### Fechas:
-+ La convocatoria empieza a mediados (20 aprox) de septiembre
-+ Existe un calendario de google que te puedes añadir con todas las fechas de la convocatoria. 
-+ 
+
+
 ## Movilidad europea:
 + Link de referencia de la uc3m: [aquí](https://www.uc3m.es/secretaria-virtual/convocatoria-erasmusplus-grado)
 

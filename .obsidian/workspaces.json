@@ -6,896 +6,6 @@
         "type": "split",
         "children": [
           {
-            "id": "f603430db5fbc007",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7722a01080201872",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01.Areas/1.UC3M/Empresa.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1ca34c401cf4b32b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7def7eb036d79740",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1727105121 - Estrategia competitiva de la empresa.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "92972e09f8250eb0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1727105227 - Modelos de negocio de la empresa.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "145a221e0e2d66f9",
-        "type": "split",
-        "children": [
-          {
-            "id": "499a66215ecf4828",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b89f836cb1d8a8cd",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "fb67b24a9341e2ad",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "tag:#review",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "4d9e8083eba3a4a2",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "390667f24a2ea6b5",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "1087c22e61a64185",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "23ab2a729b7c2289",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 489.5041847229004,
-        "collapsed": true
-      },
-      "right": {
-        "id": "8881aa8c79e29157",
-        "type": "split",
-        "children": [
-          {
-            "id": "5997a5c0c99a8696",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1087055cabadd75b",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "fea6a7bd9cb3093d",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "099139f438b240fc",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "01.Areas/1.UC3M/Empresa.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "d2df8d68f844a7a7",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "01.Areas/1.UC3M/Empresa.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "f97aefa6b972e655",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "36d1a43796975b90",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "01.Areas/1.UC3M/Empresa.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#Calc  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14048348
-                          }
-                        },
-                        {
-                          "query": "tag:#DiffCalc  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 8537055
-                          }
-                        },
-                        {
-                          "query": "tag:#Logic  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 11392604
-                          }
-                        },
-                        {
-                          "query": "tag:#Discrete  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6084188
-                          }
-                        },
-                        {
-                          "query": "tag:#SoftwareDev  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6084269
-                          }
-                        }
-                      ],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 13.341859845457,
-                      "linkStrength": 0.76664002131628,
-                      "linkDistance": 211,
-                      "scale": 0.20753572267272902,
-                      "close": true
-                    }
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "2758c03c7f8ca0ae",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1223c0f85c541969",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "01.Areas/1.UC3M/Empresa.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 321
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "janitor:Janitor: scan vault": false,
-          "obsidian-importer:Open Importer": true,
-          "zk-prefixer:Create new unique note": true,
-          "switcher:Open quick switcher": true,
-          "canvas:Create new canvas": true,
-          "daily-notes:Open today's daily note": true,
-          "templates:Insert template": true,
-          "command-palette:Open command palette": true,
-          "obsidian-spaced-repetition:Review flashcards": true,
-          "templater-obsidian:Templater": true,
-          "omnisearch:Omnisearch": false,
-          "graph:Open graph view": false,
-          "workspaces:Manage workspace layouts": false
-        }
-      },
-      "active": "36d1a43796975b90",
-      "mtime": "2024-09-23T17:28:37+02:00"
-    },
-    "Layout1": {
-      "main": {
-        "id": "17d7a5216cd24ae3",
-        "type": "split",
-        "children": [
-          {
-            "id": "6e5f58f1e920590c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "717e5b370a5073a8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "25fd452d15bfb121",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726759457 - Programación Lineal.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "08c9e4a5ed483c73",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "stacked": true
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "145a221e0e2d66f9",
-        "type": "split",
-        "children": [
-          {
-            "id": "499a66215ecf4828",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b89f836cb1d8a8cd",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "fb67b24a9341e2ad",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "tag:redes",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "11873d04252143b6",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {}
-                }
-              }
-            ]
-          },
-          {
-            "id": "74476affe76ac5b2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0b81a69190cd8ecc",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 313.5041847229004,
-        "collapsed": true
-      },
-      "right": {
-        "id": "8881aa8c79e29157",
-        "type": "split",
-        "children": [
-          {
-            "id": "5997a5c0c99a8696",
-            "type": "tabs",
-            "dimension": 49.77797513321492,
-            "children": [
-              {
-                "id": "1223c0f85c541969",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md"
-                  }
-                }
-              },
-              {
-                "id": "fea6a7bd9cb3093d",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "9e5b6f40fa890456",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "6a4b03877a1fcd95",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "689d7ca0b1d5701b",
-                "type": "leaf",
-                "state": {
-                  "type": "chatbot-view",
-                  "state": {}
-                }
-              }
-            ]
-          },
-          {
-            "id": "760b9d5497fedc0d",
-            "type": "tabs",
-            "dimension": 18.783303730017764,
-            "children": [
-              {
-                "id": "36d1a43796975b90",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": true,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#Heuri  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6577366
-                          }
-                        },
-                        {
-                          "query": "tag:#Networks  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 15099955
-                          }
-                        }
-                      ],
-                      "collapse-display": false,
-                      "showArrow": false,
-                      "textFadeMultiplier": -3,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 0,
-                      "repelStrength": 17.3531310522918,
-                      "linkStrength": 0.595351839896708,
-                      "linkDistance": 374,
-                      "scale": 0.09062090041185625,
-                      "close": true
-                    }
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "4ffe38cb4b366bf0",
-            "type": "tabs",
-            "dimension": 31.43872113676732,
-            "children": [
-              {
-                "id": "4d9e8083eba3a4a2",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "c69f6bd53a970edb",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 279
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "zk-prefixer:Create new unique note": true,
-          "switcher:Open quick switcher": true,
-          "canvas:Create new canvas": true,
-          "daily-notes:Open today's daily note": true,
-          "templates:Insert template": true,
-          "command-palette:Open command palette": true,
-          "graph:Open graph view": false,
-          "workspaces:Manage workspace layouts": false,
-          "obsidian-spaced-repetition:Review flashcards": false,
-          "templater-obsidian:Templater": false,
-          "omnisearch:Omnisearch": false,
-          "obsidian-importer:Open Importer": false,
-          "janitor:Janitor: scan vault": false
-        }
-      },
-      "active": "717e5b370a5073a8",
-      "mtime": "2024-09-20T15:13:52+02:00"
-    },
-    "Heuri": {
-      "main": {
-        "id": "17d7a5216cd24ae3",
-        "type": "split",
-        "children": [
-          {
-            "id": "6e5f58f1e920590c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "717e5b370a5073a8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "25fd452d15bfb121",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726759457 - Programación Lineal.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "08c9e4a5ed483c73",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "stacked": true
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "145a221e0e2d66f9",
-        "type": "split",
-        "children": [
-          {
-            "id": "499a66215ecf4828",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b89f836cb1d8a8cd",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "fb67b24a9341e2ad",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "tag:redes",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "11873d04252143b6",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {}
-                }
-              }
-            ]
-          },
-          {
-            "id": "74476affe76ac5b2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0b81a69190cd8ecc",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 313.5041847229004,
-        "collapsed": true
-      },
-      "right": {
-        "id": "8881aa8c79e29157",
-        "type": "split",
-        "children": [
-          {
-            "id": "5997a5c0c99a8696",
-            "type": "tabs",
-            "dimension": 49.77797513321492,
-            "children": [
-              {
-                "id": "1223c0f85c541969",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md"
-                  }
-                }
-              },
-              {
-                "id": "fea6a7bd9cb3093d",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "9e5b6f40fa890456",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "6a4b03877a1fcd95",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "689d7ca0b1d5701b",
-                "type": "leaf",
-                "state": {
-                  "type": "chatbot-view",
-                  "state": {}
-                }
-              }
-            ]
-          },
-          {
-            "id": "760b9d5497fedc0d",
-            "type": "tabs",
-            "dimension": 18.783303730017764,
-            "children": [
-              {
-                "id": "36d1a43796975b90",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": true,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#Heuri  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6577366
-                          }
-                        },
-                        {
-                          "query": "tag:#Networks  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 15099955
-                          }
-                        }
-                      ],
-                      "collapse-display": false,
-                      "showArrow": false,
-                      "textFadeMultiplier": -3,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 0,
-                      "repelStrength": 17.3531310522918,
-                      "linkStrength": 0.595351839896708,
-                      "linkDistance": 374,
-                      "scale": 0.09062090041185625,
-                      "close": true
-                    }
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "4ffe38cb4b366bf0",
-            "type": "tabs",
-            "dimension": 31.43872113676732,
-            "children": [
-              {
-                "id": "4d9e8083eba3a4a2",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "c69f6bd53a970edb",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 279
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "zk-prefixer:Create new unique note": true,
-          "switcher:Open quick switcher": true,
-          "canvas:Create new canvas": true,
-          "daily-notes:Open today's daily note": true,
-          "templates:Insert template": true,
-          "command-palette:Open command palette": true,
-          "graph:Open graph view": false,
-          "workspaces:Manage workspace layouts": false,
-          "obsidian-spaced-repetition:Review flashcards": false,
-          "templater-obsidian:Templater": false,
-          "omnisearch:Omnisearch": false,
-          "obsidian-importer:Open Importer": false,
-          "janitor:Janitor: scan vault": false
-        }
-      },
-      "active": "717e5b370a5073a8",
-      "mtime": "2024-09-20T15:14:09+02:00"
-    },
-    "Cripto": {
-      "main": {
-        "id": "17d7a5216cd24ae3",
-        "type": "split",
-        "children": [
-          {
             "id": "7a5e2773cf6fc6f6",
             "type": "split",
             "children": [
@@ -908,65 +18,40 @@
                     "id": "1f8fdb88d13839d5",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
+                      "type": "empty",
+                      "state": {}
                     }
                   },
                   {
                     "id": "23b77fbd76dde76a",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
+                      "type": "empty",
+                      "state": {}
                     }
                   },
                   {
                     "id": "d785efbbd6cadfab",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02 - Atomic/20240519 - 233523 - Algorithm - Euclid's algorithm.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
+                      "type": "empty",
+                      "state": {}
                     }
                   },
                   {
                     "id": "e417743ba258ea9f",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
+                      "type": "empty",
+                      "state": {}
                     }
                   },
                   {
                     "id": "3393ee04dedcc073",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02 - Atomic/20240519 - 233059 - Theorem - Euclid's theorem in integer arithmetic.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
+                      "type": "empty",
+                      "state": {}
                     }
                   }
                 ],
@@ -986,13 +71,8 @@
                         "id": "a1d4d0b5b0f9fd73",
                         "type": "leaf",
                         "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
-                            "mode": "source",
-                            "backlinks": true,
-                            "source": false
-                          }
+                          "type": "empty",
+                          "state": {}
                         }
                       }
                     ]
@@ -1000,62 +80,41 @@
                   {
                     "id": "40a80fb98a8b5b19",
                     "type": "tabs",
-                    "dimension": 23.25581395348837,
+                    "dimension": 23.255813953488367,
                     "children": [
                       {
                         "id": "03f33b4f75a925ed",
                         "type": "leaf",
                         "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
-                            "mode": "source",
-                            "backlinks": true,
-                            "source": false
-                          }
+                          "type": "empty",
+                          "state": {}
                         }
                       },
                       {
                         "id": "7722a01080201872",
                         "type": "leaf",
                         "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
-                            "mode": "source",
-                            "backlinks": true,
-                            "source": false
-                          }
+                          "type": "empty",
+                          "state": {}
                         }
                       },
                       {
                         "id": "34492e249d8258af",
                         "type": "leaf",
                         "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
-                            "mode": "source",
-                            "backlinks": true,
-                            "source": false
-                          }
+                          "type": "empty",
+                          "state": {}
                         }
                       },
                       {
                         "id": "be9c8c856ecb0631",
                         "type": "leaf",
                         "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "02 - Atomic/1727096148 - Cifrador de flujo.md",
-                            "mode": "source",
-                            "backlinks": true,
-                            "source": false
-                          }
+                          "type": "empty",
+                          "state": {}
                         }
                       }
                     ],
-                    "currentTab": 3,
                     "stacked": true
                   }
                 ],
@@ -1311,7 +370,7 @@
         }
       },
       "active": "23b77fbd76dde76a",
-      "mtime": "2024-09-23T17:01:34+02:00"
+      "mtime": "2024-09-24T10:20:01+02:00"
     }
   },
   "active": "Main"
