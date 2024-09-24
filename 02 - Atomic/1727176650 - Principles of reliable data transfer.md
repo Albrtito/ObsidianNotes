@@ -7,9 +7,9 @@ tags:
 References: 
 cssclasses:
 ---
-# Principles of reliable data transfer
-The problem lies on how to transfer data reliablely using an unreliable channel. 
-
+# Principles of reliable data transfer.
+The problem of comunication within the internet lies on **how to transfer data reliablely using an unreliable channel.** 
+We’ll use simplified system to understand the different problems that may occur during transfer. For this systems we’ll implement interfaces, enchar
 **Interfaces:**
 
 > [!NOTE] Definitions: 

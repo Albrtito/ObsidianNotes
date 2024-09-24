@@ -631,6 +631,8 @@ aGx
 aGr
 aNi
 aFu
+architecture
+aplication
 Creaci
 Crear
 Cuando
@@ -3811,6 +3813,7 @@ poZ
 pur
 pvZ
 pnU
+packet
 lineal
 la
 lo
@@ -4397,6 +4400,7 @@ lwN
 lqH
 lfs
 lOy
+layered
 tags
 tres
 todos
@@ -5009,6 +5013,7 @@ tFM
 tGkm
 tvx
 tkHh
+transport
 review
 resolver
 realizar
@@ -6875,6 +6880,8 @@ cEZX
 cOmo
 cjJi
 chJE
+circuits
+comunication
 sr
 se
 subproblemas
@@ -7496,6 +7503,7 @@ srRy
 soP
 stsr
 sfTs
+switching
 interval
 importancia
 incorrecto
@@ -11770,6 +11778,8 @@ DKh
 DrC
 Dnb
 DQve
+Delays
+DNS
 funci
 fibonacci
 fica
@@ -13986,6 +13996,7 @@ AHT
 ALO
 Aswa
 AZij
+Aplicaation
 Floyd
 Foundations
 Funci
@@ -26847,6 +26858,7 @@ wYy
 wii
 wfF
 wNvN
+within
 kL
 kMZ
 kC
