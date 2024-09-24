@@ -86,6 +86,26 @@ Once the package is send a timer starts, when the timer ends, the sender asumes 
 ### Complete FSMs:
 **Sender:**
 	![[1727176650 - Principles of reliable data transfer.png]]
++ This sender **does not retransmit over negative acknowledgment**. It only retransmits over timeouts.
+
 **Receiver:**
 + Is unchanged with respect to the last model 
 
+
+> [!bug] PROBLEM:
+>  If any acknowledgment can appear at any arbitrary time, then the packages would need to be differently numbered, this cannot be implemented. In order to solve this we **asume that packages have a time to live** in the network.
+
+### Performance problems: 
+This system has performance problems due to the waiting time RTT that the sender needs in order to **wait for the ACK.**
+
+We can solve this by allowing **multiple packets in flight**. Start sending packages even though we havent recieved the ack for the previous ones.
+
+### Changes: 
++ Bigger buffers at the sender
++ More sequence numbers. Increase sequence number space
+This is done using an **sliding window mechanism**
+
+### Sliding window mechanism:
+![[1727176650 - Principles of reliable data transfer-1.png]]
++ The packets in flight are those inside the window. 
++ The packets inside the p
