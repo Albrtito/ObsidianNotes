@@ -27,6 +27,8 @@ aliases:
 	+ **Sin notas mínimas**
 + Final 30%
 	+ **Sin nota mínima** 
+
+[Calendario detallado de evaluación continua](https://docs.google.com/spreadsheets/d/104Y2lDLnwzGxnVe6b6JHj_VrQ8fWiIt_/edit?gid=1611146933#gid=1611146933)
 ## Bibliografía: 
 
 ### Básica: 
