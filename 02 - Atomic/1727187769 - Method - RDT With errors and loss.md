@@ -9,16 +9,17 @@ cssclasses:
 ---
 # Method - RDT With errors and loss
 
-Channel with errors and loss:
-In a channel with losses, the previous designed mechanism will **get stuck** waiting for **some packages that never arrive.**
-+  **Solution:** Include a timer
+> [!BUG] PROBLEM: 
+> We already described the [[1727187698 - Method - RDT With bit errors|Method - RDT With bit errors]], this method has one **main problem**:
+> If an acknowledgement package is **lost**, then **the system will forever keep on waiting for the package to arrive.**
 
+**Solution:**
 Once the package is send a timer starts, when the timer ends, the sender asumes that the package has been lost **and retransmits it**. 
 + Duplicate packages can be generated → We already have sequence numbers to deal with this. 
 + The timer waits for **exactly 1 RTT** (Round Trip Time)
 	+ To compute the RTT we can check the history of packages sent and how long they took. **However the only variable that will change the RTT is the queueing delay**. This means that the last package wont be a good prediction of the next one. 
 	+ Because it is an estimation. The RTT will be wrong some times. 
-+ For the first package: Either be very agressive and start sending with small RTT untill there is a response, or be loose and set a long RTT. THe thing is we need that first response to estimate a better RTT.
+	+ For the first package: Either be very agressive and start sending with small RTT untill there is a response, or be loose and set a long RTT. THe thing is we need that first response to estimate a better RTT.
 + We say that packages are retransmitted, however ack packages are **never retransmitted** but send again for a retransmitted package.
 ### Complete FSMs:
 **Sender:**

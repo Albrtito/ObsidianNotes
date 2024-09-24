@@ -41,7 +41,7 @@
       {
         "id": "67ab0745d5ed087f",
         "type": "tabs",
-        "dimension": 41.718106995884774,
+        "dimension": 20.859053497942387,
         "children": [
           {
             "id": "4fecba0230a1bac2",
@@ -53,6 +53,23 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1505b72a7605eb41",
+        "type": "tabs",
+        "dimension": 20.859053497942387,
+        "children": [
+          {
+            "id": "76fb235974ac09a4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Net_References_s3_2.pdf"
               }
             }
           }
@@ -165,6 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,6 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,6 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,7 +293,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md"
+              }
             }
           }
         ]
@@ -299,10 +321,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1087055cabadd75b",
+  "active": "4fecba0230a1bac2",
   "lastOpenFiles": [
-    "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
     "00.References/Net_References_s3_2.pdf",
+    "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
     "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
     "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
     "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
