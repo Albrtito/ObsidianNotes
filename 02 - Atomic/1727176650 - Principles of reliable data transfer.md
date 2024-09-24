@@ -65,6 +65,18 @@ The FSM of the receiver:
 The receiver will generate an **ACK package with the sequence number of the last package it recieved ok**.
 + This way we get rid of the NaK
 > f.e: 
-> 1. Sender sends pck sequence number 1
-> 2. Receiver says ack 1
-> 3. Sender send pck sequence number 
+> 1. Sender sends pck sequence number 0
+> 2. Receiver says ack 0
+> 3. Sender send pck sequence number 1
+> 4. Receiver says ack 0 → This is a negative acknowledgment of pck 1
+
+## Channel with errors and loss:
+In a channel with losses, the previous designed mechanism will **get stuck** waiting for **some packages that never arrive.**
++  **Solution:** Include a timer
+
+Once the package is send a timer starts, when the timer ends, the sender asumes that the package has been lost. 
++ Duplicate packages can be generated → We already have sequence numbers to deal with this. 
++ The timer waits for **exactly 1 RTT** (Round Trip Time)
+	+ To compute the RTT we can check the history of packages sent and how long they took. **However the only variable that will change the RTT is the queueing delay**. This means that the last package wont be a good prediction of the next one. 
+	+ Because it is an estimation. The RTT will be wrong some times. 
++ 
