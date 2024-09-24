@@ -11,7 +11,7 @@ cssclasses:
 MAPFRE: Mutualidad de seguros de la Agrupación de Propietarios de Fincas Rústicas de España
 
 MAPFRE proviene de una mutualidad (MAPFRE MUTUALIDAD) creada en 1933 por una agrupación de propietarios de fincas con el objetivo de cubrir riesgos derivados de la explotacion de dichas fincas. [^1]
-+ Las mutualidades son formas jurídicas consitutidad por un grupo de personas que actuan como clientes de la mutualidad, repartiendo los riesgos que individualmente les corresponde. Son entidades sin ánimo de lucro. [^3]
++ Las mutualidades son formas jurídicas consitutidad por un grupo de personas que actuan como aseguradores de si mismos, repartiendo los riesgos que individualmente les corresponde. Son entidades sin ánimo de lucro. [^3]
 
 En 1980 se reestructura para convertirse en una S.A (CORPORACIÓN MAPFRE). 
 + Pioneros en el seguro del automovil[^4]
