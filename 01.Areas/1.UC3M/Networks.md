@@ -53,9 +53,12 @@ aliases:
 
 ## Notas: 
 1. Protocols, packet and circuits switching, layered architecture and internet architecture. 
-	1. Delays
-2. Aplicaation layer, service by the transport layer to aplication layer. DNS
+	+ [[1725968193 - Intro to networking|Intro to networking]]
+	+ Delays
+2.  Aplicaation layer, service by the transport layer to aplication layer. DNS
+	+  [[1726572508 - The network stack|Layers]]
+3. Transport layer:
+	+ [[1727176650 - Principles of reliable data transfer|Principles of reliable data transfer]]
 
-+ [[1725968193 - Intro to networking|Intro to networking]]
-+ [[1726572508 - The network stack|Layers]]
-+ [[1727176650 - Principles of reliable data transfer|Principles of reliable data transfer]]
+
+

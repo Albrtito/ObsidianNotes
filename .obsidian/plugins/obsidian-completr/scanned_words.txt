@@ -14098,6 +14098,7 @@ Acknowledgment
 ACKs
 Afirmative
 Add
+APP
 Floyd
 Foundations
 Funci
@@ -17284,6 +17285,7 @@ PoA
 Prj
 PROBLEMS
 PCK
+Packets
 Biblio
 BitsPerComponent
 BI

@@ -6,6 +6,9 @@ tags:
   - Networks
 References: 
 cssclasses:
+sr-due: 2024-09-26
+sr-interval: 2
+sr-ease: 248
 ---
 # Principles of reliable data transfer.
 The problem of comunication within the internet lies on **how to transfer data reliablely using an unreliable channel.** 

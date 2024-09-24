@@ -5,6 +5,9 @@ tags:
   - review
 "References":
 cssclasses:
+sr-due: 2024-09-26
+sr-interval: 2
+sr-ease: 248
 ---
 # Method - RDT With bit errors
 
@@ -20,7 +23,7 @@ There are two of them:
 + **ACK:** Afirmative acknowledgement. Nice, everything ok
 + **NAK**: Negative acknowledgement. The package had corruption
 
-Then, for each package that is send triggers the following cycle:
+Then, for each package that is send triggers the following cycle:`
 $$
 \boxed{\text{sent package → recieved → dropped/kept → positive/negative acknowledge }}
 $$

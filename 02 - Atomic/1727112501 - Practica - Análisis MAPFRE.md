@@ -8,6 +8,8 @@ cssclasses:
 ---
 # Practica - Análisis MAPFRE
 ## Forma jurídica: 
+MAPFRE: Mutualidad de seguros de la Agrupación de Propietarios de Fincas Rústicas de España
+
 MAPFRE proviene de una mutualidad (MAPFRE MUTUALIDAD) creada en 1933 por una agrupación de propietarios de fincas con el objetivo de cubrir riesgos derivados de la explotacion de dichas fincas. [^1]
 + Las mutualidades son formas jurídicas consitutidad por un grupo de personas que actuan como clientes de la mutualidad, repartiendo los riesgos que individualmente les corresponde. Son entidades sin ánimo de lucro. [^3]
 

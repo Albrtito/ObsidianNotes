@@ -6,6 +6,9 @@ tags:
   - review
 References: 
 cssclasses:
+sr-due: 2024-09-25
+sr-interval: 1
+sr-ease: 230
 ---
 # Method - RDT With errors and loss
 
@@ -36,12 +39,8 @@ Once the package is send a timer starts, when the timer ends, the sender asumes 
 ### Performance problems: 
 This system has performance problems due to the waiting time RTT that the sender needs in order to **wait for the ACK.**
 
-We can solve this by allowing **multiple packets in flight**. Start sending packages even though we havent recieved the ack for the previous ones.
+We can solve this by allowing **multiple packets in flight**. Start sending packages even though we havent recieved the ack for the previous ones. 
 
-### Changes: 
-+ Bigger buffers at the sender
-+ More sequence numbers. Increase sequence number space
-This is done using an **sliding window mechanism**
-
+To solve this problems we’ll use:  [[1727187791 - Method - RDT Sliding window|Method - RDT Sliding window]]
 
 ***
