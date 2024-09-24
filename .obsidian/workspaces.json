@@ -6,122 +6,37 @@
         "type": "split",
         "children": [
           {
-            "id": "7a5e2773cf6fc6f6",
-            "type": "split",
+            "id": "f3cd2baafda53b50",
+            "type": "tabs",
             "children": [
               {
-                "id": "bd08768241446185",
-                "type": "tabs",
-                "dimension": 52.3197715917202,
-                "children": [
-                  {
-                    "id": "1f8fdb88d13839d5",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "23b77fbd76dde76a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "d785efbbd6cadfab",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "e417743ba258ea9f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "3393ee04dedcc073",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
+                "id": "a1d4d0b5b0f9fd73",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01.Areas/1.UC3M/Movilidad.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
                   }
-                ],
-                "currentTab": 1
+                }
               },
               {
-                "id": "1564d19e0f349d88",
-                "type": "split",
-                "dimension": 47.6802284082798,
-                "children": [
-                  {
-                    "id": "f3cd2baafda53b50",
-                    "type": "tabs",
-                    "dimension": 76.74418604651163,
-                    "children": [
-                      {
-                        "id": "a1d4d0b5b0f9fd73",
-                        "type": "leaf",
-                        "state": {
-                          "type": "empty",
-                          "state": {}
-                        }
-                      }
-                    ]
-                  },
-                  {
-                    "id": "40a80fb98a8b5b19",
-                    "type": "tabs",
-                    "dimension": 23.255813953488367,
-                    "children": [
-                      {
-                        "id": "03f33b4f75a925ed",
-                        "type": "leaf",
-                        "state": {
-                          "type": "empty",
-                          "state": {}
-                        }
-                      },
-                      {
-                        "id": "7722a01080201872",
-                        "type": "leaf",
-                        "state": {
-                          "type": "empty",
-                          "state": {}
-                        }
-                      },
-                      {
-                        "id": "34492e249d8258af",
-                        "type": "leaf",
-                        "state": {
-                          "type": "empty",
-                          "state": {}
-                        }
-                      },
-                      {
-                        "id": "be9c8c856ecb0631",
-                        "type": "leaf",
-                        "state": {
-                          "type": "empty",
-                          "state": {}
-                        }
-                      }
-                    ],
-                    "stacked": true
+                "id": "fcbcd17444f63270",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
                   }
-                ],
-                "direction": "vertical"
+                }
               }
             ],
-            "direction": "horizontal"
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -230,7 +145,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
+                    "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -247,7 +162,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
+                    "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -265,7 +180,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
+                    "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -342,7 +257,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md"
+                    "file": "02 - Atomic/1727166266 - Movilidad no Europea.md"
                   }
                 }
               }
@@ -350,7 +265,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 323
+        "width": 651
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -369,8 +284,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "23b77fbd76dde76a",
-      "mtime": "2024-09-24T10:20:01+02:00"
+      "active": "fcbcd17444f63270",
+      "mtime": "2024-09-24T10:48:53+02:00"
     }
   },
   "active": "Main"

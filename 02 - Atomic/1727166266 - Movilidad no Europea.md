@@ -27,9 +27,13 @@ cssclasses:
 + Link de consulta de notas medias: [aquí](https://aplicaciones.uc3m.es/medias/)
 + Se require un mínimo de 5 en la nota media ponderada. Luego se multiplica por 1.17
 > A 2024-09-24: 5.79 * 1.17 = 6,7743
+
++ Las notas de corte de cada universidad es muy variable. 
+
 ## A tener en cuenta:
 + Coste de vida y fondos. 
 	+ Las universidades te van a pedir acreditar fondos
 + Aquellos que ya han estado en programas de movilidad no europea son **advaisers** con los que podemos hablar para ver si ir para lla.
-+ Las plazas van por media, se ordenan las solicitudes por nota media. El orden de las asignaturas no nulifica 
++ Las plazas van por media, se ordenan las solicitudes por nota media. El orden de las asignaturas no afecta a la posición en la lista.
++ El pago de matrícula se hace en la UC3M.
 ***
