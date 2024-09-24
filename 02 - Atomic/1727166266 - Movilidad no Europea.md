@@ -8,7 +8,7 @@ cssclasses:
 ---
 # Movilidad no Europea
 + Link de referencia de la uc3m: [aquí](https://www.uc3m.es/secretaria-virtual/convocatoria-movilidad-no-europea) 
-+ Mail: [mne@uc3m.es](http://mne@uc3m.es/)
++ Mail: mne@uc3m.es
 
 ## Fechas:
 + La convocatoria empieza a mediados (20 aprox) de septiembre
@@ -21,6 +21,7 @@ cssclasses:
 	+ Fuerza mayor
 	+ Enfermedad grave
 + En plazo abierto la solicitud se puede modificar todo lo que queramos.
++ El alumno puede elegir **libremente** en que cuatrime
 ## Idiomas: 
 + Comprobar las puntuaciones dee cad una de las partes del certificado
 + No fiarse de la web de las universidades par ver niveles. Ver la documentación dad por la uni
