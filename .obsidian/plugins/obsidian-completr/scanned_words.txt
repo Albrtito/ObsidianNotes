@@ -514,6 +514,7 @@ Caf
 Ckw
 CwU
 Channel
+Complete
 de
 due
 dar
@@ -1671,6 +1672,7 @@ puJU
 problem
 package
 pesimistic
+pck
 lineal
 la
 lo
@@ -2106,6 +2108,8 @@ thV
 ther
 take
 twice
+transmission
+transmits
 review
 resolver
 realizar
@@ -2335,6 +2339,7 @@ recieving
 receiver
 repeating
 recieved
+response
 References
 Resoluci
 Rectas
@@ -2528,6 +2533,7 @@ RDtb
 RUz
 ReR
 Resend
+Receiver
 cssclasses
 correcto
 correcta
@@ -3154,6 +3160,8 @@ sent
 sending
 solve
 sequence
+sends
+stop
 interval
 importancia
 incorrecto
@@ -3385,6 +3393,7 @@ implement
 into
 implentation
 isn
+idea
 un
 una
 utiliza
@@ -5027,6 +5036,7 @@ ofl
 oCY
 optimistic
 once
+ordered
 que
 queremos
 qD
@@ -6826,6 +6836,7 @@ SzG
 SUe
 Sir
 Send
+Sender
 Manual
 Modelar
 Millones
@@ -9504,6 +9515,8 @@ wpaM
 will
 wanted
 ways
+wait
+waits
 kL
 kMZ
 kC

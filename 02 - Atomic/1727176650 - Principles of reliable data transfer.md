@@ -44,4 +44,27 @@ The FSM of the receiver:
  
 + With an optimistic implentation of the sender the packages may be lost. Transforming data corruption into data loss. This is not reliable
 + With a pesimistic implementation of the sender, the packages may be send twice (duplicated). Is duplication equal to **no data loss**? Nop, this isn’t acceptable or reliable. However it is a problem that **can be fixed** once recieved the packages by **numbering the packages (sequence number)**. 
-  When the reciever gets a duplicated package it drops it by checking the sequence number. 
+  When the reciever gets a duplicated package it drops it by checking the sequence number and **sends a positive acknowledgment** 
+
+
+> [!TIP] stop and wait  
+> This type of transmission transmits ordered pck. Then the idea is: 
+> 1. Sender sends
+> 2. Sender waits for response
+
+### Complete FSMs: 
++ Sender an receiver need to know how many packages there are and how are they numbered → Checking for duplicates
++ There is only a need for two flags → **ACK and NAK** (positive/negative acknowledgment)
+**Sender:**
+	![[Screenshot 2024-09-24 at 1.54.39 PM.png]]
+**Receiver:**
+	![[Screenshot 2024-09-24 at 1.55.20 PM.png]]
+
+### Getting rid of the NAK:
++ Only have positive ack with the sequence number of the ack pck.
+The receiver will generate an **ACK package with the sequence number of the last package it recieved ok**.
++ This way we get rid of the NaK
+> f.e: 
+> 1. Sender sends pck sequence number 1
+> 2. Receiver says ack 1
+> 3. Sender send pck sequence number 
