@@ -19,6 +19,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b280e74534bcaed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1727270366 - Forma estandar.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "713aef7e6011cc57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d089e9f1bbd45e3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1727270366 - Forma estandar.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -212,6 +251,13 @@
                         "a": 1,
                         "rgb": 6084269
                       }
+                    },
+                    {
+                      "query": "tag:#Heuri  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6073814
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -224,7 +270,7 @@
                   "repelStrength": 13.341859845457,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 211,
-                  "scale": 0.21322213071750382,
+                  "scale": 0.4305832465311032,
                   "close": true
                 }
               }
@@ -271,6 +317,12 @@
   },
   "active": "fcbcd17444f63270",
   "lastOpenFiles": [
+    "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
+    "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
+    "02 - Atomic/1727270366 - Forma estandar.md",
+    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+    "02 - Atomic/1727270318 - Forma canónica.md",
     "01.Areas/1.UC3M/Heurística y Opti.md",
     "00.References/Net_References_s1_1.pdf",
     "02 - Atomic/1725968193 - Intro to networking.md",
@@ -308,11 +360,6 @@
     "02 - Atomic/1726572508 - The network stack.md",
     "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "00.References/Net_Resources_s3_1.pdf",
-    "02 - Atomic/1727166266 - Movilidad no Europea.md",
-    "02 - Atomic/1727105893 - La función financiera de la empresa.md",
-    "02 - Atomic/1727121162 - Contabilidad.md",
-    "02 - Atomic/1727122369 - Estados contables.md",
-    "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-23 at 5.34.01 PM.png",
     "00.References/DiffCalc_Theory_ODEs.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.40.09 PM.png",

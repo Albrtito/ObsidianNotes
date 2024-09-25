@@ -2110,6 +2110,7 @@ dLX
 dRn
 daq
 djdB
+dimensiones
 modelos
 modelo
 maximizar
@@ -3590,6 +3591,7 @@ efel
 eAs
 ebv
 eKW
+existir
 programaci
 primer
 paso
@@ -9283,6 +9285,7 @@ iZI
 iJU
 ilO
 igualdad
+imprescindible
 un
 una
 utiliza
@@ -9858,6 +9861,7 @@ uZrt
 uvd
 umo
 ubO
+util
 hora
 hacemos
 hacia
@@ -20652,6 +20656,7 @@ SQG
 SrL
 SAT
 SUT
+SIMPLEX
 Manual
 Modelar
 Millones

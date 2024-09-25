@@ -27,54 +27,14 @@ cssclasses:
 > [!done] Solución:
 > La solución de un problema de progamación lineal se encuentra en el vector de variables que maximice/minimice la función objetivo.
 > + La solución óptima puede ser única o no. En este segundo caso decimos que existen **soluciones óptimas alternativas**
-
++ Puede **no existir ninguna solución**
 
 Según la forma en la que se exprese la función y las restricciones podemos representar el problema de forma **canónica o de forma estandar**
-## Forma canónica:
-Un problema de programación lineal esta en forma canónica si: 
-+ El objetivo/función busca **MAXIMIZAR**
-+ Igualdades: **≤**
-+ Variables: **≥ 0**
-EL modelo se puede expresar de la siguiente forma:
-$$
-\begin{gather}
-\text{Función:}\\
-\max z = c^Tx\\\\
-\text{Restricciones:}\\
-Ax <= b\\\\
-\text{Variables:}\\
-x>= 0
-\end{gather}
-$$
-+ c → Vector de costes/beneficios (A obtener/reducir)
-+ b → Vector de recursos (Que delimitan)
-
-Para transformar un modelo lineal a su forma canónica utilizamos las siguientes equivalencias:
-### Transformaciones:
-1. Un problema de minimización es equivalente al de maximización, **con un cambio de signo a f**
-2. Para cambiar el sentido de una desigualdad multiplicamos por -1.
-## Forma estandar:
-Un problema de programación lineal esta en forma estandar si: 
-+ Se busca **MAXIMIZAR o MINIMIZAR**
-+ Las restricciones son de **igualdad**
-+ Variables → **≥ 0**
-+ Vector de recursos (b) → **≥ 0** 
-
-### Transformaciones: 
-+ Cambiar de signo al vector de recursos es lo mismo que multiplicar por -1. 
-+ Para convertir una igualdad en desigualdad debemos de **introducir una variable de holgura** (sumando o restando).
-$$
-\begin{gather}
-\sum_{j=1}^{n}a_{ij}x_j \leq b_1  \triangleq \sum_{j=1}^{n}a_{ij}x_j + s_i = b_1\\
-\sum_{j=1}^{n}a_{ij}x_j \geq b_1  \triangleq \sum_{j=1}^{n}a_{ij}x_j - s_i = b_1\\
-\end{gather}
-$$
-Si una variable de decisi´on xi no est´a restringida se pone entonces como la diferencia de dos variables no negativas restringidas: 
-$$
-x_i = x'_i − x'_i , x'_i , x ''_i ≥ 0
-$$
++ [[1727270318 - Forma canónica|Forma canónica]]
++ [[1727270366 - Forma estandar|Forma estandar]]
 ## Resolución de problemas lineales: 
 Los ejercicios de programación lineal se resuelven a trozos:
 1. Primero se debe de [[1726759568 - Creación de modelos en programación lineal|crear un modelo]] que contenga la función objetivo, restriciones y variables. 
 2. Una vez creado el modelo debemos de aplicar un método para resolverlo. 
 	+ [[1726835656 - Method - Resolución gráfica de modelos lineales|Method - Resolución gráfica de modelos lineales]]
+	+ [[1727270270 - Method - SIMPLEX|SIMPLEX]]
