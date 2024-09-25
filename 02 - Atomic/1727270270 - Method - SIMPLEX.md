@@ -43,17 +43,21 @@ $$
 Se dibuja cada una de las restricciones y se encuentran los puntos extremos de la región factible. 
 
 **SIMPLEX:**
-1. Pasar el problema a forma estandar: Hemos de sumar variables de holgura para cada una de las restricciones:
+1. Pasar el problema a forma estandar: Hemos de sumar **variables de holgura** para cada una de las restricciones:
 $$
-\begin{\begin{align*}
-~
-\end{align*}}
+\begin{gather}
 \text{Restricciones:}\\
 -x_1 + x_2 + x_3 = 2\\
-x_1 + x_2 + - + x_4 = 4\\
-x_1 - 2x_2 = 1\\
+x_1 + x_2 +  x_4 = 4\\
+x_1 - 2x_2 + x_5 = 1\\
 x\geq 0
-\end{align}
+\end{gather}
 $$
++ A la hora de realizar este tipo de ejercicios, **separar por columnas para evitar errores.**
++ Las variables que “nos importan” son $x_1$ y $x_2$. El resto son variables de holgura, auxiliares, útiles solo para la resolución.
+
+2. Empezamos a iterar:
+	+ Iteración #0: Cálculo de una solución **básica factible inicial**
+	1. Cálculo de las variables básicas.
 
 ***

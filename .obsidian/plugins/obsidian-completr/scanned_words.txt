@@ -3599,6 +3599,8 @@ eKW
 existir
 encima
 encuentran
+evitar
+errores
 programaci
 primer
 paso
@@ -4372,6 +4374,7 @@ pZy
 pVRw
 pId
 paa
+pondremos
 lineal
 la
 lo
@@ -8611,6 +8614,8 @@ sSDun
 swp
 sumando
 significa
+sumar
+separar
 interval
 importancia
 incorrecto
@@ -9880,6 +9885,7 @@ uvd
 umo
 ubO
 util
+usable
 hora
 hacemos
 hacia
@@ -27567,6 +27573,7 @@ NTr
 Ndq
 NzI
 NDd
+Normalmente
 Xr
 XObject
 Xw
