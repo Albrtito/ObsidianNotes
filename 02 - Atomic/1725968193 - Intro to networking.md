@@ -19,20 +19,15 @@ The following definitions are key concepts we’ll keep on seeing during the net
 
 
 > [!NOTE] Protocol:
-> Protocols define format, order and actions taken during transmission/receipt of messages among network entities.
+> Controls how messages are sent, recieved and transported.
 
 ## Two different points of view:
-We can see the internet as 
-### A service description: 
-As developers we won’t care about the whole structure and technicalities associated with it. We work with the services that use the web.
-The web is **an infrastructure providing services to apps**. 
-We differentiate between two types of apps: 
-+ **Distributed apps:** Those that need the internet to work 
-+ **Local apps:** Those that can run without the web
-	+ f.e: The calculator
-
-When developing an app we’ll have to choose the internet service that best suits us. (More about this on Internet service note)
-
++ We can see the internet from a **nuts and bolts** view, focusing on the hardware, protocols, standarts,etc…
++ The internet can also be described from a service view. An **infrastructure that provides interfaces to apps**. These apps can be:
+	+ **Distributed apps:** Those that need the internet to work 
+	+ **Local apps:** Those that can run without the web
+	 > f.e: The calculator
+	 
 ## Fisionomía of the internet 
 
 > [!NOTE] Host 
