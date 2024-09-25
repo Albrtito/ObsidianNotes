@@ -31,7 +31,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Net_Biblio_Kurose.pdf",
+                "file": "02 - Atomic/1727255580 - Loss and delay in Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Net_Biblio_Kurose.pdf",
+                "file": "02 - Atomic/1727255580 - Loss and delay in Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Net_Biblio_Kurose.pdf",
+                "file": "02 - Atomic/1727255580 - Loss and delay in Networks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Net_Biblio_Kurose.pdf"
+                "file": "02 - Atomic/1727255580 - Loss and delay in Networks.md"
               }
             }
           }
@@ -280,8 +279,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "335cb437fed30867",
+  "active": "fcbcd17444f63270",
   "lastOpenFiles": [
+    "00.References/Net_Biblio_Kurose.pdf",
     "00.References/Net_References_s1_2.pdf",
     "02 - Atomic/1727255580 - Loss and delay in Networks.md",
     "01.Areas/1.UC3M/Networks.md",
@@ -298,7 +298,6 @@
     "Untitled",
     "02 - Atomic/1725968193 - Intro to networking.md",
     "01.Areas/1.UC3M/Cripto.md",
-    "00.References/Net_Biblio_Kurose.pdf",
     "99 - Meta/0. Attachments/Cripto.png",
     "02 - Atomic/1727112501 - Practica - Análisis MAPFRE.md",
     "01.Areas/1.UC3M/Empresa.md",

@@ -42,7 +42,7 @@ Traffic intensity gives the measure of **how intense the trafic is.**
   + Near to zero: If there is a ton of bandwith and little packages
   + Near to 1: Same bandwith and packets sent. (lots of delay)
   + Greater than one: Infinite delay. We cannot do anything with this.
-+ 
+
 #### Transmission delay:
 Is defined as: 
 $$
