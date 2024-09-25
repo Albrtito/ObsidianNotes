@@ -1878,6 +1878,7 @@ developing
 desktop
 desglose
 dicha
+dates
 modelos
 modelo
 maximizar
@@ -3903,6 +3904,7 @@ png
 presentas
 palabras
 podamos
+prepararse
 lineal
 la
 lo
@@ -10931,6 +10933,11 @@ nombre
 nacimiento
 nacionalidad
 nalas
+nJAN
+nFEB
+nSEP
+nOCT
+nNOV
 Identificar
 Intro
 Identificaci
@@ -19046,6 +19053,7 @@ MGM
 Myb
 Mas
 Meta
+Main
 Zivkovic
 Zo
 Zi
