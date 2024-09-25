@@ -11053,6 +11053,7 @@ EwbJJ
 EbK
 ENg
 Ejemplo
+Escuela
 vital
 variables
 vez
@@ -19525,6 +19526,8 @@ PDq
 PVf
 PHr
 Pasar
+Polit
+Planta
 Biblio
 BitsPerComponent
 BI
@@ -20058,6 +20061,7 @@ ByXiJ
 Bnf
 BoldMT
 BrF
+Bib
 Steven
 Skiena
 Serie
@@ -20689,6 +20693,7 @@ SAT
 SUT
 SIMPLEX
 Seguir
+Sala
 Manual
 Modelar
 Millones
@@ -22988,6 +22993,7 @@ bpH
 bNN
 bWGq
 bamos
+biblio
 Util
 Una
 UniZumo
@@ -32078,6 +32084,7 @@ KlBX
 KsntZ
 Kst
 Kdqq
+KUR
 ÜL
 ÜI
 Ün

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "01.Areas/1.UC3M/Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "01.Areas/1.UC3M/Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "01.Areas/1.UC3M/Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "01.Areas/1.UC3M/Networks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727270270 - Method - SIMPLEX.md"
+                "file": "01.Areas/1.UC3M/Networks.md"
               }
             }
           }
@@ -316,11 +315,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "713aef7e6011cc57",
+  "active": "fcbcd17444f63270",
   "lastOpenFiles": [
-    "02 - Atomic/1727270366 - Forma estandar.md",
-    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+    "00.References/Redes_Biblio_Kurose.pdf",
     "02 - Atomic/1726759457 - Programación Lineal.md",
+    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+    "02 - Atomic/1727270366 - Forma estandar.md",
     "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
     "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
     "02 - Atomic/1727270318 - Forma canónica.md",
@@ -329,7 +329,6 @@
     "02 - Atomic/1725968193 - Intro to networking.md",
     "01.Areas/1.UC3M/Networks.md",
     "00.References/Net_Biblio_Kurose.pdf",
-    "00.References/Redes_Biblio_Kurose.pdf",
     "02 - Atomic/1727255580 - Loss and delay in Networks.md",
     "00.References/Net_References_s1_2.pdf",
     "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
@@ -359,7 +358,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-09-24 at 1.35.21 PM.png",
     "02 - Atomic/1727177356 - Method - Checksum.md",
     "02 - Atomic/1726572508 - The network stack.md",
-    "02 - Atomic/20240519 - 212331 - Integer arithmetic.md",
     "00.References/Net_Resources_s3_1.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-09-23 at 5.34.01 PM.png",
     "00.References/DiffCalc_Theory_ODEs.pdf",
