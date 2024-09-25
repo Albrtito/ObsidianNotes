@@ -5194,6 +5194,7 @@ tiles
 telef
 tulos
 tono
+trip
 review
 resolver
 realizar
@@ -5819,6 +5820,8 @@ revisiones
 reformulaci
 relajes
 realistas
+router
+round
 References
 Resoluci
 Rectas
@@ -9406,6 +9409,7 @@ har
 habla
 habido
 hojas
+happens
 Es
 Este
 Ejemplos
@@ -12710,6 +12714,7 @@ fund
 fase
 familiares
 fondo
+full
 objetivo
 obtener
 of
@@ -13815,6 +13820,7 @@ qbKz
 qIY
 quitarte
 querer
+queue
 Algorith
 Algorithm
 All
@@ -16480,6 +16486,7 @@ Therefore
 TIENE
 Tiene
 Temas
+Transmission
 grafo
 guardan
 global
@@ -17612,6 +17619,8 @@ Pregutnas
 Puntos
 Puntualidad
 Proceso
+Processing
+Propagation
 Biblio
 BitsPerComponent
 BI
@@ -18632,6 +18641,7 @@ Sonrisa
 Suelen
 Sino
 Sonrisas
+Sources
 Manual
 Modelar
 Millones
@@ -21748,6 +21758,7 @@ Qnw
 Qkf
 QGl
 QVq
+Queueing
 Obtener
 Opti
 Objetivo
@@ -24842,6 +24853,7 @@ Nice
 Negative
 Nowadays
 Nombre
+Nodal
 Xr
 XObject
 Xw
