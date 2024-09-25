@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "335cb437fed30867",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Net_References_s1_1.pdf"
               }
             }
           }
@@ -140,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md"
+                "file": "02 - Atomic/1726759457 - Programación Lineal.md"
               }
             }
           }
@@ -281,12 +271,12 @@
   },
   "active": "fcbcd17444f63270",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Heurística y Opti.md",
+    "00.References/Net_References_s1_1.pdf",
     "02 - Atomic/1725968193 - Intro to networking.md",
     "01.Areas/1.UC3M/Networks.md",
-    "00.References/Net_References_s1_1.pdf",
     "00.References/Net_Biblio_Kurose.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
-    "01.Areas/1.UC3M/Heurística y Opti.md",
     "02 - Atomic/1727255580 - Loss and delay in Networks.md",
     "00.References/Net_References_s1_2.pdf",
     "02 - Atomic/1727187698 - Method - RDT With bit errors.md",

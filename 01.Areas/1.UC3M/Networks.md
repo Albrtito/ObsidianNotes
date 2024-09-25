@@ -34,6 +34,8 @@ aliases:
 ### Básica: 
 
 - KUROSE, JAMES F., Keith W. Ross. . Redes de Computadoras, un enfoque descendente. Octava edición.. Pearson. 2022
+	- Referencia biblio: Bib. Escuela Politécnica   Planta 1ª. Sala   L/S 004.7 KUR
+
 + [[Redes_Biblio_Kurose.pdf]]
 + [[Net_Biblio_Kurose.pdf]]
 + Copies in library

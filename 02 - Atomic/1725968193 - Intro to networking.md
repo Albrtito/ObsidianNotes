@@ -11,10 +11,17 @@ sr-interval: 2
 sr-ease: 230
 ---
 # Intro to networking
-## What is a/the net?
-When we talk about the internet we are just describing a net of connected devices, nothing more. To have a connection we only need two **devices**, a data **transmission method** and a **medium** to do it in. 
+When we talk about the internet we are just describing a **net of connected devices**, nothing more. To have a connection we only need two **devices**, a data **transmission method** and a **medium** to do it in. 
 
-**The telephone net:** A basic example is the telephone network where there each phone(device) is connected through a copper wire (medium) and sends electric signals to other phones (transmission method)
+>**The telephone net:** A basic example is the telephone network where there each phone(device) is connected through a copper wire (medium) and sends electric signals to other phones (transmission method)
+
+The following definitions are key concepts we’ll keep on seeing during the networking course.
+
+
+> [!NOTE] Protocol:
+> Protocols define format, order and actions taken during transmission/receipt of messages among network entities.
+
+
 ### A service description: 
 As developers we won’t care about the whole structure and technicalities associated with it. We work with the services that use the web.
 The web is **an infrastructure providing services to apps**. 
@@ -24,6 +31,7 @@ We differentiate between two types of apps:
 	+ f.e: The calculator
 
 When developing an app we’ll have to choose the internet service that best suits us. (More about this on Internet service note)
+
 ## Fisionomía of the internet 
 
 > [!NOTE] Host 

@@ -78,4 +78,3 @@ Los ejercicios de programación lineal se resuelven a trozos:
 1. Primero se debe de [[1726759568 - Creación de modelos en programación lineal|crear un modelo]] que contenga la función objetivo, restriciones y variables. 
 2. Una vez creado el modelo debemos de aplicar un método para resolverlo. 
 	+ [[1726835656 - Method - Resolución gráfica de modelos lineales|Method - Resolución gráfica de modelos lineales]]
-	+ 

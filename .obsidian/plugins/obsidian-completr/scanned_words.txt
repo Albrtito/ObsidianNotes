@@ -1385,6 +1385,7 @@ CDI
 CAZ
 CQO
 Cvz
+Cambiar
 de
 due
 dar
@@ -2834,6 +2835,7 @@ mzW
 mis
 mOt
 mxV
+multiplicar
 en
 ease
 es
@@ -6428,6 +6430,9 @@ rlFKU
 rnm
 rtt
 ryD
+restando
+restringida
+restringidas
 References
 Resoluci
 Rectas
@@ -7875,6 +7880,7 @@ clug
 cjMF
 cMeCoEKw
 cPo
+convertir
 sr
 se
 subproblemas
@@ -8587,6 +8593,7 @@ sSA
 sND
 sSDun
 swp
+sumando
 interval
 importancia
 incorrecto
@@ -9275,6 +9282,7 @@ iqG
 iZI
 iJU
 ilO
+igualdad
 un
 una
 utiliza
@@ -12201,6 +12209,7 @@ nwDm
 nJwO
 nmx
 nRYf
+negativas
 Identificar
 Intro
 Identificaci
@@ -21264,6 +21273,7 @@ MZB
 MAV
 MxCR
 MpZ
+MINIMIZAR
 Zivkovic
 Zo
 Zi
