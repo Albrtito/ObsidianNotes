@@ -10,6 +10,7 @@ Dudas en: orientacionyempleo@fund.uc3m.es
 + Durante todo el año se hacen revisiones de curriculums
 + Durante todo el año se hacen asesoramientos para entrevistas de trabajo.
 
+
 ## Antes de la entrevista:
 + El curriculum en papel
 	+ Si se ponen valores personales acompañarlos de un ejemplo
@@ -68,4 +69,9 @@ Recordar la entrevista para ver en que podríamos mejorar, que momentos difícil
 
 ## Etrevistas de forempleo: 
 Suelen ser entrevistas de **panel**, esto quiere decir que hay más de un entrevistador, normalmnente cada uno de los entrevistadores perteneces a un departamento.
++ Solo se puede subir un curriculum (en QR). Hacer que tenga dos hojas, en una ponerlo en ingles y en la otra en español.
++ Los encuentros con empresas: Exposición de la empresa y saber como es su proceso de selección
++ Proceso de selección: Lo dice el propio nombre.
+	+ Dependiendo de la empresa, los procesos de selección varían. 
+
 ***
