@@ -678,6 +678,9 @@ acP
 average
 arrival
 act
+arriving
+analise
+after
 Creaci
 Crear
 Cuando
@@ -1966,6 +1969,7 @@ dxV
 dtkS
 dhiJ
 determine
+delays
 modelos
 modelo
 maximizar
@@ -4073,6 +4077,8 @@ pXY
 phu
 pipe
 pipes
+processing
+point
 lineal
 la
 lo
@@ -4686,6 +4692,9 @@ lzJ
 length
 little
 lots
+look
+lengh
+lenght
 tags
 tres
 todos
@@ -5340,6 +5349,11 @@ ton
 than
 transfered
 throughput
+transmitted
+transmitt
+takes
+trasmission
+traffic
 review
 resolver
 realizar
@@ -5985,6 +5999,7 @@ rwr
 rEz
 rrJK
 rate
+rates
 References
 Resoluci
 Rectas
@@ -7998,6 +8013,12 @@ spXV
 spE
 sGcl
 shared
+save
+stages
+sources
+stays
+salen
+speed
 interval
 importancia
 incorrecto
@@ -11367,6 +11388,7 @@ nlO
 nTRX
 nkCyAjT
 nNVfzZJr
+nodal
 Identificar
 Intro
 Identificaci
@@ -12503,6 +12525,7 @@ DvE
 DAAAAA
 DKf
 DEcQ
+Delay
 funci
 fibonacci
 fica
@@ -13689,6 +13712,7 @@ oVG
 opjq
 oQQl
 out
+obtained
 que
 queremos
 qD
@@ -14814,6 +14838,7 @@ Alj
 AsX
 AKh
 Average
+Analisis
 Floyd
 Foundations
 Funci
@@ -18141,6 +18166,7 @@ Pwjo
 PYj
 PVs
 Packet
+Processiong
 Biblio
 BitsPerComponent
 BI
@@ -20801,6 +20827,7 @@ LDp
 LZY
 LGs
 LNIbS
+Lenght
 bottom
 base
 brik
@@ -27632,6 +27659,7 @@ jfp
 jfe
 jZw
 jrO
+journey
 wA
 wo
 wpMuB

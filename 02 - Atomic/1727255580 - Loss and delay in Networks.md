@@ -11,33 +11,54 @@ cssclasses:
 When packets are transmitted through the internet they go through different links, routers or switches. **This routers save the packages arriving in a queue and transmitt the first package of the queue to the next link.** 
 
 In order to analise the delays and losses that can appear in this network we’ll look at four stages of the packet journey in the router:
-+ **Processiong**: Checking errors and recieving package
-+ **Queueing delay:** The time it stays at the queue. 
-+ **Transmission:** The time it takes to send the actual package
+## Nodal processing:
+> [!NOTE] Delay sources: 
+> + **Processiong**: Checking errors and recieving package
+> + **Queueing delay:** The time it stays at the queue. 
+> + **Transmission:** The time it takes to send the actual package to the next link
+> + **Propagation:** The time it takes to arrive to the next link. 
 
-## Sources of packet delay: 
-1. **Processing:**
-2. **Queueing:**
-3. **Transmission:**
-4. **Propagation:** RTT. Time to do a round trip. 
+This way, **for each connection point** we’ll need to take into account the delay of this four sources.
+This whole sum is called **nodal processing**. 
 
-## Nodal delay:
+### Nodal delay:
+The delay obtained for each link after the sum of all delays.
 $$
 d_{nodal} = d_{proc} + d_{queue} + d_{trans} + d_{prop}
 $$
-The whole delay is based on the delay genreated by the four types of delay:
-+ **Queueing delay:** 
-  R : Link bandwitdth (bps)
-  L: Packet length (bits)
-  a : average packet arrival rate (pck/s)
-  $$ \text{traffic intensity } = {La\over R}$$
-  Traffic intensity gives the measure of how intense the trafic is. 
+#### Queueing delay:
+$$ \text{traffic intensity } = {La\over R}$$
++ R : Link bandwitdth (bps)
++ L: Packet length (bits)
++ a : average packet arrival rate (pck/s)
+
+> **namely:** Los que entran por los que salen.Relación entre rates de salida y entrada.
+
+Traffic intensity gives the measure of **how intense the trafic is.** 
   + La → bits comming in
   + R → bits going out
+##### Analisis of the traffic intensity:
   Traffic intensity can be either: 
   + Near to zero: If there is a ton of bandwith and little packages
   + Near to 1: Same bandwith and packets sent. (lots of delay)
   + Greater than one: Infinite delay. We cannot do anything with this.
++ 
+#### Transmission delay:
+Is defined as: 
+$$
+d_{trans} = L/R
+$$
++ L: Packet lengh
++ R: link trasmission lenght
+
+#### Propagation delay:
+$$
+d_{prop} = d/s
+$$
++ d: Lenght of the physical link
++ s: Propagation speed.
+
+  
 ## Packet loss:
 If the buffer is full, the packet will be dropped. 
 
