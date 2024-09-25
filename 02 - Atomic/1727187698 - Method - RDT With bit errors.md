@@ -3,8 +3,9 @@ aliases:
   - Method - RDT With bit errors
 tags:
   - review
-"References":
-cssclasses:
+  - Networks
+References: 
+cssclasses: 
 sr-due: 2024-09-26
 sr-interval: 2
 sr-ease: 248
