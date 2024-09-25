@@ -737,6 +737,8 @@ aUmS
 axioma
 algebr
 altera
+auxiliares
+among
 Creaci
 Crear
 Cuando
@@ -2115,6 +2117,7 @@ daq
 djdB
 dimensiones
 dibuja
+definitions
 modelos
 modelo
 maximizar
@@ -3601,6 +3604,7 @@ encima
 encuentran
 evitar
 errores
+entities
 programaci
 primer
 paso
@@ -5756,6 +5760,7 @@ transcribir
 tri
 ticamente
 transpuesto
+taken
 review
 resolver
 realizar
@@ -6451,6 +6456,7 @@ restringida
 restringidas
 realizamos
 resuelve
+receipt
 References
 Resoluci
 Rectas
@@ -7900,6 +7906,8 @@ cMeCoEKw
 cPo
 convertir
 cambios
+concepts
+course
 sr
 se
 subproblemas
@@ -8616,6 +8624,7 @@ sumando
 significa
 sumar
 separar
+seeing
 interval
 importancia
 incorrecto
@@ -9309,6 +9318,8 @@ imprescindible
 inequality
 icos
 ico
+iterar
+inicial
 un
 una
 utiliza
@@ -11054,6 +11065,7 @@ EbK
 ENg
 Ejemplo
 Escuela
+Empezamos
 vital
 variables
 vez
@@ -12861,6 +12873,7 @@ IÜ
 ILi
 IAAAAA
 Iqa
+Iteraci
 Definir
 Din
 Design
@@ -14080,6 +14093,7 @@ fEe
 feE
 fNN
 foo
+format
 objetivo
 obtener
 of
@@ -19528,6 +19542,7 @@ PHr
 Pasar
 Polit
 Planta
+Protocol
 Biblio
 BitsPerComponent
 BI
@@ -30933,6 +30948,7 @@ kkh
 kMX
 kYQi
 kNkA
+key
 YUV
 YN
 Yt
