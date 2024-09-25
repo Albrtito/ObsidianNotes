@@ -49,7 +49,7 @@ $$
 d_{trans} = L/R
 $$
 + L: Packet lengh
-+ R: link trasmission lenght
++ R: link trasmission rate
 
 #### Propagation delay:
 $$
