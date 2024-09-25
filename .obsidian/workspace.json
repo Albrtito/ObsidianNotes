@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/Como hacer un buen CV.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -102,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1087c22e61a64185",
@@ -121,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5041847229004,
-    "collapsed": true
+    "width": 489.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -154,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Net_Biblio_Kurose.pdf",
+                "file": "02 - Atomic/Como hacer un buen CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Net_Biblio_Kurose.pdf",
+                "file": "02 - Atomic/Como hacer un buen CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Net_Biblio_Kurose.pdf",
+                "file": "02 - Atomic/Como hacer un buen CV.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Net_Biblio_Kurose.pdf"
+                "file": "02 - Atomic/Como hacer un buen CV.md"
               }
             }
           }
@@ -293,12 +290,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "50e91493dd88f253",
+  "active": "b89f836cb1d8a8cd",
   "lastOpenFiles": [
+    "02 - Atomic/1725968193 - Intro to networking.md",
+    "02 - Atomic/Como hacer un buen CV.md",
     "01.Areas/1.UC3M/Cripto.md",
+    "00.References/Net_Biblio_Kurose.pdf",
     "99 - Meta/0. Attachments/Cripto.png",
     "01.Areas/1.UC3M/Networks.md",
-    "02 - Atomic/1725968193 - Intro to networking.md",
     "02 - Atomic/1727112501 - Practica - Análisis MAPFRE.md",
     "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
@@ -308,7 +307,6 @@
     "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
     "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
     "99 - Meta/0. Attachments/1727187154 - Method - RDT Over reliable channel.png",
-    "00.References/Net_Biblio_Kurose.pdf",
     "00.References/Redes_Biblio_Kurose.pdf",
     "99 - Meta/0. Attachments/1727176650 - Principles of reliable data transfer-1.png",
     "99 - Meta/0. Attachments/1727176650 - Principles of reliable data transfer.png",
@@ -332,7 +330,6 @@
     "02 - Atomic/1726500297 - Plan de Empresa.md",
     "02 - Atomic/1727105121 - Estrategia competitiva de la empresa.md",
     "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
-    "02 - Atomic/1727112468 - - Untitled Suffix.md",
     "99 - Meta/0. Attachments/Screenshot 2024-09-23 at 5.34.01 PM.png",
     "00.References/DiffCalc_Theory_ODEs.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.40.09 PM.png",
