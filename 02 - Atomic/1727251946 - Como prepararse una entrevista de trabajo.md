@@ -25,7 +25,30 @@ cssclasses:
 2. **Revisión del CV:** 
 	1. Por que has estudiado esto, en este sitio, te ha gustado? Cosas destacadas de los estudios
 	2. Idiomas: Se hará parte de la entrevista en ese idioma. O una prueba de idiomas posterior
-	3. Experiencia profesional: 
+	3. Experiencia profesional: Sino se preguntara sobre otras actividades. Que hacías cuando te surgía un problema? Como era tu jefe anterior? → nunca se habla mal de ellos. 
+3. **Datos de otras cosas:** Voluntariado
+
+**Pregutnas típicas:** 
++ Puntos débiles: Hacer reformulación positiva. Como estas solventando lo que te cuesta?
+
+4. **Preguntas del candidato:** Hacer preguntas denota **interés**. Preguntas sobre el puesto, empresa, tareas,etc. **Cual es la siguiente fase del proceso?**
+5. **Despedida:** No te relajes. Sonrisa y agradecimiento.
+
+> [!attention] Recuerda:
+> + Cuidar aspecto físico: Mejor ir vestido neutral, sin que pueda crear juicios.
+> + Puntualidad 
+> + Actitud positiva 
+> + Comunicacion verbal/no verbal
+> + Sin juicios de valor 
+> + Control emocional 
+> + Interes y motivación 
+> + Expectativas realistas
+
+
+## Valoración de la entrevista:
+Recordar la entrevista para ver en que podríamos mejorar, que momentos difíciles ha habido, etc.
++ Revisar que hay datos de contacto y nueva fechas
++ Si al tiempo no hay respuesta **escribir/llamar** a la persona de recursos humanos. 
 
 ## Etrevistas de forempleo: 
 Suelen ser entrevistas de **panel**, esto quiere decir que hay más de un entrevistador, normalmnente cada uno de los entrevistadores perteneces a un departamento.
