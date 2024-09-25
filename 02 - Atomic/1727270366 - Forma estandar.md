@@ -19,8 +19,12 @@ cssclasses:
 
 ## Transformaciones: 
 Para transformar el problema a forma lineal realizamos las siguientes operaciones:
++ Para convertir una función de minimización en otra de maximización **multiplicamos por -1**
+$$
+\min z = c^TX \triangleq \max z' = -c^TX
+$$[^1]
 
-+ Cambiar de signo al vector de recursos es lo mismo que multiplicar por -1. 
++ Cambiar de signo al vector de recursos es lo mismo que multiplicar por -1. Lo que le da la vuelta a la inequality.
 + Para convertir una igualdad en desigualdad debemos de **introducir una variable de holgura** (sumando o restando).
 $$
 \begin{gather}
@@ -33,3 +37,5 @@ $$
 x_i = x'_i − x'_i , x'_i , x ''_i ≥ 0
 $$
 ***
+
+[^1]: El símbolo de igualdad con el triángulo encima significa igual **por definición.** Es matemáticamente un **axioma.**

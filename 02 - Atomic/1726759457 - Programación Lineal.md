@@ -16,7 +16,7 @@ cssclasses:
 > $$
 > Donde: 
 > + z : es el valor a maximizar/minimizar
-> + $c^T$: es el vector de coeficientes
+> + $c^T$: es el vector de coeficientes(racionales), transpuesto para que la multiplicación sea posible.
 > + $x$ : es el vector de variables/incognitas del problema
 >
 >Además, el problema define **restricciones que se aplican a las variables de la función.**
