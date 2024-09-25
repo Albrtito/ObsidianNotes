@@ -8,9 +8,12 @@ References:
 cssclasses:
 ---
 # Loss and delay in Networks
+When packets are transmitted through the internet they go through different links, routers or switches. **This routers save the packages arriving in a queue and transmitt the first package of the queue to the next link.** 
 
-Each router has a queue:
-+ Loss happens when the queue is full.
+In order to analise the delays and losses that can appear in this network we’ll look at four stages of the packet journey in the router:
++ **Processiong**: Checking errors and recieving package
++ **Queueing delay:** The time it stays at the queue. 
++ **Transmission:** The time it takes to send the actual package
 
 ## Sources of packet delay: 
 1. **Processing:**
@@ -42,5 +45,8 @@ If the buffer is full, the packet will be dropped.
 Rate at which bits are transfered. 
 + Instantaneous: A one specific momento
 + Average: Self explanatory.
-
+This rate is given by the conneections between the different points of the network. 
++ The connections act as bottlenecks. The **smaller rate** will determine what the bottleneck is.
+	+ Whatever is the smallest will always be the average throughput.
+	+ Take into account that, if a shared pipe, when divided by the number of connections, is smaller than other pipes. Then this will act as the bottleneck
 ***
