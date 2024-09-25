@@ -21,7 +21,8 @@ The following definitions are key concepts we’ll keep on seeing during the net
 > [!NOTE] Protocol:
 > Protocols define format, order and actions taken during transmission/receipt of messages among network entities.
 
-
+## Two different points of view:
+We can see the internet as 
 ### A service description: 
 As developers we won’t care about the whole structure and technicalities associated with it. We work with the services that use the web.
 The web is **an infrastructure providing services to apps**. 
