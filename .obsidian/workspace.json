@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5041847229004
+    "width": 355.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -142,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/1727251946 - Como prepararse una entrevista de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/1727251946 - Como prepararse una entrevista de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,6 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/1727251946 - Como prepararse una entrevista de trabajo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +253,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/1727251946 - Como prepararse una entrevista de trabajo.md"
+              }
             }
           }
         ]
@@ -276,7 +281,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1087055cabadd75b",
+  "active": "3c430493abc87c6c",
   "lastOpenFiles": [
     "02 - Atomic/1727251946 - Como prepararse una entrevista de trabajo.md",
     "01.Areas/1.UC3M/forempleo.md",

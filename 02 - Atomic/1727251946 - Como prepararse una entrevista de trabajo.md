@@ -45,6 +45,19 @@ cssclasses:
 > + Expectativas realistas
 
 
+> [!warning] Temas prohibidos: 
+> + Temas políticos 
+> + Situación política
+> + Hijos, problemas familiares
+> + Vida privada
+> **Remark:**
+> No nos interesa dar información privdada sin querer.
+
+### Entrevistas en video: 
++ Tener curriculum delante (y documentación)
++ **Vocalizar, tono y volumen adecuado**
++ Buen fondo e iluminación → estado del video
++ Sonrisas y asentimientos → Comunicación no verbal.
 ## Valoración de la entrevista:
 Recordar la entrevista para ver en que podríamos mejorar, que momentos difíciles ha habido, etc.
 + Revisar que hay datos de contacto y nueva fechas
