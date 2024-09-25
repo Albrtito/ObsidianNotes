@@ -6,6 +6,9 @@ References:
 cssclasses:
 ---
 # Como prepararse una entrevista de trabajo
+Dudas en: orientacionyempleo@fund.uc3m.es
++ Durante todo el año se hacen revisiones de curriculums
++ Durante todo el año se hacen asesoramientos para entrevistas de trabajo.
 
 ## Antes de la entrevista:
 + El curriculum en papel
