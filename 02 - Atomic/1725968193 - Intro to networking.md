@@ -15,12 +15,6 @@ When we talk about the internet we are just describing a **net of connected devi
 
 >**The telephone net:** A basic example is the telephone network where there each phone(device) is connected through a copper wire (medium) and sends electric signals to other phones (transmission method)
 
-The following definitions are key concepts we’ll keep on seeing during the networking course.
-
-
-> [!NOTE] Protocol:
-> Controls how messages are sent, recieved and transported.
-
 ## Two different points of view:
 + We can see the internet from a **nuts and bolts** view, focusing on the hardware, protocols, standarts,etc…
 + The internet can also be described from a service view. An **infrastructure that provides interfaces to apps**. These apps can be:
@@ -39,9 +33,13 @@ In order to **connect all the host** to the network we use:
 + [[1726049178 - Definition - Communication links|Communication links]] (the medium part of the net) 
 + [[1726049339 - Definition - Packet switches|Packet switches]] (More about this later)
 
-When a computer sends any data, it **splits it into smaller parts (packets) and adds an explanatory header to each of them**, then this packets are send to the nearest switcher.
+### Packet switching:: 
 
-### Communication between nodes: 
+> [!NOTE] Definition: 
+> Information on the internet is sent by hoping from one host to another until the target host is reached. Messages are not sent whole but broken down into smaller pieces, this process is called **packet switching**.  
+
++ An explanatory header is added to each of this packets
+
 
 > **Remark:** There is a bijection between a net and a graph. Therefore we can use notation such as nodes to refer the host or switches and edges to refer the communication links
 
