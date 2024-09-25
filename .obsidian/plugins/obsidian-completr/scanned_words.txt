@@ -734,6 +734,7 @@ aDatIB
 akwcc
 aYhzh
 aUmS
+axioma
 Creaci
 Crear
 Cuando
@@ -2837,6 +2838,7 @@ mis
 mOt
 mxV
 multiplicar
+mbolo
 en
 ease
 es
@@ -3592,6 +3594,7 @@ eAs
 ebv
 eKW
 existir
+encima
 programaci
 primer
 paso
@@ -5742,6 +5745,10 @@ tqTp
 tFO
 tPVf
 tAR
+transcribir
+tri
+ticamente
+transpuesto
 review
 resolver
 realizar
@@ -8597,6 +8604,7 @@ sND
 sSDun
 swp
 sumando
+significa
 interval
 importancia
 incorrecto
@@ -9287,6 +9295,7 @@ iJU
 ilO
 igualdad
 imprescindible
+inequality
 un
 una
 utiliza
@@ -11621,6 +11630,7 @@ vOJ
 vua
 vKc
 vcw
+vuelta
 no
 nuestras
 ndar
@@ -12215,6 +12225,7 @@ nJwO
 nmx
 nRYf
 negativas
+negativos
 Identificar
 Intro
 Identificaci

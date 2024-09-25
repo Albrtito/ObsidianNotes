@@ -13,6 +13,7 @@ cssclasses:
 > Un problema de programación lineal esta en forma estandar si: 
 >+ Se busca **MAXIMIZAR o MINIMIZAR**
 >+ Las restricciones son de **igualdad**
+>$$Ax = b$$
 >+ Variables → **≥ 0**
 >+ Vector de recursos (b) → **≥ 0** 
 
