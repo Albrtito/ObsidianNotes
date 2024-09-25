@@ -60,9 +60,10 @@ $$
 
   
 ## Packet loss:
-If the buffer is full, the packet will be dropped. 
+If the buffer of the router is full, the packet will be dropped. 
++ Can be fixed by retrasmission from last link, or methods applied in the sender/reciever
 
-## Throughput:
+## Throughput and bottlenecks:
 Rate at which bits are transfered. 
 + Instantaneous: A one specific momento
 + Average: Self explanatory.
