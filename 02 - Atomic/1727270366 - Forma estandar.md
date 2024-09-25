@@ -33,7 +33,7 @@ $$
 \sum_{j=1}^{n}a_{ij}x_j \geq b_i  \triangleq \sum_{j=1}^{n}a_{ij}x_j - s_i = b_i\\
 \end{gather}
 $$
-
+	+ $s_i$ es una **variable más**: Normalmente no pondremos s sino $x_i$ donde i será la siguiente variable usable. 
 
 Si una variable de decisión $x_i$ **puede tomar valores negativos** se pone entonces como la diferencia de dos variables no negativas restringidas: 
 $$

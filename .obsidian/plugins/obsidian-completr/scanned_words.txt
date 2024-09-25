@@ -735,6 +735,8 @@ akwcc
 aYhzh
 aUmS
 axioma
+algebr
+altera
 Creaci
 Crear
 Cuando
@@ -2112,6 +2114,7 @@ dRn
 daq
 djdB
 dimensiones
+dibuja
 modelos
 modelo
 maximizar
@@ -3595,6 +3598,7 @@ ebv
 eKW
 existir
 encima
+encuentran
 programaci
 primer
 paso
@@ -6443,6 +6447,7 @@ restando
 restringida
 restringidas
 realizamos
+resuelve
 References
 Resoluci
 Rectas
@@ -7891,6 +7896,7 @@ cjMF
 cMeCoEKw
 cPo
 convertir
+cambios
 sr
 se
 subproblemas
@@ -9296,6 +9302,8 @@ ilO
 igualdad
 imprescindible
 inequality
+icos
+ico
 un
 una
 utiliza
@@ -11038,6 +11046,7 @@ EGm
 EwbJJ
 EbK
 ENg
+Ejemplo
 vital
 variables
 vez
@@ -13440,6 +13449,7 @@ Dba
 DUO
 DBBm
 DCE
+Dada
 funci
 fibonacci
 fica
@@ -17671,6 +17681,7 @@ HNd
 HYN
 HUS
 HHB
+Hemos
 TODOS
 The
 Trabajo
@@ -19506,6 +19517,7 @@ Pub
 PDq
 PVf
 PHr
+Pasar
 Biblio
 BitsPerComponent
 BI
@@ -20669,6 +20681,7 @@ SrL
 SAT
 SUT
 SIMPLEX
+Seguir
 Manual
 Modelar
 Millones
@@ -22967,6 +22980,7 @@ bZi
 bpH
 bNN
 bWGq
+bamos
 Util
 Una
 UniZumo

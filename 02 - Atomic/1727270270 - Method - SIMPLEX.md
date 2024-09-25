@@ -28,4 +28,32 @@ $$
 > Dada $\max z = C^Tx$,las soluciones, si las hay, están en puntos extremos de F: $Ax = b$ con $x\geq0$. 
 
 
+## Ejemplo práctico: 
+$$
+\begin{gather}
+\max z = 2x_1 - 3x_2\\\\
+\text{Restricciones:}\\
+-x_1 + x_2 \leq 2\\
+x_1 + x_2 \leq 4\\
+x_1 - 2x_2 \leq 1\\
+x\geq 0
+\end{gather}
+$$
+**Método gráfico:**
+Se dibuja cada una de las restricciones y se encuentran los puntos extremos de la región factible. 
+
+**SIMPLEX:**
+1. Pasar el problema a forma estandar: Hemos de sumar variables de holgura para cada una de las restricciones:
+$$
+\begin{\begin{align*}
+~
+\end{align*}}
+\text{Restricciones:}\\
+-x_1 + x_2 + x_3 = 2\\
+x_1 + x_2 + - + x_4 = 4\\
+x_1 - 2x_2 = 1\\
+x\geq 0
+\end{align}
+$$
+
 ***
