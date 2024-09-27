@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#review",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1087c22e61a64185",
@@ -138,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5041847229004,
-    "collapsed": true
+    "width": 489.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -319,12 +319,14 @@
   },
   "active": "fcbcd17444f63270",
   "lastOpenFiles": [
+    "00.References/Net_References_s1_1.pdf",
+    "00.References/Net_References_s1_2.pdf",
+    "00.References/Net_References_s2_1.pdf",
+    "02 - Atomic/1726572508 - The network stack.md",
     "99 - Meta/0. Attachments/1726572508 - The network stack.png",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
     "02 - Atomic/1725968193 - Intro to networking.md",
-    "02 - Atomic/1726572508 - The network stack.md",
-    "00.References/Net_References_s1_1.pdf",
     "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
     "02 - Atomic/1727430724 - Circuit switcing.md",
     "99 - Meta/0. Attachments/1727430724 - Circuit switcing-1.png",
@@ -342,14 +344,12 @@
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
     "02 - Atomic/1727428429 - Definition - UDP.md",
-    "00.References/Net_References_s2_1.pdf",
     "02 - Atomic/1726049888 - Net protocols.md",
     "02 - Atomic/1727429667 - - Untitled Suffix.md",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
     "02 - Atomic/1726825216 - Programación Dinámica.md",
     "01.Areas/1.UC3M/Heurística y Opti.md",
     "02 - Atomic/1727279888 - - Untitled Suffix.md",
-    "00.References/Net_References_s1_2.pdf",
     "02 - Atomic/1727270366 - Forma estandar.md",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/Net_Biblio_Kurose.pdf",
@@ -364,7 +364,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-09-24 at 1.55.20 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-24 at 1.54.39 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-24 at 1.38.16 PM.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-09-24 at 1.35.21 PM.png",
     "00.References/Net_Resources_s3_1.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",

@@ -8361,6 +8361,7 @@ coordinaci
 conlleva
 connecting
 constant
+chunks
 sr
 se
 subproblemas
@@ -15612,6 +15613,7 @@ onl
 oZY
 oalO
 oyjE
+organise
 que
 queremos
 qD
@@ -16919,6 +16921,7 @@ AMBKJG
 ARRQIE
 Aquel
 Accionistas
+Application
 Floyd
 Foundations
 Funci
@@ -21947,6 +21950,7 @@ STT
 Store
 Separaci
 Service
+Split
 Manual
 Modelar
 Millones
@@ -22600,6 +22604,7 @@ MPN
 Mbw
 MGO
 Moving
+Modularization
 Zivkovic
 Zo
 Zi
