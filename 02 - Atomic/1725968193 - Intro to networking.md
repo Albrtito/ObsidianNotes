@@ -37,7 +37,12 @@ Computers communicate between them using [[1726049888 - Net protocols|Net protoc
 Anyone can create a protocol, though most protocols used are public.
 
 ### How’s all connected?
+Nodes need to be connected between them, **connecting everything to everything is not viable**. So we need to hop from one node to another to reach destination. 
+These hops go through a **hierarchy** structure where there are **bigger and smaller tier nodes**. 
 
++ **ISPs:** Internet Service Provider : Connects big networks between them
+	+ There will be some bigger national ISPs, smaller regional ISPs and even smaller acces ISPs
++ **IXP:** Internet Exchange Point: Connects **ISPs** between them
 ## Moving messages:
 Messages are too big to be moved whole through the network. This would mean huge delays and inefficiency. In order to solve this we need to **divide the resources somehow**, this division is called **switching**, there are two types.
 
@@ -48,3 +53,6 @@ So **which one is better?**
 + We can loose packets
 + More users with packets but we **need bandwith to make it smooth**
 + Circuit gives and stable and constant connection with no changes.
+
+***
+Organisation of all of this package traffic and connections is complex, the easiest thing to do is divide it into smaller more maleable parts, this parts are called **layers,** more about them in [[1726572508 - The network stack|The network stack]].

@@ -7,7 +7,13 @@ tags:
 References: 
 cssclasses:
 ---
-# The network stack
+# The network stack: 
+
+> [!NOTE] Why layers? 
+>  In order to organise the whole network. Split the network into smaller chunks of info. → **Modularization**
++ The layers are called an stack **because they are implemented as such:** Last in first out 
+![[1726572508 - The network stack.png]]
+
 From bottom to top, each layer offers a different service.:
 **Physical:** The actual things we can touch → Hardware
 **Link:** Data transfer between **neighboring network elements**
