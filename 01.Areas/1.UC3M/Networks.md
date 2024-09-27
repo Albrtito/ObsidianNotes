@@ -62,5 +62,3 @@ aliases:
 3. Transport layer:
 	+ [[1727176650 - Principles of reliable data transfer|Principles of reliable data transfer]]
 
-
-

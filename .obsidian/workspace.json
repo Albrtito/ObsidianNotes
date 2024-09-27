@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726572508 - The network stack.md",
+                "file": "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,20 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1725968193 - Intro to networking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd590b53e16004c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1727430724 - Circuit switcing.md",
+                "file": "02 - Atomic/1727177356 - Method - Checksum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       },
       {
@@ -59,7 +47,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00.References/Net_References_s1_1.pdf"
+                "file": "00.References/Net_Resources_s3_1.pdf"
               }
             }
           }
@@ -171,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726572508 - The network stack.md",
+                "file": "02 - Atomic/1727177356 - Method - Checksum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726572508 - The network stack.md",
+                "file": "02 - Atomic/1727177356 - Method - Checksum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726572508 - The network stack.md",
+                "file": "02 - Atomic/1727177356 - Method - Checksum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -290,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726572508 - The network stack.md"
+                "file": "02 - Atomic/1727177356 - Method - Checksum.md"
               }
             }
           }
@@ -317,22 +305,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fcbcd17444f63270",
+  "active": "004d3dd7d34c3b10",
   "lastOpenFiles": [
-    "01.Areas/1.UC3M/Networks.md",
-    "02 - Atomic/1726572508 - The network stack.md",
-    "00.References/Net_References_s1_1.pdf",
-    "00.References/Net_References_s1_2.pdf",
-    "00.References/Net_References_s2_1.pdf",
-    "99 - Meta/0. Attachments/1726572508 - The network stack.png",
-    "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
     "02 - Atomic/1725968193 - Intro to networking.md",
+    "00.References/Net_Resources_s3_1.pdf",
+    "02 - Atomic/1727177356 - Method - Checksum.md",
+    "00.References/Net_References_s2_1.pdf",
+    "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
+    "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
+    "02 - Atomic/1726067427 - Tipos de empresas.md",
+    "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
+    "01.Areas/1.UC3M/Networks.md",
+    "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",
+    "00.References/Net_References_s1_1.pdf",
+    "02 - Atomic/1726572508 - The network stack.md",
+    "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+    "00.References/Net_References_s1_2.pdf",
+    "99 - Meta/0. Attachments/1726572508 - The network stack.png",
     "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
     "02 - Atomic/1727430724 - Circuit switcing.md",
     "99 - Meta/0. Attachments/1727430724 - Circuit switcing-1.png",
     "99 - Meta/0. Attachments/1727430724 - Circuit switcing.png",
     "02 - Atomic/1727429966 - Packet switching.md",
-    "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "02 - Atomic/1727255580 - Loss and delay in Networks.md",
     "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
     "02 - Atomic/1726049339 - Definition - Switches.md",
@@ -340,7 +334,6 @@
     "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
     "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
     "02 - Atomic/1727429612 - Definition - TLS.md",
-    "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
     "02 - Atomic/1727428429 - Definition - UDP.md",
@@ -348,23 +341,18 @@
     "02 - Atomic/1727429667 - - Untitled Suffix.md",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
     "02 - Atomic/1726825216 - Programación Dinámica.md",
-    "01.Areas/1.UC3M/Heurística y Opti.md",
-    "02 - Atomic/1727279888 - - Untitled Suffix.md",
-    "02 - Atomic/1727270366 - Forma estandar.md",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/Net_Biblio_Kurose.pdf",
     "www.uc3m.es",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "Untitled",
     "99 - Meta/0. Attachments/Cripto.png",
-    "00.References/Net_References_s3_2.pdf",
     "99 - Meta/0. Attachments/1727187154 - Method - RDT Over reliable channel.png",
     "99 - Meta/0. Attachments/1727176650 - Principles of reliable data transfer-1.png",
     "99 - Meta/0. Attachments/1727176650 - Principles of reliable data transfer.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-24 at 1.55.20 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-24 at 1.54.39 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-24 at 1.38.16 PM.png",
-    "00.References/Net_Resources_s3_1.pdf",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "Differential Calculus.canvas",
