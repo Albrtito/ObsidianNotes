@@ -33,6 +33,8 @@ In order to **connect all the host** to the network we use:
 + [[1726049178 - Definition - Communication links|Communication links]] (the medium part of the net) 
 + [[1726049339 - Definition - Packet switches|Packet switches]] (More about this later)
 
+Computers communicate between them using [[1726049888 - Net protocols|Net protocols]]. These protocols give an **standard way of establishing a communication between two nodes**. 
+Anyone can create a protocol, though most protocols used are public.
 ### Packet switching:: 
 
 > [!NOTE] Definition: 
@@ -40,8 +42,7 @@ In order to **connect all the host** to the network we use:
 
 + An explanatory header is added to each of this packets
 
+This makes the network much quicker as **the links are being used constantly**. 
 
-> **Remark:** There is a bijection between a net and a graph. Therefore we can use notation such as nodes to refer the host or switches and edges to refer the communication links
 
-Computers communicate between them using [[1726049888 - Net protocols|Net protocols]]. These protocols give an **standard way of establishing a communication between two nodes**. 
-Anyone can create a protocol, though most protocols used are public.
+
