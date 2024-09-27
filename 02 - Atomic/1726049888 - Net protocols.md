@@ -19,5 +19,5 @@ When sending packages though the internet computers need to understand one anoth
 > [!NOTE] Definition(Kurose): 
 > A protocol defines the format and the order of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message or other event.
 ## Types:
-+ [[1727428429 - UDP|UDP]]
++ [[1727428429 - Definition - UDP|UDP]]
 + [[TCP]]
