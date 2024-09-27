@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1725968193 - Intro to networking.md",
+                "file": "02 - Atomic/1727430724 - Circuit switcing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727429966 - Packet switching.md",
+                "file": "02 - Atomic/1727430724 - Circuit switcing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       },
       {
@@ -160,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727429966 - Packet switching.md",
+                "file": "02 - Atomic/1727430724 - Circuit switcing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727429966 - Packet switching.md",
+                "file": "02 - Atomic/1727430724 - Circuit switcing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727429966 - Packet switching.md",
+                "file": "02 - Atomic/1727430724 - Circuit switcing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727429966 - Packet switching.md"
+                "file": "02 - Atomic/1727430724 - Circuit switcing.md"
               }
             }
           }
@@ -306,14 +305,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bd590b53e16004c9",
+  "active": "fcbcd17444f63270",
   "lastOpenFiles": [
-    "02 - Atomic/1727255580 - Loss and delay in Networks.md",
     "02 - Atomic/1727429966 - Packet switching.md",
+    "02 - Atomic/1725968193 - Intro to networking.md",
+    "02 - Atomic/1727430724 - Circuit switcing.md",
+    "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+    "02 - Atomic/1727255580 - Loss and delay in Networks.md",
     "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
     "02 - Atomic/1726049339 - Definition - Switches.md",
     "00.References/DiffCalc_Theory_SystemsOfLinearODEs.pdf",
-    "02 - Atomic/1725968193 - Intro to networking.md",
     "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
     "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
     "02 - Atomic/1727429612 - Definition - TLS.md",
@@ -337,9 +338,7 @@
     "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
     "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
-    "02 - Atomic/1727270318 - Forma canónica.md",
     "00.References/Net_Biblio_Kurose.pdf",
-    "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
     "www.uc3m.es",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "Untitled",

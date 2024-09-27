@@ -779,6 +779,8 @@ auO
 ampersand
 aCv
 aEE
+acci
+aparece
 Creaci
 Crear
 Cuando
@@ -1475,6 +1477,7 @@ CIB
 CkJ
 CDG
 CVCVEO
+Circuit
 de
 due
 dar
@@ -2244,6 +2247,8 @@ dfX
 dGq
 djx
 dGl
+dividido
+deshacerse
 modelos
 modelo
 maximizar
@@ -3005,6 +3010,8 @@ mlxfF
 mgi
 mOF
 mXhp
+moved
+mean
 en
 ease
 es
@@ -3808,6 +3815,7 @@ emZ
 ekVS
 ers
 eMn
+exenta
 programaci
 primer
 paso
@@ -4637,6 +4645,8 @@ piH
 pfA
 pcTUP
 performed
+popularidad
+perder
 lineal
 la
 lo
@@ -6091,6 +6101,8 @@ tVzQ
 teH
 twA
 technique
+transmiten
+tienes
 review
 resolver
 realizar
@@ -6817,6 +6829,7 @@ rho
 roT
 rUw
 rDT
+riesgo
 References
 Resoluci
 Rectas
@@ -7453,6 +7466,7 @@ RIbp
 RJs
 RhIC
 Router
+Riesgo
 cssclasses
 correcto
 correcta
@@ -8336,6 +8350,8 @@ cJv
 cBHB
 cRT
 creates
+coordinaci
+conlleva
 sr
 se
 subproblemas
@@ -9087,6 +9103,9 @@ sUC
 spC
 similar
 sended
+separaci
+subsistir
+switcing
 interval
 importancia
 incorrecto
@@ -9823,6 +9842,8 @@ iqfr
 iDp
 iCW
 iNi
+introduces
+inefficiency
 un
 una
 utiliza
@@ -11006,6 +11027,7 @@ hsJ
 hiv
 hNQ
 haU
+huge
 Es
 Este
 Ejemplos
@@ -11681,6 +11703,8 @@ EhF
 EGw
 EESDDU
 Entire
+Especializaci
+Existencia
 vital
 variables
 vez
@@ -14236,6 +14260,8 @@ DTI
 DHL
 DgjBK
 DSDMJI
+Diversificaci
+Directivos
 funci
 fibonacci
 fica
@@ -14886,6 +14912,9 @@ fnx
 fRkOo
 fmoJg
 fKGvs
+fills
+favorece
+fundador
 objetivo
 obtener
 of
@@ -16184,6 +16213,7 @@ qDxKS
 qct
 qGe
 qLT
+quieras
 Algorith
 Algorithm
 All
@@ -16865,6 +16895,8 @@ AFX
 AUAJMI
 AMBKJG
 ARRQIE
+Aquel
+Accionistas
 Floyd
 Foundations
 Funci
@@ -17446,6 +17478,7 @@ FUI
 Fpc
 FTP
 FYSLBO
+Facilidad
 Warshall
 Width
 We
@@ -19333,6 +19366,7 @@ ThK
 TPh
 Tae
 TAB
+Tienes
 grafo
 guardan
 global
@@ -21887,6 +21921,7 @@ SNXc
 SSZgoD
 STT
 Store
+Separaci
 Manual
 Modelar
 Millones
@@ -22539,6 +22574,7 @@ MER
 MPN
 Mbw
 MGO
+Moving
 Zivkovic
 Zo
 Zi
@@ -23687,6 +23723,7 @@ LPs
 Lmb
 LLN
 LhW
+Limitaci
 bottom
 base
 brik
@@ -25522,6 +25559,7 @@ Qrr
 QXVSZS
 QZOTYD
 QBGRYQ
+Queues
 Obtener
 Opti
 Objetivo
