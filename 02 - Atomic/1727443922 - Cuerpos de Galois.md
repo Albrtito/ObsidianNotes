@@ -34,18 +34,22 @@ Al utilizar este polinomio específico, obtendremos básicamente **strings de bi
 **Remark:**
 + Esto lo que va a significar es que realizaremos operaciones binarias utilizando la representación binaria de los polinómios
 #### Suma y resta:
-+ **Suma:** Sumar es equivalente a realizar un **XOR**
++ **Sumar y restar:** Sumar y restar (si, **ambas**) es equivalente a realizar un **XOR**
 $$
 \boxed{
 C = a + b = a_i \oplus b_i}
 $$
+
 #### Multiplicación: 
 Habrá que utilizar el $\mod p(x)$ : 
 $$
 \boxed{C = a\cdot b , C = \sum_{i= 1}^n(a_i\cdot b)xî \mod p(x)}
 $$
 $$
-a_i \cdot 
-$$
+a_i \cdot b = \begin{cases} b - b_{n-1} + ...+ b_0&& si: a_i = 1 \\0&&si : a_i = 0\end{cases}$$
++ $a_i \cdot b$ es un **AND** 
+#### División: 
++ Es lo mismo que **calcular el inverso**
+Aunq en este caso estamos calculando inversos de polinomios, podemos utilizar los mismos métodos que uti
 
 ***
