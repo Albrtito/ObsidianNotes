@@ -35,7 +35,7 @@ Al utilizar este polinomio específico, obtendremos básicamente **strings de bi
 **Remark:**
 + Esto lo que va a significar es que realizaremos operaciones binarias utilizando la representación binaria de los polinómios
 #### Suma y resta:
-+ **Sumar y restar:** Sumar y restar (si, **ambas**) es equivalente a realizar un **XOR**
++ **Sumar y restar:** Sumar y restar (si, **ambas**) es equivalente a realizar un **XOR**[^3]
 $$
 \boxed{
 C = a + b = a_i \oplus b_i}
@@ -57,13 +57,18 @@ Necesitamos saber cual es el indicador de euler del polinomio $p(x)$.
 
 Para ello tenemos que obtener el número de polinomios coprimos. Como es un coeficiente primo y estamos tratando como en binario. Podemos obtener **todos** los polinomios menos el final con la exprsión $2^n - 1$ 
 
-+ El indicador de euler de ul polinomio con coeficiente primo 
++ El indicador de euler de ul polinomio **con coeficiente primo igual a 2** será igual a. 
 $$
 \boxed{\Phi(p(x)) = 2^n - 1}
 $$
 Entonces para calcular el inverso de un polinomio: 
+$$
+\boxed{a^-1 \mod p(x) = a^{2^n -1-1} \mod p(x) = a^{2^n-2} \mod p(x)}
+$$
+
 
 ***
 
 [^1]: [[20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x|Modular arithmetics - Multiplicative inverse of x]]
 [^2]: Cuado hablamos de reducir polinomios, lo que significa es calcular el módulo con respecto a otro polinomio. Igual que reduciríamos (7 mod 2) a (1 mod 2)
+[^3]: La operación XOR se **ha de realizar siempre** **ENTRE DOS SUMANOS**. Hay que operar en grupos de dos. 
