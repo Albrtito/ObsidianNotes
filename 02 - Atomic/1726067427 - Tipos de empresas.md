@@ -34,9 +34,9 @@ Se tienen en cuenta los siguientes aspectos:
 2. **Responsabilidad:** Que responsabilidad se quiere tener respecto a los bienes de la empresa?
 #Duda : Cuando hablamos de bienes de la empresa, lo estamos usando como un sinónimo de capital?
 3. **Fiscalidad:** Impuestos
-4. **Gastos de constitución y mantenimiento:** Las empresas sociales grandes requieren una gestión de gobierno interior para solucionar el problema de agencia
-5. **Flexibilidad:** Quienes forman la empresa? Queremos que esto cambie pronto?
-### Titularidad de los medios de producción:
+4. ==**Gastos de constitución y mantenimiento:** Las empresas sociales grandes requieren una gestión de gobierno interior para solucionar el problema de agencia==
+5. ==**Flexibilidad:** Quienes forman la empresa? Queremos que esto cambie pronto?==
+### ==Titularidad de los medios de producción:==
 Esto se traduce a titularidad del capital total de la empresa. Dividimos empresas en dos grandes grupos.
 + **Privadas**: Aquellas empresas tituladas por conjuntos de ciudadanos. Con poca o nula aportación económica del estado.
 + **Públicas**: Aquellas empresas tituladas por el estado. El capital de la empresa proviene en gran parte del estado. 

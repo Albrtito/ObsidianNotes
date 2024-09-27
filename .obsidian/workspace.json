@@ -6,7 +6,7 @@
       {
         "id": "f3cd2baafda53b50",
         "type": "tabs",
-        "dimension": 56.481481481481474,
+        "dimension": 61.23778501628665,
         "children": [
           {
             "id": "fcbcd17444f63270",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
+                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,15 +27,18 @@
       {
         "id": "c0ed840f92fc3792",
         "type": "tabs",
-        "dimension": 43.51851851851852,
+        "dimension": 38.762214983713356,
         "children": [
           {
             "id": "54919db2dee1e3e5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00.References/Net_Resources_s3_1.pdf"
+                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -148,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
+                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
+                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +186,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
+                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -237,19 +240,26 @@
                         "a": 1,
                         "rgb": 6073814
                       }
+                    },
+                    {
+                      "query": "tag:#Empresa  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16775199
+                      }
                     }
                   ],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
+                  "nodeSizeMultiplier": 2.28391393442623,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
-                  "repelStrength": 13.341859845457,
+                  "repelStrength": 20,
                   "linkStrength": 0.76664002131628,
-                  "linkDistance": 211,
-                  "scale": 0.19137033179160132,
+                  "linkDistance": 500,
+                  "scale": 0.14311194171396152,
                   "close": true
                 }
               }
@@ -267,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726241219 - Definition - Empresas Individuales.md"
+                "file": "02 - Atomic/1726067427 - Tipos de empresas.md"
               }
             }
           }
@@ -275,7 +285,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265
+    "width": 315
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,6 +306,17 @@
   },
   "active": "fcbcd17444f63270",
   "lastOpenFiles": [
+    "02 - Atomic/1727105893 - La función financiera de la empresa.md",
+    "02 - Atomic/1726067427 - Tipos de empresas.md",
+    "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
+    "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+    "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+    "02 - Atomic/1726500297 - Plan de Empresa.md",
+    "00.References/Net_Resources_s3_1.pdf",
+    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
+    "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
+    "02 - Atomic/1725895664 - Naturaleza y de la empresa.md",
+    "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
     "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
     "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
@@ -304,20 +325,15 @@
     "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
     "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
     "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
-    "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
-    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02 - Atomic/1727177356 - Method - Checksum.md",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
-    "00.References/Net_Resources_s3_1.pdf",
     "02 - Atomic/1725968193 - Intro to networking.md",
     "00.References/Net_References_s2_1.pdf",
-    "02 - Atomic/1726067427 - Tipos de empresas.md",
     "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
     "01.Areas/1.UC3M/Networks.md",
     "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",
     "00.References/Net_References_s1_1.pdf",
     "02 - Atomic/1726572508 - The network stack.md",
-    "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "00.References/Net_References_s1_2.pdf",
     "99 - Meta/0. Attachments/1726572508 - The network stack.png",
     "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
@@ -325,13 +341,7 @@
     "99 - Meta/0. Attachments/1727430724 - Circuit switcing-1.png",
     "99 - Meta/0. Attachments/1727430724 - Circuit switcing.png",
     "02 - Atomic/1727429966 - Packet switching.md",
-    "02 - Atomic/1727255580 - Loss and delay in Networks.md",
-    "02 - Atomic/1726049339 - Definition - Switches.md",
     "00.References/DiffCalc_Theory_SystemsOfLinearODEs.pdf",
-    "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
-    "02 - Atomic/1727429612 - Definition - TLS.md",
-    "02 - Atomic/1727428451 - Definition - TCP.md",
-    "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/Net_Biblio_Kurose.pdf",
     "www.uc3m.es",

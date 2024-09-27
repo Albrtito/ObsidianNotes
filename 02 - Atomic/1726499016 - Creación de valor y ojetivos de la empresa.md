@@ -3,6 +3,7 @@ aliases:
   - Creación de valor y objetivos de la empresa
 tags:
   - review
+  - Empresa
 References: 
 cssclasses:
 ---

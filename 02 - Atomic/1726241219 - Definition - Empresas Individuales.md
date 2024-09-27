@@ -7,8 +7,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-09-24
-sr-interval: 8
+sr-due: 2024-10-21
+sr-interval: 24
 sr-ease: 250
 ---
 # Definition - Empresas Individuales
@@ -25,5 +25,5 @@ sr-ease: 250
 ### Problemas:
 1. **Financiación:** La financiación también corre a cuestas del propio empresario. Encontrarla es más complicado.
 2. **Crecimiento:** 
-3. **Responsabilidad ilimitada:** Si el negocio cae el autónomo cae con el
+3. ==**Responsabilidad ilimitada:** Si el negocio cae el autónomo cae con el==
 4. **Supervivencia:** El negocio va unido a la persona. Se va la persona = Se muere el negocio.
