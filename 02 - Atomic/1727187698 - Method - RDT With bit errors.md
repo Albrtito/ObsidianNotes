@@ -104,6 +104,7 @@ The receiver will generate an **ACK package with the sequence number of the last
   Given the delteion of the NAK there can be only two numberings of the package.Alternating betwen those is enought.
 + There is only a need for two flags → **ACK and NAK** (positive/negative acknowledgment)
 **Sender:**
+	#
 	![[Screenshot 2024-09-24 at 1.54.39 PM.png]]
 **Receiver:**
 	![[Screenshot 2024-09-24 at 1.55.20 PM.png]]
