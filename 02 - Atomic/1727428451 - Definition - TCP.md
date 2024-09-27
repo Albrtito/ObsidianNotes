@@ -14,7 +14,7 @@ cssclasses:
 > [!NOTE]  Definition:
 >  TCP is an **internet transport protocol service** that offers **reliable transmission** of data between sender and reciever.
 
-## Properties:
+**Remarks:**
 + **Reliable transport**
 + **Flow control**
 + **Congestion control**

@@ -15,7 +15,7 @@ When we talk about the internet we are just describing a **net of connected devi
 
 >**The telephone net:** A basic example is the telephone network where there each phone(device) is connected through a copper wire (medium) and sends electric signals to other phones (transmission method)
 
-## Two different points of view:
+## Definition: Two different points of view
 + We can see the internet from a **nuts and bolts** view, focusing on the hardware, protocols, standarts,etc…
 + The internet can also be described from a service view. An **infrastructure that provides interfaces to apps**. These apps can be:
 	+ **Distributed apps:** Those that need the internet to work 

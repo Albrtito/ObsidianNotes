@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726049888 - Net protocols.md",
+                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,9 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "381404c4d0641223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1727429612 - Definition - TLS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       },
       {
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727428429 - Definition - UDP.md",
+                "file": "00.References/Net_References_s2_1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727428429 - Definition - UDP.md",
+                "file": "00.References/Net_References_s2_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727428429 - Definition - UDP.md",
+                "file": "00.References/Net_References_s2_1.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727428429 - Definition - UDP.md"
+                "file": "00.References/Net_References_s2_1.pdf"
               }
             }
           }
@@ -319,15 +331,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dfb390b79e823483",
+  "active": "54919db2dee1e3e5",
   "lastOpenFiles": [
+    "02 - Atomic/1725968193 - Intro to networking.md",
+    "02 - Atomic/1726049888 - Net protocols.md",
+    "02 - Atomic/1727429612 - Definition - TLS.md",
+    "02 - Atomic/1727429667 - - Untitled Suffix.md",
     "00.References/Net_References_s2_1.pdf",
     "02 - Atomic/1727428451 - Definition - TCP.md",
-    "02 - Atomic/1726049888 - Net protocols.md",
     "02 - Atomic/1727428429 - Definition - UDP.md",
     "00.References/Net_References_s1_1.pdf",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
-    "02 - Atomic/1725968193 - Intro to networking.md",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1726825216 - Programación Dinámica.md",
     "01.Areas/1.UC3M/Heurística y Opti.md",
@@ -351,7 +365,6 @@
     "www.uc3m.es/orientacionyempleo.md",
     "www.uc3m.es",
     "01.Areas/1.UC3M/Movilidad.md",
-    "02 - Atomic/Como hacer un buen CV.md",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "Untitled",
     "99 - Meta/0. Attachments/Cripto.png",
