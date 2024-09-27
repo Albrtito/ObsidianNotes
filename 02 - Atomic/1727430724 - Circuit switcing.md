@@ -6,6 +6,9 @@ tags:
   - Networks
 References: 
 cssclasses:
+sr-due: 2024-09-30
+sr-interval: 3
+sr-ease: 250
 ---
 # Circuit switcing
 
@@ -15,7 +18,12 @@ cssclasses:
 
 > f.e: This is the case of the telephone network, once one is using a cable, no one else can. 
 
-
-
+## Multiplexing: 
+Allocating resources is not very good for performance, very fast all resources will be allocated and… bankrupcy! Multiplexing kind of solves that. 
+**It triest to fit several users into one single connection**, there are two ways of doing so:
+1. **Frequency division (FDM)** Tranmission on different electromagnetic frequencies
+   ![[1727430724 - Circuit switcing-1.png]]
+2. **Time division multiplexin (TDM):** Slots, quick switching between users with a given pattern. 
+   ![[1727430724 - Circuit switcing.png]]
 
 ***

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727430724 - Circuit switcing.md",
+                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727430724 - Circuit switcing.md",
+                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727430724 - Circuit switcing.md",
+                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727430724 - Circuit switcing.md",
+                "file": "02 - Atomic/1725968193 - Intro to networking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727430724 - Circuit switcing.md"
+                "file": "02 - Atomic/1725968193 - Intro to networking.md"
               }
             }
           }
@@ -307,9 +307,12 @@
   },
   "active": "fcbcd17444f63270",
   "lastOpenFiles": [
+    "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
+    "02 - Atomic/1727430724 - Circuit switcing.md",
+    "99 - Meta/0. Attachments/1727430724 - Circuit switcing-1.png",
+    "99 - Meta/0. Attachments/1727430724 - Circuit switcing.png",
     "02 - Atomic/1727429966 - Packet switching.md",
     "02 - Atomic/1725968193 - Intro to networking.md",
-    "02 - Atomic/1727430724 - Circuit switcing.md",
     "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "02 - Atomic/1727255580 - Loss and delay in Networks.md",
     "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
@@ -336,8 +339,6 @@
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "00.References/Redes_Biblio_Kurose.pdf",
     "02 - Atomic/1726759457 - Programación Lineal.md",
-    "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
-    "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
     "00.References/Net_Biblio_Kurose.pdf",
     "www.uc3m.es",
     "01.Areas/1.UC3M/Movilidad.canvas",
@@ -352,8 +353,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-09-24 at 1.38.16 PM.png",
     "99 - Meta/0. Attachments/Screenshot 2024-09-24 at 1.35.21 PM.png",
     "00.References/Net_Resources_s3_1.pdf",
-    "99 - Meta/0. Attachments/Screenshot 2024-09-23 at 5.34.01 PM.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-09-20 at 12.40.09 PM.png",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "Differential Calculus.canvas",
