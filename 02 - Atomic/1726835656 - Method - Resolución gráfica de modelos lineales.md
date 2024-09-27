@@ -6,8 +6,8 @@ tags:
   - Heuri
 References: 
 cssclasses:
-sr-due: 2024-09-23
-sr-interval: 3
+sr-due: 2024-10-10
+sr-interval: 13
 sr-ease: 250
 ---
 # Method - Resolución gráfica de modelos lineales
@@ -26,4 +26,6 @@ Una vez obtenidas las variables, función y restricciones podemos aplicar la res
 > [!BUG] Problema: 
 > Este método solo es util para casos que podamos representar en 2 o 3 dimensiones. El método estandarizado para n variables es el [[1727270270 - Method - SIMPLEX|Method - SIMPLEX]] 
 
+## Tips: 
++ Siempre que se vea un **max, min**, apuntarlo para que no se pase ninguno. Va a ser siempre o la función beneficio o alguna de las restricciones 
 ***

@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-09-25
-sr-interval: 10
+sr-due: 2024-10-25
+sr-interval: 28
 sr-ease: 250
 ---
 # Teoría económica de la empresa

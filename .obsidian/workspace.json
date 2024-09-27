@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
+                "file": "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
+                "file": "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
+                "file": "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
+                "file": "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md"
+                "file": "02 - Atomic/1726241219 - Definition - Empresas Individuales.md"
               }
             }
           }
@@ -296,6 +296,8 @@
   },
   "active": "fcbcd17444f63270",
   "lastOpenFiles": [
+    "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
+    "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
     "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
@@ -324,14 +326,12 @@
     "99 - Meta/0. Attachments/1727430724 - Circuit switcing.png",
     "02 - Atomic/1727429966 - Packet switching.md",
     "02 - Atomic/1727255580 - Loss and delay in Networks.md",
-    "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
     "02 - Atomic/1726049339 - Definition - Switches.md",
     "00.References/DiffCalc_Theory_SystemsOfLinearODEs.pdf",
     "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
     "02 - Atomic/1727429612 - Definition - TLS.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
-    "02 - Atomic/1727428429 - Definition - UDP.md",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/Net_Biblio_Kurose.pdf",
     "www.uc3m.es",

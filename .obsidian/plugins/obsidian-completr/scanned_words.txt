@@ -1506,6 +1506,7 @@ CalcI
 CONDITION
 Choose
 Chosen
+Crecimiento
 de
 due
 dar
@@ -2302,6 +2303,7 @@ derivada
 derived
 derive
 directly
+decide
 modelos
 modelo
 maximizar
@@ -3073,6 +3075,7 @@ mYY
 mmK
 mantenimiento
 meet
+muere
 en
 ease
 es
@@ -3894,6 +3897,7 @@ equality
 exact
 equalities
 expression
+empresario
 programaci
 primer
 paso
@@ -4746,6 +4750,8 @@ possibilities
 polynomic
 pattern
 partially
+posee
+pagar
 lineal
 la
 lo
@@ -8519,6 +8525,13 @@ constants
 cuadra
 chosen
 complete
+carga
+caen
+cargo
+contratados
+corre
+cuestas
+complicado
 sr
 se
 subproblemas
@@ -10668,6 +10681,7 @@ ubQUh
 uFAf
 uZQ
 uqXL
+unido
 hora
 hacemos
 hacia
@@ -11936,6 +11950,7 @@ EhJ
 ECL
 Ely
 Exact
+Encontrarla
 vital
 variables
 vez
@@ -13227,6 +13242,7 @@ nBow
 nBs
 nula
 necessary
+nomo
 Identificar
 Intro
 Identificaci
@@ -13892,6 +13908,7 @@ ILo
 Impuestos
 Initial
 IVP
+Individuales
 Definir
 Din
 Design
@@ -17211,6 +17228,8 @@ AkS
 AQlVcX
 AyQ
 And
+Aut
+Autonom
 Floyd
 Foundations
 Funci
@@ -19721,6 +19740,8 @@ TYW
 TVc
 Tama
 Titularidad
+Toda
+Totalidad
 grafo
 guardan
 global
@@ -22321,6 +22342,7 @@ Supplement
 Skc
 Sometimes
 Substitutions
+Supervivencia
 Manual
 Modelar
 Millones
