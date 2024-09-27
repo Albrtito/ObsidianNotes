@@ -21,21 +21,38 @@ From bottom to top, each layer offers a different services:
 
 They are **numbered from bottom to top:**
 
-1. **Physical:** The actual things we can touch → Hardware
+1. **Physical:** The actual things we can touch 
+   >Hardware
 
 2. **Link:** Data transfer between **neighboring network elements**
+   > Next connection that needs to be made.
 
-3. **Network:** Joining all the linked devices in the link layer (the glue to actually create the network)
+3. **Network:** Joining all the linked devices in the link layer (the glue to actually create the network).
+   > Where is the connection going? Whole image of the web.
 
-4. **Transport:** Processes talking to each other to transfer data
+4. **Transport:** Processes talking to each other to transfer data. 
+   >How is the info going to be encoded and transported
 
-### Transport layer:
-4. **Transport:** Only exists in the end points/host systems. Adapts the service offered by the network layer to the specific needs os applications. How are we going to send the packages? How are they gonna be transported? → With protocols
-### Application layer:
-1. [[1726574469 - Application layer|Application layer]]:Again, only exists in the endpoint devices. 
+5. [[1726574469 - Application layer|Application layer]]: Supports network applications. 
+   >Decodes the info given by transport.
 
-+ Layers 4 and 5 are only required to be implemented by any device with the need of using application services. 
-+ **Routers:** Implement the first three layers
-+ **Switches:** Implement the first two layers
-+ When traveling through each layer, a **layer header** is added to the message. Each layer adds it’s own layer. (the physical layer does not add a header). 
-	+ The completed message plus all the headers is called a **frame.** 
+### Implementations:
+As previously defined, layers work as an stack. So if a message wants to be sent from the application layer of one host to another. 
++ **Numbering goes with repect to the layer**
+>5. The message is created in the app layer. (Header added)
+>4. The transport layer sees it, breaks it into chunks (Headers added)
+>3. The network layer states the destination (Header added)
+>2. The link layer adds a header
+>1. Message goes through the physical layer.
+
++
+
+At the other end it goes in reverse: 
+
+> 1. Through physical layer
+> 2. Link sees that info is correct (check header)
+> 3. Network checks that he is the correct recipient (check header)
+> 4. Transpor layer decodes (check header)
+> 5. App layer delivers to respective service (check header)
+
+#### Routers and switches:
