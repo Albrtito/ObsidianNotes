@@ -7,9 +7,9 @@ tags:
   - Networks
 References: 
 cssclasses: 
-sr-due: 2024-09-25
+sr-due: 2024-09-28
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 # Method - RDT With errors and loss
 
@@ -35,7 +35,7 @@ Once the package is send a timer starts, when the timer ends, the sender asumes 
 
 
 > [!bug] PROBLEM:
->  If any acknowledgment can appear at any arbitrary time, then the packages would need to be differently numbered, this cannot be implemented. In order to solve this we **asume that packages have a time to live** in the network.
+>  If any acknowledgment can appear at any arbitrary time, then the packages would need to be differently numbered, this cannot be implemented. In order to solve this we **asume that packages have a time to live** in the network. (TTL)
 
 ### Performance problems: 
 This system has performance problems due to the waiting time RTT that the sender needs in order to **wait for the ACK.**

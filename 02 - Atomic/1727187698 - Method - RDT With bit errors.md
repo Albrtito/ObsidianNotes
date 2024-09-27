@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses: 
-sr-due: 2024-09-26
-sr-interval: 2
+sr-due: 2024-10-03
+sr-interval: 6
 sr-ease: 248
 ---
 # Method - RDT With bit errors
@@ -104,7 +104,12 @@ The receiver will generate an **ACK package with the sequence number of the last
   Given the delteion of the NAK there can be only two numberings of the package.Alternating betwen those is enought.
 + There is only a need for two flags → **ACK and NAK** (positive/negative acknowledgment)
 **Sender:**
-	#
+
+> [!Check] Duda: Why 4 states instead of 2?
+> Because we need to distinguish between pck0 and pck1. And send the other one when needed. 
+> Same for reciever. 
+> + In the image they call it call 0/1 from above/below
+
 	![[Screenshot 2024-09-24 at 1.54.39 PM.png]]
 **Receiver:**
 	![[Screenshot 2024-09-24 at 1.55.20 PM.png]]

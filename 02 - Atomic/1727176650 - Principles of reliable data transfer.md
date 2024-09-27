@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-09-26
-sr-interval: 2
+sr-due: 2024-10-04
+sr-interval: 7
 sr-ease: 248
 ---
 # Principles of reliable data transfer.

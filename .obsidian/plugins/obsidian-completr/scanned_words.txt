@@ -788,6 +788,8 @@ aft
 aui
 aspectos
 agencia
+above
+along
 Creaci
 Crear
 Cuando
@@ -1500,6 +1502,10 @@ CourierNew
 Criterios
 Checksum
 Change
+CalcI
+CONDITION
+Choose
+Chosen
 de
 due
 dar
@@ -2285,6 +2291,17 @@ dicos
 detect
 degree
 derivative
+distinguish
+derivatives
+differential
+decompose
+decomposition
+denominator
+degrees
+derivada
+derived
+derive
+directly
 modelos
 modelo
 maximizar
@@ -3872,6 +3889,11 @@ etE
 evz
 eDb
 eTDB
+expressions
+equality
+exact
+equalities
+expression
 programaci
 primer
 paso
@@ -4718,6 +4740,12 @@ publicas
 probability
 proves
 preferred
+partial
+partitioning
+possibilities
+polynomic
+pattern
+partially
 lineal
 la
 lo
@@ -6928,6 +6956,15 @@ rZc
 requieren
 reliability
 rearrange
+represented
+rational
+rewrite
+rots
+restructure
+rationalisation
+repeated
+representing
+rearranged
 References
 Resoluci
 Rectas
@@ -7572,6 +7609,7 @@ RhH
 RXu
 Registry
 RDq
+Rationalise
 cssclasses
 correcto
 correcta
@@ -8476,6 +8514,11 @@ conjuntos
 constituye
 condition
 checked
+conditions
+constants
+cuadra
+chosen
+complete
 sr
 se
 subproblemas
@@ -9248,6 +9291,13 @@ secundario
 substitutions
 substitution
 solvable
+sums
+simpler
+something
+stated
+second
+step
+show
 interval
 importancia
 incorrecto
@@ -9995,6 +10045,11 @@ iZT
 iLS
 iTD
 interior
+independent
+increasing
+integration
+inputted
+implicit
 un
 una
 utiliza
@@ -11880,6 +11935,7 @@ ENUNCIADO
 EhJ
 ECL
 Ely
+Exact
 vital
 variables
 vez
@@ -12524,6 +12580,9 @@ vUjv
 vGy
 virtud
 varies
+value
+values
+variations
 no
 nuestras
 ndar
@@ -13167,6 +13226,7 @@ nfP
 nBow
 nBs
 nula
+necessary
 Identificar
 Intro
 Identificaci
@@ -13830,6 +13890,8 @@ IwF
 ING
 ILo
 Impuestos
+Initial
+IVP
 Definir
 Din
 Design
@@ -15141,6 +15203,9 @@ fbiM
 fhF
 forman
 functions
+find
+fractions
+fraction
 objetivo
 obtener
 of
@@ -15820,6 +15885,8 @@ organise
 oTp
 oaC
 owaLG
+objective
+options
 que
 queremos
 qD
@@ -17143,6 +17210,7 @@ AUD
 AkS
 AQlVcX
 AyQ
+And
 Floyd
 Foundations
 Funci
@@ -17732,6 +17800,7 @@ FkpRC
 Fiscalidad
 Flexibilidad
 Finally
+Fractions
 Warshall
 Width
 We
@@ -18358,6 +18427,7 @@ WIR
 WEo
 WDl
 Wai
+Write
 Heuri
 Hecho
 HyO
@@ -21003,6 +21073,8 @@ PUM
 Primario
 Privadas
 Personalidad
+Partial
+Perform
 Biblio
 BitsPerComponent
 BI
@@ -21568,6 +21640,7 @@ BUVz
 Bgt
 Buu
 BIF
+Both
 Steven
 Skiena
 Serie
@@ -24704,6 +24777,7 @@ bUY
 buT
 blicas
 binary
+below
 Util
 Una
 UniZumo
@@ -25311,6 +25385,7 @@ UCGASP
 UJWQSL
 Ufu
 Uvr
+Use
 QUE
 Que
 QE
@@ -28315,6 +28390,7 @@ VZUKu
 Vngm
 Vvö
 VmR
+Value
 Grupo
 Get
 GWgw
@@ -29625,6 +29701,7 @@ NoF
 NOg
 Namely
 NOTE
+Now
 Xr
 XObject
 Xw
@@ -32595,6 +32672,7 @@ wtX
 wwc
 wNv
 wYP
+write
 kL
 kMZ
 kC
@@ -34412,6 +34490,7 @@ KJL
 KYw
 KRk
 Kva
+Knowing
 ÜL
 ÜI
 Ün

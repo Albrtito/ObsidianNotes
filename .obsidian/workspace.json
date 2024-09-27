@@ -6,6 +6,7 @@
       {
         "id": "f3cd2baafda53b50",
         "type": "tabs",
+        "dimension": 56.481481481481474,
         "children": [
           {
             "id": "fcbcd17444f63270",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
+                "file": "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,6 +27,7 @@
       {
         "id": "c0ed840f92fc3792",
         "type": "tabs",
+        "dimension": 43.51851851851852,
         "children": [
           {
             "id": "54919db2dee1e3e5",
@@ -146,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
+                "file": "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
+                "file": "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
+                "file": "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727187698 - Method - RDT With bit errors.md"
+                "file": "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md"
               }
             }
           }
@@ -294,14 +296,19 @@
   },
   "active": "fcbcd17444f63270",
   "lastOpenFiles": [
+    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+    "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
+    "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
+    "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
+    "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+    "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
+    "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02 - Atomic/1727177356 - Method - Checksum.md",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/Net_Resources_s3_1.pdf",
     "02 - Atomic/1725968193 - Intro to networking.md",
     "00.References/Net_References_s2_1.pdf",
-    "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
-    "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
     "02 - Atomic/1726067427 - Tipos de empresas.md",
     "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
     "01.Areas/1.UC3M/Networks.md",
@@ -320,16 +327,11 @@
     "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
     "02 - Atomic/1726049339 - Definition - Switches.md",
     "00.References/DiffCalc_Theory_SystemsOfLinearODEs.pdf",
-    "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
     "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
     "02 - Atomic/1727429612 - Definition - TLS.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
     "02 - Atomic/1727428429 - Definition - UDP.md",
-    "02 - Atomic/1726049888 - Net protocols.md",
-    "02 - Atomic/1727429667 - - Untitled Suffix.md",
-    "02 - Atomic/1726498694 - Definition - Criptografía.md",
-    "02 - Atomic/1726825216 - Programación Dinámica.md",
     "00.References/Redes_Biblio_Kurose.pdf",
     "00.References/Net_Biblio_Kurose.pdf",
     "www.uc3m.es",
