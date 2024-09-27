@@ -7,9 +7,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-09-27
-sr-interval: 8
-sr-ease: 250
+sr-due: 2024-10-01
+sr-interval: 4
+sr-ease: 230
 ---
 # Criptografía:
 La definición moderna de criptografía incluye los tres objetivos de la seguridad informática ya [[1726234693 - Intro a la seguridad informática|mencionados]]: **Confidencialidad, Integridad y aviabilidad**
