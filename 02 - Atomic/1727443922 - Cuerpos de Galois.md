@@ -29,7 +29,8 @@ Al utilizar este polinomio específico, obtendremos básicamente **strings de bi
 
 > [!quote] Recuerda: 
 > Como estamos en un cuerpo con módulo 2 todas las operaciones se hacen acorde. 
-> 
+
++ Al terminar las operaciones siempre hemos de **reducir** los polinomios[^2]
 
 **Remark:**
 + Esto lo que va a significar es que realizaremos operaciones binarias utilizando la representación binaria de los polinómios
@@ -50,6 +51,19 @@ a_i \cdot b = \begin{cases} b - b_{n-1} + ...+ b_0&& si: a_i = 1 \\0&&si : a_i =
 + $a_i \cdot b$ es un **AND** 
 #### División: 
 + Es lo mismo que **calcular el inverso**
-Aunq en este caso estamos calculando inversos de polinomios, podemos utilizar los mismos métodos que uti
+Aunq en este caso estamos calculando inversos de polinomios, podemos utilizar los mismos métodos que utilizábamos para cualquier x.[^1]
+
+Necesitamos saber cual es el indicador de euler del polinomio $p(x)$. 
+
+Para ello tenemos que obtener el número de polinomios coprimos. Como es un coeficiente primo y estamos tratando como en binario. Podemos obtener **todos** los polinomios menos el final con la exprsión $2^n - 1$ 
+
++ El indicador de euler de ul polinomio con coeficiente primo 
+$$
+\boxed{\Phi(p(x)) = 2^n - 1}
+$$
+Entonces para calcular el inverso de un polinomio: 
 
 ***
+
+[^1]: [[20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x|Modular arithmetics - Multiplicative inverse of x]]
+[^2]: Cuado hablamos de reducir polinomios, lo que significa es calcular el módulo con respecto a otro polinomio. Igual que reduciríamos (7 mod 2) a (1 mod 2)
