@@ -28,4 +28,5 @@ Una vez obtenidas las variables, función y restricciones podemos aplicar la res
 
 ## Tips: 
 + Siempre que se vea un **max, min**, apuntarlo para que no se pase ninguno. Va a ser siempre o la función beneficio o alguna de las restricciones 
+> p.e: Si la región no esta completamente acotada(en resolución gráfica) puede ser por esto. 
 ***

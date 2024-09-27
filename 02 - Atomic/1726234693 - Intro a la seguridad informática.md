@@ -6,8 +6,8 @@ tags:
   - Cripto
 References: https://aulaglobal.uc3m.es/pluginfile.php/7291371/mod_resource/content/1/M1_Intro_Ciber_Cifrado_2425.pdf
 cssclasses:
-sr-due: 2024-09-20
-sr-interval: 1
+sr-due: 2024-10-06
+sr-interval: 9
 sr-ease: 210
 ---
 # Intro a la seguridad informática.
@@ -15,7 +15,7 @@ sr-ease: 210
 ## Objetivos de seguridad:
 Los objetivos de seguridad se dividen en lo que llamamos la **triada CIA**: (CIA Triad)
 ![[Screenshot 2024-09-16 at 3.12.04 PM.png]]
-
++ ==Confidencialidad==
 **Remarks:**
  + Estos objetivos se han de cumplir en cualquier proyecto
 + El objetivo se satisface a través de servicios. A su vez, el servicio cumple con la implementación de un mecanismo.
@@ -35,7 +35,7 @@ Según cuando se utilizan las medidas de protección, las dividimos en tres grup
 + **Detección**: Medidas para detectar el ataque **cuando esta ocurriendo**
 + **Respuesta**: Medidas de actuación en caso de ataque.
 
-**Según el tipo:**
+==**Según el tipo:**==
 + Medidas **físicas**: Hay que **proteger el hardware** ademas del software. 
 + **Técnicas**: **Cifrados**
 + **Administrativas**: 

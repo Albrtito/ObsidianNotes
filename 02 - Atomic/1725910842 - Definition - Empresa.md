@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-09-26
-sr-interval: 7
+sr-due: 2024-10-12
+sr-interval: 15
 sr-ease: 230
 ---
 # Definition - Empresa
@@ -17,7 +17,7 @@ sr-ease: 230
 **Inputs:**
 + Capital: Todo aquello en lo que ha **invertido** la empresa (f.e: maquinaria)
 + Trabajo
-+ Materia prima: 
++ ==Materia prima:== 
 
 **Outputs:** → Tienen valor económico
 + Bienes: Lo tangible

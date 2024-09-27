@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-09-17
-sr-interval: 1
-sr-ease: 210
+sr-due: 2024-09-29
+sr-interval: 2
+sr-ease: 190
 ---
 # Tipos de empresas
 Podemos dividir los tipos de empresa según: 

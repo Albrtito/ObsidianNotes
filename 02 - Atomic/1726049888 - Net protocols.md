@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-09-14
-sr-interval: 3
+sr-due: 2024-10-20
+sr-interval: 23
 sr-ease: 250
 ---
 # Net protocols
@@ -17,7 +17,7 @@ When sending packages though the internet computers need to understand one anoth
 + Most protocols are public (TCP,IP) although anyone can develop a private protocol.
 
 > [!NOTE] Definition(Kurose): 
-> A protocol defines the format and the order of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message or other event.
+> A protocol defines the ==format and the order== of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message or other event.
 ## Types based layer:
 The internet is constructed as a layered architecture. For each of it’s layers there are several different protocols. 
 ### Transport protocols:

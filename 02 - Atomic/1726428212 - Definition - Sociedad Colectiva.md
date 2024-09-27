@@ -7,9 +7,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-09-24
-sr-interval: 5
-sr-ease: 248
+sr-due: 2024-10-24
+sr-interval: 27
+sr-ease: 268
 ---
 # Definition - Sociedad Colectiva
 
