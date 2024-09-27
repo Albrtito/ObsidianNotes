@@ -6,7 +6,7 @@
       {
         "id": "f3cd2baafda53b50",
         "type": "tabs",
-        "dimension": 61.23778501628665,
+        "dimension": 44.4141689373297,
         "children": [
           {
             "id": "fcbcd17444f63270",
@@ -33,15 +33,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "260f6e2c2a7492ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       },
       {
         "id": "c0ed840f92fc3792",
         "type": "tabs",
-        "dimension": 38.762214983713356,
+        "dimension": 55.5858310626703,
         "children": [
           {
             "id": "54919db2dee1e3e5",
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
+                "file": "02 - Atomic/1727443922 - Cuerpos de Galois.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
+                "file": "02 - Atomic/1727443922 - Cuerpos de Galois.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
+                "file": "02 - Atomic/1727443922 - Cuerpos de Galois.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md"
+                "file": "02 - Atomic/1727443922 - Cuerpos de Galois.md"
               }
             }
           }
@@ -300,7 +312,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 230
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,11 +331,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9d1891df5d7c9cce",
+  "active": "54919db2dee1e3e5",
   "lastOpenFiles": [
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
-    "01.Areas/1.UC3M/Cripto.md",
+    "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
+    "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
     "02 - Atomic/1727443922 - Cuerpos de Galois.md",
+    "01.Areas/1.UC3M/Cripto.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
     "02 - Atomic/1727443896 - Título.md",
     "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
@@ -346,8 +360,6 @@
     "02 - Atomic/1725895664 - Naturaleza y de la empresa.md",
     "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
     "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
-    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
-    "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/Net_References_s2_1.pdf",
     "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",
