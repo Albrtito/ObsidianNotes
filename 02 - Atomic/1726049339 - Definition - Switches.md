@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Definition - Packet switches
+  - Definition - Switches
   - Switches
   - Packet switches
 tags:
@@ -8,8 +8,11 @@ tags:
   - Networks
 References: 
 cssclasses:
+sr-due: 2024-09-28
+sr-interval: 1
+sr-ease: 230
 ---
-# Packet switches
+# Switches
 
 > [!NOTE] Definition: 
 > Packet switches forward incoming packets towards the next link in the net so that the package may arrive at it’s ultimate destination 

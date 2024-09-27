@@ -7,6 +7,9 @@ tags:
   - Networks
 References: 
 cssclasses:
+sr-due: 2024-09-30
+sr-interval: 3
+sr-ease: 250
 ---
 # UDP
 
@@ -16,7 +19,5 @@ cssclasses:
 **Remarks:**
  + UDP exist because it needs much less memory than TCP and requires less time to send the packages. 
  + It does not provide anything else than the data transfer by itself. Everything must be **developed in the application layer**. 
-
-
 
 ***

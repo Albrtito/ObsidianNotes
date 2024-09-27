@@ -7,6 +7,9 @@ tags:
   - Networks
 References: 
 cssclasses:
+sr-due: 2024-09-28
+sr-interval: 1
+sr-ease: 230
 ---
 # TCP
 #Duda: Differencia entre internet transport protocol and internet transport protocol service.
@@ -16,13 +19,11 @@ cssclasses:
 
 **Remarks:**
 + **Reliable transport**
-+ **Flow control**
-+ **Congestion control**
++ **Flow and congestion control**
 + **NO** 
 	+ timing
 	+ security 
-	+ minimum 
-	+ throguhput
+	+ minimum throguhput
 + Requires for the server and the client to **set up the connection** (Three-way handshake)
 
 ***

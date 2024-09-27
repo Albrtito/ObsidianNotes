@@ -6,8 +6,8 @@ tags:
   - Networks
 References: "[[Net_Biblio_Kurose.pdf#page=28]]"
 cssclasses:
-sr-due: 2024-09-17
-sr-interval: 2
+sr-due: 2024-10-13
+sr-interval: 16
 sr-ease: 230
 ---
 # Intro to networking
@@ -31,18 +31,9 @@ When we talk about the internet we are just describing a **net of connected devi
 
 In order to **connect all the host** to the network we use: 
 + [[1726049178 - Definition - Communication links|Communication links]] (the medium part of the net) 
-+ [[1726049339 - Definition - Packet switches|Packet switches]] (More about this later)
++ [[1726049339 - Definition - Switches|Packet switches]] (More about this later)
 
 Computers communicate between them using [[1726049888 - Net protocols|Net protocols]]. These protocols give an **standard way of establishing a communication between two nodes**. 
 Anyone can create a protocol, though most protocols used are public.
-### Packet switching:: 
 
-> [!NOTE] Definition: 
-> Information on the internet is sent by hoping from one host to another until the target host is reached. Messages are not sent whole but broken down into smaller pieces, this process is called **packet switching**.  
-
-+ An explanatory header is added to each of this packets
-
-This makes the network much quicker as **the links are being used constantly**. 
-
-
-
+![[1727429966 - Packet switching|Packet switching]]
