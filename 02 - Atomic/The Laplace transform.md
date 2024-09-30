@@ -4,11 +4,11 @@ tags:
   - review
   - DiffCalc
 "References:":
-sr-due: 2024-09-30
-sr-interval: 20
-sr-ease: 168
+sr-due: 2024-10-11
+sr-interval: 11
+sr-ease: 148
 ---
-# Intro
+# The laplace transform  
  + This technique can be also applied for non-homog. terms with discontinuities(g(t))
 + Useful for ODEs of order higher than 2
 + Transform an initial value problem ode to an algebraic equation 

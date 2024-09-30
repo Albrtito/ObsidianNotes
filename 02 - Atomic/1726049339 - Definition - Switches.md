@@ -8,8 +8,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-09-28
-sr-interval: 1
+sr-due: 2024-10-05
+sr-interval: 5
 sr-ease: 230
 ---
 # Switches

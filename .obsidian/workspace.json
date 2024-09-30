@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md",
+                "file": "02 - Atomic/1727430724 - Circuit switcing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md",
+                "file": "02 - Atomic/1727430724 - Circuit switcing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md",
+                "file": "02 - Atomic/1727430724 - Circuit switcing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md",
+                "file": "02 - Atomic/1727430724 - Circuit switcing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/The Laplace transform.md"
+                "file": "02 - Atomic/1727430724 - Circuit switcing.md"
               }
             }
           }
@@ -265,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230
+    "width": 471.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,6 +286,16 @@
   },
   "active": "fcbcd17444f63270",
   "lastOpenFiles": [
+    "02 - Atomic/1726049339 - Definition - Switches.md",
+    "02 - Atomic/1727177356 - Method - Checksum.md",
+    "02 - Atomic/1727428451 - Definition - TCP.md",
+    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+    "02 - Atomic/1727429612 - Definition - TLS.md",
+    "02 - Atomic/1727428429 - Definition - UDP.md",
+    "02 - Atomic/1726315564 - Definition - Cooperativa.md",
+    "02 - Atomic/1726067427 - Tipos de empresas.md",
+    "02 - Atomic/1726315729 - Problem - Problema de agente.md",
+    "02 - Atomic/The Laplace transform.md",
     "02 - Atomic/1726519620 - Principios de Kerckhoff.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02 - Atomic/1727692919 - Campamentos de verano en Castilla y León.md",
@@ -302,17 +312,7 @@
     "02 - Atomic/1726428212 - Definition - Sociedad Colectiva.md",
     "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
     "02 - Atomic/1726759457 - Programación Lineal.md",
-    "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
-    "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
-    "02 - Atomic/1725910842 - Definition - Empresa.md",
-    "02 - Atomic/1726049888 - Net protocols.md",
-    "02 - Atomic/1726067427 - Tipos de empresas.md",
-    "02 - Atomic/1727105893 - La función financiera de la empresa.md",
-    "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
-    "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
-    "02 - Atomic/1726500297 - Plan de Empresa.md",
     "00.References/Net_Resources_s3_1.pdf",
-    "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/Net_References_s2_1.pdf",
     "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",

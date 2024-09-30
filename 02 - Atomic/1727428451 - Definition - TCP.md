@@ -7,8 +7,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-09-28
-sr-interval: 1
+sr-due: 2024-10-06
+sr-interval: 6
 sr-ease: 230
 ---
 # TCP
@@ -24,6 +24,6 @@ sr-ease: 230
 	+ timing
 	+ security 
 	+ minimum throguhput
-+ Requires for the server and the client to **set up the connection** (Three-way handshake)
++ Requires for the server and the client to **set up the connection** (==Three-way handshake)==
 
 ***

@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-09-29
-sr-interval: 2
+sr-due: 2024-10-05
+sr-interval: 5
 sr-ease: 190
 ---
 # Tipos de empresas

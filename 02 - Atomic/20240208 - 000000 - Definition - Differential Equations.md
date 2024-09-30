@@ -13,9 +13,9 @@ aliases:
   - Definition - Differential Equations
   - Differential Equations
   - DE
-sr-due: 2024-09-28
-sr-interval: 18
-sr-ease: 210
+sr-due: 2024-10-09
+sr-interval: 9
+sr-ease: 190
 ---
 # Differential equations:
 
