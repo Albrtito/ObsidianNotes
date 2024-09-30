@@ -1,13 +1,13 @@
 ---
 aliases:
-  - Estrategia competitiva de la empresa
+  - Estrategia de la empresa
 tags:
   - review
   - Empresa
 References: 
 cssclasses:
 ---
-# Estrategia competitiva de la empresa
+# Estrategia de la empresa
 La dirección estratégica de la empresa sigue los siguientes pasos: 
 $$
 \text{DEFINIR}\rightarrow
@@ -23,12 +23,9 @@ $$
 4. **Evaluar** las estrategias implementadas
 
 ## Tipos de estrategias: 
-
++ [[1727709003 - Estrategias competitivas de la empresa| Estrategias competitivas]]
++ 
 ### Estrategias corporativas: 
-
-> [!NOTE] Definición: 
-> Lo que busca es fijar en que negocios va a competir la empresa y cuales abandonará. **DONDE COMPETIR**
-
 
 > [!warning] Examen:
 > Añadir las ventajas y desventajas de cada una de las estrategias. Se preguntará en examen. 

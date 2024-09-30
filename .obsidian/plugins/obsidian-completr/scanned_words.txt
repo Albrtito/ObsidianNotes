@@ -814,6 +814,7 @@ approach
 approximate
 allocates
 allocated
+ahorradores
 Creaci
 Crear
 Cuando
@@ -3972,6 +3973,7 @@ exercises
 externas
 essential
 electromagnetic
+especial
 programaci
 primer
 paso
@@ -8679,6 +8681,7 @@ chance
 congestion
 complement
 cable
+captar
 sr
 se
 subproblemas
@@ -9476,6 +9479,7 @@ substitute
 similarity
 solves
 separable
+supermercados
 interval
 importancia
 incorrecto
@@ -10232,6 +10236,7 @@ implementaci
 integral
 improper
 impossible
+intenci
 un
 una
 utiliza
@@ -15440,6 +15445,7 @@ family
 fast
 fit
 frequencies
+funcionalidades
 objetivo
 obtener
 of

@@ -30,7 +30,7 @@ tags:
 1.  [[1725895664 - Naturaleza y de la empresa|Naturaleza de la empresa]] y [[1726067427 - Tipos de empresas|Tipos de empresas]] 
 2. [[1726499016 - Creación de valor y ojetivos de la empresa|Creación de valor y objetivos de la empresa]]
 	1. [[1726503731 - Entorno y competencia de la empresa|Entorno y competencia de la empresa]]
-	2. [[1727105121 - Estrategia competitiva de la empresa|Estrategia competitiva de la empresa]]
+	2. [[1727105121 - Estrategia de la empresa|Estrategia competitiva de la empresa]]
 	3. [[1727105227 - Modelos de negocio de la empresa|Modelos de negocio de la empresa]]
 3. [[1727105893 - La función financiera de la empresa|La función financiera de la empresa]]
 ## Prácticas:
