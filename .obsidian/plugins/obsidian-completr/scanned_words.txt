@@ -824,6 +824,7 @@ asesoramiento
 altos
 aumentar
 almacenando
+acorde
 Creaci
 Crear
 Cuando
@@ -1556,6 +1557,7 @@ Conditions
 Crecer
 Cons
 Comprobamos
+Cuado
 de
 due
 dar
@@ -2375,6 +2377,7 @@ despacho
 david
 desplazado
 deseado
+dulo
 modelos
 modelo
 maximizar
@@ -3162,6 +3165,8 @@ musn
 movilidadeps
 mailto
 memoria
+multiplicacion
+mios
 en
 ease
 es
@@ -4001,6 +4006,7 @@ evaluar
 evaluaciones
 exponencial
 empezando
+exprsi
 programaci
 primer
 paso
@@ -4873,6 +4879,10 @@ pseudo
 periodos
 polinomio
 primeros
+polinomios
+polimonio
+polinoio
+polin
 lineal
 la
 lo
@@ -6363,6 +6373,10 @@ triest
 travel
 together
 tabla
+tarda
+trataremos
+terminar
+tratando
 review
 resolver
 realizar
@@ -7128,6 +7142,11 @@ roots
 registros
 resultado
 recursividad
+romper
+realizaremos
+representaci
+resta
+restar
 References
 Resoluci
 Rectas
@@ -8743,6 +8762,12 @@ contar
 codificar
 calcularlo
 calculando
+cuerpo
+cuyos
+coeficientess
+cuerpos
+cual
+coeficiente
 sr
 se
 subproblemas
@@ -9548,6 +9573,11 @@ semilla
 secuencias
 sabemos
 siquiera
+suele
+suma
+sicamente
+strings
+significar
 interval
 importancia
 incorrecto
@@ -10309,6 +10339,8 @@ intangible
 industria
 informativas
 izq
+irreducible
+inversos
 un
 una
 utiliza
@@ -10935,6 +10967,8 @@ usados
 unen
 unir
 usar
+usos
+utiliz
 hora
 hacemos
 hacia
@@ -12223,6 +12257,7 @@ Estudiar
 Estudio
 Email
 Evaluamos
+ENTRE
 vital
 variables
 vez
@@ -14204,6 +14239,7 @@ Indicadores
 Integraci
 Independencia
 Internacional
+Igual
 Definir
 Din
 Design
@@ -14857,6 +14893,7 @@ Desventajas
 Desplazamiento
 Depende
 Defninition
+DOS
 funci
 fibonacci
 fica
@@ -15542,6 +15579,7 @@ frequencies
 funcionalidades
 fuerzas
 formado
+fuerza
 objetivo
 obtener
 of
@@ -16229,6 +16267,8 @@ organizativa
 olas
 ordinary
 optimizar
+obtendremos
+operar
 que
 queremos
 qD
@@ -17572,6 +17612,8 @@ Allocating
 Aumentar
 Adelantarse
 Alumnos
+AES
+Aunq
 Floyd
 Foundations
 Funci
@@ -19446,6 +19488,7 @@ HDP
 HaE
 Homogeneous
 Horario
+Habr
 TODOS
 The
 Trabajo
@@ -21480,6 +21523,7 @@ Pros
 Porter
 Polinomio
 Periodo
+Pero
 Biblio
 BitsPerComponent
 BI
@@ -22733,6 +22777,10 @@ Slots
 Separable
 Secci
 Shift
+Solemos
+Suma
+Sumar
+SUMANOS
 Manual
 Modelar
 Millones
@@ -23409,6 +23457,7 @@ Multiplexing
 Motivos
 Mejorar
 Menor
+Multiplicaci
 Zivkovic
 Zo
 Zi
@@ -25219,6 +25268,10 @@ bajar
 benefician
 bankrupcy
 baja
+bruta
+binarias
+binaria
+binario
 Util
 Una
 UniZumo
@@ -28846,6 +28899,7 @@ VERDE
 Visita
 VARIAS
 Vamos
+Volviendo
 Grupo
 Get
 GWgw
