@@ -12,6 +12,8 @@ Se contacta con personas que tienen prados, cuando se tenga claro que se va ha h
 + Visita al campa: <font color="#7030a0">ROSA</font>
 + Día actual: <font color="#ffc000">AMARILLO</font>
 
+## Cada comunidad autónoma es un mundo: 
++ [[1727692919 - Campamentos de verano en Castilla y León|Castilla y Leon]]
 # Campamentos por años: 
 + [Papeleo Caleao 24](Papeleo%20Caleao%2024.md)
 + 
