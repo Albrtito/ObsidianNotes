@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+                "file": "01.Areas/1.UC3M/Empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "60bfc0a56f1d5011",
+            "id": "4441846612502312",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727711018 - Estrategias de diversificación.md",
+                "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af80c302f91f3e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1727712623 - Sustitución monoalfabética poligráfica.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+                "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+                "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+                "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,17 +269,17 @@
                       }
                     }
                   ],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1.99040671400904,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
+                  "collapse-forces": false,
+                  "centerStrength": 0.247901872175597,
                   "repelStrength": 20,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 500,
-                  "scale": 0.09072651833416481,
+                  "scale": 0.06877208701382545,
                   "close": true
                 }
               }
@@ -284,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md"
+                "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md"
               }
             }
           }
@@ -311,9 +324,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6a773695178845bf",
+  "active": "4441846612502312",
   "lastOpenFiles": [
+    "02 - Atomic/1727712623 - Sustitución monoalfabética poligráfica.md",
+    "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
+    "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
+    "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+    "01.Areas/1.UC3M/Empresa.md",
+    "02 - Atomic/1727712353 - Responsabilidad social de la empresa.md",
+    "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
+    "02 - Atomic/1727105121 - Estrategia de la empresa.md",
+    "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
+    "02 - Atomic/1727710261 - Estrategias de integración.md",
+    "02 - Atomic/1727711018 - Estrategias de diversificación.md",
     "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
     "02 - Atomic/1727443922 - Cuerpos de Galois.md",
     "02 - Atomic/1726493246 - Algorithm - AES.md",
@@ -325,20 +349,9 @@
     "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1727166266 - Movilidad no Europea.md",
     "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
-    "02 - Atomic/1727105121 - Estrategia de la empresa.md",
-    "02 - Atomic/1727711018 - Estrategias de diversificación.md",
-    "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
-    "02 - Atomic/1727710261 - Estrategias de integración.md",
-    "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
-    "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
     "02 - Atomic/1727270318 - Forma canónica.md",
     "02 - Atomic/1726498880 - Definition - Cifrador.md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
-    "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
-    "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
-    "02 - Atomic/1726572508 - The network stack.md",
-    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
-    "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "00.References/Net_Resources_s3_1.pdf",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/Net_References_s2_1.pdf",

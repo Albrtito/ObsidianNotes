@@ -3,8 +3,9 @@ aliases:
   - Estrategias de integración
 tags:
   - review
-"References":
-cssclasses:
+  - Empresa
+References: 
+cssclasses: 
 sr-due: 2024-10-03
 sr-interval: 3
 sr-ease: 250

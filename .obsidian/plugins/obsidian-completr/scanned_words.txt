@@ -8768,6 +8768,7 @@ coeficientess
 cuerpos
 cual
 coeficiente
+clasicos
 sr
 se
 subproblemas
@@ -13565,6 +13566,7 @@ necesario
 numeric
 nuevas
 numero
+nicas
 Identificar
 Intro
 Identificaci
@@ -22781,6 +22783,7 @@ Solemos
 Suma
 Sumar
 SUMANOS
+Susticui
 Manual
 Modelar
 Millones
@@ -25272,6 +25275,7 @@ bruta
 binarias
 binaria
 binario
+basados
 Util
 Una
 UniZumo

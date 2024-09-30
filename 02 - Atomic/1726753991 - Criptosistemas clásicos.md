@@ -16,8 +16,9 @@ Los criptosistemas clásicos utilizan métodos clasicos de cifrado basados en la
 	Se cambián grupos de caracteres entre ellos según una clave. 
 	> p.e: La **escítala** es un mecanismo antiguo en el que, al enrolllar el pensaje en un bastón con **determinado diámetro**, el mensaje era descifrado. 
 + **Por series**:
-	
+	Se definen una serie de series matem´
 + **Por columnas**
+	Se disponen los símbolos siguiendo un cierto patrón geométrico. Se extraen siguiento una cierta trayectoria.
 ## Métodos de sustitución:
 Necesitamos conocer el concepto de sustitución monoalfabética, polialfabética, monográfica y poligráfica
 
@@ -30,20 +31,10 @@ Necesitamos conocer el concepto de sustitución monoalfabética, polialfabética
 > + Poli→ Más de uno
 
 ### Monoalfabéticas:
-
-**POLYGRÁFICA:**
- Cifrador de PLAYFAIR:
- **Cifrador de HILL:**
-Utiliza multiplicación por matrices: 
-+ La matriz es la clave. Es una matriz cuadrada de n x n. El texto se divide en grupos de n elementos. Se aplican caracteres de relleno (si el texto no se divide exactamente en grupos de n)
-+ Estos grupos se interpretan como vectores
-+ Se multiplica cada vector por la matriz. Obteniendo un nuevo vector. Los nuevos valores están cifrados con la clave (matriz).
-
-**MONOGRÁFICA:**
-+ [[1726494310 - Sustitución monoalfabeto monográfica|Sustitución monoalfabeto monográfica]]
-
++ [[1727712623 - Sustitución monoalfabética poligráfica|Poligráfica]]
++ [[1726494310 - Sustitución monoalfabeto monográfica|Monográfica]]
 ### Polialfabéticas:
-+ [[1726496164 - Sustitución polialfabética periódica|Sustitución polialfabética periódica]]
-+ [[1726497421 - Sustitución polialfabética no-periódica|Sustitución polialfabética no-periódica]]
++ [[1726496164 - Sustitución polialfabética periódica|Periódica]]
++ [[1726497421 - Sustitución polialfabética no-periódica|No-Periódica]]
 ***
 [^1]: [[1726520589 - Definition - Criptosistema#Técnicas matemáticas de cifrado]]
