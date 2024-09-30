@@ -7,8 +7,8 @@ tags:
   - Networks
 References: 
 cssclasses: 
-sr-due: 2024-09-28
-sr-interval: 1
+sr-due: 2024-10-04
+sr-interval: 4
 sr-ease: 210
 ---
 # Method - RDT With errors and loss

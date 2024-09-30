@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+                "file": "02 - Atomic/1727105121 - Estrategia competitiva de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+                "file": "02 - Atomic/1727105121 - Estrategia competitiva de la empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+                "file": "02 - Atomic/1727105121 - Estrategia competitiva de la empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+                "file": "02 - Atomic/1727105121 - Estrategia competitiva de la empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,14 +232,14 @@
                   "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.28391393442623,
+                  "nodeSizeMultiplier": 1.99040671400904,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 20,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 500,
-                  "scale": 0.10630220772360872,
+                  "scale": 0.09072651833416481,
                   "close": true
                 }
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md"
+                "file": "02 - Atomic/1727105121 - Estrategia competitiva de la empresa.md"
               }
             }
           }
@@ -286,6 +286,10 @@
   },
   "active": "fcbcd17444f63270",
   "lastOpenFiles": [
+    "02 - Atomic/1726498880 - Definition - Cifrador.md",
+    "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
+    "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
+    "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
     "02 - Atomic/1726572508 - The network stack.md",
     "02 - Atomic/1726520589 - Definition - Criptosistema.md",
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
@@ -308,10 +312,6 @@
     "02 - Atomic/Guía de un campamento de verano.md",
     "02 - Atomic/1727443922 - Cuerpos de Galois.md",
     "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
-    "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
-    "01.Areas/1.UC3M/Cripto.md",
-    "99 - Meta/1. Templates/NoteTemplate.md",
-    "02 - Atomic/1727443896 - Título.md",
     "00.References/Net_Resources_s3_1.pdf",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/Net_References_s2_1.pdf",

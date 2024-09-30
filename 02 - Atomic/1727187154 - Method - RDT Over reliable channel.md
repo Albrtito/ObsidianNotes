@@ -6,9 +6,9 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-09-30
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-10-12
+sr-interval: 12
+sr-ease: 270
 ---
 # Method - RDT Over reliable channel
 

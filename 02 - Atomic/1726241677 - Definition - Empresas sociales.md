@@ -7,8 +7,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-09-28
-sr-interval: 1
+sr-due: 2024-10-03
+sr-interval: 3
 sr-ease: 170
 ---
 # Definition - Empresas sociales

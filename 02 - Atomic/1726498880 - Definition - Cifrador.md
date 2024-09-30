@@ -7,8 +7,8 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-09-28
-sr-interval: 9
+sr-due: 2024-10-23
+sr-interval: 23
 sr-ease: 250
 ---
 # Definition - Cifrador
@@ -38,11 +38,11 @@ $$
 $$
 K = \{k_1,k_2,...\}
 $$
-+ **Familia de transformaciones de cifrado:** Posibles transformaciones a realizar, utilizando una clave, a un mensaje para cifrarlo. 
++ **Familia de ==transformaciones de cifrado:** Posibles transformaciones a realizar, utilizando una clave, a un mensaje para cifrarlo.== 
 $$
 E_k : M \rightarrow C
 $$
-+ **Familia de transformaciones de descifrado:** Posibles transformaciones a realizar, utilizando una clave, a un mensaje para **descifrarlo**
++ **Familia de ==transformaciones de descifrado:** Posibles transformaciones a realizar, utilizando una clave, a un mensaje para **descifrarlo**==
 $$
 D_k: C \rightarrow M
 $$
