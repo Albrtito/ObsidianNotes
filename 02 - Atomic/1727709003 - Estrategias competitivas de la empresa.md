@@ -1,11 +1,12 @@
 ---
 aliases:
   - Estrategias competitivas de la empresa
+  - Estrategias competitivas
 tags:
   - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-10-03
 sr-interval: 3
 sr-ease: 250

@@ -815,6 +815,8 @@ approximate
 allocates
 allocated
 ahorradores
+ayudan
+aprendizaje
 Creaci
 Crear
 Cuando
@@ -1544,6 +1546,7 @@ CONDITIONS
 Cooperativa
 Cooperativas
 Conditions
+Crecer
 de
 due
 dar
@@ -3974,6 +3977,7 @@ externas
 essential
 electromagnetic
 especial
+escala
 programaci
 primer
 paso
@@ -7738,6 +7742,7 @@ ROJO
 ROSA
 Recall
 Repeat
+Reducir
 cssclasses
 correcto
 correcta
@@ -10237,6 +10242,7 @@ integral
 improper
 impossible
 intenci
+intangible
 un
 una
 utiliza
@@ -12141,6 +12147,8 @@ Example
 Extras
 Equations
 Equation
+Estandarizaci
+Econom
 vital
 variables
 vez
@@ -14115,6 +14123,7 @@ Interrupci
 Improper
 Integrals
 Indicadores
+Integraci
 Definir
 Din
 Design
@@ -14763,6 +14772,7 @@ Detecci
 Differential
 Describes
 DEs
+Diversificar
 funci
 fibonacci
 fica
@@ -17472,6 +17482,7 @@ Aparece
 Are
 Always
 Allocating
+Aumentar
 Floyd
 Foundations
 Funci
@@ -19993,6 +20004,7 @@ Transform
 Tranmission
 TDM
 TTL
+Tiempo
 grafo
 guardan
 global
@@ -23287,6 +23299,7 @@ Mientras
 Manipulables
 Mejoran
 Multiplexing
+Motivos
 Zivkovic
 Zo
 Zi
@@ -29366,6 +29379,7 @@ Gastos
 General
 Generaci
 Galois
+Geogr
 Nota
 Novo
 Nacional

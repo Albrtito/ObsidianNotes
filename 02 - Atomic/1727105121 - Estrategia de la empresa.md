@@ -24,8 +24,8 @@ $$
 
 ## Tipos de estrategias: 
 + [[1727709003 - Estrategias competitivas de la empresa| Estrategias competitivas]]
-+ 
-### Estrategias corporativas: 
++ [[1727709332 - Estrategias corporativas de la empresa|Estrategias corporativas]]
+
 
 > [!warning] Examen:
 > Añadir las ventajas y desventajas de cada una de las estrategias. Se preguntará en examen. 
@@ -33,34 +33,5 @@ $$
 > + Tipo de Estrategia
 > + Pq esa estrategia?
 > + Ventajas y desventajas
-
-#### Estrategias de integración:
-Hay dos timpos de integración corporativa, **vertical y horizontal:** 
-
-+ **Vertical**: Puede ser hacia delante, hacia atrás o compensada
-	+ Hacia atrás: Es cuando la empresa crea otras empresas subsidiarias que producen algunos de los materiales utilizados en la fabricación de los Productos
-	+ Hacia delante: La empresa crea subsidiarias que distribuyen o venden a otras empresas o a los consumidores finales. 
-	+ Compensada: Se establecen subsidiarias que realizan ambas tareas, producción de materiales y distribución/venta de productos fabricados. 
-
-> p.e (examen): Pescanova (fabricación de pescado) establece una piscifactoría. A su vez rea empresas para vender productos congelados de sus empresas. 
-> 	En el caso de las piscifactorías hablamos de una integración hacia atrás mientras que las tiendas son parte de una integración hacia alante. 
-
-
-**Horizontal:** Adquirir actividades económicas (normalmente empresas), que están en el mismo nivel de la cadena de valor a la que nos dedicamos. 
-
-**Remark:** 
-+ La integración es una forma de diversificar de manera relacionada.
-#### Estrategia de diversificación: 
-Ofertar nuevos productos diferentes y **entrar con ellos en mercados diferentes**. 
-+ Relacionada: Existe alguna relación con los antiguos negocios de la empresa
-+ No relacionada: La nueva empresa no tiene nada en común con el mercado anterior. 
-
-#### Glovalización o internalización: 
-El fenómeno de apertura de las economías y fronteras para las empresas. Lo que hace que se incrementen los inercambios comerciales, aumenten los movimientos de capitales, circulación de personas e ideas, aumento de conocimientos y técnicas,etc.
-**Remark:** La aparición del internet a potenciado esta estrategia/efecto. 
-
-#### Outsourcing/Subcontratación: 
-Tareas que antes hacía la empresa se subcontratan a una empresa externa por medio de un contrato. Buscando la especialización de esa tarea.
-
 
 ***

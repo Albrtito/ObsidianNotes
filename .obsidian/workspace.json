@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
+                "file": "02 - Atomic/1727710261 - Estrategias de integración.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
+                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
+                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
+                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md"
+                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md"
               }
             }
           }
@@ -311,12 +311,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "60bfc0a56f1d5011",
+  "active": "6a773695178845bf",
   "lastOpenFiles": [
+    "02 - Atomic/1727710261 - Estrategias de integración.md",
     "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
+    "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
     "02 - Atomic/1727105121 - Estrategia de la empresa.md",
     "02 - Atomic/1727270318 - Forma canónica.md",
-    "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
     "02 - Atomic/1726498880 - Definition - Cifrador.md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
     "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
@@ -338,7 +339,6 @@
     "02 - Atomic/The Laplace transform.md",
     "02 - Atomic/1726519620 - Principios de Kerckhoff.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
-    "02 - Atomic/1727692919 - Campamentos de verano en Castilla y León.md",
     "00.References/Net_Resources_s3_1.pdf",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/Net_References_s2_1.pdf",
