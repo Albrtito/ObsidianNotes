@@ -2356,6 +2356,7 @@ date
 differencing
 dependent
 doing
+don
 modelos
 modelo
 maximizar
@@ -3139,6 +3140,7 @@ miembros
 matter
 matters
 multiplexin
+musn
 en
 ease
 es
@@ -6320,6 +6322,8 @@ transformation
 transforms
 term
 triest
+travel
+together
 review
 resolver
 realizar
@@ -7080,6 +7084,8 @@ relations
 right
 resulting
 remaining
+rule
+roots
 References
 Resoluci
 Rectas
@@ -9469,6 +9475,7 @@ satisfies
 substitute
 similarity
 solves
+separable
 interval
 importancia
 incorrecto
@@ -11437,6 +11444,7 @@ holds
 homog
 higher
 hard
+hosts
 Es
 Este
 Ejemplos
@@ -21347,6 +21355,7 @@ Piecewise
 Pago
 PDEs
 PDE
+Pacages
 Biblio
 BitsPerComponent
 BI
@@ -22597,6 +22606,7 @@ Substitutions
 Supervivencia
 Sum
 Slots
+Separable
 Manual
 Modelar
 Millones
@@ -24436,6 +24446,7 @@ Laplace
 Linearity
 Lets
 LINEARITY
+Lost
 bottom
 base
 brik
