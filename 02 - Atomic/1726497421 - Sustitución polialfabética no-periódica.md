@@ -7,6 +7,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
+sr-due: 2024-10-02
+sr-interval: 2
+sr-ease: 249
 ---
 # Sustitución polialfabética no-periódica
 
@@ -19,8 +22,8 @@ cssclasses:
 + Este cifrador es **incondicionalmente seguro** si: La clave es realmente aleatoria, se usa una sola vez y es de longitud igual o mayor que M.
 
 > [!BUG] Problema: 
-> Este meétodo es **imposible de implementar**, pues para ser completamente seguro necesitamos 
+> Este meétodo es **imposible de implementar**, pues para ser completamente seguro necesitamos generar **números realmente aleatorios para usar como claves**, algo imposible
++ Para “solucionar” este problema usamos números pseudoaleatorios en los cifrados.
 
 
-**Problema:** No se puede implementar pues no se pueden generar claves aleatorias. Solo somos capaces de generar número **pseudoaleatorio**
 ![[Screenshot 2024-09-16 at 7.13.37 PM.png]]

@@ -6,6 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
+sr-due: 2024-10-03
+sr-interval: 3
+sr-ease: 250
 ---
 # La función financiera de la empresa
 Al introducir la empresa y su naturaleza[^1] se definian una serie de funciones que realizaba la empresa. Entre ellas se encontraba la función financiera, ocupada de **conseguir e invertir el dinero de la empresa**. A estas dos acciones las llamamos decisiones financieras.
