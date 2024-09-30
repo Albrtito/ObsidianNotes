@@ -23,7 +23,7 @@ $$
 4. **Evaluar** las estrategias implementadas
 
 ## Tipos de estrategias: 
-+ [[1727709003 - Estrategias competitivas de la empresa| Estrategias competitivas]]
++ [[1727709003 - Estrategias competitivas de la empresa|Estrategias competitivas]]
 + [[1727709332 - Estrategias corporativas de la empresa|Estrategias corporativas]]
 
 

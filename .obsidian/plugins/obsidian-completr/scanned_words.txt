@@ -817,6 +817,8 @@ allocated
 ahorradores
 ayudan
 aprendizaje
+adquisici
+administrativos
 Creaci
 Crear
 Cuando
@@ -1547,6 +1549,7 @@ Cooperativa
 Cooperativas
 Conditions
 Crecer
+Cons
 de
 due
 dar
@@ -7743,6 +7746,7 @@ ROSA
 Recall
 Repeat
 Reducir
+Reducci
 cssclasses
 correcto
 correcta
@@ -8687,6 +8691,8 @@ congestion
 complement
 cable
 captar
+conocidas
+controladas
 sr
 se
 subproblemas
@@ -10243,6 +10249,7 @@ improper
 impossible
 intenci
 intangible
+industria
 un
 una
 utiliza
@@ -12149,6 +12156,7 @@ Equations
 Equation
 Estandarizaci
 Econom
+Entrar
 vital
 variables
 vez
@@ -13452,6 +13460,7 @@ ninguno
 noma
 necesario
 numeric
+nuevas
 Identificar
 Intro
 Identificaci
@@ -14124,6 +14133,7 @@ Improper
 Integrals
 Indicadores
 Integraci
+Independencia
 Definir
 Din
 Design
@@ -14773,6 +14783,7 @@ Differential
 Describes
 DEs
 Diversificar
+Desventajas
 funci
 fibonacci
 fica
@@ -21375,6 +21386,7 @@ Pago
 PDEs
 PDE
 Pacages
+Pros
 Biblio
 BitsPerComponent
 BI
@@ -23300,6 +23312,7 @@ Manipulables
 Mejoran
 Multiplexing
 Motivos
+Mejorar
 Zivkovic
 Zo
 Zi
