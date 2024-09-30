@@ -4010,6 +4010,7 @@ exponencial
 empezando
 exprsi
 extraen
+encajar
 programaci
 primer
 paso
@@ -8779,6 +8780,8 @@ coeficiente
 clasicos
 cierto
 cierta
+cambiados
+conrrespondiente
 sr
 se
 subproblemas
@@ -12929,6 +12932,7 @@ venderlas
 vecinos
 viernes
 vuelven
+vamos
 no
 nuestras
 ndar
@@ -22800,6 +22804,8 @@ Suma
 Sumar
 SUMANOS
 Susticui
+SUMAS
+SUMA
 Manual
 Modelar
 Millones
@@ -23477,6 +23483,8 @@ Motivos
 Mejorar
 Menor
 Multiplicaci
+MULTIPLCACIONES
+MULTIPLICACI
 Zivkovic
 Zo
 Zi

@@ -6,14 +6,22 @@ tags:
   - Cripto
 References: 
 cssclasses:
+sr-due: 2024-10-02
+sr-interval: 2
+sr-ease: 249
 ---
 # Sustitución mono-alfabeta monográfica
 
-**Cifrador de desplazamiento puro(ROT):**
+> [!BUG] Problema: 
+> Con este tipo de cifrados siempre vamos a obtener el mismo problema: Las probabilidades de cada uno de los caracteres cambiados encajarán con las del alfabeto conrrespondiente. 
+> 
+
+
+## SUMAS: Cifrador de desplazamiento puro(ROT):
 
 Es aquel cifrador que utiliza una función del tipo: 
 $$
-C_i = (m_i \pm b) \mod n
+\boxed{C_i = (m_i \pm b) \mod n}
 $$
 Cada uno de los caracteres es desplazado dentro del propio alfabeto. 
 + b: Constante de desplazamiento. (Sería la clave del sistema)
@@ -26,14 +34,16 @@ Cada uno de los caracteres es desplazado dentro del propio alfabeto.
 	En este tipo de cifrado cada grafo **siempre se sustituye** por el mismo grafo-cifrado. → Solo hay un alfabeto transformado (**Mono-alfabetismo**)
 
 
-## Cifrador de decimación pura:
+
+## MULTIPLCACIONES: Cifrador de decimación pura:
 Es aquel que utiliza una multiplicación para variar el alfabeto y transformarlo en un alfabeto cifrado. 
 $$
-C_i = (a \times m_i) \mod n
+\boxed{C_i = (a \times m_i) \mod n}
 $$
 + a: Clave de cifrado. Constante de decimación
 
-### Cifrador por sustitución afín:
-Unión de desplazamiento y decimación.
-## Problemitas: 
-Si creamos un histograma con la probabilidad de aparición de cada una de los grafos en un alfabeto. Aún después de haber realizado la sustitución, las probabilidades se mantienen.
+### SUMA + MULTIPLICACIÓN: Cifrador por sustitución afín
+Se realizan ambas la suma y multiplicación. En este caso tanto b como a serán claves del cifrado.
+$$
+\boxed{C_i = (a \times m_i + b) \mod n}
+$$
