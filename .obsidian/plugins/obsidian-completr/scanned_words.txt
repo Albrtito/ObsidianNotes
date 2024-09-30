@@ -19986,6 +19986,7 @@ Tips
 Transform
 Tranmission
 TDM
+TTL
 grafo
 guardan
 global
