@@ -5,6 +5,9 @@ tags:
   - review
 "References":
 cssclasses:
+sr-due: 2024-10-03
+sr-interval: 3
+sr-ease: 250
 ---
 # Estrategias de diversificación
 

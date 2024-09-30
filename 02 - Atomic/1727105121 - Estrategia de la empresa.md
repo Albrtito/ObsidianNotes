@@ -6,6 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
+sr-due: 2024-10-03
+sr-interval: 3
+sr-ease: 250
 ---
 # Estrategia de la empresa
 La dirección estratégica de la empresa sigue los siguientes pasos: 

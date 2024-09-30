@@ -6,6 +6,9 @@ tags:
   - Heuri
 References: 
 cssclasses:
+sr-due: 2024-10-03
+sr-interval: 3
+sr-ease: 252
 ---
 # Programación Lineal
 
@@ -28,9 +31,8 @@ cssclasses:
 > La solución de un problema de progamación lineal se encuentra en el vector de variables que maximice/minimice la función objetivo y cumpla con las restricciones.
 > + La solución óptima puede ser única o no. En este segundo caso decimos que existen **soluciones óptimas alternativas**
 + Puede **no existir ninguna solución**
--
 
-## Formas de programación lineal:
+## Formas del modelo en programación lineal:
 Según la forma en la que se exprese la función y las restricciones podemos representar el problema de forma **canónica o de forma estandar**
 + [[1727270318 - Forma canónica|Forma canónica]]
 + [[1727270366 - Forma estandar|Forma estandar]]

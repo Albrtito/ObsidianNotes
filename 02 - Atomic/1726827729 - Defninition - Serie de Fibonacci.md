@@ -7,6 +7,9 @@ tags:
   - Heuri
 References: 
 cssclasses:
+sr-due: 2024-10-03
+sr-interval: 3
+sr-ease: 250
 ---
 # Serie de Fibonacci
 

@@ -2,7 +2,6 @@
 aliases:
   - Algorith - Floyd-Warshall
 tags:
-  - review
   - Heuri
 References: 
 cssclasses:

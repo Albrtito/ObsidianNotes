@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727105121 - Estrategia de la empresa.md",
+                "file": "02 - Atomic/1726828714 - Algorith - Floyd-Warshall.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
+                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -77,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cripto",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727711018 - Estrategias de diversificación.md",
+                "file": "02 - Atomic/1726828714 - Algorith - Floyd-Warshall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727711018 - Estrategias de diversificación.md",
+                "file": "02 - Atomic/1726828714 - Algorith - Floyd-Warshall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727711018 - Estrategias de diversificación.md",
+                "file": "02 - Atomic/1726828714 - Algorith - Floyd-Warshall.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727711018 - Estrategias de diversificación.md"
+                "file": "02 - Atomic/1726828714 - Algorith - Floyd-Warshall.md"
               }
             }
           }
@@ -311,12 +310,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "60bfc0a56f1d5011",
+  "active": "fcbcd17444f63270",
   "lastOpenFiles": [
-    "02 - Atomic/1727710261 - Estrategias de integración.md",
+    "02 - Atomic/1727122369 - Estados contables.md",
+    "02 - Atomic/1726825216 - Programación Dinámica.md",
+    "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+    "02 - Atomic/1726827729 - Defninition - Serie de Fibonacci.md",
+    "02 - Atomic/1726510122 - LFSR.md",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
+    "02 - Atomic/1727166266 - Movilidad no Europea.md",
+    "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
+    "02 - Atomic/1727105121 - Estrategia de la empresa.md",
     "02 - Atomic/1727711018 - Estrategias de diversificación.md",
     "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
-    "02 - Atomic/1727105121 - Estrategia de la empresa.md",
+    "02 - Atomic/1727710261 - Estrategias de integración.md",
     "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
     "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
     "02 - Atomic/1727270318 - Forma canónica.md",
@@ -331,14 +338,6 @@
     "02 - Atomic/1727430724 - Circuit switcing.md",
     "02 - Atomic/1726049339 - Definition - Switches.md",
     "02 - Atomic/1727177356 - Method - Checksum.md",
-    "02 - Atomic/1727428451 - Definition - TCP.md",
-    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
-    "02 - Atomic/1727429612 - Definition - TLS.md",
-    "02 - Atomic/1727428429 - Definition - UDP.md",
-    "02 - Atomic/1726315564 - Definition - Cooperativa.md",
-    "02 - Atomic/1726067427 - Tipos de empresas.md",
-    "02 - Atomic/1726315729 - Problem - Problema de agente.md",
-    "02 - Atomic/The Laplace transform.md",
     "00.References/Net_Resources_s3_1.pdf",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/Net_References_s2_1.pdf",

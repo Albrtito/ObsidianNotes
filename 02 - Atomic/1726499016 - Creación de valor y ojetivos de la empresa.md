@@ -23,4 +23,3 @@ El objetivo común que todos comparten es simple, que siga habiendo empresa. Par
 > Los directivos ponen los objetivos, **(teniendo en cuenta | tomando como restricción) los objetivos del resto de grupos y la supervivencia de la empresa**
 + p.e: Maximizar el valor de la empresa → PONER COMO OBJETIVO PARA EL [[1726500297 - Plan de Empresa|Plan de Empresa]]
 ## Responsabilidad social corporativa: 
-…
