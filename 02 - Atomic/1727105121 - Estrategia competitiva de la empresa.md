@@ -9,21 +9,21 @@ cssclasses:
 ---
 # Estrategia competitiva de la empresa
 La dirección estratégica de la empresa sigue los siguientes pasos: 
-1. **Definir** la misión de la empresa
-2. **Definir** los objetivos
-3. **Desarrollar**: decisiones estrategias
+$$
+\text{DEFINIR}\rightarrow
+\text{DESARROLLAR}\rightarrow
+\text{IMPLEMENTAR}\rightarrow
+\text{EVALUAR}
+$$
+1. **Definir** la misión y los objetivos de la empresa
+2. **Desarrollar**: decisiones estrategias
 	1. Decisiones tácticas
 	2. Decisiones operativas
-4. **Implementar** estratégias
-5. **Evaluar** las estrategias implementadas
+3. **Implementar** estratégias
+4. **Evaluar** las estrategias implementadas
+
 ## Tipos de estrategias: 
-### Estrategias competitivas:
 
-> [!NOTE] Definición: 
-> Define como va a competir la empresa con otras empresas para vender sus productos o servicios para tener la máxima rentabilidad. **COMO COMPETIR**
-
-+ p.e: **Estrategia de liderazgo en coste:** Un supermercado que compite bajando sus precios.
-+ p.e: **Estrategia de liderazgo en diferenciación** Un supermercado que compite via exclusividad del producto o diferenciación.
 ### Estrategias corporativas: 
 
 > [!NOTE] Definición: 
