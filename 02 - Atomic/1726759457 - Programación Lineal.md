@@ -36,9 +36,34 @@ sr-ease: 252
 Según la forma en la que se exprese la función y las restricciones podemos representar el problema de forma **canónica o de forma estandar**
 + [[1727270318 - Forma canónica|Forma canónica]]
 + [[1727270366 - Forma estandar|Forma estandar]]
+### Transformaciones:
+Para transformar el problema a forma canónica/estandar, utilizamos las siguientes transformaciones:
+
++ Para convertir una función de minimización en otra de maximización **multiplicamos por -1**
+$$
+\min z = c^TX \triangleq \max z' = -c^TX
+$$[^1]
+
++ Cambiar de signo al vector de recursos es lo mismo que multiplicar por -1. Lo que le da la vuelta a la inequality.
++ Para convertir una igualdad en desigualdad debemos de **introducir una variable de holgura** (sumando o restando).
+$$
+\begin{gather}
+\sum_{j=1}^{n}a_{ij}x_j \leq b_i  \triangleq \sum_{j=1}^{n}a_{ij}x_j + s_i = b_i\\
+\sum_{j=1}^{n}a_{ij}x_j \geq b_i  \triangleq \sum_{j=1}^{n}a_{ij}x_j - s_i = b_i\\
+\end{gather}
+$$
+	+ $s_i$ es una **variable más**: Normalmente no pondremos s sino $x_i$ donde i será la siguiente variable usable. 
+
+Si una variable de decisión $x_i$ **puede tomar valores negativos** se pone entonces como la diferencia de dos variables no negativas restringidas: 
+
+$$
+x_i = x'_i − x'_i , x'_i , x ''_i ≥ 0
+$$
 ## Resolución de problemas lineales: 
 Los ejercicios de programación lineal se resuelven a trozos:
 1. Primero se debe de [[1726759568 - Creación de modelos en programación lineal|crear un modelo]] que contenga la función objetivo, restriciones y variables. 
 2. Una vez creado el modelo debemos de aplicar un método para resolverlo. 
 	+ [[1726835656 - Method - Resolución gráfica de modelos lineales|Method - Resolución gráfica de modelos lineales]]
 	+ [[1727270270 - Method - SIMPLEX|SIMPLEX]]
+***
+[^1]: El símbolo de igualdad con el triángulo encima significa igual **por definición.** Es matemáticamente un **axioma.**

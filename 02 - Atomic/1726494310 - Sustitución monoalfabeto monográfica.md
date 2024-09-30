@@ -9,22 +9,22 @@ cssclasses:
 ---
 # Sustitución mono-alfabeta monográfica
 
-> [!NOTE] Definición: 
-> **Monográfica:** Debido a que sustituye los grafos de uno en uno. Un carácter de texto-claro por 1 carácter de texto-cifrado
-> **Mono-alfabética:** Solo existe **un alfabeto transformado** (ver ejemplo cesar)
+**Cifrador de desplazamiento puro(ROT):**
 
-## Cifrador de desplazamiento puro(ROT):
 Es aquel cifrador que utiliza una función del tipo: 
 $$
 C_i = (m_i \pm b) \mod n
 $$
+Cada uno de los caracteres es desplazado dentro del propio alfabeto. 
 + b: Constante de desplazamiento. (Sería la clave del sistema)
 **Remarks:**
 + ROT → Rotación
 
-**El cifrador Cesar:**
-Un ejemplo de este cifrado sería el **cifrado cesar**, que **desplaza** el grafo dentro del alfabeto una cantidad de posiciones. 
-En este tipo de cifrado cada grafo **siempre se sustituye** por el mismo grafo-cifrado. → Solo hay un alfabeto transformado (**Mono-alfabetismo**)
+> p.e:
+	**El cifrador Cesar:**
+	Un ejemplo de este cifrado sería el **cifrado cesar**, que **desplaza** el grafo dentro del alfabeto una cantidad de posiciones. 
+	En este tipo de cifrado cada grafo **siempre se sustituye** por el mismo grafo-cifrado. → Solo hay un alfabeto transformado (**Mono-alfabetismo**)
+
 
 ## Cifrador de decimación pura:
 Es aquel que utiliza una multiplicación para variar el alfabeto y transformarlo en un alfabeto cifrado. 

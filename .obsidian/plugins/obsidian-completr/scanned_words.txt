@@ -2378,6 +2378,7 @@ david
 desplazado
 deseado
 dulo
+disponen
 modelos
 modelo
 maximizar
@@ -3167,6 +3168,7 @@ mailto
 memoria
 multiplicacion
 mios
+mbolos
 en
 ease
 es
@@ -4007,6 +4009,7 @@ evaluaciones
 exponencial
 empezando
 exprsi
+extraen
 programaci
 primer
 paso
@@ -4883,6 +4886,7 @@ polinomios
 polimonio
 polinoio
 polin
+patr
 lineal
 la
 lo
@@ -6377,6 +6381,7 @@ tarda
 trataremos
 terminar
 tratando
+trayectoria
 review
 resolver
 realizar
@@ -7147,6 +7152,9 @@ realizaremos
 representaci
 resta
 restar
+ricas
+representarn
+reordenan
 References
 Resoluci
 Rectas
@@ -8769,6 +8777,8 @@ cuerpos
 cual
 coeficiente
 clasicos
+cierto
+cierta
 sr
 se
 subproblemas
@@ -9579,6 +9589,8 @@ suma
 sicamente
 strings
 significar
+siguiendo
+siguiento
 interval
 importancia
 incorrecto
@@ -10970,6 +10982,8 @@ unir
 usar
 usos
 utiliz
+unos
+usan
 hora
 hacemos
 hacia
@@ -13567,6 +13581,7 @@ numeric
 nuevas
 numero
 nicas
+num
 Identificar
 Intro
 Identificaci
@@ -20811,6 +20826,7 @@ gastos
 grado
 grados
 guardamos
+geom
 Programaci
 Para
 Problema

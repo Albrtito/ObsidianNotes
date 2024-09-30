@@ -6,6 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
+sr-due: 2024-10-02
+sr-interval: 2
+sr-ease: 244
 ---
 # Criptosistemas clásicos
 
@@ -16,7 +19,7 @@ Los criptosistemas clásicos utilizan métodos clasicos de cifrado basados en la
 	Se cambián grupos de caracteres entre ellos según una clave. 
 	> p.e: La **escítala** es un mecanismo antiguo en el que, al enrolllar el pensaje en un bastón con **determinado diámetro**, el mensaje era descifrado. 
 + **Por series**:
-	Se definen una serie de series matem´
+	Se definen series numéricas. Cada serie con unos números en específico. Esos números representarn caracteres del mensaje. Se reordenan los caracteres según el orden de las series.
 + **Por columnas**
 	Se disponen los símbolos siguiendo un cierto patrón geométrico. Se extraen siguiento una cierta trayectoria.
 ## Métodos de sustitución:
