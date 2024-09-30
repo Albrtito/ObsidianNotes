@@ -6,8 +6,8 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-09-29
-sr-interval: 10
+sr-due: 2024-10-26
+sr-interval: 26
 sr-ease: 250
 ---
 # Principios de Kerckhoff

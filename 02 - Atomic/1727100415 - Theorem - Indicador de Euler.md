@@ -6,6 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
+sr-due: 2024-10-01
+sr-interval: 1
+sr-ease: 230
 ---
 # Theorem - Indicador de Euler
 
@@ -15,11 +18,11 @@ cssclasses:
 ## Teorema de Euler: 
 A la hora de calcular el indicador de euler de n podemos utilizar el teorema de euler:
 $$
-\boxed{a^\Phi(n)\mod n =1}
+\boxed{a^{\Phi(n)}\mod n =1}
 $$
 Gracias a este teorema podemos deducir la siguiente expresión: 
 $$
-a^{-|} = a^{\Phi(n)-1} \mod n = 1
+a^{-1} = a^{\Phi(n)-1} \mod n = 1
 $$
 + Esta expresión nos permite **calcular el inverso de a mod n**[^1]
 Si n es primo (p), todo se simplifica más aún (según la teoría del indicador de euler): 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+                "file": "02 - Atomic/The Laplace transform.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+                "file": "02 - Atomic/The Laplace transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+                "file": "02 - Atomic/The Laplace transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+                "file": "02 - Atomic/The Laplace transform.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md"
+                "file": "02 - Atomic/The Laplace transform.md"
               }
             }
           }
@@ -286,11 +286,12 @@
   },
   "active": "fcbcd17444f63270",
   "lastOpenFiles": [
+    "02 - Atomic/1726519620 - Principios de Kerckhoff.md",
+    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02 - Atomic/1727692919 - Campamentos de verano en Castilla y León.md",
     "02 - Atomic/Papeleo que hay que hacer para un campa.md",
     "02 - Atomic/Guía de un campamento de verano.md",
     "02 - Atomic/1727443922 - Cuerpos de Galois.md",
-    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
     "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
     "01.Areas/1.UC3M/Cripto.md",
@@ -312,7 +313,6 @@
     "02 - Atomic/1726500297 - Plan de Empresa.md",
     "00.References/Net_Resources_s3_1.pdf",
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-    "02 - Atomic/1725912047 - La microeconomía de la empresa.md",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/Net_References_s2_1.pdf",
     "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",
