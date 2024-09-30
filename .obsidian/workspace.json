@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
+                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
+                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
+                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
+                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726763938 - Exercises - Programación Lineal.md"
+                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md"
               }
             }
           }
@@ -313,6 +313,10 @@
   },
   "active": "6a773695178845bf",
   "lastOpenFiles": [
+    "02 - Atomic/1727096148 - Cifrador de flujo.md",
+    "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
+    "02 - Atomic/1726049178 - Definition - Communication links.md",
+    "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02 - Atomic/1727255580 - Loss and delay in Networks.md",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
@@ -335,10 +339,6 @@
     "02 - Atomic/1727105121 - Estrategia de la empresa.md",
     "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
     "02 - Atomic/1727710261 - Estrategias de integración.md",
-    "02 - Atomic/1727711018 - Estrategias de diversificación.md",
-    "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
-    "02 - Atomic/1727443922 - Cuerpos de Galois.md",
-    "02 - Atomic/1726493246 - Algorithm - AES.md",
     "00.References/Net_Resources_s3_1.pdf",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/Net_References_s2_1.pdf",
