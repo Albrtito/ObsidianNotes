@@ -6,6 +6,9 @@ tags:
   - Networks
 References: 
 cssclasses:
+sr-due: 2024-10-02
+sr-interval: 2
+sr-ease: 245
 ---
 # Method - RDT Sliding window
 
@@ -15,6 +18,8 @@ cssclasses:
 + The packets in flight are those inside the window. 
 + The packets inside the window are **remembered**. 
 	+ Once a package is acknowledged a new package enters the window and the acknowledged package is forgotten. 
+
+There are two implementations.
 ### Selective repeat:
 + The receiver needs a buffer, as big as the one in the sender that can store packages in order to reorder them. 
 
@@ -24,6 +29,7 @@ cssclasses:
 
 ### Go-Back-N:
 Only one timer. This timer is associated to the oldest package in the window. 
+
 The receiver only wants the next package, if this package is not received, then it s**ends an acknowledgment for the package it is waiting for.**
 + Once the receiver drops one package of the window, then the whole window is retransmitted starting from the package that was lost.
 

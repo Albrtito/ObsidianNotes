@@ -1,9 +1,8 @@
 ---
 aliases:
   - Campamentos de verano en Castilla y León
-tags:
-  - review
-"References":
+tags: []
+References: 
 cssclasses:
 ---
 # Campamentos de verano en Castilla y León

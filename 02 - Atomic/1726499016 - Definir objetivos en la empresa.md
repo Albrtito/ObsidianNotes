@@ -1,15 +1,17 @@
 ---
 aliases:
-  - Creación de valor y objetivos de la empresa
+  - Definir objetivos en la empresa
 tags:
   - review
   - Empresa
 References: 
 cssclasses:
+sr-due: 2024-10-03
+sr-interval: 3
+sr-ease: 250
 ---
-# Creación de valor y objetivos de la empresa
+# Definición de objetivos en la empresa
 
-## Definir objetivos, los grupos de interés.
 
 > [!BUG] Problema: 
 >  Existe un problema a la hora de definir el objetivo de la empresa como “ganar dinero” puesto a que no podemos cuantificar cuanto dinero y no es un objetivo válido para todos los grupos (políticos y económicos) de la empresa. 

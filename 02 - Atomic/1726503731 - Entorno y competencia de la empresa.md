@@ -6,19 +6,23 @@ tags:
   - Empresa
 References: 
 cssclasses:
+sr-due: 2024-10-01
+sr-interval: 1
+sr-ease: 230
 ---
 
 # Entorno y competencia de la empresa: 
+El **donde** actua y se desarrolla la empresa es de vital importancia, debemos de conocer los diferentes factores que actuan para poder **analizarlso.**
 
 ## Entorno genérico:
 > [!NOTE] Definición:
-> Conjunto de factores que afectan a todas las empresas en un **lugar y tiempo definido**. 
+> Conjunto de factores que afectan a todas las empresas de distintos sectores en un **lugar y tiempo definido**. 
 ### Factores:
 + **Factores económicos**: Conjunto de factores que conforman el sistema económico de un país
 	+ Variables macroeconómicas: Tipo de interés, tipo de cambio de la moneda, inflación, deficit público, [[1726500637 - Definición - Saldo de la balanza comercial|Saldo de la balanza comercial]] y la tasa de paro.
 	+ Fase del ciclo económico: Son cíclicos y existen dos, de **expansión y de recesión**
 	+ Tipo de política económica: Política de impuestos y política de tipos de interés
-	+ Recursos del país: Situación geográfica, Clima, etc.
+	+ ==Recursos del país: Situación geográfica, Clima, etc.==
 + **Factores político legales:** 
 	+ Políticas fiscal-monetarias
 	+ Regulación del mercado laboral: 
@@ -28,19 +32,18 @@ cssclasses:
 + **Factores socio-culturales:**
 	+ Sistema de valores: 
 		+ p.e: Espíritu al trabajo
-	+ Nivel educativo 
+	+ ==Nivel educativo== 
 	+ Estructura de clases: Cantidad de clase media
-	+ …
 + **Factores tecnológicos:**
-	+ Tecnologías básicas: Aquellas que están al alcance de cualquier empresa
-	+ Tecnología clave: No está al alcance. Tenerlo es bueno y diferencia del resto. 
-	+ Tecnología incipiente: Aquella que será clave pero se está desarrollando. 
+	+ **Tecnologías básicas:** Aquellas que están al alcance de cualquier empresa
+	+ **Tecnología clave:** No está al alcance. Tenerlo es bueno y diferencia del resto. 
+	+ **Tecnología incipiente:** Aquella que será clave pero se está desarrollando. 
 
 ## Entorno específico:
 
 > [!NOTE] Definición:
 Conjunto de factores que afectan a una única empresa o a un grupo de empresas **con características similares**. 
-
++ Mismo sector
 ### Factores: 
 + **Barreras de entrada**: Requisitos mínimos necesarios para entrar al mercado y como de dificil es conseguirlos.
 + **Barreras de salida:** Actualmente hay muy pocas. Una fácil de ver es la del despido laboral (hay q cumplir una normativa). 
@@ -58,7 +61,7 @@ Conjunto de factores que afectan a una única empresa o a un grupo de empresas *
 		+ Más estandarización → Más rivalidad
 
 ## Análisis:
-El análisis externo se desarrolla a través de [[1726504551 - Method - Las 5 fuerzas de Porter|Las 5 fuerzas de Porter]] . Este, junto al análisis interno sirve para crear los **objetivos de la empresa y estrategias de la empresa**. 
+El **análisis externo** se desarrolla a través de [[1726504551 - Method - Las 5 fuerzas de Porter|Las 5 fuerzas de Porter]] . Este, junto al análisis interno sirve para crear los **objetivos de la empresa y estrategias de la empresa**. 
 
 
 **Análisis interno:** Identificar las fortalezas y las debilidades para desarrollar una posición competitiva. 

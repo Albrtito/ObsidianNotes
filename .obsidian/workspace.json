@@ -8,28 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4441846612502312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1727122369 - Estados contables.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fcbcd17444f63270",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "00.References/Net_References_s3_2.pdf"
               }
             }
           },
@@ -39,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+                "file": "02 - Atomic/1726574469 - Application layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +31,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -157,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+                "file": "02 - Atomic/1726574469 - Application layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+                "file": "02 - Atomic/1726574469 - Application layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md",
+                "file": "02 - Atomic/1726574469 - Application layer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726499016 - Creación de valor y ojetivos de la empresa.md"
+                "file": "02 - Atomic/1726574469 - Application layer.md"
               }
             }
           }
@@ -313,18 +297,24 @@
   },
   "active": "6a773695178845bf",
   "lastOpenFiles": [
+    "02 - Atomic/1727122369 - Estados contables.md",
+    "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
+    "02 - Atomic/1727692919 - Campamentos de verano en Castilla y León.md",
+    "00.References/Net_References_s3_2.pdf",
+    "01.Areas/1.UC3M/Networks.md",
+    "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+    "02 - Atomic/1727443922 - Cuerpos de Galois.md",
+    "02 - Atomic/1726499016 - Definir objetivos en la empresa.md",
     "02 - Atomic/1727096148 - Cifrador de flujo.md",
     "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
     "02 - Atomic/1726049178 - Definition - Communication links.md",
     "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02 - Atomic/1727255580 - Loss and delay in Networks.md",
-    "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
     "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
     "02 - Atomic/1727105227 - Modelos de negocio de la empresa.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "02 - Atomic/1726574469 - Application layer.md",
-    "02 - Atomic/1727122369 - Estados contables.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "02 - Atomic/1727270366 - Forma estandar.md",
     "02 - Atomic/1727270318 - Forma canónica.md",
@@ -333,12 +323,7 @@
     "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1726520589 - Definition - Criptosistema.md",
     "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
-    "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02 - Atomic/1727712353 - Responsabilidad social de la empresa.md",
-    "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
-    "02 - Atomic/1727105121 - Estrategia de la empresa.md",
-    "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
-    "02 - Atomic/1727710261 - Estrategias de integración.md",
     "00.References/Net_Resources_s3_1.pdf",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/Net_References_s2_1.pdf",
@@ -353,7 +338,6 @@
     "00.References/Net_Biblio_Kurose.pdf",
     "www.uc3m.es",
     "01.Areas/1.UC3M/Movilidad.canvas",
-    "Untitled",
     "99 - Meta/0. Attachments/Cripto.png",
     "99 - Meta/0. Attachments/1727187154 - Method - RDT Over reliable channel.png",
     "99 - Meta/0. Attachments/1727176650 - Principles of reliable data transfer-1.png",
