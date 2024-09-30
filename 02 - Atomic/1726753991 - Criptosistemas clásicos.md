@@ -34,7 +34,8 @@ Necesitamos conocer el concepto de sustitución monoalfabética, polialfabética
 > + Poli→ Más de uno
 
 ### Monoalfabéticas:
-+ [[1727712623 - Sustitución monoalfabética poligráfica|Poligráfica]]
++ Poligráfica
+	>p.e: Cifradores de PLAYFAIR y HILL. Uso de matrices y equaciones lineales.
 + [[1726494310 - Sustitución monoalfabeto monográfica|Monográfica]]
 ### Polialfabéticas:
 + [[1726496164 - Sustitución polialfabética periódica|Periódica]]
