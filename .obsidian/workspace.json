@@ -6,7 +6,6 @@
       {
         "id": "f3cd2baafda53b50",
         "type": "tabs",
-        "dimension": 63.0621526023244,
         "children": [
           {
             "id": "fcbcd17444f63270",
@@ -20,68 +19,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d1891df5d7c9cce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240519 - 232552 - Definition - Relatively prime numbers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "260f6e2c2a7492ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240520 - 171554 - Definition - Modular arithmetics - Multiplicative inverse of x.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "c0ed840f92fc3792",
-        "type": "tabs",
-        "dimension": 36.9378473976756,
-        "children": [
-          {
-            "id": "54919db2dee1e3e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/Papeleo que hay que hacer para un campa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d312eccbcf1a249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1727692919 - Campamentos de verano en Castilla y León.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/Papeleo que hay que hacer para un campa.md",
+                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/Papeleo que hay que hacer para un campa.md",
+                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/Papeleo que hay que hacer para un campa.md",
+                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/Papeleo que hay que hacer para un campa.md"
+                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md"
               }
             }
           }
@@ -344,7 +284,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "54919db2dee1e3e5",
+  "active": "fcbcd17444f63270",
   "lastOpenFiles": [
     "02 - Atomic/1727692919 - Campamentos de verano en Castilla y León.md",
     "02 - Atomic/Papeleo que hay que hacer para un campa.md",
