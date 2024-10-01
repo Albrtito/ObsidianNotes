@@ -38,5 +38,12 @@ sr-ease: 230
 
 ## TCP segment:
 + **Sequence number of the package:** Given by the sequence number of the first byte. This is because all bytes are numbered. 
-+ **Sequence number of the ack:** 
++ **Sequence number of the ack:** The acknowledgement package has the number of the **package it is waiting go recieve**. Ack number = expected sequence number
+
+## Echoes: 
+Resend of the last package with the same data. To assure that the data has been recieved. 
+
+## Round Trip Time(RTT):
++ Associate a timer to the **oldest package being sent** (without a recieved ack)
+
 ***

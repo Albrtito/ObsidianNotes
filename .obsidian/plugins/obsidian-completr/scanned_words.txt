@@ -4231,6 +4231,7 @@ edA
 eSU
 eiJ
 eEV
+expected
 programaci
 primer
 paso
@@ -7518,6 +7519,7 @@ rcW
 ram
 rEj
 rest
+recieve
 References
 Resoluci
 Rectas
@@ -12927,6 +12929,7 @@ ErgOx
 EZM
 EWN
 EfF
+Echoes
 vital
 variables
 vez
@@ -18581,6 +18584,7 @@ ArialUnicodeMS
 AaS
 AAxW
 ACKS
+Ack
 Floyd
 Foundations
 Funci
