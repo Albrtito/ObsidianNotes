@@ -48,6 +48,6 @@ cssclasses:
 + Para ver optativas hay que verlo directamente en la web de universidad de destino. Hablar con los [advisers](https://docs.google.com/spreadsheets/d/1qsCpiNLDZb9Ug9BzPpbT8utzP6GDyeLY?rtpof=true&usp=drive_fs).
 + Para comprobar gastos medios o fondos necesarios a acreditar hay que ir a la web de la universidad.
 # Universidades: 
-
++ [[1727779651 - Movilidad Universitaria en Egipto|Movilidad Universitaria en Egipto]]
 
 ***

@@ -26,4 +26,8 @@ sr-ease: 230
 	+ minimum throguhput
 + Requires for the server and the client to **set up the connection** (==Three-way handshake)==
 
+
+## Properties:
+
++ The TCP protocol must control the flow of data so that there are less packages being sent but sent constantly. This is because **for each package a frame will be created**. This frame i
 ***
