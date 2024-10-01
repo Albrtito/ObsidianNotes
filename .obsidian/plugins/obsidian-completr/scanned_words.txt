@@ -1652,6 +1652,7 @@ CgK
 CitD
 Cmx
 Cummulative
+Create
 de
 due
 dar
@@ -2519,6 +2520,9 @@ dIU
 dYC
 dha
 dfS
+decreases
+decreasing
+deviation
 modelos
 modelo
 maximizar
@@ -3356,6 +3360,8 @@ mMc
 mGC
 mEO
 minimun
+macke
+margin
 en
 ease
 es
@@ -4232,6 +4238,9 @@ eSU
 eiJ
 eEV
 expected
+exponentialy
+estimated
+explained
 programaci
 primer
 paso
@@ -5894,6 +5903,7 @@ lmc
 lgw
 lAf
 lzi
+longer
 tags
 tres
 todos
@@ -6703,6 +6713,9 @@ tum
 teU
 tradeof
 till
+try
+timout
+timeout
 review
 resolver
 realizar
@@ -8216,6 +8229,7 @@ Rak
 RwT
 RoV
 RWs
+Reciever
 cssclasses
 correcto
 correcta
@@ -10078,6 +10092,9 @@ sVd
 stablished
 spaces
 segment
+stored
+sample
+samples
 interval
 importancia
 incorrecto
@@ -10885,6 +10902,7 @@ ihC
 imlZ
 iYPK
 iWC
+intervals
 un
 una
 utiliza
@@ -12930,6 +12948,8 @@ EZM
 EWN
 EfF
 Echoes
+Estimation
+Eestimating
 vital
 variables
 vez
@@ -13618,6 +13638,8 @@ vdb
 vDT
 vxO
 vBP
+variabilty
+variance
 no
 nuestras
 ndar
@@ -17153,6 +17175,9 @@ opDza
 oAaX
 ogIx
 oDK
+overestimate
+overshooting
+overshoot
 que
 queremos
 qD
@@ -18585,6 +18610,7 @@ AaS
 AAxW
 ACKS
 Ack
+Associate
 Floyd
 Foundations
 Funci
@@ -21288,6 +21314,7 @@ TBN
 TIv
 TgZ
 Trans
+Timeout
 grafo
 guardan
 global
@@ -26756,6 +26783,7 @@ bgf
 bDw
 bRY
 bytes
+bad
 Util
 Una
 UniZumo
@@ -28723,6 +28751,7 @@ Ojc
 ONq
 OklC
 One
+Out
 ximo
 xrL
 xFQ
@@ -35173,6 +35202,7 @@ whZ
 wdwyeB
 wfzu
 wgmi
+weight
 kL
 kMZ
 kC

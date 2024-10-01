@@ -36,6 +36,7 @@ sr-ease: 230
 
 + **Cummulative ACKS:** Each ack not only says that the last package was correct. It also says that **all packages till that point where recieved correctly**.
 
++ **Out of order packages are stored**
 ## TCP segment:
 + **Sequence number of the package:** Given by the sequence number of the first byte. This is because all bytes are numbered. 
 + **Sequence number of the ack:** The acknowledgement package has the number of the **package it is waiting go recieve**. Ack number = expected sequence number
@@ -70,7 +71,10 @@ Finally, the gloval timeout interval will be:
 $$
 \boxed{TimeoutInterval = EstimatedRTT + 4\cdot DevRTT}
 $$
+
 ## Sender&Reciever:
  
 
+## ACK Generation: 
+Right now the protocol reacts with a large waiting time (4 times the deviation). 
 ***
