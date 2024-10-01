@@ -15,6 +15,7 @@ Coordenadas: 43°09′00″N,  5°25′00″O. Altitud: 717 m
 Dentro del [Parque Natural de Redes](../../02%20-%20Atomic/Parque%20Natural%20de%20Redes.md)
 
 # Papeleo: 
+
 + [Papeleo Caleao 24](../../02%20-%20Atomic/Papeleo%20Caleao%2024.md)
 
 # Rutas y sitios: 
