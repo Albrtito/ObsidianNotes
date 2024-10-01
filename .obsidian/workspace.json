@@ -6,6 +6,7 @@
       {
         "id": "f3cd2baafda53b50",
         "type": "tabs",
+        "dimension": 44.83695652173913,
         "children": [
           {
             "id": "6a7128ca8392f658",
@@ -26,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
+                "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,11 +35,13 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       },
       {
         "id": "1b21d3a30fefbff9",
         "type": "tabs",
+        "dimension": 55.16304347826087,
         "children": [
           {
             "id": "10133c0e520357a8",
@@ -170,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
+                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
+                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
+                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727166266 - Movilidad no Europea.md"
+                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf"
               }
             }
           }
@@ -325,13 +328,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6a7128ca8392f658",
+  "active": "5a1fea179bdf70de",
   "lastOpenFiles": [
+    "02 - Atomic/1727166266 - Movilidad no Europea.md",
+    "02 - Atomic/1727428451 - Definition - TCP.md",
     "01.Areas/1.UC3M/Movilidad.md",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
-    "02 - Atomic/1727428451 - Definition - TCP.md",
     "00.References/Net_Resources_s3_3.pdf",
-    "02 - Atomic/1727166266 - Movilidad no Europea.md",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1727779651 - Movilidad Universitaria en Egipto.md",
     "02 - Atomic/ListadoDe.md",

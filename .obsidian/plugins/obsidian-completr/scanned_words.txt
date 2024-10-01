@@ -865,6 +865,8 @@ aXPi
 azq
 ark
 acks
+ackt
+away
 Creaci
 Crear
 Cuando
@@ -2523,6 +2525,7 @@ dfS
 decreases
 decreasing
 deviation
+duplicate
 modelos
 modelo
 maximizar
@@ -6716,6 +6719,7 @@ till
 try
 timout
 timeout
+tolerate
 review
 resolver
 realizar
@@ -7533,6 +7537,8 @@ ram
 rEj
 rest
 recieve
+reacts
+reaction
 References
 Resoluci
 Rectas
@@ -8230,6 +8236,7 @@ RwT
 RoV
 RWs
 Reciever
+Right
 cssclasses
 correcto
 correcta
@@ -17178,6 +17185,7 @@ oDK
 overestimate
 overshooting
 overshoot
+opciones
 que
 queremos
 qD
@@ -20615,6 +20623,7 @@ HOX
 HgTg
 HNN
 Hqkh
+Hong
 TODOS
 The
 Trabajo
@@ -21315,6 +21324,7 @@ TIv
 TgZ
 Trans
 Timeout
+Technology
 grafo
 guardan
 global
@@ -24121,6 +24131,7 @@ SCr
 Sjor
 Sny
 Sequence
+Science
 Manual
 Modelar
 Millones
@@ -27432,6 +27443,7 @@ UYQZR
 Ubb
 UGpyz
 UPg
+University
 QUE
 Que
 QE
@@ -31332,6 +31344,7 @@ Gzl
 GMh
 GiU
 GVH
+Generation
 Nota
 Novo
 Nacional
@@ -37104,6 +37117,7 @@ KPu
 KGr
 KBX
 KpI
+Kong
 ÜL
 ÜI
 Ün
