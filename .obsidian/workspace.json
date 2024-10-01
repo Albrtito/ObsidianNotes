@@ -6,7 +6,6 @@
       {
         "id": "f3cd2baafda53b50",
         "type": "tabs",
-        "dimension": 44.83695652173913,
         "children": [
           {
             "id": "6a7128ca8392f658",
@@ -27,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
+                "file": "01.Areas/1.UC3M/ByteSub.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -37,34 +36,6 @@
         ],
         "currentTab": 1,
         "stacked": true
-      },
-      {
-        "id": "1b21d3a30fefbff9",
-        "type": "tabs",
-        "dimension": 55.16304347826087,
-        "children": [
-          {
-            "id": "10133c0e520357a8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Net_Resources_s3_3.pdf"
-              }
-            }
-          },
-          {
-            "id": "5a1fea179bdf70de",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1087c22e61a64185",
@@ -140,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5041847229004,
-    "collapsed": true
+    "width": 489.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -173,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
+                "file": "01.Areas/1.UC3M/ByteSub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
+                "file": "01.Areas/1.UC3M/ByteSub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
+                "file": "01.Areas/1.UC3M/ByteSub.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf"
+                "file": "01.Areas/1.UC3M/ByteSub.md"
               }
             }
           }
@@ -328,13 +297,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5a1fea179bdf70de",
+  "active": "4070806c81421c80",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/AES.md",
+    "01.Areas/1.UC3M/AddRoundKey.md",
     "02 - Atomic/1727166266 - Movilidad no Europea.md",
+    "00.References/Net_Resources_s3_3.pdf",
+    "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
+    "01.Areas/1.UC3M/ShiftRow.md",
+    "01.Areas/1.UC3M/MixColumns.md",
+    "01.Areas/1.UC3M/Cifradores de bloques.md",
+    "01.Areas/1.UC3M/ByteSub.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "01.Areas/1.UC3M/Movilidad.md",
-    "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
-    "00.References/Net_Resources_s3_3.pdf",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1727779651 - Movilidad Universitaria en Egipto.md",
     "02 - Atomic/ListadoDe.md",
@@ -353,12 +328,6 @@
     "02 - Atomic/1727122369 - Estados contables.md",
     "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
     "02 - Atomic/1727692919 - Campamentos de verano en Castilla y León.md",
-    "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
-    "02 - Atomic/1727443922 - Cuerpos de Galois.md",
-    "02 - Atomic/1726499016 - Definir objetivos en la empresa.md",
-    "02 - Atomic/1727096148 - Cifrador de flujo.md",
-    "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
-    "02 - Atomic/1726049178 - Definition - Communication links.md",
     "00.References/Net_Resources_s3_1.pdf",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",

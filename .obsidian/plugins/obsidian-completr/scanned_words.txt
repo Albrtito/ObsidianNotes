@@ -867,6 +867,8 @@ ark
 acks
 ackt
 away
+adimos
+adiendo
 Creaci
 Crear
 Cuando
@@ -2526,6 +2528,7 @@ decreases
 decreasing
 deviation
 duplicate
+demostradas
 modelos
 modelo
 maximizar
@@ -3365,6 +3368,7 @@ mEO
 minimun
 macke
 margin
+mezcla
 en
 ease
 es
@@ -4244,6 +4248,11 @@ expected
 exponentialy
 estimated
 explained
+exclusivo
+ejecutan
+ergo
+expandida
+expandir
 programaci
 primer
 paso
@@ -5155,6 +5164,8 @@ pxXM
 pzzx
 pZlIk
 pzK
+propagaci
+probada
 lineal
 la
 lo
@@ -5907,6 +5918,11 @@ lgw
 lAf
 lzi
 longer
+ltima
+longitudes
+llamada
+larga
+linealidad
 tags
 tres
 todos
@@ -6720,6 +6736,9 @@ try
 timout
 timeout
 tolerate
+trica
+tecnolog
+tese
 review
 resolver
 realizar
@@ -7539,6 +7558,10 @@ rest
 recieve
 reacts
 reaction
+ronda
+rondas
+requiren
+reducci
 References
 Resoluci
 Rectas
@@ -9243,6 +9266,10 @@ cur
 composed
 correctly
 carried
+cuatro
+calculan
+calculado
+campo
 sr
 se
 subproblemas
@@ -10102,6 +10129,9 @@ segment
 stored
 sample
 samples
+subclaves
+subclave
+suficientemente
 interval
 importancia
 incorrecto
@@ -10910,6 +10940,13 @@ imlZ
 iYPK
 iWC
 intervals
+intermedio
+internas
+invertibles
+inicialmente
+inversas
+iteraciones
+inversor
 un
 una
 utiliza
@@ -11573,6 +11610,11 @@ uVu
 ugQ
 uDLwDLv
 uVt
+unidad
+usaremos
+usadas
+usarse
+usada
 hora
 hacemos
 hacia
@@ -12204,6 +12246,7 @@ hne
 hplbG
 hWs
 hosta
+hexadecimal
 Es
 Este
 Ejemplos
@@ -12957,6 +13000,9 @@ EfF
 Echoes
 Estimation
 Eestimating
+Estado
+Esquema
+Expansi
 vital
 variables
 vez
@@ -15035,6 +15081,7 @@ IsjQ
 IQY
 Ihf
 IeM
+Implementa
 Definir
 Din
 Design
@@ -16458,6 +16505,7 @@ fDg
 fsXn
 flow
 flows
+filas
 objetivo
 obtener
 of
@@ -18619,6 +18667,8 @@ AAxW
 ACKS
 Ack
 Associate
+AddRoundKey
+Acepta
 Floyd
 Foundations
 Funci
@@ -19262,6 +19312,7 @@ FOV
 FzH
 Fbu
 FaK
+Feistel
 Warshall
 Width
 We
@@ -23396,6 +23447,8 @@ Bhj
 BLPkF
 BGK
 BOC
+Box
+ByteSub
 Steven
 Skiena
 Serie
@@ -24132,6 +24185,7 @@ Sjor
 Sny
 Sequence
 Science
+ShiftRows
 Manual
 Modelar
 Millones
@@ -24847,6 +24901,8 @@ MaS
 MAU
 MAQ
 Meaning
+MixColumns
+Matriz
 Zivkovic
 Zo
 Zi
@@ -26795,6 +26851,7 @@ bDw
 bRY
 bytes
 bad
+bloques
 Util
 Una
 UniZumo
@@ -27444,6 +27501,7 @@ Ubb
 UGpyz
 UPg
 University
+Usa
 QUE
 Que
 QE
@@ -28764,6 +28822,7 @@ ONq
 OklC
 One
 Out
+Opera
 ximo
 xrL
 xFQ
