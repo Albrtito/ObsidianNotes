@@ -864,6 +864,7 @@ aMg
 aXPi
 azq
 ark
+acks
 Creaci
 Crear
 Cuando
@@ -1650,6 +1651,7 @@ CQC
 CgK
 CitD
 Cmx
+Cummulative
 de
 due
 dar
@@ -6699,6 +6701,7 @@ tzO
 tum
 teU
 tradeof
+till
 review
 resolver
 realizar
@@ -9215,6 +9218,8 @@ cxr
 cbQ
 cur
 composed
+correctly
+carried
 sr
 se
 subproblemas
@@ -10070,6 +10075,7 @@ sfe
 sVd
 stablished
 spaces
+segment
 interval
 importancia
 incorrecto
@@ -12170,6 +12176,7 @@ hYKh
 hne
 hplbG
 hWs
+hosta
 Es
 Este
 Ejemplos
@@ -18573,6 +18580,7 @@ AOkfH
 ArialUnicodeMS
 AaS
 AAxW
+ACKS
 Floyd
 Foundations
 Funci
@@ -22736,6 +22744,8 @@ PMvc
 PKIA
 PHP
 PkQ
+PIGGYBACKING
+Piggybacks
 Biblio
 BitsPerComponent
 BI
@@ -24079,6 +24089,7 @@ Soq
 SCr
 Sjor
 Sny
+Sequence
 Manual
 Modelar
 Millones
@@ -26740,6 +26751,7 @@ bgusl
 bgf
 bDw
 bRY
+bytes
 Util
 Una
 UniZumo

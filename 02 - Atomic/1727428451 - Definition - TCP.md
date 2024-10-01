@@ -32,9 +32,11 @@ sr-ease: 230
 
 + **Bi-Directional flow of data**: The data will be composed of two unidirectional flows. Meaning both hosts can **act as both reciever and sender**.
   Therefore we need to create **two different sequence number spaces**. One for each sender.
+	+ Because both hosta are going to send data, the **acks will be carried within the data sent as response**, this is called **PIGGYBACKING**
 
 + **Cummulative ACKS:** Each ack not only says that the last package was correct. It also says that **all packages till that point where recieved correctly**.
 
 ## TCP segment:
-
++ **Sequence number of the package:** Given by the sequence number of the first byte. This is because all bytes are numbered. 
++ **Sequence number of the ack:** 
 ***
