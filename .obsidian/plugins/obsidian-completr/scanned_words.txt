@@ -9214,6 +9214,7 @@ cvl
 cxr
 cbQ
 cur
+composed
 sr
 se
 subproblemas
@@ -10068,6 +10069,7 @@ smT
 sfe
 sVd
 stablished
+spaces
 interval
 importancia
 incorrecto
@@ -15701,6 +15703,7 @@ DcuI
 DPGE
 DqV
 Dissolve
+Directional
 funci
 fibonacci
 fica
@@ -16415,6 +16418,7 @@ fMb
 fDg
 fsXn
 flow
+flows
 objetivo
 obtener
 of
@@ -24789,6 +24793,7 @@ MSY
 MaS
 MAU
 MAQ
+Meaning
 Zivkovic
 Zo
 Zi
@@ -28701,6 +28706,7 @@ OSN
 Ojc
 ONq
 OklC
+One
 ximo
 xrL
 xFQ
