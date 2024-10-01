@@ -11,12 +11,9 @@
             "id": "6a7128ca8392f658",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf"
               }
             }
           }
@@ -96,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5041847229004
+    "width": 284.0041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -128,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md"
+                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf"
               }
             }
           }
@@ -283,8 +280,8 @@
   },
   "active": "6a7128ca8392f658",
   "lastOpenFiles": [
-    "01.Areas/3.Matterhorn/Caleao 24.md",
     "01.Areas/1.UC3M/Cripto.md",
+    "01.Areas/3.Matterhorn/Caleao 24.md",
     "02 - Atomic/1727808593 - Cifradores de bloque.md",
     "02 - Atomic/1727808813 - MixColumns.md",
     "02 - Atomic/1726493246 - Algorithm - AES.md",
