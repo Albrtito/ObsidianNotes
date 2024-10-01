@@ -64,10 +64,13 @@ $$
 DevRTT = (1-\beta)\cdot DevRTT + \beta|SampleRTT - EstimatedRTT|
 $$
 ## Timeout interval: 
-Using what we h
+Using what we have just explained about RTT, we use that data to compute the timout intervals for timers sending the oldest package:
+
 Finally, the gloval timeout interval will be: 
 $$
-\boxed{TimeoutInterval}
+\boxed{TimeoutInterval = EstimatedRTT + 4\cdot DevRTT}
 $$
+## Sender&Reciever:
+ 
 
 ***
