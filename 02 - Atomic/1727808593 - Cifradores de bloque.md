@@ -1,4 +1,13 @@
-# Cifradores de bloques
+---
+aliases:
+  - Cifradores de bloque
+tags:
+  - review
+  - Cripto
+References: 
+cssclasses:
+---
+# Cifradores de bloque
 
 Descomponen $M$ en bloques de símbolos de igual longitud tal que:
 $$M = M_1, M_2, ..., M_n$$
@@ -23,6 +32,4 @@ Para resolver este problema, se genera un algoritmo de cifrado usando redes de p
 
 
 
-
-
-
+***

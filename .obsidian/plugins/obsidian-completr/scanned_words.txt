@@ -870,6 +870,7 @@ away
 adimos
 adiendo
 asignaciones
+asegurando
 Creaci
 Crear
 Cuando
@@ -1659,6 +1660,7 @@ Cmx
 Cummulative
 Create
 Cifran
+Consiste
 de
 due
 dar
@@ -2531,6 +2533,7 @@ decreasing
 deviation
 duplicate
 demostradas
+desplazando
 modelos
 modelo
 maximizar
@@ -3372,6 +3375,8 @@ macke
 margin
 mezcla
 mapeo
+matrix
+multiplicando
 en
 ease
 es
@@ -7570,6 +7575,7 @@ requiren
 reducci
 reversible
 redes
+relativo
 References
 Resoluci
 Rectas
@@ -8268,6 +8274,7 @@ RoV
 RWs
 Reciever
 Right
+Recuerde
 cssclasses
 correcto
 correcta
@@ -9279,6 +9286,7 @@ calculan
 calculado
 campo
 cambiarse
+consideradas
 sr
 se
 subproblemas
@@ -10958,6 +10966,8 @@ inversas
 iteraciones
 inversor
 itera
+importada
+izquierda
 un
 una
 utiliza
@@ -15094,6 +15104,7 @@ IQY
 Ihf
 IeM
 Implementa
+Imagen
 Definir
 Din
 Design
@@ -16520,6 +16531,8 @@ fsXn
 flow
 flows
 filas
+fila
+fijo
 objetivo
 obtener
 of
@@ -24201,6 +24214,8 @@ Sny
 Sequence
 Science
 ShiftRows
+ShiftRow
+Suponiendo
 Manual
 Modelar
 Millones

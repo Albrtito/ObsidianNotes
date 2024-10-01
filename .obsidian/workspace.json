@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1726493246 - Algorithm - AES.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Apuntes javi/AES.md",
+                "file": "02 - Atomic/1727808813 - MixColumns.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e508d4f1b4c88ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1727808593 - Cifradores de bloque.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -141,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/1727808593 - Cifradores de bloque.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/1727808593 - Cifradores de bloque.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,6 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/1727808593 - Cifradores de bloque.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +201,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "tag:#Calc  ",
@@ -247,7 +264,7 @@
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 500,
                   "scale": 0.10670327140994698,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -263,7 +280,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/1727808593 - Cifradores de bloque.md"
+              }
             }
           }
         ]
@@ -289,19 +308,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b89f836cb1d8a8cd",
+  "active": "4e508d4f1b4c88ef",
   "lastOpenFiles": [
-    "01.Areas/1.UC3M/Apuntes javi",
-    "01.Areas/1.UC3M/Cripto.md",
-    "02 - Atomic/1727166266 - Movilidad no Europea.md",
-    "01.Areas/1.UC3M/Apuntes javi/AES.md",
-    "01.Areas/1.UC3M/Apuntes javi/Cifradores de bloques.md",
+    "02 - Atomic/1726493246 - Algorithm - AES.md",
+    "02 - Atomic/Cifrado&DescifradoSimetrico.png.md",
+    "02 - Atomic/1727808813 - MixColumns.md",
+    "02 - Atomic/1727808777 - ShiftRow.md",
+    "02 - Atomic/1727808685 - ByteSub.md",
+    "02 - Atomic/1727808655 - AddRoundKey.md",
+    "01.Areas/1.UC3M/Apuntes javi/MixColumns.md",
+    "01.Areas/1.UC3M/Apuntes javi/ShiftRow.md",
     "01.Areas/1.UC3M/Apuntes javi/ByteSub.md",
     "01.Areas/1.UC3M/Apuntes javi/AddRoundKey.md",
+    "01.Areas/1.UC3M/Apuntes javi/Cifradores de bloques.md",
+    "02 - Atomic/1727808593 - Cifradores de bloque.md",
+    "01.Areas/1.UC3M/Apuntes javi/AES.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "01.Areas/1.UC3M/Apuntes javi",
+    "02 - Atomic/1727166266 - Movilidad no Europea.md",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
-    "01.Areas/1.UC3M/Apuntes javi/ShiftRow.md",
-    "01.Areas/1.UC3M/Apuntes javi/MixColumns.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "01.Areas/1.UC3M/Movilidad.md",
     "01.Areas/1.UC3M/Networks.md",
@@ -313,14 +339,8 @@
     "00.References/Net_References_s3_2.pdf",
     "02 - Atomic/1726754186 - Criptosistemas modernos.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
-    "02 - Atomic/1726493246 - Algorithm - AES.md",
     "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
     "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
-    "02 - Atomic/1727121162 - Contabilidad.md",
-    "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
-    "02 - Atomic/1727712623 - Sustitución monoalfabética poligráfica.md",
-    "02 - Atomic/1727122369 - Estados contables.md",
-    "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
     "00.References/Net_Resources_s3_1.pdf",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",
@@ -330,7 +350,6 @@
     "99 - Meta/0. Attachments/1727430724 - Circuit switcing-1.png",
     "99 - Meta/0. Attachments/1727430724 - Circuit switcing.png",
     "00.References/DiffCalc_Theory_SystemsOfLinearODEs.pdf",
-    "00.References/Redes_Biblio_Kurose.pdf",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "99 - Meta/0. Attachments/Cripto.png",
     "99 - Meta/0. Attachments/1727187154 - Method - RDT Over reliable channel.png",
