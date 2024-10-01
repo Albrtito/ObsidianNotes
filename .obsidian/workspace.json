@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00.References/Net_References_s3_2.pdf"
+                "file": "00.References/Net_References_s2_1.pdf"
               }
             }
           },
@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
+                "file": "02 - Atomic/1726574469 - Application layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
+                "file": "02 - Atomic/1726574469 - Application layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
+                "file": "02 - Atomic/1726574469 - Application layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
+                "file": "02 - Atomic/1726574469 - Application layer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md"
+                "file": "02 - Atomic/1726574469 - Application layer.md"
               }
             }
           }
@@ -297,6 +297,11 @@
   },
   "active": "6a773695178845bf",
   "lastOpenFiles": [
+    "02 - Atomic/1726572508 - The network stack.md",
+    "02 - Atomic/1726574469 - Application layer.md",
+    "00.References/Net_References_s2_1.pdf",
+    "00.References/Net_References_s3_2.pdf",
+    "02 - Atomic/1726754186 - Criptosistemas modernos.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "02 - Atomic/1726493246 - Algorithm - AES.md",
     "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
@@ -304,11 +309,9 @@
     "02 - Atomic/1727121162 - Contabilidad.md",
     "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
     "02 - Atomic/1727712623 - Sustitución monoalfabética poligráfica.md",
-    "02 - Atomic/1726574469 - Application layer.md",
     "02 - Atomic/1727122369 - Estados contables.md",
     "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
     "02 - Atomic/1727692919 - Campamentos de verano en Castilla y León.md",
-    "00.References/Net_References_s3_2.pdf",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02 - Atomic/1727443922 - Cuerpos de Galois.md",
@@ -322,11 +325,8 @@
     "02 - Atomic/1727105227 - Modelos de negocio de la empresa.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "02 - Atomic/1727270366 - Forma estandar.md",
-    "02 - Atomic/1727270318 - Forma canónica.md",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
     "00.References/Net_Resources_s3_1.pdf",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
-    "00.References/Net_References_s2_1.pdf",
     "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",
     "00.References/Net_References_s1_1.pdf",
     "00.References/Net_References_s1_2.pdf",
