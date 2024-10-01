@@ -13,7 +13,7 @@ Descomponen $M$ en bloques de símbolos de igual longitud tal que:
 $$M = M_1, M_2, ..., M_n$$
 Cifran cada bloque con la misma clave -> mapeo reversible entre texto en claro y cifrado. Nótese que el tamaño de los bloques suele ser de 64, 128 o 256 bits.
 
-![[Cifrado&DescifradoSimetrico.png]]
++ Imagen no importada
 
 ## Cifrador de bloque ideal
 

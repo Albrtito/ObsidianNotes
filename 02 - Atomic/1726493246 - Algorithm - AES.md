@@ -12,7 +12,7 @@ cssclasses:
 Implementa criptografía simétrica. Usa la tecnología de los [[1727808593 - Cifradores de bloque|Cifradores de bloque]]. 
 - Opera sobre bloques de 16 bytes (128 bytes)
 
-Acepta tres longitudes de clave: 128, 192 (menos usado) y 256 bits. Se generar siempre subclaves o claves internas de 128 bits.
+Acepta tres longitudes de clave: 128, 192 (menos usado) y 256 bits. Se generar siempre subclaves o claves internas de 128 bits.**
 
 >[!WARNING]
 >Es una red de sustitución-permutación, no una red Feistel.

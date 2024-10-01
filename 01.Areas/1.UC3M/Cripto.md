@@ -49,5 +49,6 @@ tags:
 + [[1726234693 - Intro a la seguridad informática |Intro a la seguridad informática]]
 + [[1726498694 - Definition - Criptografía|Criptografía]]
 + [[1726507033 - Entropía y aleatoriedad|Entropía y aleatoriedad en criptografía]]
-+ 
++ [[1726493246 - Algorithm - AES|AES]]
++ [[1727443922 - Cuerpos de Galois|Cuerpos de Galois]]
 ## Práctica:

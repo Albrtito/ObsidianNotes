@@ -13,33 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726493246 - Algorithm - AES.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4070806c81421c80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1727808813 - MixColumns.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e508d4f1b4c88ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1727808593 - Cifradores de bloque.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -155,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727808593 - Cifradores de bloque.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727808593 - Cifradores de bloque.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727808593 - Cifradores de bloque.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727808593 - Cifradores de bloque.md"
+                "file": "01.Areas/1.UC3M/Cripto.md"
               }
             }
           }
@@ -308,11 +281,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4e508d4f1b4c88ef",
+  "active": "6a7128ca8392f658",
   "lastOpenFiles": [
+    "02 - Atomic/1727808593 - Cifradores de bloque.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "02 - Atomic/1727808813 - MixColumns.md",
     "02 - Atomic/1726493246 - Algorithm - AES.md",
     "02 - Atomic/Cifrado&DescifradoSimetrico.png.md",
-    "02 - Atomic/1727808813 - MixColumns.md",
     "02 - Atomic/1727808777 - ShiftRow.md",
     "02 - Atomic/1727808685 - ByteSub.md",
     "02 - Atomic/1727808655 - AddRoundKey.md",
@@ -321,9 +296,7 @@
     "01.Areas/1.UC3M/Apuntes javi/ByteSub.md",
     "01.Areas/1.UC3M/Apuntes javi/AddRoundKey.md",
     "01.Areas/1.UC3M/Apuntes javi/Cifradores de bloques.md",
-    "02 - Atomic/1727808593 - Cifradores de bloque.md",
     "01.Areas/1.UC3M/Apuntes javi/AES.md",
-    "01.Areas/1.UC3M/Cripto.md",
     "01.Areas/1.UC3M/Apuntes javi",
     "02 - Atomic/1727166266 - Movilidad no Europea.md",
     "00.References/Net_Resources_s3_3.pdf",
