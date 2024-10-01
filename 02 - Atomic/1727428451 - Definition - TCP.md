@@ -76,5 +76,8 @@ $$
  
 
 ## ACK Generation: 
-Right now the protocol reacts with a large waiting time (4 times the deviation). 
+Right now the protocol reacts with a large waiting time (4 times the deviation). If we send 4 packages and the second one is lost, then the reaction to send the again the second package wont arrive until we have recieved the acks for all 4 packages (or not). 
+We would like to ackt in one RTT time. In order to do so we’ll **tolerate up to three duplicate acks**. 
++ Once we have recieved **more than three duplicated ack** we’ll assume that it is a loss package and retransmit right away. 
++ 
 ***
