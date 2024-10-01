@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/ByteSub.md",
+                "file": "01.Areas/1.UC3M/Apuntes javi/AES.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -142,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/ByteSub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,14 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/ByteSub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f97aefa6b972e655",
@@ -178,7 +174,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/ByteSub.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,8 +246,8 @@
                   "repelStrength": 20,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 500,
-                  "scale": 0.06877208701382545,
-                  "close": true
+                  "scale": 0.10670327140994698,
+                  "close": false
                 }
               }
             }
@@ -268,17 +263,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01.Areas/1.UC3M/ByteSub.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 202,
-    "collapsed": true
+    "width": 449
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,17 +289,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4070806c81421c80",
+  "active": "b89f836cb1d8a8cd",
   "lastOpenFiles": [
-    "01.Areas/1.UC3M/AES.md",
-    "01.Areas/1.UC3M/AddRoundKey.md",
+    "01.Areas/1.UC3M/Apuntes javi",
+    "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1727166266 - Movilidad no Europea.md",
+    "01.Areas/1.UC3M/Apuntes javi/AES.md",
+    "01.Areas/1.UC3M/Apuntes javi/Cifradores de bloques.md",
+    "01.Areas/1.UC3M/Apuntes javi/ByteSub.md",
+    "01.Areas/1.UC3M/Apuntes javi/AddRoundKey.md",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
-    "01.Areas/1.UC3M/ShiftRow.md",
-    "01.Areas/1.UC3M/MixColumns.md",
-    "01.Areas/1.UC3M/Cifradores de bloques.md",
-    "01.Areas/1.UC3M/ByteSub.md",
+    "01.Areas/1.UC3M/Apuntes javi/ShiftRow.md",
+    "01.Areas/1.UC3M/Apuntes javi/MixColumns.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "01.Areas/1.UC3M/Movilidad.md",
     "01.Areas/1.UC3M/Networks.md",
@@ -327,7 +321,6 @@
     "02 - Atomic/1727712623 - Sustitución monoalfabética poligráfica.md",
     "02 - Atomic/1727122369 - Estados contables.md",
     "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
-    "02 - Atomic/1727692919 - Campamentos de verano en Castilla y León.md",
     "00.References/Net_Resources_s3_1.pdf",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",

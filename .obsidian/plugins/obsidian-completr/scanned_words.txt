@@ -869,6 +869,7 @@ ackt
 away
 adimos
 adiendo
+asignaciones
 Creaci
 Crear
 Cuando
@@ -1657,6 +1658,7 @@ CitD
 Cmx
 Cummulative
 Create
+Cifran
 de
 due
 dar
@@ -3369,6 +3371,7 @@ minimun
 macke
 margin
 mezcla
+mapeo
 en
 ease
 es
@@ -4253,6 +4256,7 @@ ejecutan
 ergo
 expandida
 expandir
+estructuras
 programaci
 primer
 paso
@@ -5166,6 +5170,8 @@ pZlIk
 pzK
 propagaci
 probada
+permutaciones
+predecesor
 lineal
 la
 lo
@@ -7562,6 +7568,8 @@ ronda
 rondas
 requiren
 reducci
+reversible
+redes
 References
 Resoluci
 Rectas
@@ -9270,6 +9278,7 @@ cuatro
 calculan
 calculado
 campo
+cambiarse
 sr
 se
 subproblemas
@@ -10132,6 +10141,7 @@ samples
 subclaves
 subclave
 suficientemente
+sustituciones
 interval
 importancia
 incorrecto
@@ -10947,6 +10957,7 @@ inicialmente
 inversas
 iteraciones
 inversor
+itera
 un
 una
 utiliza
@@ -13003,6 +13014,7 @@ Eestimating
 Estado
 Esquema
 Expansi
+Estructuras
 vital
 variables
 vez
@@ -15790,6 +15802,8 @@ DPGE
 DqV
 Dissolve
 Directional
+Descomponen
+DES
 funci
 fibonacci
 fica
@@ -17234,6 +17248,7 @@ overestimate
 overshooting
 overshoot
 opciones
+opera
 que
 queremos
 qD
@@ -26852,6 +26867,7 @@ bRY
 bytes
 bad
 bloques
+burrada
 Util
 Una
 UniZumo
