@@ -46,4 +46,28 @@ Resend of the last package with the same data. To assure that the data has been 
 ## Round Trip Time(RTT):
 + Associate a timer to the **oldest package being sent** (without a recieved ack)
 
+It is better to set a **longer RTT** because then we’ll only be waiting longer for packets that get lost or corrupted. This is why we **wont try to get an exact value for the RTT but we’ll try to macke overestimate**
+
+### Estimation of the RTT:
+Eestimating based on the last sent package is a really bad idea because the **variabilty between packages is huge.** A best estimation will be: 
+$$
+EstimatedRTT = (1-\alpha) \cdot EstimatedRTT + \alpha \cdot SampleRTT
+$$
++ This formula makes it so the weight of one particular sample **decreases exponentialy over time**. 
++ We compute the average of the last n samples with a decreasing weight for each previous sample. 
++ The changes in alpha give out how much weight we give to previous samples. 
+
+**Problem:** However the estimation of the RTT is a bad value to use as actual RTT **because we are not overshooting**. 
+
+**Solution:** Create the overshoot with a security margin using the **variance(deviation)** of the estimated value. 
+$$
+DevRTT = (1-\beta)\cdot DevRTT + \beta|SampleRTT - EstimatedRTT|
+$$
+## Timeout interval: 
+Using what we h
+Finally, the gloval timeout interval will be: 
+$$
+\boxed{TimeoutInterval}
+$$
+
 ***
