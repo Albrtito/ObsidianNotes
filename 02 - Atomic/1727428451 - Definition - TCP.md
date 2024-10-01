@@ -25,9 +25,12 @@ sr-ease: 230
 	+ security 
 	+ minimum throguhput
 + Requires for the server and the client to **set up the connection** (==Three-way handshake)==
-
-
 ## Properties:
 
-+ The TCP protocol must control the flow of data so that there are less packages being sent but sent constantly. This is because **for each package a frame will be created**. This frame i
++ The TCP protocol must control the flow of data so that there are less packages being sent but sent constantly. This is because **for each package a frame will be created**. This frame has some size.
+	+ This tradeof is solved by only allowing one **small package in flight**, the rest of packages in the window must be bigger than the minimun stablished size. 
+
++ **Bi-Directional flow of data**: The data will be composed of two unidirectional flows. Meaning both hosts can **act as both reciever and sender**
+
++ 
 ***

@@ -3353,6 +3353,7 @@ mMZG
 mMc
 mGC
 mEO
+minimun
 en
 ease
 es
@@ -6697,6 +6698,7 @@ tbb
 tzO
 tum
 teU
+tradeof
 review
 resolver
 realizar
@@ -7512,6 +7514,7 @@ rCspP
 rcW
 ram
 rEj
+rest
 References
 Resoluci
 Rectas
@@ -10064,6 +10067,7 @@ ssb
 smT
 sfe
 sVd
+stablished
 interval
 importancia
 incorrecto
@@ -16410,6 +16414,7 @@ fKFJ
 fMb
 fDg
 fsXn
+flow
 objetivo
 obtener
 of

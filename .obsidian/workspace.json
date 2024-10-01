@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "01.Areas/1.UC3M/Movilidad.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,8 +50,19 @@
                 "file": "00.References/Net_Resources_s3_3.pdf"
               }
             }
+          },
+          {
+            "id": "5a1fea179bdf70de",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -317,11 +328,13 @@
   },
   "active": "4070806c81421c80",
   "lastOpenFiles": [
-    "02 - Atomic/1727779651 - Movilidad Universitaria en Egipto.md",
-    "01.Areas/1.UC3M/Networks.md",
-    "02 - Atomic/1727166266 - Movilidad no Europea.md",
-    "00.References/Net_Resources_s3_3.pdf",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
+    "00.References/Net_Resources_s3_3.pdf",
+    "02 - Atomic/1727428451 - Definition - TCP.md",
+    "01.Areas/1.UC3M/Movilidad.md",
+    "02 - Atomic/1727166266 - Movilidad no Europea.md",
+    "01.Areas/1.UC3M/Networks.md",
+    "02 - Atomic/1727779651 - Movilidad Universitaria en Egipto.md",
     "02 - Atomic/ListadoDe.md",
     "00.References/Net_References_s2_1.pdf",
     "02 - Atomic/1726574469 - Application layer.md",
@@ -344,8 +357,6 @@
     "02 - Atomic/1727096148 - Cifrador de flujo.md",
     "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
     "02 - Atomic/1726049178 - Definition - Communication links.md",
-    "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
-    "02 - Atomic/1727255580 - Loss and delay in Networks.md",
     "00.References/Net_Resources_s3_1.pdf",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",
