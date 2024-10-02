@@ -7,6 +7,9 @@ tags:
   - Heuri
 References: 
 cssclasses:
+sr-due: 2024-10-03
+sr-interval: 1
+sr-ease: 230
 ---
 # Method - SIMPLEX
 Lo primero que hemos de realizar es **transcribir la tarea de programación lineal a [[1727270366 - Forma estandar|Forma estandar]]**
@@ -112,10 +115,17 @@ $$
 		  
 			En el ejempo que estamos haciendo ahora mismo obtenemos: 
 			$$min\{\frac{2}{-1}, \frac{4}{1},\frac{1}{1}\}$$
+			**
+			**SIGUIENTE ITERACIÓN**
+			
 			Tendrá que salir la variable $x_5$ de la base.
 			La nueva base para la nueva iteración será: 
-			$$ B_1 = {x_1, x_3, x_4} = \begin{bmatrix}
--1 &&1 &&0 && 1 0 1 && 1 0 0
-\end{bmatrix} $$
-			
+			$$ B_1 = \{x_1, x_3, x_4\} = \begin{pmatrix}
+-1 &&1 &&0 \\ 1 && 0&& 1 \\ 1&& 0&& 0
+\end{pmatrix} $$
+
+			Calculamos la inversa y obtenemos el siguiente punto. 
+			$$ B_1 ^- = $$ 
+		Esto se repite → Ya copiado en el sucio. 
+		
 ***

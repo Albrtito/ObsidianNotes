@@ -2543,6 +2543,7 @@ duplicate
 demostradas
 desplazando
 dormir
+decay
 modelos
 modelo
 maximizar
@@ -3388,6 +3389,7 @@ matrix
 multiplicando
 muchos
 movilidades
+models
 en
 ease
 es
@@ -9317,6 +9319,7 @@ cosa
 citas
 correspondientes
 comprobados
+comparing
 sr
 se
 subproblemas
@@ -11002,6 +11005,8 @@ importada
 izquierda
 iglesias
 incluso
+importance
+immediate
 un
 una
 utiliza
@@ -13062,6 +13067,7 @@ Esquema
 Expansi
 Estructuras
 Entidad
+Exponential
 vital
 variables
 vez
@@ -22152,6 +22158,7 @@ gKA
 ght
 gLkh
 gAM
+growth
 Programaci
 Para
 Problema
@@ -26244,6 +26251,7 @@ Lqh
 LlO
 LGJ
 Lista
+Lastly
 bottom
 base
 brik
