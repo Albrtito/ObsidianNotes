@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727270318 - Forma canónica.md",
+                "file": "02 - Atomic/1727270366 - Forma estandar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727270318 - Forma canónica.md",
+                "file": "02 - Atomic/1727270366 - Forma estandar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727270318 - Forma canónica.md",
+                "file": "02 - Atomic/1727270366 - Forma estandar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727270318 - Forma canónica.md",
+                "file": "02 - Atomic/1727270366 - Forma estandar.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727270318 - Forma canónica.md"
+                "file": "02 - Atomic/1727270366 - Forma estandar.md"
               }
             }
           }
@@ -311,6 +311,8 @@
   },
   "active": "95cda977c34980cb",
   "lastOpenFiles": [
+    "02 - Atomic/1727270318 - Forma canónica.md",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
     "02 - Atomic/forma cano.md",
     "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
@@ -336,8 +338,6 @@
     "01.Areas/1.UC3M/Apuntes javi/MixColumns.md",
     "01.Areas/1.UC3M/Apuntes javi/ShiftRow.md",
     "01.Areas/1.UC3M/Apuntes javi/ByteSub.md",
-    "01.Areas/1.UC3M/Apuntes javi/AddRoundKey.md",
-    "01.Areas/1.UC3M/Apuntes javi/Cifradores de bloques.md",
     "01.Areas/1.UC3M/Apuntes javi",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/Net_References_s2_1.pdf",
