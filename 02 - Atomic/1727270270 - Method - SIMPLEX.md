@@ -63,7 +63,18 @@ $$
 		$$ z_{B_0} = C_{B_0}^T X_{B_0} = (0,0,0)(2,4,1)^T = 0$$
 		**Remarks:** Estamos haciendo que las variables $x_1 y x_2$ sean 0 de forma manual. 
 
-		Este primer punto que hemos encontrado será la **primera solución del problema lineal**. Esta solución estará en el punto: (0,0,2,4,1)
+		Este primer punto que hemos encontrado será la **primera solución del problema lineal**. Esta solución estará en el punto: (0,0,2,4,1), aunq para obtener la solución bidimensional solo nos quedamos con las primeras dos. Obteniendo (0,0)
 
 	2. **Regla de entrada:** 
+		+ Utilizamos el subindice i para referirnos a las variables básicas. Mientras que se usa el subindice j para las variables nuevas que entren.
+		  
+		  La forma en la que estamos calculando la función objetivo (su valor) es la siguiente. 
+		  $$ z = \sum_{i\in B} C_i X_i$$
+		  En el paso uno las nuevas variables eran 0 y no teníamos que tenerlas en cuenta.
+		  Ahora introducimos una variable no básica/nueva.
+		  $$ z = \sum_{i\in B} C_i \hat X_i + c_j \sigma : \boxed{\hat x__i = x_i - \sigma_{y_{ji'}}}$$
+		  + **sigma:** Es la variable nueva. 
+		  + $c_j$: Es el coeficiente de la variable nueva
+		  El valor de las variables básicas cambia, se **acomodan**. Por eso lleva el sombrerito. Podemos obtener el nuevo valor de las variables básicas. 
+		  $$
 ***
