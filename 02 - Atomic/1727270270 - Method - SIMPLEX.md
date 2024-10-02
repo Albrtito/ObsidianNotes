@@ -73,7 +73,7 @@ $$
 		  En el paso uno las nuevas variables eran 0 y no teníamos que tenerlas en cuenta.
 		  Ahora introducimos una variable no básica/nueva.
 		  $$ z = \sum_{i\in B} C_i \hat X_i + c_j \sigma $$
-		  + **sigma:** Es la variable nueva. 
+		  + **sigma:** Es la variable nueva.
 		  + $c_j$: Es el coeficiente de la variable nueva
 		  El valor de las variables básicas cambia, se **acomodan**. Por eso lleva el sombrerito. Podemos obtener el nuevo valor de las variables básicas. 
 		  $$ \boxed{\hat x_i. = x_i - \sigma y_{ji'}}$$
@@ -83,5 +83,10 @@ $$
 			A esto lo llamamos el **coste reducido**. En este caso queremos minimizar así que trateremos de encontrar el máximo valor negativo del coste reducido. 
 			Tenemos dos opciones, una por variable nueva: 
 			$$z_1 - c_1 = C_B^Ty_1 - C_1 = -2$$
-		  
+			$$z_2 - c_2 = C_B^Ty_2- C_2 = 3$$
+			El mayor número negativo será -2 así que **incluimos a $x_1$ en la base** y pasamos al siguiente paso. 
+			
+	3. **Regla de salida**: 
+		  Ahora el problema aparece pq tenemos una base tridimensional igualada a otra cuatridimensional (hemos añadido a1)
+		  $$a_3x_
 ***
