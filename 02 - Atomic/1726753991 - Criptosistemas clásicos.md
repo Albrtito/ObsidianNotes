@@ -6,9 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-10-02
-sr-interval: 2
-sr-ease: 244
+sr-due: 2024-10-03
+sr-interval: 1
+sr-ease: 204
 ---
 # Criptosistemas clásicos
 
