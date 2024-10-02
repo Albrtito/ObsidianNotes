@@ -873,6 +873,7 @@ asignaciones
 asegurando
 actua
 analizarlso
+apartado
 Creaci
 Crear
 Cuando
@@ -3386,6 +3387,7 @@ mapeo
 matrix
 multiplicando
 muchos
+movilidades
 en
 ease
 es
@@ -5190,6 +5192,7 @@ pueblos
 pensada
 prooveer
 pocos
+pasaporte
 lineal
 la
 lo
@@ -9311,6 +9314,9 @@ cerca
 circulares
 contactar
 cosa
+citas
+correspondientes
+comprobados
 sr
 se
 subproblemas
@@ -13746,6 +13752,7 @@ vxO
 vBP
 variabilty
 variance
+vuelca
 no
 nuestras
 ndar
@@ -24257,6 +24264,7 @@ Science
 ShiftRows
 ShiftRow
 Suponiendo
+SIGMA
 Manual
 Modelar
 Millones
