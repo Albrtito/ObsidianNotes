@@ -87,6 +87,22 @@ $$
 			El mayor número negativo será -2 así que **incluimos a $x_1$ en la base** y pasamos al siguiente paso. 
 			
 	3. **Regla de salida**: 
+			La base tiene que ser tridimensional, tenemos una columna de más. Vamos a averiguar que columna es la que nos quitamos. 
+
 		  Ahora el problema aparece pq tenemos una base tridimensional igualada a otra cuatridimensional (hemos añadido a1)
-		  $$a_3x_
+		  $$a_3x_3 + a_4x_4 + a_5x_5 = a_3\hat x_3 + a_3\hat x_3 + a_3\hat x_3 + a_3\hat x_3 + a_1 \theta$$
+		  Resolvemos la equación algebráica: 
+		  $$ B_0 y_1 = a_1$$ 
+			Y obtenemos la igualdad: 
+			$$ \boxed{a_1 = a_3y_{11} + a_4y_{12} + a_5y_{13} }$$
+			Lo que nos permite reformular utilizando la nueva definicón de a1:
+			$$a_3x_3 + a_4x_4 + a_5x_5 = a_3(\hat x_3 + \theta y_{11}) + a_4(\hat x_4+ \theta y_{12})  + a_5(\hat x_5 + \theta y_{13})$$
+			Que podemos simplificar como: 
+			$$x_i = \hat x_i + \theta y_{ii'}$$
+			Y de aquí obtenemos el cambio de valor para la variable de decisión: 
+			
+			$$\hat x_i =  x_i - \theta y_{ii'}$$
+			Acotando este valor como **no-negativo** podemos obtener: 
+			$$ \theta \leq \frac{x_i}{y_{ji`}}$$
+			
 ***
