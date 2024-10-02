@@ -871,6 +871,8 @@ adimos
 adiendo
 asignaciones
 asegurando
+actua
+analizarlso
 Creaci
 Crear
 Cuando
@@ -10168,6 +10170,7 @@ subclave
 suficientemente
 sustituciones
 sitios
+sectores
 interval
 importancia
 incorrecto
@@ -24966,6 +24969,7 @@ MAQ
 Meaning
 MixColumns
 Matriz
+Mismo
 Zivkovic
 Zo
 Zi
