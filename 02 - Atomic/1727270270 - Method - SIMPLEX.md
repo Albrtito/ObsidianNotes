@@ -72,9 +72,16 @@ $$
 		  $$ z = \sum_{i\in B} C_i X_i$$
 		  En el paso uno las nuevas variables eran 0 y no teníamos que tenerlas en cuenta.
 		  Ahora introducimos una variable no básica/nueva.
-		  $$ z = \sum_{i\in B} C_i \hat X_i + c_j \sigma : \boxed{\hat x__i = x_i - \sigma_{y_{ji'}}}$$
+		  $$ z = \sum_{i\in B} C_i \hat X_i + c_j \sigma $$
 		  + **sigma:** Es la variable nueva. 
 		  + $c_j$: Es el coeficiente de la variable nueva
 		  El valor de las variables básicas cambia, se **acomodan**. Por eso lleva el sombrerito. Podemos obtener el nuevo valor de las variables básicas. 
-		  $$
+		  $$ \boxed{\hat x_i. = x_i - \sigma y_{ji'}}$$
+		  Operamos: 
+			…
+			$$z - \sigma(z_j - c_j)$$
+			A esto lo llamamos el **coste reducido**. En este caso queremos minimizar así que trateremos de encontrar el máximo valor negativo del coste reducido. 
+			Tenemos dos opciones, una por variable nueva: 
+			$$z_1 - c_1 = C_B^Ty_1 - C_1 = -2$$
+		  
 ***
