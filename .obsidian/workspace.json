@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Movilidad.md",
+                "file": "01.Areas/1.UC3M/Heurística y Opti.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Movilidad.md",
+                "file": "01.Areas/1.UC3M/Heurística y Opti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Movilidad.md",
+                "file": "01.Areas/1.UC3M/Heurística y Opti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Movilidad.md",
+                "file": "01.Areas/1.UC3M/Heurística y Opti.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Movilidad.md"
+                "file": "01.Areas/1.UC3M/Heurística y Opti.md"
               }
             }
           }
@@ -284,11 +284,11 @@
   },
   "active": "6a7128ca8392f658",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Movilidad.md",
     "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
     "02 - Atomic/1727166266 - Movilidad no Europea.md",
     "02 - Atomic/1727779651 - Movilidad Universitaria en Egipto.md",
-    "01.Areas/1.UC3M/Movilidad.md",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "01.Areas/1.UC3M/Cripto.md",
     "01.Areas/3.Matterhorn/Caleao 24.md",
