@@ -57,9 +57,13 @@ $$
 + Las variables que “nos importan” son $x_1$ y $x_2$. El resto son variables de holgura, auxiliares, útiles solo para la resolución.
 
 2. Empezamos a iterar:
-	+ Iteración #0: Cálculo de una solución **básica factible inicial**
-	1. Cálculo de las variables básicas: Para la base $B_0 = I_{3x3}$  serán $x_3, x_4, x_5$, de tal forma que: $x_B = B^-b = I_3^-b = (3,4,1)^T$
+	+ Iteración #0: Cálculo de una solución **básica factible inicial**. 
+	1. **Cálculo de las variables básicas:** Para la base $B_0 = I_{3x3}$  serán $x_3, x_4, x_5$, de tal forma que: $x_B = B^-b = I_3^-b = (2,4,1)^T$
 		Entonces: 
 		$$ z_{B_0} = C_{B_0}^T X_{B_0} = (0,0,0)(2,4,1)^T = 0$$
-		
+		**Remarks:** Estamos haciendo que las variables $x_1 y x_2$ sean 0 de forma manual. 
+
+		Este primer punto que hemos encontrado será la **primera solución del problema lineal**. Esta solución estará en el punto: (0,0,2,4,1)
+
+	2. **Regla de entrada:** 
 ***
