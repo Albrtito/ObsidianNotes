@@ -7,9 +7,9 @@ tags:
   - DiffCalc
 "References:": 
 cssclasses:
-sr-due: 2024-10-01
-sr-interval: 21
-sr-ease: 190
+sr-due: 2024-10-13
+sr-interval: 11
+sr-ease: 170
 ---
 # Exponential Differential equation. 
 
