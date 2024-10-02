@@ -104,5 +104,18 @@ $$
 			$$\hat x_i =  x_i - \theta y_{ii'}$$
 			Acotando este valor como **no-negativo** podemos obtener: 
 			$$ \theta \leq \frac{x_i}{y_{ji`}}$$
+			Entonces, si nuestra restricción es que las variables sean mayores de 0, al intentar sacar una variable podemos ver si la que quitamos nos crea un valor negativo y denegarla.
+			La variable que tendremos que saar será con la que se obtenga: 
+			$$min_{i\in B}\{\frac{x_i}{y_{ji'}}\}$$
+			Mientras que sea **mayor o igual a 0**
+		+ Si nos encontrásemos con un caso en el que todos los valores son negativos significaría que la región no esta acotada, esto simplemente no pasa con un buen modelo. Te faltan restricciones.
+		  
+			En el ejempo que estamos haciendo ahora mismo obtenemos: 
+			$$min\{\frac{2}{-1}, \frac{4}{1},\frac{1}{1}\}$$
+			Tendrá que salir la variable $x_5$ de la base.
+			La nueva base para la nueva iteración será: 
+			$$ B_1 = {x_1, x_3, x_4} = \begin{bmatrix}
+-1 &&1 &&0 && 1 0 1 && 1 0 0
+\end{bmatrix} $$
 			
 ***
