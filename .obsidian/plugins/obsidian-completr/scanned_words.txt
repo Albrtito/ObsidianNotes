@@ -874,6 +874,7 @@ asegurando
 actua
 analizarlso
 apartado
+aleatorios
 Creaci
 Crear
 Cuando
@@ -5195,6 +5196,7 @@ pensada
 prooveer
 pocos
 pasaporte
+pseudoaleatorios
 lineal
 la
 lo
@@ -9320,6 +9322,8 @@ citas
 correspondientes
 comprobados
 comparing
+creados
+completamente
 sr
 se
 subproblemas
@@ -14440,6 +14444,7 @@ nsr
 nSH
 nGJ
 nRY
+necesitamos
 Identificar
 Intro
 Identificaci
