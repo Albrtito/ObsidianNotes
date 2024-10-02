@@ -3385,6 +3385,7 @@ mezcla
 mapeo
 matrix
 multiplicando
+muchos
 en
 ease
 es
@@ -5187,6 +5188,8 @@ permutaciones
 predecesor
 pueblos
 pensada
+prooveer
+pocos
 lineal
 la
 lo
@@ -7591,6 +7594,7 @@ redes
 relativo
 rutas
 ruta
+reemplazar
 References
 Resoluci
 Rectas
@@ -9306,6 +9310,7 @@ consideradas
 cerca
 circulares
 contactar
+cosa
 sr
 se
 subproblemas
@@ -24970,6 +24975,7 @@ Meaning
 MixColumns
 Matriz
 Mismo
+Mucha
 Zivkovic
 Zo
 Zi
