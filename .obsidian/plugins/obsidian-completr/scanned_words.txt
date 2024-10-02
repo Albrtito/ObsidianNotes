@@ -15873,6 +15873,7 @@ Directional
 Descomponen
 DES
 Dentro
+Dont
 funci
 fibonacci
 fica
@@ -20765,6 +20766,7 @@ HgTg
 HNN
 Hqkh
 Hong
+HAPPEN
 TODOS
 The
 Trabajo
@@ -21466,6 +21468,8 @@ TgZ
 Trans
 Timeout
 Technology
+Total
+THERE
 grafo
 guardan
 global
@@ -22932,6 +22936,7 @@ Piggybacks
 Parroquia
 Poblaci
 Parque
+PACKAGE
 Biblio
 BitsPerComponent
 BI
@@ -23544,6 +23549,7 @@ BOC
 Box
 ByteSub
 Buscar
+BOTTLENECKS
 Steven
 Skiena
 Serie
@@ -28928,6 +28934,7 @@ OklC
 One
 Out
 Opera
+ONLY
 ximo
 xrL
 xFQ
@@ -32223,6 +32230,7 @@ NmHU
 Nsss
 Nal
 Natural
+NOT
 Xr
 XObject
 Xw

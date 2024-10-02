@@ -6,9 +6,9 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-01
+sr-due: 2024-10-03
 sr-interval: 1
-sr-ease: 228
+sr-ease: 208
 ---
 # Packet switching
 
@@ -26,7 +26,7 @@ The transmission of packets between the routers is performed following an store 
 + Router must **wait** for all bits. 
 This creates [[1727255580 - Loss and delay in Networks#Transmission delay|transmission delay]]. 
 
-## Queues: 
+## ==Queues:== 
 Each router has a queue that fills out with packets that need retransmission. This means two things:
 + The queue introduces [[1727255580 - Loss and delay in Networks#Queueing delay|queueing delay]].
 + If a packet arrives to a full queue is **lost**
