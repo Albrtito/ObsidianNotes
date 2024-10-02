@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-01
-sr-interval: 1
+sr-due: 2024-10-05
+sr-interval: 3
 sr-ease: 225
 ---
 # Loss and delay in Networks
@@ -32,7 +32,7 @@ $$
 #### Queueing delay: 
 #Duda: Dont really understand what the link bandwith is.
 $$ \text{traffic intensity } = {La\over R}$$
-+ R : Link bandwitdth (bps)
++ ==R : Link bandwitdth (bps)==
 + L: Packet length (bits)
 + a : average packet arrival rate (pck/s)
 
@@ -41,7 +41,7 @@ $$ \text{traffic intensity } = {La\over R}$$
 Traffic intensity gives the measure of **how intense the trafic is.** 
   + La → bits comming in
   + R → bits going out
-##### Analisis of the traffic intensity:
+##### ==Analisis of the traffic intensity:==
   Traffic intensity can be either: 
   + Near to zero: If there is a ton of bandwith and little packages
   + Near to 1: Same bandwith and packets sent. (lots of delay)
@@ -67,7 +67,7 @@ $$
 If the buffer of the router is full, the packet will be dropped. 
 + Can be fixed by retrasmission from last link, or methods applied in the sender/reciever
 
-## Throughput and bottlenecks:
+## ==Throughput and bottlenecks:==
 
 **Rate** at which bits are transfered. 
 + Instantaneous: A one specific momento

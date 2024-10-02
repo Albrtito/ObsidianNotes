@@ -19,5 +19,6 @@ sr-ease: 250
 ## Tipos: 
 + [[1727711018 - Estrategias de diversificación|Estrategias de diversificación]]
 + [[1727710261 - Estrategias de integración|Estrategias de integración]]
-
++ [[1727886467 - Estrategia de glovalización|Estrategia de glovalización]]
++ [[1727886621 - Estrategia de subcontratación|Estrategia de subcontratación]]
 ***
