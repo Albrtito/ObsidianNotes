@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+                "file": "02 - Atomic/1727429966 - Packet switching.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+                "file": "02 - Atomic/1727429966 - Packet switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+                "file": "02 - Atomic/1727429966 - Packet switching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+                "file": "02 - Atomic/1727429966 - Packet switching.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md"
+                "file": "02 - Atomic/1727429966 - Packet switching.md"
               }
             }
           }
@@ -310,6 +310,10 @@
   },
   "active": "6a7128ca8392f658",
   "lastOpenFiles": [
+    "02 - Atomic/1726500637 - Definición - Saldo de la balanza comercial.md",
+    "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
+    "02 - Atomic/1726498694 - Definition - Criptografía.md",
+    "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
     "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
@@ -324,7 +328,6 @@
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "01.Areas/1.UC3M/Heurística y Opti.md",
     "01.Areas/1.UC3M/Movilidad.md",
-    "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
     "02 - Atomic/1727166266 - Movilidad no Europea.md",
     "02 - Atomic/1727779651 - Movilidad Universitaria en Egipto.md",
@@ -334,9 +337,6 @@
     "02 - Atomic/1727808593 - Cifradores de bloque.md",
     "02 - Atomic/1727808813 - MixColumns.md",
     "02 - Atomic/1726493246 - Algorithm - AES.md",
-    "02 - Atomic/Cifrado&DescifradoSimetrico.png.md",
-    "02 - Atomic/1727808777 - ShiftRow.md",
-    "02 - Atomic/1727808685 - ByteSub.md",
     "01.Areas/1.UC3M/Apuntes javi",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/Net_References_s2_1.pdf",

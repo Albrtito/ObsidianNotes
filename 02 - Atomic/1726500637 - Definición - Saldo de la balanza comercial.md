@@ -7,9 +7,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-02
-sr-interval: 13
-sr-ease: 270
+sr-due: 2024-11-20
+sr-interval: 49
+sr-ease: 290
 ---
 # Definición - Saldo de la balanza comercial 
 

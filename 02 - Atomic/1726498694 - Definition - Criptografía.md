@@ -7,8 +7,8 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-10-01
-sr-interval: 4
+sr-due: 2024-10-14
+sr-interval: 12
 sr-ease: 230
 ---
 # Criptografía:
@@ -25,4 +25,4 @@ La definición moderna de criptografía incluye los tres objetivos de la segurid
 
 Dividimos entre la criptografía clásica y la moderna. 
 + La criptografía clásica utiliza un **enfoque lingüista** (la mayoría de los que rompieron enigma eran lingüistas), son problemas de **la familia de los crucigramas**
-+ La criptografía **moderna** utiliza un **enfoque matemático**. Se inicia la investigación **pública, no militar,** de la criptografía con Shannon. 
++ La criptografía **moderna** utiliza un **enfoque matemático**. Se inicia la investigación **pública, ==no militar==,** de la criptografía con Shannon. 

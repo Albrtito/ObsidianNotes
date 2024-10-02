@@ -6,8 +6,8 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-10-02
-sr-interval: 2
+sr-due: 2024-10-06
+sr-interval: 4
 sr-ease: 249
 ---
 # Sustitución mono-alfabeta monográfica
@@ -17,7 +17,7 @@ sr-ease: 249
 > 
 
 
-## SUMAS: Cifrador de desplazamiento puro(ROT):
+## SUMAS: Cifrador de ==desplazamiento== puro(ROT):
 
 Es aquel cifrador que utiliza una función del tipo: 
 $$
@@ -35,14 +35,14 @@ Cada uno de los caracteres es desplazado dentro del propio alfabeto.
 
 
 
-## MULTIPLCACIONES: Cifrador de decimación pura:
+## MULTIPLCACIONES: Cifrador de ==decimación== pura:
 Es aquel que utiliza una multiplicación para variar el alfabeto y transformarlo en un alfabeto cifrado. 
 $$
 \boxed{C_i = (a \times m_i) \mod n}
 $$
 + a: Clave de cifrado. Constante de decimación
 
-### SUMA + MULTIPLICACIÓN: Cifrador por sustitución afín
+### SUMA + MULTIPLICACIÓN: Cifrador por sustitución ==afín==
 Se realizan ambas la suma y multiplicación. En este caso tanto b como a serán claves del cifrado.
 $$
 \boxed{C_i = (a \times m_i + b) \mod n}

@@ -4276,6 +4276,8 @@ ergo
 expandida
 expandir
 estructuras
+exportados
+exporta
 programaci
 primer
 paso
@@ -5197,6 +5199,7 @@ prooveer
 pocos
 pasaporte
 pseudoaleatorios
+positivo
 lineal
 la
 lo
@@ -9324,6 +9327,7 @@ comprobados
 comparing
 creados
 completamente
+comercial
 sr
 se
 subproblemas
@@ -10189,6 +10193,7 @@ suficientemente
 sustituciones
 sitios
 sectores
+saldo
 interval
 importancia
 incorrecto
@@ -11011,6 +11016,7 @@ iglesias
 incluso
 importance
 immediate
+importados
 un
 una
 utiliza
@@ -14445,6 +14451,7 @@ nSH
 nGJ
 nRY
 necesitamos
+negativo
 Identificar
 Intro
 Identificaci
@@ -24277,6 +24284,7 @@ ShiftRows
 ShiftRow
 Suponiendo
 SIGMA
+Saldo
 Manual
 Modelar
 Millones
@@ -26948,6 +26956,7 @@ bytes
 bad
 bloques
 burrada
+balanza
 Util
 Una
 UniZumo
