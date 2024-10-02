@@ -1670,6 +1670,7 @@ Concejo
 Caso
 Comarca
 Coordenadas
+Canada
 de
 due
 dar
@@ -2545,6 +2546,7 @@ demostradas
 desplazando
 dormir
 decay
+despues
 modelos
 modelo
 maximizar
@@ -3391,6 +3393,7 @@ multiplicando
 muchos
 movilidades
 models
+multiplicador
 en
 ease
 es
@@ -5959,6 +5962,7 @@ llamada
 larga
 linealidad
 largas
+llega
 tags
 tres
 todos
@@ -17328,6 +17332,7 @@ overshooting
 overshoot
 opciones
 opera
+opci
 que
 queremos
 qD
@@ -18003,6 +18008,7 @@ qgd
 qIzk
 qcB
 qrmy
+queda
 Algorith
 Algorithm
 All
@@ -20082,6 +20088,7 @@ WIY
 WIf
 Wpk
 Wsw
+Waterloo
 Heuri
 Hecho
 HyO

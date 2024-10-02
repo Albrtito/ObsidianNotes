@@ -4,48 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "f3cd2baafda53b50",
-        "type": "tabs",
+        "id": "34f3c0e108e31870",
+        "type": "split",
         "children": [
           {
-            "id": "6a7128ca8392f658",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf"
+            "id": "153d4cef22941c26",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6a7128ca8392f658",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf"
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "49c66995cfb75605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "f3cd2baafda53b50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49c66995cfb75605",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c3f89e3444dc6beb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1727888867 - Movilidad en Canada.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "c3f89e3444dc6beb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1727888867 -.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
+            ],
+            "stacked": true
           }
         ],
-        "currentTab": 2,
-        "stacked": true
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727888867 -.md",
+                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727888867 -.md",
+                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727888867 -.md",
+                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727888867 -.md"
+                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf"
               }
             }
           }
@@ -299,9 +311,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c3f89e3444dc6beb",
+  "active": "6a7128ca8392f658",
   "lastOpenFiles": [
-    "02 - Atomic/1727888867 -.md",
+    "02 - Atomic/1727888867 - Movilidad en Canada.md",
     "02 - Atomic/1727166266 - Movilidad no Europea.md",
     "02 - Atomic/1727779651 - Movilidad Universitaria en Egipto.md",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
