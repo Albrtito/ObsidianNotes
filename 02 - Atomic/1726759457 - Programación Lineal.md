@@ -59,6 +59,7 @@ Si una variable de decisión $x_i$ **puede tomar valores negativos** se pone ent
 $$
 x_i = x'_i − x'_i , x'_i , x ''_i ≥ 0
 $$
++ Para modelar una condicion condicional usamos el siguiente [[1727968107 - Expresiones condicionales en programación lineal|método]].
 ## Resolución de problemas lineales: 
 Los ejercicios de programación lineal se resuelven a trozos:
 1. Primero se debe de [[1726759568 - Creación de modelos en programación lineal|crear un modelo]] que contenga la función objetivo, restriciones y variables. 

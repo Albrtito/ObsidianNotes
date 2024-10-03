@@ -881,6 +881,7 @@ adido
 acotada
 ahora
 amarilla
+ante
 Creaci
 Crear
 Cuando
@@ -1678,6 +1679,7 @@ Comarca
 Coordenadas
 Canada
 Calculamos
+Creamos
 de
 due
 dar
@@ -3406,6 +3408,8 @@ multiplicador
 mala
 manual
 mandar
+mayore
+modelar
 en
 ease
 es
@@ -4302,6 +4306,8 @@ encontr
 ejempo
 esperamos
 espera
+encontramos
+expresiones
 programaci
 primer
 paso
@@ -5229,6 +5235,7 @@ provar
 primera
 pasamos
 porci
+practica
 lineal
 la
 lo
@@ -7644,6 +7651,7 @@ reemplazar
 referirnos
 reformular
 repite
+remarks
 References
 Resoluci
 Rectas
@@ -9375,6 +9383,8 @@ cuatridimensional
 copiado
 chain
 constituyente
+condicional
+condicion
 sr
 se
 subproblemas
@@ -10254,6 +10264,11 @@ simplemente
 salir
 sucio
 subproceso
+suficiente
+satisfacer
+solucionarlo
+satisfac
+sumatorios
 interval
 importancia
 incorrecto
@@ -11085,6 +11100,7 @@ igualada
 ica
 intentar
 iteraci
+introducioms
 un
 una
 utiliza
@@ -12387,6 +12403,7 @@ hosta
 hexadecimal
 hab
 habitados
+heuristica
 Es
 Este
 Ejemplos
@@ -13146,6 +13163,7 @@ Expansi
 Estructuras
 Entidad
 Exponential
+Expresiones
 vital
 variables
 vez
@@ -15232,6 +15250,7 @@ Implementa
 Imagen
 Ideas
 ITERACI
+Introducimos
 Definir
 Din
 Design
@@ -15944,6 +15963,7 @@ Descomponen
 DES
 Dentro
 Dont
+Debemos
 funci
 fibonacci
 fica
@@ -20849,6 +20869,7 @@ HNN
 Hqkh
 Hong
 HAPPEN
+Heuristica
 TODOS
 The
 Trabajo
@@ -22259,6 +22280,7 @@ gLkh
 gAM
 growth
 glovalizaci
+generalizadas
 Programaci
 Para
 Problema
@@ -23021,6 +23043,7 @@ Parroquia
 Poblaci
 Parque
 PACKAGE
+Primera
 Biblio
 BitsPerComponent
 BI
@@ -24379,6 +24402,7 @@ Sydney
 SIGUIENTE
 Subproceso
 Subactividad
+Siguiendo
 Manual
 Modelar
 Millones
@@ -30911,6 +30935,7 @@ VFB
 VrO
 VUT
 VBhF
+Vemos
 Grupo
 Get
 GWgw

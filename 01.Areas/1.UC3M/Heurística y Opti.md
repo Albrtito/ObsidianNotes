@@ -45,4 +45,6 @@ aliases:
 
 ## Ejercicios: 
 + [[1726763938 - Exercises - Programación Lineal|Ejercicios programación lineal]]
-+ 
+
+## Prácticas: 
++ [[1727969475 - Primera practica Heuristica|Primera práctica heuristica]]
