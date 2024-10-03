@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses: 
-sr-due: 2024-10-03
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-10-05
+sr-interval: 2
+sr-ease: 230
 ---
 # Estrategias de integración:
 
@@ -43,5 +43,5 @@ Puede ser hacia delante, hacia atrás o compensada
 Adquirir actividades económicas (normalmente empresas), que están en el mismo nivel de la cadena de valor a la que nos dedicamos. 
 
 **Remark:** 
-+ La integración es una forma de diversificar de manera relacionada.
++ ==La integración es una forma de diversificar de manera relacionada.==
 ***

@@ -6,17 +6,16 @@
         "type": "split",
         "children": [
           {
-            "id": "f3cd2baafda53b50",
+            "id": "c0ed840f92fc3792",
             "type": "tabs",
-            "dimension": 56.481481481481474,
             "children": [
               {
-                "id": "fcbcd17444f63270",
+                "id": "51395969ae187be0",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+                    "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -25,23 +24,6 @@
               }
             ],
             "stacked": true
-          },
-          {
-            "id": "c0ed840f92fc3792",
-            "type": "tabs",
-            "dimension": 43.51851851851852,
-            "children": [
-              {
-                "id": "54919db2dee1e3e5",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00.References/Net_Resources_s3_1.pdf"
-                  }
-                }
-              }
-            ]
           }
         ],
         "direction": "vertical"
@@ -98,8 +80,7 @@
                   "state": {}
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "1087c22e61a64185",
@@ -117,8 +98,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 489.5041847229004,
-        "collapsed": true
+        "width": 489.5041847229004
       },
       "right": {
         "id": "8881aa8c79e29157",
@@ -150,7 +130,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+                    "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -167,13 +147,14 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+                    "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "f97aefa6b972e655",
@@ -185,7 +166,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+                    "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -196,7 +177,7 @@
                       "showTags": false,
                       "showAttachments": false,
                       "hideUnresolved": false,
-                      "collapse-color-groups": false,
+                      "collapse-color-groups": true,
                       "colorGroups": [
                         {
                           "query": "tag:#Calc  ",
@@ -248,17 +229,17 @@
                           }
                         }
                       ],
-                      "collapse-display": true,
+                      "collapse-display": false,
                       "showArrow": false,
                       "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
+                      "nodeSizeMultiplier": 2.79537653688525,
                       "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 13.341859845457,
+                      "collapse-forces": false,
+                      "centerStrength": 0.338050717213115,
+                      "repelStrength": 18.5975922131148,
                       "linkStrength": 0.76664002131628,
                       "linkDistance": 211,
-                      "scale": 0.19137033179160132,
+                      "scale": 0.16099246142401477,
                       "close": true
                     }
                   }
@@ -276,7 +257,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md"
+                    "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md"
                   }
                 }
               }
@@ -284,7 +265,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 366
+        "width": 480
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -304,7 +285,7 @@
         }
       },
       "active": "36d1a43796975b90",
-      "mtime": "2024-09-27T13:40:39+02:00"
+      "mtime": "2024-10-03T19:20:15+02:00"
     }
   },
   "active": "Main"
