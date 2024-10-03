@@ -27,7 +27,7 @@ cssclasses:
 > $$ 20 \leq x_2 + M(1 - b)$$
 > M : **Constante = $\infty$**
 
-
++ Vemos en remarks que esta restricción no es suficiente
 
 **Remarks:**
 Con estas restricciones tenemos que asegurarnos de que todos los casos se cumplen. 
@@ -38,6 +38,13 @@ Con estas restricciones tenemos que asegurarnos de que todos los casos se cumple
 > 3. $x_2 < 20 \rightarrow b = 0$
 > 4. $b = 0 \rightarrow x_2 < 20$
 
++ Solo las restricciones 2 y 3 se cumplen con la primera restricción que hemos dado. Para solucionarlo introducioms una nueva restricción: 
+
+> p.e: (Siguiendo con el ejemplo anterior):
+> Introducimos una nueva restricción 
+> $$x_2 \leq 19 + Mb$$
+> Con esta nueva restricción **los dos casos (el 1 y 4) que antes no satisfacían ahora satisfacen.**
+> 
 
 
 
