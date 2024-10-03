@@ -13,8 +13,18 @@ sr-ease: 230
 ---
 ## Pasos: 
 1. Primera base será matriz identidad 
-2. $x_b = B^{-1}b: z = C_B^T \codot x_B$
-   + 
+2. $x_b = B^{-1}b: z = C_B^T \cdot x_B$
+   + $C_B^T$ : Sera la matriz de coefiientes de costes para la base B
+     
+3. Regla de entrada: Vamos a ver cual es la variable que más nos ayuda al entrar.
+	+ Calcular la entrada de una nueva variable: $z_j - c_j$ → Entra $x_j$ con $z_j - c_j$ MENOR (más negativo)
+	  $$z_j = C_B^Ty_j \rightarrow y_j = B^-a_j$$
+	+ Si todas son positivas entonces **terminamos:**
+		+ **Sol. Opt:** Todas las variables artificiales toman valor nulo. 
+			+ **única:** Si ninguna es igual a 0
+			+ **infinitas:** Si alguna es igual a 0
+4. **Regla de salida:** Vamos a ver que variable sale: 
+   $$ \min\{\frac{X_{B_i}}{y_{ji}}\}$$
 # Method - SIMPLEX
 Lo primero que hemos de realizar es **transcribir la tarea de programación lineal a [[1727270366 - Forma estandar|Forma estandar]]**
 
