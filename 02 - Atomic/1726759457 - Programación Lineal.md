@@ -6,8 +6,8 @@ tags:
   - Heuri
 References: 
 cssclasses:
-sr-due: 2024-10-03
-sr-interval: 3
+sr-due: 2024-10-11
+sr-interval: 8
 sr-ease: 252
 ---
 # Programación Lineal
@@ -29,8 +29,8 @@ sr-ease: 252
 
 > [!done] Solución:
 > La solución de un problema de progamación lineal se encuentra en el vector de variables que maximice/minimice la función objetivo y cumpla con las restricciones.
-> + La solución óptima puede ser única o no. En este segundo caso decimos que existen **soluciones óptimas alternativas**
-+ Puede **no existir ninguna solución**
+> ==+ La solución óptima puede ser única o no. En este segundo caso decimos que existen **soluciones óptimas alternativas**==
++ Puede **no existir ninguna solución**, que nunca pasa
 
 ## Formas del modelo en programación lineal:
 Según la forma en la que se exprese la función y las restricciones podemos representar el problema de forma **canónica o de forma estandar**

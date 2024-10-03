@@ -11,8 +11,13 @@
             "id": "1f618b7f849bdbb3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -122,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,6 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,14 +253,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/1726753991 - Criptosistemas clásicos.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 366
+    "width": 480
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,10 +283,15 @@
   },
   "active": "1f618b7f849bdbb3",
   "lastOpenFiles": [
+    "02 - Atomic/1727886467 - Estrategia de glovalización.md",
+    "02 - Atomic/1727429966 - Packet switching.md",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
+    "02 - Atomic/1727710261 - Estrategias de integración.md",
+    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+    "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
     "00.References/Net_Resources_s3_1.pdf",
     "02 - Atomic/1727958720 - - Untitled Suffix.md",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/Como hacer un buen CV.md",
     "02 - Atomic/1727888867 - Movilidad en Canada.md",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
@@ -290,16 +305,12 @@
     "02 - Atomic/1727255580 - Loss and delay in Networks.md",
     "02 - Atomic/1727886621 - Estrategia de subcontratación.md",
     "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
-    "02 - Atomic/1727886467 - Estrategia de glovalización.md",
     "02 - Atomic/1727886589 -.md",
     "02 - Atomic/1727270366 - Forma estandar.md",
     "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
     "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
     "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
-    "02 - Atomic/1727429966 - Packet switching.md",
     "02 - Atomic/1726500637 - Definición - Saldo de la balanza comercial.md",
-    "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
-    "02 - Atomic/1726498694 - Definition - Criptografía.md",
     "01.Areas/1.UC3M/Apuntes javi",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/Net_References_s2_1.pdf",
