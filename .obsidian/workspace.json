@@ -6,36 +6,35 @@
       {
         "id": "f3cd2baafda53b50",
         "type": "tabs",
+        "dimension": 56.48148148148148,
         "children": [
           {
-            "id": "49c66995cfb75605",
+            "id": "fcbcd17444f63270",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1727166266 - Movilidad no Europea.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3f89e3444dc6beb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/Como hacer un buen CV.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
+      },
+      {
+        "id": "c0ed840f92fc3792",
+        "type": "tabs",
+        "dimension": 43.51851851851852,
+        "children": [
+          {
+            "id": "54919db2dee1e3e5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Net_Resources_s3_1.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.0041847229004,
-    "collapsed": true
+    "width": 489.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -130,12 +128,19 @@
             }
           },
           {
+            "id": "fea6a7bd9cb3093d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
             "id": "099139f438b240fc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/Como hacer un buen CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,13 +157,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/Como hacer un buen CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f97aefa6b972e655",
@@ -170,7 +175,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/Como hacer un buen CV.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,14 +240,14 @@
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1.99040671400904,
+                  "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.247901872175597,
-                  "repelStrength": 20,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 13.341859845457,
                   "linkStrength": 0.76664002131628,
-                  "linkDistance": 500,
-                  "scale": 0.10670327140994698,
+                  "linkDistance": 211,
+                  "scale": 0.19137033179160132,
                   "close": true
                 }
               }
@@ -260,17 +264,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/Como hacer un buen CV.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 449,
-    "collapsed": true
+    "width": 366
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,8 +290,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c3f89e3444dc6beb",
+  "active": "b89f836cb1d8a8cd",
   "lastOpenFiles": [
+    "00.References/Net_Resources_s3_1.pdf",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
+    "02 - Atomic/Como hacer un buen CV.md",
     "02 - Atomic/1727888867 - Movilidad en Canada.md",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "02 - Atomic/1727166266 - Movilidad no Europea.md",
@@ -315,13 +319,10 @@
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
     "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
-    "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
-    "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "01.Areas/1.UC3M/Apuntes javi",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/Net_References_s2_1.pdf",
     "00.References/Net_References_s3_2.pdf",
-    "00.References/Net_Resources_s3_1.pdf",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",
     "00.References/Net_References_s1_1.pdf",
