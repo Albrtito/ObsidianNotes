@@ -6,9 +6,9 @@ tags:
   - Heuri
 References: 
 cssclasses:
-sr-due: 2024-10-03
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-10-16
+sr-interval: 13
+sr-ease: 270
 ---
 # Forma canónica
 
