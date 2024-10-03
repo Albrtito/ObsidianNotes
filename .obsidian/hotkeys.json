@@ -133,7 +133,9 @@
         "Alt"
       ],
       "key": "n"
-    },
+    }
+  ],
+  "zk-prefixer": [
     {
       "modifiers": [
         "Mod"
