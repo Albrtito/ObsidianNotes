@@ -37,14 +37,6 @@
     }
   ],
   "file-explorer:new-file": [],
-  "zk-prefixer": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
   "workspaces:load": [
     {
       "modifiers": [
@@ -133,6 +125,20 @@
         "Mod"
       ],
       "key": "H"
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "n"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
     }
   ]
 }
