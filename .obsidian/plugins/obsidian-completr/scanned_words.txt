@@ -2558,6 +2558,7 @@ decay
 despues
 definic
 denegarla
+declara
 modelos
 modelo
 maximizar
@@ -3410,6 +3411,7 @@ manual
 mandar
 mayore
 modelar
+metros
 en
 ease
 es
@@ -10269,6 +10271,7 @@ satisfacer
 solucionarlo
 satisfac
 sumatorios
+setname
 interval
 importancia
 incorrecto
@@ -14539,6 +14542,7 @@ nRY
 necesitamos
 negativo
 nuestra
+name
 Identificar
 Intro
 Identificaci
@@ -15964,6 +15968,8 @@ DES
 Dentro
 Dont
 Debemos
+Declaracion
+Declaraci
 funci
 fibonacci
 fica
@@ -16684,6 +16690,7 @@ fila
 fijo
 favoritos
 faltan
+float
 objetivo
 obtener
 of
@@ -23044,6 +23051,7 @@ Poblaci
 Parque
 PACKAGE
 Primera
+Par
 Biblio
 BitsPerComponent
 BI
@@ -25122,6 +25130,7 @@ MixColumns
 Matriz
 Mismo
 Mucha
+MathProg
 Zivkovic
 Zo
 Zi
