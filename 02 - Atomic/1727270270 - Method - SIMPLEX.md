@@ -43,6 +43,7 @@ $$
 
 
 > [NOTE] Teorema: > Dada $\max z = C^Tx$,las soluciones, si las hay, están en puntos extremos de F: $Ax = b$ con $x\geq0$. 
+## Paso a paso:
 
 ## Ejemplo práctico: 
 $$

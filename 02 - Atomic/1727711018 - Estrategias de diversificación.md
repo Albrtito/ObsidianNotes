@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses: 
-sr-due: 2024-10-03
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-10-05
+sr-interval: 2
+sr-ease: 230
 ---
 # Estrategias de diversificación
 
@@ -28,7 +28,7 @@ Existen dos **tipos** de diversificación:
 Esta diversificación se puede dar en varias **formas**:
 + [[1727710261 - Estrategias de integración#Integración vertical|Integración vertical]]
 + Diversificación horizontal: Creación de una **nueva industria**
-+ Diversificación Geográfica:**Entrar en nuevos mercados**
++ ==Diversificación Geográfica:**Entrar en nuevos mercados**==
 
 
 

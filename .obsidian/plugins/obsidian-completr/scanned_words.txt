@@ -882,6 +882,8 @@ acotada
 ahora
 amarilla
 ante
+ayuda
+artificiales
 Creaci
 Crear
 Cuando
@@ -5239,6 +5241,7 @@ primera
 pasamos
 porci
 practica
+positivas
 lineal
 la
 lo
@@ -6823,6 +6826,8 @@ trateremos
 tridimensional
 tendremos
 thought
+terminamos
+toman
 review
 resolver
 realizar
@@ -9390,6 +9395,7 @@ constituyente
 condicional
 condicion
 contienen
+coefiientes
 sr
 se
 subproblemas
@@ -10277,6 +10283,7 @@ sumatorios
 setname
 solver
 sintaxis
+sale
 interval
 importancia
 incorrecto
@@ -11109,6 +11116,8 @@ ica
 intentar
 iteraci
 introducioms
+identidad
+infinitas
 un
 una
 utiliza
@@ -13173,6 +13182,7 @@ Entidad
 Exponential
 Expresiones
 Ejecutar
+Entra
 vital
 variables
 vez
@@ -14549,6 +14559,7 @@ necesitamos
 negativo
 nuestra
 name
+nulo
 Identificar
 Intro
 Identificaci
@@ -21589,6 +21600,7 @@ Technology
 Total
 THERE
 Tendr
+Todas
 grafo
 guardan
 global
@@ -23060,6 +23072,7 @@ Parque
 PACKAGE
 Primera
 Par
+Pasos
 Biblio
 BitsPerComponent
 BI
@@ -24419,6 +24432,8 @@ SIGUIENTE
 Subproceso
 Subactividad
 Siguiendo
+Sera
+Sol
 Manual
 Modelar
 Millones
@@ -25139,6 +25154,7 @@ Matriz
 Mismo
 Mucha
 MathProg
+MENOR
 Zivkovic
 Zo
 Zi
@@ -29069,6 +29085,7 @@ Opera
 ONLY
 Operamos
 Orden
+Opt
 ximo
 xrL
 xFQ
