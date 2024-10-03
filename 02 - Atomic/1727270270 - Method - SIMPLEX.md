@@ -11,6 +11,10 @@ sr-due: 2024-10-03
 sr-interval: 1
 sr-ease: 230
 ---
+## Pasos: 
+1. Primera base será matriz identidad 
+2. $x_b = B^{-1}b: z = C_B^T \codot x_B$
+   + 
 # Method - SIMPLEX
 Lo primero que hemos de realizar es **transcribir la tarea de programación lineal a [[1727270366 - Forma estandar|Forma estandar]]**
 
@@ -27,9 +31,8 @@ $$
 	+ Entonces la única condición que ha de haber para que un sistema algebráico tenga solución será que **sea invertible**.
 	+ Hacer cambios en el vector de coeficientes b de un sistema que tiene solución no altera ese aspecto del sistema. Seguirá teniendo solución.
 
-> [!NOTE] Teorema: 
-> Dada $\max z = C^Tx$,las soluciones, si las hay, están en puntos extremos de F: $Ax = b$ con $x\geq0$. 
 
+> [NOTE] Teorema: > Dada $\max z = C^Tx$,las soluciones, si las hay, están en puntos extremos de F: $Ax = b$ con $x\geq0$. 
 
 ## Ejemplo práctico: 
 $$

@@ -3412,6 +3412,7 @@ mandar
 mayore
 modelar
 metros
+maximizando
 en
 ease
 es
@@ -5998,6 +5999,7 @@ linealidad
 largas
 llega
 lleva
+lmodelo
 tags
 tres
 todos
@@ -9387,6 +9389,7 @@ chain
 constituyente
 condicional
 condicion
+contienen
 sr
 se
 subproblemas
@@ -10272,6 +10275,8 @@ solucionarlo
 satisfac
 sumatorios
 setname
+solver
+sintaxis
 interval
 importancia
 incorrecto
@@ -13167,6 +13172,7 @@ Estructuras
 Entidad
 Exponential
 Expresiones
+Ejecutar
 vital
 variables
 vez
@@ -16691,6 +16697,8 @@ fijo
 favoritos
 faltan
 float
+ficheros
+funcion
 objetivo
 obtener
 of
