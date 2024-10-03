@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-03
-sr-interval: 3
+sr-due: 2024-10-13
+sr-interval: 10
 sr-ease: 250
 ---
 # Definición de objetivos en la empresa
@@ -15,7 +15,7 @@ sr-ease: 250
 
 > [!BUG] Problema: 
 >  Existe un problema a la hora de definir el objetivo de la empresa como “ganar dinero” puesto a que no podemos cuantificar cuanto dinero y no es un objetivo válido para todos los grupos (políticos y económicos) de la empresa. 
-+ Cada uno de los grupos activos en una empresa busca **objetivos diferents**
++ Cada uno de los grupos activos en una empresa busca **objetivos diferentes**
 No solo tenemos al grupo de los directivos sino también al de los **trabajadores**, **proovedores**, **estado** etc. 
 + **Trabajadores:** Piden mejores condiciones, sueldos y estabilidad.
 
