@@ -880,6 +880,7 @@ averiguar
 adido
 acotada
 ahora
+amarilla
 Creaci
 Crear
 Cuando
@@ -3404,6 +3405,7 @@ models
 multiplicador
 mala
 manual
+mandar
 en
 ease
 es
@@ -4298,6 +4300,8 @@ encontrar
 equaci
 encontr
 ejempo
+esperamos
+espera
 programaci
 primer
 paso
@@ -5224,6 +5228,7 @@ personal
 provar
 primera
 pasamos
+porci
 lineal
 la
 lo
@@ -6806,6 +6811,7 @@ tenerlas
 trateremos
 tridimensional
 tendremos
+thought
 review
 resolver
 realizar
@@ -9367,6 +9373,8 @@ comercial
 cambia
 cuatridimensional
 copiado
+chain
+constituyente
 sr
 se
 subproblemas
@@ -10245,6 +10253,7 @@ semos
 simplemente
 salir
 sucio
+subproceso
 interval
 importancia
 incorrecto
@@ -18831,6 +18840,7 @@ Altitud
 Aumento
 Australia
 Acotando
+Actividad
 Floyd
 Foundations
 Funci
@@ -24367,6 +24377,8 @@ SIGMA
 Saldo
 Sydney
 SIGUIENTE
+Subproceso
+Subactividad
 Manual
 Modelar
 Millones
@@ -29015,6 +29027,7 @@ Out
 Opera
 ONLY
 Operamos
+Orden
 ximo
 xrL
 xFQ

@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-03
-sr-interval: 18
-sr-ease: 270
+sr-due: 2024-12-10
+sr-interval: 68
+sr-ease: 290
 ---
 # Cadena de valor
 Orden constituyente de los procesos que realiza una empresa. 
