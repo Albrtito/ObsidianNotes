@@ -36,7 +36,19 @@ Services and protocols provide **logical communication between systems,** they d
 
 ## Multiplexing and demultiplexing:
 
+> [!NOTE] Multiplexing: 
+> The act of handling data of **multiple sockets**, putting a header and sending it over the network.
+> Packets are comming from multiple sockets, so we put a header to each of one saying the socket it comes from and where it goes to and send them without a proper order into the network.
++ Each datagram will have a mix of the four variables: **Destination IP + Port** and **Source IP + Port**. 
+  Based on the type of multiplexing  and demultiplexing performed an n-tuple of these values will be sent.
 
+
+> [!NOTE] Demultiplexing: 
+> The opposite of multiplexing, using the header to know into which socket must the packet be delivered. 
+
+### Connectionless demultiplexing:
++ Referenced by only destination and source ports? #Duda: more info about this
+### Connection-oriented demultiplexing:
 
 
 ***

@@ -935,6 +935,7 @@ asks
 authoritative
 asked
 answer
+appart
 Creaci
 Crear
 Cuando
@@ -1770,6 +1771,7 @@ Cut
 Careful
 Challenging
 Case
+Creating
 de
 due
 dar
@@ -2691,6 +2693,9 @@ double
 detected
 database
 decentralized
+demultiplexing
+datagram
+delivered
 modelos
 modelo
 maximizar
@@ -3583,6 +3588,8 @@ multiplying
 mindset
 multimedia
 mainly
+mix
+multiplexing
 en
 ease
 es
@@ -5491,6 +5498,9 @@ propietary
 port
 proper
 prevent
+postman
+putting
+put
 lineal
 la
 lo
@@ -6299,6 +6309,8 @@ latency
 load
 local
 level
+logical
+letters
 tags
 tres
 todos
@@ -7171,6 +7183,8 @@ tJS
 telling
 telnet
 text
+transfering
+tuple
 review
 resolver
 realizar
@@ -8036,6 +8050,7 @@ readable
 requests
 root
 returns
+road
 References
 Resoluci
 Rectas
@@ -8776,6 +8791,7 @@ RAAAAA
 RrnD
 RQyA
 Recursive
+Recieves
 cssclasses
 correcto
 correcta
@@ -9849,6 +9865,9 @@ communciate
 come
 command
 crisis
+challenges
+controlling
+comes
 sr
 se
 subproblemas
@@ -10786,6 +10805,7 @@ sense
 someone
 search
 servers
+saying
 interval
 importancia
 incorrecto
@@ -13042,6 +13062,8 @@ here
 humanly
 humans
 having
+houses
+handling
 Es
 Este
 Ejemplos
@@ -13835,6 +13857,7 @@ Eye
 EGv
 EOX
 Estimate
+Extract
 vital
 variables
 vez
@@ -16787,6 +16810,9 @@ DZh
 DCD
 Divide
 Detection
+DEMULTIPLEXING
+Destination
+Demultiplexing
 funci
 fibonacci
 fica
@@ -18284,6 +18310,8 @@ oau
 oNb
 oRJ
 optimize
+occupies
+opposite
 que
 queremos
 qD
@@ -24194,6 +24222,7 @@ Particular
 Paso
 Peers
 Port
+Pass
 Biblio
 BitsPerComponent
 BI
@@ -25626,6 +25655,8 @@ Set
 Sockets
 SMTP
 Structure
+Services
+Source
 Manual
 Modelar
 Millones
@@ -28434,6 +28465,8 @@ bSr
 bIjB
 before
 brute
+braking
+betweeen
 Util
 Una
 UniZumo
