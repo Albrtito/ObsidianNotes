@@ -36,7 +36,17 @@ We’ll use packet losses and apply the AIMD method:
 ### Cons: 
 
 **What to do when starting a new flow?:** 
-1. We can start really conservative, **start with a window of 1**
-2. Estimate an RTT based on the speed of the li
+1. We can start really conservative, **start with a window of 1**. 
+   But one is to little, we’ll be incrementing for forever
+2. Estimate an RTT based on the speed of the link we have. 
+   But this is to much, se can disturb other users. 
+**Solution:** We’ll perform an exponential incrementation. Start with 1 packet and double it each time. 1-2-4-8 -..-. We call this method **slow start**
+
+
+### Detection of the packet loss: 
+We an detect loss packets in two different ways, one of them is by **duplicate acks** and the other is **packet timeouts**. We’ll react differently in each case:
+
++ Dup
+
 
 ***

@@ -29,6 +29,19 @@
                 "file": "00.References/Net_References_s3_4.pdf"
               }
             }
+          },
+          {
+            "id": "9cc749d48df3c488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/1.UC3M/Networks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -295,6 +308,8 @@
   },
   "active": "51395969ae187be0",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Networks.md",
+    "02 - Atomic/1727428451 - Definition - TCP.md",
     "00.References/Net_References_s3_4.pdf",
     "02 - Atomic/1728027800 - Network congestion.md",
     "00.References/Net_Resources_s3_3.pdf",
@@ -323,7 +338,6 @@
     "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
     "02 - Atomic/1727270366 - Forma estandar.md",
     "02 - Atomic/1727270318 - Forma canónica.md",
-    "02 - Atomic/1726827729 - Defninition - Serie de Fibonacci.md",
     "00.References/Net_Resources_s3_1.pdf",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "01.Areas/1.UC3M/Apuntes javi",
