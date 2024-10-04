@@ -930,6 +930,7 @@ address
 assumption
 acknowledgments
 artifitialy
+addres
 Creaci
 Crear
 Cuando
@@ -1764,6 +1765,7 @@ CBCCDDC
 Cut
 Careful
 Challenging
+Case
 de
 due
 dar
@@ -2683,6 +2685,7 @@ drain
 disturb
 double
 detected
+database
 modelos
 modelo
 maximizar
@@ -7159,6 +7162,7 @@ tJW
 tJS
 telling
 telnet
+text
 review
 resolver
 realizar
@@ -8020,6 +8024,7 @@ rSCf
 react
 rodea
 recovery
+readable
 References
 Resoluci
 Rectas
@@ -10764,6 +10769,7 @@ stablish
 sockets
 socket
 short
+sense
 interval
 importancia
 incorrecto
@@ -13016,6 +13022,8 @@ hmx
 hÜ
 half
 here
+humanly
+humans
 Es
 Este
 Ejemplos
@@ -28398,6 +28406,7 @@ bOVf
 bSr
 bIjB
 before
+brute
 Util
 Una
 UniZumo

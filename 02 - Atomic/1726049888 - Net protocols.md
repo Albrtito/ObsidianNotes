@@ -20,6 +20,10 @@ When sending packages though the internet computers need to understand one anoth
 > A protocol defines the ==format and the order== of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message or other event.
 ## Types by layer:
 The internet is constructed as a layered architecture. For each of it’s layers there are several different protocols. 
+## Application protocols: 
+Main application layer protocol is DNS, a distributed database:
++ [[1728037357 - DNS|DNS]]
+
 ### Transport protocols:
 Two main protocols are used in this layer, TCP and UDP. 
 + [[1727428429 - Definition - UDP|UDP]]
