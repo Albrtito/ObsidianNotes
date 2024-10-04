@@ -7,8 +7,8 @@ tags:
   - Networks
 References: 
 cssclasses: 
-sr-due: 2024-10-04
-sr-interval: 4
+sr-due: 2024-10-12
+sr-interval: 8
 sr-ease: 210
 ---
 # Method - RDT With errors and loss
@@ -20,7 +20,7 @@ sr-ease: 210
 **Solution:**
 Once the package is send a timer starts, when the timer ends, the sender asumes that the package has been lost **and retransmits it**. 
 + Duplicate packages can be generated → We already have sequence numbers to deal with this. 
-+ The timer waits for **exactly 1 RTT** (Round Trip Time)
++ ==The timer waits for **exactly 1 RTT** (Round Trip Time)==
 	+ To compute the RTT we can check the history of packages sent and how long they took. **However the only variable that will change the RTT is the queueing delay**. This means that the last package wont be a good prediction of the next one. 
 	+ Because it is an estimation. The RTT will be wrong some times. 
 	+ For the first package: Either be very agressive and start sending with small RTT untill there is a response, or be loose and set a long RTT. THe thing is we need that first response to estimate a better RTT.
@@ -37,7 +37,7 @@ Once the package is send a timer starts, when the timer ends, the sender asumes 
 > [!bug] PROBLEM:
 >  If any acknowledgment can appear at any arbitrary time, then the packages would need to be differently numbered, this cannot be implemented. In order to solve this we **asume that packages have a time to live** in the network. (TTL)
 
-### Performance problems: 
+### ==Performance problems:== 
 This system has performance problems due to the waiting time RTT that the sender needs in order to **wait for the ACK.**
 
 We can solve this by allowing **multiple packets in flight**. Start sending packages even though we havent recieved the ack for the previous ones. 

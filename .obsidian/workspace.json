@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md"
+                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md"
               }
             }
           }
@@ -295,6 +295,8 @@
   },
   "active": "51395969ae187be0",
   "lastOpenFiles": [
+    "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+    "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
     "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "00.References/Net_References_s3_4.pdf",
     "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
@@ -324,7 +326,6 @@
     "02 - Atomic/1726049178 - Definition - Communication links.md",
     "02 - Atomic/1727886621 - Estrategia de subcontratación.md",
     "02 - Atomic/1726825216 - Programación Dinámica.md",
-    "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
     "00.References/Net_Resources_s3_1.pdf",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "01.Areas/1.UC3M/Apuntes javi",
