@@ -921,6 +921,7 @@ ahun
 altough
 aim
 amount
+achieve
 Creaci
 Crear
 Cuando
@@ -2671,6 +2672,7 @@ decrease
 drain
 disturb
 double
+detected
 modelos
 modelo
 maximizar
@@ -4496,6 +4498,7 @@ ePG
 easier
 ecrease
 enougth
+experienced
 programaci
 primer
 paso
@@ -6254,6 +6257,7 @@ lcu
 lGlO
 lFF
 loses
+linearly
 tags
 tres
 todos
@@ -7982,6 +7986,7 @@ rfzm
 rBo
 rKIqic
 rSCf
+react
 References
 Resoluci
 Rectas
@@ -10713,6 +10718,7 @@ sOy
 sGl
 sQV
 signal
+ssthresh
 interval
 importancia
 incorrecto
@@ -11588,6 +11594,7 @@ imyW
 increased
 incrementing
 incrementation
+increase
 un
 una
 utiliza
@@ -16696,6 +16703,7 @@ Drw
 DZh
 DCD
 Divide
+Detection
 funci
 fibonacci
 fica
@@ -18188,6 +18196,7 @@ oXJ
 oau
 oNb
 oRJ
+optimize
 que
 queremos
 qD
@@ -23288,6 +23297,7 @@ gmLF
 gYxM
 gLI
 gIO
+growing
 Programaci
 Para
 Problema
@@ -24083,6 +24093,7 @@ PDY
 PrN
 PAAAAA
 PMu
+Pakcet
 Biblio
 BitsPerComponent
 BI
@@ -25509,6 +25520,8 @@ SiA
 SzbP
 Sxuv
 SBksU
+Slow
+Set
 Manual
 Modelar
 Millones

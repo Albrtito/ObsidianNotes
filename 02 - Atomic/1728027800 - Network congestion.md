@@ -33,7 +33,9 @@ We’ll use packet losses and apply the AIMD method:
 + **Packets lost cases:** If we dont get the acks → **Packet loses**
 1. Send a lot of less packets, not only to decrease the flow but enougth to **drain the buffers**. → Divide the window by 2. (Cut it in half)
 
-### Cons: 
+**Remarks:**
++ Congestion will be detected once we experienced the **first loss**. We save this value as a variable `cwnd` 
+### Slow start: 
 
 **What to do when starting a new flow?:** 
 1. We can start really conservative, **start with a window of 1**. 
@@ -42,11 +44,22 @@ We’ll use packet losses and apply the AIMD method:
    But this is to much, se can disturb other users. 
 **Solution:** We’ll perform an exponential incrementation. Start with 1 packet and double it each time. 1-2-4-8 -..-. We call this method **slow start**
 
+In order to **optimize** this approach we’ll use the value of `cwnd`. 
 
-### Detection of the packet loss: 
+1. Once we achieve congestion: 
+	+ Set the value for `cwnd` 
+	+ Set a new value: `ssthresh` as **half the value of**  `cwnd` 
+	  
+2. Next time we begin with an slow start, we’ll use an **exponential increase until ssthresh**, **then start growing linearly**
+
+### Detection of the packet loss:
+
 We an detect loss packets in two different ways, one of them is by **duplicate acks** and the other is **packet timeouts**. We’ll react differently in each case:
 
-+ Dup
++ **Duplicated acks:** We’ll half the window, multiplicative decrease
++ **Pakcet timeouts:** We’ll **start again with an slow start**
 
+
+## FSM:![[Screenshot 2024-10-04 at 10.22.44 AM.png]]
 
 ***
