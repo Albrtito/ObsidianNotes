@@ -45,9 +45,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a92874b3236aaf1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/1.UC3M/Cripto.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4235b8ba450603cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -156,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727270270 - Method - SIMPLEX.md"
+                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md"
               }
             }
           }
@@ -309,12 +335,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "eab1c146e887c252",
+  "active": "4235b8ba450603cf",
   "lastOpenFiles": [
-    "02 - Atomic/1726759457 - Programación Lineal.md",
-    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
-    "01.Areas/1.UC3M/Heuristica y Opti.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
     "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
+    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+    "99 - Meta/0. Attachments/1727270270 - Method - SIMPLEXj.png",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
+    "01.Areas/1.UC3M/Heuristica y Opti.md",
     "02 - Atomic/1727969475 - Primera practica Heuristica.md",
     "02 - Atomic/1728027800 - Network congestion.md",
     "01.Areas/1.UC3M/Networks.md",
@@ -345,8 +374,6 @@
     "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
     "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
     "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
-    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
-    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "99 - Meta/0. Attachments/Screenshot 2024-10-04 at 10.22.44 AM.png",
     "00.References/S3.4 presentation.pdf",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
@@ -356,7 +383,6 @@
     "00.References/Net_References_s1_1.pdf",
     "99 - Meta/0. Attachments/1726572508 - The network stack.png",
     "99 - Meta/0. Attachments/1727430724 - Circuit switcing-1.png",
-    "99 - Meta/0. Attachments/1727430724 - Circuit switcing.png",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",

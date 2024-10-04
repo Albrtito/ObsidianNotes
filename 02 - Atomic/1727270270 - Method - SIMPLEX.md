@@ -27,6 +27,9 @@ sr-ease: 230
    $$ \min\{\frac{X_{B_i}}{y_{ji}}\}$$
 # Method - SIMPLEX:
 
+
+
+![[1727270270 - Method - SIMPLEXj.png|center|400]]
 Lo primero que hemos de realizar es **transcribir la tarea de programación lineal a [[1727270366 - Forma estandar|Forma estandar]]**
 
 + Un vector X que resuelve Ax = b se llama solución

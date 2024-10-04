@@ -52,3 +52,4 @@ tags:
 + [[1726493246 - Algorithm - AES|AES]]
 + [[1727443922 - Cuerpos de Galois|Cuerpos de Galois]]
 ## Práctica:
++ [[1728048290 - Proyecto de criptografía UC3M|Proyecto de criptografía UC3M]]
