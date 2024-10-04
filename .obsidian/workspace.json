@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md"
+                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md"
               }
             }
           }
@@ -295,9 +295,10 @@
   },
   "active": "51395969ae187be0",
   "lastOpenFiles": [
+    "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+    "00.References/Net_References_s3_4.pdf",
     "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
     "02 - Atomic/1728027800 - Network congestion.md",
-    "00.References/Net_References_s3_4.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-10-04 at 10.22.44 AM.png",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
@@ -310,7 +311,6 @@
     "02 - Atomic/1727105121 - Estrategia de la empresa.md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
     "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
-    "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "02 - Atomic/1727710261 - Estrategias de integración.md",
     "02 - Atomic/1727969678 - MathProg.md",
@@ -325,7 +325,6 @@
     "02 - Atomic/1727886621 - Estrategia de subcontratación.md",
     "02 - Atomic/1726825216 - Programación Dinámica.md",
     "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
-    "02 - Atomic/1727270366 - Forma estandar.md",
     "00.References/Net_Resources_s3_1.pdf",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "01.Areas/1.UC3M/Apuntes javi",

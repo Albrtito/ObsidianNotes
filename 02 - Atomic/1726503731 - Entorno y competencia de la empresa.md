@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-04
-sr-interval: 1
+sr-due: 2024-10-06
+sr-interval: 2
 sr-ease: 190
 ---
 
@@ -25,18 +25,18 @@ El **donde** actua y se desarrolla la empresa es de vital importancia, debemos d
 	+ ==Recursos del país: Situación geográfica, Clima, etc.==
 + **Factores político legales:** 
 	+ Políticas fiscal-monetarias
-	+ Regulación del mercado laboral: 
+	+ ==Regulación del mercado laboral:== 
 		+ p.e: El salario mínimo
-	+ ==Regulación de las industrias==
+	+ Regulación de las industrias
 		+ p.e: Licencias de estancos
 + **Factores socio-culturales:**
-	+ Sistema de valores: 
+	+ ==Sistema de valores:== 
 		+ p.e: Espíritu al trabajo
-	+ ==Nivel educativo== 
+	+ Nivel educativo 
 	+ Estructura de clases: Cantidad de clase media
 + **Factores tecnológicos:**
 	+ **Tecnologías básicas:** Aquellas que están al alcance de cualquier empresa
-	+ **Tecnología clave:** No está al alcance. Tenerlo es bueno y diferencia del resto. 
+	+ **Tecnología ==clave==:** No está al alcance. Tenerlo es bueno y diferencia del resto. 
 	+ **Tecnología incipiente:** Aquella que será clave pero se está desarrollando. 
 
 ## Entorno específico:
@@ -52,9 +52,9 @@ Conjunto de factores que afectan a una única empresa o a un grupo de empresas *
 + **Relación con los proovedores:** Poder de negociación con los proovedores.
 	+ Empresas grandes tienen mucho poder a la hora de negociar mientras que las pequeñas no le importan a nadie.
 + **Relación con los clientes:** Poder de negociación que tiene **el cliente sobre la empresa**
-+ ==**Rivalidad en el sector:** La lucha mas o menos abierta que tienen las empresas que están dentro de un mismo mercado. Dependiendo de tres factores:== 
-	+ ==**Concentración del mercado**: Número y tamaño de las empresas del mercado.==
-		+ ==Muchas empresas → Más rivalidad==
++ Rivalidad en el sector: La lucha mas o menos abierta que tienen las empresas que están dentro de un mismo mercado. Dependiendo de tres factores: 
+	+ **Concentración del mercado**: Número y tamaño de las empresas del mercado.
+		+ Muchas empresas → Más rivalidad
 	+ ==**Ritmo del crecimiento del sector:**==
 		+ ==Más crecimiento → Menos rivalidad==
 	+ ==**Diferenciación del producto:** Se percibe como único o diferente sobre el resto ofertado en el mercado. Un producto **no diferenciado esta estandarizado.**== 
