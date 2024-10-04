@@ -15,19 +15,26 @@ cssclasses:
 > 
 > We’ll see in this note that there are challenges to that transport like transfering the data reliablely, controlling the rate of packages or solving congestion problems. We’ll also see the different protocols there are to send packets and how they work.
 
-## Transport layer services:
+## Transport layer services and actions:
 Services and protocols provide **logical communication between systems,** they divide the host between: 
-+ **Sender:** The one braking appart the message into packets and sending it
-+ **Reciever:** The one recieving packets and sending them to the app layer
 
-There are two protocols inside the transport layer: [[1727428451 - Definition - TCP|TCP]] and [[1727428429 - Definition - UDP|UDP]]
++ **Sender:** The one braking appart the message into packets and sending it. It occupies itself of:
+  + **Creating segment:** message + header + checksum
+  + **Pass segment to IP/Network:** To the next layer
+
++ **Reciever:** The one recieving packets and sending them to the app layer
+  + **Recieves segment + checks header:** check everything is ok
+  + **Extract message:** For application
+  + **Pass message to the app socket by DEMULTIPLEXING:** See demultiplexing in the next part
 
 
 > [!attention] Differences between transport and network: 
 > Transport layer is going to do the communication between **processes** while the network layer is doing the **communication betweeen hosts**. 
 
-> f.e: If we had letters 
+> f.e: If we had letters being send between houses, the transport layer is the postman while the network layer is the road.
 
+
+## Multiplexing and demultiplexing:
 
 
 
