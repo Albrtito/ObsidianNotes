@@ -30,8 +30,11 @@ To stablish a connection the process needs to know where to loook at, here is wh
 
 
 > [!Attention] Remark: 
-> +  
+> The application layer only knows **where to send** it, **where each process is recieving**  and with **which protocol.** 
+> How to do the sending and recieving is part of **the other layers**
 
+The messages sent are encoded with some application protocol, some protocols are HTTP(web), SMTP(mail). 
+These protocols can be **public or propietary**
 
 ### Sockets: 
 
@@ -48,6 +51,7 @@ In order to **identify the socket** we use:
  telnet <IPAddress> <port>
  ```
 
-### Protocols: 
-The messages sent 
+### Needs: 
+Applications may need different things
+
 
