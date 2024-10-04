@@ -64,6 +64,8 @@ We an detect loss packets in two different ways, one of them is by **duplicate a
 
 ## FSM:![[Screenshot 2024-10-04 at 10.22.44 AM.png]]
 
-### Challenging the window assumption: 
+### Challenging the window assumption | Fast recovery: 
+Once we start recieving duplicate acknowledgments we **are no longer representing with our window the load that is being imposed to the network.** 
 
+**Solution:** We’ll artifitialy increment the window size when recieving a duplicated ack. **But we’ll only do this once we have recieved 3 duplicated acks**. 
 ***
