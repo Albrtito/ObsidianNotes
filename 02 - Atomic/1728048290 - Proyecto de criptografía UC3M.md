@@ -11,15 +11,19 @@ cssclasses:
 > [!attention]  **REQUISITOS:**
 > 1. Se ha de tener contraseñas guardadas con gestiones hash. **Como mínimo** han de ser contraseñas que **el usuario conoce**
 > 2. El intercambio de información ha de estar cifrado.
-> 3. Debemos de comprobar que el mensaje ha llegado integro
+> 3. Debemos de comprobar que el mensaje ha llegado integro. → `fernet`
 
 ## Librerías a usar:
-+ pyca/Cryptography
-+ PyCrypto
++ [pyca/Cryptography](https://cryptography.io/en/latest/)
++ [PyCrypto](https://nitratine.net/blog/post/python-encryption-and-decryption-with-pycryptodome/)
 
 ## Funciones: 
 
-+ fernet: Con esta función no solo se cifra el mensaje sino que también se autentifica.
++ `fernet`: Con esta función no solo se cifra el mensaje sino que también se autentifica. 
+  **Remark:** Si la usamos, explicar pq lo hacemos.
+
++ `HMAC`: 
+
 ## Contraseñas:
 Tenemos distintos **tipos de contraseñas:**
 
