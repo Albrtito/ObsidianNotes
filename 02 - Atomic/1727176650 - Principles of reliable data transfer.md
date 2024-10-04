@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-04
-sr-interval: 7
+sr-due: 2024-10-23
+sr-interval: 19
 sr-ease: 248
 ---
 # Principles of reliable data transfer.
@@ -38,10 +38,10 @@ For the following implementations we’ll take into account the following **assu
 	+ There is a **current state**
 	+ They change state based on the input (pck’s)
 
-> [!quote] Remember: 
-> A reliable transmission means:
-> + All packets arrive
-> + Packets arrive **in order** to the APP
+> [!quote] ==Remember:== 
+> ==A reliable transmission means:==
+> ==+ All packets arrive==
+> ==+ Packets arrive **in order** to the APP==
 
 
 ## Implementations:
