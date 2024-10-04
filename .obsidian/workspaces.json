@@ -15,7 +15,30 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
+                    "file": "02 - Atomic/1727428451 - Definition - TCP.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "29074c1ec3bda5c4",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "00.References/Net_Resources_s3_3.pdf"
+                  }
+                }
+              },
+              {
+                "id": "e711b67ee4338c82",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01.Areas/1.UC3M/Networks.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -23,6 +46,7 @@
                 }
               }
             ],
+            "currentTab": 2,
             "stacked": true
           }
         ],
@@ -98,7 +122,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 489.5041847229004
+        "width": 489.5041847229004,
+        "collapsed": true
       },
       "right": {
         "id": "8881aa8c79e29157",
@@ -130,7 +155,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
+                    "file": "01.Areas/1.UC3M/Networks.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,14 +172,13 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
+                    "file": "01.Areas/1.UC3M/Networks.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "f97aefa6b972e655",
@@ -166,7 +190,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
+                    "file": "01.Areas/1.UC3M/Networks.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -239,7 +263,7 @@
                       "repelStrength": 18.5975922131148,
                       "linkStrength": 0.76664002131628,
                       "linkDistance": 211,
-                      "scale": 0.16099246142401477,
+                      "scale": 0.11252739408040068,
                       "close": true
                     }
                   }
@@ -257,7 +281,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md"
+                    "file": "01.Areas/1.UC3M/Networks.md"
                   }
                 }
               }
@@ -284,8 +308,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "36d1a43796975b90",
-      "mtime": "2024-10-03T19:20:15+02:00"
+      "active": "e711b67ee4338c82",
+      "mtime": "2024-10-04T13:34:50+02:00"
     }
   },
   "active": "Main"

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727428429 - Definition - UDP.md",
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00.References/Net_Resources_s3_1.pdf"
+                "file": "00.References/Net_Resources_s3_3.pdf"
               }
             }
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727428429 - Definition - UDP.md",
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,14 +156,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727428429 - Definition - UDP.md",
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f97aefa6b972e655",
@@ -175,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727428429 - Definition - UDP.md",
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +185,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "tag:#Calc  ",
@@ -248,8 +247,8 @@
                   "repelStrength": 18.5975922131148,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 211,
-                  "scale": 0.2025772107838163,
-                  "close": true
+                  "scale": 0.11252739408040068,
+                  "close": false
                 }
               }
             }
@@ -266,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727428429 - Definition - UDP.md"
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md"
               }
             }
           }
@@ -293,22 +292,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "51395969ae187be0",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
-    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+    "00.References/Net_Resources_s3_3.pdf",
+    "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1728038869 - Transport network layer.md",
+    "02 - Atomic/1727428451 - Definition - TCP.md",
+    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+    "00.References/Net_References_s3_2.pdf",
     "00.References/Net_Resources_s3_1.pdf",
+    "02 - Atomic/1727428429 - Definition - UDP.md",
+    "99 - Meta/0. Attachments/Screenshot 2024-10-04 at 1.30.32 PM.png",
+    "02 - Atomic/1727177356 - Method - Checksum.md",
     "99 - Meta/0. Attachments/1728038869 - Transport network layerj.png",
     "02 - Atomic/1726572508 - The network stack.md",
     "00.References/Net_References_s2_1.pdf",
-    "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1726574469 - Application layer.md",
     "02 - Atomic/1728037357 - DNS.md",
     "99 - Meta/0. Attachments/1728037357 - DNSj.png",
     "02 - Atomic/1726049888 - Net protocols.md",
     "02 - Atomic/1728027800 - Network congestion.md",
     "02 - Atomic/1727429612 - Definition - TLS.md",
-    "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1728035649 - - Untitled Suffix.md",
     "00.References/Net_References_s3_4.pdf",
     "02 - Atomic/1727712353 - Responsabilidad social de la empresa.md",
@@ -322,13 +326,9 @@
     "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
     "99 - Meta/0. Attachments/Screenshot 2024-10-04 at 10.22.44 AM.png",
-    "00.References/Net_Resources_s3_3.pdf",
     "00.References/S3.4 presentation.pdf",
-    "00.References/Net_References_s3_2.pdf",
     "02 - Atomic/1727711018 - Estrategias de diversificación.md",
     "02 - Atomic/1726499016 - Definir objetivos en la empresa.md",
-    "02 - Atomic/1727105121 - Estrategia de la empresa.md",
-    "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "01.Areas/1.UC3M/Apuntes javi",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
@@ -340,7 +340,6 @@
     "01.Areas/1.UC3M/Movilidad.canvas",
     "99 - Meta/0. Attachments/Cripto.png",
     "99 - Meta/0. Attachments/1727187154 - Method - RDT Over reliable channel.png",
-    "99 - Meta/0. Attachments/1727176650 - Principles of reliable data transfer-1.png",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "Differential Calculus.canvas",

@@ -12,13 +12,13 @@ sr-interval: 6
 sr-ease: 230
 ---
 # TCP
-#Duda: Differencia entre internet transport protocol and internet transport protocol service.
 
 > [!NOTE]  Definition:
->  TCP is an **internet transport protocol service** that offers **reliable transmission** of data between sender and reciever.
+>  TCP is a connection oriented **internet transport protocol** that offers **reliable transmission** of data between sender and reciever.
++ Offers **congestion control**[^1]
++ Offers **flow control** 
 
 **Remarks:**
-+ **Reliable transport**
 + **Flow and congestion control**
 + **NO** 
 	+ timing
@@ -81,3 +81,5 @@ We would like to ackt in one RTT time. In order to do so we’ll **tolerate up t
 + Once we have recieved **more than three duplicated ack** we’ll assume that it is a loss package and retransmit right away. 
 
 ***
+
+[^1]: [[1728027800 - Network congestion|Congestion control]]

@@ -59,7 +59,7 @@ Used with **UDP**
 + Referenced by only destination and source ports? #Duda: more info about this.
 + Is this a broadcast to all ports connected to that network?
 + Then we wont need the IP
-
++ There is no need for a handshake between sender and reciever
 ### Connection-oriented demultiplexing:
 Used with **TCP**
 + Referenced by the 4-tuple of:

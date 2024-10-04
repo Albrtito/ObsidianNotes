@@ -1,11 +1,12 @@
 ---
 aliases:
   - Method - Checksum
+  - Checksum
 tags:
   - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-10-11
 sr-interval: 11
 sr-ease: 270
