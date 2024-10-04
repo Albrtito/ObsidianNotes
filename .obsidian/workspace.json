@@ -13,30 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29074c1ec3bda5c4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Net_Resources_s3_3.pdf"
-              }
-            }
-          },
-          {
-            "id": "3c417a7991ea872e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1728042156 - The three way handshake.md",
+                "file": "01.Areas/1.UC3M/Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728042156 - The three way handshake.md",
+                "file": "02 - Atomic/1727270270 - Method - SIMPLEX.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -166,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728042156 - The three way handshake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728042156 - The three way handshake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +175,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728042156 - The three way handshake.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,9 +264,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/1728042156 - The three way handshake.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -319,18 +290,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3c417a7991ea872e",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
-    "00.References/Net_Resources_s3_3.pdf",
-    "02 - Atomic/1728042156 - The three way handshake.md",
-    "02 - Atomic/1728044151 - Network flow control.md",
-    "02 - Atomic/1727428451 - Definition - TCP.md",
+    "01.Areas/1.UC3M/Networks.md",
+    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "02 - Atomic/1728027800 - Network congestion.md",
+    "02 - Atomic/1728044151 - Network flow control.md",
+    "02 - Atomic/1728042156 - The three way handshake.md",
+    "02 - Atomic/1727428451 - Definition - TCP.md",
+    "02 - Atomic/1728044996 - Closing a TCP connection.md",
+    "00.References/Net_Resources_s3_3.pdf",
     "02 - Atomic/1728038869 - Transport network layer.md",
     "99 - Meta/0. Attachments/1727428451 - Definition - TCPj-1.png",
     "99 - Meta/0. Attachments/1727428451 - Definition - TCPj.png",
-    "01.Areas/1.UC3M/Networks.md",
-    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "00.References/Net_References_s3_2.pdf",
     "00.References/Net_Resources_s3_1.pdf",
     "02 - Atomic/1727428429 - Definition - UDP.md",
@@ -355,7 +327,6 @@
     "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
     "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
     "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
-    "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
     "99 - Meta/0. Attachments/Screenshot 2024-10-04 at 10.22.44 AM.png",
     "00.References/S3.4 presentation.pdf",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",

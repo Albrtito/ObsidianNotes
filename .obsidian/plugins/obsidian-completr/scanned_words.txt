@@ -940,6 +940,7 @@ area
 assuming
 arent
 admits
+agree
 Creaci
 Crear
 Cuando
@@ -1778,6 +1779,9 @@ Case
 Creating
 Connectionless
 Connection
+Chooses
+Closing
+Cases
 de
 due
 dar
@@ -9897,6 +9901,8 @@ contrario
 closely
 corresponding
 communicatoin
+closing
+close
 sr
 se
 subproblemas
@@ -10838,6 +10844,7 @@ saying
 source
 saved
 stablishing
+suffices
 interval
 importancia
 incorrecto
@@ -13101,6 +13108,8 @@ humans
 having
 houses
 handling
+hostA
+hostB
 Es
 Este
 Ejemplos
@@ -20564,6 +20573,7 @@ FeD
 FgW
 Fast
 Functions
+FIN
 Warshall
 Width
 We
@@ -22739,6 +22749,7 @@ Timing
 TLD
 TWO
 Typical
+Third
 grafo
 guardan
 global
@@ -25714,6 +25725,7 @@ Segments
 Sends
 SEQUENCE
 SPACES
+Second
 Manual
 Modelar
 Millones

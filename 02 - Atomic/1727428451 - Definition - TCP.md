@@ -20,7 +20,8 @@ sr-ease: 230
 + Data arrives **ordered and whole**
 + Offers **congestion control**[^1]
 + Offers **flow control** [^3]
-+ Requires to **set up the connection** → [[1728042156 - The three way handshake|The three way handshake]]
++ Requires to **set up the connection** → [[1728042156 - The three way handshake|The three way handshake]] 
+  Requires a **closing connection** → [[1728044996 - Closing a TCP connection|Closing TCP]]
 
 ![[1727428451 - Definition - TCPj.png]]
 

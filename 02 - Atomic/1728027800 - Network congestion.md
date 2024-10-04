@@ -7,6 +7,9 @@ tags:
   - Networks
 References: 
 cssclasses:
+sr-due: 2024-10-05
+sr-interval: 1
+sr-ease: 226
 ---
 # Network congestion
 
