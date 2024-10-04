@@ -4,7 +4,7 @@ tags:
 aliases:
   - HyO
 ---
-# Heurística y Opti
+# Heuristica y Opti
 
 > [!NOTE] Objetivo:
 > El objetivo de esta asignatura consiste en familiarizar al estudiante con las técnicas fundamentales de optimización discreta así como con los algoritmos fundamentales de resolución de problemas de decibilidad.
@@ -45,6 +45,7 @@ aliases:
 
 ## Ejercicios: 
 + [[1726763938 - Exercises - Programación Lineal|Ejercicios programación lineal]]
++ 
 
 ## Prácticas: 
 + [[1727969475 - Primera practica Heuristica|Primera práctica heuristica]]

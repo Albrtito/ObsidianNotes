@@ -25,7 +25,8 @@ sr-ease: 230
 			+ **infinitas:** Si alguna es igual a 0
 4. **Regla de salida:** Vamos a ver que variable sale: 
    $$ \min\{\frac{X_{B_i}}{y_{ji}}\}$$
-# Method - SIMPLEX
+# Method - SIMPLEX:
+
 Lo primero que hemos de realizar es **transcribir la tarea de programación lineal a [[1727270366 - Forma estandar|Forma estandar]]**
 
 + Un vector X que resuelve Ax = b se llama solución
