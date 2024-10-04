@@ -18,4 +18,11 @@ Server - Client
 1. **Server:** Where some common info is. It has a permanent place (permanent IP) and sends info to all the clients. 
 2. **Clients:** The clients communicate with the server and not with each other. Do not need to be connected all the time
 
-Peer-Peer
+Peer-Peer: 
+The peer to peer architecture uses a direct connection between hosts instead of a server-host connection. 
++ There is **no server**
++ There is a service for service mindset. (Bit-Torrent)
++ Peers are **intermittently connected**
+
+## Communication of processes: 
+Each application can be composed of one or more processes, this processes can communciate (send messages) with other processes 

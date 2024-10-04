@@ -5467,6 +5467,7 @@ plK
 pZL
 poe
 poQ
+peer
 lineal
 la
 lo
@@ -12315,6 +12316,7 @@ uYj
 uGx
 urw
 ultiplicative
+uses
 hora
 hacemos
 hacia
