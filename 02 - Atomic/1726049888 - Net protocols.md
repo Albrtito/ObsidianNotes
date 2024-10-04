@@ -18,7 +18,7 @@ When sending packages though the internet computers need to understand one anoth
 
 > [!NOTE] Definition(Kurose): 
 > A protocol defines the ==format and the order== of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message or other event.
-## Types based layer:
+## Types by layer:
 The internet is constructed as a layered architecture. For each of it’s layers there are several different protocols. 
 ### Transport protocols:
 Two main protocols are used in this layer, TCP and UDP. 

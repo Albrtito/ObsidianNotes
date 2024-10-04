@@ -52,6 +52,14 @@ In order to **identify the socket** we use:
  ```
 
 ### Needs: 
-Applications may need different things
+Applications may need different things, based on this we choose the proper [[1726049888 - Net protocols#Transport protocols|Transport protocol]], some of the needs they may have are: 
 
++ Data **integrity:** Everything needs to reach ok, no corruption
++ **Throughput:** A need for a lot of packages in short times. (f.e: Video, multimedia)
++ **Timing:** A need for speed, no delay. Low latency
++ **Security:** Encryption and that type of thing
+
+We’ll mainly focus on the **integrity and timing** of the data to decide between the two main transport protocols (TCP and UDP).
+
+## Case study: DNS
 
