@@ -24,13 +24,30 @@ sr-ease: 230
 
 ![[1727428451 - Definition - TCPj.png]]
 
+## Cummulative ACKs:
+It's important to mention that the ACKs in TCP are cummulative, this means that when we send an ACK for packet 3, what we are telling the sender is that **every packet until 3 has been recieved and THE LAST RECIEVED (properly) BYTE WAS 3. 
+
 ## Sequence numbering:
 TCP has a **wierd way of numbering packets**. Based on the [[1727187791 - Method - RDT Sliding window|Method - RDT Sliding window]] we can say that for any sliding window with value n we’ll **need at least 2n sequence numbers to prevent any type of erros.**
 
-TCP does not use this 2n sequence numbers but instead uses the **number of the first byte of the package** to number the whole packet. 
+TCP does not use this 2n sequence numbers but instead uses the **number of the first byte of the package** to number the whole packet. This has one really important consequence when we take into account the cummulative ACKs we see the following interactions (example):
 
 
-#Duda: Are we, at any point, reusing the byte numbers? If a message has to many bytes 
+> f.e: An interaction between sender-reciever with this sequence numbering would be:
+> 
+> 1. A package is sent with: 
+> **Lenght: 20 bytes**
+> **Seq:100**
+> 
+> 2. The reciever gets the package and… 
+> **Sends an ACK numbered 120**. This means that all bytes until 120 have been properly recieved. Las recieved bythe number was 120
+>
+
+
+
+#Duda: Are we, at any point, reusing the byte numbers? If a message has to many bytes arent we just incrementing the header on and on and on? Are there any “infinite messages”?
+
+## Bi-Directional communication:
 
 
 ## Properties:

@@ -19,3 +19,7 @@ sumando
 Warning
 AiM
 Aim
+recieve
+reciever
+recieved
+recieves
