@@ -937,6 +937,7 @@ asked
 answer
 appart
 area
+assuming
 Creaci
 Crear
 Cuando
@@ -4536,6 +4537,7 @@ explore
 easily
 empesa
 exigencias
+explaining
 programaci
 primer
 paso
@@ -21238,6 +21240,7 @@ WVd
 WUr
 WGO
 Window
+Works
 Heuri
 Hecho
 HyO
@@ -30576,6 +30579,7 @@ OlS
 ODIr
 OdD
 OVq
+Offers
 ximo
 xrL
 xFQ
@@ -37374,6 +37378,7 @@ wsi
 wUuZSK
 wKn
 want
+workings
 kL
 kMZ
 kC

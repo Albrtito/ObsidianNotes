@@ -29,6 +29,32 @@
                 "file": "00.References/Net_Resources_s3_3.pdf"
               }
             }
+          },
+          {
+            "id": "3c417a7991ea872e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1728038869 - Transport network layer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eab1c146e887c252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1728042156 - The three way handshake.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -248,7 +274,7 @@
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 211,
                   "scale": 0.11252739408040068,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -292,12 +318,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "51395969ae187be0",
   "lastOpenFiles": [
     "00.References/Net_Resources_s3_3.pdf",
-    "01.Areas/1.UC3M/Networks.md",
-    "02 - Atomic/1728038869 - Transport network layer.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
+    "99 - Meta/0. Attachments/1727428451 - Definition - TCPj.png",
+    "02 - Atomic/1728042156 - The three way handshake.md",
+    "02 - Atomic/1728038869 - Transport network layer.md",
+    "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "00.References/Net_References_s3_2.pdf",
     "00.References/Net_Resources_s3_1.pdf",
@@ -328,7 +356,6 @@
     "99 - Meta/0. Attachments/Screenshot 2024-10-04 at 10.22.44 AM.png",
     "00.References/S3.4 presentation.pdf",
     "02 - Atomic/1727711018 - Estrategias de diversificación.md",
-    "02 - Atomic/1726499016 - Definir objetivos en la empresa.md",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "01.Areas/1.UC3M/Apuntes javi",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
@@ -339,7 +366,6 @@
     "99 - Meta/0. Attachments/1727430724 - Circuit switcing.png",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "99 - Meta/0. Attachments/Cripto.png",
-    "99 - Meta/0. Attachments/1727187154 - Method - RDT Over reliable channel.png",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "Differential Calculus.canvas",

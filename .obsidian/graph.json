@@ -67,7 +67,7 @@
       "query": "tag:#Networks  ",
       "color": {
         "a": 1,
-        "rgb": 589113
+        "rgb": 11392604
       }
     }
   ],
@@ -81,6 +81,6 @@
   "repelStrength": 10.6454918032787,
   "linkStrength": 0.884861680327869,
   "linkDistance": 81,
-  "scale": 0.07355583655184268,
+  "scale": 0.09703896730802977,
   "close": true
 }

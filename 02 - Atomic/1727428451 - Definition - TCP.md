@@ -14,17 +14,25 @@ sr-ease: 230
 # TCP
 
 > [!NOTE]  Definition:
->  TCP is a connection oriented **internet transport protocol** that offers **reliable transmission** of data between sender and reciever.
+>  TCP is a connection oriented **internet transport protocol** that offers **reliable transmission**[^2] of data between sender and reciever.
+
++ Works with **one-to-one**: One sender to one reciever
++ Data arrives **ordered and whole**
 + Offers **congestion control**[^1]
 + Offers **flow control** 
++ Requires to **set up the connection** → [[1728042156 - The three way handshake|The three way handshake]]
 
-**Remarks:**
-+ **Flow and congestion control**
-+ **NO** 
-	+ timing
-	+ security 
-	+ minimum throguhput
-+ Requires for the server and the client to **set up the connection** (==Three-way handshake)==
+![[1727428451 - Definition - TCPj.png]]
+
+## Sequence numbering:
+TCP has a **wierd way of numbering packets**. Based on the [[1727187791 - Method - RDT Sliding window|Method - RDT Sliding window]] we can say that for any sliding window with value n we’ll **need at least 2n sequence numbers to prevent any type of erros.**
+
+TCP does not use this 2n sequence numbers but instead uses the **number of the first byte of the package** to number the whole packet. 
+
+
+#Duda: Are we, at any point, reusing the byte numbers? If a message has to many bytes 
+
+
 ## Properties:
 
 + The TCP protocol must control the flow of data so that there are less packages being sent but sent constantly. This is because **for each package a frame will be created**. This frame has some size.
@@ -83,3 +91,4 @@ We would like to ackt in one RTT time. In order to do so we’ll **tolerate up t
 ***
 
 [^1]: [[1728027800 - Network congestion|Congestion control]]
+[^2]: When explaining the workings of TCP we begin by assuming that the [[1727176650 - Principles of reliable data transfer|Principles of reliable data transfer]] are known, and the methods used for it are to.

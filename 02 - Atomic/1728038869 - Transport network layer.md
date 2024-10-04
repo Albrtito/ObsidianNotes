@@ -42,6 +42,7 @@ There are two main transport protocols:
 + [[1727428451 - Definition - TCP|TCP]]
 We’ll see in the next part that UDP is a **connectionless protocol** and TCP is a **connection-oriented protocol**.
 
+Another important feature in transport protocols is whether they can transmit data reliabely or not, see [[1727176650 - Principles of reliable data transfer|Principles of reliable data transfer]] for methods and a whole explanation of this.
 ## Multiplexing and demultiplexing:
 
 > [!NOTE] Multiplexing: 

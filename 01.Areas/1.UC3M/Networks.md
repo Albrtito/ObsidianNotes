@@ -59,8 +59,6 @@ aliases:
 	+ [[1725968193 - Intro to networking|Intro to networking]]
 	+ [[1727255580 - Loss and delay in Networks|Loss and delay in Networks]]
 2. [[1726572508 - The network stack|Layers]]
-3. Transport layer:
-	+ [[1727176650 - Principles of reliable data transfer|Principles of reliable data transfer]]
-	+ [[1727428451 - Definition - TCP|TCP]]
-	+ [[1728027800 - Network congestion|Network congestion]]
+	1. [[1728038869 - Transport network layer|Transport layer]]
+
 
