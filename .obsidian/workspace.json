@@ -19,6 +19,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29074c1ec3bda5c4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Net_References_s3_4.pdf"
+              }
+            }
           }
         ],
         "stacked": true
@@ -96,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5041847229004
+    "width": 489.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",

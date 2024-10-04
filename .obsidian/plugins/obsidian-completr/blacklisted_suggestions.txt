@@ -17,3 +17,5 @@ ack
 ACK
 sumando
 Warning
+AiM
+Aim
