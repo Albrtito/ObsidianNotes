@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "02 - Atomic/1728038869 - Transport network layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,25 +26,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00.References/Net_References_s2_1.pdf"
-              }
-            }
-          },
-          {
-            "id": "608dc14f181d0a91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "00.References/Net_Resources_s3_1.pdf"
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -153,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "02 - Atomic/1728038869 - Transport network layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "02 - Atomic/1728038869 - Transport network layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
+                "file": "02 - Atomic/1728038869 - Transport network layer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +248,7 @@
                   "repelStrength": 18.5975922131148,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 211,
-                  "scale": 0.16099246142401477,
+                  "scale": 0.2025772107838163,
                   "close": true
                 }
               }
@@ -280,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Networks.md"
+                "file": "02 - Atomic/1728038869 - Transport network layer.md"
               }
             }
           }
@@ -307,12 +293,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "608dc14f181d0a91",
+  "active": "51395969ae187be0",
   "lastOpenFiles": [
+    "00.References/Net_Resources_s3_1.pdf",
+    "02 - Atomic/1726572508 - The network stack.md",
+    "02 - Atomic/1728038869 - Transport network layer.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+    "00.References/Net_References_s2_1.pdf",
+    "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1726574469 - Application layer.md",
     "02 - Atomic/1728037357 - DNS.md",
-    "00.References/Net_References_s2_1.pdf",
     "99 - Meta/0. Attachments/1728037357 - DNSj.png",
     "02 - Atomic/1726049888 - Net protocols.md",
     "02 - Atomic/1728027800 - Network congestion.md",
@@ -320,8 +310,6 @@
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1728035649 - - Untitled Suffix.md",
     "00.References/Net_References_s3_4.pdf",
-    "02 - Atomic/1726572508 - The network stack.md",
-    "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1727712353 - Responsabilidad social de la empresa.md",
     "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
     "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
@@ -340,8 +328,6 @@
     "02 - Atomic/1726499016 - Definir objetivos en la empresa.md",
     "02 - Atomic/1727105121 - Estrategia de la empresa.md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
-    "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
-    "00.References/Net_Resources_s3_1.pdf",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "01.Areas/1.UC3M/Apuntes javi",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
