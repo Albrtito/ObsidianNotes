@@ -925,6 +925,7 @@ achieve
 agan
 antiderivative
 aumenta
+addresses
 Creaci
 Crear
 Cuando
@@ -3566,6 +3567,7 @@ mZZ
 mechanisms
 manila
 multiplying
+mindset
 en
 ease
 es
@@ -5468,6 +5470,8 @@ pZL
 poe
 poQ
 peer
+processes
+processs
 lineal
 la
 lo
@@ -6270,6 +6274,8 @@ lFF
 loses
 linearly
 limitar
+locally
+loook
 tags
 tres
 todos
@@ -9808,6 +9814,8 @@ congested
 congest
 cut
 cutting
+communciate
+come
 sr
 se
 subproblemas
@@ -10737,6 +10745,9 @@ sQV
 signal
 ssthresh
 signs
+stablish
+sockets
+socket
 interval
 importancia
 incorrecto
@@ -11615,6 +11626,8 @@ incrementation
 increase
 integrating
 impacto
+intermittently
+identify
 un
 una
 utiliza
@@ -12983,6 +12996,7 @@ hDm
 hmx
 hÜ
 half
+here
 Es
 Este
 Ejemplos
@@ -22590,6 +22604,7 @@ Tkg
 TyY
 TAAAAA
 Table
+Torrent
 grafo
 guardan
 global
@@ -24120,6 +24135,8 @@ PMu
 Pakcet
 Particular
 Paso
+Peers
+Port
 Biblio
 BitsPerComponent
 BI
@@ -24764,6 +24781,7 @@ BYH
 BoldItalic
 Base
 But
+Bit
 Steven
 Skiena
 Serie
@@ -25548,6 +25566,7 @@ Sxuv
 SBksU
 Slow
 Set
+Sockets
 Manual
 Modelar
 Millones

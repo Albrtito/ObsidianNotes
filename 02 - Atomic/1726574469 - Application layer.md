@@ -25,4 +25,29 @@ The peer to peer architecture uses a direct connection between hosts instead of 
 + Peers are **intermittently connected**
 
 ## Communication of processes: 
-Each application can be composed of one or more processes, this processes can communciate (send messages) with other processes 
+Each application can be composed of one or more processes, **this processes can communciate (send messages) with other processes through the network** (also locally but we dont really care about that in networks). 
+To stablish a connection the process needs to know where to loook at, here is where **sockets come in**. 
+
+
+> [!Attention] Remark: 
+> +  
+
+
+### Sockets: 
+
+> [!NOTE] Definition: 
+> Sockets define where each processs sends/recieves messages. Each process will have a socket that recieves data and another one that sends it (they are usually the same one)
+> 
+
+In order to **identify the socket** we use: 
++ **IP addresses**
++ **Port numbers**
+> telnet: Check that we can use the telnet command to connect given an IP address and a port: 
+
+```bash
+ telnet <IPAddress> <port>
+ ```
+
+### Protocols: 
+The messages sent 
+
