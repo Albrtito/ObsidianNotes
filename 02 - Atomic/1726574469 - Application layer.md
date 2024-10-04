@@ -6,6 +6,9 @@ tags:
   - Networks
 References: "[[Net_References_s2_1.pdf]]"
 cssclasses:
+sr-due: 2024-10-05
+sr-interval: 1
+sr-ease: 230
 ---
 # Application layer
 
@@ -61,6 +64,5 @@ Applications may need different things, based on this we choose the proper [[172
 
 We’ll mainly focus on the **integrity and timing** of the data to decide between the two main transport protocols (TCP and UDP).
 
-## Case study: DNS
 
 
