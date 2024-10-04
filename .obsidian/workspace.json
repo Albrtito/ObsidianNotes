@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+                "file": "02 - Atomic/1726574469 - Application layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,11 +26,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00.References/Net_References_s3_4.pdf"
+                "file": "00.References/Net_References_s2_1.pdf"
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+                "file": "00.References/Net_References_s2_1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+                "file": "00.References/Net_References_s2_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+                "file": "00.References/Net_References_s2_1.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md"
+                "file": "00.References/Net_References_s2_1.pdf"
               }
             }
           }
@@ -293,22 +294,31 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "51395969ae187be0",
+  "active": "29074c1ec3bda5c4",
   "lastOpenFiles": [
+    "02 - Atomic/1726574469 - Application layer.md",
+    "00.References/Net_References_s2_1.pdf",
+    "00.References/Net_References_s3_4.pdf",
+    "02 - Atomic/1726572508 - The network stack.md",
+    "01.Areas/1.UC3M/Networks.md",
+    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+    "02 - Atomic/1727712353 - Responsabilidad social de la empresa.md",
+    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+    "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
+    "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
+    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
+    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
     "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
     "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
-    "00.References/Net_References_s3_4.pdf",
     "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
     "02 - Atomic/1728027800 - Network congestion.md",
     "99 - Meta/0. Attachments/Screenshot 2024-10-04 at 10.22.44 AM.png",
-    "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/S3.4 presentation.pdf",
     "00.References/Net_References_s3_2.pdf",
     "02 - Atomic/1727711018 - Estrategias de diversificación.md",
-    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "02 - Atomic/1726499016 - Definir objetivos en la empresa.md",
     "02 - Atomic/1727105121 - Estrategia de la empresa.md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
@@ -317,19 +327,9 @@
     "02 - Atomic/1727710261 - Estrategias de integración.md",
     "02 - Atomic/1727969678 - MathProg.md",
     "02 - Atomic/1727969475 - Primera practica Heuristica.md",
-    "01.Areas/1.UC3M/Heurística y Opti.md",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
-    "02 - Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
-    "99 - Meta/1. Templates/NoteTemplate.md",
-    "02 - Atomic/1726574469 - Application layer.md",
-    "02 - Atomic/1725918620 - Cadena de valor.md",
-    "02 - Atomic/1726049178 - Definition - Communication links.md",
-    "02 - Atomic/1727886621 - Estrategia de subcontratación.md",
-    "02 - Atomic/1726825216 - Programación Dinámica.md",
     "00.References/Net_Resources_s3_1.pdf",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "01.Areas/1.UC3M/Apuntes javi",
-    "00.References/Net_References_s2_1.pdf",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",
     "00.References/Net_References_s1_1.pdf",

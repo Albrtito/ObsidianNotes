@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses: 
-sr-due: 2024-10-04
-sr-interval: 4
+sr-due: 2024-10-15
+sr-interval: 11
 sr-ease: 230
 ---
 # Definition - Criptosistema
@@ -29,7 +29,7 @@ Ambos métodos realizan la operación matemática **basándose en una función/r
 + Ambas técnicas ya fueron introducidas por Claude Shanon en “Communication theory of secrecy systems(1949)”
 + Con estas técnicas tenemos que asegurarnos de que el sistema **no ha perdido información.**
 
-### Sistemas simétricos y asimétricos:
+### ==Sistemas simétricos y asimétricos:==
 Basándonos en el número de distintas claves en un sistema de cifrado dividimos entre:
 + Sistemas **simétricos:**
   Aquellos sistemas con **una sola clave, privada y compartida**. La clave ha de ser **compartida a través de un canal privado** para asegurar la confidencialidad del sistema. Hablamos entonces de **claves privadas**
