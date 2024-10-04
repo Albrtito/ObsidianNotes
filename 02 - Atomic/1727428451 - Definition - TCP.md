@@ -48,7 +48,20 @@ TCP does not use this 2n sequence numbers but instead uses the **number of the f
 #Duda: Are we, at any point, reusing the byte numbers? If a message has to many bytes arent we just incrementing the header on and on and on? Are there any “infinite messages”?
 
 ## Bi-Directional communication:
+Al contrario que en los protocolos básicos de comunicación reliabely, TCP admits a bi-directoinal communication. This means that botht the sender and reciever can interchange placed and become the reciever and sender. 
 
+This feature is really nice, but we **only care** about the **piggybacking** that can be done in a message. This piggybacking means that **both the acknowledgment and the message are going to travel together**. 
+
++ This will create **TWO SEQUENCE NUMBER SPACES**, one for each host. 
++ If we look closely at the TCP segment we can see the flags for the ACK
+
+**An example for better understanding:**
+	![[1727428451 - Definition - TCPj-1.png]]
+	
+
+> f.e:
+> 	 An example of 
+> 		
 
 ## Properties:
 
