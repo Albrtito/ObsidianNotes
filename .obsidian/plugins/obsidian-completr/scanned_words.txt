@@ -1772,6 +1772,8 @@ Careful
 Challenging
 Case
 Creating
+Connectionless
+Connection
 de
 due
 dar
@@ -5501,6 +5503,7 @@ prevent
 postman
 putting
 put
+ports
 lineal
 la
 lo
@@ -8792,6 +8795,7 @@ RrnD
 RQyA
 Recursive
 Recieves
+Referenced
 cssclasses
 correcto
 correcta
@@ -10806,6 +10810,7 @@ someone
 search
 servers
 saying
+source
 interval
 importancia
 incorrecto
@@ -11690,6 +11695,7 @@ integrity
 imposed
 increment
 increases
+identified
 un
 una
 utiliza
@@ -16813,6 +16819,7 @@ Detection
 DEMULTIPLEXING
 Destination
 Demultiplexing
+Destinatino
 funci
 fibonacci
 fica
@@ -18312,6 +18319,7 @@ oRJ
 optimize
 occupies
 opposite
+oriented
 que
 queremos
 qD
@@ -28467,6 +28475,7 @@ before
 brute
 braking
 betweeen
+broadcast
 Util
 Una
 UniZumo

@@ -7,6 +7,9 @@ tags:
   - Networks
 References: 
 cssclasses:
+sr-due: 2024-10-05
+sr-interval: 1
+sr-ease: 228
 ---
 # Transport network layer
 
@@ -33,6 +36,11 @@ Services and protocols provide **logical communication between systems,** they d
 
 > f.e: If we had letters being send between houses, the transport layer is the postman while the network layer is the road.
 
+### Transport protocols: 
+There are two main transport protocols: 
++ [[1727428429 - Definition - UDP|UDP]]
++ [[1727428451 - Definition - TCP|TCP]]
+We’ll see in the next part that UDP is a **connectionless protocol** and TCP is a **connection-oriented protocol**.
 
 ## Multiplexing and demultiplexing:
 
@@ -47,8 +55,19 @@ Services and protocols provide **logical communication between systems,** they d
 > The opposite of multiplexing, using the header to know into which socket must the packet be delivered. 
 
 ### Connectionless demultiplexing:
-+ Referenced by only destination and source ports? #Duda: more info about this
+Used with **UDP**
++ Referenced by only destination and source ports? #Duda: more info about this.
++ Is this a broadcast to all ports connected to that network?
++ Then we wont need the IP
+
 ### Connection-oriented demultiplexing:
+Used with **TCP**
++ Referenced by the 4-tuple of:
+  **Source IP, port
+  Destinatino IP, port**
+
++ Sockets are identified by all four properties. This means that two clients can connect to the same port because their respective source ip addresses are different.
+![[1728038869 - Transport network layerj.png]]
 
 
 ***
