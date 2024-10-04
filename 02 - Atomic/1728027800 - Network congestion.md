@@ -34,7 +34,8 @@ We’ll use packet losses and apply the AIMD method:
 1. Send a lot of less packets, not only to decrease the flow but enougth to **drain the buffers**. → Divide the window by 2. (Cut it in half)
 
 **Remarks:**
-+ Congestion will be detected once we experienced the **first loss**. We save this value as a variable `cwnd` 
++ Congestion will be detected once we experienced the **first loss**. We then save the value of where we congested. 
++ We keep on going until we congest over and over agan because we **need to explore the network and it’s capabilities.** It can change over time.
 ### Slow start: 
 
 **What to do when starting a new flow?:** 
@@ -44,11 +45,12 @@ We’ll use packet losses and apply the AIMD method:
    But this is to much, se can disturb other users. 
 **Solution:** We’ll perform an exponential incrementation. Start with 1 packet and double it each time. 1-2-4-8 -..-. We call this method **slow start**
 
-In order to **optimize** this approach we’ll use the value of `cwnd`. 
+In order to **optimize** this approach we’ll use the value of 
++ `cwnd` → Change window
 
 1. Once we achieve congestion: 
-	+ Set the value for `cwnd` 
-	+ Set a new value: `ssthresh` as **half the value of**  `cwnd` 
+	+ Set the value for `cwnd` to half it’s value. (Window cut in half)
+	+ Set a new value: `ssthresh` as **half the value of**  `cwnd`(The value it had before cutting it in half)
 	  
 2. Next time we begin with an slow start, we’ll use an **exponential increase until ssthresh**, **then start growing linearly**
 
@@ -61,5 +63,7 @@ We an detect loss packets in two different ways, one of them is by **duplicate a
 
 
 ## FSM:![[Screenshot 2024-10-04 at 10.22.44 AM.png]]
+
+### Challenging the window assumption: 
 
 ***

@@ -922,6 +922,7 @@ altough
 aim
 amount
 achieve
+agan
 Creaci
 Crear
 Cuando
@@ -4499,6 +4500,7 @@ easier
 ecrease
 enougth
 experienced
+explore
 programaci
 primer
 paso
@@ -9791,6 +9793,10 @@ cLAA
 congestions
 changing
 conservative
+congested
+congest
+cut
+cutting
 sr
 se
 subproblemas
@@ -21104,6 +21110,7 @@ Wvu
 WVd
 WUr
 WGO
+Window
 Heuri
 Hecho
 HyO
@@ -28327,6 +28334,7 @@ bTZ
 bOVf
 bSr
 bIjB
+before
 Util
 Una
 UniZumo
