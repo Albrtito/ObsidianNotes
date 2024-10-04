@@ -938,6 +938,8 @@ answer
 appart
 area
 assuming
+arent
+admits
 Creaci
 Crear
 Cuando
@@ -2700,6 +2702,7 @@ decentralized
 demultiplexing
 datagram
 delivered
+directoinal
 modelos
 modelo
 maximizar
@@ -4538,6 +4541,8 @@ easily
 empesa
 exigencias
 explaining
+explanation
+echo
 programaci
 primer
 paso
@@ -5507,6 +5512,10 @@ postman
 putting
 put
 ports
+properly
+protocolos
+placed
+piggybacking
 lineal
 la
 lo
@@ -6317,6 +6326,7 @@ local
 level
 logical
 letters
+least
 tags
 tres
 todos
@@ -8057,6 +8067,8 @@ requests
 root
 returns
 road
+reliabely
+reusing
 References
 Resoluci
 Rectas
@@ -8800,6 +8812,7 @@ Recursive
 Recieves
 Referenced
 Really
+RECIEVED
 cssclasses
 correcto
 correcta
@@ -9878,6 +9891,11 @@ controlling
 comes
 connectionless
 contain
+cummulative
+consequence
+contrario
+closely
+corresponding
 sr
 se
 subproblemas
@@ -10817,6 +10835,7 @@ search
 servers
 saying
 source
+saved
 interval
 importancia
 incorrecto
@@ -11702,6 +11721,9 @@ imposed
 increment
 increases
 identified
+interactions
+interaction
+interchange
 un
 una
 utiliza
@@ -12404,6 +12426,7 @@ uGx
 urw
 ultiplicative
 uses
+understanding
 hora
 hacemos
 hacia
@@ -15314,6 +15337,7 @@ nZq
 nWZjJrRb
 nvnp
 ncrease
+nice
 Identificar
 Intro
 Identificaci
@@ -17573,6 +17597,8 @@ focus
 follows
 failure
 fount
+feature
+flag
 objetivo
 obtener
 of
@@ -19855,6 +19881,7 @@ AuF
 AIMD
 Apply
 Applications
+Another
 Floyd
 Foundations
 Funci
@@ -21241,6 +21268,7 @@ WUr
 WGO
 Window
 Works
+WAS
 Heuri
 Hecho
 HyO
@@ -22707,6 +22735,8 @@ Table
 Torrent
 Timing
 TLD
+TWO
+Typical
 grafo
 guardan
 global
@@ -23439,6 +23469,7 @@ gYxM
 gLI
 gIO
 growing
+goint
 Programaci
 Para
 Problema
@@ -24885,6 +24916,7 @@ BoldItalic
 Base
 But
 Bit
+BYTE
 Steven
 Skiena
 Serie
@@ -25677,6 +25709,9 @@ Source
 Small
 Smaller
 Segments
+Sends
+SEQUENCE
+SPACES
 Manual
 Modelar
 Millones
@@ -27754,6 +27789,7 @@ LckFw
 LGh
 LWh
 LGL
+LAST
 bottom
 base
 brik
@@ -28488,6 +28524,9 @@ brute
 braking
 betweeen
 broadcast
+bythe
+botht
+become
 Util
 Una
 UniZumo
@@ -34051,6 +34090,7 @@ Nff
 Nim
 Notes
 Needs
+NUMBER
 Xr
 XObject
 Xw
@@ -37379,6 +37419,7 @@ wUuZSK
 wKn
 want
 workings
+wierd
 kL
 kMZ
 kC

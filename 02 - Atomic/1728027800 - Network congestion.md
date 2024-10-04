@@ -63,8 +63,8 @@ We an detect loss packets in two different ways, one of them is by **duplicate a
 + **Pakcet timeouts:** We’ll **start again with an slow start**
 
 
-## FSM:![[Screenshot 2024-10-04 at 10.22.44 AM.png]]
-
+### FSM:
+![[Screenshot 2024-10-04 at 10.22.44 AM.png]]
 ### Challenging the window assumption | Fast recovery: 
 Once we start recieving duplicate acknowledgments we **are no longer representing with our window the load that is being imposed to the network.** 
 
