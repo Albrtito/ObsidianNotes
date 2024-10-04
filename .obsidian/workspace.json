@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728044151 - Network flow control.md",
+                "file": "02 - Atomic/1728042156 - The three way handshake.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,6 +57,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
+                "file": "02 - Atomic/1728042156 - The three way handshake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
+                "file": "02 - Atomic/1728042156 - The three way handshake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
+                "file": "02 - Atomic/1728042156 - The three way handshake.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727428451 - Definition - TCP.md"
+                "file": "02 - Atomic/1728042156 - The three way handshake.md"
               }
             }
           }
@@ -318,16 +319,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "51395969ae187be0",
+  "active": "3c417a7991ea872e",
   "lastOpenFiles": [
+    "00.References/Net_Resources_s3_3.pdf",
+    "02 - Atomic/1728042156 - The three way handshake.md",
     "02 - Atomic/1728044151 - Network flow control.md",
+    "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1728027800 - Network congestion.md",
     "02 - Atomic/1728038869 - Transport network layer.md",
-    "02 - Atomic/1727428451 - Definition - TCP.md",
     "99 - Meta/0. Attachments/1727428451 - Definition - TCPj-1.png",
-    "00.References/Net_Resources_s3_3.pdf",
     "99 - Meta/0. Attachments/1727428451 - Definition - TCPj.png",
-    "02 - Atomic/1728042156 - The three way handshake.md",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "00.References/Net_References_s3_2.pdf",
@@ -357,7 +358,6 @@
     "02 - Atomic/1727176650 - Principles of reliable data transfer.md",
     "99 - Meta/0. Attachments/Screenshot 2024-10-04 at 10.22.44 AM.png",
     "00.References/S3.4 presentation.pdf",
-    "02 - Atomic/1727711018 - Estrategias de diversificación.md",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "01.Areas/1.UC3M/Apuntes javi",
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",

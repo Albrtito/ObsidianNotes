@@ -9896,6 +9896,7 @@ consequence
 contrario
 closely
 corresponding
+communicatoin
 sr
 se
 subproblemas
@@ -10836,6 +10837,7 @@ servers
 saying
 source
 saved
+stablishing
 interval
 importancia
 incorrecto
