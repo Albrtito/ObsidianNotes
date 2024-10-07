@@ -950,6 +950,12 @@ autenticaci
 aprenderemos
 asegura
 aprovechan
+aristas
+alg
+adelanto
+acordado
+against
+accord
 Creaci
 Crear
 Cuando
@@ -2727,6 +2733,9 @@ dispositivo
 dicho
 debil
 dicen
+dito
+descuento
+did
 modelos
 modelo
 maximizar
@@ -3624,6 +3633,8 @@ multiplexing
 menes
 marca
 modos
+mercanc
+meses
 en
 ease
 es
@@ -4575,6 +4586,7 @@ elecci
 estrucrtura
 exiten
 envio
+econtrar
 programaci
 primer
 paso
@@ -5556,6 +5568,8 @@ partir
 permitir
 principales
 parecida
+plano
+pasado
 lineal
 la
 lo
@@ -8121,6 +8135,9 @@ resistencia
 rotas
 rompa
 requisito
+recorre
+resuelvan
+represent
 References
 Resoluci
 Rectas
@@ -9962,6 +9979,10 @@ considera
 colisi
 cumplea
 cripto
+comprueba
+consiga
+concreta
+comisones
 sr
 se
 subproblemas
@@ -10905,6 +10926,7 @@ saved
 stablishing
 suffices
 sha
+simplex
 interval
 importancia
 incorrecto
@@ -12501,6 +12523,7 @@ uses
 understanding
 usuario
 utilizada
+unas
 hora
 hacemos
 hacia
@@ -14701,6 +14724,7 @@ vRA
 vpb
 vJI
 volume
+vencimiento
 no
 nuestras
 ndar
@@ -16935,6 +16959,7 @@ Difusi
 Determinista
 DADO
 DAMGÄRD
+Descuento
 funci
 fibonacci
 fica
@@ -17689,6 +17714,7 @@ fehca
 facil
 familias
 funcionamiento
+finaliza
 objetivo
 obtener
 of
@@ -18443,6 +18469,7 @@ occupies
 opposite
 oriented
 onnectionless
+obtendr
 que
 queremos
 qD
@@ -20657,6 +20684,7 @@ FgW
 Fast
 Functions
 FIN
+Fuentes
 Warshall
 Width
 We
@@ -25023,6 +25051,7 @@ But
 Bit
 BYTE
 Basados
+Bancaria
 Steven
 Skiena
 Serie
@@ -27903,6 +27932,7 @@ LWh
 LGL
 LAST
 Librer
+Liability
 bottom
 base
 brik
@@ -28642,6 +28672,8 @@ botht
 become
 biom
 basadas
+banco
+bank
 Util
 Una
 UniZumo

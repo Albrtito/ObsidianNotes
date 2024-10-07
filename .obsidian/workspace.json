@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727270270 - Method - SIMPLEX.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "283a8b45c3b08253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
+                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -156,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728313952 - Fuentes de financiación externas a corto plazo.md",
+                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728313952 - Fuentes de financiación externas a corto plazo.md",
+                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728313952 - Fuentes de financiación externas a corto plazo.md",
+                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728313952 - Fuentes de financiación externas a corto plazo.md"
+                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md"
               }
             }
           }
@@ -310,12 +296,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4995d2c03b8478bc",
+  "active": "e779c280c566b7f8",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Empresa.md",
+    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "02 - Atomic/1728313952 - Fuentes de financiación externas a corto plazo.md",
     "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
-    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
-    "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02 - Atomic/1727270366 - Forma estandar.md",

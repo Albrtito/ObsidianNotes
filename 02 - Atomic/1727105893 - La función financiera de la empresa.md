@@ -27,6 +27,9 @@ Los objetivos que tienen las decisiones financieras son:
 Para un analizar la función financiera de la empresa en profundidad y poder realizar los objetivos propuestos se utiliza la [[1727121162 - Contabilidad|Contabilidad]] **como método de análisis.**
 
 ## Análisis de ratios y apalancamientos financieros
+**Diccionario:**
++ **Coste de oportunidades:** Lo que normalmente llamamos tipo de interés
++ **beneficio:**
 
 ## Análisis de inversiones VAN y TIR
 ***
