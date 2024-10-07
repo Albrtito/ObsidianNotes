@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "106368219e66ce4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -156,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
+                "file": "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
+                "file": "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
+                "file": "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md"
+                "file": "02 - Atomic/1728317931 - Valor actual neto de una inversión.md"
               }
             }
           }
@@ -310,11 +323,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c9217a91956f5227",
+  "active": "106368219e66ce4f",
   "lastOpenFiles": [
+    "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
+    "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
+    "99 - Meta/0. Attachments/1728316833 - El valor del dinero en el tiempoj.png",
     "02 - Atomic/1728313952 - Fuentes de financiación externas a corto plazo.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
-    "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
     "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
@@ -339,7 +354,6 @@
     "99 - Meta/0. Attachments/1727270270 - Method - SIMPLEXj.png",
     "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1727969475 - Primera practica Heuristica.md",
-    "02 - Atomic/1728027800 - Network congestion.md",
     "00.References/Net_Resources_s3_3.pdf",
     "99 - Meta/0. Attachments/1727428451 - Definition - TCPj-1.png",
     "99 - Meta/0. Attachments/1727428451 - Definition - TCPj.png",
@@ -357,7 +371,6 @@
     "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",
     "00.References/Net_References_s1_1.pdf",
-    "99 - Meta/0. Attachments/1726572508 - The network stack.png",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",

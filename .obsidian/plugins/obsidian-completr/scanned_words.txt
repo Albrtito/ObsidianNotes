@@ -963,6 +963,7 @@ adecuaci
 apalancamiento
 alta
 atender
+aceptable
 Creaci
 Crear
 Cuando
@@ -1813,6 +1814,7 @@ Code
 CBC
 Compara
 Corto
+Capitalizar
 de
 due
 dar
@@ -2750,6 +2752,7 @@ dela
 duraci
 determinar
 desembolso
+descontar
 modelos
 modelo
 maximizar
@@ -3655,6 +3658,7 @@ mide
 mulitplicaci
 merece
 muchas
+mrula
 en
 ease
 es
@@ -5602,6 +5606,7 @@ pasado
 proporcionar
 pena
 plenamente
+porcentaje
 lineal
 la
 lo
@@ -6414,6 +6419,7 @@ logical
 letters
 least
 llegado
+largo
 tags
 tres
 todos
@@ -8177,6 +8183,10 @@ rrafos
 resumir
 requreido
 rendimiento
+represnta
+recuperaci
+recuperar
+recuperada
 References
 Resoluci
 Rectas
@@ -8926,6 +8936,8 @@ Resistencia
 Resistente
 Ratio
 Rentabilidad
+Ratios
+Represnetando
 cssclasses
 correcto
 correcta
@@ -10029,6 +10041,8 @@ consideramos
 cataloga
 cobro
 comisiones
+capitalizar
+calcula
 sr
 se
 subproblemas
@@ -14778,6 +14792,7 @@ vJI
 volume
 vencimiento
 vende
+vale
 no
 nuestras
 ndar
@@ -17015,6 +17030,7 @@ DADO
 DAMGÄRD
 Descuento
 Diccionario
+Desembolso
 funci
 fibonacci
 fica
@@ -20064,6 +20080,8 @@ Ataques
 Autenticacion
 Authentification
 Apalancamiento
+Actualizar
+ACTUAL
 Floyd
 Foundations
 Funci
@@ -24471,6 +24489,8 @@ Probabilidades
 Preimagen
 Porcentaje
 Proyectos
+Plazo
+Payback
 Biblio
 BitsPerComponent
 BI
@@ -32832,6 +32852,8 @@ VzB
 VpW
 VtJ
 Volumen
+Valor
+VALOR
 Grupo
 Get
 GWgw
@@ -34324,6 +34346,7 @@ Notes
 Needs
 NUMBER
 NSA
+NETO
 Xr
 XObject
 Xw
