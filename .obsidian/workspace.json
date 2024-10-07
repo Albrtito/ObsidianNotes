@@ -251,7 +251,7 @@
                   "repelStrength": 18.5975922131148,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 211,
-                  "scale": 0.34756279435832543,
+                  "scale": 0.1313452158312805,
                   "close": true
                 }
               }
@@ -277,7 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480
+    "width": 239
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,7 +296,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "65a53a374887e634",
   "lastOpenFiles": [
     "02 - Atomic/1728307154 - Funciones hash.md",
     "01.Areas/1.UC3M/Cripto.md",

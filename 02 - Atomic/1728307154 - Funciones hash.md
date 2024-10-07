@@ -23,7 +23,7 @@ cssclasses:
 > Al ser el espacio de mensajes mucho mayor al espacio  
 
 #Duda: Pq no utilizar un segundo factor (como la fehca de cración de la contraseña) para hacer la función resumen mucho más única
-
+#Duda: Utiliza todo el mundo la misma función hash? Sino no es el tipo de función usada en si también parte de la seguridad?
 ## Pseudoaleatoriedad
 Las funciones hash han de cumplir las siguientes propiedades de **pseudoaleatoriedad basadas en [[1726507033 - Entropía y aleatoriedad|Entropía y aleatoriedad en criptografía]]**
 
@@ -50,15 +50,19 @@ Es imposible encontrar **dos mensajes de nuestra elección** que tengan el mismo
 
 > [!NOTE] Propiedad:
 > Una función resumen **solo debe de permitir ataques por fuerza bruta**, no debe de permitir **que se realice análisis criptográfico.**
-+ Si se permite ataques por otros medios distintos a la fuerza bruta el **algoritmos se considera debil/roto** y no será va
-
++ Si se permite ataques por otros medios distintos a la fuerza bruta el **algoritmos se considera debil/roto** y no será válido
++ Se atacará a las tres propiedades de resistencia de la función
 ### Probabilidades:
 Las probabilidades de encontrar colisiones usando distintos ataques de fuerza bruta son:
 
-1.  **Preimagen:** $1\over 2^n$
+1. **Preimagen:** $1\over 2^n$
 2. **Segunda preimagen:** $1\over2^n$ 
 3. **Ataque de colisión:** $1\over 2^{n/2}$ → Ataque del cumpleaños
 
 **Remark:**
-Como la manera más facil de atacar va a ser el ataque por colisión, la 
+Como la manera más facil de atacar va a ser el ataque por colisión, esta propiedad es la que **marca como de seguro es el sistema**
+
+## Estructura de una función Hash:
+La mayoría de funciones hash actuales utilizan la **estrucrtura MERKLE-DAMGÄRD**
+
 ***
