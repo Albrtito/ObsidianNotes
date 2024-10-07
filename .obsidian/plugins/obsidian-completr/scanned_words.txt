@@ -946,6 +946,7 @@ almacenar
 atacar
 actuales
 adas
+autenticaci
 Creaci
 Crear
 Cuando
@@ -1792,6 +1793,7 @@ Caducidad
 Colisiones
 Cambio
 Creada
+Code
 de
 due
 dar
@@ -4566,6 +4568,7 @@ explicar
 elecci
 estrucrtura
 exiten
+envio
 programaci
 primer
 paso
@@ -8110,6 +8113,7 @@ roto
 resistencia
 rotas
 rompa
+requisito
 References
 Resoluci
 Rectas
@@ -19961,6 +19965,8 @@ Applications
 Another
 Alguna
 Ataques
+Autenticacion
+Authentification
 Floyd
 Foundations
 Funci
@@ -23554,6 +23560,7 @@ gIO
 growing
 goint
 gestiones
+garantiza
 Programaci
 Para
 Problema
@@ -26554,6 +26561,7 @@ Mß
 Maps
 MENSAJE
 MERKLE
+MAC
 Zivkovic
 Zo
 Zi
