@@ -29,7 +29,35 @@ Para un analizar la función financiera de la empresa en profundidad y poder rea
 ## Análisis de ratios y apalancamientos financieros
 **Diccionario:**
 + **Coste de oportunidades:** Lo que normalmente llamamos tipo de interés
-+ **beneficio:**
++ **Beneficio:** Ganancias menos coste. Dividimos entre dos tipos de activos…
+
+### Elementos básicos: 
++ **V:** Volumen de ventas
++ **TA:** Total de activos: Será la **suma de activo corriente más activo no corriente**
++ **Rotación de activos:** Sera: $V\over TA$
++ **FP:** Fondos propios: 
++ **FA:** Fondos ajenos
+
+**Nivel/Ratio de endeudamiento: (e)** 
+Porcentaje de los fondos propios que se dedican a pagar fondos ajenos (deudas).
+$$ e = {FA\over FP}$$
+
+
++ **Ki /i**: Coste del capital ajeno o tipo de interés
++ **BAIT:** Beneficios antes de interesses eimpuestos 
++ **BAT:** Beneficio antes de impuestos
+$$BAT = BAIT - (Ki \cdot FA)$$
++ **BN:** Beneficio neto
+$$BN = ...$$
+### Rentabilidad económica:
+La rentabilidad económica mide la rentabilidad del activo de la empresa. Es la capacidad de los activos para generar beneficios. 
+Representa o mide las rentas generadas
+
+
+
+
+**Remarks:**
++ Supondremos que **todo lo que produce la empresa se vende.** 
 
 ## Análisis de inversiones VAN y TIR
 ***
