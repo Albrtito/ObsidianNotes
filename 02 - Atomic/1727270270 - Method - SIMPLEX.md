@@ -27,9 +27,13 @@ sr-ease: 230
    $$ \min\{\frac{X_{B_i}}{y_{ji}}\}$$
 # Method - SIMPLEX:
 
+> [!NOTE] Definition: 
+> El método simplex se usa para **econtrar soluciones a problemas lineales**. Para ello, recorre las aristas de la región de soluciones factibles buscando puntos que resuelvan el problema. 
+> Una vez encontrado un punto comprueba si existe algún otro punto con el que se consiga una mejor solución (estamos maximizando), si existe lo busca, en caso contrario finaliza habiendo encontrado 
 
++ Si representásemos lo que hace el algoritmo en un plano bidimensional obtendríamos algo así. 
+![[1727270270 - Method - SIMPLEXj.png|center|350]]
 
-![[1727270270 - Method - SIMPLEXj.png|center|400]]
 Lo primero que hemos de realizar es **transcribir la tarea de programación lineal a [[1727270366 - Forma estandar|Forma estandar]]**
 
 + Un vector X que resuelve Ax = b se llama solución
