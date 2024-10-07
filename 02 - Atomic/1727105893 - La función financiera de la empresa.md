@@ -30,7 +30,8 @@ Para un analizar la función financiera de la empresa en profundidad y poder rea
 **Diccionario:**
 + **Coste de oportunidades:** Lo que normalmente llamamos tipo de interés
 + **Beneficio:** Ganancias menos coste. Dividimos entre dos tipos de activos…
-
+**Remarks:**
++ Supondremos que **todo lo que produce la empresa se vende.** 
 ### Elementos básicos: 
 + **V:** Volumen de ventas
 + **TA:** Total de activos: Será la **suma de activo corriente más activo no corriente**
@@ -51,6 +52,13 @@ $$ e = {FA\over FP}$$
 $$BAT = BAIT - (Ki \cdot FA)$$
 + **BN:** Beneficio neto
 $$BN = ...$$
+
+
+**Fondo de maniobra:**
+Mide la capacidad de una empresa para hacer frenta a deudas a corto plazo. Dinero guardado **por si acaso** que te permite resolver deudas en caso de que pase algo y la capacidad de la empresa se vea mermada.
+$$
+FM = \text{Activo corriente} - \text{Pasivo corriente}
+$$
 ### Rentabilidad económica:
 La rentabilidad económica mide la rentabilidad del activo de la empresa. Es la capacidad de los activos para generar beneficios. Compara las rentas generadas con los activos necearios que se han utilizado para obtener esas rentas. 
 $$
@@ -69,16 +77,30 @@ $$
 
 + Mide cuantos fondos propios han hecho falta para obtener un beneficio. Si estamos utilizando bien o mal los fondos de la empresa.
 
-Podemos reformular la igualdad para obtener: 
+#### Apalancamiento financiero:
+Podemos r**eformular la igualdad para obtener:** 
 $$
 RF = RE + (RE-Ki) \cdot ({FA\over FP})
 $$
-+ Mirar transparencias 
++ Mirar transparencias para ver las transformaciones.
 
-**Remarks:**
-+ Supondremos que **todo lo que produce la empresa se vende.** 
+LLamamos apalancamiento financiero al ratio dentro de esta reformulación: 
+$$Af = RE- Ki$$
+**El apalancamiento financiero mide el endeudamiento de la empresa sobre la rentabilidad económica.**
+
+Si la empresa tiene oportunidades de inversión capaces de proporcionar rentas mayores que los costes de utilización del capital ajeno (el coste de uso del capital ajeno será igual al tipo de interés) entonces será beneficioso para los accionistas el que la empresa se eneude con esa inversión.
+
+Sin embargo, si esa rentabilidad es menor no interesa endeudarse. 
+
+Estos dos ultimos párrafos los podemos resumir como el **análisis del apalancamiento financiero**. 
+
++ Si Af > 0 → RF > RE (apalancamiento positivo) → Merece la pena endeudarse
++ Si Af < 0 → RF < RE (apalancamiento negativo) → No merece la pena endeudarse
+
+
 
 ## Análisis de inversiones VAN y TIR
+Análisis necesario para sabe
 ***
 
 [^1]: [[1725918135 - Teoría económica de la empresa#Funciones:|Teoría económica de la empresa, funciones]]
