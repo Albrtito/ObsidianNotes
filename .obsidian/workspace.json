@@ -47,7 +47,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728309909 - MAC.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728309909 - MAC.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728309909 - MAC.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +263,7 @@
                   "repelStrength": 18.5975922131148,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 211,
-                  "scale": 0.1313452158312805,
+                  "scale": 0.07006043136585023,
                   "close": true
                 }
               }
@@ -282,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728309909 - MAC.md"
+                "file": "01.Areas/1.UC3M/Cripto.md"
               }
             }
           }
@@ -309,7 +308,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e779c280c566b7f8",
+  "active": "65a53a374887e634",
   "lastOpenFiles": [
     "02 - Atomic/1728309728 - Autenticacion de mensajes.md",
     "02 - Atomic/1728309909 - MAC.md",

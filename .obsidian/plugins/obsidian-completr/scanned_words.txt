@@ -947,6 +947,7 @@ atacar
 actuales
 adas
 autenticaci
+aprenderemos
 Creaci
 Crear
 Cuando
@@ -9954,6 +9955,7 @@ colisiones
 considera
 colisi
 cumplea
+cripto
 sr
 se
 subproblemas
