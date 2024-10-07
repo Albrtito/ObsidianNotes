@@ -100,7 +100,32 @@ Estos dos ultimos párrafos los podemos resumir como el **análisis del apalanca
 
 
 ## Análisis de inversiones VAN y TIR
-Análisis necesario para sabe
+Análisis necesario para ver que **decisiones de inversión** tomar para aumentar el valor del dinero que tiene la empresa.
+### Proyectos de inversión:
+Podemos dividir los proyectos de inversión según diferentes bases. 
+
+**En función del tamaño:**
++ Inversión **alta y pequeña**[^2]
+**En función de la finalidad:**
++ ….
+**En función de la duración temporarl:**
++ Corto plazo
++ Medio plazo 
++ Largo plazo
+
+Estos proyectos han todo de cumplir con una condición básica:
+
+> [!attention] Remark: 
+> No se debe de realizar ninguna inversión que **no genere la rentabilidad suficiente para atender COMO MINIMO el gasto requreido para realizar la propia inversión**.
+> 
+
++ Debido a esto, evaluar proyectos requiere **determinar el rendimiento mínimo que la inversión debe de proporcionar para que no baje el valor de la empresa.** 
++ Para hacer el análisis consideramos dos gastos esenciales: El **desembolso inicial** y los **flujos de caja**
+	+ Los flujos de caja serán los ingresos que se generarán menos los costes que tiene la inversión. Al analizar los flujos de caja hemos de tener en cuenta el crecimiento estimado de la **inflación**. Esto se puede ver como [[1728316833 - El valor del dinero en el tiempo|El valor del dinero en el tiempo]]
+
+
+
 ***
 
 [^1]: [[1725918135 - Teoría económica de la empresa#Funciones:|Teoría económica de la empresa, funciones]]
+[^2]: Depende plenamente del tipo de empresa, según el tamaño de la empresa se cataloga la inversión de diferentes formas

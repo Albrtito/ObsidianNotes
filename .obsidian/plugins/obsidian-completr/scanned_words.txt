@@ -956,6 +956,13 @@ adelanto
 acordado
 against
 accord
+ajenos
+ajeno
+acaso
+adecuaci
+apalancamiento
+alta
+atender
 Creaci
 Crear
 Cuando
@@ -1804,6 +1811,8 @@ Cambio
 Creada
 Code
 CBC
+Compara
+Corto
 de
 due
 dar
@@ -2736,6 +2745,11 @@ dicen
 dito
 descuento
 did
+dedican
+dela
+duraci
+determinar
+desembolso
 modelos
 modelo
 maximizar
@@ -3635,6 +3649,12 @@ marca
 modos
 mercanc
 meses
+maniobra
+mermada
+mide
+mulitplicaci
+merece
+muchas
 en
 ease
 es
@@ -4587,6 +4607,15 @@ estrucrtura
 exiten
 envio
 econtrar
+endeudamiento
+eimpuestos
+esas
+eformular
+eneude
+endeudarse
+esenciales
+estimado
+encargo
 programaci
 primer
 paso
@@ -5570,6 +5599,9 @@ principales
 parecida
 plano
 pasado
+proporcionar
+pena
+plenamente
 lineal
 la
 lo
@@ -7260,6 +7292,7 @@ tokens
 tricas
 tengan
 trabaja
+temporarl
 review
 resolver
 realizar
@@ -8138,6 +8171,12 @@ requisito
 recorre
 resuelvan
 represent
+rentas
+ratio
+rrafos
+resumir
+requreido
+rendimiento
 References
 Resoluci
 Rectas
@@ -8885,6 +8924,8 @@ RECIEVED
 REQUISITOS
 Resistencia
 Resistente
+Ratio
+Rentabilidad
 cssclasses
 correcto
 correcta
@@ -9983,6 +10024,11 @@ comprueba
 consiga
 concreta
 comisones
+cuantos
+consideramos
+cataloga
+cobro
+comisiones
 sr
 se
 subproblemas
@@ -11818,6 +11864,8 @@ interchange
 integro
 irreversibles
 influencias
+interesses
+insolvencia
 un
 una
 utiliza
@@ -12524,6 +12572,8 @@ understanding
 usuario
 utilizada
 unas
+utilizaci
+ultimos
 hora
 hacemos
 hacia
@@ -13200,6 +13250,7 @@ hostA
 hostB
 hash
 hoy
+hecho
 Es
 Este
 Ejemplos
@@ -13996,6 +14047,7 @@ Estimate
 Extract
 Estas
 Eficiencia
+Elementos
 vital
 variables
 vez
@@ -14725,6 +14777,7 @@ vpb
 vJI
 volume
 vencimiento
+vende
 no
 nuestras
 ndar
@@ -15443,6 +15496,7 @@ nvnp
 ncrease
 nice
 numerados
+necearios
 Identificar
 Intro
 Identificaci
@@ -16960,6 +17014,7 @@ Determinista
 DADO
 DAMGÄRD
 Descuento
+Diccionario
 funci
 fibonacci
 fica
@@ -17715,6 +17770,10 @@ facil
 familias
 funcionamiento
 finaliza
+frenta
+formulas
+financiero
+flujos
 objetivo
 obtener
 of
@@ -18470,6 +18529,7 @@ opposite
 oriented
 onnectionless
 obtendr
+oportunidades
 que
 queremos
 qD
@@ -20003,6 +20063,7 @@ Alguna
 Ataques
 Autenticacion
 Authentification
+Apalancamiento
 Floyd
 Foundations
 Funci
@@ -20685,6 +20746,8 @@ Fast
 Functions
 FIN
 Fuentes
+Fondo
+Factoring
 Warshall
 Width
 We
@@ -23599,6 +23662,8 @@ growing
 goint
 gestiones
 garantiza
+guardado
+genere
 Programaci
 Para
 Problema
@@ -24404,6 +24469,8 @@ Pseudoaleatoriedad
 Propiedad
 Probabilidades
 Preimagen
+Porcentaje
+Proyectos
 Biblio
 BitsPerComponent
 BI
@@ -25052,6 +25119,9 @@ Bit
 BYTE
 Basados
 Bancaria
+Beneficio
+BAIT
+Beneficios
 Steven
 Skiena
 Serie
@@ -25850,6 +25920,7 @@ SPACES
 Second
 Segunda
 SHA
+Supondremos
 Manual
 Modelar
 Millones
@@ -26602,6 +26673,13 @@ Maps
 MENSAJE
 MERKLE
 MAC
+Margen
+Mide
+Mira
+Mirar
+Merece
+Medio
+MINIMO
 Zivkovic
 Zo
 Zi
@@ -27933,6 +28011,9 @@ LGL
 LAST
 Librer
 Liability
+LLegamos
+LLamamos
+Largo
 bottom
 base
 brik
@@ -28674,6 +28755,8 @@ biom
 basadas
 banco
 bank
+beneficioso
+baje
 Util
 Una
 UniZumo
@@ -32748,6 +32831,7 @@ VnF
 VzB
 VpW
 VtJ
+Volumen
 Grupo
 Get
 GWgw
@@ -33479,6 +33563,7 @@ GFS
 GuJ
 GVb
 GQN
+Ganancias
 Nota
 Novo
 Nacional
