@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
+                "file": "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
+                "file": "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
+                "file": "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728317931 - Valor actual neto de una inversión.md"
+                "file": "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md"
               }
             }
           }
@@ -323,10 +323,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "106368219e66ce4f",
+  "active": "c9217a91956f5227",
   "lastOpenFiles": [
-    "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
     "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
+    "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
     "99 - Meta/0. Attachments/1728316833 - El valor del dinero en el tiempoj.png",
     "02 - Atomic/1728313952 - Fuentes de financiación externas a corto plazo.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",

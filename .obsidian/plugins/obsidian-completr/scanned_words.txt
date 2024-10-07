@@ -8938,6 +8938,7 @@ Ratio
 Rentabilidad
 Ratios
 Represnetando
+Retorno
 cssclasses
 correcto
 correcta
@@ -11880,6 +11881,9 @@ irreversibles
 influencias
 interesses
 insolvencia
+invesri
+importante
+inversion
 un
 una
 utiliza
@@ -14793,6 +14797,7 @@ volume
 vencimiento
 vende
 vale
+vemos
 no
 nuestras
 ndar
@@ -16266,6 +16271,8 @@ Inline
 IDEA
 Integration
 Iterated
+Interna
+Indiferente
 Definir
 Din
 Design
@@ -22945,6 +22952,8 @@ TLD
 TWO
 Typical
 Third
+Tasa
+Teniendo
 grafo
 guardan
 global

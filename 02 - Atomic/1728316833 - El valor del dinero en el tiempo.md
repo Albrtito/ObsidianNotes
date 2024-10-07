@@ -36,6 +36,16 @@ cssclasses:
 
 Represnetando cuanto vale la inversión en **el momento 0** obtenemos lo que llamamos el **VALOR ACTUAL NETO** o [[1728317931 - Valor actual neto de una inversión|VAN]].
 
+
 **Tasa Interna de Retorno (TIR):** Es el máximo tipo de interés que se puede pagar por el capital invertido a lo largo de la vida de la invesrión, sin perder en el proyecto
++ La diferencia entre el tipo de interés que te piden y el que te puedes permitir es algo muy importante al realizar la inversion. La TIR da el valor del **máximo tipo de interés que la empresa se puede permitir**. 
+$$
+-A + \sum^{n}_{t=1}\frac{Q_t}{(1 + r)^t} = 0
+$$
+**Análisis:**
++ …
+
+**Tasa de Fisher:**
+Es aquel tipo de interés que hace que el VAN de dos proyectos de inversión sea el mismo. 
 
 ***
