@@ -945,6 +945,7 @@ autentifica
 almacenar
 atacar
 actuales
+adas
 Creaci
 Crear
 Cuando
@@ -4564,6 +4565,7 @@ echo
 explicar
 elecci
 estrucrtura
+exiten
 programaci
 primer
 paso
@@ -7233,6 +7235,7 @@ tuple
 tokens
 tricas
 tengan
+trabaja
 review
 resolver
 realizar
@@ -8105,6 +8108,8 @@ resumirse
 realice
 roto
 resistencia
+rotas
+rompa
 References
 Resoluci
 Rectas
@@ -12482,6 +12487,7 @@ ultiplicative
 uses
 understanding
 usuario
+utilizada
 hora
 hacemos
 hacia
@@ -15399,6 +15405,7 @@ nWZjJrRb
 nvnp
 ncrease
 nice
+numerados
 Identificar
 Intro
 Identificaci
@@ -17668,6 +17675,7 @@ fija
 fehca
 facil
 familias
+funcionamiento
 objetivo
 obtener
 of
@@ -25794,6 +25802,7 @@ SEQUENCE
 SPACES
 Second
 Segunda
+SHA
 Manual
 Modelar
 Millones
@@ -34178,6 +34187,7 @@ Nim
 Notes
 Needs
 NUMBER
+NSA
 Xr
 XObject
 Xw

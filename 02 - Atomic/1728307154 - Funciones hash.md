@@ -68,7 +68,7 @@ La mayoría de funciones hash actuales utilizan la **estrucrtura MERKLE-DAMGÄRD
 ![[1728307154 - Funciones hashj.png]]
 
 ## Ejemplos reales:
-Tenemos dos familias principales de funciones hash, la familia de las funciones MD ([[1728308824 - Algorithm - MD5|MD5]])) y las funciones **sha**. 
+Tenemos dos familias principales de funciones hash, la familia de las funciones MD ([[1728308824 - Algorithm - MD5|MD5]])) y las funciones [[1728309243 - Algorithm - SHA|SHA]] 
 + A la familia de las MD **ya se les ha encontrado debilidades y todas están rotas**
 + En las sha **exiten 6 tipos** numerados del 0 al 3. **Se han encontrado debilidades en los tipos 0 y 1**. Los tipos más usados hoy en día son el 2 y el 3.
 

@@ -36,6 +36,7 @@ Tenemos distintos **tipos de contraseñas:**
 ### Gestión de contraseñas: 
 
 + Para **almacenar contraseñas se utilizarán funciones hash**. Estas son funciones irreversibles. Solo obtenemos el mismo resultado con la contraseña. 
+	> Utilizar función hash sha256
 + **Caducidad de contraseñas:** Cada cierto tiempo se pueden volver a pedir las contraseñas. 
 
 
