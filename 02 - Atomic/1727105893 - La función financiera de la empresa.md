@@ -45,16 +45,35 @@ $$ e = {FA\over FP}$$
 
 + **Ki /i**: Coste del capital ajeno o tipo de interés
 + **BAIT:** Beneficios antes de interesses eimpuestos 
++ **Margen sobre ventas:**
+  $$\text{Margen sobre ventas = }{BAIT\over V}$$
 + **BAT:** Beneficio antes de impuestos
 $$BAT = BAIT - (Ki \cdot FA)$$
 + **BN:** Beneficio neto
 $$BN = ...$$
 ### Rentabilidad económica:
-La rentabilidad económica mide la rentabilidad del activo de la empresa. Es la capacidad de los activos para generar beneficios. 
-Representa o mide las rentas generadas
+La rentabilidad económica mide la rentabilidad del activo de la empresa. Es la capacidad de los activos para generar beneficios. Compara las rentas generadas con los activos necearios que se han utilizado para obtener esas rentas. 
+$$
+RE = {BAIT\over TA} = \text{Rotación de activos} \cdot \text{margen de ventas}
+$$
 
 
++ LLegamos a la segunda igualdad a través de una mulitplicación por ventas arriba y abajo.
 
+### Rentabilidad financiera (RF)
+Representa la rentabilidad de los propietarios o accionistas debido a que mide la adecuación del pasivo. Mira se se está utilizando bien o mal el pasivo dela empresa. 
+Según si hemos de tener en cuenta o no los impuestos tenemos dos formulas. 
+$$
+RF = {BAT\over FP}
+$$
+
++ Mide cuantos fondos propios han hecho falta para obtener un beneficio. Si estamos utilizando bien o mal los fondos de la empresa.
+
+Podemos reformular la igualdad para obtener: 
+$$
+RF = RE + (RE-Ki) \cdot ({FA\over FP})
+$$
++ Mirar transparencias 
 
 **Remarks:**
 + Supondremos que **todo lo que produce la empresa se vende.** 
