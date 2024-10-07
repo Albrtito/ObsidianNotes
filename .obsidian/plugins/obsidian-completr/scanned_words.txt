@@ -943,6 +943,8 @@ admits
 agree
 autentifica
 almacenar
+atacar
+actuales
 Creaci
 Crear
 Cuando
@@ -1786,6 +1788,9 @@ Closing
 Cases
 Contrase
 Caducidad
+Colisiones
+Cambio
+Creada
 de
 due
 dar
@@ -2712,6 +2717,8 @@ datagram
 delivered
 directoinal
 dispositivo
+dicho
+debil
 modelos
 modelo
 maximizar
@@ -3606,6 +3613,8 @@ multimedia
 mainly
 mix
 multiplexing
+menes
+marca
 en
 ease
 es
@@ -4553,6 +4562,8 @@ explaining
 explanation
 echo
 explicar
+elecci
+estrucrtura
 programaci
 primer
 paso
@@ -5526,6 +5537,13 @@ properly
 protocolos
 placed
 piggybacking
+propiedad
+propiedades
+pseudoaleatoriedad
+preimagen
+partir
+permitir
+principales
 lineal
 la
 lo
@@ -7214,6 +7232,7 @@ transfering
 tuple
 tokens
 tricas
+tengan
 review
 resolver
 realizar
@@ -8082,6 +8101,10 @@ returns
 road
 reliabely
 reusing
+resumirse
+realice
+roto
+resistencia
 References
 Resoluci
 Rectas
@@ -8827,6 +8850,8 @@ Referenced
 Really
 RECIEVED
 REQUISITOS
+Resistencia
+Resistente
 cssclasses
 correcto
 correcta
@@ -9915,6 +9940,11 @@ closing
 close
 contrase
 conoce
+craci
+colisiones
+considera
+colisi
+cumplea
 sr
 se
 subproblemas
@@ -10857,6 +10887,7 @@ source
 saved
 stablishing
 suffices
+sha
 interval
 importancia
 incorrecto
@@ -13922,6 +13953,7 @@ EOX
 Estimate
 Extract
 Estas
+Eficiencia
 vital
 variables
 vez
@@ -16879,6 +16911,10 @@ DEMULTIPLEXING
 Destination
 Demultiplexing
 Destinatino
+Difusi
+Determinista
+DADO
+DAMGÄRD
 funci
 fibonacci
 fica
@@ -17628,6 +17664,10 @@ failure
 fount
 feature
 flag
+fija
+fehca
+facil
+familias
 objetivo
 obtener
 of
@@ -19912,6 +19952,7 @@ Apply
 Applications
 Another
 Alguna
+Ataques
 Floyd
 Foundations
 Funci
@@ -22021,6 +22062,8 @@ HBBb
 HdmG
 HUzp
 HTTP
+Haceptando
+Hash
 TODOS
 The
 Trabajo
@@ -24304,6 +24347,10 @@ Paso
 Peers
 Port
 Pass
+Pseudoaleatoriedad
+Propiedad
+Probabilidades
+Preimagen
 Biblio
 BitsPerComponent
 BI
@@ -25746,6 +25793,7 @@ Sends
 SEQUENCE
 SPACES
 Second
+Segunda
 Manual
 Modelar
 Millones
@@ -26495,6 +26543,8 @@ MZxZ
 Mhm
 Mß
 Maps
+MENSAJE
+MERKLE
 Zivkovic
 Zo
 Zi
@@ -28563,6 +28613,7 @@ bythe
 botht
 become
 biom
+basadas
 Util
 Una
 UniZumo
