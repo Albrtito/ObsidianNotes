@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65a53a374887e634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9429f24c6fd7f75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1728309728 - Autenticacion de mensajes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e779c280c566b7f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728309909 - MAC.md",
+                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -155,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,13 +146,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f97aefa6b972e655",
@@ -190,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md"
+                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md"
               }
             }
           }
@@ -308,13 +283,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "65a53a374887e634",
+  "active": "e779c280c566b7f8",
   "lastOpenFiles": [
-    "02 - Atomic/1728309728 - Autenticacion de mensajes.md",
-    "02 - Atomic/1728309909 - MAC.md",
+    "02 - Atomic/1728037357 - DNS.md",
+    "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
+    "02 - Atomic/1727711018 - Estrategias de diversificación.md",
+    "02 - Atomic/1727430724 - Circuit switcing.md",
     "01.Areas/1.UC3M/Cripto.md",
-    "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
+    "02 - Atomic/1728309909 - MAC.md",
+    "02 - Atomic/1727255580 - Loss and delay in Networks.md",
     "02 - Atomic/1728307154 - Funciones hash.md",
+    "02 - Atomic/1728309728 - Autenticacion de mensajes.md",
+    "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
     "02 - Atomic/1728309243 - Algorithm - SHA.md",
     "02 - Atomic/1728308824 - Algorithm - MD5.md",
     "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
@@ -340,13 +320,8 @@
     "99 - Meta/0. Attachments/Screenshot 2024-10-04 at 1.30.32 PM.png",
     "02 - Atomic/1727177356 - Method - Checksum.md",
     "99 - Meta/0. Attachments/1728038869 - Transport network layerj.png",
-    "02 - Atomic/1726572508 - The network stack.md",
     "00.References/Net_References_s2_1.pdf",
-    "02 - Atomic/1726574469 - Application layer.md",
-    "02 - Atomic/1728037357 - DNS.md",
     "99 - Meta/0. Attachments/1728037357 - DNSj.png",
-    "02 - Atomic/1726049888 - Net protocols.md",
-    "02 - Atomic/1727429612 - Definition - TLS.md",
     "00.References/Net_References_s3_4.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-10-04 at 10.22.44 AM.png",
     "00.References/S3.4 presentation.pdf",

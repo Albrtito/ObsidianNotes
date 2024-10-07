@@ -948,6 +948,8 @@ actuales
 adas
 autenticaci
 aprenderemos
+asegura
+aprovechan
 Creaci
 Crear
 Cuando
@@ -1795,6 +1797,7 @@ Colisiones
 Cambio
 Creada
 Code
+CBC
 de
 due
 dar
@@ -2723,6 +2726,7 @@ directoinal
 dispositivo
 dicho
 debil
+dicen
 modelos
 modelo
 maximizar
@@ -3619,6 +3623,7 @@ mix
 multiplexing
 menes
 marca
+modos
 en
 ease
 es
@@ -5550,6 +5555,7 @@ preimagen
 partir
 permitir
 principales
+parecida
 lineal
 la
 lo
@@ -11789,6 +11795,7 @@ interaction
 interchange
 integro
 irreversibles
+influencias
 un
 una
 utiliza
@@ -22080,6 +22087,7 @@ HUzp
 HTTP
 Haceptando
 Hash
+HMAC
 TODOS
 The
 Trabajo
@@ -25014,6 +25022,7 @@ Base
 But
 Bit
 BYTE
+Basados
 Steven
 Skiena
 Serie

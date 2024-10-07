@@ -52,6 +52,6 @@ tags:
 + [[1726493246 - Algorithm - AES|AES]]
 + [[1727443922 - Cuerpos de Galois|Cuerpos de Galois]]
 + [[1728307154 - Funciones hash|Funciones hash]]
-+ 
++ [[1728309909 - MAC|MAC]]
 ## Práctica:
 + [[1728048290 - Proyecto de criptografía UC3M|Proyecto de criptografía UC3M]]
