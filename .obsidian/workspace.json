@@ -13,45 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Heuristica y Opti.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eab1c146e887c252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1727270270 - Method - SIMPLEX.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fed1aef7f812e15d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a92874b3236aaf1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "01.Areas/1.UC3M/Cripto.md",
                 "mode": "source",
                 "backlinks": true,
@@ -60,12 +21,12 @@
             }
           },
           {
-            "id": "4235b8ba450603cf",
+            "id": "65a53a374887e634",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
+                "file": "02 - Atomic/1728307154 - Funciones hash.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -182,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
+                "file": "02 - Atomic/1728307154 - Funciones hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
+                "file": "02 - Atomic/1728307154 - Funciones hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
+                "file": "02 - Atomic/1728307154 - Funciones hash.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md"
+                "file": "02 - Atomic/1728307154 - Funciones hash.md"
               }
             }
           }
@@ -335,15 +296,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4235b8ba450603cf",
+  "active": "65a53a374887e634",
   "lastOpenFiles": [
+    "02 - Atomic/1728307154 - Funciones hash.md",
     "01.Areas/1.UC3M/Cripto.md",
-    "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
+    "01.Areas/1.UC3M/Heuristica y Opti.md",
     "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+    "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
     "99 - Meta/0. Attachments/1727270270 - Method - SIMPLEXj.png",
     "02 - Atomic/1726759457 - Programación Lineal.md",
-    "01.Areas/1.UC3M/Heuristica y Opti.md",
     "02 - Atomic/1727969475 - Primera practica Heuristica.md",
     "02 - Atomic/1728027800 - Network congestion.md",
     "01.Areas/1.UC3M/Networks.md",
@@ -373,7 +335,6 @@
     "02 - Atomic/1727712353 - Responsabilidad social de la empresa.md",
     "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
     "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
-    "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
     "99 - Meta/0. Attachments/Screenshot 2024-10-04 at 10.22.44 AM.png",
     "00.References/S3.4 presentation.pdf",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
