@@ -32,11 +32,33 @@ Las funciones hash han de cumplir las siguientes propiedades de **pseudoaleatori
 + **Eficiencia:**
 
 ## Resistencia a preimagen:
+**namely:** Propiedad de **una sola via**. 
 
+Se debe de poder ir solo en una dirección de la función. No se debe de poder encontrar un mensaje a partir del resumen de dicho mensaje.
 
-## Resisteencia a segunda preimagen:
+## Resistencia a segunda preimagen:
+**namely:** Resistencia debil a colisiones
+
+No debe de poder haber **dos mensajes con el mismo resumen**, DADO UN MENSAJE M inicial
+**Remark:**
++ La diferencia con la siguiente propiedad está en esta última parte, tenemos un mensaje y queremos encontrar otro con el mismo resumen.
 
 ## Resistente a colisiones:
+Es imposible encontrar **dos mensajes de nuestra elección** que tengan el mismo hash.
 
+## Ataques de fuerza bruta:
 
+> [!NOTE] Propiedad:
+> Una función resumen **solo debe de permitir ataques por fuerza bruta**, no debe de permitir **que se realice análisis criptográfico.**
++ Si se permite ataques por otros medios distintos a la fuerza bruta el **algoritmos se considera debil/roto** y no será va
+
+### Probabilidades:
+Las probabilidades de encontrar colisiones usando distintos ataques de fuerza bruta son:
+
+1.  **Preimagen:** $1\over 2^n$
+2. **Segunda preimagen:** $1\over2^n$ 
+3. **Ataque de colisión:** $1\over 2^{n/2}$ → Ataque del cumpleaños
+
+**Remark:**
+Como la manera más facil de atacar va a ser el ataque por colisión, la 
 ***
