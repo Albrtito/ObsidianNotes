@@ -6,9 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-10-05
+sr-due: 2024-10-08
 sr-interval: 1
-sr-ease: 170
+sr-ease: 150
 ---
 # Theorem - Indicador de Euler
 

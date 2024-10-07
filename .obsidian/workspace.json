@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
+                "file": "01.Areas/1.UC3M/Empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
+                "file": "01.Areas/1.UC3M/Empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
+                "file": "01.Areas/1.UC3M/Empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
+                "file": "01.Areas/1.UC3M/Empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,7 +238,7 @@
                   "repelStrength": 18.5975922131148,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 211,
-                  "scale": 0.07006043136585023,
+                  "scale": 0.14244017885089263,
                   "close": true
                 }
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md"
+                "file": "01.Areas/1.UC3M/Empresa.md"
               }
             }
           }
@@ -285,6 +285,10 @@
   },
   "active": "e779c280c566b7f8",
   "lastOpenFiles": [
+    "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
+    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+    "02 - Atomic/1727270366 - Forma estandar.md",
+    "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
     "02 - Atomic/1728037357 - DNS.md",
     "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
     "02 - Atomic/1727711018 - Estrategias de diversificación.md",
@@ -309,16 +313,12 @@
     "02 - Atomic/1728044151 - Network flow control.md",
     "02 - Atomic/1728042156 - The three way handshake.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
-    "02 - Atomic/1728044996 - Closing a TCP connection.md",
     "00.References/Net_Resources_s3_3.pdf",
-    "02 - Atomic/1728038869 - Transport network layer.md",
     "99 - Meta/0. Attachments/1727428451 - Definition - TCPj-1.png",
     "99 - Meta/0. Attachments/1727428451 - Definition - TCPj.png",
     "00.References/Net_References_s3_2.pdf",
     "00.References/Net_Resources_s3_1.pdf",
-    "02 - Atomic/1727428429 - Definition - UDP.md",
     "99 - Meta/0. Attachments/Screenshot 2024-10-04 at 1.30.32 PM.png",
-    "02 - Atomic/1727177356 - Method - Checksum.md",
     "99 - Meta/0. Attachments/1728038869 - Transport network layerj.png",
     "00.References/Net_References_s2_1.pdf",
     "99 - Meta/0. Attachments/1728037357 - DNSj.png",

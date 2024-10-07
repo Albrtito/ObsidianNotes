@@ -6,8 +6,8 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-10-06
-sr-interval: 4
+sr-due: 2024-10-19
+sr-interval: 12
 sr-ease: 249
 ---
 # Sustitución mono-alfabeta monográfica
@@ -42,7 +42,7 @@ $$
 $$
 + a: Clave de cifrado. Constante de decimación
 
-### SUMA + MULTIPLICACIÓN: Cifrador por sustitución ==afín==
+### SUMA + MULTIPLICACIÓN: Cifrador por sustitución afín
 Se realizan ambas la suma y multiplicación. En este caso tanto b como a serán claves del cifrado.
 $$
 \boxed{C_i = (a \times m_i + b) \mod n}
