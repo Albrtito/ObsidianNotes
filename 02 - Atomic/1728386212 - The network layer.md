@@ -30,7 +30,18 @@ The network layer occupies itself of two main task, these are:
 	 + One server performs the computing and then pushes to the routers
 
 ## Service models:
-+ These are best-effort services
++ These are [[1728387775 - Best effort services|best-effort services]] so that all the reliability is **implemented in the endpoints → TCP**
+## Router architecture: 
 
+![[1728386212 - The network layerj.png|center|500]]
 
++ high-speed switching fabric: Connects all the input to the output
+
+### Input port functions: 
+![[1728386212 - The network layerj-2.png|center|500]]
+
+### Switching fabrics:
+In order to move the data from one input port to an oputput port we can use different **types of switching fabrics**
+
++ **Memory switching:** 
 ***

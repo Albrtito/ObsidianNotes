@@ -31,7 +31,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Net_Resources_s4_1.pdf",
+                "file": "02 - Atomic/1728386212 - The network layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Net_Resources_s4_1.pdf",
+                "file": "02 - Atomic/1728386212 - The network layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Net_Resources_s4_1.pdf",
+                "file": "02 - Atomic/1728386212 - The network layer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Net_Resources_s4_1.pdf"
+                "file": "02 - Atomic/1728386212 - The network layer.md"
               }
             }
           }
@@ -292,10 +291,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "29074c1ec3bda5c4",
+  "active": "51395969ae187be0",
   "lastOpenFiles": [
-    "02 - Atomic/1728387775 - Best effort services.md",
+    "99 - Meta/0. Attachments/1728386212 - The network layerj-2.png",
+    "99 - Meta/0. Attachments/1728386212 - The network layerj-1.png",
+    "99 - Meta/0. Attachments/1728386212 - The network layerj.png",
     "00.References/Net_Resources_s4_1.pdf",
+    "02 - Atomic/1728387775 - Best effort services.md",
     "02 - Atomic/1728386212 - The network layer.md",
     "00.References/Net_Resources_s3_3.pdf",
     "01.Areas/1.UC3M/Networks.md",
@@ -333,11 +335,9 @@
     "99 - Meta/0. Attachments/1728038869 - Transport network layerj.png",
     "00.References/Net_References_s2_1.pdf",
     "99 - Meta/0. Attachments/1728037357 - DNSj.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-10-04 at 10.22.44 AM.png",
     "00.References/S3.4 presentation.pdf",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "01.Areas/1.UC3M/Apuntes javi",
-    "99 - Meta/0. Attachments/1727177356 - Method - Checksumj.png",
     "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/3.Matterhorn/Tatto.canvas",
