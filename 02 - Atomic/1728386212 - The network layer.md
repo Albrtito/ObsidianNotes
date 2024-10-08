@@ -43,5 +43,14 @@ The network layer occupies itself of two main task, these are:
 ### Switching fabrics:
 In order to move the data from one input port to an oputput port we can use different **types of switching fabrics**
 
-+ **Memory switching:** 
++ **Memory switching:** The **initial architecture of routers**, used in the first generations. 
+  The router saves all into memory where the CPU controls where the output goes.
+  
++ **Bus switching:** Add some processing capability to each input port. 
+  Each packet is moved through the system bus once the processing is done in the input port. But the bus **can only be used one packet at a time.** 
+
++ **Interconnection network switching:** Creation of several interconnected buses within the router. Each packet can take several routes. 
+  > An small telephone network inside each router. 
+  
+
 ***
