@@ -6,6 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
+sr-due: 2024-10-09
+sr-interval: 1
+sr-ease: 230
 ---
 # Cifrador de flujo
 
@@ -19,7 +22,10 @@ cssclasses:
 **Remarks:**
 + Es imposible generar una serie infinitamente aleatoria con el uso de ordenadores → Se utilizan series **pseudoaleatorias** generadas por PRNGs 
 
-El ejemplo del cifrador de flujo **ideal** es el de [[1726497421 - Sustitución polialfabética no-periódica|Método de Vernam]], no obstante, al no poder generar series completamente aleatorias sabemos que **este cirfrador no es práctico** y debemos de preocuparnos de la [[1728380111 - Generacion de series pseudoaleatorias|Generacion de series pseudoaleatorias]].
+> [!CHECK] Solution: 
+>  El ejemplo del cifrador de flujo **ideal** es el de [[1726497421 - Sustitución polialfabética no-periódica|Método de Vernam]], no obstante, al no poder generar series completamente aleatorias sabemos que **este cirfrador no es práctico** y debemos de preocuparnos de la [[1728380111 - Generacion de series pseudoaleatorias|Generacion de series pseudoaleatorias]].
+
+
 ## Síncrono y Autosíncrono: 
 AL ser un método de criptación síncrono, los cifradores de emisor y receptor han de ser capaces de **intercambiar la clave** cifrante. 
 

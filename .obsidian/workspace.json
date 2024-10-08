@@ -81,9 +81,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b040cbe1baaea156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1728380472 - Postulados de Golomb.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -192,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727096148 - Cifrador de flujo.md",
+                "file": "02 - Atomic/1728380472 - Postulados de Golomb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727096148 - Cifrador de flujo.md",
+                "file": "02 - Atomic/1728380472 - Postulados de Golomb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727096148 - Cifrador de flujo.md",
+                "file": "02 - Atomic/1728380472 - Postulados de Golomb.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -319,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727096148 - Cifrador de flujo.md"
+                "file": "02 - Atomic/1728380472 - Postulados de Golomb.md"
               }
             }
           }
@@ -346,10 +359,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63b3589fb383580b",
+  "active": "b040cbe1baaea156",
   "lastOpenFiles": [
+    "02 - Atomic/1728380472 - Postulados de Golomb.md",
     "02 - Atomic/1728380111 - Generacion de series pseudoaleatorias.md",
     "02 - Atomic/1727096148 - Cifrador de flujo.md",
+    "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
     "02 - Atomic/1728307154 - Funciones hash.md",
     "02 - Atomic/1726754186 - Criptosistemas modernos.md",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
@@ -375,9 +390,7 @@
     "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
-    "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
-    "02 - Atomic/1727270366 - Forma estandar.md",
     "99 - Meta/0. Attachments/1728307154 - Funciones hashj.png",
     "99 - Meta/0. Attachments/1727270270 - Method - SIMPLEXj.png",
     "99 - Meta/0. Attachments/1727428451 - Definition - TCPj-1.png",
