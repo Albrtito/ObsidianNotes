@@ -994,6 +994,9 @@ aVq
 aYW
 aFv
 amG
+appropiate
+algorithms
+applies
 Creaci
 Crear
 Cuando
@@ -1876,6 +1879,7 @@ Cst
 CNWHu
 CfHu
 CSQXA
+Configured
 de
 due
 dar
@@ -2859,6 +2863,9 @@ dmEQvr
 dHe
 dOv
 dJE
+discover
+discovery
+discovers
 modelos
 modelo
 maximizar
@@ -3811,6 +3818,9 @@ mcZzX
 moQ
 mwNou
 mql
+moving
+map
+manually
 en
 ease
 es
@@ -5822,6 +5832,10 @@ pRr
 pZs
 pbR
 pVW
+plane
+pane
+performs
+pushes
 lineal
 la
 lo
@@ -6665,6 +6679,7 @@ lMKq
 lvv
 lKO
 lEI
+logic
 tags
 tres
 todos
@@ -7583,6 +7598,8 @@ ttN
 tBq
 tVw
 tls
+task
+topology
 review
 resolver
 realizar
@@ -8511,6 +8528,8 @@ rkX
 rCY
 rex
 rKk
+routing
+route
 References
 Resoluci
 Rectas
@@ -10462,6 +10481,7 @@ cFRdH
 coCa
 cwaQ
 cdo
+computing
 sr
 se
 subproblemas
@@ -11446,6 +11466,9 @@ sCu
 svB
 sTW
 sKso
+setting
+smalll
+setups
 interval
 importancia
 incorrecto
@@ -17806,6 +17829,8 @@ DZa
 DeE
 DuH
 Dgr
+Determine
+Defined
 funci
 fibonacci
 fica
@@ -18605,6 +18630,8 @@ fUql
 fhw
 fRI
 fEh
+forwarded
+forwarding
 objetivo
 obtener
 of
@@ -21721,6 +21748,7 @@ FQb
 FFK
 FME
 FAA
+Forwarding
 Warshall
 Width
 We
@@ -24024,6 +24052,8 @@ TuV
 TQi
 TZa
 TPW
+Traditional
+Tedious
 grafo
 guardan
 global
@@ -25643,6 +25673,8 @@ Pit
 Prf
 PaQq
 PJV
+Pre
+Per
 Biblio
 BitsPerComponent
 BI
@@ -26327,6 +26359,7 @@ Bsl
 Bob
 BGR
 BJH
+Before
 Steven
 Skiena
 Serie
@@ -27167,6 +27200,7 @@ SXU
 SRi
 SeF
 SMxG
+SDN
 Manual
 Modelar
 Millones
@@ -27963,6 +27997,7 @@ MHN
 McX
 MsS
 MzT
+Manually
 Zivkovic
 Zo
 Zi
@@ -30865,6 +30900,7 @@ UCCM
 UIc
 Uqh
 UwW
+Usefull
 QUE
 Que
 QE
@@ -39487,6 +39523,7 @@ wlTT
 wzR
 wzz
 wPS
+wide
 kL
 kMZ
 kC

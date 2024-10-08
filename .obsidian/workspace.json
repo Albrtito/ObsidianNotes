@@ -29,16 +29,9 @@
                 "file": "00.References/Net_Resources_s4_1.pdf"
               }
             }
-          },
-          {
-            "id": "e711b67ee4338c82",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -147,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00.References/Net_Resources_s4_1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00.References/Net_Resources_s4_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,6 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00.References/Net_Resources_s4_1.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,7 +265,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00.References/Net_Resources_s4_1.pdf"
+              }
             }
           }
         ]
@@ -294,10 +292,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1087055cabadd75b",
+  "active": "29074c1ec3bda5c4",
   "lastOpenFiles": [
-    "02 - Atomic/1728386212 - The network layer.md",
+    "02 - Atomic/1728387775 - Best effort services.md",
     "00.References/Net_Resources_s4_1.pdf",
+    "02 - Atomic/1728386212 - The network layer.md",
     "00.References/Net_Resources_s3_3.pdf",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1726572508 - The network stack.md",
@@ -322,7 +321,6 @@
     "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
     "02 - Atomic/1728307154 - Funciones hash.md",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
-    "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
     "00.References/Net_References_s3_2.pdf",
     "00.References/Net_References_s3_4.pdf",
     "99 - Meta/0. Attachments/1728316833 - El valor del dinero en el tiempoj.png",
