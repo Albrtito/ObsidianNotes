@@ -31,7 +31,7 @@ They are **numbered from bottom to top:**
 2. **Link:** Data transfer between **neighboring network elements**
    > Next connection that needs to be made.
 
-3. **Network:** Joining all the linked devices in the link layer (the glue to actually create the network).
+3. [[1728386212 - The network layer|Network layer]]: Joining all the linked devices in the link layer (the glue to actually create the network).
    > Where is the connection going? Whole image of the web.
 
 4. [[1728038869 - Transport network layer|Transport layer]]: Processes talking to each other to transfer data. 

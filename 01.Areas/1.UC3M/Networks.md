@@ -60,5 +60,6 @@ aliases:
 	+ [[1727255580 - Loss and delay in Networks|Loss and delay in Networks]]
 2. [[1726572508 - The network stack|Layers]]
 	1. [[1728038869 - Transport network layer|Transport layer]]
+	2. [[1728386212 - The network layer|Network layer]]
 
 

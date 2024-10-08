@@ -8,7 +8,7 @@ References:
 cssclasses:
 sr-due: 2024-10-09
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 # Complejidad lineal de una serie cifrante
 > [!NOTE] Definición: 

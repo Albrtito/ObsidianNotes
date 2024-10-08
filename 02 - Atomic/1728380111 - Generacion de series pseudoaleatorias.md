@@ -6,6 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
+sr-due: 2024-10-09
+sr-interval: 1
+sr-ease: 226
 ---
 # Generacion de series pseudoaleatorias
 
