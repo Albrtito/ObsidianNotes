@@ -52,5 +52,14 @@ In order to move the data from one input port to an oputput port we can use diff
 + **Interconnection network switching:** Creation of several interconnected buses within the router. Each packet can take several routes. 
   > An small telephone network inside each router. 
   
+### Iput port queuing:
+We can see a clear queue form when the bus has to send a packet, at this moment ports need to wait and generate a queue. 
 
+**To solve the queue issue we impose**
++ Bus needs to have an speed **at least equal to the sum of all port speeds**
+
+### Output port queuing:
+An output queue can be generated if there is **concentration of traffic in only one port.** 
+
+We could impose that each output port had the same speed as the bus, however this is not reasonable as 
 ***
