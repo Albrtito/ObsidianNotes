@@ -303,7 +303,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239
+    "width": 561.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -324,6 +324,8 @@
   },
   "active": "e779c280c566b7f8",
   "lastOpenFiles": [
+    "02 - Atomic/1727428429 - Definition - UDP.md",
+    "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
     "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
@@ -351,8 +353,6 @@
     "99 - Meta/0. Attachments/1728307154 - Funciones hashj.png",
     "01.Areas/1.UC3M/Heuristica y Opti.md",
     "99 - Meta/0. Attachments/1727270270 - Method - SIMPLEXj.png",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
-    "02 - Atomic/1727969475 - Primera practica Heuristica.md",
     "00.References/Net_Resources_s3_3.pdf",
     "99 - Meta/0. Attachments/1727428451 - Definition - TCPj-1.png",
     "99 - Meta/0. Attachments/1727428451 - Definition - TCPj.png",

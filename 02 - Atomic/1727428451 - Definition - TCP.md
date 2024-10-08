@@ -29,7 +29,8 @@ sr-ease: 230
 It's important to mention that the ACKs in TCP are cummulative, this means that when we send an ACK for packet 3, what we are telling the sender is that **every packet until 3 has been recieved and THE LAST RECIEVED (properly) BYTE WAS 3. 
 
 ## Sequence numbering:
-TCP has a **wierd way of numbering packets**. Based on the [[1727187791 - Method - RDT Sliding window|Method - RDT Sliding window]] we can say that for any sliding window with value n we’ll **need at least 2n sequence numbers to prevent any type of erros.**
+TCP has a **wierd way of numbering packets**.
+Lets first Based on the [[1727187791 - Method - RDT Sliding window|Method - RDT Sliding window]] we can say that for any sliding window with value n we’ll **need at least 2n sequence numbers to prevent any type of erros.**
 
 TCP does not use this 2n sequence numbers but instead uses the **number of the first byte of the package** to number the whole packet. This has one really important consequence when we take into account the cummulative ACKs we see the following interactions (example):
 
