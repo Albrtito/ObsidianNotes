@@ -283,7 +283,6 @@ acknowledgment
 account
 anything
 acceptable
-ack
 arrive
 asumes
 already
@@ -7808,11 +7807,9 @@ reliablely
 rdt
 rcv
 receive
-reciever
 recieving
 receiver
 repeating
-recieved
 response
 rid
 ruF
@@ -8190,7 +8187,6 @@ rSI
 rXb
 rWH
 rely
-recieves
 referenced
 ransfer
 really
@@ -8400,7 +8396,6 @@ rcW
 ram
 rEj
 rest
-recieve
 reacts
 reaction
 ronda
@@ -11179,7 +11174,6 @@ sSA
 sND
 sSDun
 swp
-sumando
 significa
 sumar
 separar
@@ -16301,7 +16295,6 @@ IKt
 III
 Ies
 IWv
-Info
 ID
 ISABEL
 Inform
@@ -20359,7 +20352,6 @@ AKx
 Arial
 Abc
 Adding
-ACK
 ArtBox
 AKF
 Aznh
@@ -20592,7 +20584,6 @@ Afn
 AWR
 AtE
 AwGH
-AiM
 APl
 AAm
 ADJd
@@ -20903,7 +20894,6 @@ AIY
 AZFI
 AMe
 Ahj
-Aim
 Axj
 AxM
 Awg

@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1930455727f0a366",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/1.UC3M/Networks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "810a608f4775c0a9",
+            "id": "51395969ae187be0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +21,7 @@
             }
           },
           {
-            "id": "e19f2fa1816f38ea",
+            "id": "29074c1ec3bda5c4",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -42,9 +29,16 @@
                 "file": "00.References/Net_Resources_s4_1.pdf"
               }
             }
+          },
+          {
+            "id": "e711b67ee4338c82",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -153,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Net_Resources_s4_1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Net_Resources_s4_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +180,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Net_Resources_s4_1.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +190,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "tag:#Calc  ",
@@ -261,7 +252,7 @@
                   "repelStrength": 18.5975922131148,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 211,
-                  "scale": 0.07903961898099797,
+                  "scale": 0.11252739408040068,
                   "close": true
                 }
               }
@@ -278,21 +269,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00.References/Net_Resources_s4_1.pdf"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 561.5
+    "width": 480
   },
   "left-ribbon": {
     "hiddenItems": {
       "janitor:Janitor: scan vault": false,
-      "obsidian-importer:Open Importer": true,
       "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
@@ -306,9 +294,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e19f2fa1816f38ea",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
     "02 - Atomic/1728386212 - The network layer.md",
+    "00.References/Net_Resources_s4_1.pdf",
+    "00.References/Net_Resources_s3_3.pdf",
     "01.Areas/1.UC3M/Networks.md",
     "02 - Atomic/1726572508 - The network stack.md",
     "02 - Atomic/1728386179 - - Untitled Suffix.md",
@@ -322,12 +312,10 @@
     "02 - Atomic/1728380111 - Generacion de series pseudoaleatorias.md",
     "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1726754186 - Criptosistemas modernos.md",
-    "00.References/Net_Resources_s4_1.pdf",
     "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
     "02 - Atomic/1728381448 - PRNGs.md",
     "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
     "02 - Atomic/1726574469 - Application layer.md",
-    "00.References/Net_Resources_s3_3.pdf",
     "02 - Atomic/1728042156 - The three way handshake.md",
     "02 - Atomic/1728380472 - Postulados de Golomb.md",
     "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
@@ -335,7 +323,6 @@
     "02 - Atomic/1728307154 - Funciones hash.md",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
     "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
-    "02 - Atomic/1727428451 - Definition - TCP.md",
     "00.References/Net_References_s3_2.pdf",
     "00.References/Net_References_s3_4.pdf",
     "99 - Meta/0. Attachments/1728316833 - El valor del dinero en el tiempoj.png",
