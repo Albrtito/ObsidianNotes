@@ -9,7 +9,10 @@ References:
 cssclasses:
 ---
 # The network layer
-
+Within the network layer there are three types of protocols: 
++ Routing and forwarding
++ [[1728390442 - IP Protocol|IP Protocol]] 
++ ICMP protocol 
 ## The two network layer functions: 
 The network layer occupies itself of two main task, these are: 
 
@@ -74,5 +77,12 @@ The buffer management occupies of selecting the packets that will be dropped. Th
 + **marking:** Mark packets to signal congestion 
 
 #### Packet scheduling:
-Decide wich packet so send next on linnk, there 
+Decide wich packet so send next on linnk, there are several methods as in every OS[^1]. 
++ **FIFO**
++ priority
++ round robin
++ weighted fair queueing
+
 ***
+
+[^1]: [[20240411 - 132633 - Intro to processes|Intro to processes]]
