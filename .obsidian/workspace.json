@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728377926 - Timeout estimations TCP.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728377926 - Timeout estimations TCP.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728377926 - Timeout estimations TCP.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728377926 - Timeout estimations TCP.md",
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728377926 - Timeout estimations TCP.md"
+                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md"
               }
             }
           }
@@ -335,8 +335,13 @@
   },
   "active": "63b3589fb383580b",
   "lastOpenFiles": [
-    "02 - Atomic/1727428451 - Definition - TCP.md",
+    "02 - Atomic/1727429612 - Definition - TLS.md",
+    "02 - Atomic/1728038869 - Transport network layer.md",
+    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
+    "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/1728377926 - Timeout estimations TCP.md",
+    "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/Net_References_s3_2.pdf",
@@ -360,11 +365,6 @@
     "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1728309909 - MAC.md",
     "02 - Atomic/1727255580 - Loss and delay in Networks.md",
-    "02 - Atomic/1728307154 - Funciones hash.md",
-    "02 - Atomic/1728309728 - Autenticacion de mensajes.md",
-    "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
-    "02 - Atomic/1728309243 - Algorithm - SHA.md",
-    "02 - Atomic/1728308824 - Algorithm - MD5.md",
     "99 - Meta/0. Attachments/1728307154 - Funciones hashj.png",
     "99 - Meta/0. Attachments/1727270270 - Method - SIMPLEXj.png",
     "99 - Meta/0. Attachments/1727428451 - Definition - TCPj-1.png",

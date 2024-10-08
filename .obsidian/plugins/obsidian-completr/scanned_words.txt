@@ -964,6 +964,9 @@ apalancamiento
 alta
 atender
 aceptable
+applying
+antiderivatives
+absolute
 Creaci
 Crear
 Cuando
@@ -1815,6 +1818,7 @@ CBC
 Compara
 Corto
 Capitalizar
+Constants
 de
 due
 dar
@@ -2754,6 +2758,7 @@ determinar
 desembolso
 descontar
 directional
+document
 modelos
 modelo
 maximizar
@@ -5610,6 +5615,8 @@ pena
 plenamente
 porcentaje
 places
+principle
+potentially
 lineal
 la
 lo
@@ -6423,6 +6430,7 @@ letters
 least
 llegado
 largo
+leaving
 tags
 tres
 todos
@@ -7302,6 +7310,7 @@ tricas
 tengan
 trabaja
 temporarl
+taking
 review
 resolver
 realizar
@@ -8190,6 +8199,8 @@ represnta
 recuperaci
 recuperar
 recuperada
+removes
+reduces
 References
 Resoluci
 Rectas
@@ -10048,6 +10059,7 @@ cobro
 comisiones
 capitalizar
 calcula
+calling
 sr
 se
 subproblemas
@@ -10992,6 +11004,9 @@ stablishing
 suffices
 sha
 simplex
+simplify
+superposition
+separe
 interval
 importancia
 incorrecto
@@ -11888,6 +11903,8 @@ insolvencia
 invesri
 importante
 inversion
+integrar
+integraciones
 un
 una
 utiliza
@@ -12596,6 +12613,9 @@ utilizada
 unas
 utilizaci
 ultimos
+union
+unknown
+unified
 hora
 hacemos
 hacia
@@ -14071,6 +14091,7 @@ Extract
 Estas
 Eficiencia
 Elementos
+EXPLAINED
 vital
 variables
 vez
@@ -17802,6 +17823,7 @@ frenta
 formulas
 financiero
 flujos
+finding
 objetivo
 obtener
 of
@@ -21486,6 +21508,8 @@ WGO
 Window
 Works
 WAS
+WHAT
+While
 Heuri
 Hecho
 HyO
@@ -22210,6 +22234,7 @@ HTTP
 Haceptando
 Hash
 HMAC
+Here
 TODOS
 The
 Trabajo
@@ -25158,6 +25183,7 @@ Beneficio
 BAIT
 Beneficios
 Best
+BEFORE
 Steven
 Skiena
 Serie
@@ -25957,6 +25983,9 @@ Second
 Segunda
 SHA
 Supondremos
+Simplified
+Solved
+Simplifying
 Manual
 Modelar
 Millones
@@ -26716,6 +26745,7 @@ Mirar
 Merece
 Medio
 MINIMO
+METHOD
 Zivkovic
 Zo
 Zi
@@ -29481,6 +29511,7 @@ UVf
 UAAAAA
 Uses
 User
+USING
 QUE
 Que
 QE
@@ -37002,6 +37033,7 @@ jFk
 jQG
 jcys
 jZR
+joined
 wA
 wo
 wpMuB

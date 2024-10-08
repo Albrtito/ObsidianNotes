@@ -7,9 +7,9 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-05
+sr-due: 2024-10-09
 sr-interval: 1
-sr-ease: 228
+sr-ease: 208
 ---
 # Transport network layer
 
@@ -28,7 +28,7 @@ Services and protocols provide **logical communication between systems,** they d
 + **Reciever:** The one recieving packets and sending them to the app layer
   + **Recieves segment + checks header:** check everything is ok
   + **Extract message:** For application
-  + **Pass message to the app socket by DEMULTIPLEXING:** See demultiplexing in the next part
+  + ==**Pass message to the app socket by DEMULTIPLEXING:** See demultiplexing in the next part==
 
 
 > [!attention] Differences between transport and network: 
@@ -43,13 +43,13 @@ There are two main transport protocols:
 We’ll see in the next part that UDP is a **connectionless protocol** and TCP is a **connection-oriented protocol**.
 
 Another important feature in transport protocols is whether they can transmit data reliabely or not, see [[1727176650 - Principles of reliable data transfer|Principles of reliable data transfer]] for methods and a whole explanation of this.
-## Multiplexing and demultiplexing:
+## ==Multiplexing and demultiplexing:==
 
 > [!NOTE] Multiplexing: 
 > The act of handling data of **multiple sockets**, putting a header and sending it over the network.
-> Packets are comming from multiple sockets, so we put a header to each of one saying the socket it comes from and where it goes to and send them without a proper order into the network.
+> Packets are comming from multiple sockets, so we put a header to each of one saying the socket it comes from,where it goes to, and send them without a proper order into the network.
 + Each datagram will have a mix of the four variables: **Destination IP + Port** and **Source IP + Port**. 
-  Based on the type of multiplexing  and demultiplexing performed an n-tuple of these values will be sent.
+  Based on the type of multiplexing  and demultiplexing performed an n-tuple of these four values will be sent.
 
 
 > [!NOTE] Demultiplexing: 
