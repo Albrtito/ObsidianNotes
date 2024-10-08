@@ -14,6 +14,10 @@ cssclasses:
 
 Dividimos los criptosistemas modernosen sistemas simétricos y asimétricos según el número de claves que utilicen.[^1] 
 
-**Simétic**
+**Simétricos:**
++ [[1727096148 - Cifrador de flujo|Cifrador de flujo]]
++ [[1727808593 - Cifradores de bloque|Cifradores de bloque]]
+
+**Asimétricos:**
 ***
 [^1]: [[1726520589 - Definition - Criptosistema#Sistemas simétricos y asimétricos|Simétricos y asimétricos]]
