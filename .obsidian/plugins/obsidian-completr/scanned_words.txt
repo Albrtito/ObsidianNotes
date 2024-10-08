@@ -2753,6 +2753,7 @@ duraci
 determinar
 desembolso
 descontar
+directional
 modelos
 modelo
 maximizar
@@ -5608,6 +5609,7 @@ proporcionar
 pena
 plenamente
 porcentaje
+places
 lineal
 la
 lo
@@ -20775,6 +20777,7 @@ FIN
 Fuentes
 Fondo
 Factoring
+Fisher
 Warshall
 Width
 We

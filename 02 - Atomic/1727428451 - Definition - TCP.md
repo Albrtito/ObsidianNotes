@@ -29,8 +29,8 @@ sr-ease: 230
 It's important to mention that the ACKs in TCP are cummulative, this means that when we send an ACK for packet 3, what we are telling the sender is that **every packet until 3 has been recieved and THE LAST RECIEVED (properly) BYTE WAS 3. 
 
 ## Sequence numbering:
-TCP has a **wierd way of numbering packets**.
-Lets first Based on the [[1727187791 - Method - RDT Sliding window|Method - RDT Sliding window]] we can say that for any sliding window with value n we’ll **need at least 2n sequence numbers to prevent any type of erros.**
+TCP has a **wierd way of numbering packets**.Lets first get the number of sequence numbers needed for some window of size n.
+Based on the [[1727187791 - Method - RDT Sliding window|Method - RDT Sliding window]] we can say that for any sliding window with value n we’ll **need at least 2n sequence numbers to prevent any type of erros.**
 
 TCP does not use this 2n sequence numbers but instead uses the **number of the first byte of the package** to number the whole packet. This has one really important consequence when we take into account the cummulative ACKs we see the following interactions (example):
 
@@ -50,7 +50,7 @@ TCP does not use this 2n sequence numbers but instead uses the **number of the f
 #Duda: Are we, at any point, reusing the byte numbers? If a message has to many bytes arent we just incrementing the header on and on and on? Are there any “infinite messages”?
 
 ## Bi-Directional communication:
-Al contrario que en los protocolos básicos de comunicación reliabely, TCP admits a bi-directoinal communication. This means that botht the sender and reciever can interchange placed and become the reciever and sender. 
+Al contrario que en los protocolos básicos de comunicación reliabely, TCP admits a bi-directional communication. This means that botht the sender and reciever can interchange places and become the reciever and sender. 
 
 This feature is really nice, but we **only care** about the **piggybacking** that can be done in a message. This piggybacking means that **both the acknowledgment and the message are going to travel together**. 
 
@@ -64,7 +64,7 @@ This feature is really nice, but we **only care** about the **piggybacking** tha
 
 ### Echoes: 
 The data being send from the reciever each time it gets a package is goint to be **the last package with the same data and the corresponding ack flag**. To assure that the data has been recieved. This is called an **echo**
-
+#Duda: Reexplain this
 + It can also send its own data. Only this echo will allways be done
 
 ## Round Trip Time(RTT):
