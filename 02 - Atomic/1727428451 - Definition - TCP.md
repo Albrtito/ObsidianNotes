@@ -7,9 +7,9 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-06
-sr-interval: 6
-sr-ease: 230
+sr-due: 2024-10-11
+sr-interval: 3
+sr-ease: 210
 ---
 # TCP
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
+                "file": "02 - Atomic/1726067427 - Tipos de empresas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
+                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+                "file": "02 - Atomic/1728307154 - Funciones hash.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726234693 - Intro a la seguridad informática.md"
+                "file": "02 - Atomic/1726754186 - Criptosistemas modernos.md"
               }
             }
           }
@@ -333,15 +333,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63b3589fb383580b",
+  "active": "106368219e66ce4f",
   "lastOpenFiles": [
+    "02 - Atomic/1726498694 - Definition - Criptografía.md",
+    "02 - Atomic/1726754186 - Criptosistemas modernos.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "02 - Atomic/1728307154 - Funciones hash.md",
+    "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
+    "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
+    "02 - Atomic/1726067427 - Tipos de empresas.md",
+    "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1727429612 - Definition - TLS.md",
     "02 - Atomic/1728038869 - Transport network layer.md",
     "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/1728377926 - Timeout estimations TCP.md",
-    "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/Net_References_s3_2.pdf",
@@ -349,7 +356,6 @@
     "02 - Atomic/1728313952 - Fuentes de financiación externas a corto plazo.md",
     "02 - Atomic/1727428429 - Definition - UDP.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
-    "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
     "99 - Meta/0. Attachments/1728316833 - El valor del dinero en el tiempoj.png",
     "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
@@ -359,12 +365,6 @@
     "02 - Atomic/1727270366 - Forma estandar.md",
     "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
     "02 - Atomic/1728037357 - DNS.md",
-    "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
-    "02 - Atomic/1727711018 - Estrategias de diversificación.md",
-    "02 - Atomic/1727430724 - Circuit switcing.md",
-    "01.Areas/1.UC3M/Cripto.md",
-    "02 - Atomic/1728309909 - MAC.md",
-    "02 - Atomic/1727255580 - Loss and delay in Networks.md",
     "99 - Meta/0. Attachments/1728307154 - Funciones hashj.png",
     "99 - Meta/0. Attachments/1727270270 - Method - SIMPLEXj.png",
     "99 - Meta/0. Attachments/1727428451 - Definition - TCPj-1.png",
