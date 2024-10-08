@@ -967,6 +967,10 @@ aceptable
 applying
 antiderivatives
 absolute
+acepta
+autocorrelaci
+autocorrleaci
+aciertos
 Creaci
 Crear
 Cuando
@@ -1819,6 +1823,7 @@ Compara
 Corto
 Capitalizar
 Constants
+Complejidad
 de
 due
 dar
@@ -2759,6 +2764,11 @@ desembolso
 descontar
 directional
 document
+deseables
+desplazamineto
+desplazar
+desplazada
+distribuida
 modelos
 modelo
 maximizar
@@ -3666,6 +3676,8 @@ merece
 muchas
 mrula
 modernosen
+medici
+mover
 en
 ease
 es
@@ -5619,6 +5631,10 @@ places
 principle
 potentially
 preocuparnos
+postulados
+pseudoaleatoria
+perodo
+periodo
 lineal
 la
 lo
@@ -8204,6 +8220,8 @@ recuperada
 removes
 reduces
 realizando
+rachas
+racha
 References
 Resoluci
 Rectas
@@ -10064,6 +10082,10 @@ capitalizar
 calcula
 calling
 cirfrador
+cualidades
+ceros
+cuarta
+compara
 sr
 se
 subproblemas
@@ -11011,6 +11033,12 @@ simplex
 simplify
 superposition
 separe
+sido
+simulan
+sucesi
+secuencia
+sequencia
+sera
 interval
 importancia
 incorrecto
@@ -11909,6 +11937,8 @@ importante
 inversion
 integrar
 integraciones
+iguales
+impredecible
 un
 una
 utiliza
@@ -12621,6 +12651,7 @@ union
 unknown
 unified
 utilicen
+uniformemente
 hora
 hacemos
 hacia
@@ -15548,6 +15579,7 @@ ncrease
 nice
 numerados
 necearios
+naturales
 Identificar
 Intro
 Identificaci
@@ -17830,6 +17862,7 @@ formulas
 financiero
 flujos
 finding
+fallos
 objetivo
 obtener
 of
@@ -18588,6 +18621,7 @@ obtendr
 oportunidades
 opraci
 obstante
+octava
 que
 queremos
 qD
@@ -20125,6 +20159,7 @@ Apalancamiento
 Actualizar
 ACTUAL
 Autos
+Aciertos
 Floyd
 Foundations
 Funci
@@ -20810,6 +20845,7 @@ Fuentes
 Fondo
 Factoring
 Fisher
+Fallos
 Warshall
 Width
 We
@@ -23731,6 +23767,7 @@ gestiones
 garantiza
 guardado
 genere
+gitos
 Programaci
 Para
 Problema
@@ -24540,6 +24577,7 @@ Porcentaje
 Proyectos
 Plazo
 Payback
+Postulados
 Biblio
 BitsPerComponent
 BI
@@ -26756,6 +26794,7 @@ Merece
 Medio
 MINIMO
 METHOD
+Movimientos
 Zivkovic
 Zo
 Zi
@@ -28833,6 +28872,7 @@ banco
 bank
 beneficioso
 baje
+buena
 Util
 Una
 UniZumo
@@ -33645,6 +33685,7 @@ GVb
 GQN
 Ganancias
 Generacion
+Golomb
 Nota
 Novo
 Nacional

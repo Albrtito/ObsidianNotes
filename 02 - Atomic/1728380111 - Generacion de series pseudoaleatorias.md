@@ -16,5 +16,12 @@ cssclasses:
 > + Un generador de números aleatorios
 > + Una **clave base**
 
+## Propiedades
+Al crear una serie de estas características definimos una serie de propiedades deseables que se han de cumplir.
+
++ En primer lugar los [[1728380472 - Postulados de Golomb|Postulados de Golomb]]
++ El periodo de la serie será **lo más grande posible**
++ La serie estará distribuida uniformemente
++ La serie sera **impredecible**: esto se mide usando la [[1728381283 - Complejidad lineal de una serie cifrante|Complejidad lineal de una serie cifrante]]
 
 ***

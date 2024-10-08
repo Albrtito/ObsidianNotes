@@ -6,6 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
+sr-due: 2024-10-09
+sr-interval: 1
+sr-ease: 230
 ---
 # Postulados de Golomb
 
@@ -22,7 +25,14 @@ Para que una serie(k) pseudoaleatoria sea buena…
 2. La mitad de las rachas ha de tener longitud 1, la cuarta parte longitud 2, la octava long 3, etc.
    + Llamamos **racha** a la sucesión de dígitos iguales
 
-3. Para todo k, la autocorrelación 
+3. Para todo k, **la autocorrelación fuera de fase ha de ser** **constante**
+   + LLamamos autocorrleación a la función que realiza un desplazamineto de la secuencia hacia la izquierda y **compara los aciertos/fallos entre la sequencia sin desplazar y la secuencia desplazada**.
+     $$AC(k) = (A-F) / T$$
+     + A: Aciertos al mover la serie
+     + k: Movimientos que realizamos(desplazar una vez,dos veces,etc.)
+     + F: Fallos al mover la serie
+     + T: Longitud total de la serie (o del perodo si la serie es infinita)
+
 
 
 ***

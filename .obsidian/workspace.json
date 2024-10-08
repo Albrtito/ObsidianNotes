@@ -21,22 +21,12 @@
             }
           },
           {
-            "id": "4995d2c03b8478bc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Net_Resources_s3_3.pdf"
-              }
-            }
-          },
-          {
             "id": "c9217a91956f5227",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,12 +73,12 @@
             }
           },
           {
-            "id": "b040cbe1baaea156",
+            "id": "b12eac442a8e91d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728380472 - Postulados de Golomb.md",
+                "file": "02 - Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -205,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728380472 - Postulados de Golomb.md",
+                "file": "02 - Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728380472 - Postulados de Golomb.md",
+                "file": "02 - Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728380472 - Postulados de Golomb.md",
+                "file": "02 - Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -332,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728380472 - Postulados de Golomb.md"
+                "file": "02 - Atomic/1728381283 - Complejidad lineal de una serie cifrante.md"
               }
             }
           }
@@ -359,19 +349,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b040cbe1baaea156",
+  "active": "b12eac442a8e91d3",
   "lastOpenFiles": [
-    "02 - Atomic/1728380472 - Postulados de Golomb.md",
     "02 - Atomic/1728380111 - Generacion de series pseudoaleatorias.md",
+    "02 - Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
+    "02 - Atomic/1726067427 - Tipos de empresas.md",
+    "00.References/Net_Resources_s3_3.pdf",
+    "02 - Atomic/1728042156 - The three way handshake.md",
+    "02 - Atomic/1728380472 - Postulados de Golomb.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
+    "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
     "02 - Atomic/1727096148 - Cifrador de flujo.md",
     "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
     "02 - Atomic/1728307154 - Funciones hash.md",
     "02 - Atomic/1726754186 - Criptosistemas modernos.md",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
-    "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
     "02 - Atomic/1728317931 - Valor actual neto de una inversión.md",
-    "02 - Atomic/1726067427 - Tipos de empresas.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1727429612 - Definition - TLS.md",
     "02 - Atomic/1728038869 - Transport network layer.md",
@@ -379,8 +374,6 @@
     "02 - Atomic/20240529 - 162512 - First order, exact ODE.md",
     "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02 - Atomic/1728377926 - Timeout estimations TCP.md",
-    "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
-    "00.References/Net_Resources_s3_3.pdf",
     "00.References/Net_References_s3_2.pdf",
     "00.References/Net_References_s3_4.pdf",
     "02 - Atomic/1728313952 - Fuentes de financiación externas a corto plazo.md",
@@ -388,9 +381,6 @@
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "99 - Meta/0. Attachments/1728316833 - El valor del dinero en el tiempoj.png",
     "01.Areas/1.UC3M/Empresa.md",
-    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
-    "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
-    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "99 - Meta/0. Attachments/1728307154 - Funciones hashj.png",
     "99 - Meta/0. Attachments/1727270270 - Method - SIMPLEXj.png",
     "99 - Meta/0. Attachments/1727428451 - Definition - TCPj-1.png",
