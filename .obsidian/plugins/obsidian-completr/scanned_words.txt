@@ -2769,6 +2769,7 @@ desplazamineto
 desplazar
 desplazada
 distribuida
+dada
 modelos
 modelo
 maximizar
@@ -8226,6 +8227,7 @@ realizando
 rachas
 racha
 random
+register
 References
 Resoluci
 Rectas
@@ -11044,6 +11046,7 @@ sucesi
 secuencia
 sequencia
 sera
+shift
 interval
 importancia
 incorrecto
@@ -17868,6 +17871,7 @@ financiero
 flujos
 finding
 fallos
+feed
 objetivo
 obtener
 of

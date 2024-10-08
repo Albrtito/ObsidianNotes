@@ -16,5 +16,5 @@ sr-ease: 230
 > 
 
 + Una vez calculado L(número de celdas) se puede predecir la serie conociendo 2L celdas.
-#Duda: Queremos que esto sea alto, entonces pq el LFSR quiere que sea bajo? Lo hec
+#Duda: Queremos que esto sea alto, entonces pq el LFSR quiere que sea bajo? Lo he copiado mal?
 ***
