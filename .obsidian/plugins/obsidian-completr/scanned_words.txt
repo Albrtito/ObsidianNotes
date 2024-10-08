@@ -4640,6 +4640,7 @@ esenciales
 estimado
 encargo
 effort
+estudiaremos
 programaci
 primer
 paso
@@ -5635,6 +5636,8 @@ postulados
 pseudoaleatoria
 perodo
 periodo
+precedir
+predecir
 lineal
 la
 lo
@@ -8222,6 +8225,7 @@ reduces
 realizando
 rachas
 racha
+random
 References
 Resoluci
 Rectas
@@ -10086,6 +10090,7 @@ cualidades
 ceros
 cuarta
 compara
+conociendo
 sr
 se
 subproblemas
@@ -23768,6 +23773,8 @@ garantiza
 guardado
 genere
 gitos
+generators
+generadores
 Programaci
 Para
 Problema
@@ -24578,6 +24585,7 @@ Proyectos
 Plazo
 Payback
 Postulados
+PRNG
 Biblio
 BitsPerComponent
 BI

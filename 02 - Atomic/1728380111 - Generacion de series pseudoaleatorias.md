@@ -24,4 +24,8 @@ Al crear una serie de estas características definimos una serie de propiedades 
 + La serie estará distribuida uniformemente
 + La serie sera **impredecible**: esto se mide usando la [[1728381283 - Complejidad lineal de una serie cifrante|Complejidad lineal de una serie cifrante]]
 
+## PRNGs:
+![[1728381448 - PRNGs|PRNGs]]
+
+
 ***
