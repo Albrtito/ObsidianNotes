@@ -61,5 +61,18 @@ We can see a clear queue form when the bus has to send a packet, at this moment 
 ### Output port queuing:
 An output queue can be generated if there is **concentration of traffic in only one port.** 
 
-We could impose that each output port had the same speed as the bus, however this is not reasonable as 
+We could impose that each output port had the same speed as the bus, however this is not reasonable as we part from the assumption that the input and outpus peeds must be equal. 
++ **These are the queues we end up whith when talking about [[1727255580 - Loss and delay in Networks|Loss and delay in Networks]]**
+
+This queues will be the one **dropping packets**. This is called **buffer management**. 
+#### Buffer management:
+The buffer management occupies of selecting the packets that will be dropped. There are several ways of dropping packets, this ways try to follow the principle: 
+	**IF packets are dropped once the buffer is full, a lot of packets will be dropped and services like TCP will haveno other choice than to go to slow start..**
+
++ **tail drop:** Drops everything once full → Really bad for TCP
++ **priority:** Drops given some probability (small), only drop some packets **before the buffer is full**. 
++ **marking:** Mark packets to signal congestion 
+
+#### Packet scheduling:
+Decide wich packet so send next on linnk, there 
 ***
