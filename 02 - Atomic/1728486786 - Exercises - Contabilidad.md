@@ -10,6 +10,8 @@ cssclasses:
 # Exercises - Contabilidad
 
 ## Ejercicio 1:
+
+### Asientos
 1. 
 2. 
 3. 
@@ -22,6 +24,9 @@ cssclasses:
 10. Se rompe la furgo, reparación de la furgoneta → 430
 11. Encargan pedido de piezas a medida, se pide anticipo por ello → **4000**. Mitad en banco y mitad en efectivo.
 12. Campaña de publicidad → **1200 pendientes de pago**
+13. Se venden mercancias por **4000**, se entregan **pagarés**
+14. La comunidad europea concede **8000** por la construcción de una fábrica → **8000** a través de transferencia bancaria
+
 
 **Acreedor:** → Lo que vende no tiene q ver con lo que produces
 **Proovedor:** → Tiene que ver con lo que produces
@@ -40,23 +45,42 @@ cssclasses:
 **H:** → Haber
 + **Ingresos** 
 + Las cuentas de activos que suben
+### Tabla debe/haber:
 
-| D                                   | H                              |
-| ----------------------------------- | ------------------------------ |
-|                                     |                                |
-|                                     |                                |
-| 4. 5000: Clientes                   |                                |
-| 5. 200: Primas de seguros           | a Acreedor seguro: 200         |
-| 6. 2500:  Bancos                    | a cliente: 5000                |
-| 6. 2500: Clientes                   |                                |
-| 7. 420: Intereses de deudas         | a Bancos: 420                  |
-| 8. 600:Inversiones c/p              | a Bancos : 600                 |
-| 9.800: Bancos                       | a Ingresos x comisión: 800     |
-| 10.430: reparaciones y conservación | a acreedor x reparación : 430  |
-| 11. 2000: Bancos                    | a anticipos de clientes: 4000  |
-| 11. 2000: Caja                      |                                |
-| 12.1200:  Publicidad                | a Acreedores x servicios: 1200 |
-|                                     | a Ingresos x ventas            |
+| D                                                | H                              |
+| ------------------------------------------------ | ------------------------------ |
+|                                                  |                                |
+|                                                  |                                |
+| 4. 5000: Clientes                                |                                |
+| 5. 200: Primas de seguros                        | a Acreedor seguro: 200         |
+| 6. 2500:  Bancos                                 | a cliente: 5000                |
+| 6. 2500: Clientes                                |                                |
+| 7. 420: Intereses de deudas                      | a Bancos: 420                  |
+| 8. 600:Inversiones c/p                           | a Bancos : 600                 |
+| 9.800: Bancos                                    | a Ingresos x comisión: 800     |
+| 10.430: reparaciones y conservación              | a acreedor x reparación : 430  |
+| 11. 2000: Bancos                                 | a anticipos de clientes: 4000  |
+| 11. 2000: Caja                                   |                                |
+| 12.1200:  Publicidad                             | a Acreedores x servicios: 1200 |
+| 13. 4000: Clientes, efectos comerciales a cobrar | a Ingresos x ventas: 4000      |
+| 14. 8000: Bancos                                 | a sub de unión europea: 8000   |
 
+## Ejercicio 2: 
+(ejercicio 1 de la práctica 4 de contabilidad: Aulaglobal)
+
+**Balance:** Activo, pasivo y patrimonio neto
+**Cuanta de resultados:** Ingresos y gastos
+### Asientos:
+1. Compra de un ordenador → **500**
+2. Venta de productos → **1000**
+3. Gastos de nóminas → **300**
+### Tabla:
+
+| Debe                 | Haber                |
+| -------------------- | -------------------- |
+| 1. 500: Inm Mat(act) | a Caja: 500          |
+| 2. 1000: Clientes    | a Ing x ventas: 1000 |
+| 3. 300: Personal     | a Bancos             |
+| 4.                   |                      |
 
 ***
