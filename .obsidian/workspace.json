@@ -8,22 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29074c1ec3bda5c4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Net_Resources_s4_1.pdf"
-              }
-            }
-          },
-          {
             "id": "f287d2f72895c759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728390442 - IP Protocol.md",
+                "file": "02 - Atomic/1727121162 - Contabilidad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "345ef8843505954e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728390442 - IP Protocol.md",
+                "file": "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728390442 - IP Protocol.md",
+                "file": "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728390442 - IP Protocol.md",
+                "file": "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728390442 - IP Protocol.md"
+                "file": "02 - Atomic/1728486786 - Exercises - Contabilidad.md"
               }
             }
           }
@@ -291,14 +294,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f287d2f72895c759",
+  "active": "345ef8843505954e",
   "lastOpenFiles": [
+    "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
+    "02 - Atomic/1727121162 - Contabilidad.md",
+    "00.References/Net_Resources_s4_1.pdf",
+    "02 - Atomic/1728390442 - IP Protocol.md",
     "99 - Meta/2. Scripts/Dudas DiffCalc.md",
     "99 - Meta/2. Scripts/Dudas Calc.md",
     "99 - Meta/2. Scripts/Dudas Networks.md",
     "99 - Meta/2. Scripts/Dudas .md",
-    "02 - Atomic/1728390442 - IP Protocol.md",
-    "00.References/Net_Resources_s4_1.pdf",
     "02 - Atomic/1728481498 - - Untitled Suffix.md",
     "02 - Atomic/1728386212 - The network layer.md",
     "99 - Meta/2. Scripts/obtener_dudas.py",
@@ -331,8 +336,6 @@
     "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1726754186 - Criptosistemas modernos.md",
     "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
-    "02 - Atomic/1728381448 - PRNGs.md",
-    "02 - Atomic/1726507033 - Entropía y aleatoriedad.md",
     "99 - Meta/0. Attachments/1728316833 - El valor del dinero en el tiempoj.png",
     "99 - Meta/0. Attachments/1728307154 - Funciones hashj.png",
     "99 - Meta/0. Attachments/1727270270 - Method - SIMPLEXj.png",
