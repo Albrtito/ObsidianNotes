@@ -102,15 +102,41 @@ cssclasses:
 3. sd
 4.Pagamos a los deudores los **160** del año pasado
 ## Tabla:
+	
+| **Debe**                | **Haber**                   |
+| ----------------------- | --------------------------- |
+| 1. 160: Bancos          | a Ing x vnts 200            |
+| 1. 40:Clientes          |                             |
+| 2.315: Bancos           | a Clientes 315              |
+| 3.                      | a bancos 72                 |
+|                         | a Deudores 48               |
+| 4. 160: Deudores        | a Bancos 160                |
+| 5. 40 : Deudas AAPP     | a Bancos 40                 |
+| 6. 10:  Dot amort       | a amortización Acumulada 10 |
+| 7. 10: Dot amortización | a amortización acumulada 10 |
+| 8. 30: Prestamos        | a Bancos 30                 |
+| 9. 2.25: Intereses      | a Bancos 2.25               |
 
-| **Debe**         | **Haber**        |
-| ---------------- | ---------------- |
-| 1. 160: Bancos   | a Ing x vnts 200 |
-| 1. 40:Clientes   |                  |
-| 2.315: Bancos    | a Clientes 315   |
-| 3.               | a bancos 72      |
-|                  | a Deudores 48    |
-| 4. 160: Deudores | a Bancos 160     |
-| 5.               | a Bancos 40      |
+### Cuentas: 
 
+| BAN | COS  |
+| :-: | :--: |
+| 50  |  72  |
+| 160 | 160  |
+| 315 |  40  |
+|     |  30  |
+|     | 2.25 |
++ **Calculo del impuesto de sociedades:**
+	$$
+	BAIT = 200 - 120 - 20 = 60
+	$$
+	+ 200: Ingresos 
+	+ 120: gastos
+	+ 20: Amortizaciones (que son los tmb gastos)
+	$$BAT = 60 - 2.25 = 57,75$$
+	+ Quitamos los intereses de 2.25
+	$$BN = 37.75 - 57.75\cdot 0.25 = 43.31$$
+	
+
+	
 ***
