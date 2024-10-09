@@ -1908,6 +1908,7 @@ Call
 Compiler
 Compiles
 Creation
+Calc
 de
 due
 dar
@@ -2908,6 +2909,8 @@ deactivated
 descriptor
 dynamic
 dropping
+dudas
+domain
 modelos
 modelo
 maximizar
@@ -3875,6 +3878,7 @@ monoprocess
 move
 moment
 marking
+maximum
 en
 ease
 es
@@ -4883,6 +4887,7 @@ exiting
 extension
 executed
 endpoints
+entiendo
 programaci
 primer
 paso
@@ -14074,6 +14079,7 @@ hwY
 heap
 high
 haveno
+hopes
 Es
 Este
 Ejemplos
@@ -15686,6 +15692,7 @@ vJCC
 voluntary
 virtual
 versions
+vectorial
 no
 nuestras
 ndar
@@ -18048,6 +18055,7 @@ Defined
 Dynamic
 Drops
 Decide
+Defines
 funci
 fibonacci
 fica
@@ -18858,6 +18866,7 @@ frames
 fabric
 fabrics
 fair
+free
 objetivo
 obtener
 of
