@@ -2,7 +2,7 @@ import os
 import re
 
 def buscar_dudas(etiqueta):
-    carpeta = "02 - Atomic"  # Carpeta donde buscar
+    carpeta = "../02 - Atomic"  # Carpeta donde buscar
     dudas_encontradas = []
 
     # Iterar sobre todos los archivos de la carpeta

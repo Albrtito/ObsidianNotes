@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5041847229004,
-    "collapsed": true
+    "width": 489.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -304,8 +303,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "51395969ae187be0",
+  "active": "b89f836cb1d8a8cd",
   "lastOpenFiles": [
+    "99 - Meta/2. Scripts/obtener_dudas.py",
+    "99 - Meta/2. Scripts/dudas.py",
+    "02 - Atomic/20240411 - 132633 - Intro to processes.md",
+    "02 - Atomic/1728386212 - The network layer.md",
+    "Dudas Networks.md",
     "dudas.py",
     "1728386212 - The network layerj.py",
     "1728386212 - The network layerj-1.py",
@@ -313,14 +317,10 @@
     "00.References/1728386212 - The network layerj.py",
     "1728386212 - The network layerj-1.py",
     "1728386212 - The network layerj.py",
-    "99 - Meta/Scripts/1728386212 - The network layerj.py",
-    "99 - Meta/Scripts",
-    "99 - Meta/2.",
+    "99 - Meta/2. Scripts/1728386212 - The network layerj.py",
+    "99 - Meta/2. Scripts",
     "02 - Atomic/1728390442 - IP Protocol.md",
-    "00.References/Net_Resources_s4_1.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-10-08 at 2.29.28 PM.png",
-    "02 - Atomic/1728386212 - The network layer.md",
-    "02 - Atomic/20240411 - 132633 - Intro to processes.md",
     "99 - Meta/0. Attachments/1728386212 - The network layerj-2.png",
     "99 - Meta/0. Attachments/1728386212 - The network layerj-1.png",
     "99 - Meta/0. Attachments/1728386212 - The network layerj.png",
@@ -345,7 +345,6 @@
     "02 - Atomic/1728042156 - The three way handshake.md",
     "02 - Atomic/1728380472 - Postulados de Golomb.md",
     "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
-    "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
     "99 - Meta/0. Attachments/1728316833 - El valor del dinero en el tiempoj.png",
     "99 - Meta/0. Attachments/1728307154 - Funciones hashj.png",
     "99 - Meta/0. Attachments/1727270270 - Method - SIMPLEXj.png",
