@@ -44,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728390442 - IP Protocol.md",
+                "file": "02 - Atomic/1728386212 - The network layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728390442 - IP Protocol.md",
+                "file": "02 - Atomic/1728386212 - The network layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728390442 - IP Protocol.md",
+                "file": "02 - Atomic/1728386212 - The network layer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728390442 - IP Protocol.md"
+                "file": "02 - Atomic/1728386212 - The network layer.md"
               }
             }
           }
@@ -305,11 +304,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f287d2f72895c759",
+  "active": "51395969ae187be0",
   "lastOpenFiles": [
+    "99 - Meta/Scripts/1728386212 - The network layerj.py",
+    "99 - Meta/Scripts",
+    "99 - Meta/2.",
+    "02 - Atomic/1728390442 - IP Protocol.md",
     "00.References/Net_Resources_s4_1.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-10-08 at 2.29.28 PM.png",
-    "02 - Atomic/1728390442 - IP Protocol.md",
     "02 - Atomic/1728386212 - The network layer.md",
     "02 - Atomic/20240411 - 132633 - Intro to processes.md",
     "99 - Meta/0. Attachments/1728386212 - The network layerj-2.png",
@@ -350,8 +352,6 @@
     "00.References/Net_References_s2_1.pdf",
     "00.References/S3.4 presentation.pdf",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
-    "01.Areas/1.UC3M/Apuntes javi",
-    "00.References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",
