@@ -10652,6 +10652,7 @@ capability
 concentration
 choice
 ciframos
+contador
 sr
 se
 subproblemas
