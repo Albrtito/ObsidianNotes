@@ -74,13 +74,43 @@ cssclasses:
 1. Compra de un ordenador → **500**
 2. Venta de productos → **1000**
 3. Gastos de nóminas → **300**
+4. Ampliación de capital, aportación en metálico encuenta coriente → **5000**
+5. Prestamo concedido
+	1. devolución en 5 años
+	2. 5% de intereses cada año: **500 euros se han de pagar cada fin de año**
 ### Tabla:
 
-| Debe                 | Haber                |
-| -------------------- | -------------------- |
-| 1. 500: Inm Mat(act) | a Caja: 500          |
-| 2. 1000: Clientes    | a Ing x ventas: 1000 |
-| 3. 300: Personal     | a Bancos             |
-| 4.                   |                      |
+| Debe                       | Haber                  |
+| -------------------------- | ---------------------- |
+| 1. 500: Inm Mat(act)       | a Caja: 500            |
+| 2. 1000: Clientes          | a Ing x ventas: 1000   |
+| 3. 300: Personal           | a Bancos               |
+| 4.5000: Caja               | a Fondos propios: 5000 |
+| 5.10000: Bancos            | a deuda l/p: 10000     |
+| 5. 500: Gastos financieros | a Bancos: 500          |
+
+## Ejercicio 3: 
+(ejercicio 1 de la práctica 4 de contabilidad en Aulaglobal)
+
+
+> [!NOTE] Enunciado: 
+> Partimos de unos datos y una cuenta realizada en 2017. Debemos de crear asientos y una cuenta para 2018. 
+
+## Asientos
+
+2. Se cobra el 70% del dinero pendiente de cobro → 70% de los 
+3. sd
+4.Pagamos a los deudores los **160** del año pasado
+## Tabla:
+
+| **Debe**         | **Haber**        |
+| ---------------- | ---------------- |
+| 1. 160: Bancos   | a Ing x vnts 200 |
+| 1. 40:Clientes   |                  |
+| 2.315: Bancos    | a Clientes 315   |
+| 3.               | a bancos 72      |
+|                  | a Deudores 48    |
+| 4. 160: Deudores | a Bancos 160     |
+| 5.               | a Bancos 40      |
 
 ***
