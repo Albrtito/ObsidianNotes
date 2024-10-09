@@ -119,13 +119,19 @@ cssclasses:
 
 ### Cuentas: 
 
-| BAN | COS  |
-| :-: | :--: |
-| 50  |  72  |
-| 160 | 160  |
-| 315 |  40  |
-|     |  30  |
-|     | 2.25 |
+|  BAN  |  COS   |
+| :---: | :----: |
+|  50   |   72   |
+|  160  |  160   |
+|  315  |   40   |
+|       |   30   |
+|       |  2.25  |
+|       | 14.44  |
+|       |        |
+| TOTAL | TOTAL  |
+|  525  | 318.69 |
++ El total en la cuenta de **BANCOS** será de 206.31
+
 + **Calculo del impuesto de sociedades:**
 	$$
 	BAIT = 200 - 120 - 20 = 60
@@ -136,7 +142,56 @@ cssclasses:
 	$$BAT = 60 - 2.25 = 57,75$$
 	+ Quitamos los intereses de 2.25
 	$$BN = 37.75 - 57.75\cdot 0.25 = 43.31$$
+	Añadimos la **diferencia entre el BAT y el BN** como ipuesto de sociedades: 14.44
 	
 
-	
+
+| CLIEN | TES |
+| ----- | --- |
+| 450   | 315 |
+| 49    |     |
+|       |     |
+
+
+| ACT       | IVO    |
+| --------- | ------ |
+| Edif:     | 10     |
+| Maq:      | 30     |
+| Clientes: | 175    |
+| Bancos:   | 206.31 |
+|           |        |
+|           | TOTAL: |
+|           | 521.31 |
+
+| PAS        | IVO    |
+| ---------- | ------ |
+| Rtd:       | 43.31  |
+| Reservas:  | 50     |
+| Kg:        | 350    |
+| Prestamos: | 30     |
+| Deudas:    | 48     |
+|            |        |
+|            | TOTAl: |
+|            | 521.31 |
+
++ **Comprobamos que está bien pq el activo = pasivo + patrimonio neto**
+
+## Ejercicio 4: 
+(Ejercicio 3 de los ejercicios en aula global)
+
+
+> [!NOTE] Enunciado: 
+> Realizar asientos: 
+> 
+
+1. Comprar terrenos: 
+
+
+### Tabla: 
+
+| DEBE | HABER: |
+| ---- | ------ |
+|      |        |
+
+
 ***
