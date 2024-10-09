@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727121162 - Contabilidad.md",
+                "file": "02 - Atomic/1728309909 - MAC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
+                "file": "02 - Atomic/1728307154 - Funciones hash.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -110,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5041847229004
+    "width": 489.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -142,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +175,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,16 +264,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Atomic/1728486786 - Exercises - Contabilidad.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 480
+    "width": 480,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,10 +290,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "345ef8843505954e",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
-    "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
+    "02 - Atomic/1728309909 - MAC.md",
     "02 - Atomic/1727121162 - Contabilidad.md",
+    "02 - Atomic/1728307154 - Funciones hash.md",
+    "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
+    "99 - Meta/2. Scripts/1728486786 - Exercises - Contabilidadj.py",
     "00.References/Net_Resources_s4_1.pdf",
     "02 - Atomic/1728390442 - IP Protocol.md",
     "99 - Meta/2. Scripts/Dudas DiffCalc.md",
@@ -316,7 +315,6 @@
     "1728386212 - The network layerj.py",
     "00.References/1728386212 - The network layerj.py",
     "1728386212 - The network layerj-1.py",
-    "1728386212 - The network layerj.py",
     "99 - Meta/0. Attachments/Screenshot 2024-10-08 at 2.29.28 PM.png",
     "99 - Meta/0. Attachments/1728386212 - The network layerj-2.png",
     "99 - Meta/0. Attachments/1728386212 - The network layerj-1.png",
@@ -334,8 +332,6 @@
     "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02 - Atomic/1728380111 - Generacion de series pseudoaleatorias.md",
     "01.Areas/1.UC3M/Cripto.md",
-    "02 - Atomic/1726754186 - Criptosistemas modernos.md",
-    "02 - Atomic/1726234693 - Intro a la seguridad informática.md",
     "99 - Meta/0. Attachments/1728316833 - El valor del dinero en el tiempoj.png",
     "99 - Meta/0. Attachments/1728307154 - Funciones hashj.png",
     "99 - Meta/0. Attachments/1727270270 - Method - SIMPLEXj.png",
