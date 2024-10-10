@@ -4891,6 +4891,7 @@ executed
 endpoints
 entiendo
 encripta
+evaluaci
 programaci
 primer
 paso
@@ -25956,6 +25957,7 @@ PCBs
 Pending
 PID
 Prefe
+Prueba
 Biblio
 BitsPerComponent
 BI
@@ -28299,6 +28301,7 @@ Modularity
 Multiprogramming
 Mark
 Modos
+Modelado
 Zivkovic
 Zo
 Zi
@@ -32687,6 +32690,7 @@ OiZ
 OmK
 Outside
 Open
+Obtenemos
 ximo
 xrL
 xFQ

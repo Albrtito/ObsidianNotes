@@ -36,7 +36,16 @@ xi\geq 0
 \end{gather}
 $$
 ### Resolución gráfica:
+1. **Obtenemos la región factible**
 ![[1728047794 - Ejemplos SIMPLEXj.png]]
 
+2. **Obtenemmos el valor de -x-y para un z arbitrario y comprobamos:**
+	1. En este caso hemos comprobado con z = -10. 
+
 ![[1728047794 - Ejemplos SIMPLEXj-1.png]]
+3. **Vemos que la solución es el punto: (10,0)**
+   
+   Entonces nuestra solución que minimiza las horas  será:
+   $x_1 = 10$ , $x_2 = 0$ 
 ***
+
