@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md",
+                "file": "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md",
+                "file": "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md",
+                "file": "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md"
+                "file": "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md"
               }
             }
           }
@@ -309,12 +308,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cb92ddb4cf8a7938",
+  "active": "f287d2f72895c759",
   "lastOpenFiles": [
-    "02 - Atomic/1728494670 - Hola.md",
-    "02 - Atomic/1728493764 - Cifrado autenticado.md",
-    "02 - Atomic/1728309909 - MAC.md",
     "01.Areas/1.UC3M/Cripto.md",
+    "02 - Atomic/1728493764 - Cifrado autenticado.md",
+    "02 - Atomic/1728494670 - Hola.md",
+    "02 - Atomic/1728309909 - MAC.md",
     "02 - Atomic/1728307154 - Funciones hash.md",
     "02 - Atomic/1727121162 - Contabilidad.md",
     "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
