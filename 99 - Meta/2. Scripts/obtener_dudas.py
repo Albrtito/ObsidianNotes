@@ -5,6 +5,23 @@ import yaml
 # Variables globales:
 carpeta_atomic = "../../02 - Atomic"
 
+def has_yaml_frontmatter(file_path):
+    with open(file_path, "r", encoding="utf-8") as f:
+        # Read the first line to check for opening '---'
+        first_line = f.readline().strip()
+        
+        if first_line != "---":
+            # If the first line is not '---', it doesn't have a frontmatter
+            return False
+        
+        # Now, look for the closing '---' in subsequent lines
+        for line in f:
+            if line.strip() == "---":
+                return True
+    
+# If no closing '---' is found, return False
+    return False
+
 
 # Ahora mismo esta función no esta activa
 def obtener_todas_las_etiquetas():
@@ -42,8 +59,11 @@ def buscar_dudas(etiqueta):
         if archivo.endswith(".md"):
             with open(os.path.join(carpeta, archivo), "r", encoding="utf-8") as f:
                 print(f"Buscando dudas en {archivo}")
+                # Se salta el archivo si no tiene YAML frontmatter pq no tiene sentido buscar etiquetas
+                if not has_yaml_frontmatter(os.path.join(carpeta, archivo)):
+                    continue
                 front_matter = next(yaml.load_all(f, Loader=yaml.FullLoader))
-                print(f"Dudas encontradas: {front_matter}")
+                print(front_matter)
                 if front_matter:
                     yaml_content = front_matter.group(1)
                     try:
