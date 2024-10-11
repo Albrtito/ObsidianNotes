@@ -1,8 +1,6 @@
 import os
 import re
-from collections import defaultdict
-
-import yaml
+import yaml 
 
 # Variables globales:
 carpeta_atomic = "../../02 - Atomic"
