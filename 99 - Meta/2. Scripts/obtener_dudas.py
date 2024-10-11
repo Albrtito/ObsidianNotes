@@ -1,5 +1,11 @@
 import os
 import re
+from collections import defaultdict
+
+import yaml
+
+# Variables globales:
+carpeta_atomic = "../../02 - Atomic"
 
 
 # Ahora mismo esta función no esta activa
@@ -27,22 +33,33 @@ def obtener_todas_las_etiquetas():
 
 
 def buscar_dudas(etiqueta):
-    carpeta = "../../02 - Atomic"
+    """
+    Buscar todas las dudas con dudas de la etiqueta proporcionada.
+    """
+    carpeta = carpeta_atomic
     dudas_encontradas = []
 
-    # Iterar sobre todos los archivos de la carpeta
+    # Iterar sobre todos los archivos markdown de la carpeta
     for archivo in os.listdir(carpeta):
         if archivo.endswith(".md"):
             with open(os.path.join(carpeta, archivo), "r", encoding="utf-8") as f:
-                contenido = f.readlines()
+                contenido = f.read()
 
-                # Buscar la etiqueta proporcionada
-                if any(etiqueta in linea for linea in contenido):
-                    for linea in contenido:
-                        # Buscar las líneas que contengan la etiqueta #Duda
-                        if "#Duda" in linea:
-                            duda = linea.split("#Duda")[-1].strip()  # Extraer la duda
-                            dudas_encontradas.append((archivo, duda))
+                yaml_match = re.match(r"^---\n(.*?)\n---", contenido, re.DOTALL)
+                if yaml_match:
+                    yaml_content = yaml_match.group(1)
+                    try:
+                        front_matter = yaml.safe_load(yaml_content)
+                        if front_matter and "tags" in front_matter:
+                            for tag in front_matter["tags"]:
+                                if tag == etiqueta:
+                                    for linea in contenido:
+                                    # Buscar las líneas que contengan la etiqueta #Duda
+                                        if "#Duda" in linea:
+                                            duda = linea.split("#Duda")[-1].strip()  # Extraer la duda
+                                            dudas_encontradas.append((archivo, duda))
+                    except yaml.YAMLError:
+                        print(f"Error parsing YAML in {archivo}")
 
     return dudas_encontradas
 
