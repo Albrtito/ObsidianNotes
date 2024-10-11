@@ -42,10 +42,9 @@ def buscar_dudas(etiqueta):
         if archivo.endswith(".md"):
             with open(os.path.join(carpeta, archivo), "r", encoding="utf-8") as f:
                 contenido = f.read()
-
-                yaml_match = re.match(r"^---\n(.*?)\n---", contenido, re.DOTALL)
-                if yaml_match:
-                    yaml_content = yaml_match.group(1)
+                front_matter = next(yaml.load_all(f, Loader=yaml.FullLoader))
+                if front_matter:
+                    yaml_content = front_matter.group(1)
                     try:
                         front_matter = yaml.safe_load(yaml_content)
                         if front_matter and "tags" in front_matter:
