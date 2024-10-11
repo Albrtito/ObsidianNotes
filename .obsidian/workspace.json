@@ -8,42 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f287d2f72895c759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "345ef8843505954e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1728309909 - MAC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "cb92ddb4cf8a7938",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -122,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5041847229004,
-    "collapsed": true
+    "width": 304
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -289,8 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480,
-    "collapsed": true
+    "width": 480
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,14 +276,14 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-spaced-repetition:Review flashcards": true,
-      "templater-obsidian:Templater": true,
-      "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "f287d2f72895c759",
+  "active": "345ef8843505954e",
   "lastOpenFiles": [
     "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
