@@ -41,8 +41,9 @@ def buscar_dudas(etiqueta):
     for archivo in os.listdir(carpeta):
         if archivo.endswith(".md"):
             with open(os.path.join(carpeta, archivo), "r", encoding="utf-8") as f:
-                contenido = f.read()
+                print(f"Buscando dudas en {archivo}")
                 front_matter = next(yaml.load_all(f, Loader=yaml.FullLoader))
+                print(f"Dudas encontradas: {front_matter}")
                 if front_matter:
                     yaml_content = front_matter.group(1)
                     try:
