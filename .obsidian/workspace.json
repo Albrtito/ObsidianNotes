@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f287d2f72895c759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "345ef8843505954e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728309909 - MAC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb92ddb4cf8a7938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md",
+                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -155,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
+                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
+                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
+                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md"
+                "file": "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md"
               }
             }
           }
@@ -308,21 +282,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f287d2f72895c759",
+  "active": "345ef8843505954e",
   "lastOpenFiles": [
+    "01.Areas/1.UC3M/Cripto.md",
+    "02 - Atomic/1728493764 - Cifrado autenticado.md",
+    "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
+    "02 - Atomic/1728309909 - MAC.md",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj-1.txt",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.txt",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.",
     "99 - Meta/2. Scripts/test_yaml.py",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj-1.py",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.py",
-    "01.Areas/1.UC3M/Cripto.md",
-    "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
     "99 - Meta/0. Attachments/1728047794 - Ejemplos SIMPLEXj-1.png",
     "99 - Meta/0. Attachments/1728047794 - Ejemplos SIMPLEXj.png",
-    "02 - Atomic/1728493764 - Cifrado autenticado.md",
     "02 - Atomic/1728494670 - Hola.md",
-    "02 - Atomic/1728309909 - MAC.md",
     "02 - Atomic/1728307154 - Funciones hash.md",
     "02 - Atomic/1727121162 - Contabilidad.md",
     "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
@@ -339,7 +313,6 @@
     "99 - Meta/2. Scripts/dudas.py",
     "02 - Atomic/20240411 - 132633 - Intro to processes.md",
     "Dudas Networks.md",
-    "dudas.py",
     "99 - Meta/0. Attachments/Screenshot 2024-10-08 at 2.29.28 PM.png",
     "99 - Meta/0. Attachments/1728386212 - The network layerj-2.png",
     "99 - Meta/0. Attachments/1728386212 - The network layerj-1.png",
