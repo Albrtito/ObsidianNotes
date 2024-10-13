@@ -52,7 +52,7 @@ Como **mínimo:** Contraseña
 + Se utiliza una única clave → Se sigue lo dicho en el cifrado simétrico
 
 **Cifrados Asimétricos:**
-+ Se guarda la clave pública y privada. Solo se puede acceder a la privada con una contraseña.
++ Se guarda la clave pública y privada. Solo se puede acceder a la privada con una contraseña.  
 
 ## Implementación:
 **Librerías:**
