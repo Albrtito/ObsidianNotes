@@ -5194,6 +5194,7 @@ especificar
 eficiencia
 evitando
 efectiva
+entero
 programaci
 primer
 paso
@@ -7195,6 +7196,7 @@ labores
 lograr
 lulas
 localizaci
+logaritmo
 tags
 tres
 todos

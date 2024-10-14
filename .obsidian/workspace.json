@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0db06e2a402db43c",
+        "id": "02739d78b66b3be7",
         "type": "tabs",
-        "dimension": 20.65972222222222,
+        "dimension": 16.070620190131283,
         "children": [
           {
-            "id": "c16e4d4557ca842e",
+            "id": "12758e327308ec42",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -21,7 +21,7 @@
       {
         "id": "c0ed840f92fc3792",
         "type": "tabs",
-        "dimension": 79.34027777777779,
+        "dimension": 83.92937980986872,
         "children": [
           {
             "id": "345ef8843505954e",
@@ -30,19 +30,6 @@
               "type": "pdf",
               "state": {
                 "file": "00.References/Cripto_References_Asimetrico.pdf"
-              }
-            }
-          },
-          {
-            "id": "2e27f76d0932e01e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               }
             }
           },
@@ -204,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+                "file": "02 - Atomic/1728919808 - Logaritmos discretos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+                "file": "02 - Atomic/1728919808 - Logaritmos discretos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+                "file": "02 - Atomic/1728919808 - Logaritmos discretos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -331,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md"
+                "file": "02 - Atomic/1728919808 - Logaritmos discretos.md"
               }
             }
           }
@@ -359,12 +346,13 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "2e27f76d0932e01e",
+  "active": "12758e327308ec42",
   "lastOpenFiles": [
     "02 - Atomic/1728919808 - Logaritmos discretos.md",
+    "00.References/Cripto_References_Asimetrico.pdf",
+    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
     "02 - Atomic/1728912947 - Cifrado asimetrico.md",
-    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
     "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1725910842 - Definition - Empresa.md",
@@ -373,7 +361,6 @@
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1728917414 - Orden gaussiano.md",
-    "00.References/Cripto_References_Asimetrico.pdf",
     "02 - Atomic/1728916836 - Restos potenciales.md",
     "02 - Atomic/1727096148 - Cifrador de flujo.md",
     "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
@@ -388,7 +375,6 @@
     "02 - Atomic/1728309728 - Autenticacion de mensajes.md",
     "02 - Atomic/1728027800 - Network congestion.md",
     "02 - Atomic/1728377926 - Timeout estimations TCP.md",
-    "99 - Meta/2. Scripts/1725895664 - Naturaleza y de la empresa.md",
     "99 - Meta/2. Scripts/bat",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj-1.txt",
