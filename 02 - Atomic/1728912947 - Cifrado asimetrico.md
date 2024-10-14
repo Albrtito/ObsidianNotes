@@ -38,11 +38,20 @@ cssclasses:
 
 ## Modelo de los criptosistemas asimétricos:
 
+### Contexto histórico:
+Antes de idear el modelo de criptosistema asimétrico se creía que **sería imposible pasar claves de forma seguro por un canal no seguro**. El concepto que se explica a continuación fue ideado por la inteligencia británica aunq se conoce por un paper publicado algo después: 
+> New Directions in Cryptography, Martin E. Hellman, Diffe. Noviembre 1976
++ Lo de los ingleses se supo más tarde pq era confidencial
+### Idea fundamental:
+
 > [!BUG]  Problema:
 > El problema que nos encontramos en el cifrado simétrico es que **el intercambio de claves se ha de hacer por un medio seguro**.
 
 > [!check] Solución: 
-> Contents
+> La solución está en que cada cliente de un servicio de cifrado(que es tanto receptor como emisor) posea un **par de claves** relacionadas entre ellas de forma que conociendo una el cliente sabe obtener la otra pero para cualquiera que no sea el obtenerla será computacionalmente imposible.
++ Con esta idea, el cliente compartirá una de las dos claves a todo el mundo, cualquiera que quisiese mandarle información habrá de hacerlo cifrándola con esa clave (pública) y solo podrá ser descifrada con la segunda clave (privada)
+
+
  
 
 Cada cliente tendrá un par de claves, una **privada y otr pública.** La clave privada será la inversa de la pública. 
