@@ -2012,6 +2012,7 @@ CWL
 CgDz
 CmI
 CaSO
+CONJUNTO
 de
 due
 dar
@@ -3055,6 +3056,9 @@ dYAI
 dRiL
 drr
 dKwjC
+divisor
+denominado
+discretos
 modelos
 modelo
 maximizar
@@ -5156,6 +5160,8 @@ eye
 eHc
 esz
 exponer
+entoces
+expuesta
 programaci
 primer
 paso
@@ -6248,6 +6254,7 @@ pzra
 potencias
 patron
 predecible
+primitiva
 lineal
 la
 lo
@@ -9132,6 +9139,7 @@ rXK
 rVce
 rRYaU
 repetir
+raiz
 References
 Resoluci
 Rectas
@@ -9975,6 +9983,7 @@ RRh
 RQA
 Recordamos
 Restos
+RESTOS
 cssclasses
 correcto
 correcta
@@ -11213,6 +11222,7 @@ ccB
 cGvk
 caJSea
 cWt
+campaz
 sr
 se
 subproblemas
@@ -12270,6 +12280,7 @@ sRjV
 snS
 sHt
 slGp
+seguir
 interval
 importancia
 incorrecto
@@ -24828,6 +24839,7 @@ HMLHs
 HJgB
 Hng
 HDj
+Hablamso
 TODOS
 The
 Trabajo
@@ -25663,6 +25675,7 @@ TNw
 TCF
 THIS
 THEORY
+TODO
 grafo
 guardan
 global
@@ -26499,6 +26512,7 @@ ghc
 gJzjI
 graphs
 grap
+gausiano
 Programaci
 Para
 Problema
@@ -31381,6 +31395,7 @@ Leading
 LFQ
 LaC
 LFi
+Logaritmos
 bottom
 base
 brik
@@ -34564,6 +34579,7 @@ OZtBw
 OMeze
 Oqg
 OFPKB
+ORDENES
 ximo
 xrL
 xFQ
@@ -37623,6 +37639,7 @@ GLd
 GillSansMT
 GuePO
 GYcZ
+GAUSIANOS
 Nota
 Novo
 Nacional

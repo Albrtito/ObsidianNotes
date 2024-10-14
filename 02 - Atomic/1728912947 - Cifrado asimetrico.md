@@ -31,4 +31,7 @@ $$ a^w = 1 \mod n$$
 $$w = \text{orden}(a,n)$$
 
 + Si el gausiano de un número a es igual a $\phi(n)$ entonces se le llama **generador o raiz primitiva** debido a que es campaz de **generar TODO EL CONJUNTO DE RESTOS de n**. 
+
+### Logaritmos discretos:
+…
 ***
