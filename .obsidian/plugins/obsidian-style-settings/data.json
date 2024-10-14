@@ -23,5 +23,7 @@
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": true,
   "anuppuccin-theme-settings@@anp-toggle-metadata": false,
-  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout"
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
+  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-sapphire",
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true
 }

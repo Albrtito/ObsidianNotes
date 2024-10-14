@@ -20,25 +20,12 @@
                 }
               },
               {
-                "id": "8d567de2ec5c6322",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1728919808 - Logaritmos discretos.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "5bf0c8ec4457c115",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
+                    "file": "01.Areas/1.UC3M/Empresa.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -51,22 +38,15 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
+                    "file": "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "1f6cac34f1f44aa4",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
               }
             ],
+            "currentTab": 1,
             "stacked": true
           }
         ],
@@ -176,7 +156,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "00.References/Cripto_References_Asimetrico.pdf",
+                    "file": "01.Areas/1.UC3M/Empresa.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -193,14 +173,13 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "00.References/Cripto_References_Asimetrico.pdf",
+                    "file": "01.Areas/1.UC3M/Empresa.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
             "id": "f97aefa6b972e655",
@@ -212,7 +191,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "00.References/Cripto_References_Asimetrico.pdf",
+                    "file": "01.Areas/1.UC3M/Empresa.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -275,17 +254,17 @@
                           }
                         }
                       ],
-                      "collapse-display": false,
+                      "collapse-display": true,
                       "showArrow": false,
                       "textFadeMultiplier": 0,
                       "nodeSizeMultiplier": 2.79537653688525,
                       "lineSizeMultiplier": 1,
                       "collapse-forces": false,
-                      "centerStrength": 0.338050717213115,
+                      "centerStrength": 0,
                       "repelStrength": 18.5975922131148,
                       "linkStrength": 0.76664002131628,
-                      "linkDistance": 211,
-                      "scale": 0.06378675351187407,
+                      "linkDistance": 304,
+                      "scale": 0.043028929965921996,
                       "close": true
                     }
                   }
@@ -303,7 +282,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "00.References/Cripto_References_Asimetrico.pdf"
+                    "file": "01.Areas/1.UC3M/Empresa.md"
                   }
                 }
               }
@@ -311,8 +290,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 480,
-        "collapsed": true
+        "width": 480
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -331,8 +309,8 @@
           "bmo-chatbot:BMO Chatbot": false
         }
       },
-      "active": "345ef8843505954e",
-      "mtime": "2024-10-14T21:08:30+02:00"
+      "active": "36d1a43796975b90",
+      "mtime": "2024-10-14T22:33:31+02:00"
     }
   },
   "active": "Main"

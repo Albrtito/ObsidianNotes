@@ -3,9 +3,12 @@ aliases:
   - La funcion de produccion de la empresa
 tags:
   - Empresa
-  - incomplete
+  - review
 References: 
-cssclasses:
+cssclasses: 
+sr-due: 2024-10-15
+sr-interval: 1
+sr-ease: 224
 ---
 # La funcion de produccion de la empresa
 
@@ -41,27 +44,15 @@ Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde e
 
 Según las respuestas a estas pregutnas se elegirá un [[1728935315 - Tipos de sistemas productivos de la empresa|Tipos de sistemas productivos]].
 
-
-
-### Just in time: 
-Se produce “justo a tiempo”, bajo demanda. Se produce intentando producir con la máxima calidad evitando cualquier coste innecesario (como el almacenaje del producto). 
-
-**Objetivos:**
-+ 0 averías
-+ 0 defectos
-+ 0 papel
-+ 0 retrasos o plazos
-
-**Características:**
-+ Alta relación con los proovedores
-+ Mantenimiento de maquinaria 
-+ Sistema kanban 
-+ Se trabaja en **células de trabajo**
-
-## Otras decisiones:
+### Otras decisiones:
+Además del tipo de sistema productivo que se utilizará hemos de tener en cuenta:
 
 **Capacidad en planta:** La cantaidad máxima de bienes y servicios que se puede obtener en una unidad productivo.
 + Se ha de tener en cuenta la capacidad **efectiva**→ La capacidad en condiciones normales. 
++ Unida a un tiempo específico
 
-**Localización de la planta:** La localización de la planta varía en que costes se quieren disminuir
+
+**Localización de la planta:** La localización de la planta varía en que costes se quieren disminuir: 
++ Se puede estar cerca de los inputs (p.e: materiales)
++ Cerca de los outputs (p.e: distribución)
 ***

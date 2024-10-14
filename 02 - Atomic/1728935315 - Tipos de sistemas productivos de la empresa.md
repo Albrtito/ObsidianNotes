@@ -3,10 +3,13 @@ aliases:
   - Tipos de sistemas productivos de la empresa
   - Tipos de sistemas productivos
 tags:
-  - incomplete
   - Empresa
+  - review
 References: 
 cssclasses:
+sr-due: 2024-10-15
+sr-interval: 1
+sr-ease: 223
 ---
 # Tipos de sistemas productivos de la empresa
 
