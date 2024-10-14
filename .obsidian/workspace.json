@@ -4,24 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "02739d78b66b3be7",
-        "type": "tabs",
-        "dimension": 14.450867052023122,
-        "children": [
-          {
-            "id": "12758e327308ec42",
-            "type": "leaf",
-            "state": {
-              "type": "chatbot-view",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "c0ed840f92fc3792",
         "type": "tabs",
-        "dimension": 85.54913294797689,
         "children": [
           {
             "id": "345ef8843505954e",
@@ -34,25 +18,12 @@
             }
           },
           {
-            "id": "8d567de2ec5c6322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1728919808 - Logaritmos discretos.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5bf0c8ec4457c115",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,14 +41,6 @@
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "1f6cac34f1f44aa4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -191,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728919808 - Logaritmos discretos.md",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728919808 - Logaritmos discretos.md",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728919808 - Logaritmos discretos.md",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -318,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728919808 - Logaritmos discretos.md"
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md"
               }
             }
           }
@@ -346,20 +309,20 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "8d567de2ec5c6322",
+  "active": "5bf0c8ec4457c115",
   "lastOpenFiles": [
-    "02 - Atomic/1728919808 - Logaritmos discretos.md",
-    "00.References/Cripto_References_Asimetrico.pdf",
-    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
-    "02 - Atomic/1728912947 - Cifrado asimetrico.md",
     "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
+    "00.References/Cripto_References_Asimetrico.pdf",
+    "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+    "02 - Atomic/1727428451 - Definition - TCP.md",
+    "02 - Atomic/1728919808 - Logaritmos discretos.md",
+    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1725910842 - Definition - Empresa.md",
     "02 - Atomic/1725895664 - Naturaleza y de la empresa.md",
     "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
-    "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1728917414 - Orden gaussiano.md",
     "02 - Atomic/1728916836 - Restos potenciales.md",
     "02 - Atomic/1727096148 - Cifrador de flujo.md",

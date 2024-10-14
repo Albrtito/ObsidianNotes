@@ -6,24 +6,8 @@
         "type": "split",
         "children": [
           {
-            "id": "0db06e2a402db43c",
-            "type": "tabs",
-            "dimension": 20.65972222222222,
-            "children": [
-              {
-                "id": "c16e4d4557ca842e",
-                "type": "leaf",
-                "state": {
-                  "type": "chatbot-view",
-                  "state": {}
-                }
-              }
-            ]
-          },
-          {
             "id": "c0ed840f92fc3792",
             "type": "tabs",
-            "dimension": 79.34027777777779,
             "children": [
               {
                 "id": "345ef8843505954e",
@@ -32,19 +16,6 @@
                   "type": "pdf",
                   "state": {
                     "file": "00.References/Cripto_References_Asimetrico.pdf"
-                  }
-                }
-              },
-              {
-                "id": "2e27f76d0932e01e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
                   }
                 }
               },
@@ -205,6 +176,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "00.References/Cripto_References_Asimetrico.pdf",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -221,6 +193,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "00.References/Cripto_References_Asimetrico.pdf",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -239,6 +212,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "00.References/Cripto_References_Asimetrico.pdf",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -328,7 +302,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "00.References/Cripto_References_Asimetrico.pdf"
+                  }
                 }
               }
             ]
@@ -355,8 +331,8 @@
           "bmo-chatbot:BMO Chatbot": false
         }
       },
-      "active": "c16e4d4557ca842e",
-      "mtime": "2024-10-14T19:22:40+02:00"
+      "active": "345ef8843505954e",
+      "mtime": "2024-10-14T21:08:30+02:00"
     }
   },
   "active": "Main"

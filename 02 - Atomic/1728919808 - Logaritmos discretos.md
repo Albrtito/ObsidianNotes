@@ -13,5 +13,6 @@ $$
 a^c = b \mod n
 $$
 **Remarks:**
++ La única forma de encontrar el valor de c para a y b es probar a multiplicar a por cada valor hasta n-1. → Esto es **muy util en criptografía**
 
 ***

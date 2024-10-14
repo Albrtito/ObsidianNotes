@@ -87,5 +87,5 @@ Se produce “justo a tiempo”, bajo demanda. Se produce intentando producir co
 **Capacidad en planta:** La cantaidad máxima de bienes y servicios que se puede obtener en una unidad productivo.
 + Se ha de tener en cuenta la capacidad **efectiva**→ La capacidad en condiciones normales. 
 
-**Localización de la planta:** La localización de la planta varía en **que costes se quieren disminuir**
+**Localización de la planta:** La localización de la planta varía en que costes se quieren disminuir
 ***

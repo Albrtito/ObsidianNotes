@@ -1079,6 +1079,7 @@ almacenamiento
 almacenan
 almacenaje
 aver
+almacenamientos
 Creaci
 Crear
 Cuando
@@ -5195,6 +5196,7 @@ eficiencia
 evitando
 efectiva
 entero
+equacion
 programaci
 primer
 paso
@@ -7197,6 +7199,7 @@ lograr
 lulas
 localizaci
 logaritmo
+logaritmos
 tags
 tres
 todos
@@ -18275,6 +18278,7 @@ IHK
 IvA
 INCOMPLETE
 Incluye
+IMPORTANTE
 Definir
 Din
 Design
@@ -19999,6 +20003,7 @@ flexible
 fijos
 ficas
 funcional
+flujosy
 objetivo
 obtener
 of
@@ -32325,6 +32330,7 @@ biM
 bMc
 bqi
 bajos
+basada
 Util
 Una
 UniZumo
