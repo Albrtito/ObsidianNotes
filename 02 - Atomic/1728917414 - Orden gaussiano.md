@@ -6,6 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
+sr-due: 2024-10-15
+sr-interval: 1
+sr-ease: 230
 ---
 # Orden gaussiano
 
@@ -25,7 +28,6 @@ $$\boxed{a^{\phi(n)} = 1 \mod n \rightarrow m = \phi(n)}$$
 + Si existe más que un solo m, entoces m ha de ser divisor de $\phi(n)$
 
 ## Generadores:
-
-Cuando el orden gaussiano es igual al indicador de euler diremos que ese orden es **una raiz**
+Cuando el orden gaussiano es igual al indicador de euler diremos que ese orden es **una raiz primitiva o generador** debido a que es campaz de **generar TODO EL CONJUNTO DE RESTOS de n**. 
 
 ***

@@ -3062,6 +3062,7 @@ divisor
 denominado
 discretos
 dulos
+diremos
 modelos
 modelo
 maximizar
@@ -9148,6 +9149,7 @@ rVce
 rRYaU
 repetir
 raiz
+referenciado
 References
 Resoluci
 Rectas
@@ -37653,6 +37655,7 @@ GillSansMT
 GuePO
 GYcZ
 GAUSIANOS
+Generadores
 Nota
 Novo
 Nacional

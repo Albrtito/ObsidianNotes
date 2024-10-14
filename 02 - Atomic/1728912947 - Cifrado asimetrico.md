@@ -16,12 +16,8 @@ cssclasses:
 
 ## Más bases matemáticas: 
 + [[1728916836 - Restos potenciales|Restos potenciales]]
-+ 
-Hablamso entonces de **ORDENES GAUSIANOS**. El orden gausiano de a respecto a un módulo n será denominado como w y seguirá la definición expuesta más arriba:
-$$ a^w = 1 \mod n$$
-$$w = \text{orden}(a,n)$$
++ [[1728917414 - Orden gaussiano|Orden gaussiano]]
 
-+ Si el gausiano de un número a es igual a $\phi(n)$ entonces se le llama **generador o raiz primitiva** debido a que es campaz de **generar TODO EL CONJUNTO DE RESTOS de n**. 
 
 ### Logaritmos discretos:
 …
