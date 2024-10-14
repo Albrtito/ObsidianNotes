@@ -6,47 +6,96 @@
         "type": "split",
         "children": [
           {
-            "id": "c0ed840f92fc3792",
+            "id": "0db06e2a402db43c",
             "type": "tabs",
+            "dimension": 20.65972222222222,
             "children": [
               {
-                "id": "51395969ae187be0",
+                "id": "c16e4d4557ca842e",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Atomic/1727428451 - Definition - TCP.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
+                  "type": "chatbot-view",
+                  "state": {}
                 }
-              },
+              }
+            ]
+          },
+          {
+            "id": "c0ed840f92fc3792",
+            "type": "tabs",
+            "dimension": 79.34027777777779,
+            "children": [
               {
-                "id": "29074c1ec3bda5c4",
+                "id": "345ef8843505954e",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "00.References/Net_Resources_s3_3.pdf"
+                    "file": "00.References/Cripto_References_Asimetrico.pdf"
                   }
                 }
               },
               {
-                "id": "e711b67ee4338c82",
+                "id": "2e27f76d0932e01e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01.Areas/1.UC3M/Networks.md",
+                    "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "8d567de2ec5c6322",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1728919808 - Logaritmos discretos.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5bf0c8ec4457c115",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2577fc6ac5a8dd85",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1f6cac34f1f44aa4",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
               }
             ],
-            "currentTab": 2,
             "stacked": true
           }
         ],
@@ -104,7 +153,8 @@
                   "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "1087c22e61a64185",
@@ -122,7 +172,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 489.5041847229004,
+        "width": 267.0041847229004,
         "collapsed": true
       },
       "right": {
@@ -155,7 +205,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "01.Areas/1.UC3M/Networks.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -172,13 +221,13 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "01.Areas/1.UC3M/Networks.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "f97aefa6b972e655",
@@ -190,7 +239,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "01.Areas/1.UC3M/Networks.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -263,7 +311,7 @@
                       "repelStrength": 18.5975922131148,
                       "linkStrength": 0.76664002131628,
                       "linkDistance": 211,
-                      "scale": 0.11252739408040068,
+                      "scale": 0.06378675351187407,
                       "close": true
                     }
                   }
@@ -280,21 +328,19 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "01.Areas/1.UC3M/Networks.md"
-                  }
+                  "state": {}
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 480
+        "width": 480,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
           "janitor:Janitor: scan vault": false,
-          "obsidian-importer:Open Importer": true,
           "zk-prefixer:Create new unique note": true,
           "switcher:Open quick switcher": true,
           "canvas:Create new canvas": true,
@@ -305,11 +351,12 @@
           "templater-obsidian:Templater": true,
           "omnisearch:Omnisearch": false,
           "graph:Open graph view": false,
-          "workspaces:Manage workspace layouts": false
+          "workspaces:Manage workspace layouts": false,
+          "bmo-chatbot:BMO Chatbot": false
         }
       },
-      "active": "e711b67ee4338c82",
-      "mtime": "2024-10-04T13:34:50+02:00"
+      "active": "c16e4d4557ca842e",
+      "mtime": "2024-10-14T19:22:40+02:00"
     }
   },
   "active": "Main"

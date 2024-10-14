@@ -4,16 +4,16 @@ max_tokens: .nan
 temperature: 1
 enable_reference_current_note: true
 prompt: ""
-user_name: YOU
-enable_header: true
+user_name: tito
+enable_header: false
 chatbot_container_background_color: --background-secondary
 message_container_background_color: --background-secondary
-user_message_font_color: --text-normal
+user_message_font_color: 748de7
 user_message_background_color: --background-primary
-bot_message_font_color: fcfcfc
+bot_message_font_color: "000000"
 chatbot_message_background_color: --background-secondary
-chatbox_font_color: --text-normal
-chatbox_background_color: --interactive-accent
+chatbox_font_color: 748de7
+chatbox_background_color: 141d43
 prompt_select_generate_system_role: Output user request.
 ollama_mirostat: 0
 ollama_mirostat_eta: 0.1

@@ -17,11 +17,10 @@ cssclasses:
 ## Más bases matemáticas: 
 + [[1728916836 - Restos potenciales|Restos potenciales]]
 + [[1728917414 - Orden gaussiano|Orden gaussiano]]
++ [[1728919808 - Logaritmos discretos|Logaritmos discretos]]
 
 
 ### Logaritmos discretos:
-…
-
 ## Modelo de criptosistema asimétrico: 
 Cada cliente tendrá un par de claves, una **privada y otr pública.** La clave privada será la inversa de la pública. 
 + Para poder calcular facilmente la inversa se tiene un “secreto” de forma privada
