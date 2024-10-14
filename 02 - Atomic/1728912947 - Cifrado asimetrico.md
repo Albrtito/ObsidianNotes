@@ -40,7 +40,7 @@ cssclasses:
 
 ### Contexto histórico:
 Antes de idear el modelo de criptosistema asimétrico se creía que **sería imposible pasar claves de forma seguro por un canal no seguro**. El concepto que se explica a continuación fue ideado por la inteligencia británica aunq se conoce por un paper publicado algo después: 
-> New Directions in Cryptography, Martin E. Hellman, Diffe. Noviembre 1976
+> [New Directions in Cryptography, Martin E. Hellman, Diffe. Noviembre 1976](https://www-ee.stanford.edu/~hellman/publications/24.pdf)
 + Lo de los ingleses se supo más tarde pq era confidencial
 ### Idea fundamental:
 
@@ -50,12 +50,15 @@ Antes de idear el modelo de criptosistema asimétrico se creía que **sería imp
 > [!check] Solución: 
 > La solución está en que cada cliente de un servicio de cifrado(que es tanto receptor como emisor) posea un **par de claves** relacionadas entre ellas de forma que conociendo una el cliente sabe obtener la otra pero para cualquiera que no sea el obtenerla será computacionalmente imposible.
 + Con esta idea, el cliente compartirá una de las dos claves a todo el mundo, cualquiera que quisiese mandarle información habrá de hacerlo cifrándola con esa clave (pública) y solo podrá ser descifrada con la segunda clave (privada)
+#### Aplicación con aritmética modular:
+Este concepto explicado se implmenta utilizando las propiedades de la aritmética modular, de esta forma la clave privada y la pública se **relacionan en que son una la inversa de la otra**.
 
++ D : Clave privada
++ E: Clave pública
++ 
+#### Sketch:
 
- 
-
-Cada cliente tendrá un par de claves, una **privada y otr pública.** La clave privada será la inversa de la pública. 
-+ Para poder calcular facilmente la inversa se tiene un “secreto” de forma privada
-+ Como estoy calculando dos claves que realmente son inversas entre ellas, puedo usar cualquiera de las dos como la otra. Se elige de forma arbitararia(o no) cual es cual. 
-z
+![[1728912947 - Cifrado asimetricoj.png]]
++ Alice cifra con la clave pública de Bob 
++ Bob descifra con su clave privada
 ***

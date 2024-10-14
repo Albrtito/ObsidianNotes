@@ -44,6 +44,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Cripto_References_Asimetrico.pdf",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Cripto_References_Asimetrico.pdf",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Cripto_References_Asimetrico.pdf",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Cripto_References_Asimetrico.pdf"
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md"
               }
             }
           }
@@ -308,12 +309,13 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "345ef8843505954e",
+  "active": "5bf0c8ec4457c115",
   "lastOpenFiles": [
+    "99 - Meta/0. Attachments/1728912947 - Cifrado asimetricoj.png",
+    "00.References/Cripto_References_Asimetrico.pdf",
     "02 - Atomic/1728912947 - Cifrado asimetrico.md",
     "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
     "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
-    "00.References/Cripto_References_Asimetrico.pdf",
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1728919808 - Logaritmos discretos.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",

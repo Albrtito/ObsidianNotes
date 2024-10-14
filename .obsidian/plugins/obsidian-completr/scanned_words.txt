@@ -1080,6 +1080,7 @@ almacenan
 almacenaje
 aver
 almacenamientos
+adem
 Creaci
 Crear
 Cuando
@@ -2026,6 +2027,7 @@ Cualquier
 Creativos
 Cuanto
 Capacidad
+Contexto
 de
 due
 dar
@@ -3079,6 +3081,7 @@ disposici
 demanda
 defectos
 disminuir
+descifrada
 modelos
 modelo
 maximizar
@@ -4112,6 +4115,7 @@ mueven
 masa
 mueve
 mentales
+mandarle
 en
 ease
 es
@@ -5197,6 +5201,8 @@ evitando
 efectiva
 entero
 equacion
+elevar
+explica
 programaci
 primer
 paso
@@ -6298,6 +6304,9 @@ primas
 preguntarnos
 planta
 plazos
+pasar
+publicado
+posea
 lineal
 la
 lo
@@ -7200,6 +7209,7 @@ lulas
 localizaci
 logaritmo
 logaritmos
+logarimo
 tags
 tres
 todos
@@ -9197,6 +9207,7 @@ referenciado
 retroalimentaci
 realizada
 retrasos
+relacionadas
 References
 Resoluci
 Rectas
@@ -11288,6 +11299,11 @@ cuyo
 creando
 cualificaci
 cantaidad
+cre
+continuaci
+confidencial
+compartir
+cifr
 sr
 se
 subproblemas
@@ -12349,6 +12365,8 @@ seguir
 secreto
 sere
 sacrificar
+supo
+sabe
 interval
 importancia
 incorrecto
@@ -13359,6 +13377,10 @@ intercambian
 instrucciones
 intentando
 innecesario
+idear
+ideado
+inteligencia
+ingleses
 un
 una
 utiliza
@@ -14917,6 +14939,8 @@ hDLF
 hhfl
 hGX
 hDe
+hist
+habr
 Es
 Este
 Ejemplos
@@ -15806,6 +15830,7 @@ ETjn
 Ezj
 EmmS
 Elementales
+ENCONTRARLO
 vital
 variables
 vez
@@ -17445,6 +17470,7 @@ necessarily
 necesidades
 ning
 normales
+ndola
 Identificar
 Intro
 Identificaci
@@ -18279,6 +18305,7 @@ IvA
 INCOMPLETE
 Incluye
 IMPORTANTE
+Idea
 Definir
 Din
 Design
@@ -19138,6 +19165,8 @@ Dados
 Defintion
 Dificil
 Distribuci
+Directions
+Diffe
 funci
 fibonacci
 fica
@@ -20004,6 +20033,7 @@ fijos
 ficas
 funcional
 flujosy
+fue
 objetivo
 obtener
 of
@@ -20850,6 +20880,7 @@ ojp
 oyu
 obB
 oKJ
+obtenerla
 que
 queremos
 qD
@@ -21629,6 +21660,7 @@ qYT
 qwu
 qdU
 quinas
+quisiese
 Algorith
 Algorithm
 All
@@ -23339,6 +23371,7 @@ Fza
 FNQ
 FWG
 Flujos
+FORMA
 Warshall
 Width
 We
@@ -24937,6 +24970,7 @@ HJgB
 Hng
 HDj
 Hablamso
+Hellman
 TODOS
 The
 Trabajo
@@ -27512,6 +27546,7 @@ Pjc
 Plane
 PUeden
 Precios
+POSIBLES
 Biblio
 BitsPerComponent
 BI
@@ -28249,6 +28284,7 @@ BSu
 Bsy
 BECAUSE
 Bien
+BUSCAR
 Steven
 Skiena
 Serie
@@ -30006,6 +30042,7 @@ MgK
 Matem
 Mecanismo
 Mantenimiento
+Martin
 Zivkovic
 Zo
 Zi
@@ -32331,6 +32368,7 @@ bMc
 bqi
 bajos
 basada
+brit
 Util
 Una
 UniZumo
@@ -33127,6 +33165,7 @@ UWuw
 UnM
 UNDERSTAND
 UNICO
+UNICA
 QUE
 Que
 QE
@@ -36932,6 +36971,7 @@ Vxs
 VWv
 VyTT
 Variabilidad
+VALORES
 Grupo
 Get
 GWgw
@@ -38583,6 +38623,8 @@ Nga
 NIq
 Nyf
 NHR
+New
+Noviembre
 Xr
 XObject
 Xw
