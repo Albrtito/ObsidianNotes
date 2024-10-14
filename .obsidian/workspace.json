@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
+                "file": "02 - Atomic/1728919808 -.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "file": "02 - Atomic/1728919808 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "file": "02 - Atomic/1728919808 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "file": "02 - Atomic/1728919808 -.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md"
+                "file": "02 - Atomic/1728919808 -.md"
               }
             }
           }
@@ -307,11 +307,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2e27f76d0932e01e",
+  "active": "8d567de2ec5c6322",
   "lastOpenFiles": [
     "02 - Atomic/1727428451 - Definition - TCP.md",
-    "02 - Atomic/1728917414 - Orden gaussiano.md",
+    "02 - Atomic/1728919808 -.md",
     "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+    "02 - Atomic/1728917414 - Orden gaussiano.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "00.References/Cripto_References_Asimetrico.pdf",
     "02 - Atomic/1728916836 - Restos potenciales.md",
@@ -337,7 +338,6 @@
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "02 - Atomic/1727428429 - Definition - UDP.md",
-    "02 - Atomic/1728307154 - Funciones hash.md",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj-1.txt",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.txt",
