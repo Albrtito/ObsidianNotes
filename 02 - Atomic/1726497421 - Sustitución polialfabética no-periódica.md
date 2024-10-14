@@ -7,8 +7,8 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-10-07
-sr-interval: 5
+sr-due: 2024-11-04
+sr-interval: 21
 sr-ease: 249
 ---
 # Sustitución polialfabética no-periódica

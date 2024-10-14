@@ -2,10 +2,10 @@
 aliases:
   - La función financiera de la empresa
 tags:
-  - review
   - Empresa
+  - incomplete
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-10-10
 sr-interval: 7
 sr-ease: 250

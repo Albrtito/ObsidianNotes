@@ -3,10 +3,9 @@ aliases:
   - Exact ODE
   - First order, exact ODE
 tags:
-  - review
   - DiffCalc
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-10-12
 sr-interval: 4
 sr-ease: 150

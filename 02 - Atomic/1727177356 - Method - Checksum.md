@@ -7,8 +7,8 @@ tags:
   - Networks
 References: 
 cssclasses: 
-sr-due: 2024-10-11
-sr-interval: 11
+sr-due: 2024-11-17
+sr-interval: 34
 sr-ease: 270
 ---
 # Method - Checksum
