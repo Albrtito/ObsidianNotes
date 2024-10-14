@@ -2,10 +2,9 @@
 aliases:
   - Lost solutions in a DE
 tags:
-  - review
   - DiffCalc
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-10-10
 sr-interval: 10
 sr-ease: 212

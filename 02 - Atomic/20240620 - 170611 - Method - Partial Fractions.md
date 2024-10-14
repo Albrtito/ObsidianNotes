@@ -3,11 +3,10 @@ aliases:
   - Method - Partial Fractions
   - Partial Fractions
 tags:
-  - review
   - CalcI
   - DiffCalc
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-10-08
 sr-interval: 4
 sr-ease: 190

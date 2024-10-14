@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-05
-sr-interval: 3
+sr-due: 2024-11-02
+sr-interval: 19
 sr-ease: 225
 ---
 # Loss and delay in Networks
@@ -59,7 +59,7 @@ $$
 $$
 d_{prop} = d/s
 $$
-+ d: Lenght of the physical link
++ d: ==Lenght of the physical link==
 + s: Propagation speed.
 
   
@@ -67,7 +67,7 @@ $$
 If the buffer of the router is full, the packet will be dropped. 
 + Can be fixed by retrasmission from last link, or methods applied in the sender/reciever
 
-## ==Throughput and bottlenecks:==
+## Throughput and bottlenecks:
 
 **Rate** at which bits are transfered. 
 + Instantaneous: A one specific momento

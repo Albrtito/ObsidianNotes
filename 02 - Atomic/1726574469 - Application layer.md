@@ -6,8 +6,8 @@ tags:
   - Networks
 References: "[[Net_References_s2_1.pdf]]"
 cssclasses:
-sr-due: 2024-10-05
-sr-interval: 1
+sr-due: 2024-10-27
+sr-interval: 13
 sr-ease: 230
 ---
 # Application layer

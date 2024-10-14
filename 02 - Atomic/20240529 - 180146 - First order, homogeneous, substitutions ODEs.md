@@ -3,10 +3,9 @@ aliases:
   - First order, homogeneous, substitutions ODEs
   - Homogeneous, substitutions ODEs
 tags:
-  - review
   - DiffCalc
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-10-08
 sr-interval: 11
 sr-ease: 170

@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-05
-sr-interval: 1
+sr-due: 2024-10-26
+sr-interval: 12
 sr-ease: 228
 ---
 # The three way handshake

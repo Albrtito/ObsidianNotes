@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-05
-sr-interval: 2
-sr-ease: 230
+sr-due: 2024-11-19
+sr-interval: 36
+sr-ease: 250
 ---
 # Estrategia de subcontratación
 
