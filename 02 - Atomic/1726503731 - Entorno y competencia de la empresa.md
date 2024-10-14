@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-06
-sr-interval: 2
+sr-due: 2024-10-25
+sr-interval: 11
 sr-ease: 190
 ---
 
@@ -25,16 +25,16 @@ El **donde** actua y se desarrolla la empresa es de vital importancia, debemos d
 	+ ==Recursos del país: Situación geográfica, Clima, etc.==
 + **Factores político legales:** 
 	+ Políticas fiscal-monetarias
-	+ ==Regulación del mercado laboral:== 
+	+ Regulación del mercado laboral: 
 		+ p.e: El salario mínimo
 	+ Regulación de las industrias
 		+ p.e: Licencias de estancos
 + **Factores socio-culturales:**
-	+ ==Sistema de valores:== 
+
 		+ p.e: Espíritu al trabajo
 	+ Nivel educativo 
 	+ Estructura de clases: Cantidad de clase media
-+ **Factores tecnológicos:**
++ ==**Factores tecnológicos:**==
 	+ **Tecnologías básicas:** Aquellas que están al alcance de cualquier empresa
 	+ **Tecnología ==clave==:** No está al alcance. Tenerlo es bueno y diferencia del resto. 
 	+ **Tecnología incipiente:** Aquella que será clave pero se está desarrollando. 
@@ -46,9 +46,9 @@ Conjunto de factores que afectan a una única empresa o a un grupo de empresas *
 + Mismo sector
 ### Factores: 
 + **Barreras de entrada**: Requisitos mínimos necesarios para entrar al mercado y como de dificil es conseguirlos.
-+ ==**Barreras de salida:** Actualmente hay muy pocas. Una fácil de ver es la del despido laboral (hay q cumplir una normativa).== 
-+ **Sustitutivos:** Productos que, aún siendo diferentes, las funciones que aportan son las mismas.
-	+ p.e: uber y taxi. 
++ **Barreras de salida:** Actualmente hay muy pocas. Una fácil de ver es la del despido laboral (hay q cumplir una normativa). 
++ **S==ustitutivos:** Productos que, aún siendo diferentes, las funciones que aportan son las mismas.==
+	+ ==p.e: uber y taxi.== 
 + **Relación con los proovedores:** Poder de negociación con los proovedores.
 	+ Empresas grandes tienen mucho poder a la hora de negociar mientras que las pequeñas no le importan a nadie.
 + **Relación con los clientes:** Poder de negociación que tiene **el cliente sobre la empresa**
