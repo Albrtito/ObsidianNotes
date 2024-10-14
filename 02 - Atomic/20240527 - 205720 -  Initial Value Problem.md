@@ -3,10 +3,9 @@ aliases:
   - Initial Value Problem
   - IVP
 tags:
-  - review
   - DiffCalc
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-10-05
 sr-interval: 1
 sr-ease: 132

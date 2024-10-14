@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-05
-sr-interval: 2
+sr-due: 2024-10-27
+sr-interval: 13
 sr-ease: 205
 ---
 # Method - RDT Sliding window
@@ -30,7 +30,7 @@ There are two implementations that **end the whole chain of thought that has bee
 > + Storing that many packages in the receiver side is not ideal?
 
 ### Go-Back-N: (The good one)
-Only one timer. This timer is associated to **the oldest package in the window.** 
+==Only one timer. This timer is associated to **the oldest package in the window.*Contents*== 
 
 The receiver only wants the next package, if this package is not received, then it s**ends an acknowledgment for the package it is waiting for.**
 + Once the receiver drops one package of the window, then the whole window is retransmitted starting from the package that was lost.

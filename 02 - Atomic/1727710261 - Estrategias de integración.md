@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses: 
-sr-due: 2024-10-05
-sr-interval: 2
+sr-due: 2024-10-29
+sr-interval: 15
 sr-ease: 230
 ---
 # Estrategias de integración:
@@ -23,10 +23,10 @@ sr-ease: 230
 + Mejorar posición competitiva
 + Mayor información en el sector. 
 **Desventajas:**
-+ Mayor riesgo, más empresas = más riesgo
++ ==Mayor riesgo, más empresas = más riesgo==
 + Menos flexibilidad
 + Pérdida de ventajas de especialización: #Duda: Que?
-+ Más costes administrativos
++ ==Más costes administrativos==
 
 Hay dos timpos de integración corporativa, **vertical y horizontal:** 
 

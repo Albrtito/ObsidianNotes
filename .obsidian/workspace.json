@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
+                "file": "02 - Atomic/1726572508 - The network stack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
+                "file": "02 - Atomic/1726572508 - The network stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
+                "file": "02 - Atomic/1726572508 - The network stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
+                "file": "02 - Atomic/1726572508 - The network stack.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md"
+                "file": "02 - Atomic/1726572508 - The network stack.md"
               }
             }
           }
@@ -284,6 +284,12 @@
   },
   "active": "345ef8843505954e",
   "lastOpenFiles": [
+    "02 - Atomic/1726759457 - Programación Lineal.md",
+    "02 - Atomic/1727711018 - Estrategias de diversificación.md",
+    "02 - Atomic/1727710261 - Estrategias de integración.md",
+    "02 - Atomic/1727187791 - Method - RDT Sliding window.md",
+    "02 - Atomic/20240527 - 205720 -  Initial Value Problem.md",
+    "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
     "02 - Atomic/1726067427 - Tipos de empresas.md",
     "02 - Atomic/1728387775 - Best effort services.md",
     "02 - Atomic/1728380111 - Generacion de series pseudoaleatorias.md",
@@ -304,12 +310,6 @@
     "02 - Atomic/1727886467 - Estrategia de glovalización.md",
     "02 - Atomic/1728380472 - Postulados de Golomb.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
-    "02 - Atomic/1727429966 - Packet switching.md",
-    "02 - Atomic/1727270366 - Forma estandar.md",
-    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
-    "02 - Atomic/20240418 - 190338 - Fourier series.md",
-    "02 - Atomic/Systems of First-Order ODEs.md",
-    "02 - Atomic/20240507 - 153848 - The wave Equation.md",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj-1.txt",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.txt",
