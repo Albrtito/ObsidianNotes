@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728027800 - Network congestion.md",
+                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728027800 - Network congestion.md",
+                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728027800 - Network congestion.md",
+                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728027800 - Network congestion.md",
+                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728027800 - Network congestion.md"
+                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md"
               }
             }
           }
@@ -284,8 +284,10 @@
   },
   "active": "345ef8843505954e",
   "lastOpenFiles": [
-    "02 - Atomic/1728377926 - Timeout estimations TCP.md",
+    "02 - Atomic/1728309909 - MAC.md",
+    "02 - Atomic/1728309728 - Autenticacion de mensajes.md",
     "02 - Atomic/1728027800 - Network congestion.md",
+    "02 - Atomic/1728377926 - Timeout estimations TCP.md",
     "99 - Meta/2. Scripts/1725895664 - Naturaleza y de la empresa.md",
     "02 - Atomic/1727096148 - Cifrador de flujo.md",
     "99 - Meta/2. Scripts/bat",
@@ -309,8 +311,6 @@
     "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
     "02 - Atomic/1727255580 - Loss and delay in Networks.md",
     "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
-    "02 - Atomic/1726753991 - Criptosistemas clásicos.md",
-    "02 - Atomic/1726572508 - The network stack.md",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj-1.txt",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.txt",

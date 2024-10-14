@@ -1,37 +1,39 @@
 import os
 import re
-import yaml 
 import sys
+
+import yaml
 
 # Variables globales:
 carpeta_atomic = "."
+
 
 def has_yaml_frontmatter(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
         # Read the first line to check for opening '---'
         first_line = f.readline().strip()
-        
+
         if first_line != "---":
             # If the first line is not '---', it doesn't have a frontmatter
             return False
-        
+
         # Now, look for the closing '---' in subsequent lines
         for line in f:
             if line.strip() == "---":
                 return True
-    
-# If no closing '---' is found, return False
+
+    # If no closing '---' is found, return False
     return False
 
-def get_yaml(f):
-  pointer = f.tell()
-  if f.readline() != '---\n':
-    f.seek(pointer)
-    return ''
-  readline = iter(f.readline, '')
-  readline = iter(readline.next, '---\n')
-  return ''.join(readline)
 
+def get_yaml(f):
+    pointer = f.tell()
+    if f.readline() != "---\n":
+        f.seek(pointer)
+        return ""
+    readline = iter(f.readline, "")
+    readline = iter(readline.next, "---\n")
+    return "".join(readline)
 
 
 def buscar_dudas(etiqueta):
@@ -52,21 +54,22 @@ def buscar_dudas(etiqueta):
                 if not has_yaml_frontmatter(os.path.join(carpeta, archivo)):
                     print(f"No tiene YAML frontmatter")
                     continue
-                
 
                 # Leer el fontmatter del archivo y extraer las etiquetas
                 try:
                     config = yaml.safe_load(get_yaml(f))
                     contenido = f.readlines()
-                    if  config and ("tags" in config):
-                            for tag in config["tags"]:
-                                if tag == etiqueta:
+                    if config and ("tags" in config):
+                        for tag in config["tags"]:
+                            if tag == etiqueta:
 
-                                    for linea in contenido:
+                                for linea in contenido:
                                     # Buscar las líneas que contengan la etiqueta #Duda
-                                        if "#Duda" in linea:
-                                            duda = linea.split("#Duda")[-1].strip()  # Extraer la duda
-                                            dudas_encontradas.append((archivo, duda))
+                                    if "#Duda" in linea:
+                                        duda = linea.split("#Duda")[
+                                            -1
+                                        ].strip()  # Extraer la duda
+                                        dudas_encontradas.append((archivo, duda))
                 except yaml.YAMLError:
                     print(f"Error parsing YAML in {archivo}")
 
