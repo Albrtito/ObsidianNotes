@@ -10,7 +10,7 @@ chatbot_container_background_color: --background-secondary
 message_container_background_color: --background-secondary
 user_message_font_color: 748de7
 user_message_background_color: --background-primary
-bot_message_font_color: "000000"
+bot_message_font_color: ffffff
 chatbot_message_background_color: --background-secondary
 chatbox_font_color: 748de7
 chatbox_background_color: 141d43

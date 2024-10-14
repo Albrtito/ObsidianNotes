@@ -1077,6 +1077,8 @@ arbitararia
 agrupar
 almacenamiento
 almacenan
+almacenaje
+aver
 Creaci
 Crear
 Cuando
@@ -2021,6 +2023,8 @@ Calidad
 Compuesto
 Cualquier
 Creativos
+Cuanto
+Capacidad
 de
 due
 dar
@@ -3069,6 +3073,11 @@ denominado
 discretos
 dulos
 diremos
+dictaminar
+disposici
+demanda
+defectos
+disminuir
 modelos
 modelo
 maximizar
@@ -4099,6 +4108,9 @@ mMuUeEyYiI
 mKg
 materias
 mueven
+masa
+mueve
+mentales
 en
 ease
 es
@@ -5178,6 +5190,10 @@ estoy
 elige
 elevado
 encarga
+especificar
+eficiencia
+evitando
+efectiva
 programaci
 primer
 paso
@@ -6276,6 +6292,9 @@ potencial
 produccion
 productivo
 primas
+preguntarnos
+planta
+plazos
 lineal
 la
 lo
@@ -7173,6 +7192,9 @@ lEW
 lVq
 lLXs
 labores
+lograr
+lulas
+localizaci
 tags
 tres
 todos
@@ -8165,6 +8187,7 @@ tdU
 transforma
 transforman
 transformaci
+tarde
 review
 resolver
 realizar
@@ -9168,6 +9191,7 @@ raiz
 referenciado
 retroalimentaci
 realizada
+retrasos
 References
 Resoluci
 Rectas
@@ -11254,6 +11278,11 @@ campaz
 contra
 conversi
 centran
+cubren
+cuyo
+creando
+cualificaci
+cantaidad
 sr
 se
 subproblemas
@@ -12314,6 +12343,7 @@ slGp
 seguir
 secreto
 sere
+sacrificar
 interval
 importancia
 incorrecto
@@ -13322,6 +13352,8 @@ iaZ
 igJ
 intercambian
 instrucciones
+intentando
+innecesario
 un
 una
 utiliza
@@ -16589,6 +16621,8 @@ vMA
 vJr
 vSt
 vhM
+variedad
+variabilidad
 no
 nuestras
 ndar
@@ -17405,6 +17439,7 @@ nei
 necessarily
 necesidades
 ning
+normales
 Identificar
 Intro
 Identificaci
@@ -19095,6 +19130,8 @@ DfFmT
 DON
 Dados
 Defintion
+Dificil
+Distribuci
 funci
 fibonacci
 fica
@@ -19956,6 +19993,10 @@ fiB
 fQQ
 faces
 facilmente
+flexible
+fijos
+ficas
+funcional
 objetivo
 obtener
 of
@@ -22511,6 +22552,10 @@ AAAAGI
 ABOUT
 Applied
 Almacenamiento
+Agrupamos
+Alto
+Altos
+Alta
 Floyd
 Foundations
 Funci
@@ -27459,6 +27504,7 @@ PSf
 Pjc
 Plane
 PUeden
+Precios
 Biblio
 BitsPerComponent
 BI
@@ -29952,6 +29998,7 @@ MBS
 MgK
 Matem
 Mecanismo
+Mantenimiento
 Zivkovic
 Zo
 Zi
@@ -31446,6 +31493,7 @@ LFQ
 LaC
 LFi
 Logaritmos
+Localizaci
 bottom
 base
 brik
@@ -32274,6 +32322,7 @@ bcRV
 biM
 bMc
 bqi
+bajos
 Util
 Una
 UniZumo
@@ -33069,6 +33118,7 @@ Udn
 UWuw
 UnM
 UNDERSTAND
+UNICO
 QUE
 Que
 QE
@@ -36873,6 +36923,7 @@ VkN
 Vxs
 VWv
 VyTT
+Variabilidad
 Grupo
 Get
 GWgw
@@ -41468,6 +41519,7 @@ jfq
 jNj
 jju
 jUqc
+justo
 wA
 wo
 wpMuB
@@ -42980,6 +43032,7 @@ kae
 kkG
 kdR
 kFn
+kanban
 YUV
 YN
 Yt
