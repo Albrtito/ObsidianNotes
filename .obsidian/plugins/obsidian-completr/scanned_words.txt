@@ -1072,6 +1072,7 @@ alv
 aMq
 aaf
 asimetrico
+aritm
 Creaci
 Crear
 Cuando
@@ -5154,6 +5155,7 @@ eUW
 eye
 eHc
 esz
+exponer
 programaci
 primer
 paso
@@ -9967,6 +9969,7 @@ RLr
 RTJ
 RRh
 RQA
+Recordamos
 cssclasses
 correcto
 correcta
@@ -17346,6 +17349,7 @@ nfJM
 nCO
 nyF
 nei
+necessarily
 Identificar
 Intro
 Identificaci
@@ -18177,6 +18181,7 @@ IBL
 ITU
 IHK
 IvA
+INCOMPLETE
 Definir
 Din
 Design
@@ -19031,6 +19036,7 @@ DAc
 DlGt
 DlE
 DfFmT
+DON
 funci
 fibonacci
 fica
@@ -19890,6 +19896,7 @@ fhr
 ffLe
 fiB
 fQQ
+faces
 objetivo
 obtener
 of
@@ -22441,6 +22448,8 @@ AiI
 AAAAGE
 AAAAGG
 AAAAGI
+ABOUT
+Applied
 Floyd
 Foundations
 Funci
@@ -25646,6 +25655,8 @@ TVY
 TRV
 TNw
 TCF
+THIS
+THEORY
 grafo
 guardan
 global
@@ -26480,6 +26491,8 @@ gyZF
 geO
 ghc
 gJzjI
+graphs
+grap
 Programaci
 Para
 Problema
@@ -27378,6 +27391,7 @@ PhD
 POYwhyYWh
 PSf
 Pjc
+Plane
 Biblio
 BitsPerComponent
 BI
@@ -28113,6 +28127,7 @@ Bmr
 BRlz
 BSu
 Bsy
+BECAUSE
 Steven
 Skiena
 Serie
@@ -29008,6 +29023,7 @@ Swt
 Stl
 SxeU
 SRRI
+SHIT
 Manual
 Modelar
 Millones
@@ -32981,6 +32997,7 @@ UlK
 Udn
 UWuw
 UnM
+UNDERSTAND
 QUE
 Que
 QE

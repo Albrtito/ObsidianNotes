@@ -31,12 +31,12 @@
             }
           },
           {
-            "id": "fea966f641c39bf3",
+            "id": "2e27f76d0932e01e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Areas/1.UC3M/Cripto.md"
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md"
               }
             }
           }
@@ -306,11 +306,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fea966f641c39bf3",
+  "active": "58fc7a9a152058b6",
   "lastOpenFiles": [
-    "00.References/Cripto_References_Asimetrico.pdf",
+    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+    "02 - Atomic/20240515 - 035256 - Euler's formula.md",
+    "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
     "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+    "02 - Atomic/1726754186 - Criptosistemas modernos.md",
+    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
+    "02 - Atomic/1726498694 - Definition - Criptografía.md",
     "01.Areas/1.UC3M/Cripto.md",
+    "00.References/Cripto_References_Asimetrico.pdf",
     "02 - Atomic/1728493764 - Cifrado autenticado.md",
     "00.References/Cripto_References_Asimetrico.pdf.crdownload",
     "02 - Atomic/1728309909 - MAC.md",
@@ -331,11 +337,6 @@
     "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02 - Atomic/1727105121 - Estrategia de la empresa.md",
-    "02 - Atomic/1728042156 - The three way handshake.md",
-    "02 - Atomic/1727886621 - Estrategia de subcontratación.md",
-    "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
-    "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
-    "02 - Atomic/1728044996 - Closing a TCP connection.md",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj-1.txt",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.txt",
