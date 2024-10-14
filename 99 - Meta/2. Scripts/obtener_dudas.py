@@ -1,6 +1,7 @@
 import os
 import re
 import yaml 
+import sys
 
 # Variables globales:
 carpeta_atomic = "."
@@ -52,24 +53,22 @@ def buscar_dudas(etiqueta):
                     print(f"No tiene YAML frontmatter")
                     continue
                 
-                config = yaml.load(get_yaml(f), Loader=yaml.FullLoader)
-                contenido = f.readlines()
 
-                print(f"YAML ENCONTRADO: {config}")
                 # Leer el fontmatter del archivo y extraer las etiquetas
-                if config:
-                    try:
-                        if  config and ("tags" in config):
-                            if len(config["tags"]) > 0:
-                                for tag in config["tags"]:
-                                    if tag == etiqueta:
-                                        for linea in contenido:
-                                        # Buscar las líneas que contengan la etiqueta #Duda
-                                            if "#Duda" in linea:
-                                                duda = linea.split("#Duda")[-1].strip()  # Extraer la duda
-                                                dudas_encontradas.append((archivo, duda))
-                    except yaml.YAMLError:
-                        print(f"Error parsing YAML in {archivo}")
+                try:
+                    config = yaml.safe_load(get_yaml(f))
+                    contenido = f.readlines()
+                    if  config and ("tags" in config):
+                            for tag in config["tags"]:
+                                if tag == etiqueta:
+
+                                    for linea in contenido:
+                                    # Buscar las líneas que contengan la etiqueta #Duda
+                                        if "#Duda" in linea:
+                                            duda = linea.split("#Duda")[-1].strip()  # Extraer la duda
+                                            dudas_encontradas.append((archivo, duda))
+                except yaml.YAMLError:
+                    print(f"Error parsing YAML in {archivo}")
 
     return dudas_encontradas
 
