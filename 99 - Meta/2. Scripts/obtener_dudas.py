@@ -3,7 +3,7 @@ import re
 import yaml 
 
 # Variables globales:
-carpeta_atomic = "../../02 - Atomic"
+carpeta_atomic = "."
 
 def has_yaml_frontmatter(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
