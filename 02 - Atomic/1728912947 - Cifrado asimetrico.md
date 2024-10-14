@@ -2,8 +2,8 @@
 aliases:
   - Cifrado asimetrico
 tags:
-  - review
   - Cripto
+  - incomplete
 References: 
 cssclasses:
 ---
@@ -34,4 +34,10 @@ $$w = \text{orden}(a,n)$$
 
 ### Logaritmos discretos:
 …
+
+## Modelo de criptosistema asimétrico: 
+Cada cliente tendrá un par de claves, una **privada y otr pública.** La clave privada será la inversa de la pública. 
++ Para poder calcular facilmente la inversa se tiene un “secreto” de forma privada
++ Como estoy calculando dos claves que realmente son inversas entre ellas, puedo usar cualquiera de las dos como la otra. Se elige de forma arbitararia(o no) cual es cual. 
+
 ***
