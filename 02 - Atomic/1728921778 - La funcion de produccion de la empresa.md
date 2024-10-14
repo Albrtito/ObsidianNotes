@@ -33,12 +33,17 @@ Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde e
 ### Decisiones estratégicas:
 
 **En función de la producción** debemos de preguntarnos diferentes preguntas.
++ **Que producir**
++ **Como hacerlo**
++ **Cuanto producir**
++ **Como producir**
++ **Que producir**
 ## Tipos de sistemas productivos: 
 Agrupamos los tipos de sistemas productivos en función de la **variedad del producto y el volumen de producción que tienen:**
 
 En estos sistemas productivos definimos la distribución en planta como la disposición en la que se encuentran las máquinas y herramientas para la producción
 
-+ Entre estos sistemas de producción podemos comparar el sistema de producción flexible con el de producción en masa. La diferencia esta en la variabilidad de costes (diferencia entre costes fijos y variables). Cuanta más producció
++ Entre estos sistemas de producción podemos comparar el sistema de producción flexible con el de producción en masa. La diferencia esta en la variabilidad de costes (diferencia entre costes fijos y variables). **Todo depende de la cantidad de producto a producir**
 ### Producción por proyecto:
 Se cubren las necesidades **específicas de cada cliente. Cada proyecto es UNICO**.
 
@@ -62,6 +67,25 @@ Sistema de producción cuyo objetivo es lograr **máxima eficiencia** creando **
 + Precios bajos (variables)
 + Posibles problemas mentales y físicos en los trabajadores.
 
+### Just in time: 
+Se produce “justo a tiempo”, bajo demanda. Se produce intentando producir con la máxima calidad evitando cualquier coste innecesario (como el almacenaje del producto). 
 
+**Objetivos:**
++ 0 averías
++ 0 defectos
++ 0 papel
++ 0 retrasos o plazos
 
+**Características:**
++ Alta relación con los proovedores
++ Mantenimiento de maquinaria 
++ Sistema kanban 
++ Se trabaja en **células de trabajo**
+
+## Otras decisiones:
+
+**Capacidad en planta:** La cantaidad máxima de bienes y servicios que se puede obtener en una unidad productivo.
++ Se ha de tener en cuenta la capacidad **efectiva**→ La capacidad en condiciones normales. 
+
+**Localización de la planta:** La localización de la planta varía en **que costes se quieren disminuir**
 ***
