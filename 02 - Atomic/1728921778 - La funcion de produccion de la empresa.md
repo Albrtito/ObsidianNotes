@@ -10,7 +10,7 @@ cssclasses:
 # La funcion de produccion de la empresa
 
 > [!NOTE] Definición: 
-> La parte de la empresa que se encarga de **crear los productos y/o servicios** que satisfacen las necesidades de los clientes. 
+> Definimos la función de producción como la parte de la empresa que se encarga de **crear los productos y/o servicios** que satisfacen las necesidades de los clientes. 
 
 + Se define un **input que se transforma en un output a través del [[1728922661 - El proceso de transformación de una empresa|El proceso de transformación]]**: 
 	+ **Inputs:** Ocurre dentro de un [[1726503731 - Entorno y competencia de la empresa|entorno]], **específico o genérico** en el que se transforman unos **factores de producción**
@@ -18,26 +18,26 @@ cssclasses:
 
 + Esta función necesita de una **retroalimentación** para evaluar el proceso de producción.
 
-## Objetivos: 
-Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde el [[#Tipos de sistemas productivos]] que la empresa utilizará.
+![[1728921778 - La funcion de produccion de la empresaj.png]]
 
-+ **Coste:** minimizar
-+ **Calidad:** maximizar
-+ **Tiempo de entrega:** minimizar
-+ **flexibilidad:** maximizar
+## Objetivos: 
+Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde el [[#Tipos de sistemas productivos]]que la empresa utiliza.
+
+1. **Coste:** Queremos minimizar
+2. **Calidad:** Queremos maximizar
+3. **Tiempo de entrega:** Queremos minimizar
+3. **Flexibilidad:** Qeremos maximizia
 
 **Remarks:**
-+ El objetivo de minimizar el coste **va en contra dle resto de los objetivos de la empresa**. 
-+ Dependiendo de que tipo de empresa se sacrificará una de los cuatro objetivos a cambio del resto o se especificará el tipo de sistema productivo en uno de ellos. 
++ El objetivo de minimizar el coste **va en contra del resto de los objetivos de la empresa**. 
++ Dependiendo del tipo de empresa se sacrificará una de los cuatro objetivos a cambio del resto o se especificará el sistema productivo según la decisión tomada → **Se priorizan los objetivos**
 
 ### Decisiones estratégicas:
-
-**En función de la producción** debemos de preguntarnos diferentes preguntas.
-+ **Que producir**
-+ **Como hacerlo**
-+ **Cuanto producir**
-+ **Como producir**
-+ **Que producir**
+**En función de la producción:** Debemos de preguntarnos diferentes preguntas.
+1. **Que producir**? → Diseño del producto
+2. **Como hacerlo**? → Diseño del sistema y distribución de la planta
+3. **Cuanto producir**? → Capacidad de la planta
+4. **Donde producir**? → 
 ## Tipos de sistemas productivos: 
 Agrupamos los tipos de sistemas productivos en función de la **variedad del producto y el volumen de producción que tienen:**
 

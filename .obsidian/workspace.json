@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "file": "01.Areas/1.UC3M/Empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
+                "file": "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "file": "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,14 +171,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "file": "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "f97aefa6b972e655",
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "file": "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md"
+                "file": "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md"
               }
             }
           }
@@ -289,8 +289,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480,
-    "collapsed": true
+    "width": 480
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -309,17 +308,19 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "5bf0c8ec4457c115",
+  "active": "2577fc6ac5a8dd85",
   "lastOpenFiles": [
+    "99 - Meta/0. Attachments/1728921778 - La funcion de produccion de la empresaj.png",
+    "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
+    "01.Areas/1.UC3M/Empresa.md",
+    "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
+    "02 - Atomic/1728912947 - Cifrado asimetrico.md",
     "99 - Meta/0. Attachments/1728912947 - Cifrado asimetricoj.png",
     "00.References/Cripto_References_Asimetrico.pdf",
-    "02 - Atomic/1728912947 - Cifrado asimetrico.md",
     "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
-    "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1728919808 - Logaritmos discretos.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
-    "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1725910842 - Definition - Empresa.md",
     "02 - Atomic/1725895664 - Naturaleza y de la empresa.md",
     "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
@@ -338,7 +339,6 @@
     "02 - Atomic/1728309909 - MAC.md",
     "02 - Atomic/1728309728 - Autenticacion de mensajes.md",
     "02 - Atomic/1728027800 - Network congestion.md",
-    "02 - Atomic/1728377926 - Timeout estimations TCP.md",
     "99 - Meta/2. Scripts/bat",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj-1.txt",
@@ -356,7 +356,6 @@
     "99 - Meta/0. Attachments/1728316833 - El valor del dinero en el tiempoj.png",
     "99 - Meta/0. Attachments/1728307154 - Funciones hashj.png",
     "99 - Meta/0. Attachments/1727270270 - Method - SIMPLEXj.png",
-    "99 - Meta/0. Attachments/1727428451 - Definition - TCPj-1.png",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",

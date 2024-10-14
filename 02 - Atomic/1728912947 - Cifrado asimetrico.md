@@ -3,8 +3,12 @@ aliases:
   - Cifrado asimetrico
 tags:
   - Cripto
+  - review
 References: 
 cssclasses:
+sr-due: 2024-10-15
+sr-interval: 1
+sr-ease: 212
 ---
 # Cifrado asimetrico
 
@@ -55,7 +59,9 @@ Este concepto explicado se implmenta utilizando las propiedades de la aritmétic
 
 + D : Clave privada
 + E: Clave pública
-+ 
++ C: Texto cifrado => $C = E(k_u, M) = E_{ku}(M)$
++ M: Texto en claro => $M= D(k_v,C) = D_{kv}(C)$
+
 #### Sketch:
 
 ![[1728912947 - Cifrado asimetricoj.png]]
