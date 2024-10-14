@@ -6245,6 +6245,9 @@ pAJ
 pSp
 pFj
 pzra
+potencias
+patron
+predecible
 lineal
 la
 lo
@@ -9128,6 +9131,7 @@ rjb
 rXK
 rVce
 rRYaU
+repetir
 References
 Resoluci
 Rectas
@@ -9970,6 +9974,7 @@ RTJ
 RRh
 RQA
 Recordamos
+Restos
 cssclasses
 correcto
 correcta
@@ -19037,6 +19042,7 @@ DlGt
 DlE
 DfFmT
 DON
+Dados
 funci
 fibonacci
 fica
