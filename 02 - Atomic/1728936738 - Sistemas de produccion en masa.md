@@ -6,6 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
+sr-due: 2024-10-15
+sr-interval: 1
+sr-ease: 230
 ---
 # Sistemas de produccion en masa
 
@@ -23,11 +26,26 @@ Esto conlleva las siguientes características:
 + **Costes fijos:** Altos
 + **Planificación:** Facil puesto a que se sigue todo el rato la misma cadena de trabajo
 
-## Distribución en planta:Producción en masa:
+### Pros&Cons:
+**PROS:**
++ Poco tiempo de producción
++ Poca dificultad de trabajo
++ Facilita la sustitución de trabajadores
+**CONS:**
++ Los trabajadores no saben na
++ Posibles problemas fisico-mentales en los que trabajan → aburrimiento,insatisfacción, desmotivación. (Quien quiere estar todo el rato haciendo lo mismo?)
+
+
+## Distribución por producto:
 Con especialización y división del trabajo, creando una **linea de montaje con tareas simples**. Eficiencia en el trabajo global.
 
 ### Pros&Cons:
 **PROS:**
-
-
++ Poca cantidad de trabajo en curso
++ Poco espacio para todo lo qeu se crea
++ Sistemas simples, operarios tontos
+**CONS:**
++ Inflexible en tiempos
++ Donde pones todo lo que produces?
++ Si se para la mitad, se para todo.
 ***

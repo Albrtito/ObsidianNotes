@@ -42,14 +42,6 @@ Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde e
 Según las respuestas a estas pregutnas se elegirá un [[1728935315 - Tipos de sistemas productivos de la empresa|Tipos de sistemas productivos]].
 
 
-### Producción en masa: 
-Sistema de producción cuyo objetivo es lograr **máxima eficiencia** creando **poca variabilidad**.
-
-+ Poca cualificación
-+ Altos costes fijos
-+ Variabilidad baja
-+ Precios bajos (variables)
-+ Posibles problemas mentales y físicos en los trabajadores.
 
 ### Just in time: 
 Se produce “justo a tiempo”, bajo demanda. Se produce intentando producir con la máxima calidad evitando cualquier coste innecesario (como el almacenaje del producto). 

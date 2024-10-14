@@ -1081,6 +1081,7 @@ almacenaje
 aver
 almacenamientos
 adem
+aburrimiento
 Creaci
 Crear
 Cuando
@@ -2030,6 +2031,7 @@ Capacidad
 Contexto
 Cualificaci
 Costes
+CONS
 de
 due
 dar
@@ -3088,6 +3090,8 @@ definiciones
 diferenciamos
 destinado
 desplazan
+dificultad
+desmotivaci
 modelos
 modelo
 maximizar
@@ -4123,6 +4127,7 @@ mueve
 mentales
 mandarle
 maximizia
+montaje
 en
 ease
 es
@@ -6321,6 +6326,8 @@ producido
 pregutnas
 permanece
 parado
+pones
+produces
 lineal
 la
 lo
@@ -7224,6 +7231,7 @@ localizaci
 logaritmo
 logaritmos
 logarimo
+linea
 tags
 tres
 todos
@@ -8218,6 +8226,9 @@ transforman
 transformaci
 tarde
 tomada
+trabajan
+tontos
+tiempos
 review
 resolver
 realizar
@@ -9224,6 +9235,7 @@ realizada
 retrasos
 relacionadas
 respuestas
+rato
 References
 Resoluci
 Rectas
@@ -12386,6 +12398,8 @@ sacrificar
 supo
 sabe
 sitemas
+simples
+saben
 interval
 importancia
 incorrecto
@@ -13400,6 +13414,8 @@ idear
 ideado
 inteligencia
 ingleses
+indiferenciables
+insatisfacci
 un
 una
 utiliza
@@ -18326,6 +18342,7 @@ INCOMPLETE
 Incluye
 IMPORTANTE
 Idea
+Inflexible
 Definir
 Din
 Design
@@ -20055,6 +20072,7 @@ funcional
 flujosy
 fue
 flexibles
+fisico
 objetivo
 obtener
 of
@@ -20902,6 +20920,7 @@ oyu
 obB
 oKJ
 obtenerla
+operarios
 que
 queremos
 qD
@@ -21682,6 +21701,7 @@ qwu
 qdU
 quinas
 quisiese
+qeu
 Algorith
 Algorithm
 All
@@ -22616,6 +22636,7 @@ Agrupamos
 Alto
 Altos
 Alta
+Altamente
 Floyd
 Foundations
 Funci
@@ -23394,6 +23415,8 @@ FWG
 Flujos
 FORMA
 FIJA
+Facil
+Facilita
 Warshall
 Width
 We
@@ -27577,6 +27600,7 @@ POSICI
 Pocos
 Polivalente
 Posici
+PROS
 Biblio
 BitsPerComponent
 BI
@@ -28316,6 +28340,7 @@ BECAUSE
 Bien
 BUSCAR
 Bajo
+Baja
 Steven
 Skiena
 Serie
@@ -33972,6 +33997,7 @@ QeqT
 QtX
 QlD
 Qeremos
+Quien
 Obtener
 Opti
 Objetivo

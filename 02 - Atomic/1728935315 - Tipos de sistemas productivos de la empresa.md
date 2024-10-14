@@ -19,7 +19,7 @@ De esta forma dividimos los sistemas de producción en tres tipos principales:
 1. [[1728935952 - Sistema de produccion por proyectos|Sistema de produccion por proyectos]]
 2. [[1728936361 - Sistemas de produccion flexibles|Sistemas de produccion flexibles]]
 3. [[1728936738 - Sistemas de produccion en masa|Sistemas de produccion en masa]]
-Y otro tipo menos común: 
+Y otro tipo menos común: [[1728937052 - Sistema de produccion Just In Time|Sistema de produccion Just In Time]]
 
 **Remarks:**
 + Llamamos **distribución en planta** a la disposición en la que se encuentran las máquinas y herramientas en la zona de trabajo. Esta es una de las propiedades principales de los sitemas productivos.

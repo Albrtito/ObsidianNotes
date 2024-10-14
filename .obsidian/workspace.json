@@ -49,33 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6c24d101f2df89a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "02 - Atomic/1728936738 - Sistemas de produccion en masa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32024960615c0ae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1728935952 - Sistema de produccion por proyectos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728937052 -.md",
+                "file": "02 - Atomic/1728937052 - Sistema de produccion Just In Time.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -206,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728937052 -.md",
+                "file": "02 - Atomic/1728937052 - Sistema de produccion Just In Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,14 +197,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728937052 -.md",
+                "file": "02 - Atomic/1728937052 - Sistema de produccion Just In Time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f97aefa6b972e655",
@@ -242,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728937052 -.md",
+                "file": "02 - Atomic/1728937052 - Sistema de produccion Just In Time.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -333,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728937052 -.md"
+                "file": "02 - Atomic/1728937052 - Sistema de produccion Just In Time.md"
               }
             }
           }
@@ -362,10 +335,11 @@
   },
   "active": "4df0581b64436534",
   "lastOpenFiles": [
-    "02 - Atomic/1728937052 -.md",
-    "02 - Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
     "02 - Atomic/1728936738 - Sistemas de produccion en masa.md",
+    "02 - Atomic/1728937052 - Sistema de produccion Just In Time.md",
+    "02 - Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
     "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
+    "02 - Atomic/1728307154 - Funciones hash.md",
     "02 - Atomic/1728935952 - Sistema de produccion por proyectos.md",
     "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02 - Atomic/1728936361 - Sistemas de produccion flexibles.md",
@@ -392,7 +366,6 @@
     "02 - Atomic/1726754186 - Criptosistemas modernos.md",
     "02 - Atomic/1726520589 - Definition - Criptosistema.md",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
-    "01.Areas/1.UC3M/Cripto.md",
     "00.References/Cripto_References_Asimetrico.pdf.crdownload",
     "99 - Meta/2. Scripts/bat",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
