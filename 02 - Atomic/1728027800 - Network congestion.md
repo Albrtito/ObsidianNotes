@@ -72,4 +72,8 @@ We an detect loss packets in two different ways, one of them is by **duplicate a
 Once we start recieving duplicate acknowledgments we **are no longer representing with our window the load that is being imposed to the network.** 
 
 **Solution:** We’ll artifitialy increment the window size when recieving a duplicated ack. **But we’ll only do this once we have recieved 3 duplicated acks**. 
+
+## TCP Tahoe:
++ Goest to window size 1 when 3 dup acks.
++ 
 ***
