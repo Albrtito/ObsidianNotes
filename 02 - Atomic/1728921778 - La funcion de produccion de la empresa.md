@@ -12,21 +12,33 @@ cssclasses:
 > [!NOTE] Definición: 
 > La parte de la empresa que se encarga de **crear los productos y/o servicios** que satisfacen las necesidades de los clientes. 
 
-+ Se define un **input que se transforma en un output a través de **: 
++ Se define un **input que se transforma en un output a través del [[1728922661 - El proceso de transformación de una empresa|El proceso de transformación]]**: 
 	+ **Inputs:** Ocurre dentro de un [[1726503731 - Entorno y competencia de la empresa|entorno]], **específico o genérico** en el que se transforman unos **factores de producción**
 	+ **Output:** Bien o servicio que se obtiene.
 
++ Esta función necesita de una **retroalimentación** para evaluar el proceso de producción.
 
-Proceso de transformación:Mecanismo de conversión de los inputs en outputs. Compuesto por tareas, flujos,almacenamiento etc. 
-+ **Tareas**: Cualquier acción realizada por los trabajadores o las máquinas sobre las materias primas
-+ **Flujos**: PUeden ser de bienes o de información. De bienes cuando los bienes se mueven de una tarea a la siguiente mientras que de información cuando lo que se intercambian son instrucciones dentro del flujo de trabajo. 
-+ **Almacenamiento:** No se realiza ninguna tarea y el bien/servicio no se lleva a ningún lugar. Se almacenan tanto bienes como servicios.
+## Objetivos: 
+Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde el [[#Tipos de sistemas productivos]] que la empresa utilizará.
 
-La diferencia entre el proceso de transformación y el flujo de bienes está en que en el flujo de bienes hay un cambio de lugar mientras que en el proceso de transformación total hay un cambio de características físicas. 
++ **Coste:** minimizar
++ **Calidad:** maximizar
++ **Tiempo de entrega:** minimizar
++ **flexibilidad:** maximizar
 
-Hay uns sere de factores que afectan al proceso de transformación:
-+ Creativos: 
-+ Directivos: Se centran en la dirección del proceso productivo para garantizar el buen funcionamiento de dicho proceso. Incluye labores de planificación, organización y control. 
-+ Elementales: Son los inputs **necesarios para obtener el output**: Capital, mano de obra y materias primas
+**Remarks:**
++ El objetivo de minimizar el coste **va en contra dle resto de los objetivos de la empresa**. 
++ Dependiendo de que tipo de empresa se sacrificará una de los cuatro objetivos a cambio del resto o se especificará el tipo de sistema productivo en uno de ellos. 
+
+### Decisiones estratégicas:
+
+**En función de la producción** debemos de preguntarnos diferentes preguntas.
+## Tipos de sistemas productivos: 
+Agrupamos los tipos de sistemas productivos en función de la **variedad del producto y el volumen de producción que tienen:**
+
+### Producción pro proyecto:
+
+
+
 
 ***

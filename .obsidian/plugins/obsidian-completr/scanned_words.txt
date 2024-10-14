@@ -1075,6 +1075,8 @@ asimetrico
 aritm
 arbitararia
 agrupar
+almacenamiento
+almacenan
 Creaci
 Crear
 Cuando
@@ -2015,6 +2017,10 @@ CgDz
 CmI
 CaSO
 CONJUNTO
+Calidad
+Compuesto
+Cualquier
+Creativos
 de
 due
 dar
@@ -4091,6 +4097,8 @@ mRE
 mwp
 mMuUeEyYiI
 mKg
+materias
+mueven
 en
 ease
 es
@@ -5169,6 +5177,7 @@ expuesta
 estoy
 elige
 elevado
+encarga
 programaci
 primer
 paso
@@ -6265,6 +6274,8 @@ primitiva
 puedo
 potencial
 produccion
+productivo
+primas
 lineal
 la
 lo
@@ -7161,6 +7172,7 @@ ligG
 lEW
 lVq
 lLXs
+labores
 tags
 tres
 todos
@@ -8150,6 +8162,9 @@ ttX
 tck
 tmEs
 tdU
+transforma
+transforman
+transformaci
 review
 resolver
 realizar
@@ -9151,6 +9166,8 @@ rRYaU
 repetir
 raiz
 referenciado
+retroalimentaci
+realizada
 References
 Resoluci
 Rectas
@@ -11234,6 +11251,9 @@ cGvk
 caJSea
 cWt
 campaz
+contra
+conversi
+centran
 sr
 se
 subproblemas
@@ -12293,6 +12313,7 @@ sHt
 slGp
 seguir
 secreto
+sere
 interval
 importancia
 incorrecto
@@ -13299,6 +13320,8 @@ iMX
 iBI
 iaZ
 igJ
+intercambian
+instrucciones
 un
 una
 utiliza
@@ -14097,6 +14120,7 @@ uYQ
 uaLt
 uNJ
 uiQ
+uns
 hora
 hacemos
 hacia
@@ -15744,6 +15768,7 @@ Ego
 ETjn
 Ezj
 EmmS
+Elementales
 vital
 variables
 vez
@@ -17378,6 +17403,8 @@ nCO
 nyF
 nei
 necessarily
+necesidades
+ning
 Identificar
 Intro
 Identificaci
@@ -18210,6 +18237,7 @@ ITU
 IHK
 IvA
 INCOMPLETE
+Incluye
 Definir
 Din
 Design
@@ -21552,6 +21580,7 @@ qTr
 qYT
 qwu
 qdU
+quinas
 Algorith
 Algorithm
 All
@@ -22481,6 +22510,7 @@ AAAAGG
 AAAAGI
 ABOUT
 Applied
+Almacenamiento
 Floyd
 Foundations
 Funci
@@ -23256,6 +23286,7 @@ FYb
 Fza
 FNQ
 FWG
+Flujos
 Warshall
 Width
 We
@@ -27427,6 +27458,7 @@ POYwhyYWh
 PSf
 Pjc
 Plane
+PUeden
 Biblio
 BitsPerComponent
 BI
@@ -28163,6 +28195,7 @@ BRlz
 BSu
 Bsy
 BECAUSE
+Bien
 Steven
 Skiena
 Serie
@@ -29918,6 +29951,7 @@ MkEo
 MBS
 MgK
 Matem
+Mecanismo
 Zivkovic
 Zo
 Zi
@@ -34596,6 +34630,7 @@ OMeze
 Oqg
 OFPKB
 ORDENES
+Ocurre
 ximo
 xrL
 xFQ
