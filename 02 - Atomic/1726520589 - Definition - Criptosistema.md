@@ -4,6 +4,7 @@ aliases:
   - Criptosistema
 tags:
   - review
+  - Cripto
 References: 
 cssclasses: 
 sr-due: 2024-10-15

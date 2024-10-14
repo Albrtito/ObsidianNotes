@@ -11,9 +11,12 @@
             "id": "345ef8843505954e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf"
+                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -126,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
+                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,13 +146,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
+                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f97aefa6b972e655",
@@ -161,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
+                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf"
+                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md"
               }
             }
           }
@@ -260,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480,
-    "collapsed": true
+    "width": 480
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,6 +284,22 @@
   },
   "active": "345ef8843505954e",
   "lastOpenFiles": [
+    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
+    "02 - Atomic/1726498694 - Definition - Criptografía.md",
+    "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
+    "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
+    "02 - Atomic/1727886467 - Estrategia de glovalización.md",
+    "02 - Atomic/1728380472 - Postulados de Golomb.md",
+    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+    "02 - Atomic/1727429966 - Packet switching.md",
+    "02 - Atomic/1727270366 - Forma estandar.md",
+    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+    "02 - Atomic/20240418 - 190338 - Fourier series.md",
+    "02 - Atomic/Systems of First-Order ODEs.md",
+    "02 - Atomic/20240507 - 153848 - The wave Equation.md",
+    "02 - Atomic/1726049339 - Definition - Switches.md",
+    "02 - Atomic/1725910455 - El valor añadido de una empresa.md",
+    "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
     "01.Areas/1.UC3M/Cripto.md",
     "02 - Atomic/1728493764 - Cifrado autenticado.md",
@@ -302,27 +321,11 @@
     "00.References/Net_Resources_s4_1.pdf",
     "02 - Atomic/1728390442 - IP Protocol.md",
     "99 - Meta/2. Scripts/Dudas DiffCalc.md",
-    "99 - Meta/2. Scripts/Dudas Calc.md",
-    "99 - Meta/2. Scripts/Dudas Networks.md",
-    "99 - Meta/2. Scripts/Dudas .md",
-    "02 - Atomic/1728481498 - - Untitled Suffix.md",
-    "02 - Atomic/1728386212 - The network layer.md",
     "99 - Meta/2. Scripts/obtener_dudas.py",
-    "99 - Meta/2. Scripts/dudas.py",
-    "02 - Atomic/20240411 - 132633 - Intro to processes.md",
-    "Dudas Networks.md",
     "99 - Meta/0. Attachments/Screenshot 2024-10-08 at 2.29.28 PM.png",
     "99 - Meta/0. Attachments/1728386212 - The network layerj-2.png",
     "99 - Meta/0. Attachments/1728386212 - The network layerj-1.png",
     "99 - Meta/0. Attachments/1728386212 - The network layerj.png",
-    "02 - Atomic/1728387775 - Best effort services.md",
-    "01.Areas/1.UC3M/Networks.md",
-    "02 - Atomic/1726572508 - The network stack.md",
-    "02 - Atomic/1728386179 - - Untitled Suffix.md",
-    "02 - Atomic/1728038869 - Transport network layer.md",
-    "02 - Atomic/1726510122 - LFSR.md",
-    "02 - Atomic/1726067427 - Tipos de empresas.md",
-    "02 - Atomic/1727710261 - Estrategias de integración.md",
     "99 - Meta/0. Attachments/1728316833 - El valor del dinero en el tiempoj.png",
     "99 - Meta/0. Attachments/1728307154 - Funciones hashj.png",
     "99 - Meta/0. Attachments/1727270270 - Method - SIMPLEXj.png",

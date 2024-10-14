@@ -6,8 +6,8 @@ tags:
   - Heuri
 References: 
 cssclasses:
-sr-due: 2024-10-14
-sr-interval: 7
+sr-due: 2024-10-30
+sr-interval: 16
 sr-ease: 230
 ---
 # Forma estandar

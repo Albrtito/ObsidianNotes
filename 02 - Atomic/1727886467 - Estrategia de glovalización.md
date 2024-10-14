@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-06
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-11-22
+sr-interval: 39
+sr-ease: 270
 ---
 # Estrategia de glovalización
 

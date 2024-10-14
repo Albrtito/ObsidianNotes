@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-07
-sr-interval: 22
-sr-ease: 270
+sr-due: 2025-01-31
+sr-interval: 109
+sr-ease: 290
 ---
 # El valor añadido de una empresa
 Al realizar una actividad empresarial, cualquier empresa tiene la capacidad de generar valor añadido. Esto es un sinónimo de crear/generar riqueza.
