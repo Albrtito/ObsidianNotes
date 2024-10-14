@@ -1,7 +1,6 @@
 import os
 import re
 import sys
-
 import yaml
 
 # Variables globales:
@@ -26,14 +25,32 @@ def has_yaml_frontmatter(file_path):
     return False
 
 
-def get_yaml(f):
-    pointer = f.tell()
-    if f.readline() != "---\n":
-        f.seek(pointer)
-        return ""
-    readline = iter(f.readline, "")
-    readline = iter(readline.next, "---\n")
-    return "".join(readline)
+    
+def get_yaml(markdown_file):
+    with open(markdown_file, 'r') as file:
+        lines = file.readlines()
+    
+    frontmatter = []
+    in_frontmatter = False
+    dashes_count = 0
+
+    for line in lines:
+        
+        if line == '---':
+            dashes_count += 1
+            if dashes_count == 1:
+                in_frontmatter = True
+                continue
+            elif dashes_count == 2:
+                break
+        
+        if in_frontmatter:
+            frontmatter.append(line)
+    
+    if dashes_count == 2:
+        return ''.join(frontmatter).strip()
+    else:
+        return None
 
 
 def buscar_dudas(etiqueta):

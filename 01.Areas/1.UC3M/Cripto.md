@@ -53,5 +53,6 @@ tags:
 + [[1728307154 - Funciones hash|Funciones hash]]
 + [[1728309909 - MAC|MAC]]
 + [[1728493764 - Cifrado autenticado|Cifrado autenticado]]
++ [[1728912947 - Cifrado asimetrico|Cifrado asimetrico]]
 ## Práctica:
 + [[1728048290 - Proyecto de criptografía UC3M|Proyecto de criptografía UC3M]]

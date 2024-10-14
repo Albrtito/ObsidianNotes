@@ -11,9 +11,32 @@
             "id": "345ef8843505954e",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Cripto_References_Asimetrico.pdf"
+              }
+            }
+          },
+          {
+            "id": "58fc7a9a152058b6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fea966f641c39bf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +44,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -129,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md",
+                "file": "01.Areas/1.UC3M/Cripto.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728493764 - Cifrado autenticado.md"
+                "file": "01.Areas/1.UC3M/Cripto.md"
               }
             }
           }
@@ -282,8 +306,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "345ef8843505954e",
+  "active": "fea966f641c39bf3",
   "lastOpenFiles": [
+    "00.References/Cripto_References_Asimetrico.pdf",
+    "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "02 - Atomic/1728493764 - Cifrado autenticado.md",
+    "00.References/Cripto_References_Asimetrico.pdf.crdownload",
     "02 - Atomic/1728309909 - MAC.md",
     "02 - Atomic/1728309728 - Autenticacion de mensajes.md",
     "02 - Atomic/1728027800 - Network congestion.md",
@@ -307,10 +336,6 @@
     "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
     "02 - Atomic/20240528 - 115005 - Lost solutions in a DE.md",
     "02 - Atomic/1728044996 - Closing a TCP connection.md",
-    "02 - Atomic/1726574469 - Application layer.md",
-    "02 - Atomic/20240620 - 170611 - Method - Partial Fractions.md",
-    "02 - Atomic/1727255580 - Loss and delay in Networks.md",
-    "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj-1.txt",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.txt",
@@ -320,8 +345,6 @@
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.py",
     "99 - Meta/0. Attachments/1728047794 - Ejemplos SIMPLEXj-1.png",
     "99 - Meta/0. Attachments/1728047794 - Ejemplos SIMPLEXj.png",
-    "99 - Meta/2. Scripts/1728486786 - Exercises - Contabilidadj.py",
-    "00.References/Net_Resources_s4_1.pdf",
     "99 - Meta/0. Attachments/Screenshot 2024-10-08 at 2.29.28 PM.png",
     "99 - Meta/0. Attachments/1728386212 - The network layerj-2.png",
     "99 - Meta/0. Attachments/1728386212 - The network layerj-1.png",
