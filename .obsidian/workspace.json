@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727096148 - Cifrador de flujo.md",
+                "file": "02 - Atomic/1728027800 - Network congestion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727096148 - Cifrador de flujo.md",
+                "file": "02 - Atomic/1728027800 - Network congestion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727096148 - Cifrador de flujo.md",
+                "file": "02 - Atomic/1728027800 - Network congestion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727096148 - Cifrador de flujo.md",
+                "file": "02 - Atomic/1728027800 - Network congestion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727096148 - Cifrador de flujo.md"
+                "file": "02 - Atomic/1728027800 - Network congestion.md"
               }
             }
           }
@@ -282,8 +282,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fea6a7bd9cb3093d",
+  "active": "345ef8843505954e",
   "lastOpenFiles": [
+    "02 - Atomic/1727096148 - Cifrador de flujo.md",
     "99 - Meta/2. Scripts/bat",
     "02 - Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
     "02 - Atomic/1725910842 - Definition - Empresa.md",
@@ -296,7 +297,6 @@
     "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
     "02 - Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02 - Atomic/1727105121 - Estrategia de la empresa.md",
-    "02 - Atomic/1727096148 - Cifrador de flujo.md",
     "02 - Atomic/1728042156 - The three way handshake.md",
     "02 - Atomic/1727886621 - Estrategia de subcontratación.md",
     "02 - Atomic/1728027800 - Network congestion.md",
@@ -321,7 +321,6 @@
     "99 - Meta/0. Attachments/1728047794 - Ejemplos SIMPLEXj.png",
     "99 - Meta/2. Scripts/1728486786 - Exercises - Contabilidadj.py",
     "00.References/Net_Resources_s4_1.pdf",
-    "99 - Meta/2. Scripts/obtener_dudas.py",
     "99 - Meta/0. Attachments/Screenshot 2024-10-08 at 2.29.28 PM.png",
     "99 - Meta/0. Attachments/1728386212 - The network layerj-2.png",
     "99 - Meta/0. Attachments/1728386212 - The network layerj-1.png",

@@ -43,7 +43,7 @@ We’ll use packet losses and apply the AIMD method:
 ### Slow start: 
 
 **What to do when starting a new flow?:** 
-1. We can start really conservative, **start with a window of 1**. 
+1. We can start really conservative, **start with a window of 1**.
    But one is to little, we’ll be incrementing for forever
 2. Estimate an RTT based on the speed of the link we have. 
    But this is to much, se can disturb other users. 

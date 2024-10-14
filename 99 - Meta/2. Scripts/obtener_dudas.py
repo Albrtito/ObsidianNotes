@@ -70,13 +70,14 @@ def buscar_dudas(etiqueta):
                 if front_matter:
                     try:
                         if front_matter and ("tags" in front_matter):
-                            for tag in front_matter["tags"]:
-                                if tag == etiqueta:
-                                    for linea in contenido:
-                                    # Buscar las líneas que contengan la etiqueta #Duda
-                                        if "#Duda" in linea:
-                                            duda = linea.split("#Duda")[-1].strip()  # Extraer la duda
-                                            dudas_encontradas.append((archivo, duda))
+                            if len(front_matter["tags"]) > 0:
+                                for tag in front_matter["tags"]:
+                                    if tag == etiqueta:
+                                        for linea in contenido:
+                                        # Buscar las líneas que contengan la etiqueta #Duda
+                                            if "#Duda" in linea:
+                                                duda = linea.split("#Duda")[-1].strip()  # Extraer la duda
+                                                dudas_encontradas.append((archivo, duda))
                     except yaml.YAMLError:
                         print(f"Error parsing YAML in {archivo}")
 
