@@ -2028,6 +2028,8 @@ Creativos
 Cuanto
 Capacidad
 Contexto
+Cualificaci
+Costes
 de
 due
 dar
@@ -3082,6 +3084,10 @@ demanda
 defectos
 disminuir
 descifrada
+definiciones
+diferenciamos
+destinado
+desplazan
 modelos
 modelo
 maximizar
@@ -6310,6 +6316,9 @@ publicado
 posea
 priorizan
 producido
+pregutnas
+permanece
+parado
 lineal
 la
 lo
@@ -9212,6 +9221,7 @@ retroalimentaci
 realizada
 retrasos
 relacionadas
+respuestas
 References
 Resoluci
 Rectas
@@ -11308,6 +11318,8 @@ continuaci
 confidencial
 compartir
 cifr
+cantiad
+continuamente
 sr
 se
 subproblemas
@@ -12371,6 +12383,7 @@ sere
 sacrificar
 supo
 sabe
+sitemas
 interval
 importancia
 incorrecto
@@ -16657,6 +16670,7 @@ vSt
 vhM
 variedad
 variabilidad
+vencen
 no
 nuestras
 ndar
@@ -23377,6 +23391,7 @@ FNQ
 FWG
 Flujos
 FORMA
+FIJA
 Warshall
 Width
 We
@@ -26650,6 +26665,8 @@ graphs
 grap
 gausiano
 gaussiano
+gana
+goleada
 Programaci
 Para
 Problema
@@ -27552,6 +27569,9 @@ Plane
 PUeden
 Precios
 POSIBLES
+PROUCRTO
+Planificaci
+POSICI
 Biblio
 BitsPerComponent
 BI
@@ -28290,6 +28310,7 @@ Bsy
 BECAUSE
 Bien
 BUSCAR
+Bajo
 Steven
 Skiena
 Serie
@@ -30048,6 +30069,7 @@ Matem
 Mecanismo
 Mantenimiento
 Martin
+Maquinaria
 Zivkovic
 Zo
 Zi
@@ -32374,6 +32396,7 @@ bqi
 bajos
 basada
 brit
+bajas
 Util
 Una
 UniZumo
@@ -38631,6 +38654,7 @@ Nyf
 NHR
 New
 Noviembre
+NICO
 Xr
 XObject
 Xw

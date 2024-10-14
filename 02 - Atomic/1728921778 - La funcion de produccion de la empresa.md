@@ -41,12 +41,7 @@ Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde e
 
 Según las respuestas a estas pregutnas se elegirá un [[1728935315 - Tipos de sistemas productivos de la empresa|Tipos de sistemas productivos]].
 
-## Tipos de sistemas productivos: 
-Agrupamos los tipos de sistemas productivos en función de la **variedad del producto y el volumen de producción que tienen:**
 
-En estos sistemas productivos definimos la distribución en planta como la disposición en la que se encuentran las máquinas y herramientas para la producción
-
-+ Entre estos sistemas de producción podemos comparar el sistema de producción flexible con el de producción en masa. La diferencia esta en la variabilidad de costes (diferencia entre costes fijos y variables). **Todo depende de la cantidad de producto a producir**
 ### Producción por proyecto:
 Se cubren las necesidades **específicas de cada cliente. Cada proyecto es UNICO**.
 
