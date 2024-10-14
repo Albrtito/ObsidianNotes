@@ -26,6 +26,6 @@ Esto conlleva las siguientes características:
 + **Costes variables:** Altos 
 + **Planificación:** Dificil, cambia continuamente
 
-## Distribución en planta:
+## Distribución en planta: Posición fija:
 La distribución en planta será **DE POSICIÓN FIJA**, el bien permanece parado, los inputs se desplazan hasta el.
 ***

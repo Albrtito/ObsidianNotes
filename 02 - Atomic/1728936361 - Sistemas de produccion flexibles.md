@@ -6,6 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
+sr-due: 2024-10-15
+sr-interval: 1
+sr-ease: 230
 ---
 # Sistemas de produccion flexibles
 
@@ -14,19 +17,35 @@ cssclasses:
 > + Pocos clientes
 > + Mismo producto con características distintas
 > + Precios elevados
-> + Movimiento a 
+> + Movimiento a donde esta el producto
 
 Esto conlleva las siguientes características:
 ## Características:
 
-+ **Volumen**: Bajo
++ **Volumen**: Medio-Bajo
 + **Variabilidad**: alta
-+ **Cualificación**: alta
++ **Cualificación**: Alta y Polivalente, se necesita del trabajo en equipo
 + **Maquinaria:** De uso general 
 + **Costes variables:** Altos 
-+ **Planificación:** Dificil, cambia continuamente
 
-## Distribución en planta:
-La distribución en planta será **DE POSICIÓN FIJA**, el bien permanece parado, los inputs se desplazan hasta el.
+
+## Distribución en planta: Funcional o por procesos:
+> Cada cosa va en su lugar
+
+La disposición en planta agrupa zonas en las que esta toda la maquinaria necesaria para una única tarea. Se crean centros de trabajo.
+
+### Pros&Cons:
+
+**PROS:**
++ Se utilizan mucho las máquinas
++ Se sustituyen facilmente las máquinas
++ Supervisión mutua entre operarios.
+
+**CONS:**
++ Distancia entre funciones
++ Desperdicios de transported
++ No hay un flujo entre zonas 
++ Alto nivel de todo, no se busca la optimización de los materiales
+
 
 ***

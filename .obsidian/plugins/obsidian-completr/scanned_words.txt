@@ -5210,6 +5210,8 @@ entero
 equacion
 elevar
 explica
+elevados
+equipo
 programaci
 primer
 paso
@@ -27572,6 +27574,9 @@ POSIBLES
 PROUCRTO
 Planificaci
 POSICI
+Pocos
+Polivalente
+Posici
 Biblio
 BitsPerComponent
 BI
@@ -30070,6 +30075,7 @@ Mecanismo
 Mantenimiento
 Martin
 Maquinaria
+Movimiento
 Zivkovic
 Zo
 Zi

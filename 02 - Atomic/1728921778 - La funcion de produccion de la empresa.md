@@ -42,20 +42,6 @@ Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde e
 Según las respuestas a estas pregutnas se elegirá un [[1728935315 - Tipos de sistemas productivos de la empresa|Tipos de sistemas productivos]].
 
 
-### Producción por proyecto:
-Se cubren las necesidades **específicas de cada cliente. Cada proyecto es UNICO**.
-
-+ Dificil de planificar
-
-**Distribución en planta:** **De posición variable**, se mueve la empresa al lugar del proyecto. 
-
-
-### Producción flexible:
-
-**Distribución en planta: Distribución por procesos o funcional**, cada lugar tiene su función, las herramientas y máquinas específicas para ese trabajo se encuentran juntas
-
-+ Alto grado de utilización de máquinas
-
 ### Producción en masa: 
 Sistema de producción cuyo objetivo es lograr **máxima eficiencia** creando **poca variabilidad**.
 
