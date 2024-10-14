@@ -37,7 +37,10 @@ Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde e
 1. **Que producir**? → Diseño del producto
 2. **Como hacerlo**? → Diseño del sistema y distribución de la planta
 3. **Cuanto producir**? → Capacidad de la planta
-4. **Donde producir**? → 
+4. **Donde producir**? → Localización de la planta
+
+Según las respuestas a estas pregutnas se elegirá un [[1728935315 - Tipos de sistemas productivos de la empresa|Tipos de sistemas productivos]].
+
 ## Tipos de sistemas productivos: 
 Agrupamos los tipos de sistemas productivos en función de la **variedad del producto y el volumen de producción que tienen:**
 

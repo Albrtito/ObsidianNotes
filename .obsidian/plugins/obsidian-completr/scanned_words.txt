@@ -4116,6 +4116,7 @@ masa
 mueve
 mentales
 mandarle
+maximizia
 en
 ease
 es
@@ -6307,6 +6308,8 @@ plazos
 pasar
 publicado
 posea
+priorizan
+producido
 lineal
 la
 lo
@@ -8203,6 +8206,7 @@ transforma
 transforman
 transformaci
 tarde
+tomada
 review
 resolver
 realizar
@@ -20034,6 +20038,7 @@ ficas
 funcional
 flujosy
 fue
+flexibles
 objetivo
 obtener
 of
@@ -33937,6 +33942,7 @@ QQF
 QeqT
 QtX
 QlD
+Qeremos
 Obtener
 Opti
 Objetivo
