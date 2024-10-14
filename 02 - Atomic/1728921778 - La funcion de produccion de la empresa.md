@@ -36,8 +36,31 @@ Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde e
 ## Tipos de sistemas productivos: 
 Agrupamos los tipos de sistemas productivos en función de la **variedad del producto y el volumen de producción que tienen:**
 
-### Producción pro proyecto:
+En estos sistemas productivos definimos la distribución en planta como la disposición en la que se encuentran las máquinas y herramientas para la producción
 
++ Entre estos sistemas de producción podemos comparar el sistema de producción flexible con el de producción en masa. La diferencia esta en la variabilidad de costes (diferencia entre costes fijos y variables). Cuanta más producció
+### Producción por proyecto:
+Se cubren las necesidades **específicas de cada cliente. Cada proyecto es UNICO**.
+
++ Dificil de planificar
+
+**Distribución en planta:** **De posición variable**, se mueve la empresa al lugar del proyecto. 
+
+
+### Producción flexible:
+
+**Distribución en planta: Distribución por procesos o funcional**, cada lugar tiene su función, las herramientas y máquinas específicas para ese trabajo se encuentran juntas
+
++ Alto grado de utilización de máquinas
+
+### Producción en masa: 
+Sistema de producción cuyo objetivo es lograr **máxima eficiencia** creando **poca variabilidad**.
+
++ Poca cualificación
++ Altos costes fijos
++ Variabilidad baja
++ Precios bajos (variables)
++ Posibles problemas mentales y físicos en los trabajadores.
 
 
 
