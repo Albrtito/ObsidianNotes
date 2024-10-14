@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-05
-sr-interval: 5
-sr-ease: 190
+sr-due: 2024-10-18
+sr-interval: 4
+sr-ease: 170
 ---
 # Tipos de empresas
 Podemos dividir los tipos de empresa según: 
@@ -31,11 +31,11 @@ Desde un punto de vista legal podemos analizar las empresas bajo dos importantes
 ### Como elegir tipo: 
 Se tienen en cuenta los siguientes aspectos:
 1. **Tipo de actividad:** Se require un tipo de forma jurídica?
-2. **Responsabilidad:** Que responsabilidad se quiere tener respecto a los bienes de la empresa?
+2. ==**Responsabilidad:** Que responsabilidad se quiere tener respecto a los bienes de la empresa?==
 #Duda : Cuando hablamos de bienes de la empresa, lo estamos usando como un sinónimo de capital?
 3. **Fiscalidad:** Impuestos
 4. ==**Gastos de constitución y mantenimiento:** Las empresas sociales grandes requieren una gestión de gobierno interior para solucionar el problema de agencia==
-5. ==**Flexibilidad:** Quienes forman la empresa? Queremos que esto cambie pronto?==
+5. **Flexibilidad:** Quienes forman la empresa? Queremos que esto cambie pronto?
 ### ==Titularidad de los medios de producción:==
 Esto se traduce a titularidad del capital total de la empresa. Dividimos empresas en dos grandes grupos.
 + **Privadas**: Aquellas empresas tituladas por conjuntos de ciudadanos. Con poca o nula aportación económica del estado.

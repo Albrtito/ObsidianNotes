@@ -2923,6 +2923,7 @@ dropping
 dudas
 domain
 diverges
+delivery
 modelos
 modelo
 maximizar
@@ -25211,6 +25212,7 @@ ganancia
 goal
 generalise
 generalisation
+guarantees
 Programaci
 Para
 Problema

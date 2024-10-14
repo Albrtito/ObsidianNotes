@@ -1,11 +1,10 @@
 ---
-sr-due: 2024-06-18
-sr-interval: 77
-sr-ease: 270
+sr-due: 2024-10-09
+sr-interval: 9
+sr-ease: 190
 date: 2024-02-08
 tags:
   - DiffCalc
-  - review
 "References:":
   - https://www.youtube.com/watch?v=p_di4Zn4wz4
   - https://ocw.uc3m.es/pluginfile.php/3662/mod_page/content/20/tema-1.pdf
@@ -13,9 +12,6 @@ aliases:
   - Definition - Differential Equations
   - Differential Equations
   - DE
-sr-due: 2024-10-09
-sr-interval: 9
-sr-ease: 190
 ---
 # Differential equations:
 

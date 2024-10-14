@@ -6,8 +6,8 @@ tags:
   - Networks
 References: "[[Net_Biblio_Kurose.pdf#page=28]]"
 cssclasses:
-sr-due: 2024-10-13
-sr-interval: 16
+sr-due: 2024-11-21
+sr-interval: 38
 sr-ease: 230
 ---
 # Intro to networking

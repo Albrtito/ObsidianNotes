@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md"
+                "file": "02 - Atomic/1727709332 - Estrategias corporativas de la empresa.md"
               }
             }
           }
@@ -284,9 +284,22 @@
   },
   "active": "345ef8843505954e",
   "lastOpenFiles": [
-    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
-    "02 - Atomic/1726498694 - Definition - Criptografía.md",
+    "02 - Atomic/1726067427 - Tipos de empresas.md",
+    "02 - Atomic/1728387775 - Best effort services.md",
+    "02 - Atomic/1728380111 - Generacion de series pseudoaleatorias.md",
+    "02 - Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+    "02 - Atomic/1726499016 - Definir objetivos en la empresa.md",
+    "02 - Atomic/20240528 - 103502 - The exponential differential equation.md",
     "02 - Atomic/20240620 - 201418 - Improper Integrals.md",
+    "02 - Atomic/1728309909 - MAC.md",
+    "02 - Atomic/1727187154 - Method - RDT Over reliable channel.md",
+    "02 - Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
+    "02 - Atomic/1725968193 - Intro to networking.md",
+    "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+    "02 - Atomic/1726049178 - Definition - Communication links.md",
+    "02 - Atomic/The Laplace transform.md",
+    "02 - Atomic/1726498694 - Definition - Criptografía.md",
+    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
     "02 - Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02 - Atomic/1727886467 - Estrategia de glovalización.md",
     "02 - Atomic/1728380472 - Postulados de Golomb.md",
@@ -297,14 +310,7 @@
     "02 - Atomic/20240418 - 190338 - Fourier series.md",
     "02 - Atomic/Systems of First-Order ODEs.md",
     "02 - Atomic/20240507 - 153848 - The wave Equation.md",
-    "02 - Atomic/1726049339 - Definition - Switches.md",
-    "02 - Atomic/1725910455 - El valor añadido de una empresa.md",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
-    "02 - Atomic/1728048290 - Proyecto de criptografía UC3M.md",
-    "01.Areas/1.UC3M/Cripto.md",
-    "02 - Atomic/1728493764 - Cifrado autenticado.md",
-    "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
-    "02 - Atomic/1728309909 - MAC.md",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj-1.txt",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.txt",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.",
@@ -313,14 +319,8 @@
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.py",
     "99 - Meta/0. Attachments/1728047794 - Ejemplos SIMPLEXj-1.png",
     "99 - Meta/0. Attachments/1728047794 - Ejemplos SIMPLEXj.png",
-    "02 - Atomic/1728494670 - Hola.md",
-    "02 - Atomic/1728307154 - Funciones hash.md",
-    "02 - Atomic/1727121162 - Contabilidad.md",
-    "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
     "99 - Meta/2. Scripts/1728486786 - Exercises - Contabilidadj.py",
     "00.References/Net_Resources_s4_1.pdf",
-    "02 - Atomic/1728390442 - IP Protocol.md",
-    "99 - Meta/2. Scripts/Dudas DiffCalc.md",
     "99 - Meta/2. Scripts/obtener_dudas.py",
     "99 - Meta/0. Attachments/Screenshot 2024-10-08 at 2.29.28 PM.png",
     "99 - Meta/0. Attachments/1728386212 - The network layerj-2.png",

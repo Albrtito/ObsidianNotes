@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-13
-sr-interval: 10
+sr-due: 2024-11-09
+sr-interval: 26
 sr-ease: 250
 ---
 # Definición de objetivos en la empresa

@@ -3,7 +3,6 @@ aliases:
   - Improper Integrals
 Date: 2024-03-12
 tags:
-  - review
   - DiffCalc
   - CalcI
 "References:": 

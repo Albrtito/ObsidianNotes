@@ -6,9 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-10-09
+sr-due: 2024-10-15
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 # Complejidad lineal de una serie cifrante
 > [!NOTE] Definición: 
