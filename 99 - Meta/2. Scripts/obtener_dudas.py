@@ -63,13 +63,13 @@ def buscar_dudas(etiqueta):
                 # Se salta el archivo si no tiene YAML frontmatter pq no tiene sentido buscar etiqueta
                 if not has_yaml_frontmatter(os.path.join(carpeta, archivo)):
                     continue
-                front_matter = next(yaml.load_all(f, Loader=yaml.FullLoader))
+                #front_matter = next(yaml.load_all(f, Loader=yaml.FullLoader))
+                front_matter, contenido = list(yaml.load_all(f, Loader=yaml.FullLoader))[:2]
                 print(f"YAML ENCONTRADO: {front_matter}")
-
                 # Leer el fontmatter del archivo y extraer las etiquetas
                 if front_matter:
                     try:
-                        if front_matter and "tags" in front_matter:
+                        if front_matter and ("tags" in front_matter):
                             for tag in front_matter["tags"]:
                                 if tag == etiqueta:
                                     for linea in contenido:
