@@ -5167,6 +5167,7 @@ entoces
 expuesta
 estoy
 elige
+elevado
 programaci
 primer
 paso
@@ -6261,6 +6262,7 @@ patron
 predecible
 primitiva
 puedo
+potencial
 lineal
 la
 lo
@@ -26522,6 +26524,7 @@ gJzjI
 graphs
 grap
 gausiano
+gaussiano
 Programaci
 Para
 Problema
@@ -29911,6 +29914,7 @@ MrQ
 MkEo
 MBS
 MgK
+Matem
 Zivkovic
 Zo
 Zi

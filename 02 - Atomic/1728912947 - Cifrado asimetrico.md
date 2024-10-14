@@ -14,16 +14,9 @@ cssclasses:
 > + [[1727100415 - Theorem - Indicador de Euler|Theorem - Indicador de Euler]]
 > + [[20240519 - 232552 - Definition - Relatively prime numbers|Relatively prime numbers]]
 
-## Básicos matemáticos: 
-### Restos potenciales: 
-Al igual que muchas otras propiedades, las potencias de un número a en módulo n se repetirán con un patron predecible.
-
-Dados dos números coprimos existe **al menos un m tal que:**
-$$a^m = 1 \mod n$$
-Entonces: 
-$$a^{\phi(n)} = 1 \mod n \rightarrow m = \phi(n)$$
-+ Si existe más que un solo m, entoces m ha de ser divisor de $\phi(n)$
-
+## Más bases matemáticas: 
++ [[1728916836 - Restos potenciales|Restos potenciales]]
++ 
 Hablamso entonces de **ORDENES GAUSIANOS**. El orden gausiano de a respecto a un módulo n será denominado como w y seguirá la definición expuesta más arriba:
 $$ a^w = 1 \mod n$$
 $$w = \text{orden}(a,n)$$
