@@ -1,11 +1,14 @@
 ---
 aliases:
   - Theorem - Indicador de Euler
+  - Indicador de Euler
+  - Eulers totient function
 tags:
   - review
   - Cripto
+  - Discrete
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-10-15
 sr-interval: 1
 sr-ease: 130

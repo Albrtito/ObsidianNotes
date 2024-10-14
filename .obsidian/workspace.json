@@ -42,9 +42,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d567de2ec5c6322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1728916836 - Restos potenciales.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "file": "02 - Atomic/1728916836 - Restos potenciales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "file": "02 - Atomic/1728916836 - Restos potenciales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "file": "02 - Atomic/1728916836 - Restos potenciales.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md"
+                "file": "02 - Atomic/1728916836 - Restos potenciales.md"
               }
             }
           }
@@ -288,7 +301,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480
+    "width": 480,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,13 +320,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "58fc7a9a152058b6",
+  "active": "8d567de2ec5c6322",
   "lastOpenFiles": [
-    "00.References/Cripto_References_Asimetrico.pdf",
     "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+    "02 - Atomic/1728916836 - Restos potenciales.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
-    "02 - Atomic/20240515 - 035256 - Euler's formula.md",
     "02 - Atomic/20240520 - 173827 - Definition - Euler's totient function.md",
+    "00.References/Cripto_References_Asimetrico.pdf",
+    "02 - Atomic/20240515 - 035256 - Euler's formula.md",
     "02 - Atomic/1726754186 - Criptosistemas modernos.md",
     "02 - Atomic/1726520589 - Definition - Criptosistema.md",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",

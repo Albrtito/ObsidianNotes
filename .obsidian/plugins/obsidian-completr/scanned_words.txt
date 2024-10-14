@@ -1073,6 +1073,8 @@ aMq
 aaf
 asimetrico
 aritm
+arbitararia
+agrupar
 Creaci
 Crear
 Cuando
@@ -3059,6 +3061,7 @@ dKwjC
 divisor
 denominado
 discretos
+dulos
 modelos
 modelo
 maximizar
@@ -5162,6 +5165,8 @@ esz
 exponer
 entoces
 expuesta
+estoy
+elige
 programaci
 primer
 paso
@@ -6255,6 +6260,7 @@ potencias
 patron
 predecible
 primitiva
+puedo
 lineal
 la
 lo
@@ -12281,6 +12287,7 @@ snS
 sHt
 slGp
 seguir
+secreto
 interval
 importancia
 incorrecto
@@ -19054,6 +19061,7 @@ DlE
 DfFmT
 DON
 Dados
+Defintion
 funci
 fibonacci
 fica
@@ -19914,6 +19922,7 @@ ffLe
 fiB
 fQQ
 faces
+facilmente
 objetivo
 obtener
 of
