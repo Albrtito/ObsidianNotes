@@ -6,7 +6,7 @@
       {
         "id": "02739d78b66b3be7",
         "type": "tabs",
-        "dimension": 16.070620190131283,
+        "dimension": 14.450867052023122,
         "children": [
           {
             "id": "12758e327308ec42",
@@ -21,7 +21,7 @@
       {
         "id": "c0ed840f92fc3792",
         "type": "tabs",
-        "dimension": 83.92937980986872,
+        "dimension": 85.54913294797689,
         "children": [
           {
             "id": "345ef8843505954e",
@@ -346,7 +346,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "12758e327308ec42",
+  "active": "8d567de2ec5c6322",
   "lastOpenFiles": [
     "02 - Atomic/1728919808 - Logaritmos discretos.md",
     "00.References/Cripto_References_Asimetrico.pdf",
