@@ -22,29 +22,15 @@ def has_yaml_frontmatter(file_path):
 # If no closing '---' is found, return False
     return False
 
+def get_yaml(f):
+  pointer = f.tell()
+  if f.readline() != '---\n':
+    f.seek(pointer)
+    return ''
+  readline = iter(f.readline, '')
+  readline = iter(readline.next, '---\n')
+  return ''.join(readline)
 
-# Ahora mismo esta función no esta activa
-def obtener_todas_las_etiquetas():
-    carpeta = "../../02 - Atomic"  # Ruta relativa desde "99 - Meta/2. Scripts"
-    etiquetas_encontradas = set()  # Usamos un set para evitar etiquetas duplicadas
-
-    # Expresión regular para encontrar etiquetas
-    patron_etiqueta = re.compile(r"#\w+")
-
-    # Iterar sobre todos los archivos de la carpeta
-    for archivo in os.listdir(carpeta):
-        if archivo.endswith(".md"):
-            with open(os.path.join(carpeta, archivo), "r", encoding="utf-8") as f:
-                contenido = f.readlines()
-
-                # Buscar todas las etiquetas en cada línea
-                for linea in contenido:
-                    etiquetas = patron_etiqueta.findall(linea)
-                    for etiqueta in etiquetas:
-                        if etiqueta != "#Duda":  # Ignorar la etiqueta #Duda
-                            etiquetas_encontradas.add(etiqueta)
-
-    return etiquetas_encontradas
 
 
 def buscar_dudas(etiqueta):
@@ -57,21 +43,25 @@ def buscar_dudas(etiqueta):
     # Iterar sobre todos los archivos markdown de la carpeta
     for archivo in os.listdir(carpeta):
         if archivo.endswith(".md"):
+
             with open(os.path.join(carpeta, archivo), "r", encoding="utf-8") as f:
                 print(f"Buscando dudas en {archivo}")
-                
+
                 # Se salta el archivo si no tiene YAML frontmatter pq no tiene sentido buscar etiqueta
                 if not has_yaml_frontmatter(os.path.join(carpeta, archivo)):
+                    print(f"No tiene YAML frontmatter")
                     continue
-                #front_matter = next(yaml.load_all(f, Loader=yaml.FullLoader))
-                front_matter, contenido = list(yaml.load_all(f, Loader=yaml.FullLoader))[:2]
-                print(f"YAML ENCONTRADO: {front_matter}")
+                
+                config = yaml.load(get_yaml(f), Loader=yaml.FullLoader)
+                contenido = f.readlines()
+
+                print(f"YAML ENCONTRADO: {config}")
                 # Leer el fontmatter del archivo y extraer las etiquetas
-                if front_matter:
+                if config:
                     try:
-                        if front_matter and ("tags" in front_matter):
-                            if len(front_matter["tags"]) > 0:
-                                for tag in front_matter["tags"]:
+                        if  config and ("tags" in config):
+                            if len(config["tags"]) > 0:
+                                for tag in config["tags"]:
                                     if tag == etiqueta:
                                         for linea in contenido:
                                         # Buscar las líneas que contengan la etiqueta #Duda
