@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+                "file": "02 - Atomic/1726825216 - Programación Dinámica.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+                "file": "02 - Atomic/1726825216 - Programación Dinámica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+                "file": "02 - Atomic/1726825216 - Programación Dinámica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
+                "file": "02 - Atomic/1726825216 - Programación Dinámica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727187769 - Method - RDT With errors and loss.md"
+                "file": "02 - Atomic/1726825216 - Programación Dinámica.md"
               }
             }
           }
@@ -299,6 +299,7 @@
   },
   "active": "345ef8843505954e",
   "lastOpenFiles": [
+    "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
     "02 - Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
     "02 - Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
     "02 - Atomic/1728912947 - Cifrado asimetrico.md",
@@ -329,7 +330,6 @@
     "02 - Atomic/1728919808 - Logaritmos discretos.md",
     "02 - Atomic/1725910842 - Definition - Empresa.md",
     "02 - Atomic/1725895664 - Naturaleza y de la empresa.md",
-    "02 - Atomic/1725918135 - Teoría económica de la empresa.md",
     "00.References/Cripto_References_Asimetrico.pdf.crdownload",
     "99 - Meta/2. Scripts/bat",
     "00.References/MovilidadInt_ListadoPlzOfertadas25.pdf",
