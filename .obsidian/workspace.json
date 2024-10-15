@@ -24,7 +24,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -288,7 +287,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "5bf0c8ec4457c115",
+  "active": "345ef8843505954e",
   "lastOpenFiles": [
     "02 - Atomic/1728307154 - Funciones hash.md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
