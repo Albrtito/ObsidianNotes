@@ -7,8 +7,8 @@ tags:
   - Cripto
 References: 
 cssclasses: 
-sr-due: 2024-10-15
-sr-interval: 11
+sr-due: 2024-11-07
+sr-interval: 23
 sr-ease: 230
 ---
 # Definition - Criptosistema

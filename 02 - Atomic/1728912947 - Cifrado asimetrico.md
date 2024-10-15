@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-10-15
-sr-interval: 1
+sr-due: 2024-10-17
+sr-interval: 2
 sr-ease: 212
 ---
 # Cifrado asimetrico
@@ -37,7 +37,7 @@ sr-ease: 212
   **Remarks:**
   No solo tenemos esta propiedad sino que además se cumple: 
 
-+ **Si a es una raiz primitiva de n, el logarimo siempre existe, x existe**. 
++ **Si a es una ==raiz primitiva== de n, el logarimo siempre existe, x existe**. 
 
 
 ## Modelo de los criptosistemas asimétricos:

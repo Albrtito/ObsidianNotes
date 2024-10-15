@@ -9,9 +9,9 @@ tags:
   - Discrete
 References: 
 cssclasses: 
-sr-due: 2024-10-15
-sr-interval: 1
-sr-ease: 130
+sr-due: 2024-10-17
+sr-interval: 2
+sr-ease: 150
 ---
 # Theorem - Indicador de Euler
 

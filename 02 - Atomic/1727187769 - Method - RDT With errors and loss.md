@@ -21,7 +21,7 @@ sr-ease: 210
 Once the package is send a timer starts, when the timer ends, the sender asumes that the package has been lost **and retransmits it**. 
 + Duplicate packages can be generated → We already have sequence numbers to deal with this. 
 + ==The timer waits for **exactly 1 RTT** (Round Trip Time)==
-	+ To compute the RTT we can check the history of packages sent and how long they took. **However the only variable that will change the RTT is the queueing delay**. This means that the last package wont be a good prediction of the next one. 
+	+ To compute the RTT we can check the history of packages sent and how long they took. **However the only variable that will change the RTT is the queueing delay**. This means that the last package wont be a good prediction of the next one. → See [[RTT]]
 	+ Because it is an estimation. The RTT will be wrong some times. 
 	+ For the first package: Either be very agressive and start sending with small RTT untill there is a response, or be loose and set a long RTT. THe thing is we need that first response to estimate a better RTT.
 + We say that packages are retransmitted, however ack packages are **never retransmitted** but send again for a retransmitted package.

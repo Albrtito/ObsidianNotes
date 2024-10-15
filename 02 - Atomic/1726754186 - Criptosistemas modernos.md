@@ -17,6 +17,7 @@ Dividimos los criptosistemas modernosen sistemas simétricos y asimétricos seg�
 **Simétricos:**
 + [[1727096148 - Cifrador de flujo|Cifrador de flujo]]
 + [[1727808593 - Cifradores de bloque|Cifradores de bloque]]
++ [[1726493246 - Algorithm - AES|AES]]
 
 **Asimétricos:**
 ***

@@ -2033,6 +2033,7 @@ Cualificaci
 Costes
 CONS
 Cerca
+Classification
 de
 due
 dar
@@ -3093,6 +3094,7 @@ destinado
 desplazan
 dificultad
 desmotivaci
+descifra
 modelos
 modelo
 maximizar
@@ -5218,6 +5220,7 @@ elevar
 explica
 elevados
 equipo
+explicado
 programaci
 primer
 paso
@@ -7236,6 +7239,7 @@ logaritmo
 logaritmos
 logarimo
 linea
+linearity
 tags
 tres
 todos
@@ -9240,6 +9244,7 @@ retrasos
 relacionadas
 respuestas
 rato
+relacionan
 References
 Resoluci
 Rectas
@@ -13423,6 +13428,7 @@ ingleses
 indiferenciables
 insatisfacci
 inventarios
+implmenta
 un
 una
 utiliza
@@ -14983,6 +14989,7 @@ hGX
 hDe
 hist
 habr
+highest
 Es
 Este
 Ejemplos
@@ -22644,6 +22651,8 @@ Alto
 Altos
 Alta
 Altamente
+Aplicaci
+Alice
 Floyd
 Foundations
 Funci
@@ -25859,6 +25868,7 @@ TCF
 THIS
 THEORY
 TODO
+Texto
 grafo
 guardan
 global
@@ -29244,6 +29254,7 @@ Stl
 SxeU
 SRRI
 SHIT
+Sketch
 Manual
 Modelar
 Millones
@@ -34797,6 +34808,7 @@ Oqg
 OFPKB
 ORDENES
 Ocurre
+Order
 ximo
 xrL
 xFQ
