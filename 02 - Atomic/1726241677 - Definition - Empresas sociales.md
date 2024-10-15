@@ -7,8 +7,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-09
-sr-interval: 6
+sr-due: 2024-11-01
+sr-interval: 17
 sr-ease: 170
 ---
 # Definition - Empresas sociales
@@ -21,7 +21,7 @@ Dividimos entre diferentes tipos de empresas sociales
 1. **Sociedades personalistas:**
 Son aquellas en las que los socios son.Con **independencia a la aportación de económica.** 
 + La condición de socio es intransmisible
-	1. [[1726428212 - Definition - Sociedad Colectiva|Sociedad Colectiva]]
+	1. ==[[1726428212 - Definition - Sociedad Colectiva|Sociedad Colectiva]]==
 	2. Sociedad comanditaria simple
 2. **Sociedades de capitales:**
 **La aportación económica cuenta por encima de la condición de socio**. 

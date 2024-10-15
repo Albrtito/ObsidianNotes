@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses: 
-sr-due: 2024-10-15
-sr-interval: 1
+sr-due: 2024-10-17
+sr-interval: 2
 sr-ease: 224
 ---
 # La funcion de produccion de la empresa
@@ -28,7 +28,7 @@ Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde e
 
 1. **Coste:** Queremos minimizar
 2. **Calidad:** Queremos maximizar
-3. **Tiempo de entrega:** Queremos minimizar
+3. ==**Tiempo de entrega:** Queremos minimizar==
 3. **Flexibilidad:** Qeremos maximizia
 
 **Remarks:**
@@ -39,7 +39,7 @@ Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde e
 **En función de la producción:** Debemos de preguntarnos diferentes preguntas.
 1. **Que producir**? → Diseño del producto
 2. **Como hacerlo**? → Diseño del sistema y distribución de la planta
-3. **Cuanto producir**? → Capacidad de la planta
+3. ==**Cuanto producir**? → Capacidad de la planta==
 4. **Donde producir**? → Localización de la planta
 
 Según las respuestas a estas pregutnas se elegirá un [[1728935315 - Tipos de sistemas productivos de la empresa|Tipos de sistemas productivos]].

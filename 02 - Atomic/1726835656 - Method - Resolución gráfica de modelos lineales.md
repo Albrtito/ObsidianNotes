@@ -6,8 +6,8 @@ tags:
   - Heuri
 References: 
 cssclasses:
-sr-due: 2024-10-10
-sr-interval: 13
+sr-due: 2024-11-25
+sr-interval: 41
 sr-ease: 250
 ---
 # Method - Resolución gráfica de modelos lineales

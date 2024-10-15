@@ -3,13 +3,10 @@ aliases:
   - Funciones hash
   - Funciones resumen
 tags:
-  - review
   - Cripto
+  - incomplete
 References: 
 cssclasses:
-sr-due: 2024-10-08
-sr-interval: 1
-sr-ease: 230
 ---
 # Funciones hash
 

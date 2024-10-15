@@ -26,6 +26,6 @@ Esto conlleva las siguientes características:
 + Sistema kanban
 
 ### Objetivos:
-Conseguir un cero todo: **defectos, averías, papel, inventarios, retrasos o plazos**
+==Conseguir un cero todo: **defectos, averías, papel, inventarios, retrasos o plazos**==
 
 ***
