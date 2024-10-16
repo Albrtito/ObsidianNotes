@@ -301,7 +301,7 @@
                   "repelStrength": 18.5975922131148,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 304,
-                  "scale": 0.09166274292398659,
+                  "scale": 1.0127741333135385,
                   "close": true
                 }
               }
@@ -349,8 +349,8 @@
   "active": "587537bb48f8714b",
   "lastOpenFiles": [
     "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1728380111 - Generacion de series pseudoaleatorias.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "02 - Atomic/1728309909 - MAC.md",

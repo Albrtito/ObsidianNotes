@@ -2056,6 +2056,7 @@ Contrato
 Compuesta
 CONICI
 CONTINUE
+CONDICI
 de
 due
 dar
@@ -6395,6 +6396,7 @@ partiendolos
 perderse
 permitan
 permita
+propuesta
 lineal
 la
 lo
@@ -13566,6 +13568,7 @@ infactible
 inc
 igualmente
 incrementando
+incognita
 un
 una
 utiliza
@@ -16852,6 +16855,7 @@ viajero
 viaje
 vac
 veremos
+vuelve
 no
 nuestras
 ndar
@@ -19379,6 +19383,7 @@ Diffe
 Desperdicios
 Dualidad
 Dos
+Decidida
 funci
 fibonacci
 fica
