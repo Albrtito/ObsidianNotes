@@ -8,6 +8,26 @@ tags:
 References: 
 cssclasses:
 ---
+
+# Method - SIMPLEX:
+
+> [!NOTE] Definition: 
+> El método simplex se usa para **econtrar soluciones a problemas lineales**. Para ello, recorre las aristas de la región de soluciones factibles buscando puntos que resuelvan el problema. 
+> Una vez encontrado un punto comprueba si existe algún otro punto con el que se consiga una mejor solución (la solución será un valor mayor para la función objetivo), si existe lo busca, en caso contrario finaliza habiendo encontrado 
+
++ Si representásemos lo que hace el algoritmo en un plano bidimensional obtendríamos algo así. 
+![[1727270270 - Method - SIMPLEXj.png|center|350]]
+
+> [!quote] Remember: 
+> Recordemos que un problema lineal en forma estandar está definido de la siguiente forma:
+> 
+> 
+
+## Nomenglatura:
+Las nomenglatura básica del simplesx, para no perderse entre tanto vector, matriz y algebra.
+
++ **z:** Valor de la función objetivo. **z’** es lo mismo pero teniendo en cuenta que ha sido transformada de minimización a maximización.
++ **x** → **Vector**: Vector de incógnitas 
 ## Pasos: 
 1. Primera base será matriz identidad 
 2. $x_b = B^{-1}b: z = C_B^T \cdot x_B$
@@ -22,14 +42,6 @@ cssclasses:
 			+ **infinitas:** Si alguna es igual a 0
 4. **Regla de salida:** Vamos a ver que variable sale: 
    $$ \min\{\frac{X_{B_i}}{y_{ji}}\}$$
-# Method - SIMPLEX:
-
-> [!NOTE] Definition: 
-> El método simplex se usa para **econtrar soluciones a problemas lineales**. Para ello, recorre las aristas de la región de soluciones factibles buscando puntos que resuelvan el problema. 
-> Una vez encontrado un punto comprueba si existe algún otro punto con el que se consiga una mejor solución (estamos maximizando), si existe lo busca, en caso contrario finaliza habiendo encontrado 
-
-+ Si representásemos lo que hace el algoritmo en un plano bidimensional obtendríamos algo así. 
-![[1727270270 - Method - SIMPLEXj.png|center|350]]
 
 Lo primero que hemos de realizar es **transcribir la tarea de programación lineal a [[1727270366 - Forma estandar|Forma estandar]]**
 

@@ -6381,6 +6381,7 @@ problmea
 partido
 problmeas
 partiendolos
+perderse
 lineal
 la
 lo
@@ -8296,6 +8297,7 @@ tomen
 trbajando
 tercer
 terminales
+transformada
 review
 resolver
 realizar
@@ -10167,6 +10169,7 @@ Relaciones
 Razonar
 Responda
 Ramificaci
+Recordemos
 cssclasses
 correcto
 correcta
@@ -12512,6 +12515,7 @@ supuesto
 subconjuntos
 subregiones
 seguimos
+simplesx
 interval
 importancia
 incorrecto
@@ -13539,6 +13543,7 @@ indiscutiblemente
 inequaciones
 informes
 infactible
+inc
 un
 una
 utiliza
@@ -17647,6 +17652,7 @@ necesaria
 nea
 netos
 nodos
+nomenglatura
 Identificar
 Intro
 Identificaci
@@ -26866,6 +26872,7 @@ goleada
 generados
 guardad
 guardada
+gnitas
 Programaci
 Para
 Problema
@@ -38880,6 +38887,7 @@ New
 Noviembre
 NICO
 NOTA
+Nomenglatura
 Xr
 XObject
 Xw

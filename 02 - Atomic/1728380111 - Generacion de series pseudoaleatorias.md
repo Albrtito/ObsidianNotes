@@ -5,10 +5,7 @@ tags:
   - Cripto
   - incomplete
 References: 
-cssclasses: 
-sr-due: 2024-10-16
-sr-interval: 1
-sr-ease: 186
+cssclasses:
 ---
 # Generacion de series pseudoaleatorias
 
