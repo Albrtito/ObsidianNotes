@@ -15959,6 +15959,7 @@ ENCONTRARLO
 Ejercicio
 Enunciado
 Espera
+ENTEROS
 vital
 variables
 vez
