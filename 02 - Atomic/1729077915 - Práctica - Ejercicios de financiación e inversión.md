@@ -38,10 +38,10 @@ cssclasses:
    $$
    
 2. **Espera recuperar el dinero invertido en un plazo máximo de 3 años; de acuerdo a las previsiones. ¿Lo conseguirá? (cuantifique la respuesta).**
-   Podemos utilizar el análisis del VAN anterior pero solo con tres años:
+   Podemos utilizar el análisis del VAN anterior pero solo con dos años, luego veremos cual es el tiempo exacto de ese tercer año para recuperar lo faltado:
    $$
    \begin{gather}
-VAN_3 = -1.000.000 + \frac{(+2(-360.000 + 540.000))}{(1+.1)^1} + \\\frac{(2(-360.000 + 648.000))}{(1+.1)^2}+  \frac{(2(-360.000 + 756.000))}{(1+.1)^3} = 398.347,1074
+VAN_3 = -1.000.000 + \frac{(+2(-360.000 + 540.000))}{(1+.1)^1} + \frac{(2(-360.000 + 648.000))}{(1+.1)^2} = 
 \end{gather}
    
    $$
@@ -71,9 +71,9 @@ VAN = -125000 + \frac{(+45000-3000)}{(1+.1)^1} + \\\frac{(+55000-3000-2000)}{(1+
 $$
 2. **Razonar como afectarían los siguientes hechos:**
 	1. El TIR sería mayor al 10% debido a que el valor del VAN para un 10% es mayor que 0. Si queremos que sea 0 debemos de tener un ratio de más alto para que al dividir el VAN sea menor. 
-	2. –
+	2. El VAN baja y el TIR tmb. 
 	3. $Payback_3. = -125000 + 45000 + 55000 + 40000 - 3000\cdot 3 - 2000 = 4000$ => El payback en 3 años se cumpliría
-	4. –
+	4. Si hay un valor residual el van aumenta
 
 ## Ejercicio 8:
 
@@ -82,7 +82,7 @@ $$
 
 Calculamos usando el VAN del proyecto e igualándolo a 0: 
 $$\begin{gather}
-0 = -I + \frac{30000}{(1+0.8)}+\frac{30000}{(1+0.8)^2}+\frac{30000}{(1+0.8)^3} \Rightarrow I =  + \frac{30000}{(1+0.8)}+\frac{30000}{(1+0.8)^2}+\frac{30000}{(1+0.8)^3} = 31069.96
+0 = -I + \frac{30000}{(1+0.8)}+\frac{30000}{(1+0.8)^2}+\frac{30000}{(1+0.8)^3}+ \frac{30000}{(1+0.8)^4} \\\Rightarrow I =  + \frac{30000}{(1+0.8)}+\frac{30000} + \frac{30000}{(1+0.8)^4} {(1+0.8)^2}+\frac{30000}{(1+0.8)^3} = 99.363,81
 \end{gather}
 $$
 + Se podrán invertir un máximo de 31069.96
