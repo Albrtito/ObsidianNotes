@@ -5256,6 +5256,7 @@ esperando
 entera
 estaremos
 exacto
+encontrada
 programaci
 primer
 paso
@@ -6379,6 +6380,7 @@ primal
 problmea
 partido
 problmeas
+partiendolos
 lineal
 la
 lo
@@ -8293,6 +8295,7 @@ transpone
 tomen
 trbajando
 tercer
+terminales
 review
 resolver
 realizar
@@ -9315,6 +9318,7 @@ regiones
 resolvemos
 resolverlos
 residual
+ramifica
 References
 Resoluci
 Rectas
@@ -11434,6 +11438,7 @@ conceptualmente
 calculamos
 contradigan
 cumpli
+creadas
 sr
 se
 subproblemas
@@ -12505,6 +12510,8 @@ suponen
 sufre
 supuesto
 subconjuntos
+subregiones
+seguimos
 interval
 importancia
 incorrecto
@@ -13531,6 +13538,7 @@ informe
 indiscutiblemente
 inequaciones
 informes
+infactible
 un
 una
 utiliza
@@ -17638,6 +17646,7 @@ ndola
 necesaria
 nea
 netos
+nodos
 Identificar
 Intro
 Identificaci
@@ -18476,6 +18485,7 @@ Idea
 Inflexible
 Inter
 Informe
+Inicializamos
 Definir
 Din
 Design
@@ -26854,6 +26864,8 @@ gaussiano
 gana
 goleada
 generados
+guardad
+guardada
 Programaci
 Para
 Problema
@@ -37212,6 +37224,7 @@ VALORES
 Ventas
 VANs
 Volvemos
+Volver
 Grupo
 Get
 GWgw

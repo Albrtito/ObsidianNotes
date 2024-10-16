@@ -4,9 +4,12 @@ aliases:
   - El proceso de transformación
 tags:
   - Empresa
-  - incomplete
+  - review
 References: 
 cssclasses:
+sr-due: 2024-10-17
+sr-interval: 1
+sr-ease: 227
 ---
 # El proceso de transformación de una empresa
 
@@ -23,7 +26,7 @@ La diferencia entre el proceso de transformación y el flujo de bienes está en 
 ## Factores: 
 
 Hay uns sere de factores que afectan al proceso de transformación:
-+ **Creativos**: 
++ **Creativos**: #Duda: Cuales son estos?
 + **Directivos**: Se centran en la dirección del proceso productivo para garantizar el buen funcionamiento de dicho proceso. Incluye labores de planificación, organización y control. 
 + **Elementales**: Son los inputs **necesarios para obtener el output**: Capital, mano de obra y materias primas
 

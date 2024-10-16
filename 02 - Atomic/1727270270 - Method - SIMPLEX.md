@@ -6,10 +6,7 @@ tags:
   - Heuri
   - incomplete
 References: 
-cssclasses: 
-sr-due: 2024-10-03
-sr-interval: 1
-sr-ease: 230
+cssclasses:
 ---
 ## Pasos: 
 1. Primera base será matriz identidad 

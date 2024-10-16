@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
+                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
+                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
+                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
+                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,7 +287,7 @@
                   "repelStrength": 18.5975922131148,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 304,
-                  "scale": 0.09291009750797959,
+                  "scale": 0.09166274292398659,
                   "close": true
                 }
               }
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md"
+                "file": "02 - Atomic/1727105893 - La función financiera de la empresa.md"
               }
             }
           }
@@ -334,18 +334,20 @@
   },
   "active": "3976252203872582",
   "lastOpenFiles": [
-    "02 - Atomic/1726759457 - Programación Lineal.md",
-    "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
     "02 - Atomic/1728309909 - MAC.md",
-    "02 - Atomic/1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero.md",
-    "02 - Atomic/1728380111 - Generacion de series pseudoaleatorias.md",
+    "02 - Atomic/1728027800 - Network congestion.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "02 - Atomic/1728307154 - Funciones hash.md",
+    "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
-    "02 - Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
-    "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
-    "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
+    "02 - Atomic/1728380111 - Generacion de series pseudoaleatorias.md",
     "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
+    "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
+    "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
+    "02 - Atomic/1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero.md",
+    "02 - Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
+    "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
     "02 - Atomic/1727270318 - Forma canónica.md",
     "99 - Meta/0. Attachments/1729077915 - Práctica - Ejercicios de financiación e inversiónj.png",
     "99 - Meta/0. Attachments/1729088215 - Method - Ramificación y acotación en profundidadj.png",
@@ -360,8 +362,6 @@
     "02 - Atomic/1728037357 - DNS.md",
     "02 - Atomic/1726827729 - Defninition - Serie de Fibonacci.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
-    "02 - Atomic/1728936361 - Sistemas de produccion flexibles.md",
-    "02 - Atomic/1728038869 - Transport network layer.md",
     "00.References/Cripto_References_Asimetrico.pdf",
     "99 - Meta/0. Attachments/1728935315 - Tipos de sistemas productivos de la empresaj-1.png",
     "99 - Meta/0. Attachments/1728935315 - Tipos de sistemas productivos de la empresaj.png",
