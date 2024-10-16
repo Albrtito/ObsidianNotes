@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-15
+sr-due: 2024-10-17
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 # Sistemas de produccion flexibles
 
@@ -16,7 +16,7 @@ sr-ease: 230
 > Se cubren las necesidades de:
 > + Pocos clientes
 > + Mismo producto con características distintas
-> + Precios elevados
+> ==+ Precios elevados==
 > + Movimiento a donde esta el producto
 
 Esto conlleva las siguientes características:

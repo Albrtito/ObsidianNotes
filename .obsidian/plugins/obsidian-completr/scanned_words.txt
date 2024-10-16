@@ -1082,6 +1082,7 @@ aver
 almacenamientos
 adem
 aburrimiento
+agrupa
 Creaci
 Crear
 Cuando
@@ -4131,6 +4132,7 @@ mentales
 mandarle
 maximizia
 montaje
+mutua
 en
 ease
 es
@@ -8236,6 +8238,7 @@ tomada
 trabajan
 tontos
 tiempos
+toda
 review
 resolver
 realizar
@@ -11344,6 +11347,7 @@ cifr
 cantiad
 continuamente
 cero
+centros
 sr
 se
 subproblemas
@@ -12410,6 +12414,7 @@ sabe
 sitemas
 simples
 saben
+sustituyen
 interval
 importancia
 incorrecto
@@ -17520,6 +17525,7 @@ necesidades
 ning
 normales
 ndola
+necesaria
 Identificar
 Intro
 Identificaci
@@ -19217,6 +19223,7 @@ Dificil
 Distribuci
 Directions
 Diffe
+Desperdicios
 funci
 fibonacci
 fica
@@ -23432,6 +23439,7 @@ FORMA
 FIJA
 Facil
 Facilita
+Funcional
 Warshall
 Width
 We
@@ -29254,6 +29262,7 @@ SxeU
 SRRI
 SHIT
 Sketch
+Supervisi
 Manual
 Modelar
 Millones
@@ -36263,6 +36272,7 @@ zoM
 zjI
 zQtw
 zpc
+zonas
 Variables
 Vicent
 Vicente

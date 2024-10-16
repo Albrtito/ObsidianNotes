@@ -7,8 +7,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-09
-sr-interval: 1
+sr-due: 2024-10-25
+sr-interval: 9
 sr-ease: 208
 ---
 # Transport network layer
@@ -34,7 +34,7 @@ Services and protocols provide **logical communication between systems,** they d
 > [!attention] Differences between transport and network: 
 > Transport layer is going to do the communication between **processes** while the network layer is doing the **communication betweeen hosts**. 
 
-> f.e: If we had letters being send between houses, the transport layer is the 
+> f.e: If we had letters being send between houses, the transport layer is the langage and directions in the letter itself while the network layer is the postmain that decides wich route to take. 
 
 ### Transport protocols: 
 There are two main transport protocols: 
@@ -43,7 +43,7 @@ There are two main transport protocols:
 We’ll see in the next part that UDP is a **connectionless protocol** and TCP is a **connection-oriented protocol**.
 
 Another important feature in transport protocols is whether they can transmit data reliabely or not, see [[1727176650 - Principles of reliable data transfer|Principles of reliable data transfer]] for methods and a whole explanation of this.
-## ==Multiplexing and demultiplexing:==
+## Multiplexing and demultiplexing:
 
 > [!NOTE] Multiplexing: 
 > The act of handling data of **multiple sockets**, putting a header and sending it over the network.
