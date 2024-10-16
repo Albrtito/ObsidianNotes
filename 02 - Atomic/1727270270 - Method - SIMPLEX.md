@@ -38,21 +38,28 @@ Las nomenglatura básica del simplesx, para no perderse entre tanto vector, matr
   >ej: Para un problema con restricciones
   > $$\begin{gather} x_1 + x_2 + 4x_3 = 2 \\ 2x_1 -3x_2 + x_3 = 3\end{gather}$$
   > Tendremos la matriz A: 
-  > $$ \begin{pmatrix} 1 & 1 & 4 \\ 2 & -3 & 1\end{pmatrix}$$
+ >$$ \begin{pmatrix} 1 & 1 & 4 \\ 2 & -3 & 1\end{pmatrix}$$
   
   
 + **$B_i$ → Base(Matriz)**: Base que se usa en la iteración i del simplex. Compuesta por  coeficientes de las variables en la matriz de costes(A)
 
   > ej: (Siguiendo con el ejemplo anterior) Una base creada por las variables $x_1$ y $x_3$ sería:
-  > $$B = \begin{pmatrix} 1 & 4 \\ 2 & 1\end{pmatrix}$$
+>$$B = \begin{pmatrix} 1 & 4 \\ 2 & 1\end{pmatrix}$$
   
   
 + **$C_{B_i}$ → Vector**: Vector de coeficientes reducido, solo tendrá aquellos coeficientes de las variables que componen la base $B_i$.
 + **b → Vector:** Vector de recursos. 
 
 
-## Pasos: 
-1. Primera base será matriz identidad 
+## Pasos:
+1. Definimos una base con la que realizar la iteración. 
+   + En la **primera iteración** escogeremos las variables que permitan crear la **matriz identidad** como base. 
+     + Si no existen estas variables **crearemos una variable artificial que permita la creación de la identidad**. Esta variable artificial tendra un coeficiente negativo y suficientemente grande (al menos igual a la suma de todos los coficientes de las incógnitas.)
+
+2. Calculamos el valor de la función objetivo para esa base. 
+   1. Calcular el **valor de cada incógnita como el vector $x_b$:** Estos valores serán una **posible so**
+      $$ x_b = B^-b$$
+1. Primera base será matriz identidad
 2. $x_b = B^{-1}b: z = C_B^T \cdot x_B$
    + $C_B^T$ : Sera la matriz de coefiientes de costes para la base B
      

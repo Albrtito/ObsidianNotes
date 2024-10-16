@@ -68,8 +68,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "587537bb48f8714b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -332,10 +346,10 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "3976252203872582",
+  "active": "587537bb48f8714b",
   "lastOpenFiles": [
-    "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1728380111 - Generacion de series pseudoaleatorias.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "02 - Atomic/1728309909 - MAC.md",
