@@ -115,6 +115,15 @@ $$
 -100000 + \frac{65000}{(1+r_B)}+\frac{65000}{(1+r_B)^2} = 0\\\\
 r_A = 
 \end{gather}
+$$
+## Ejercicio 10: 
+
+> [!NOTE] Enunciado: 
+> Dos proyectos A y B, tienen una tasa de Fisher igual al 5% y el TIRB < TIRA. El inversor debe elegir uno de los dos proyectos (supuesto: VAN lineal y decreciente con respecto al interés i, para ambos proyectos).Responda a las siguientes preguntas:
+> 
+1. **Que proyecto es mejor para tasa de Fisher < i < TIRB** : El proyecto A
+2. **Que proyecto es mejor para i< tasa de FIsher?** : El proyecto B
+
 
 ***
  
