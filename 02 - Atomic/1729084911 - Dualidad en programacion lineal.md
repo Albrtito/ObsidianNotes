@@ -3,9 +3,12 @@ aliases:
   - Dualidad en programacion lineal
 tags:
   - Heuri
-  - incomplete
+  - review
 References: 
 cssclasses:
+sr-due: 2024-10-17
+sr-interval: 1
+sr-ease: 234
 ---
 # Dualidad en programacion lineal
 Existe algún problema en programación lineal relacionado directamente con el problema que se esta intentando resolver. 
@@ -27,6 +30,8 @@ Entonces podemos definir la **forma dual de un problema de programación lineal 
 + Las inequaciones cambian de lado (menor o igual a mayor o igual)
 + Se transpone la matriz de coeficientes
 + Se cambia el vector de coeficientes de la función objetivo por el vector de recursos
+**Remarks:**
+ + El valor de la inecuación diciendo que los valores de las variables no pueden ser negativos no cambiaría pues es el único que debe de seguir cumpliéndose siempre.
 
 Matemáticamente lo podemos definir como:
 $$
@@ -63,14 +68,12 @@ x_1, x_2 \geq 0
 \end{gathered}$$
 > Transformamos la forma simétrica a su forma dual:
 > $$\begin{gathered}
-\text { max } z'=8x_1'+6x_2 \\
-x_1+5 x_2 \leq 8 \\
-2 x_1+3 x_2 \leq 6 \\
-3 x_1+x_2 \leq 6 \\
--x_1 \leq 0 \\
--x_2 \leq 0 \\
-x_1, x_2 \geq 0
+\text { max } z'=8x_1'+6x_2' + 6x_3' \\
+x_1'+ 2x_2' + 3x_3' - x_4' \geq -2 \\
+5 x_1'+3 x_2' + x_3 '- x_5' \geq -1 \\
+ x_i\geq 0 : \forall i \in \{0,1,2,3,4,5\} \\
 \end{gathered}$$
+
 
 
 **Remarks:**
@@ -80,19 +83,7 @@ x_1, x_2 \geq 0
   + B → La base de la última iteración 
 
 + La solución óptima de la variable global i’esima: $X_i’^*$ es **la contribución por cantidad de recurso al crecimiento de la función objetivo**. Es decir, nos da información de como crecerá la función objetivo cuando modifiquemos nuestras variables.
-## Ejemplo: 
-Dado el siguiente modelo de un problema de programación lineal (**forma primal**)
-$$
-\begin{gather}
-\max z. = 3x_1 + -2x_2\\
-4x_1 - 2x_2 \leq 2\\
-5x_1 + 2x_2 \leq 3\\
-x \geq 0
-\end{gather}
-$$
 
-
-Para obtener su forma dual realizamos: (esto no esta terminado)
 $$
 \begin{gather}
 \min z. = 3x_1 + -2x_2\\

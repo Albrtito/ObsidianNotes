@@ -16,6 +16,7 @@ cssclasses:
 
 Cuando tenemos que resolver un problmea lineal buscando únicamente números enteros realizamos el siguiente algoritmo, conceptualmente se hace lo siguiente. 
 
++ Inicializamos la variable B (solución encontrada)
 1. Se resuelve el simplex para la región, esperando que alguna solución de las que tengamos sea entera. 
 2. En el caso de que la solución factible no sea entera, reducimos el conjunto factible a dos subconjuntos. La división la hacemos sobre una de las variables → Aquí hay varios métodos para hacerlo
    **Si $x^* \in \mathbb{N}$, HALT**

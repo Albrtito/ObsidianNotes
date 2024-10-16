@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
+                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
+                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
+                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
+                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1729084911 - Dualidad en programacion lineal.md"
+                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md"
               }
             }
           }
@@ -335,8 +335,9 @@
   "active": "3976252203872582",
   "lastOpenFiles": [
     "02 - Atomic/1726759457 - Programación Lineal.md",
-    "02 - Atomic/1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero.md",
     "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
+    "02 - Atomic/1728309909 - MAC.md",
+    "02 - Atomic/1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero.md",
     "02 - Atomic/1728380111 - Generacion de series pseudoaleatorias.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "02 - Atomic/1728307154 - Funciones hash.md",
@@ -361,7 +362,6 @@
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1728936361 - Sistemas de produccion flexibles.md",
     "02 - Atomic/1728038869 - Transport network layer.md",
-    "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
     "00.References/Cripto_References_Asimetrico.pdf",
     "99 - Meta/0. Attachments/1728935315 - Tipos de sistemas productivos de la empresaj-1.png",
     "99 - Meta/0. Attachments/1728935315 - Tipos de sistemas productivos de la empresaj.png",
