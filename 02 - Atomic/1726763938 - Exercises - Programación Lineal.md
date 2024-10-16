@@ -7,9 +7,9 @@ tags:
   - Heuri
 References: https://aulaglobal.uc3m.es/pluginfile.php/7298887/mod_resource/content/2/enunciados_representacion_lp.pdf
 cssclasses:
-sr-due: 2024-10-05
+sr-due: 2024-10-19
 sr-interval: 3
-sr-ease: 230
+sr-ease: 210
 ---
 # Ejercicios - Programación Lineal
 
@@ -68,3 +68,4 @@ Parar representar un problema de forma estandar hemos de representar las desigua
 ## Tips: 
 + Cuidado con **unidades horarias** pues no se representan los minutos como porcentajes como en otros casos.  
 	  → Calcular la equación en minutos o en horas
++ Para ejercicios con expresiones condicionales ver [[1727968107 - Expresiones condicionales en programación lineal|Expresiones condicionales en programación lineal]]
