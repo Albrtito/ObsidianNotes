@@ -1094,6 +1094,7 @@ acotadad
 analizada
 acotaci
 alguno
+atrasan
 Creaci
 Crear
 Cuando
@@ -5254,6 +5255,7 @@ enteras
 esperando
 entera
 estaremos
+exacto
 programaci
 primer
 paso
@@ -8290,6 +8292,7 @@ terminado
 transpone
 tomen
 trbajando
+tercer
 review
 resolver
 realizar
@@ -9311,6 +9314,7 @@ repetmos
 regiones
 resolvemos
 resolverlos
+residual
 References
 Resoluci
 Rectas
@@ -11428,6 +11432,7 @@ crecer
 cumpliendo
 conceptualmente
 calculamos
+contradigan
 sr
 se
 subproblemas
@@ -16810,6 +16815,7 @@ viajeros
 viajero
 viaje
 vac
+veremos
 no
 nuestras
 ndar
@@ -20202,6 +20208,7 @@ flujosy
 fue
 flexibles
 fisico
+faltado
 objetivo
 obtener
 of
@@ -21054,6 +21061,7 @@ operativos
 ocupaci
 obtendra
 obteneidos
+ocurrir
 que
 queremos
 qD

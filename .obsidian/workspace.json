@@ -6,7 +6,7 @@
       {
         "id": "c0ed840f92fc3792",
         "type": "tabs",
-        "dimension": 37.97585886722377,
+        "dimension": 53.23675871435039,
         "children": [
           {
             "id": "5bf0c8ec4457c115",
@@ -48,13 +48,13 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       },
       {
         "id": "24d4d385d0333ace",
         "type": "tabs",
-        "dimension": 62.024141132776236,
+        "dimension": 46.76324128564961,
         "children": [
           {
             "id": "3976252203872582",
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero.md",
+                "file": "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero.md",
+                "file": "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero.md",
+                "file": "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero.md"
+                "file": "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md"
               }
             }
           }
@@ -332,11 +332,11 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "7996277c3b226493",
+  "active": "f0be9f22cd1825a3",
   "lastOpenFiles": [
-    "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
     "02 - Atomic/1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero.md",
     "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
+    "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
     "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
     "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1727270318 - Forma canónica.md",

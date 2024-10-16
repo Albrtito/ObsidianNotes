@@ -82,7 +82,7 @@ $$
 
 Calculamos usando el VAN del proyecto e igualándolo a 0: 
 $$\begin{gather}
-0 = -I + \frac{30000}{(1+0.8)}+\frac{30000}{(1+0.8)^2}+\frac{30000}{(1+0.8)^3}+ \frac{30000}{(1+0.8)^4} \\\Rightarrow I =  + \frac{30000}{(1+0.8)}+\frac{30000} + \frac{30000}{(1+0.8)^4} {(1+0.8)^2}+\frac{30000}{(1+0.8)^3} = 99.363,81
+0 = -I + \frac{30000}{(1+0.8)}+\frac{30000}{(1+0.8)^2}+\frac{30000}{(1+0.8)^3}+ \frac{30000}{(1+0.8)^4} \\\Rightarrow I =  + \frac{30000}{(1+0.8)}+\frac{30000} {(1+0.8)^2}+\frac{30000}{(1+0.8)^3} + \frac{30000}{(1+0.8)^4} = 99.363,81
 \end{gather}
 $$
 + Se podrán invertir un máximo de **99.363,81**
@@ -101,6 +101,7 @@ $$
 >  + 0 → -100000 
 >  + 1 → 65000
 >  + 2 → 65000
+>+ k = 13%
 
 1. **Cálculo y comentario del cálculo de VAN y TIR**
    $$
@@ -109,6 +110,14 @@ VAN_A = -1000 + \frac{1000}{(1+r)} +\frac{1000}{(1+r)^2}\\\\
 VAN_B = -100000 + \frac{65000}{(1+r)}+\frac{65000}{(1+r)^2}
 \end{gather}
 $$
+Con r = k: 
+$$
+   \begin{gather}
+VAN_A = -1000 + \frac{1000}{(1+.13)} +\frac{1000}{(1+.13)^2}=\dfrac{8531000}{12769} = 668.1\\\\
+VAN_B = -100000 + \frac{65000}{(1+0.13)}+\frac{65000}{(1+0.13)^2} =\dfrac{107600000}{12769} = 8426
+\end{gather}
+$$
+
 Obtenemos valores para el TIR:
 $$
 \begin{gather}
