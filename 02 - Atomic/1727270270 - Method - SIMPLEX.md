@@ -48,6 +48,7 @@ Las nomenglatura básica del simplesx, para no perderse entre tanto vector, matr
   
   
 + **$C_{B_i}$ → Vector**: Vector de coeficientes reducido, solo tendrá aquellos coeficientes de las variables que componen la base $B_i$.
+	+ $C_B^T$ → **Vector:** Este mismo vector pero transpuesto
 + **b → Vector:** Vector de recursos. 
 
 
@@ -57,15 +58,24 @@ Las nomenglatura básica del simplesx, para no perderse entre tanto vector, matr
      + Si no existen estas variables **crearemos una variable artificial que permita la creación de la identidad**. Esta variable artificial tendra un coeficiente negativo y suficientemente grande (al menos igual a la suma de todos los coficientes de las incógnitas.)
 
 2. Calculamos el valor de la función objetivo para esa base. 
-   1. Calcular el **valor de cada incógnita como el vector $x_b$:** Estos valores serán una **posible so**
-      $$ x_b = B^-b$$
-1. Primera base será matriz identidad
-2. $x_b = B^{-1}b: z = C_B^T \cdot x_B$
-   + $C_B^T$ : Sera la matriz de coefiientes de costes para la base B
+   1. Calcular el **valor de cada incógnita como el vector $x_B$:** Estos valores serán una **solución factible** 
+      $$ x_B = B^-b$$
+      - **Remark:** Las variables que no aparezcan en la base tomarán un valor de 0.
+	2. Calcular el **valor de la función objetivo:**
+	   $$z = C_B^T \cdot x_B$$
+	   
+2. **Regla de entrada:** En este paso calcularemos cual de las variables que no se encuentra en la base aporta mas entrando en ella. Esto lo sabremos calculando:
+   $$\min \{z_j-C_j\}$$
+   + Donde: 
+	  $$z_j = C_B^Ty_j \rightarrow y_j = B^-A_j$$
+   Entonces la j para la que se obtenga el minimo valor de esta expresión será el índice de la variable que entra $x_j$
+   + Probamos **solo con las variables que no están ya dentro de la base**
+   + **Una variable que acaba de salir no va a volver a entrar,** pero podemos calcular igualmente el valor de la exprsión para asegurarnos de que da positivo. (si da positivo significa que estamos haciendo las cosas bien)
+	
+	+ **HALT:** Si todas las variables toman valores positivos 
      
 3. Regla de entrada: Vamos a ver cual es la variable que más nos ayuda al entrar.
 	+ Calcular la entrada de una nueva variable: $z_j - c_j$ → Entra $x_j$ con $z_j - c_j$ MENOR (más negativo)
-	  $$z_j = C_B^Ty_j \rightarrow y_j = B^-a_j$$
 	+ Si todas son positivas entonces **terminamos:**
 		+ **Sol. Opt:** Todas las variables artificiales toman valor nulo. 
 			+ **única:** Si ninguna es igual a 0
