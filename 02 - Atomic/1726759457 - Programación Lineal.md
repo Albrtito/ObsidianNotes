@@ -62,7 +62,11 @@ $$
 + Para modelar una condicion condicional usamos el siguiente [[1727968107 - Expresiones condicionales en programación lineal|método]].
 
 + Para convertir una restricción definida por un igual en otras definidas a partir de inequaciones realizamos la siguiente transformación:
-  $$ \sum^n_{j=1} = b_i \Rightarrow $$
+  $$\sum_{j=1}^na_{ij}x_j=b_i \Rightarrow $$
+  $$\begin{gather}
+\sum_{j=1}^na_{ij}x_j\leq b_i\\-\sum_{j=1}^na_{ij}x_j\leq-b_i
+\end{gather}
+  
 ## Resolución de problemas lineales reales: 
 Los ejercicios de programación lineal se resuelven a trozos:
 1. Primero se debe de [[1726759568 - Creación de modelos en programación lineal|crear un modelo]] que contenga la función objetivo, restriciones y variables. 

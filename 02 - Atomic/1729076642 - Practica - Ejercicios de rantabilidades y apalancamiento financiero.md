@@ -3,6 +3,7 @@ aliases:
   - Practica - Ejercicios de rantabilidades y apalancamiento financiero
 tags:
   - Empresa
+  - Incomplete
 References: 
 cssclasses:
 ---
