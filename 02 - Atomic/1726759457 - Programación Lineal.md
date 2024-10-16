@@ -75,6 +75,7 @@ Una vez terminado un problema de programación lineal, tanto el problema primal 
 + [[1729087121 - Creación de informes en programación lineal|Creación de informes en programación lineal]]
 
 ## Resolución de problemas lineales ENTEROS:
-Cuando resolvemos problmeas lineales podemos querer que los valores que tomen $x_
+Cuando resolvemos problmeas lineales podemos querer que los valores que tomen $x_i$ sean enteros, en estos casos estaremos trbajando con un problema de programación lineal entera. Usamos los siguientes métodos para resolverlos: 
++ [[1729088215 - Method - Ramificación y acotación en profundidad|Method - Ramificación y acotación en profundidad]]
 ******
 [^1]: El símbolo de igualdad con el triángulo encima significa igual **por definición.** Es matemáticamente un **axioma.**

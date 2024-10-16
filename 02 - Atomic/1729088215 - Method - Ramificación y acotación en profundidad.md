@@ -23,9 +23,10 @@ Cuando tenemos que resolver un problmea lineal buscando únicamente números ent
    
    **Calculamos $z_{F_i} \forall F_i$:** Donde F es una región factible de las que hemos partido. 
    Podemos ver varios casos una vez calculamos la solución a la función objetivo en la región factible:
-	+ Si una de las dos regiones esta vacía no buscamos en ella. 
+   
+	+ Si una de las dos regiones esta vacía no buscamos en ella. **Esto puede ocurrir pq las restricciones se contradigan entre ellas**
    + $x_{F_i} \in \mathbb{N} \land z_{F_i} > B$ $B \leftarrow z_{F_i}$ 
-   + $z_{F_i} < B$
-## Ejemplo: 
+   + $z_{F_i} \leq B$
+
 
 ***

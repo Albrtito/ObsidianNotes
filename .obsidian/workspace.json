@@ -57,58 +57,6 @@
         "dimension": 62.024141132776236,
         "children": [
           {
-            "id": "94be4d5211a0d373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e0a647a46bf7798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1727270318 - Forma canónica.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f23e7f15da8eeaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdca1e741e8cabf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3976252203872582",
             "type": "leaf",
             "state": {
@@ -230,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -356,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md"
+                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md"
               }
             }
           }
@@ -384,17 +332,17 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "94be4d5211a0d373",
+  "active": "3976252203872582",
   "lastOpenFiles": [
+    "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
+    "02 - Atomic/1727270318 - Forma canónica.md",
     "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
     "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
     "99 - Meta/0. Attachments/1729077915 - Práctica - Ejercicios de financiación e inversiónj.png",
     "99 - Meta/0. Attachments/1729088215 - Method - Ramificación y acotación en profundidadj.png",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
     "02 - Atomic/1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero.md",
-    "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
-    "02 - Atomic/1727270318 - Forma canónica.md",
     "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1729085078 - Forma simétrica de un problema de programacion lineal.md",
     "99 - Meta/1. Templates/NoteTemplate.md",

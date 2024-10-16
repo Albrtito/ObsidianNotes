@@ -5253,6 +5253,7 @@ esima
 enteras
 esperando
 entera
+estaremos
 programaci
 primer
 paso
@@ -6375,6 +6376,7 @@ prooyecto
 primal
 problmea
 partido
+problmeas
 lineal
 la
 lo
@@ -8286,6 +8288,8 @@ tercero
 tesorer
 terminado
 transpone
+tomen
+trbajando
 review
 resolver
 realizar
@@ -9306,6 +9310,7 @@ ramificando
 repetmos
 regiones
 resolvemos
+resolverlos
 References
 Resoluci
 Rectas
@@ -33380,6 +33385,7 @@ UNDERSTAND
 UNICO
 UNICA
 Unida
+Usamos
 QUE
 Que
 QE
