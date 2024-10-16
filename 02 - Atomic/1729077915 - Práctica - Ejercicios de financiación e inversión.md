@@ -124,6 +124,7 @@ $$
 -100000 + \frac{65000}{(1+r)}+\frac{65000}{(1+r)^2} \Rightarrow r = 0.18
 \end{gather}
 $$
+
 ## Ejercicio 10: 
 
 > [!NOTE] Enunciado: 
