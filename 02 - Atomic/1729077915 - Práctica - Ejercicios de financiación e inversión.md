@@ -113,7 +113,7 @@ $$
 \begin{gather}
 -1000 + \frac{1000}{(1+r_A)} +\frac{1000}{(1+r_A)^2} = 0\\\\
 -100000 + \frac{65000}{(1+r_B)}+\frac{65000}{(1+r_B)^2} = 0\\\\
-r_A = \\
+r_A = 0.69\\
 r_B =
 \end{gather}
 $$
@@ -121,7 +121,7 @@ La tasa de Fisher se obtiene igualando ambos VANs y calculando el ratio:
 $$
 \begin{gather}
 -1000 + \frac{1000}{(1+r)} +\frac{1000}{(1+r)^2} = 
--100000 + \frac{65000}{(1+r)}+\frac{65000}{(1+r)^2} \Rightarrow r = 
+-100000 + \frac{65000}{(1+r)}+\frac{65000}{(1+r)^2} \Rightarrow r = 0.18
 \end{gather}
 $$
 ## Ejercicio 10: 

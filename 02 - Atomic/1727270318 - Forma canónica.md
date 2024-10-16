@@ -1,11 +1,12 @@
 ---
 aliases:
   - Forma canónica
+  - Forma simétrica
 tags:
   - review
   - Heuri
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-05
 sr-interval: 50
 sr-ease: 290
@@ -32,6 +33,9 @@ x>= 0
 >+ b → Vector de recursos (Que delimitan)
 
 + Se usan estas [[1726759457 - Programación Lineal#Transformaciones|Transformaciones]]
+	+ Mayoritariamente usamos transformaciones de multiplicación por -1 para modificar el valor de la inecuación. 
+	+ Por otro lado, existe una transformación que nos interesa más que el resto, esta transformación es la que usamos para **convertir una restricción de igualdad en restricciones de tipo mayor/menor igual a**. 
+	+ 
 
 
 

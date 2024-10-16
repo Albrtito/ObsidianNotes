@@ -54,12 +54,15 @@ $$
 $$
 	+ $s_i$ es una **variable más**: Normalmente no pondremos s sino $x_i$ donde i será la siguiente variable usable. 
 
-Si una variable de decisión $x_i$ **puede tomar valores negativos** se pone entonces como la diferencia de dos variables no negativas restringidas: 
++ Si una variable de decisión $x_i$ **puede tomar valores negativos** se pone entonces como la diferencia de dos variables no negativas restringidas: 
 
 $$
 x_i = x'_i − x'_i , x'_i , x ''_i ≥ 0
 $$
 + Para modelar una condicion condicional usamos el siguiente [[1727968107 - Expresiones condicionales en programación lineal|método]].
+
++ Para convertir una restricción definida por un igual en otras definidas a partir de inequaciones realizamos la siguiente transformación:
+  $$ \sum^n_{j=1} = b_i \Rightarrow $$
 ## Resolución de problemas lineales: 
 Los ejercicios de programación lineal se resuelven a trozos:
 1. Primero se debe de [[1726759568 - Creación de modelos en programación lineal|crear un modelo]] que contenga la función objetivo, restriciones y variables. 
