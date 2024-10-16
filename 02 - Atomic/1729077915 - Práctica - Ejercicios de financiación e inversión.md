@@ -117,7 +117,13 @@ r_A = \\
 r_B =
 \end{gather}
 $$
-
+La tasa de Fisher se obtiene igualando ambos VANs y calculando el ratio: 
+$$
+\begin{gather}
+-1000 + \frac{1000}{(1+r)} +\frac{1000}{(1+r)^2} = 
+-100000 + \frac{65000}{(1+r)}+\frac{65000}{(1+r)^2} \Rightarrow r = 
+\end{gather}
+$$
 ## Ejercicio 10: 
 
 > [!NOTE] Enunciado: 

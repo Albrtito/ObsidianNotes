@@ -12,7 +12,7 @@ await tp.file.rename(newTitle);
 aliases:
   - <% userTitle %>
 tags:
-  - review
+  - incomplete 
 "References":
 cssclasses:
 ---

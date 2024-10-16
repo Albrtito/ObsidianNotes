@@ -1089,6 +1089,7 @@ autob
 autobus
 acuerdo
 anual
+afectar
 Creaci
 Crear
 Cuando
@@ -3106,6 +3107,7 @@ desmotivaci
 descifra
 deber
 desguace
+decreciente
 modelos
 modelo
 maximizar
@@ -5237,6 +5239,7 @@ ejercicio
 equipados
 esperada
 esoscuatro
+estimados
 programaci
 primer
 paso
@@ -6353,6 +6356,9 @@ provedores
 promedio
 previsi
 previsiones
+programacion
+payback
+prooyecto
 lineal
 la
 lo
@@ -8261,6 +8267,7 @@ totalmente
 trayecto
 trayectos
 tercero
+tesorer
 review
 resolver
 realizar
@@ -9273,6 +9280,7 @@ rantabilidades
 rotaci
 recupera
 reparaci
+relacionado
 References
 Resoluci
 Rectas
@@ -10118,6 +10126,8 @@ Recordamos
 Restos
 RESTOS
 Relaciones
+Razonar
+Responda
 cssclasses
 correcto
 correcta
@@ -11379,6 +11389,7 @@ cuarto
 cuantifique
 compra
 contemplada
+comentario
 sr
 se
 subproblemas
@@ -12448,6 +12459,7 @@ saben
 sustituyen
 suponen
 sufre
+supuesto
 interval
 importancia
 incorrecto
@@ -13467,6 +13479,8 @@ insatisfacci
 inventarios
 implmenta
 ida
+interna
+igualando
 un
 una
 utiliza
@@ -15028,6 +15042,7 @@ hDe
 hist
 habr
 highest
+hechos
 Es
 Este
 Ejemplos
@@ -19267,6 +19282,8 @@ Distribuci
 Directions
 Diffe
 Desperdicios
+Dualidad
+Dos
 funci
 fibonacci
 fica
@@ -23490,6 +23507,7 @@ Facilita
 Funcional
 FINTEL
 Financiera
+FIsher
 Warshall
 Width
 We
@@ -25928,6 +25946,10 @@ TODO
 Texto
 Trayecto
 Trayectos
+TIRB
+TIRA
+TIRb
+TIRa
 grafo
 guardan
 global
@@ -37121,6 +37143,7 @@ VyTT
 Variabilidad
 VALORES
 Ventas
+VANs
 Grupo
 Get
 GWgw
