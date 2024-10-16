@@ -71,17 +71,16 @@ Las nomenglatura básica del simplesx, para no perderse entre tanto vector, matr
    Entonces la j para la que se obtenga el minimo valor de esta expresión será el índice de la variable que entra $x_j$
    + Probamos **solo con las variables que no están ya dentro de la base**
    + **Una variable que acaba de salir no va a volver a entrar,** pero podemos calcular igualmente el valor de la exprsión para asegurarnos de que da positivo. (si da positivo significa que estamos haciendo las cosas bien)
-	
-	+ **HALT:** Si todas las variables toman valores positivos 
-     
-3. Regla de entrada: Vamos a ver cual es la variable que más nos ayuda al entrar.
-	+ Calcular la entrada de una nueva variable: $z_j - c_j$ → Entra $x_j$ con $z_j - c_j$ MENOR (más negativo)
-	+ Si todas son positivas entonces **terminamos:**
-		+ **Sol. Opt:** Todas las variables artificiales toman valor nulo. 
-			+ **única:** Si ninguna es igual a 0
-			+ **infinitas:** Si alguna es igual a 0
-4. **Regla de salida:** Vamos a ver que variable sale: 
-   $$ \min\{\frac{X_{B_i}}{y_{ji}}\}$$
+
+	**CONICIÓN PARA IR AL PASO 3:**
+	+ **HALT:** Si todas las variables toman valores positivos la solución actual será la final y óptima. En este caso también se ha de cumplir que.
+		+ **Todas las variables artificiales toman valor 0**
+		  
+	+ **CONTINUE:** En cuanto una de las variables tome valor negativo pasamos al paso 3
+
+3. **Regla de salida:** En este paso calculamos que variable de las que están en la base tiene que salir para que la variable que encontramos en el paso 2 entre. Saldrá la variable que cumpla: 
+   $$ \min\{\frac{x_{B_i}}{y_{ji}}\}$$
+
 
 Lo primero que hemos de realizar es **transcribir la tarea de programación lineal a [[1727270366 - Forma estandar|Forma estandar]]**
 
