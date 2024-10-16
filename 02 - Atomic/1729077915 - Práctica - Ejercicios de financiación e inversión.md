@@ -65,10 +65,24 @@ de maquinaria, se dispone de la siguiente información:
 1. **Calcular el VAN del proyecto:**
    $$
    \begin{gather}
-VAN = -125000 + \frac{(+45000-3000)}{(1+.1)^1} + \\\frac{(+55000-3000-2000)}{(1+.1)^2}+  \frac{(+40000 -3000)}{(1+.1)^3} + \frac{(+35000-3000)}{(1+.1)^4} = 4159.21
+VAN = -125000 + \frac{(+45000-3000)}{(1+.1)^1} + \\\frac{(+55000-3000-2000)}{(1+.1)^2}+  \frac{(+40000 -3000)}{(1+.1)^3} + \frac{(+35000-3000+10000)}{(1+.1)^4} = 10989.34
 \end{gather}
 $$
-2. **Razonar como afectaríanlos siguientes hechos:**
-	1. Para un 
+2. **Razonar como afectarían los siguientes hechos:**
+	1. El TIR sería mayor al 10% debido a que el valor del VAN para un 10% es mayor que 0. Si queremos que sea 0 dividiremos entre un valor más alto. 
+	2. –
+	3. $Payback_3. = -125000 + 45000 + 55000 + 40000 - 3000\cdot 3 - 2000 = 4000$ => El payback en 3 años se cumpliría
+	4. –
+
+## Ejercicio 8:
+
+> [!NOTE]  Enunciado:
+> ¿Cuál es la máxima cantidad que deberíamos invertir en un proyecto en el momento 0 si los flujos de entrada de tesorería estimados son de 30.000 euros al año durante 4 años a partir del año 1? Se ha estimado que la tasa de rentabilidad interna es del 8%. 
+
+Calculamos usando el VAN del proyecto: 
+$$\begin{gather}
+VAN = -I + \frac{30000}{(1-0.8)}+\frac{30000}{(1-0.8)}+\frac{30000}{(1-0.8)^3}
+\end{gather}
+$$
 ***
  
