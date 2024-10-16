@@ -1090,6 +1090,8 @@ autobus
 acuerdo
 anual
 afectar
+acotadad
+analizada
 Creaci
 Crear
 Cuando
@@ -3108,6 +3110,8 @@ descifra
 deber
 desguace
 decreciente
+dual
+definidas
 modelos
 modelo
 maximizar
@@ -4145,6 +4149,7 @@ mandarle
 maximizia
 montaje
 mutua
+modifiquemos
 en
 ease
 es
@@ -5240,6 +5245,9 @@ equipados
 esperada
 esoscuatro
 estimados
+examenes
+estilo
+esima
 programaci
 primer
 paso
@@ -6359,6 +6367,7 @@ previsiones
 programacion
 payback
 prooyecto
+primal
 lineal
 la
 lo
@@ -8268,6 +8277,7 @@ trayecto
 trayectos
 tercero
 tesorer
+terminado
 review
 resolver
 realizar
@@ -9281,6 +9291,7 @@ rotaci
 recupera
 reparaci
 relacionado
+recalculemos
 References
 Resoluci
 Rectas
@@ -11390,6 +11401,10 @@ cuantifique
 compra
 contemplada
 comentario
+contribuci
+cambian
+correspondiente
+crecer
 sr
 se
 subproblemas
@@ -13482,6 +13497,10 @@ ida
 interna
 igualando
 inecuaci
+informe
+indiscutiblemente
+inequaciones
+informes
 un
 una
 utiliza
@@ -14281,6 +14300,7 @@ uaLt
 uNJ
 uiQ
 uns
+unidos
 hora
 hacemos
 hacia
@@ -15044,6 +15064,7 @@ hist
 habr
 highest
 hechos
+hroa
 Es
 Este
 Ejemplos
@@ -18421,6 +18442,7 @@ IMPORTANTE
 Idea
 Inflexible
 Inter
+Informe
 Definir
 Din
 Design
@@ -21004,6 +21026,8 @@ obtenerla
 operarios
 operativos
 ocupaci
+obtendra
+obteneidos
 que
 queremos
 qD
@@ -23509,6 +23533,7 @@ Funcional
 FINTEL
 Financiera
 FIsher
+Factible
 Warshall
 Width
 We

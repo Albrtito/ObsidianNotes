@@ -19,9 +19,9 @@ Entonces podemos definir la **forma dual de un problema de programación lineal 
 
 > [!ATTENTION] Examen: 
 > + En los examenes se suele pedir esto como **la contribución por unidad de recurso de la función objetivo**
-> + Cuando en examen se pregunta por un análisis de estos problemas (y en general para dar un informe de un problema de este estilo) se han de dar indiscutiblemente las siguientes respuestas:
->   1. **Factible:** Si/No
->   2. **solución**
+>   
+> + Cuando en examen se pregunta por un análisis de estos problemas (y en general para dar un informe de un problema de este estilo) se han de dar indiscutiblemente las siguientes respuestas: [[1729087121 - Creación de informes en programación lineal|Creación de informes en programación lineal]]
+>   
 
 ## Forma dual:
 + Las inequaciones cambian de lado (menor o igual a mayor o igual)

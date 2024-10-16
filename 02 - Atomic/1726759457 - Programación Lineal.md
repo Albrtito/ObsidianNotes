@@ -69,5 +69,9 @@ Los ejercicios de programación lineal se resuelven a trozos:
 2. Una vez creado el modelo debemos de aplicar un método para resolverlo. 
 	+ [[1726835656 - Method - Resolución gráfica de modelos lineales|Method - Resolución gráfica de modelos lineales]]
 	+ [[1727270270 - Method - SIMPLEX|SIMPLEX]]
+
+### Creación de informes: 
+Una vez terminado un problema de programación lineal, tanto el problema primal como el dual hemos de crear el informe que de información analizada de los resultados obteneidos: 
++ [[1729087121 - Creación de informes en programación lineal|Creación de informes en programación lineal]]
 ***
 [^1]: El símbolo de igualdad con el triángulo encima significa igual **por definición.** Es matemáticamente un **axioma.**

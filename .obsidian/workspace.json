@@ -6,7 +6,7 @@
       {
         "id": "c0ed840f92fc3792",
         "type": "tabs",
-        "dimension": 20.366598778004075,
+        "dimension": 20.304568527918782,
         "children": [
           {
             "id": "5bf0c8ec4457c115",
@@ -54,7 +54,7 @@
       {
         "id": "24d4d385d0333ace",
         "type": "tabs",
-        "dimension": 79.63340122199592,
+        "dimension": 79.69543147208121,
         "children": [
           {
             "id": "94be4d5211a0d373",
@@ -89,6 +89,19 @@
               "type": "markdown",
               "state": {
                 "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdca1e741e8cabf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -361,8 +374,9 @@
   "active": "94be4d5211a0d373",
   "lastOpenFiles": [
     "02 - Atomic/1726759457 - Programación Lineal.md",
-    "02 - Atomic/1727270318 - Forma canónica.md",
+    "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
     "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
+    "02 - Atomic/1727270318 - Forma canónica.md",
     "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
     "01.Areas/1.UC3M/Empresa.md",
     "02 - Atomic/1729085078 - Forma simétrica de un problema de programacion lineal.md",
@@ -385,7 +399,6 @@
     "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
     "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
     "02 - Atomic/1727969475 - Primera practica Heuristica.md",
-    "02 - Atomic/1728917414 - Orden gaussiano.md",
     "00.References/Cripto_References_Asimetrico.pdf",
     "99 - Meta/0. Attachments/1728935315 - Tipos de sistemas productivos de la empresaj-1.png",
     "99 - Meta/0. Attachments/1728935315 - Tipos de sistemas productivos de la empresaj.png",
