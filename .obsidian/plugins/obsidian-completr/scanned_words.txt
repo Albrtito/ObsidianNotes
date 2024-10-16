@@ -5342,7 +5342,6 @@ privado
 privadas
 procesar
 pertenecen
-pro
 poligr
 polialfabeto
 polialfab

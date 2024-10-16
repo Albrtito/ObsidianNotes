@@ -6,9 +6,9 @@ tags:
   - Heuri
 References: https://aulaglobal.uc3m.es/pluginfile.php/7277686/mod_resource/content/3/dynamic_programming.pdf
 cssclasses:
-sr-due: 2024-10-15
-sr-interval: 12
-sr-ease: 270
+sr-due: 2024-12-04
+sr-interval: 49
+sr-ease: 290
 ---
 # Programación Dinámica
 #Biblio: 

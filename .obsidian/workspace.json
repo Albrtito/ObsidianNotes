@@ -8,19 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "345ef8843505954e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "5bf0c8ec4457c115",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1728038869 - Transport network layer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -133,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728937052 - Sistema de produccion Just In Time.md",
+                "file": "02 - Atomic/1728038869 - Transport network layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728937052 - Sistema de produccion Just In Time.md",
+                "file": "02 - Atomic/1728038869 - Transport network layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728937052 - Sistema de produccion Just In Time.md",
+                "file": "02 - Atomic/1728038869 - Transport network layer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,7 +239,7 @@
                   "repelStrength": 18.5975922131148,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 304,
-                  "scale": 0.09417434851530289,
+                  "scale": 0.09291009750797959,
                   "close": true
                 }
               }
@@ -260,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728937052 - Sistema de produccion Just In Time.md"
+                "file": "02 - Atomic/1728038869 - Transport network layer.md"
               }
             }
           }
@@ -287,8 +284,21 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "345ef8843505954e",
+  "active": "5bf0c8ec4457c115",
   "lastOpenFiles": [
+    "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
+    "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
+    "01.Areas/1.UC3M/Heuristica y Opti.md",
+    "02 - Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
+    "02 - Atomic/1726759568 - Creación de modelos en programación lineal.md",
+    "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
+    "02 - Atomic/1727969475 - Primera practica Heuristica.md",
+    "02 - Atomic/1728917414 - Orden gaussiano.md",
+    "02 - Atomic/1726825216 - Programación Dinámica.md",
+    "02 - Atomic/1728936738 - Sistemas de produccion en masa.md",
+    "02 - Atomic/1726827729 - Defninition - Serie de Fibonacci.md",
+    "02 - Atomic/1728937052 - Sistema de produccion Just In Time.md",
     "02 - Atomic/1728307154 - Funciones hash.md",
     "02 - Atomic/1726241677 - Definition - Empresas sociales.md",
     "02 - Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
@@ -296,26 +306,13 @@
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1728935952 - Sistema de produccion por proyectos.md",
     "02 - Atomic/1728916836 - Restos potenciales.md",
-    "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
     "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
     "02 - Atomic/1728380472 - Postulados de Golomb.md",
-    "02 - Atomic/1726825216 - Programación Dinámica.md",
     "02 - Atomic/1727187769 - Method - RDT With errors and loss.md",
     "02 - Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
     "02 - Atomic/1728912947 - Cifrado asimetrico.md",
     "02 - Atomic/1727096148 - Cifrador de flujo.md",
-    "02 - Atomic/1728380111 - Generacion de series pseudoaleatorias.md",
-    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
-    "02 - Atomic/20240307 - 000000 - ODEs.md",
-    "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
-    "02 - Atomic/1726520589 - Definition - Criptosistema.md",
-    "02 - Atomic/1726754186 - Criptosistemas modernos.md",
     "00.References/Cripto_References_Asimetrico.pdf",
-    "02 - Atomic/1727105893 - La función financiera de la empresa.md",
-    "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
-    "01.Areas/1.UC3M/Empresa.md",
-    "02 - Atomic/1728936738 - Sistemas de produccion en masa.md",
-    "02 - Atomic/1728937052 - Sistema de produccion Just In Time.md",
     "99 - Meta/0. Attachments/1728935315 - Tipos de sistemas productivos de la empresaj-1.png",
     "99 - Meta/0. Attachments/1728935315 - Tipos de sistemas productivos de la empresaj.png",
     "99 - Meta/0. Attachments/1728921778 - La funcion de produccion de la empresaj.png",

@@ -2,7 +2,7 @@
 tags:
   - Heuri
 aliases:
-  - HyO
+  - Heuri
 ---
 # Heuristica y Opti
 
@@ -45,7 +45,8 @@ aliases:
 
 ## Ejercicios: 
 + [[1726763938 - Exercises - Programación Lineal|Ejercicios programación lineal]]
-+ 
+	+ [[1728047794 - Ejemplos SIMPLEX|Ejemplos SIMPLEX]]
 
 ## Prácticas: 
 + [[1727969475 - Primera practica Heuristica|Primera práctica heuristica]]
++ 
