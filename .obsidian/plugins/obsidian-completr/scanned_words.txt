@@ -8278,6 +8278,7 @@ trayectos
 tercero
 tesorer
 terminado
+transpone
 review
 resolver
 realizar

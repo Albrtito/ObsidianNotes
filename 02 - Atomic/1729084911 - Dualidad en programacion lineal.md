@@ -25,6 +25,8 @@ Entonces podemos definir la **forma dual de un problema de programación lineal 
 
 ## Forma dual:
 + Las inequaciones cambian de lado (menor o igual a mayor o igual)
++ Se transpone la matriz de coeficientes
++ Se cambia el vector de coeficientes de la función objetivo por el vector de recursos
 
 **Remarks:**
 + Si el primal tiene una solución correspondiente a la base B, entonces $x’^{*^T} = C_B^t B^-$ 

@@ -63,7 +63,7 @@ $$
 
 + Para convertir una restricción definida por un igual en otras definidas a partir de inequaciones realizamos la siguiente transformación:
   $$ \sum^n_{j=1} = b_i \Rightarrow $$
-## Resolución de problemas lineales: 
+## Resolución de problemas lineales reales: 
 Los ejercicios de programación lineal se resuelven a trozos:
 1. Primero se debe de [[1726759568 - Creación de modelos en programación lineal|crear un modelo]] que contenga la función objetivo, restriciones y variables. 
 2. Una vez creado el modelo debemos de aplicar un método para resolverlo. 
@@ -73,5 +73,8 @@ Los ejercicios de programación lineal se resuelven a trozos:
 ### Creación de informes: 
 Una vez terminado un problema de programación lineal, tanto el problema primal como el dual hemos de crear el informe que de información analizada de los resultados obteneidos: 
 + [[1729087121 - Creación de informes en programación lineal|Creación de informes en programación lineal]]
+
+## Resolución de problemas lineales ENTEROS:
+
 ***
 [^1]: El símbolo de igualdad con el triángulo encima significa igual **por definición.** Es matemáticamente un **axioma.**
