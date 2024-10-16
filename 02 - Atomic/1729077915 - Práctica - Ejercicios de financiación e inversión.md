@@ -69,7 +69,7 @@ VAN = -125000 + \frac{(+45000-3000)}{(1+.1)^1} + \\\frac{(+55000-3000-2000)}{(1+
 \end{gather}
 $$
 2. **Razonar como afectarían los siguientes hechos:**
-	1. El TIR sería menor al 10% debido a que el valor del VAN para un 10% es mayor que 0. Si queremos que sea 0 debemos de tener un ratio de rentabilidad más bajo. 
+	1. El TIR sería mayor al 10% debido a que el valor del VAN para un 10% es mayor que 0. Si queremos que sea 0 debemos de tener un ratio de más alto para que al dividir el VAN sea menor. 
 	2. –
 	3. $Payback_3. = -125000 + 45000 + 55000 + 40000 - 3000\cdot 3 - 2000 = 4000$ => El payback en 3 años se cumpliría
 	4. –
@@ -81,16 +81,16 @@ $$
 
 Calculamos usando el VAN del proyecto e igualándolo a 0: 
 $$\begin{gather}
-0 = -I + \frac{30000}{(1-0.8)}+\frac{30000}{(1-0.8)^2}+\frac{30000}{(1-0.8)^3} \Rightarrow I =  + \frac{30000}{(1-0.8)}+\frac{30000}{(1-0.8)^2}+\frac{30000}{(1-0.8)^3} = 4.650.000
+0 = -I + \frac{30000}{(1+0.8)}+\frac{30000}{(1+0.8)^2}+\frac{30000}{(1+0.8)^3} \Rightarrow I =  + \frac{30000}{(1+0.8)}+\frac{30000}{(1+0.8)^2}+\frac{30000}{(1+0.8)^3} = 31069.96
 \end{gather}
 $$
-+ Se podrán invertir un máximo de 4.65M. 
++ Se podrán invertir un máximo de 31069.96
 **NOTA:** Hay que tener en cuenta que es la inversión máxima pero para obtener beneficios se ha de invertir menos.
 
 ## Ejercicio 9:
 
 > [!NOTE] Enunciado:
->  Dados los siguientes flujos de caja:
+>  Dados los siguientes flujos de caja con k = 13%:
 >  **A:** 
 >  + 0 → -1000 
 >  + 1 → 1000
@@ -98,7 +98,23 @@ $$
 >  
 >  **B:**
 >  + 0 → -100000 
->  + 1 → 6
+>  + 1 → 65000
+>  + 2 → 65000
+
+1. **Cálculo y comentario del cálculo de VAN y TIR**
+   $$
+   \begin{gather}
+VAN_A = -1000 + \frac{1000}{(1+r)} +\frac{1000}{(1+r)^2}\\\\
+VAN_B = -100000 + \frac{65000}{(1+r)}+\frac{65000}{(1+r)^2}
+\end{gather}
+$$
+Obtenemos valores para el TIR:
+$$
+\begin{gather}
+-1000 + \frac{1000}{(1+r_A)} +\frac{1000}{(1+r_A)^2} = 0\\\\
+-100000 + \frac{65000}{(1+r_B)}+\frac{65000}{(1+r_B)^2} = 0\\\\
+r_A = 
+\end{gather}
 
 ***
  
