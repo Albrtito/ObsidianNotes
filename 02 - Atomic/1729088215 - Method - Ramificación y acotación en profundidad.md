@@ -20,7 +20,7 @@ Cuando tenemos que resolver un problmea lineal buscando únicamente números ent
 
 1. Se resuelve el simplex para la región, esperando que alguna solución de las que tengamos sea entera. 
    + **Si $x^* \in \mathbb{N}$, HALT
-2. En el caso de que la solución factible no sea entera, reducimos el conjunto factible a dos subconjuntos. La división la hacemos sobre una de las variables → Aquí hay varios métodos para hacerlo. 
+2. En el caso de que la solución factible no sea entera, reducimos el conjunto factible a dos subconjuntos. La división la hacemos sobre una de las variables → Aquí hay varios métodos para hacerlo.  
    **
 3. Volvemos a calcular el simplex en **cada uno de los dos conjuntos** y vemos si alguno de ellos es entero, repetimos ramificando, ahora repetmos el segundo paso para cada uno de los subconjuntos.
    
