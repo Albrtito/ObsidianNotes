@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md"
+                "file": "02 - Atomic/1729084911 - Dualidad en programacion lineal.md"
               }
             }
           }
@@ -332,8 +332,9 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "7996277c3b226493",
+  "active": "3976252203872582",
   "lastOpenFiles": [
+    "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero.md",
     "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
     "02 - Atomic/1728380111 - Generacion de series pseudoaleatorias.md",
@@ -344,7 +345,6 @@
     "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
     "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
     "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1727270318 - Forma canónica.md",
     "99 - Meta/0. Attachments/1729077915 - Práctica - Ejercicios de financiación e inversiónj.png",
     "99 - Meta/0. Attachments/1729088215 - Method - Ramificación y acotación en profundidadj.png",

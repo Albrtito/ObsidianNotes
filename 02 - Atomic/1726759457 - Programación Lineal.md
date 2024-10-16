@@ -66,6 +66,8 @@ $$
   $$\begin{gather}
 \sum_{j=1}^na_{ij}x_j\leq b_i\\-\sum_{j=1}^na_{ij}x_j\leq-b_i
 \end{gather}
+$$
+
   
 ## Resolución de problemas lineales reales: 
 Los ejercicios de programación lineal se resuelven a trozos:

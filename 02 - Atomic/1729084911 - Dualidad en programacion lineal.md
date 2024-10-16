@@ -28,6 +28,51 @@ Entonces podemos definir la **forma dual de un problema de programación lineal 
 + Se transpone la matriz de coeficientes
 + Se cambia el vector de coeficientes de la función objetivo por el vector de recursos
 
+Matemáticamente lo podemos definir como:
+$$
+\begin{aligned}
+\max z& =\mathbf{c}^T\mathbf{x} \\
+\text{sujeto a }& \mathbf{A}\mathbf{x}\leq\mathbf{b} \\
+\mathbf{x}&\geq\mathbf{0}\\\\
+
+\min w& =\mathbf{b}^T\mathbf{x}^{\prime} \\
+\text{sujeto a }& \mathbf{A}^T\mathbf{x}^{\prime}\geq\mathbf{c} \\
+\mathbf{x}^{\prime}&\geq\mathbf{0}
+\end{aligned}
+$$
+> p.e:
+> El problema: 
+> $$\begin{gathered}
+\text { mín } z=2 x_1+x_2 \\
+x_1+5 x_2 \leq 8 \\
+2 x_1+3 x_2 \leq 6 \\
+3 x_1+x_2 \leq 6 \\
+-x_1 \leq 0 \\
+-x_2 \leq 0 \\
+x_1, x_2 \geq 0
+\end{gathered}$$
+> Lo pasamos a forma simétrica/canónica:
+> $$\begin{gathered}
+\text { max } z'=-2 x_1-x_2 \\
+x_1+5 x_2 \leq 8 \\
+2 x_1+3 x_2 \leq 6 \\
+3 x_1+x_2 \leq 6 \\
+-x_1 \leq 0 \\
+-x_2 \leq 0 \\
+x_1, x_2 \geq 0
+\end{gathered}$$
+> Transformamos la forma simétrica a su forma dual:
+> $$\begin{gathered}
+\text { max } z'=8x_1'+6x_2 \\
+x_1+5 x_2 \leq 8 \\
+2 x_1+3 x_2 \leq 6 \\
+3 x_1+x_2 \leq 6 \\
+-x_1 \leq 0 \\
+-x_2 \leq 0 \\
+x_1, x_2 \geq 0
+\end{gathered}$$
+
+
 **Remarks:**
 + Si el primal tiene una solución correspondiente a la base B, entonces $x’^{*^T} = C_B^t B^-$ 
   Esto quiere decir que no hace falta que recalculemos todo, al estar unidos podemos obtener directamente el problema.La solución del dual se calcula directamente desde la solución del primal. 
