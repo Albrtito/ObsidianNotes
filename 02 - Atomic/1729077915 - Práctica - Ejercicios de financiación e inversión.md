@@ -3,6 +3,7 @@ aliases:
   - Práctica - Ejercicios de financiación e inversión
 tags:
   - Empresa
+  - review
 References: 
 cssclasses:
 ---
