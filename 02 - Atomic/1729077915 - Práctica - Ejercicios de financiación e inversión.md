@@ -52,16 +52,23 @@ VAN_3 = -1.000.000 + \frac{(+2(-360.000 + 540.000))}{(1+.1)^1} + \\\frac{(2(-360
 > [Contents](<En un proyecto de inversión que se pretende realizar en cuatro años para la compra
 de maquinaria, se dispone de la siguiente información:
 >- Inversión inicial de 125.000€. → **A**
->- Los ingresos netos generados por la producción de la maquinaria durante esoscuatro años, son respectivamente 45.000 €, 55.000 €, 40.000 € y 35.000 €. → **Q**
+>- Los ingresos netos generados por la producción de la maquinaria durante esoscuatro años, son respectivamente 45.000 €, 55.000 €, 40.000 € y 35.000 €. → **$C_i$**
 >- Se establece un Contrato para el mantenimiento de la maquinaria, por importe de
 >3.000 € /año. Adicionalmente, en el segundo año, la maquinaria sufre una avería
 >que no está contemplada en el contrato de mantenimiento y la reparación tiene un
->coste adicional de 2.000 €.
+>coste adicional de 2.000 €. → **Costes fijos y variables** → $P_i$
 >- La maquinaria al final de los 4 años de su vida útil se vende para desguace por
 >10.000 €.
 >- La tasa descuento anual es del 10%.>)
 
 
 1. **Calcular el VAN del proyecto:**
-
+   $$
+   \begin{gather}
+VAN = -125000 + \frac{(+45000-3000)}{(1+.1)^1} + \\\frac{(+55000-3000-2000)}{(1+.1)^2}+  \frac{(+40000 -3000)}{(1+.1)^3} + \frac{(+35000-3000)}{(1+.1)^4} = 4159.21
+\end{gather}
+$$
+2. **Razonar como afectaríanlos siguientes hechos:**
+	1. Para un 
 ***
+ 
