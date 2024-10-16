@@ -71,7 +71,7 @@ VAN = -125000 + \frac{(+45000-3000)}{(1+.1)^1} + \\\frac{(+55000-3000-2000)}{(1+
 $$
 2. **Razonar como afectarían los siguientes hechos:**
 	1. El TIR sería mayor al 10% debido a que el valor del VAN para un 10% es mayor que 0. Si queremos que sea 0 debemos de tener un ratio de más alto para que al dividir el VAN sea menor. 
-	2. El VAN baja y el TIR tmb. 
+	2. Si se atrasan los flujos de caja un año: El VAN baja y el TIR tmb. 
 	3. $Payback_3. = -125000 + 45000 + 55000 + 40000 - 3000\cdot 3 - 2000 = 4000$ => El payback en 3 años se cumpliría
 	4. Si hay un valor residual el van aumenta
 
@@ -85,7 +85,7 @@ $$\begin{gather}
 0 = -I + \frac{30000}{(1+0.8)}+\frac{30000}{(1+0.8)^2}+\frac{30000}{(1+0.8)^3}+ \frac{30000}{(1+0.8)^4} \\\Rightarrow I =  + \frac{30000}{(1+0.8)}+\frac{30000} + \frac{30000}{(1+0.8)^4} {(1+0.8)^2}+\frac{30000}{(1+0.8)^3} = 99.363,81
 \end{gather}
 $$
-+ Se podrán invertir un máximo de 31069.96
++ Se podrán invertir un máximo de **99.363,81**
 **NOTA:** Hay que tener en cuenta que es la inversión máxima pero para obtener beneficios se ha de invertir menos.
 
 ## Ejercicio 9:
@@ -114,7 +114,7 @@ $$
 \begin{gather}
 -1000 + \frac{1000}{(1+r_A)} +\frac{1000}{(1+r_A)^2} = 0\\\\
 -100000 + \frac{65000}{(1+r_B)}+\frac{65000}{(1+r_B)^2} = 0\\\\
-r_A = 0.69\\
+r_A = 0.61\\
 r_B = 0,19
 \end{gather}
 $$
