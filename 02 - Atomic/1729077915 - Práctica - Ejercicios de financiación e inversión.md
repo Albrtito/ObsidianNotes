@@ -29,11 +29,39 @@ cssclasses:
 	+ 3º: 42 plazas por viaje: Ingresos: 756.000
 	+ 3º: 48 plazas por viaje: Ingresos: 864.000
 
-1. ¿Cuál es el Valor Actual Neto de la línea Lorca-Aeropuerto Madrid, para una previsión de coste del dinero del 10%?
+1. **¿Cuál es el Valor Actual Neto de la línea Lorca-Aeropuerto Madrid, para una previsión de coste del dinero del 10%?**
    $$
-   VAN = -1.000.000 + \frac{(+2(-360.000 + 540.000))}{(1+.1)^1} + \frac{(2(-360.000 + 648.000))}{(1+.1)^2}+ + \frac{(2(-360.000 + 756.000))}{(1+.1)^3} + \frac{(2(-360.000 + 864.000))}{(1+.1)^4} 
+   \begin{gather}
+   VAN = -1.000.000 + \frac{(+2(-360.000 + 540.000))}{(1+.1)^1} \\+ \frac{(2(-360.000 + 648.000))}{(1+.1)^2}+  \frac{(2(-360.000 + 756.000))}{(1+.1)^3} \\+ \frac{(2(-360.000 + 864.000))}{(1+.1)^4} = 1.086.824,67
+   \end{gather}
    $$
    
-2. Espera recuperar el dinero invertido en un plazo máximo de 3 años; de acuerdo a las previsiones. ¿Lo conseguirá? (cuantifique la respuesta).
-   Podemos utilizar el análisis del VAN anterior 
+2. **Espera recuperar el dinero invertido en un plazo máximo de 3 años; de acuerdo a las previsiones. ¿Lo conseguirá? (cuantifique la respuesta).**
+   Podemos utilizar el análisis del VAN anterior pero solo con tres años:
+   $$
+   \begin{gather}
+VAN_3 = -1.000.000 + \frac{(+2(-360.000 + 540.000))}{(1+.1)^1} + \\\frac{(2(-360.000 + 648.000))}{(1+.1)^2}+  \frac{(2(-360.000 + 756.000))}{(1+.1)^3} = 398.347,1074
+\end{gather}
+   
+   $$
+   Vemos que el valor del VAN es mayor que cero, o que significa que la inversión no solo se recupera sino que hay ganancias. 
+
+## Ejercicio 7:
+
+> [!NOTE] Enunciado
+> [Contents](<En un proyecto de inversión que se pretende realizar en cuatro años para la compra
+de maquinaria, se dispone de la siguiente información:
+>- Inversión inicial de 125.000€. → **A**
+>- Los ingresos netos generados por la producción de la maquinaria durante esoscuatro años, son respectivamente 45.000 €, 55.000 €, 40.000 € y 35.000 €. → **Q**
+>- Se establece un Contrato para el mantenimiento de la maquinaria, por importe de
+>3.000 € /año. Adicionalmente, en el segundo año, la maquinaria sufre una avería
+>que no está contemplada en el contrato de mantenimiento y la reparación tiene un
+>coste adicional de 2.000 €.
+>- La maquinaria al final de los 4 años de su vida útil se vende para desguace por
+>10.000 €.
+>- La tasa descuento anual es del 10%.>)
+
+
+1. **Calcular el VAN del proyecto:**
+
 ***

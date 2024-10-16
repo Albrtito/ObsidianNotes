@@ -1083,6 +1083,12 @@ almacenamientos
 adem
 aburrimiento
 agrupa
+autobuses
+aeropuerto
+autob
+autobus
+acuerdo
+anual
 Creaci
 Crear
 Cuando
@@ -2035,6 +2041,8 @@ Costes
 CONS
 Cerca
 Classification
+Considerar
+Contrato
 de
 due
 dar
@@ -3096,6 +3104,8 @@ desplazan
 dificultad
 desmotivaci
 descifra
+deber
+desguace
 modelos
 modelo
 maximizar
@@ -5223,6 +5233,10 @@ explica
 elevados
 equipo
 explicado
+ejercicio
+equipados
+esperada
+esoscuatro
 programaci
 primer
 paso
@@ -6336,6 +6350,9 @@ produces
 pretende
 poco
 provedores
+promedio
+previsi
+previsiones
 lineal
 la
 lo
@@ -8239,6 +8256,11 @@ trabajan
 tontos
 tiempos
 toda
+tenido
+totalmente
+trayecto
+trayectos
+tercero
 review
 resolver
 realizar
@@ -9248,6 +9270,9 @@ respuestas
 rato
 relacionan
 rantabilidades
+rotaci
+recupera
+reparaci
 References
 Resoluci
 Rectas
@@ -11349,6 +11374,11 @@ cantiad
 continuamente
 cero
 centros
+corporaci
+cuarto
+cuantifique
+compra
+contemplada
 sr
 se
 subproblemas
@@ -12416,6 +12446,8 @@ sitemas
 simples
 saben
 sustituyen
+suponen
+sufre
 interval
 importancia
 incorrecto
@@ -13434,6 +13466,7 @@ indiferenciables
 insatisfacci
 inventarios
 implmenta
+ida
 un
 una
 utiliza
@@ -15885,6 +15918,9 @@ Ezj
 EmmS
 Elementales
 ENCONTRARLO
+Ejercicio
+Enunciado
+Espera
 vital
 variables
 vez
@@ -16708,6 +16744,9 @@ vhM
 variedad
 variabilidad
 vencen
+viajeros
+viajero
+viaje
 no
 nuestras
 ndar
@@ -17527,6 +17566,8 @@ ning
 normales
 ndola
 necesaria
+nea
+netos
 Identificar
 Intro
 Identificaci
@@ -18363,6 +18404,7 @@ Incluye
 IMPORTANTE
 Idea
 Inflexible
+Inter
 Definir
 Din
 Design
@@ -20942,6 +20984,8 @@ obB
 oKJ
 obtenerla
 operarios
+operativos
+ocupaci
 que
 queremos
 qD
@@ -22660,6 +22704,9 @@ Alta
 Altamente
 Aplicaci
 Alice
+Actual
+Aeropuerto
+Adicionalmente
 Floyd
 Foundations
 Funci
@@ -23441,6 +23488,8 @@ FIJA
 Facil
 Facilita
 Funcional
+FINTEL
+Financiera
 Warshall
 Width
 We
@@ -25877,6 +25926,8 @@ THIS
 THEORY
 TODO
 Texto
+Trayecto
+Trayectos
 grafo
 guardan
 global
@@ -26717,6 +26768,7 @@ gausiano
 gaussiano
 gana
 goleada
+generados
 Programaci
 Para
 Problema
@@ -30128,6 +30180,7 @@ Mantenimiento
 Martin
 Maquinaria
 Movimiento
+Madrid
 Zivkovic
 Zo
 Zi
@@ -31623,6 +31676,7 @@ LaC
 LFi
 Logaritmos
 Localizaci
+Lorca
 bottom
 base
 brik
@@ -32455,6 +32509,7 @@ bajos
 basada
 brit
 bajas
+biene
 Util
 Una
 UniZumo
@@ -34818,6 +34873,8 @@ OFPKB
 ORDENES
 Ocurre
 Order
+Operativos
+Ocupaci
 ximo
 xrL
 xFQ
@@ -37063,6 +37120,7 @@ VWv
 VyTT
 Variabilidad
 VALORES
+Ventas
 Grupo
 Get
 GWgw
@@ -38717,6 +38775,7 @@ NHR
 New
 Noviembre
 NICO
+NOTA
 Xr
 XObject
 Xw
