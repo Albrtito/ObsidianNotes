@@ -20,8 +20,10 @@ cssclasses:
 + Rentabilidad Financiera: 15%
 
 1. **Valor de rotación de los activos:**
-   La rotación de activos biene dada por: $ROT = \frac{VENTAS}{ACTIVOS}$ 
+   La rotación de activos biene dada por: $ROT = \frac{VENTAS}{ACTIVOS}$. 
+   + El total de activos (TA) será 
 2. **Nivel de apalancamiento financiero:**
+   El apalancamiento financiero biene dado por: 
 3. **Que hacer para mejorar el resultado financiero:**
 **NOTA:** Se considera que no se tienen impuestos.
 
