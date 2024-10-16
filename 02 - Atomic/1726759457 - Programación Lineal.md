@@ -75,6 +75,6 @@ Una vez terminado un problema de programación lineal, tanto el problema primal 
 + [[1729087121 - Creación de informes en programación lineal|Creación de informes en programación lineal]]
 
 ## Resolución de problemas lineales ENTEROS:
-Cuando resolvemos el SIMPLEX
+Cuando resolvemos problmeas lineales podemos querer que los valores que tomen $x_
 ******
 [^1]: El símbolo de igualdad con el triángulo encima significa igual **por definición.** Es matemáticamente un **axioma.**

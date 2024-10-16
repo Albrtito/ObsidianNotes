@@ -1092,6 +1092,8 @@ anual
 afectar
 acotadad
 analizada
+acotaci
+alguno
 Creaci
 Crear
 Cuando
@@ -5248,6 +5250,9 @@ estimados
 examenes
 estilo
 esima
+enteras
+esperando
+entera
 programaci
 primer
 paso
@@ -6368,6 +6373,8 @@ programacion
 payback
 prooyecto
 primal
+problmea
+partido
 lineal
 la
 lo
@@ -9293,6 +9300,12 @@ recupera
 reparaci
 relacionado
 recalculemos
+reducimos
+repetimos
+ramificando
+repetmos
+regiones
+resolvemos
 References
 Resoluci
 Rectas
@@ -10140,6 +10153,7 @@ RESTOS
 Relaciones
 Razonar
 Responda
+Ramificaci
 cssclasses
 correcto
 correcta
@@ -11406,6 +11420,9 @@ contribuci
 cambian
 correspondiente
 crecer
+cumpliendo
+conceptualmente
+calculamos
 sr
 se
 subproblemas
@@ -12476,6 +12493,7 @@ sustituyen
 suponen
 sufre
 supuesto
+subconjuntos
 interval
 importancia
 incorrecto
@@ -16786,6 +16804,7 @@ vencen
 viajeros
 viajero
 viaje
+vac
 no
 nuestras
 ndar
@@ -25135,6 +25154,7 @@ Hng
 HDj
 Hablamso
 Hellman
+HALT
 TODOS
 The
 Trabajo
@@ -32561,6 +32581,7 @@ basada
 brit
 bajas
 biene
+buscamos
 Util
 Una
 UniZumo
@@ -37173,6 +37194,7 @@ Variabilidad
 VALORES
 Ventas
 VANs
+Volvemos
 Grupo
 Get
 GWgw
