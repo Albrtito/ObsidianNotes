@@ -1095,6 +1095,10 @@ analizada
 acotaci
 alguno
 atrasan
+artificial
+aparezcan
+aporta
+acaba
 Creaci
 Crear
 Cuando
@@ -2050,6 +2054,8 @@ Classification
 Considerar
 Contrato
 Compuesta
+CONICI
+CONTINUE
 de
 due
 dar
@@ -4155,6 +4161,7 @@ maximizia
 montaje
 mutua
 modifiquemos
+minimo
 en
 ease
 es
@@ -5259,6 +5266,8 @@ entera
 estaremos
 exacto
 encontrada
+escogeremos
+entrando
 programaci
 primer
 paso
@@ -6384,6 +6393,8 @@ partido
 problmeas
 partiendolos
 perderse
+permitan
+permita
 lineal
 la
 lo
@@ -8300,6 +8311,8 @@ trbajando
 tercer
 terminales
 transformada
+tendra
+tome
 review
 resolver
 realizar
@@ -9323,6 +9336,7 @@ resolvemos
 resolverlos
 residual
 ramifica
+refiere
 References
 Resoluci
 Rectas
@@ -11444,6 +11458,9 @@ calculamos
 contradigan
 cumpli
 creadas
+crearemos
+coficientes
+calcularemos
 sr
 se
 subproblemas
@@ -12518,6 +12535,7 @@ subconjuntos
 subregiones
 seguimos
 simplesx
+sabremos
 interval
 importancia
 incorrecto
@@ -13546,6 +13564,8 @@ inequaciones
 informes
 infactible
 inc
+igualmente
+incrementando
 un
 una
 utiliza
@@ -17655,6 +17675,7 @@ nea
 netos
 nodos
 nomenglatura
+ndice
 Identificar
 Intro
 Identificaci
@@ -26876,6 +26897,7 @@ generados
 guardad
 guardada
 gnitas
+gnita
 Programaci
 Para
 Problema
@@ -27786,6 +27808,8 @@ Polivalente
 Posici
 PROS
 Pascau
+Probamos
+PASO
 Biblio
 BitsPerComponent
 BI
@@ -29424,6 +29448,7 @@ SRRI
 SHIT
 Sketch
 Supervisi
+Saldr
 Manual
 Modelar
 Millones

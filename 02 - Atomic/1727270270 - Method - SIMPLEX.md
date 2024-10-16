@@ -50,6 +50,7 @@ Las nomenglatura básica del simplesx, para no perderse entre tanto vector, matr
 + **$C_{B_i}$ → Vector**: Vector de coeficientes reducido, solo tendrá aquellos coeficientes de las variables que componen la base $B_i$.
 	+ $C_B^T$ → **Vector:** Este mismo vector pero transpuesto
 + **b → Vector:** Vector de recursos. 
++ **$x^*$ → Vector:** Solució factible del problema
 
 
 ## Pasos:
@@ -79,8 +80,9 @@ Las nomenglatura básica del simplesx, para no perderse entre tanto vector, matr
 	+ **CONTINUE:** En cuanto una de las variables tome valor negativo pasamos al paso 3
 
 3. **Regla de salida:** En este paso calculamos que variable de las que están en la base tiene que salir para que la variable que encontramos en el paso 2 entre. Saldrá la variable que cumpla: 
-   $$ \min\{\frac{x_{B_i}}{y_{ji}}\}$$
-
+   $$ \min\{\frac{x_{i}}{y_{ji'}}\} \forall i \in B$$
+   + Aquí $y_{ji}$ se refiere a la posición i (incrementando empezando en 1, por eso lleva la prima) del vector $y_j$ calculado en el paso 2
+   + $x_i$ será el valor de la incognita para la solución factible prop
 
 Lo primero que hemos de realizar es **transcribir la tarea de programación lineal a [[1727270366 - Forma estandar|Forma estandar]]**
 
@@ -98,7 +100,6 @@ $$
 	+ Hacer cambios en el vector de coeficientes b de un sistema que tiene solución no altera ese aspecto del sistema. Seguirá teniendo solución.
 
 
-> [NOTE] Teorema: > Dada $\max z = C^Tx$,las soluciones, si las hay, están en puntos extremos de F: $Ax = b$ con $x\geq0$. 
 ## Paso a paso:
 
 ## Ejemplo práctico: 
