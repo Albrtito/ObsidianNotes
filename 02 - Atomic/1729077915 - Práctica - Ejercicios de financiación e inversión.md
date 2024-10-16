@@ -26,11 +26,14 @@ cssclasses:
 + Ocupación esperada por años para un autobus:
 	+ 1º: 30 plazas por viaje: Ingresos: 30x2x360x25 = 540.000
 	+ 2º: 36 plazas por viaje: Ingresos: 648.000
+	+ 3º: 42 plazas por viaje: Ingresos: 756.000
 	+ 3º: 48 plazas por viaje: Ingresos: 864.000
 
 1. ¿Cuál es el Valor Actual Neto de la línea Lorca-Aeropuerto Madrid, para una previsión de coste del dinero del 10%?
    $$
-   VAN = -1.000.000 + \frac{(-2(360.000 + 540.000))}{(1+.1)^t} + \frac{(-2(360.000 + ))}{(1+.1)^t}
+   VAN = -1.000.000 + \frac{(+2(-360.000 + 540.000))}{(1+.1)^1} + \frac{(2(-360.000 + 648.000))}{(1+.1)^2}+ + \frac{(2(-360.000 + 756.000))}{(1+.1)^3} + \frac{(2(-360.000 + 864.000))}{(1+.1)^4} 
+   $$
    
 2. Espera recuperar el dinero invertido en un plazo máximo de 3 años; de acuerdo a las previsiones. ¿Lo conseguirá? (cuantifique la respuesta).
+   Podemos utilizar el análisis del VAN anterior 
 ***
