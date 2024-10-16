@@ -20,14 +20,24 @@ cssclasses:
 
 > [!quote] Remember: 
 > Recordemos que un problema lineal en forma estandar está definido de la siguiente forma:
-> 
-> 
+> $$\begin{gather}
+> f: \max z = C^T x\\\\
+> \text{sujeto a: } Ax = b\\\\
+> \text{con: } x \geq 0
+\end{gather}
+$$
 
 ## Nomenglatura:
 Las nomenglatura básica del simplesx, para no perderse entre tanto vector, matriz y algebra.
 
 + **z:** Valor de la función objetivo. **z’** es lo mismo pero teniendo en cuenta que ha sido transformada de minimización a maximización.
-+ **x** → **Vector**: Vector de incógnitas 
++ **x** → **Vector**: Vector de incógnitas/variables, al darle valor a estas incógnitas/variable encontramos posibles soluciones.
++ **$C^T$ → Vector**: Vector de coeficientes de las incógnitas/variables. Se transpone para que se obtenga una solución no vectorial (z).
++ **A → Matriz:** Matriz de costes. Creada por los coeficientes de cada variable en cada una de las restricciones.
+  > ej: Para un problema con restricciones
+  > $$ \begin{bmatrix} \en{}
++ **$B_i$ → Base(Matriz)**: Base que se usa en la iteración i del simplex. Compuesta por los coeficientes de las variables en la matriz de costes(A)
++ **$C_{B_i} → Vector**: Vector de coeficientes reducido, solo tendrá aquellos coeficientes de las variables que componen la base.
 ## Pasos: 
 1. Primera base será matriz identidad 
 2. $x_b = B^{-1}b: z = C_B^T \cdot x_B$
