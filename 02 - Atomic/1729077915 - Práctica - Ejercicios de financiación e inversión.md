@@ -113,9 +113,11 @@ $$
 \begin{gather}
 -1000 + \frac{1000}{(1+r_A)} +\frac{1000}{(1+r_A)^2} = 0\\\\
 -100000 + \frac{65000}{(1+r_B)}+\frac{65000}{(1+r_B)^2} = 0\\\\
-r_A = 
+r_A = \\
+r_B =
 \end{gather}
 $$
+
 ## Ejercicio 10: 
 
 > [!NOTE] Enunciado: 
@@ -123,6 +125,7 @@ $$
 > 
 1. **Que proyecto es mejor para tasa de Fisher < i < TIRB** : El proyecto A
 2. **Que proyecto es mejor para i< tasa de FIsher?** : El proyecto B
+3. **Que proyecto es mejor para TIRb < i < TIRa?**: El prooyecto A
 
 
 ***
