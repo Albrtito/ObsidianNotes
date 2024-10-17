@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "file": "02 - Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "file": "02 - Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "file": "02 - Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+                "file": "02 - Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +250,7 @@
                   "repelStrength": 18.5975922131148,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 304,
-                  "scale": 0.1473263949415817,
+                  "scale": 0.0902727072407993,
                   "close": true
                 }
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md"
+                "file": "02 - Atomic/1727968107 - Expresiones condicionales en programación lineal.md"
               }
             }
           }
@@ -295,8 +295,10 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "2577fc6ac5a8dd85",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
+    "02 - Atomic/20240529 - 185904 - Exercises - First order, linear ODEs.md",
+    "02 - Atomic/1728912947 - Cifrado asimetrico.md",
     "02 - Atomic/1728916836 - Restos potenciales.md",
     "02 - Atomic/1728917414 - Orden gaussiano.md",
     "02 - Atomic/1728935952 - Sistema de produccion por proyectos.md",
@@ -325,8 +327,6 @@
     "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
     "02 - Atomic/1729160204 - RFC1918 Network Address.md",
     "02 - Atomic/1729159727 - Network types.md",
-    "02 - Atomic/1727105893 - La función financiera de la empresa.md",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
     "99 - Meta/0. Attachments/1729077915 - Práctica - Ejercicios de financiación e inversiónj.png",
     "99 - Meta/0. Attachments/1729088215 - Method - Ramificación y acotación en profundidadj.png",
     "99 - Meta/0. Attachments/1728935315 - Tipos de sistemas productivos de la empresaj-1.png",

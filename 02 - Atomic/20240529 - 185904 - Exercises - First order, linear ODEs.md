@@ -2,7 +2,6 @@
 aliases:
   - Exercises - First order ODEs
 tags:
-  - review
   - DiffCalc
 "References:":
   - "[[20240528 - 121302 - First order, Linear  ODE|First order, Linear  ODE]]"
