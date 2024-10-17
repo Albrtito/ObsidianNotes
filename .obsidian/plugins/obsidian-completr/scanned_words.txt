@@ -1122,6 +1122,8 @@ anticipos
 amort
 amortizaci
 acumulada
+aprener
+adjuntos
 Creaci
 Crear
 Cuando
@@ -2095,6 +2097,7 @@ Compra
 Calculo
 CLIEN
 Comprar
+Conocemos
 de
 due
 dar
@@ -3173,6 +3176,7 @@ dü
 deuda
 devoluci
 deudores
+determinatnes
 modelos
 modelo
 maximizar
@@ -4229,6 +4233,7 @@ medida
 mercancias
 minas
 met
+millonario
 en
 ease
 es
@@ -5346,6 +5351,7 @@ eyz
 entregan
 efectos
 encuenta
+expondr
 programaci
 primer
 paso
@@ -11629,6 +11635,8 @@ cobrar
 coriente
 concedido
 cobra
+casi
+complejos
 sr
 se
 subproblemas
@@ -18779,6 +18787,7 @@ IEND
 Intereses
 Ing
 IVO
+Inverse
 Definir
 Din
 Design
@@ -23150,6 +23159,7 @@ Ampliaci
 AAPP
 Acumulada
 Amortizaciones
+Algebra
 Floyd
 Foundations
 Funci
