@@ -69,7 +69,7 @@ Una vez tenemos **el problema en [[1727270366 - Forma estandar|Forma estandar]]*
 	2. Calcular el **valor de la función objetivo:**
 	   $$z = C_B^T \cdot x_B$$
 	   
-2. **Regla de entrada:** En este paso calcularemos cual de las variables que no se encuentra en la base aporta mas entrando en ella. Esto lo sabremos calculando:
+3. **Regla de entrada:** En este paso calcularemos cual de las variables que no se encuentra en la base aporta mas entrando en ella. Esto lo sabremos calculando:
    $$\min \{z_j-C_j\}$$
    + Donde: 
 	  $$z_j = C_B^Ty_j \rightarrow y_j = B^-A_j$$
@@ -77,34 +77,34 @@ Una vez tenemos **el problema en [[1727270366 - Forma estandar|Forma estandar]]*
    + Probamos **solo con las variables que no están ya dentro de la base**
    + **Una variable que acaba de salir no va a volver a entrar,** pero podemos calcular igualmente el valor de la exprsión para asegurarnos de que da positivo. (si da positivo significa que estamos haciendo las cosas bien)
 
-	**CONDICIÓN PARA IR AL PASO 3:**
+	**CONDICIÓN PARA IR AL PASO 4:**
 	+ **HALT:** Si todas las variables toman valores positivos la solución actual será la final y óptima. En este caso también se ha de cumplir que.
 		+ **Todas las variables artificiales toman valor 0**
 		  
 	+ **CONTINUE:** En cuanto una de las variables tome valor negativo pasamos al paso 3
 
-3. **Regla de salida:** En este paso calculamos que variable de las que están en la base tiene que salir para que la variable que encontramos en el paso 2 entre. Saldrá la variable que cumpla: 
+4. **Regla de salida:** En este paso calculamos que variable de las que están en la base tiene que salir para que la variable que encontramos en el paso 2 entre. Saldrá la variable que cumpla: 
    $$ \min\{\frac{x_{i}}{y_{ji'}}\} \forall i \in B$$
    + Aquí $y_{ji}$ se refiere a la posición i (incrementando empezando en 1, por eso lleva la prima) del vector $y_j$ calculado en el paso 2
    + $x_i$ será el valor de la incognita para la solución factible propuesta en esta iteración.
-     
-    **IR AL PASO 1:**
+
+	**IR AL PASO 1:**
     + Decidida cual es la variable de entrada(paso 2) y cual es la de salida (paso 3) se vuelve al paso 1 con la nueva base. 
       **Recomendación:** En la nueva base poner las variables en orden según su i.
 
+***
 
-
-+ Un vector X que resuelve Ax = b se llama solución
+NOTAS: 
+ Un vector X que resuelve Ax = b se llama solución
 + Un vector X ≥ 0 que resuelve Ax = b se llama **solución factible**. 
 + Un vector $X_B \geq 0$ que resuelve $B_{mxm}X_B=b$ se llama **solución factible básica.**
 	+ Entonces podemos convertir la forma que usábamos: $z = C^T X$  en: $z = C_B^TX_B$
 + Decimos que $X^*$ es una solución factible, básica y óptima. Si y solo si:
 $$C_B^TX^* \geq C_B^TX, \forall x \in F$$
+
++ Entonces la única condición que ha de haber para que un sistema algebráico tenga solución será que **sea invertible**.
 + Resolución usando de sistemas algebráicos usando la inversa:
 	$$
 	Ax_A = b \Rightarrow x_A= A^{-1}b
 	$$
-	+ Entonces la única condición que ha de haber para que un sistema algebráico tenga solución será que **sea invertible**.
-	+ Hacer cambios en el vector de coeficientes b de un sistema que tiene solución no altera ese aspecto del sistema. Seguirá teniendo solución.
-
-***
++ Hacer cambios en el vector de coeficientes b de un sistema que tiene solución no altera ese aspecto del sistema. Seguirá teniendo solución.
