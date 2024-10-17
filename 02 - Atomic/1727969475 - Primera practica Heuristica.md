@@ -2,7 +2,6 @@
 aliases:
   - Primera práctica heuristica
 tags:
-  - review
   - Heuri
 References: 
 cssclasses:

@@ -2,8 +2,8 @@
 aliases:
   - Cifrado autenticado
 tags:
-  - review
   - Cripto
+  - incomplete
 References: 
 cssclasses:
 ---

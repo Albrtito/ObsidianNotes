@@ -6,6 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
+sr-due: 2024-10-19
+sr-interval: 2
+sr-ease: 246
 ---
 # Logaritmos discretos
 Basándonos en la teoría de la [[Modular arithmetic]] podemos definir el concepto de logaritmo entero como la siguiente relación entre a,b y c: 

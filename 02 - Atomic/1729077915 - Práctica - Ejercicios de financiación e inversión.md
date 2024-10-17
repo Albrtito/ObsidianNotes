@@ -6,6 +6,9 @@ tags:
   - review
 References: 
 cssclasses:
+sr-due: 2024-10-18
+sr-interval: 1
+sr-ease: 230
 ---
 # Práctica - Ejercicios de financiación e inversión
 > Alberto Pascau Sáez, NIA: 100495775

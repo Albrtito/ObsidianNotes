@@ -2,8 +2,8 @@
 aliases:
   - Cifradores de bloque
 tags:
-  - review
   - Cripto
+  - incomplete
 References: 
 cssclasses:
 ---

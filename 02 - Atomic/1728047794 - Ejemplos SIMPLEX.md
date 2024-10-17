@@ -6,6 +6,9 @@ tags:
   - Heuri
 References: 
 cssclasses:
+sr-due: 2024-10-18
+sr-interval: 1
+sr-ease: 230
 ---
 # Ejemplos SIMPLEX
 ## Ejemplo clase magistral:

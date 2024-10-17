@@ -2,8 +2,8 @@
 aliases:
   - AddRoundKey
 tags:
-  - review
   - Cripto
+  - incomplete
 References: 
 cssclasses:
 ---

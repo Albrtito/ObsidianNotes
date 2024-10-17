@@ -2,8 +2,8 @@
 aliases:
   - Exercises - Contabilidad
 tags:
-  - review
   - Empresa
+  - incomplete
 References: 
 cssclasses:
 ---

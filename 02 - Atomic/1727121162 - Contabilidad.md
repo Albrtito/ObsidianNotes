@@ -2,8 +2,8 @@
 aliases:
   - Contabilidad
 tags:
-  - review
   - Empresa
+  - incomplete
 References: 
 cssclasses:
 ---

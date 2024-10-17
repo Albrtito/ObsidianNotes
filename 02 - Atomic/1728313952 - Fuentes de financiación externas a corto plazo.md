@@ -2,8 +2,8 @@
 aliases:
   - Fuentes de financiación externas a corto plazo
 tags:
-  - review
   - Empresa
+  - incomplete
 References: 
 cssclasses:
 ---

@@ -2,8 +2,8 @@
 aliases:
   - El valor del dinero en el tiempo
 tags:
-  - review
   - Empresa
+  - incomplete
 References: 
 cssclasses:
 ---

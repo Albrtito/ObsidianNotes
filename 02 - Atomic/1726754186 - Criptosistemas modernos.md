@@ -6,6 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
+sr-due: 2024-10-20
+sr-interval: 3
+sr-ease: 263
 ---
 # Criptosistemas modernos
 

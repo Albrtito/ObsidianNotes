@@ -2,8 +2,8 @@
 aliases:
   - Estados contables
 tags:
-  - review
   - Empresa
+  - incomplete
 References: 
 cssclasses:
 ---

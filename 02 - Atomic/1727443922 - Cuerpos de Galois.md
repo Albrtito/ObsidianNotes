@@ -2,8 +2,8 @@
 aliases:
   - Cuerpos de Galois
 tags:
-  - review
   - Cripto
+  - incomplete
 References: 
 cssclasses:
 ---
