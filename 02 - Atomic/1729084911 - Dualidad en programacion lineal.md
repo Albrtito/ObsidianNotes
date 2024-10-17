@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-10-17
-sr-interval: 1
+sr-due: 2024-10-19
+sr-interval: 2
 sr-ease: 234
 ---
 # Dualidad en programacion lineal
@@ -77,10 +77,10 @@ x_1'+ 2x_2' + 3x_3' - x_4' \geq -2 \\
 
 
 **Remarks:**
-+ Si el primal tiene una solución correspondiente a la base B, entonces $x’^{*^T} = C_B^t B^-$ 
-  Esto quiere decir que no hace falta que recalculemos todo, al estar unidos podemos obtener directamente el problema.La solución del dual se calcula directamente desde la solución del primal. 
-  + C → El vector de coeficientes de la base
-  + B → La base de la última iteración 
++ ==Si el primal tiene una solución correspondiente a la base B, entonces $x’^{*^T} = C_B^t B^-$== 
+  ==Esto quiere decir que no hace falta que recalculemos todo, al estar unidos podemos obtener directamente el problema.La solución del dual se calcula directamente desde la solución del primal.== 
+  + ==C → El vector de coeficientes de la base==
+  + ==B → La base de la última iteración del simplex que resuelve el problema primal==
 
 + La solución óptima de la variable global i’esima: $X_i’^*$ es **la contribución por cantidad de recurso al crecimiento de la función objetivo**. Es decir, nos da información de como crecerá la función objetivo cuando modifiquemos nuestras variables.
 

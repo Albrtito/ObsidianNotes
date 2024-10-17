@@ -19,11 +19,17 @@
             "id": "2577fc6ac5a8dd85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1728936361 - Sistemas de produccion flexibles.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -133,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Atomic/1728936361 - Sistemas de produccion flexibles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,12 +156,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Atomic/1728936361 - Sistemas de produccion flexibles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f97aefa6b972e655",
@@ -166,6 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Atomic/1728936361 - Sistemas de produccion flexibles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,7 +265,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Atomic/1728936361 - Sistemas de produccion flexibles.md"
+              }
             }
           }
         ]
@@ -281,12 +293,14 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "5bf0c8ec4457c115",
+  "active": "2577fc6ac5a8dd85",
   "lastOpenFiles": [
-    "00.References/Cripto_References_Asimetrico.pdf",
-    "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
+    "02 - Atomic/1728377926 - Timeout estimations TCP.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
+    "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
+    "00.References/Cripto_References_Asimetrico.pdf",
+    "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
     "02 - Atomic/1729160204 - RFC1918 Network Address.md",
     "02 - Atomic/1729159727 - Network types.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
@@ -296,7 +310,6 @@
     "02 - Atomic/1728027800 - Network congestion.md",
     "02 - Atomic/1728307154 - Funciones hash.md",
     "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
-    "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
     "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
     "02 - Atomic/1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero.md",
     "02 - Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",

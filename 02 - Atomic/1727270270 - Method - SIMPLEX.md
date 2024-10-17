@@ -4,9 +4,9 @@ aliases:
   - SIMPLEX
 tags:
   - Heuri
-  - incomplete
+  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-10-18
 sr-interval: 1
 sr-ease: 221
