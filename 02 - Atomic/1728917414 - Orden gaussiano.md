@@ -6,9 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-10-17
+sr-due: 2024-10-18
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 # Orden gaussiano
 

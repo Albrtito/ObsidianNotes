@@ -2,10 +2,9 @@
 aliases:
   - Separable Equations
 tags:
-  - review
   - DiffCalc
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-10-17
 sr-interval: 37
 sr-ease: 270

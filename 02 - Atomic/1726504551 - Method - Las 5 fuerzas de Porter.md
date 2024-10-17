@@ -8,9 +8,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-17
-sr-interval: 3
-sr-ease: 210
+sr-due: 2024-10-24
+sr-interval: 7
+sr-ease: 230
 ---
 # Las 5 fuerzas de Porter 
 **Remarks:**
@@ -23,7 +23,7 @@ sr-ease: 210
 
 1. **Estudio de los clientes:** Identificación del cliente: cantidad de clientes, poder de negociación, etc.
    
-2. ==**Estudio de los productos sustitutivos:** Que sectores pueden reemplazar al sector actual.== 
+2. **Estudio de los productos sustitutivos:** Que sectores pueden reemplazar al sector actual. 
    
 3. **Estudio de los proveedores**: Tienen fuerza a la hora de prooveer?Hay pocos,muchos?
    

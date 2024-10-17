@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +250,7 @@
                   "repelStrength": 18.5975922131148,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 304,
-                  "scale": 0.043028929965921996,
+                  "scale": 0.1473263949415817,
                   "close": true
                 }
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727428451 - Definition - TCP.md"
+                "file": "02 - Atomic/1728912947 - Cifrado asimetrico.md"
               }
             }
           }
@@ -297,10 +297,20 @@
   },
   "active": "2577fc6ac5a8dd85",
   "lastOpenFiles": [
+    "02 - Atomic/1728916836 - Restos potenciales.md",
+    "02 - Atomic/1728917414 - Orden gaussiano.md",
+    "02 - Atomic/1728935952 - Sistema de produccion por proyectos.md",
+    "02 - Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
+    "02 - Atomic/1728380472 - Postulados de Golomb.md",
+    "02 - Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
+    "02 - Atomic/20240528 - 104744 - Definition - Separable Equations.md",
+    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+    "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
+    "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
+    "02 - Atomic/1727428451 - Definition - TCP.md",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/Net_References_s3_4.pdf",
     "01.Areas/1.UC3M/Cripto.md",
-    "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
     "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
     "02 - Atomic/1727096148 - Cifrador de flujo.md",
@@ -311,21 +321,12 @@
     "02 - Atomic/1728377926 - Timeout estimations TCP.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
-    "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
     "00.References/Cripto_References_Asimetrico.pdf",
     "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
     "02 - Atomic/1729160204 - RFC1918 Network Address.md",
     "02 - Atomic/1729159727 - Network types.md",
     "02 - Atomic/1727105893 - La función financiera de la empresa.md",
     "02 - Atomic/1726759457 - Programación Lineal.md",
-    "02 - Atomic/1728380111 - Generacion de series pseudoaleatorias.md",
-    "02 - Atomic/1728309909 - MAC.md",
-    "02 - Atomic/1728027800 - Network congestion.md",
-    "02 - Atomic/1728307154 - Funciones hash.md",
-    "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
-    "02 - Atomic/1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero.md",
-    "02 - Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
-    "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
     "99 - Meta/0. Attachments/1729077915 - Práctica - Ejercicios de financiación e inversiónj.png",
     "99 - Meta/0. Attachments/1729088215 - Method - Ramificación y acotación en profundidadj.png",
     "99 - Meta/0. Attachments/1728935315 - Tipos de sistemas productivos de la empresaj-1.png",
@@ -339,7 +340,6 @@
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.txt",
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.",
     "99 - Meta/2. Scripts/test_yaml.py",
-    "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj-1.py",
     "99 - Meta/0. Attachments/1728047794 - Ejemplos SIMPLEXj-1.png",
     "99 - Meta/0. Attachments/1728047794 - Ejemplos SIMPLEXj.png",
     "99 - Meta/0. Attachments/Screenshot 2024-10-08 at 2.29.28 PM.png",

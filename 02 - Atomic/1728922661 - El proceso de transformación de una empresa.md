@@ -7,8 +7,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-10-17
-sr-interval: 1
+sr-due: 2024-10-19
+sr-interval: 2
 sr-ease: 227
 ---
 # El proceso de transformación de una empresa
@@ -17,11 +17,14 @@ sr-ease: 227
 > [!NOTE] Definición: 
 > Proceso de transformación:Mecanismo de conversión de los inputs en outputs. Compuesto por tareas, flujosy almacenamientos  
 
-+ **Tareas**: Cualquier acción realizada por los trabajadores o las máquinas sobre las materias primas
++ ==**Tareas**: Cualquier acción realizada por los trabajadores o las máquinas sobre las materias primas==
 + **Flujos**: PUeden ser de bienes o de información. De bienes cuando los bienes se mueven de una tarea a la siguiente mientras que de información cuando lo que se intercambian son instrucciones dentro del flujo de trabajo. 
 + **Almacenamiento:** No se realiza ninguna tarea y el bien/servicio no se lleva a ningún lugar. Se almacenan tanto bienes como servicios.
 
-La diferencia entre el proceso de transformación y el flujo de bienes está en que en el flujo de bienes hay un cambio de lugar mientras que en el proceso de transformación total hay un cambio de características físicas. 
+
+> [!attention] Pregunta de examen: 
+>  La diferencia entre el proceso de transformación y el flujo de bienes está en que en el flujo de bienes hay un cambio de lugar mientras que en el proceso de transformación total hay un cambio de características físicas. 
+
 
 ## Factores: 
 

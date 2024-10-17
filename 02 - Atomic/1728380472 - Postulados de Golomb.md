@@ -6,9 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-10-17
-sr-interval: 2
-sr-ease: 210
+sr-due: 2024-10-23
+sr-interval: 6
+sr-ease: 230
 ---
 # Postulados de Golomb
 

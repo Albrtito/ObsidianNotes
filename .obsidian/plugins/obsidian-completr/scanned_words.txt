@@ -2076,6 +2076,7 @@ CxI
 CEGG
 CKTW
 CyE
+Cuales
 de
 due
 dar
@@ -10286,6 +10287,7 @@ RKB
 RYv
 Rqy
 Rju
+Rewrite
 cssclasses
 correcto
 correcta
@@ -11574,6 +11576,7 @@ ciQK
 cFp
 cDFl
 cxm
+completely
 sr
 se
 subproblemas
@@ -12661,6 +12664,7 @@ sgN
 sGss
 spB
 sUD
+separate
 interval
 importancia
 incorrecto
@@ -19580,6 +19584,8 @@ Dsd
 Diu
 DAh
 DmB
+Diff
+DiffEq
 funci
 fibonacci
 fica
@@ -28842,6 +28848,7 @@ Bkm
 Bjs
 BqPy
 BsQ
+Basic
 Steven
 Skiena
 Serie
@@ -29757,6 +29764,7 @@ SCf
 SdR
 SAYyp
 ScV
+Separe
 Manual
 Modelar
 Millones

@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-17
-sr-interval: 2
-sr-ease: 230
+sr-due: 2024-10-18
+sr-interval: 1
+sr-ease: 210
 ---
 # Sistema de produccion por proyectos
 
@@ -23,9 +23,9 @@ Esto conlleva las siguientes características:
 + **Variabilidad**: alta
 + **Cualificación**: alta
 + ==**Maquinaria:** De uso general== 
-+ ==**Costes variables:** Altos== 
++ **Costes variables:** Altos 
 + ==**Planificación:** Dificil, cambia continuamente==
 
 ## Distribución en planta: Posición fija:
-La distribución en planta será **DE POSICIÓN FIJA**, el bien permanece parado, los inputs se desplazan hasta el.
+La distribución en planta será **DE ==POSICIÓN FIJA**==, el bien permanece parado, los inputs se desplazan hasta el.
 ***
