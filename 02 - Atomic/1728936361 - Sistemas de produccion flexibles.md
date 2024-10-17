@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-17
+sr-due: 2024-10-18
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 # Sistemas de produccion flexibles
 
@@ -16,7 +16,7 @@ sr-ease: 210
 > Se cubren las necesidades de:
 > + Pocos clientes
 > + Mismo producto con características distintas
-> ==+ Precios elevados==
+> + Precios elevados
 > + Movimiento a donde esta el producto
 
 Esto conlleva las siguientes características:
@@ -25,7 +25,7 @@ Esto conlleva las siguientes características:
 + **Volumen**: Medio-Bajo
 + **Variabilidad**: alta
 + **Cualificación**: Alta y Polivalente, se necesita del trabajo en equipo
-+ **Maquinaria:** De uso general 
++ ==**Maquinaria:** De uso general== 
 + **Costes variables:** Altos 
 
 
@@ -37,13 +37,13 @@ La disposición en planta agrupa zonas en las que esta toda la maquinaria necesa
 ### Pros&Cons:
 
 **PROS:**
-+ Se utilizan mucho las máquinas
-+ Se sustituyen facilmente las máquinas
-+ Supervisión mutua entre operarios.
++ ==Se utilizan mucho las máquinas==
++ ==Se sustituyen facilmente las máquinas==
++ ==Supervisión mutua entre operarios.==
 
 **CONS:**
-+ Distancia entre funciones
-+ Desperdicios de transported
++ ==Distancia entre funciones==
++ ==Desperdicios de transported==
 + No hay un flujo entre zonas 
 + Alto nivel de todo, no se busca la optimización de los materiales
 

@@ -6,8 +6,8 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-10-09
-sr-interval: 1
+sr-due: 2024-10-29
+sr-interval: 12
 sr-ease: 230
 ---
 # Cifrador de flujo
@@ -26,7 +26,7 @@ sr-ease: 230
 >  El ejemplo del cifrador de flujo **ideal** es el de [[1726497421 - Sustitución polialfabética no-periódica|Método de Vernam]], no obstante, al no poder generar series completamente aleatorias sabemos que **este cirfrador no es práctico** y debemos de preocuparnos de la [[1728380111 - Generacion de series pseudoaleatorias|Generacion de series pseudoaleatorias]].
 
 
-## Síncrono y Autosíncrono: 
+## ==Síncrono y Autosíncrono:== 
 AL ser un método de criptación síncrono, los cifradores de emisor y receptor han de ser capaces de **intercambiar la clave** cifrante. 
 
 Cuando este intercambio se realiza de forma **externa será un sistema síncrono**, mientras que si se realiza de forma **automática será un sistema autosíncrono** 
@@ -41,13 +41,13 @@ Cuando este intercambio se realiza de forma **externa será un sistema síncrono
 **DESVENTAJAS:**
 + Poca difusión
 + No se puede generar aleatoriedad
-+ Problemas al reutilizar la clave. 
++ ==Problemas al reutilizar la clave.== 
 
 ### Ataques:
 Se pueden realizar ataques sabiendo solo parte del sistema:
 	1. **Ataque con texto original conocido:** Obtener K teniendo M yC[^1]
 	   $$M\oplus C = M \oplus M\oplus K = K$$ 
-	2. **Ataque solo al criptograma:** Usando dos trozos diferentes de la clave. 
+	2. **Ataque solo al criptograma:** Usando dos trozos diferentes del cifrado. 
 	   $$C_i \oplus C_j = M_i \oplus K \oplus M_j \oplus K = M_i \oplus M_j$$
 ***
 
