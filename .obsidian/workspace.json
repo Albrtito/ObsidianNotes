@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1728027800 - Network congestion.md",
+                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1728027800 - Network congestion.md",
+                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1728027800 - Network congestion.md",
+                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1728027800 - Network congestion.md"
+                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md"
               }
             }
           }
@@ -328,8 +328,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3e72a98475027c36",
+  "active": "c65a241fb50359dc",
   "lastOpenFiles": [
+    "02 - Atomic/1728027800 - Network congestion.md",
     "02 - Atomic/1728377926 - Timeout estimations TCP.md",
     "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
     "00.References/Heuri_Resources_Problemas.pdf",
@@ -357,7 +358,6 @@
     "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
     "02 - Atomic/1727969475 - Primera practica Heuristica.md",
     "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
-    "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
     "00.References/Net_References_s3_4.pdf",
     "99 - Meta/0. Attachments/Cripto.png",
     "00.References/Cripto_References_Asimetrico.pdf",
