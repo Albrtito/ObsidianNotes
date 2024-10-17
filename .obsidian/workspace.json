@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
+                "file": "02 - Atomic/1728377926 - Timeout estimations TCP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.References/Heuri_Resources_Problemas.pdf",
+                "file": "02 - Atomic/1728377926 - Timeout estimations TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.References/Heuri_Resources_Problemas.pdf",
+                "file": "02 - Atomic/1728377926 - Timeout estimations TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00.References/Heuri_Resources_Problemas.pdf",
+                "file": "02 - Atomic/1728377926 - Timeout estimations TCP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.References/Heuri_Resources_Problemas.pdf"
+                "file": "02 - Atomic/1728377926 - Timeout estimations TCP.md"
               }
             }
           }
@@ -328,12 +328,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5bf0c8ec4457c115",
+  "active": "3e72a98475027c36",
   "lastOpenFiles": [
-    "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
-    "00.References/Heuri_Resources_Problemas.pdf",
-    "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
+    "00.References/Heuri_Resources_Problemas.pdf",
+    "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+    "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "01.Areas/1.UC3M/Heuristica y Opti.md",
     "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
     "00.References/Net_Resources_s3_3.pdf",

@@ -42,6 +42,7 @@ $$
 $$
 \boxed{DevRTT = (1-\beta)\cdot DevRTT + \beta|SampleRTT - EstimatedRTT|}
 $$
++ **Remark:** The $EstimatedRTT$ here is the one **from the last Estimation (Not the one computed in this iteration)**
 ### Timeout interval: 
 Using what we have just explained about RTT, we use that data to compute the timout intervals for timers sending the oldest package:
 
