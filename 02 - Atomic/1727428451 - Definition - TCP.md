@@ -7,8 +7,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-11
-sr-interval: 3
+sr-due: 2024-10-30
+sr-interval: 13
 sr-ease: 210
 ---
 # TCP
@@ -21,12 +21,12 @@ sr-ease: 210
 + Offers **congestion control**[^1]
 + Offers **flow control** [^3]
 + Requires to **set up the connection** → [[1728042156 - The three way handshake|The three way handshake]] 
-  Requires a **closing connection** → [[1728044996 - Closing a TCP connection|Closing TCP]]
++ Requires a **closing connection** → [[1728044996 - Closing a TCP connection|Closing TCP]]
 
 ![[1727428451 - Definition - TCPj.png]]
 
 ## Cummulative ACKs:
-It's important to mention that the ACKs in TCP are cummulative, this means that when we send an ACK for packet 3, what we are telling the sender is that **every packet until 3 has been recieved and THE LAST RECIEVED (properly) BYTE WAS 3. 
+It's important to mention that the ACKs in TCP are cummulative, this means that when we send an ACK for packet 3, what we are telling the sender is that **every packet until 3 has been recieved and THE LAST RECIEVED BYTE WAS 3. 
 
 ## Sequence numbering:
 TCP has a **wierd way of numbering packets**.Lets first get the number of sequence numbers needed for some window of size n.
@@ -50,7 +50,7 @@ TCP does not use this 2n sequence numbers but instead uses the **number of the f
 #Duda: Are we, at any point, reusing the byte numbers? If a message has to many bytes arent we just incrementing the header on and on and on? Are there any “infinite messages”?
 
 ## Bi-Directional communication:
-Al contrario que en los protocolos básicos de comunicación reliabely, TCP admits a bi-directional communication. This means that botht the sender and reciever can interchange places and become the reciever and sender. 
+Al contrario que en los protocolos básicos de comunicación reliabely, TCP admits a bi-directional communication. This means that both the sender and reciever can interchange places and become the reciever and sender. 
 
 This feature is really nice, but we **only care** about the **piggybacking** that can be done in a message. This piggybacking means that **both the acknowledgment and the message are going to travel together**. 
 
