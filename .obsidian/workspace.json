@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+                "file": "00.References/Heuri_Resources_Problemas.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+                "file": "00.References/Heuri_Resources_Problemas.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+                "file": "00.References/Heuri_Resources_Problemas.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md"
+                "file": "00.References/Heuri_Resources_Problemas.pdf"
               }
             }
           }
@@ -328,10 +328,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c65a241fb50359dc",
+  "active": "5bf0c8ec4457c115",
   "lastOpenFiles": [
-    "00.References/Heuri_Resources_Problemas.pdf",
     "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+    "00.References/Heuri_Resources_Problemas.pdf",
     "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
     "01.Areas/1.UC3M/Heuristica y Opti.md",

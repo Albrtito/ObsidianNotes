@@ -5890,6 +5890,10 @@ etX
 eIgL
 eih
 esoluci
+ejericio
+escoger
+escogemos
+escogems
 programaci
 primer
 paso
@@ -13953,6 +13957,7 @@ shUS
 sCj
 sgH
 svutt
+sumatorio
 interval
 importancia
 incorrecto
@@ -36801,6 +36806,7 @@ bnO
 bYK
 bSn
 bZJ
+binarios
 Util
 Una
 UniZumo
@@ -38604,6 +38610,7 @@ QKn
 Qtl
 QKUK
 Qjp
+Quere
 Obtener
 Opti
 Objetivo
