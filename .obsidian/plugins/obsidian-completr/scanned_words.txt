@@ -2341,6 +2341,7 @@ ChHt
 CNn
 CGl
 Cualquiera
+Colecci
 de
 due
 dar
@@ -9259,6 +9260,7 @@ tAS
 tSmM
 tvJ
 tuR
+temas
 review
 resolver
 realizar
@@ -31240,6 +31242,7 @@ PRu
 Ptek
 PRD
 PqK
+Programacion
 Biblio
 BitsPerComponent
 BI
@@ -46439,6 +46442,7 @@ JGc
 Jow
 JaP
 JUg
+Junio
 jj
 jL
 jC

@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "c0ed840f92fc3792",
+        "id": "e0d71bd1d0d1193b",
         "type": "tabs",
+        "dimension": 40.47911547911548,
         "children": [
           {
             "id": "5bf0c8ec4457c115",
@@ -16,7 +17,14 @@
                 "file": "00.References/Heuri_Resources_Problemas.pdf"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c0ed840f92fc3792",
+        "type": "tabs",
+        "dimension": 59.52088452088452,
+        "children": [
           {
             "id": "2577fc6ac5a8dd85",
             "type": "leaf",
@@ -37,6 +45,19 @@
               "type": "markdown",
               "state": {
                 "file": "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c65a241fb50359dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
+                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
+                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
+                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +284,7 @@
                   "repelStrength": 18.5975922131148,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 304,
-                  "scale": 0.0902727072407993,
+                  "scale": 0.04979140745475183,
                   "close": true
                 }
               }
@@ -281,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md"
+                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md"
               }
             }
           }
@@ -307,13 +328,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3e72a98475027c36",
+  "active": "c65a241fb50359dc",
   "lastOpenFiles": [
-    "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
-    "01.Areas/1.UC3M/Heuristica y Opti.md",
-    "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
-    "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
     "00.References/Heuri_Resources_Problemas.pdf",
+    "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+    "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
+    "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
+    "01.Areas/1.UC3M/Heuristica y Opti.md",
+    "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
     "00.References/Net_Resources_s3_3.pdf",
     "02 - Atomic/1727270318 - Forma canónica.md",
     "02 - Atomic/1729168096 - Matriz adjunta.md",
@@ -335,8 +357,6 @@
     "02 - Atomic/1727969475 - Primera practica Heuristica.md",
     "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
     "02 - Atomic/1728486786 - Exercises - Contabilidad.md",
-    "02 - Atomic/1728313952 - Fuentes de financiación externas a corto plazo.md",
-    "02 - Atomic/1727969678 - MathProg.md",
     "00.References/Net_References_s3_4.pdf",
     "99 - Meta/0. Attachments/Cripto.png",
     "00.References/Cripto_References_Asimetrico.pdf",

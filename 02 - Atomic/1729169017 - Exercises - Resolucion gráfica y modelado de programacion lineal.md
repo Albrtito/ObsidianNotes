@@ -6,9 +6,13 @@ tags:
   - Heuri
 References: 
 cssclasses:
+sr-due: 2024-10-21
+sr-interval: 4
+sr-ease: 272
 ---
 # Exercises - Resolucion gráfica y modelado de programacion lineal
-### Problema 1:
+## Modelado:
+### Problema de ejemplo::
 La empresa UniZumo fabrica y distribuye zumos de piña en las presentaciones Néctar de Piña y Unizumo de Piña. Ambos zumos se fabrican a base de concentrado de piña, de modo que en cada litro de zumo hay un 20 % y un 50 % de concentrado respectivamente. Para la fabricación del año se dispone de 2,4 millones de litros de concentrado de piña y se ha pactado con los mayoristas un precio de 1,25 euros por tetra brik (con una capacidad de un litro) de Néctar de Piña y 2,05 euros por el de Unizumo de Piña, bajo la condición de que no se saquen al mercado más de 6 millones de litros de zumo. 
 Se pide: 
 1. Modelar el problema como un problema de Programación Lineal para obtener las cantidades de cada producto que UniZumo debe fabricar para maximizar los ingresos por ventas. 
@@ -60,6 +64,8 @@ Parar representar un problema de forma estandar hemos de representar las desigua
 > p.e: Transformamos $0.2x_1 + 0.5x_2 \leq 2.4$ en $0.2x_1 + 0.5x_2 + x_3 = 2.4$. Dnd $x_3$ es la variable de holgura. 
 
 
+
+## Resolución gráfica:
 
 ## Tips: 
 + Cuidado con **unidades horarias** pues no se representan los minutos como porcentajes como en otros casos.  
