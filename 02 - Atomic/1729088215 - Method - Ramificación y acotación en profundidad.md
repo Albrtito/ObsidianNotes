@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-10-17
-sr-interval: 1
+sr-due: 2024-10-19
+sr-interval: 2
 sr-ease: 232
 ---
 # Method - Ramificación y acotación en profundidad
@@ -38,7 +38,7 @@ Cuando tenemos que resolver un problmea lineal buscando únicamente números ent
    + $x_{F_i} \in \mathbb{N} \land z_{F_i} > B$ $B \leftarrow z_{F_i}$ : Si la solución encontrada es entera y mayor a la solución guardad en B, la guardamos en B.
    + $z_{F_i} \leq B$ : La solución que encontramos es menor a la máxima solución (la guardada en B)
 
-Volver al paso 2 si todos los nodos no son terminales.
+Volver al paso 2 si encontramos un nodo no terminal y repetir a partir a partir de ahí.
 
 4. **HALT** si todos los nodos son nodos terminales
 

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md"
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md"
               }
             }
           }
@@ -300,6 +300,8 @@
   },
   "active": "2577fc6ac5a8dd85",
   "lastOpenFiles": [
+    "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
+    "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
     "02 - Atomic/1727096148 - Cifrador de flujo.md",
     "01.Areas/1.UC3M/Cripto.md",
     "99 - Meta/0. Attachments/Cripto.png",
@@ -321,7 +323,6 @@
     "02 - Atomic/1728027800 - Network congestion.md",
     "02 - Atomic/1728307154 - Funciones hash.md",
     "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
-    "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
     "02 - Atomic/1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero.md",
     "02 - Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
     "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
@@ -329,7 +330,6 @@
     "99 - Meta/0. Attachments/1729077915 - Práctica - Ejercicios de financiación e inversiónj.png",
     "99 - Meta/0. Attachments/1729088215 - Method - Ramificación y acotación en profundidadj.png",
     "01.Areas/1.UC3M/Empresa.md",
-    "02 - Atomic/1729085078 - Forma simétrica de un problema de programacion lineal.md",
     "99 - Meta/0. Attachments/1728935315 - Tipos de sistemas productivos de la empresaj-1.png",
     "99 - Meta/0. Attachments/1728935315 - Tipos de sistemas productivos de la empresaj.png",
     "99 - Meta/0. Attachments/1728921778 - La funcion de produccion de la empresaj.png",

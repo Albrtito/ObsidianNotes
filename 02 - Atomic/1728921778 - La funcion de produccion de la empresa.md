@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses: 
-sr-due: 2024-10-17
-sr-interval: 2
+sr-due: 2024-10-21
+sr-interval: 4
 sr-ease: 224
 ---
 # La funcion de produccion de la empresa
@@ -47,9 +47,9 @@ Según las respuestas a estas pregutnas se elegirá un [[1728935315 - Tipos de s
 ### Otras decisiones:
 Además del tipo de sistema productivo que se utilizará hemos de tener en cuenta:
 
-**Capacidad en planta:** La cantaidad máxima de bienes y servicios que se puede obtener en una unidad productivo.
-+ Se ha de tener en cuenta la capacidad **efectiva**→ La capacidad en condiciones normales. 
-+ Unida a un tiempo específico
+==**Capacidad en planta:** La cantaidad máxima de bienes y servicios que se puede obtener en una unidad productivo.==
++ ==Se ha de tener en cuenta la capacidad **efectiva**→ La capacidad en condiciones normales.== 
++ ==Unida a un tiempo específico==
 
 
 **Localización de la planta:** La localización de la planta varía en que costes se quieren disminuir: 
