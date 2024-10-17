@@ -1124,6 +1124,8 @@ amortizaci
 acumulada
 aprener
 adjuntos
+adjunta
+adj
 Creaci
 Crear
 Cuando
@@ -2098,6 +2100,7 @@ Calculo
 CLIEN
 Comprar
 Conocemos
+Construir
 de
 due
 dar
@@ -3177,6 +3180,9 @@ deuda
 devoluci
 deudores
 determinatnes
+descomposiciones
+determinante
+distinto
 modelos
 modelo
 maximizar
@@ -5352,6 +5358,8 @@ entregan
 efectos
 encuenta
 expondr
+eficiente
+esos
 programaci
 primer
 paso
@@ -6499,6 +6507,7 @@ publicidad
 pendientes
 pendiente
 probar
+permiten
 lineal
 la
 lo
@@ -7417,6 +7426,7 @@ lhBaj
 lnCp
 lWF
 lico
+lculos
 tags
 tres
 todos
@@ -8441,6 +8451,8 @@ tyOf
 tUm
 transferencia
 terrenos
+transformacion
+transpuesta
 review
 resolver
 realizar
@@ -9475,6 +9487,7 @@ rEq
 rVu
 rompe
 reparaciones
+rmula
 References
 Resoluci
 Rectas
@@ -10338,6 +10351,7 @@ Rewrite
 Rtd
 Reservas
 Realizar
+Resolucion
 cssclasses
 correcto
 correcta
@@ -11637,6 +11651,10 @@ concedido
 cobra
 casi
 complejos
+calculos
+casoa
+cofactores
+cofactor
 sr
 se
 subproblemas
@@ -12729,6 +12747,7 @@ salsa
 suben
 seguros
 sub
+submatriz
 interval
 importancia
 incorrecto
@@ -13771,6 +13790,7 @@ ingreso
 invierten
 impuesto
 ipuesto
+invesra
 un
 una
 utiliza
@@ -16258,6 +16278,7 @@ EwrG
 EyfE
 Encargan
 Edif
+Eliminar
 vital
 variables
 vez
@@ -17933,6 +17954,7 @@ nJv
 nKgW
 npp
 nMYvi
+nxn
 Identificar
 Intro
 Identificaci
@@ -23160,6 +23182,7 @@ AAPP
 Acumulada
 Amortizaciones
 Algebra
+Adj
 Floyd
 Foundations
 Funci
@@ -28209,6 +28232,7 @@ Partimos
 Pagamos
 Prestamos
 PAS
+Procedimiento
 Biblio
 BitsPerComponent
 BI
@@ -30755,6 +30779,7 @@ MIl
 Mitad
 Mat
 Maq
+Multiplicar
 Zivkovic
 Zo
 Zi
@@ -39486,6 +39511,7 @@ NRp
 NpUS
 NxQ
 Nic
+Necesidades
 Xr
 XObject
 Xw

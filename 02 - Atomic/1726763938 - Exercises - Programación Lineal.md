@@ -39,7 +39,8 @@ x_1, x_2 \in \mathbb{N} \cup \{0\}
 $$
 
 **Sistemas de ecuaciones:**
-Se han de solucionar utilizando el **método de la matriz inversa**. 
+Se han de solucionar utilizando el [[1729167814 - Resolucion de sistemas lineales#Usando el método de la inversa|método de la matriz inversa]]
+
 $$
 \begin{gather}
 AX = b\\

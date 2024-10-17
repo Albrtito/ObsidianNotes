@@ -1,13 +1,16 @@
 ---
 aliases:
-  - Cálculo de la matriz inversa
   - Inverse matrix
+  - Calculo de la matriz inversa
 tags:
-  - incomplete
   - Heuri
   - Algebra
+  - review
 References: 
 cssclasses:
+sr-due: 2024-10-21
+sr-interval: 4
+sr-ease: 270
 ---
 # Cálculo de la matriz inversa
 
@@ -22,14 +25,18 @@ cssclasses:
 
 Conocemos varios métodos para realizar este cálculo que se expondrán a continuación. 
 
+## Necesidades: 
+Para que una matriz A tenga inversa debe de:
++ **Tener determinante distinto de 0**
++ **Ser cuadrada (nxn)**
 ## Calculo por determinatnes y adjuntos: 
 
-+ El método que se utiliza para hacer cálculos a mano desde el primer momento en el que te cuentan lo que es una inversa. 
+El método que se utiliza para hacer cálculos a mano desde el primer momento en el que te cuentan lo que es una inversa. 
 
 $$
 A^- = \frac{1}{|A|}(Adj(A))^T
 $$
-
++ Donde $Adj(A)^T$ es la [[1729168096 - Matriz adjunta|Matriz adjunta]] de A transpuesta.
 ## Otras formas: 
 
 Este método no es el que utilizamos computacionalmente para realizar calculos de forma eficiente, en esos casoa existen descomposiciones de la matriz A que permiten calcular la inversa más rápido.
