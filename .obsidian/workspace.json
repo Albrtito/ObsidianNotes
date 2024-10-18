@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md"
+                "file": "02 - Atomic/1727428451 - Definition - TCP.md"
               }
             }
           }
@@ -330,11 +330,11 @@
   },
   "active": "c65a241fb50359dc",
   "lastOpenFiles": [
+    "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
     "02 - Atomic/1728027800 - Network congestion.md",
     "02 - Atomic/1728377926 - Timeout estimations TCP.md",
     "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
     "00.References/Heuri_Resources_Problemas.pdf",
-    "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
     "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "01.Areas/1.UC3M/Heuristica y Opti.md",
     "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
