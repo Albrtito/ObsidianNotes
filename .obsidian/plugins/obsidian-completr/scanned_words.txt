@@ -1234,6 +1234,7 @@ aEw
 aaN
 aHX
 asignar
+approaches
 Creaci
 Crear
 Cuando
@@ -3521,6 +3522,8 @@ dNu
 deQxA
 dUd
 dominan
+differentiable
+differentiability
 modelos
 modelo
 maximizar
@@ -4673,6 +4676,7 @@ mUMo
 mVMo
 mvn
 modelado
+matching
 en
 ease
 es
@@ -11360,6 +11364,7 @@ RoZ
 RwI
 RgY
 RSTA
+Rolle
 cssclasses
 correcto
 correcta
@@ -12782,6 +12787,7 @@ cju
 cxmc
 cuZ
 curva
+continuity
 sr
 se
 subproblemas
@@ -13964,6 +13970,8 @@ sCj
 sgH
 svutt
 sumatorio
+scia
+sta
 interval
 importancia
 incorrecto
@@ -16870,6 +16878,7 @@ hä
 hNJ
 hyperref
 hchQ
+height
 Es
 Este
 Ejemplos
@@ -18806,6 +18815,7 @@ vWlm
 vDyum
 vö
 vwo
+vanish
 no
 nuestras
 ndar

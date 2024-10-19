@@ -35,7 +35,6 @@ x>= 0
 + Se usan estas [[1726759457 - Programación Lineal#Transformaciones|Transformaciones]]
 	+ Mayoritariamente usamos transformaciones de multiplicación por -1 para modificar el valor de la inecuación. 
 	+ Por otro lado, existe una transformación que nos interesa más que el resto, esta transformación es la que usamos para **convertir una restricción de igualdad en restricciones de tipo mayor/menor igual a**. 
-	+ 
 
 
 

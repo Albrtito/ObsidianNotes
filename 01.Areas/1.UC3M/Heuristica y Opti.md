@@ -39,6 +39,7 @@ aliases:
 - Novo Sanjurjo, Vicente J.. Optimización: casos prácticos. Universidad Nacional de Educación a Distancia. 2000
 - Sixto Ríos Insua. Investigación Operativa. Optimización. Centro de estudios Ramón Areces. 1988
 
+
 ## Notas: 
 + [[1726825216 - Programación Dinámica|Programación Dinámica]]
 + [[1726759457 - Programación Lineal|Programación Lineal]]

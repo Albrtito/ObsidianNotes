@@ -36,6 +36,7 @@ sr-ease: 272
 Según la forma en la que se exprese la función y las restricciones podemos representar el problema de forma **canónica o de forma estandar**
 + [[1727270318 - Forma canónica|Forma canónica]]
 + [[1727270366 - Forma estandar|Forma estandar]]
+
 ### Transformaciones:
 Para transformar el problema a forma canónica/estandar, utilizamos las siguientes transformaciones:
 
@@ -43,6 +44,7 @@ Para transformar el problema a forma canónica/estandar, utilizamos las siguient
 $$
 \min z = c^TX \triangleq \max z' = -c^TX
 $$[^1]
+
 
 + Cambiar de signo al vector de recursos es lo mismo que multiplicar por -1. Lo que le da la vuelta a la inequality.
 + Para convertir una igualdad en desigualdad debemos de **introducir una variable de holgura** (sumando o restando).
