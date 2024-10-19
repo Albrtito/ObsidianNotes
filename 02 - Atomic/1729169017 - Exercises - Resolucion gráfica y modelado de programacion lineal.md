@@ -6,8 +6,8 @@ tags:
   - Heuri
 References: 
 cssclasses:
-sr-due: 2024-10-21
-sr-interval: 4
+sr-due: 2024-10-30
+sr-interval: 11
 sr-ease: 272
 ---
 # Exercises - Resolucion gráfica y modelado de programacion lineal
