@@ -4,42 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "e0d71bd1d0d1193b",
+        "id": "637894e410f767ee",
         "type": "tabs",
-        "dimension": 40.47911547911548,
         "children": [
           {
-            "id": "5bf0c8ec4457c115",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00.References/Heuri_Resources_Problemas.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c0ed840f92fc3792",
-        "type": "tabs",
-        "dimension": 59.52088452088452,
-        "children": [
-          {
-            "id": "2577fc6ac5a8dd85",
+            "id": "d14e5f1ccb9a6038",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727969678 - MathProg.md",
+                "file": "02 - Atomic/1729367035 - Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e5a7c8880580943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "1087c22e61a64185",
@@ -115,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.0041847229004,
-    "collapsed": true
+    "width": 671.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -148,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727969678 - MathProg.md",
+                "file": "02 - Atomic/1729367035 - Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727969678 - MathProg.md",
+                "file": "02 - Atomic/1729367035 - Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727969678 - MathProg.md",
+                "file": "02 - Atomic/1729367035 - Test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727969678 - MathProg.md"
+                "file": "02 - Atomic/1729367035 - Test.md"
               }
             }
           }
@@ -301,16 +293,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2577fc6ac5a8dd85",
+  "active": "d14e5f1ccb9a6038",
   "lastOpenFiles": [
+    "02 - Atomic/1729367035 - Test.md",
+    "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
+    "01.Areas/1.UC3M/Heuristica y Opti.md",
+    "01.Areas/1.UC3M/DiffCalc.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "01.Areas/1.UC3M/Calculus I.md",
+    "00.References/Heuri_Resources_Problemas.pdf",
+    "02 - Atomic/1727969678 - MathProg.md",
     "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02 - Atomic/1728027800 - Network congestion.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
     "02 - Atomic/1728377926 - Timeout estimations TCP.md",
     "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
-    "00.References/Heuri_Resources_Problemas.pdf",
-    "01.Areas/1.UC3M/Heuristica y Opti.md",
     "02 - Atomic/1726835656 - Method - Resolución gráfica de modelos lineales.md",
     "00.References/Net_Resources_s3_3.pdf",
     "02 - Atomic/1727270318 - Forma canónica.md",
@@ -325,12 +323,6 @@
     "02 - Atomic/1728316833 - El valor del dinero en el tiempo.md",
     "02 - Atomic/1727808655 - AddRoundKey.md",
     "02 - Atomic/1727808685 - ByteSub.md",
-    "02 - Atomic/1727808777 - ShiftRow.md",
-    "02 - Atomic/1727808813 - MixColumns.md",
-    "02 - Atomic/1728390442 - IP Protocol.md",
-    "02 - Atomic/1727443922 - Cuerpos de Galois.md",
-    "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
-    "02 - Atomic/1727969475 - Primera practica Heuristica.md",
     "00.References/Net_References_s3_4.pdf",
     "99 - Meta/0. Attachments/Cripto.png",
     "00.References/Cripto_References_Asimetrico.pdf",

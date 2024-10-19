@@ -2342,6 +2342,9 @@ CNn
 CGl
 Cualquiera
 Colecci
+Calculus
+Course
+Conduction
 de
 due
 dar
@@ -7130,6 +7133,7 @@ ptu
 pMR
 pux
 pintar
+polynomials
 lineal
 la
 lo
@@ -10402,6 +10406,7 @@ rwi
 rYgJ
 rku
 reprsentaci
+refresh
 References
 Resoluci
 Rectas
@@ -28306,6 +28311,7 @@ HDS
 Hry
 HRq
 Hrb
+Heat
 TODOS
 The
 Trabajo
@@ -31249,6 +31255,7 @@ Ptek
 PRD
 PqK
 Programacion
+Polynomial
 Biblio
 BitsPerComponent
 BI
@@ -33108,6 +33115,7 @@ SpRzTCO
 STkk
 SbI
 Subject
+Sets
 Manual
 Modelar
 Millones
