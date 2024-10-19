@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "02 - Atomic/1729367035 - Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,46 +21,14 @@
             }
           },
           {
-            "id": "3b1a78a246832efe",
+            "id": "acc403e22f5c2350",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e5a7c8880580943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a283f046fc37dbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1726493246 - Algorithm - AES.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1729367035 - Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1729367035 - Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1729367035 - Test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +244,7 @@
                   "repelStrength": 18.5975922131148,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 304,
-                  "scale": 0.06873302211107143,
+                  "scale": 0.08816239955995996,
                   "close": true
                 }
               }
@@ -294,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md"
+                "file": "02 - Atomic/1729367035 - Test.md"
               }
             }
           }
@@ -320,16 +288,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3b1a78a246832efe",
+  "active": "d14e5f1ccb9a6038",
   "lastOpenFiles": [
-    "02 - Atomic/1727270318 - Forma canónica.md",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
-    "01.Areas/1.UC3M/Heuristica y Opti.md",
-    "02 - Atomic/00000000 - 000000 - Definition - Sequence NOT BOUNDED from above or below.md",
     "02 - Atomic/1729367035 - Test.md",
-    "02 - Atomic/1726493246 - Algorithm - AES.md",
-    "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
+    "02 - Atomic/Teuroema 2.md",
+    "01.Areas/0.DailyNote/2024-10-19.md",
+    "01.Areas/1.UC3M/Heuristica y Opti.md",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
+    "02 - Atomic/1726493246 - Algorithm - AES.md",
+    "02 - Atomic/1729367954 - - Untitled Suffix.md",
+    "02 - Atomic/1727270318 - Forma canónica.md",
+    "02 - Atomic/00000000 - 000000 - Definition - Sequence NOT BOUNDED from above or below.md",
+    "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
     "01.Areas/1.UC3M/DiffCalc.md",
     "01.Areas/1.UC3M/Cripto.md",
     "01.Areas/1.UC3M/Calculus I.md",
@@ -347,9 +318,6 @@
     "02 - Atomic/1729167252 - Cálculo de la matriz inversa.md",
     "02 - Atomic/1729167814 - Resolucion de sistemas lineales.md",
     "02 - Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
-    "02 - Atomic/1728309728 - Autenticacion de mensajes.md",
-    "02 - Atomic/1728493764 - Cifrado autenticado.md",
-    "02 - Atomic/1728919808 - Logaritmos discretos.md",
     "00.References/Net_References_s3_4.pdf",
     "99 - Meta/0. Attachments/Cripto.png",
     "00.References/Cripto_References_Asimetrico.pdf",

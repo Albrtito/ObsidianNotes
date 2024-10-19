@@ -3524,6 +3524,9 @@ dUd
 dominan
 differentiable
 differentiability
+dailyNote
+daily
+dddd
 modelos
 modelo
 maximizar
@@ -4677,6 +4680,7 @@ mVMo
 mvn
 modelado
 matching
+monday
 en
 ease
 es
@@ -13972,6 +13976,8 @@ svutt
 sumatorio
 scia
 sta
+slkjf
+sldfj
 interval
 importancia
 incorrecto
@@ -21709,6 +21715,7 @@ DkiXy
 DtV
 DSN
 DTc
+DAILY
 funci
 fibonacci
 fica
@@ -29265,6 +29272,8 @@ TAk
 TyT
 TgD
 Tmy
+TIME
+Titulo
 grafo
 guardan
 global
@@ -34113,6 +34122,7 @@ Mtao
 MAA
 MiAJ
 MPds
+MMMM
 Zivkovic
 Zo
 Zi
@@ -46469,6 +46479,7 @@ Jow
 JaP
 JUg
 Junio
+Journal
 jj
 jL
 jC
@@ -49973,6 +49984,8 @@ Yyb
 YGO
 YXfS
 YHp
+YYYY
+YYYYMMDD
 Kk
 KS
 Kh
