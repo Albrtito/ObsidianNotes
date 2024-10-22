@@ -31,6 +31,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -106,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 671.5041847229004,
-    "collapsed": true
+    "width": 671.5041847229004
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+                "file": "00.References/Heuri_Resources_Problemas.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+                "file": "00.References/Heuri_Resources_Problemas.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+                "file": "00.References/Heuri_Resources_Problemas.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md"
+                "file": "00.References/Heuri_Resources_Problemas.pdf"
               }
             }
           }
@@ -292,10 +292,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3e3ccffd2ab15fed",
+  "active": "bfb4776e3ab0b229",
   "lastOpenFiles": [
-    "00.References/Heuri_Resources_Problemas.pdf",
     "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+    "00.References/Heuri_Resources_Problemas.pdf",
     "02 - Atomic/1726067427 - Tipos de empresas.md",
     "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
     "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
