@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
+                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "bfb4776e3ab0b229",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00.References/Heuri_Resources_Problemas.pdf"
               }
             }
           }
@@ -129,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
+                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
+                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
+                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1729087121 - Creación de informes en programación lineal.md"
+                "file": "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md"
               }
             }
           }
@@ -284,6 +294,13 @@
   },
   "active": "3e3ccffd2ab15fed",
   "lastOpenFiles": [
+    "00.References/Heuri_Resources_Problemas.pdf",
+    "02 - Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+    "02 - Atomic/1726067427 - Tipos de empresas.md",
+    "02 - Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
+    "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
+    "02 - Atomic/1728922661 - El proceso de transformación de una empresa.md",
+    "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "02 - Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
     "02 - Atomic/1728936361 - Sistemas de produccion flexibles.md",
@@ -303,16 +320,8 @@
     "02 - Atomic/1726241219 - Definition - Empresas Individuales.md",
     "02 - Atomic/1728937052 - Sistema de produccion Just In Time.md",
     "02 - Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
-    "02 - Atomic/1728917414 - Orden gaussiano.md",
-    "02 - Atomic/1726049888 - Net protocols.md",
-    "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
-    "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
-    "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
-    "02 - Atomic/1726754186 - Criptosistemas modernos.md",
-    "02 - Atomic/1726498694 - Definition - Criptografía.md",
     "99 - Meta/0. Attachments/1729586318 - Tool - Gilpj.png",
     "00.References/Net_Resources_s4_1.pdf",
-    "00.References/Heuri_Resources_Problemas.pdf",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/Net_References_s3_4.pdf",
     "99 - Meta/0. Attachments/Cripto.png",

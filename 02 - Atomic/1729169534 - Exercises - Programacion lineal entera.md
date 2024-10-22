@@ -2,8 +2,8 @@
 aliases:
   - Exercises - Programacion lineal entera
 tags:
-  - review
   - Heuri
+  - incomplete
 References: 
 cssclasses:
 ---

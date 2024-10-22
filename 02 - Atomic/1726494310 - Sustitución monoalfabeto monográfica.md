@@ -6,9 +6,9 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-10-19
-sr-interval: 12
-sr-ease: 249
+sr-due: 2024-12-13
+sr-interval: 52
+sr-ease: 269
 ---
 # Sustitución mono-alfabeta monográfica
 
