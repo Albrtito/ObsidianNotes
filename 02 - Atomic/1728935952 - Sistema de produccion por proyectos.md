@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-18
-sr-interval: 1
+sr-due: 2024-10-29
+sr-interval: 7
 sr-ease: 210
 ---
 # Sistema de produccion por proyectos
@@ -22,7 +22,7 @@ Esto conlleva las siguientes características:
 + **Volumen**: Bajo
 + **Variabilidad**: alta
 + **Cualificación**: alta
-+ ==**Maquinaria:** De uso general== 
++ **Maquinaria:** De uso general 
 + **Costes variables:** Altos 
 + ==**Planificación:** Dificil, cambia continuamente==
 

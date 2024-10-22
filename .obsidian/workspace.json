@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
+                "file": "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
+                "file": "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
+                "file": "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
+                "file": "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727968107 - Expresiones condicionales en programación lineal.md"
+                "file": "02 - Atomic/1729087121 - Creación de informes en programación lineal.md"
               }
             }
           }
@@ -284,6 +284,18 @@
   },
   "active": "3e3ccffd2ab15fed",
   "lastOpenFiles": [
+    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
+    "02 - Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
+    "02 - Atomic/1728936361 - Sistemas de produccion flexibles.md",
+    "02 - Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
+    "02 - Atomic/1727711018 - Estrategias de diversificación.md",
+    "02 - Atomic/20240528 - 121302 - First order, Linear  ODE.md",
+    "02 - Atomic/1728916836 - Restos potenciales.md",
+    "02 - Atomic/1728935952 - Sistema de produccion por proyectos.md",
+    "02 - Atomic/1728377926 - Timeout estimations TCP.md",
+    "02 - Atomic/1726496164 - Sustitución polialfabética periódica.md",
+    "02 - Atomic/1728047794 - Ejemplos SIMPLEX.md",
+    "02 - Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
     "02 - Atomic/1727709003 - Estrategias competitivas de la empresa.md",
     "02 - Atomic/1728919808 - Logaritmos discretos.md",
     "02 - Atomic/1725895664 - Naturaleza y de la empresa.md",
@@ -298,18 +310,6 @@
     "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
     "02 - Atomic/1726754186 - Criptosistemas modernos.md",
     "02 - Atomic/1726498694 - Definition - Criptografía.md",
-    "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
-    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
-    "02 - Atomic/1728912947 - Cifrado asimetrico.md",
-    "01.Areas/1.UC3M/Cripto.md",
-    "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
-    "02 - Atomic/1729167814 - Resolucion de sistemas lineales.md",
-    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
-    "02 - Atomic/1729167252 - Cálculo de la matriz inversa.md",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
-    "02 - Atomic/1727270318 - Forma canónica.md",
-    "01.Areas/1.UC3M/Heuristica y Opti.md",
-    "02 - Atomic/1727969475 - Practica - Primera practica Heuristica.md",
     "99 - Meta/0. Attachments/1729586318 - Tool - Gilpj.png",
     "00.References/Net_Resources_s4_1.pdf",
     "00.References/Heuri_Resources_Problemas.pdf",

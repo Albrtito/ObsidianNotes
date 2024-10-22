@@ -15,7 +15,7 @@ sr-ease: 231
 A la hroa de crear un informe de un problema de programación lineal hemos de tener en cuenta distintos datos que afectan directamente al problema: 
 
 1. **Factible:** Si/No
-   2. **solución óptima:** única/infinita
+2. **solución óptima:** única/infinita
    3. **z acotadad?:** Si/No
    4. **Recursos:**
 	  1. **Coste económico de los recursos:**  Informe de las variables de holgura, ver si las hay valor que (sobra o que falta)

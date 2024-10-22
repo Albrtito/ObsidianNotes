@@ -2,10 +2,9 @@
 aliases:
   - First order, Linear  ODE
 tags:
-  - review
   - DiffCalc
 "References:": 
-cssclasses:
+cssclasses: 
 sr-due: 2024-10-22
 sr-interval: 14
 sr-ease: 190

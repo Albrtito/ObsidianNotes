@@ -7,9 +7,9 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-10-18
-sr-interval: 2
-sr-ease: 203
+sr-due: 2024-11-09
+sr-interval: 18
+sr-ease: 223
 ---
 # Tipos de sistemas productivos de la empresa
 
