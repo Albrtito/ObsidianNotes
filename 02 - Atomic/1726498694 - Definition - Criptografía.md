@@ -7,8 +7,8 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-10-20
-sr-interval: 6
+sr-due: 2024-11-06
+sr-interval: 15
 sr-ease: 210
 ---
 # Criptografía:

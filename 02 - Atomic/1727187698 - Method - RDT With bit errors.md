@@ -6,9 +6,9 @@ tags:
   - Networks
 References: 
 cssclasses: 
-sr-due: 2024-10-19
-sr-interval: 16
-sr-ease: 248
+sr-due: 2024-12-27
+sr-interval: 66
+sr-ease: 268
 ---
 # Method - RDT With bit errors
 

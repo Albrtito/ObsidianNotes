@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "file": "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "file": "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "file": "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
+                "file": "02 - Atomic/1729084911 - Dualidad en programacion lineal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,11 +234,11 @@
                   "nodeSizeMultiplier": 2.79537653688525,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0,
-                  "repelStrength": 18.5975922131148,
-                  "linkStrength": 0.76664002131628,
-                  "linkDistance": 304,
-                  "scale": 0.0934378247219228,
+                  "centerStrength": 0.0242737249838606,
+                  "repelStrength": 15.3311814073596,
+                  "linkStrength": 0.47411233053583,
+                  "linkDistance": 52,
+                  "scale": 0.10337865828549954,
                   "close": true
                 }
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md"
+                "file": "02 - Atomic/1729084911 - Dualidad en programacion lineal.md"
               }
             }
           }
@@ -284,6 +284,10 @@
   },
   "active": "3e3ccffd2ab15fed",
   "lastOpenFiles": [
+    "02 - Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
+    "02 - Atomic/1727187698 - Method - RDT With bit errors.md",
+    "02 - Atomic/1726754186 - Criptosistemas modernos.md",
+    "02 - Atomic/1726498694 - Definition - Criptografía.md",
     "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
     "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02 - Atomic/1728912947 - Cifrado asimetrico.md",
@@ -308,10 +312,6 @@
     "02 - Atomic/1728307154 - Funciones hash.md",
     "00.References/Net_Resources_s4_1.pdf",
     "02 - Atomic/1728936361 - Sistemas de produccion flexibles.md",
-    "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
-    "02 - Atomic/1727270270 - Method - SIMPLEX.md",
-    "02 - Atomic/1729367035 - Test.md",
-    "02 - Atomic/Teuroema 2.md",
     "00.References/Heuri_Resources_Problemas.pdf",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/Net_References_s3_4.pdf",
