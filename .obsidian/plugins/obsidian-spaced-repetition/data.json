@@ -28,7 +28,8 @@
       ""
     ],
     "noteFoldersToIgnore": [
-      "99 - Meta"
+      "99-Meta",
+      "01-Areas"
     ],
     "openRandomNote": true,
     "autoNextNote": true,

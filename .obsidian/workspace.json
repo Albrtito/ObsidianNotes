@@ -11,17 +11,22 @@
             "id": "3e3ccffd2ab15fed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "99-Meta/1. Templates/NoteTemplate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
-            "id": "7b772b08624429c6",
+            "id": "335c19c0831e1927",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "02-Atomic/1729596773 - Teorema 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,20 +93,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "1087c22e61a64185",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "23ab2a729b7c2289",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "02-Atomic/1729596773 - Teorema 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "02-Atomic/1729596773 - Teorema 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "02-Atomic/1729596773 - Teorema 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -264,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "02-Atomic/1729596773 - Teorema 2.md"
               }
             }
           }
@@ -290,9 +281,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7b772b08624429c6",
+  "active": "335c19c0831e1927",
   "lastOpenFiles": [
-    "Untitled.md",
+    "02-Atomic/1729596773 - Teorema 2.md",
+    "99-Meta/1. Templates/NoteTemplate.md",
+    "02-Atomic/1729596711 - Nota.md",
+    "02-Atomic/1729596623 -.md",
+    "02-Atomic/1729596332 -.md",
+    "02-Atomic/1729596459 -.md",
+    "02-Atomic/1729596396 -.md",
     "99-Meta/1. Templates/wc - Untitled Suffix.md",
     "00-References/pbcopy",
     "00-References/UC3M_Resources_Calendario2425.pdf",
@@ -332,12 +329,6 @@
     "02-Atomic/cut.md",
     "02-Atomic/column.md",
     "02-Atomic/chmod.md",
-    "02-Atomic/caffeinate.md",
-    "02-Atomic/bridging table.md",
-    "02-Atomic/Which.md",
-    "02-Atomic/Virtual Environment (venv).md",
-    "02-Atomic/Using the convolution product to solve ODEs.md",
-    "02-Atomic/Using the Laplace transform to solve IVP.md",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",

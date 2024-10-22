@@ -1,7 +1,7 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "02 - Atomic",
-  "attachmentFolderPath": "99 - Meta/0. Attachments",
+  "newFileFolderPath": "02- Atomic",
+  "attachmentFolderPath": "99-Meta/0. Attachments",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
