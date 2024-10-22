@@ -7,8 +7,8 @@ tags:
   - Empresa
 References: 
 cssclasses: 
-sr-due: 2024-10-19
-sr-interval: 5
+sr-due: 2024-11-05
+sr-interval: 14
 sr-ease: 230
 ---
 # Estrategias competitivas de la empresa

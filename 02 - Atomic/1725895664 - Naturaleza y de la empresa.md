@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses: 
-sr-due: 2024-10-18
-sr-interval: 21
+sr-due: 2024-12-14
+sr-interval: 53
 sr-ease: 230
 ---
 # Naturaleza de la empresa
