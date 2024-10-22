@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-18
-sr-interval: 1
+sr-due: 2024-10-28
+sr-interval: 6
 sr-ease: 190
 ---
 # Sistemas de produccion en masa
@@ -28,12 +28,12 @@ Esto conlleva las siguientes características:
 
 ### Pros&Cons:
 ==**PROS:**==
-+ ==Poco tiempo de producción==
-+ ==Poca dificultad de trabajo==
++ Poco tiempo de producción
++ Poca dificultad de trabajo
 + ==Facilita la sustitución de trabajadores==
 ==**CONS:**==
-+ ==Los trabajadores no saben na==
-+ ==Posibles problemas fisico-mentales en los que trabajan → aburrimiento,insatisfacción, desmotivación. (Quien quiere estar todo el rato haciendo lo mismo?)==
++ Los trabajadores no saben na
++ Posibles problemas fisico-mentales en los que trabajan → aburrimiento,insatisfacción, desmotivación. (Quien quiere estar todo el rato haciendo lo mismo?)
 
 
 ## Distribución por producto:
