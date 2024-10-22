@@ -1,5 +1,0 @@
----
-Syntax: 
-Definition: 
-tags:
----
