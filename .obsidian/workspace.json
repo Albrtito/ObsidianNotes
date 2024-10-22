@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1727969475 - Primera practica Heuristica.md",
+                "file": "02 - Atomic/1727270318 - Forma canónica.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1727969475 - Primera practica Heuristica.md",
+                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1727969475 - Primera practica Heuristica.md",
+                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1727969475 - Primera practica Heuristica.md",
+                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,7 +264,7 @@
                   "repelStrength": 18.5975922131148,
                   "linkStrength": 0.76664002131628,
                   "linkDistance": 304,
-                  "scale": 0.19745807468507953,
+                  "scale": 0.0934378247219228,
                   "close": true
                 }
               }
@@ -283,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1727969475 - Primera practica Heuristica.md"
+                "file": "02 - Atomic/1726759457 - Programación Lineal.md"
               }
             }
           }
@@ -291,8 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1229.5,
-    "collapsed": true
+    "width": 971.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,8 +308,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "762464d06c348795",
+  "active": "acc403e22f5c2350",
   "lastOpenFiles": [
+    "02 - Atomic/1727270318 - Forma canónica.md",
+    "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
+    "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
+    "02 - Atomic/1727969475 - Primera practica Heuristica.md",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
     "01.Areas/1.UC3M/Heuristica y Opti.md",
     "02 - Atomic/1729541064 - Unix timestamp.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
@@ -324,22 +327,17 @@
     "02 - Atomic/1728936361 - Sistemas de produccion flexibles.md",
     "02 - Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1729367035 - Test.md",
     "02 - Atomic/Teuroema 2.md",
     "01.Areas/0.DailyNote/2024-10-19.md",
     "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
     "02 - Atomic/1726493246 - Algorithm - AES.md",
     "02 - Atomic/1729367954 - - Untitled Suffix.md",
-    "02 - Atomic/1727270318 - Forma canónica.md",
     "02 - Atomic/00000000 - 000000 - Definition - Sequence NOT BOUNDED from above or below.md",
     "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
     "01.Areas/1.UC3M/DiffCalc.md",
     "01.Areas/1.UC3M/Cripto.md",
-    "01.Areas/1.UC3M/Calculus I.md",
     "00.References/Heuri_Resources_Problemas.pdf",
-    "02 - Atomic/1727969678 - MathProg.md",
-    "02 - Atomic/1726763938 - Exercises - Programación Lineal.md",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/Net_References_s3_4.pdf",
     "99 - Meta/0. Attachments/Cripto.png",

@@ -1235,6 +1235,7 @@ aaN
 aHX
 asignar
 approaches
+aterrizaje
 Creaci
 Crear
 Cuando
@@ -3527,6 +3528,7 @@ differentiability
 dailyNote
 daily
 dddd
+directramente
 modelos
 modelo
 maximizar
@@ -4680,6 +4682,9 @@ mvn
 modelado
 matching
 monday
+mencionado
+meterlos
+mathprog
 en
 ease
 es
@@ -7141,6 +7146,7 @@ pMR
 pux
 pintar
 polynomials
+programadas
 lineal
 la
 lo
@@ -8169,6 +8175,7 @@ llj
 lXR
 lMw
 lNn
+llegada
 tags
 tres
 todos
@@ -9277,6 +9284,7 @@ tSmM
 tvJ
 tuR
 temas
+terminal
 review
 resolver
 realizar
@@ -19749,6 +19757,7 @@ nUArN
 njW
 nux
 nXsZQ
+nodo
 Identificar
 Intro
 Identificaci
@@ -22748,6 +22757,7 @@ fzR
 frV
 fGa
 foS
+formato
 objetivo
 obtener
 of
