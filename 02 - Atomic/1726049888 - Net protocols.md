@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-20
-sr-interval: 23
+sr-due: 2024-12-21
+sr-interval: 60
 sr-ease: 250
 ---
 # Net protocols

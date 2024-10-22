@@ -8,9 +8,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-21
-sr-interval: 7
-sr-ease: 210
+sr-due: 2024-10-26
+sr-interval: 4
+sr-ease: 190
 ---
 # Definition - Sociedad anónima (S.A)
 

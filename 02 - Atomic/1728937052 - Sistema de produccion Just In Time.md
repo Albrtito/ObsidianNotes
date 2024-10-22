@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-19
-sr-interval: 3
+sr-due: 2024-11-01
+sr-interval: 10
 sr-ease: 230
 ---
 # Sistema de produccion Just In Time
