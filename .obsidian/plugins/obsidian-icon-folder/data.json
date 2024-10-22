@@ -26,6 +26,5 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  },
-  "0.References": "IbTrayStacked"
+  }
 }
