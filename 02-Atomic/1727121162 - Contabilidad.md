@@ -21,10 +21,11 @@ Dividimos la contabilidad en dos ramas, según el tipo de análisis que realizan
 > [!NOTE] Definición: 
 >  Tener una foto de la compañía y presentar su situación en un momento del tiempo concreto. 
 + Esa foto prentende mostrar la situación de la empresa, con los mismos criterios, reglas y principios. (Un método formalmente definido para el análisis de situación.)
-+ A estas fotos se les llama [[1727122369 - Estados contables|estados contables/financieros.]] Las más importantes son el **balance** y la **cuenta de resultados**.
++ A estas fotos se les llama [[1727122369 - Estados contables|estados contables/financieros.]] Las más importantes son el [[1729598149 - Balance de situacion|Balance de situacion]] y la [[1729598277 - Cuenta de resultados|Cuenta de resultados]]
 
 **Remark:** 
 + Solo agunas formas jurídicas tienen obligación de generar cuentas anuales, entre ellas: SL, SA, Sociedad Labroral,…
++ La contabilidad de una empresa esta regida por el **plan general contable**
 
 > [!warning] Examen: 
 > En examen entran mayoritariamente cuentas de **situación y de pérdidas y balanzas.** 
@@ -37,6 +38,7 @@ Dividimos la contabilidad en dos ramas, según el tipo de análisis que realizan
 > Analizar y valorar la rentabilidad de servicios,negocios y producción interna.
 > 
 
+## Estructura economico-financiera de la empresa:
 
 
 

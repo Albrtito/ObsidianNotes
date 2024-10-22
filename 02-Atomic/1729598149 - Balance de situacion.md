@@ -1,7 +1,6 @@
 ---
 aliases:
   - Balance de situacion
-  - Cuenta de balance
 tags:
   - incomplete
   - Empresa

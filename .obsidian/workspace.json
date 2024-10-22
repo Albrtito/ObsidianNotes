@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -151,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02-Atomic/1727122369 - Estados contables.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,7 +174,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727122369 - Estados contables.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -291,12 +288,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e14c531d85ad89b0",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
-    "02-Atomic/1729598277 - Cuenta de resultados.md",
+    "02-Atomic/1727121162 - Contabilidad.md",
     "02-Atomic/1727122369 - Estados contables.md",
     "02-Atomic/1729598149 - Balance de situacion.md",
-    "02-Atomic/1727121162 - Contabilidad.md",
+    "02-Atomic/1729598277 - Cuenta de resultados.md",
     "02-Atomic/1727105893 - La función financiera de la empresa.md",
     "01-Areas/1.UC3M/Empresa.md",
     "02-Atomic/1727105227 - Modelos de negocio de la empresa.md",
