@@ -4,7 +4,7 @@ let userTitle = await tp.system.prompt("Enter title");
 // Get the current file title
 let currentTitle = tp.file.title;
 // Append the user's input to the current title
-let newTitle = userTitle ? `${currentTitle} ${userTitle}` : `${currentTitle} - Untitled Suffix`;
+let newTitle = userTitle ? ⁠ ${currentTitle} ${userTitle} ⁠ : ⁠ ${currentTitle} - Untitled Suffix ⁠;
 // Rename the file
 await tp.file.rename(newTitle);
 -%>
@@ -12,7 +12,7 @@ await tp.file.rename(newTitle);
 aliases:
   - <% userTitle %>
 tags:
-  - incomplete 
+  - review
 "References":
 cssclasses:
 ---
