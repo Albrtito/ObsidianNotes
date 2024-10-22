@@ -12,6 +12,8 @@ cssclasses:
 > [!attention] Cosas varias dichas en clase: 
 > La memoria ha de tener las restricciones generalizadas en formas de sumatorios para cada variable. 
 
+**Remarks:**
++ Tools como [[1729586318 - Tool - Gilp|Tool - Gilp]] pueden ser útiles para la visualización del problema. 
 
 ## Ideas:
 

@@ -49,5 +49,5 @@ aliases:
 	+ [[1728047794 - Ejemplos SIMPLEX|Ejemplos SIMPLEX]]
 
 ## Prácticas: 
-+ [[1727969475 - Primera practica Heuristica|Primera práctica heuristica]]
++ [[1727969475 - Practica - Primera practica Heuristica|Primera práctica heuristica]]
 + 

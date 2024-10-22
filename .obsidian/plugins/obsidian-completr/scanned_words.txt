@@ -9285,6 +9285,9 @@ tvJ
 tuR
 temas
 terminal
+timestamp
+transcurridos
+tool
 review
 resolver
 realizar
@@ -10422,6 +10425,7 @@ rYgJ
 rku
 reprsentaci
 refresh
+representa
 References
 Resoluci
 Rectas
@@ -13985,6 +13989,7 @@ scia
 sta
 slkjf
 sldfj
+segundos
 interval
 importancia
 incorrecto
@@ -17898,6 +17903,7 @@ ErCp
 EFW
 EeT
 EkN
+Epoch
 vital
 variables
 vez
@@ -18829,6 +18835,7 @@ vDyum
 vö
 vwo
 vanish
+visualizing
 no
 nuestras
 ndar
@@ -20718,6 +20725,7 @@ ISA
 IsR
 IVA
 IaL
+Independiente
 Definir
 Din
 Design
@@ -29283,6 +29291,7 @@ TgD
 Tmy
 TIME
 Titulo
+Tool
 grafo
 guardan
 global
@@ -31284,6 +31293,7 @@ PRD
 PqK
 Programacion
 Polynomial
+POSIX
 Biblio
 BitsPerComponent
 BI
@@ -37756,6 +37766,7 @@ Ubof
 UQk
 UaX
 ULS
+UTC
 QUE
 Que
 QE
@@ -43020,6 +43031,7 @@ GoS
 GjlE
 GNt
 GAFv
+Gilp
 Nota
 Novo
 Nacional
