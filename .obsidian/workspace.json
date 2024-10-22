@@ -45,8 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "adc050bc747e34af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Atomic/1729586318 - Tool - Gilp.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -155,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1729586318 - Tool - Gilp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1729586318 - Tool - Gilp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
+                "file": "02 - Atomic/1729586318 - Tool - Gilp.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -282,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md"
+                "file": "02 - Atomic/1729586318 - Tool - Gilp.md"
               }
             }
           }
@@ -308,13 +322,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "acc403e22f5c2350",
+  "active": "adc050bc747e34af",
   "lastOpenFiles": [
+    "02 - Atomic/1729586318 - Tool - Gilp.md",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
     "02 - Atomic/1727270318 - Forma canónica.md",
     "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
     "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
     "02 - Atomic/1727969475 - Primera practica Heuristica.md",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
     "01.Areas/1.UC3M/Heuristica y Opti.md",
     "02 - Atomic/1729541064 - Unix timestamp.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
@@ -336,7 +351,6 @@
     "02 - Atomic/00000000 - 000000 - Definition - Sequence NOT BOUNDED from above or below.md",
     "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
     "01.Areas/1.UC3M/DiffCalc.md",
-    "01.Areas/1.UC3M/Cripto.md",
     "00.References/Heuri_Resources_Problemas.pdf",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/Net_References_s3_4.pdf",
