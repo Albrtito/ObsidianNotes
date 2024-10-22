@@ -18,15 +18,11 @@ Dividimos la contabilidad en dos ramas, según el tipo de análisis que realizan
 ### Contabilidad financiera: 
 + Útil para usuarios externos y legales 
 
-Tener una foto de la compañía y presentar su situación en un momento del tiepmo concreto. 
+> [!NOTE] Definición: 
+>  Tener una foto de la compañía y presentar su situación en un momento del tiempo concreto. 
 + Esa foto prentende mostrar la situación de la empresa, con los mismos criterios, reglas y principios. (Un método formalmente definido para el análisis de situación.)
-+ Las fotos son de distintos tipos. Se les llama [[1727122369 - Estados contables|estados contables/financieros.]]
++ A estas fotos se les llama [[1727122369 - Estados contables|estados contables/financieros.]] Las más importantes son el **balance** y la **cuenta de resultados**.
 
-
-Existen tres documentos importantes dentro de esta contabilidad:
-+ **Cuenta de balanzas**
-+ **Cuenta de resultados**
-+ **Memoria económica** → Esta no nos importa tanto durante el curso 
 
 #### Normativa:
 La normativa de contabilidad se rigen por:

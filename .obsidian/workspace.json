@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Empresa.md",
+                "file": "02-Atomic/1727105893 - La función financiera de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,11 +24,30 @@
             "id": "5ed8186a073fe947",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1727121162 - Contabilidad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e14c531d85ad89b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1727122369 - Estados contables.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -90,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 671.5041847229004
+    "width": 671.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -101,11 +121,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1087055cabadd75b",
+            "id": "1223c0f85c541969",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "02-Atomic/1727121162 - Contabilidad.md"
+              }
             }
           },
           {
@@ -114,33 +136,6 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {}
-            }
-          },
-          {
-            "id": "099139f438b240fc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d2df8d68f844a7a7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
             }
           }
         ]
@@ -155,6 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/1727121162 - Contabilidad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,14 +232,14 @@
         ]
       },
       {
-        "id": "2758c03c7f8ca0ae",
+        "id": "d8523f2fbc4e9acf",
         "type": "tabs",
         "children": [
           {
-            "id": "1223c0f85c541969",
+            "id": "1087055cabadd75b",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "graph",
               "state": {}
             }
           }
@@ -269,8 +265,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1087055cabadd75b",
+  "active": "5ed8186a073fe947",
   "lastOpenFiles": [
+    "02-Atomic/1727122369 - Estados contables.md",
+    "02-Atomic/1727121162 - Contabilidad.md",
+    "02-Atomic/1727105893 - La función financiera de la empresa.md",
     "01-Areas/1.UC3M/Empresa.md",
     "02-Atomic/1727105227 - Modelos de negocio de la empresa.md",
     "02-Atomic/1726499016 - Definir objetivos en la empresa.md",
@@ -314,9 +313,6 @@
     "02-Atomic/sed.md",
     "02-Atomic/pip.md",
     "02-Atomic/pbcopy.md",
-    "02-Atomic/neoVim.md",
-    "02-Atomic/more.md",
-    "02-Atomic/lifeOS.md",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",

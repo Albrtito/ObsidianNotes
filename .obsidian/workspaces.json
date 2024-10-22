@@ -6,26 +6,16 @@
         "type": "split",
         "children": [
           {
-            "id": "c0ed840f92fc3792",
+            "id": "760a007f90ee6c6c",
             "type": "tabs",
             "children": [
               {
-                "id": "345ef8843505954e",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00.References/Cripto_References_Asimetrico.pdf"
-                  }
-                }
-              },
-              {
-                "id": "5bf0c8ec4457c115",
+                "id": "35fd606f60ec3930",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01.Areas/1.UC3M/Empresa.md",
+                    "file": "02-Atomic/1727105893 - La función financiera de la empresa.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -33,12 +23,12 @@
                 }
               },
               {
-                "id": "2577fc6ac5a8dd85",
+                "id": "5ed8186a073fe947",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
+                    "file": "02-Atomic/1727121162 - Contabilidad.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -104,26 +94,11 @@
                   "state": {}
                 }
               }
-            ],
-            "currentTab": 3
-          },
-          {
-            "id": "1087c22e61a64185",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "23ab2a729b7c2289",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
-                }
-              }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 267.0041847229004,
+        "width": 671.5041847229004,
         "collapsed": true
       },
       "right": {
@@ -135,11 +110,13 @@
             "type": "tabs",
             "children": [
               {
-                "id": "1087055cabadd75b",
+                "id": "1223c0f85c541969",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "outline",
+                  "state": {
+                    "file": "02-Atomic/1727121162 - Contabilidad.md"
+                  }
                 }
               },
               {
@@ -148,35 +125,6 @@
                 "state": {
                   "type": "review-queue-list-view",
                   "state": {}
-                }
-              },
-              {
-                "id": "099139f438b240fc",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "01.Areas/1.UC3M/Empresa.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "d2df8d68f844a7a7",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "01.Areas/1.UC3M/Empresa.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
                 }
               }
             ]
@@ -191,9 +139,9 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "01.Areas/1.UC3M/Empresa.md",
+                    "file": "02-Atomic/1727121162 - Contabilidad.md",
                     "options": {
-                      "collapse-filter": true,
+                      "collapse-filter": false,
                       "search": "",
                       "localJumps": 2,
                       "localBacklinks": true,
@@ -260,11 +208,11 @@
                       "nodeSizeMultiplier": 2.79537653688525,
                       "lineSizeMultiplier": 1,
                       "collapse-forces": false,
-                      "centerStrength": 0,
-                      "repelStrength": 18.5975922131148,
-                      "linkStrength": 0.76664002131628,
-                      "linkDistance": 304,
-                      "scale": 0.043028929965921996,
+                      "centerStrength": 0.0242737249838606,
+                      "repelStrength": 15.3311814073596,
+                      "linkStrength": 0.47411233053583,
+                      "linkDistance": 52,
+                      "scale": 0.09229580869883151,
                       "close": true
                     }
                   }
@@ -273,24 +221,22 @@
             ]
           },
           {
-            "id": "2758c03c7f8ca0ae",
+            "id": "d8523f2fbc4e9acf",
             "type": "tabs",
             "children": [
               {
-                "id": "1223c0f85c541969",
+                "id": "1087055cabadd75b",
                 "type": "leaf",
                 "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "01.Areas/1.UC3M/Empresa.md"
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 480
+        "width": 577.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -305,12 +251,11 @@
           "templater-obsidian:Templater": true,
           "omnisearch:Omnisearch": false,
           "graph:Open graph view": false,
-          "workspaces:Manage workspace layouts": false,
-          "bmo-chatbot:BMO Chatbot": false
+          "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "36d1a43796975b90",
-      "mtime": "2024-10-14T22:33:31+02:00"
+      "active": "5ed8186a073fe947",
+      "mtime": "2024-10-22T13:49:59+02:00"
     }
   },
   "active": "Main"
