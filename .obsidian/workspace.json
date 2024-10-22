@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e3ccffd2ab15fed",
+            "id": "35fd606f60ec3930",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Meta/1. Templates/NoteTemplate.md",
+                "file": "01-Areas/1.UC3M/Empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +21,14 @@
             }
           },
           {
-            "id": "335c19c0831e1927",
+            "id": "5ed8186a073fe947",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1729596773 - Teorema 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -128,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/1729596773 - Teorema 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,14 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/1729596773 - Teorema 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f97aefa6b972e655",
@@ -164,7 +155,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1729596773 - Teorema 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -237,7 +227,7 @@
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.10337865828549954,
+                  "scale": 0.09229580869883151,
                   "close": true
                 }
               }
@@ -254,9 +244,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02-Atomic/1729596773 - Teorema 2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -281,10 +269,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "335c19c0831e1927",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
-    "02-Atomic/1729596773 - Teorema 2.md",
+    "01-Areas/1.UC3M/Empresa.md",
+    "02-Atomic/1727105227 - Modelos de negocio de la empresa.md",
+    "02-Atomic/1726499016 - Definir objetivos en la empresa.md",
+    "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
+    "02-Atomic/1727712353 - Responsabilidad social de la empresa.md",
     "99-Meta/1. Templates/NoteTemplate.md",
+    "02-Atomic/1729596810 - Title.md",
+    "02-Atomic/1729596773 - Teorema 2.md",
     "02-Atomic/1729596711 - Nota.md",
     "02-Atomic/1729596623 -.md",
     "02-Atomic/1729596332 -.md",
@@ -323,12 +317,6 @@
     "02-Atomic/neoVim.md",
     "02-Atomic/more.md",
     "02-Atomic/lifeOS.md",
-    "02-Atomic/less.md",
-    "02-Atomic/head.md",
-    "02-Atomic/grep.md",
-    "02-Atomic/cut.md",
-    "02-Atomic/column.md",
-    "02-Atomic/chmod.md",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",

@@ -10,12 +10,12 @@ await tp.file.rename(newTitle);
 -%>
 ---
 aliases:
-  - <% tp.user.userTitle %>
+  - <%userTitle%>
 tags:
   - incomplete
 References:
 cssclasses:
 ---
-# <% tp.user.userTitle %>
+# <% userTitle %>
 <% tp.file.cursor(10) %>
 ***
