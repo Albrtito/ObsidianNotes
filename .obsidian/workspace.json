@@ -4,68 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "607f67b70e3b9a18",
+        "id": "760a007f90ee6c6c",
         "type": "tabs",
         "children": [
           {
-            "id": "acc403e22f5c2350",
+            "id": "3e3ccffd2ab15fed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Atomic/1726759457 - Programación Lineal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "762464d06c348795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1727270318 - Forma canónica.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2046c6a6e18186c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.Areas/1.UC3M/Heuristica y Opti.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6339f1f6a4791e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1727969475 - Practica - Primera practica Heuristica.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adc050bc747e34af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Atomic/1729586318 - Tool - Gilp.md",
+                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -182,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Atomic/1729586318 - Tool - Gilp.md",
+                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Atomic/1729586318 - Tool - Gilp.md",
+                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Atomic/1729586318 - Tool - Gilp.md",
+                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -309,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Atomic/1729586318 - Tool - Gilp.md"
+                "file": "02 - Atomic/1726498694 - Definition - Criptografía.md"
               }
             }
           }
@@ -335,17 +282,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "adc050bc747e34af",
+  "active": "3e3ccffd2ab15fed",
   "lastOpenFiles": [
-    "99 - Meta/0. Attachments/1729586318 - Tool - Gilpj.png",
-    "02 - Atomic/1727969475 - Practica - Primera practica Heuristica.md",
-    "01.Areas/1.UC3M/Heuristica y Opti.md",
-    "02 - Atomic/1729541064 - Unix timestamp.md",
-    "02 - Atomic/1727270318 - Forma canónica.md",
-    "02 - Atomic/1726759457 - Programación Lineal.md",
-    "02 - Atomic/1729586318 - Tool - Gilp.md",
-    "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
     "02 - Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
+    "02 - Atomic/1727100415 - Theorem - Indicador de Euler.md",
+    "02 - Atomic/1728912947 - Cifrado asimetrico.md",
+    "01.Areas/1.UC3M/Cripto.md",
+    "02 - Atomic/1728921778 - La funcion de produccion de la empresa.md",
+    "02 - Atomic/1729167814 - Resolucion de sistemas lineales.md",
+    "02 - Atomic/20240528 - 110528 - Separable ODEs.md",
+    "02 - Atomic/1729167252 - Cálculo de la matriz inversa.md",
+    "02 - Atomic/1726759457 - Programación Lineal.md",
+    "02 - Atomic/1727270318 - Forma canónica.md",
+    "01.Areas/1.UC3M/Heuristica y Opti.md",
+    "02 - Atomic/1727969475 - Practica - Primera practica Heuristica.md",
+    "02 - Atomic/1729586318 - Tool - Gilp.md",
+    "99 - Meta/0. Attachments/1729586318 - Tool - Gilpj.png",
+    "02 - Atomic/1729541064 - Unix timestamp.md",
+    "02 - Atomic/1729087121 - Creación de informes en programación lineal.md",
     "99 - Meta/1. Templates/NoteTemplate.md",
     "02 - Atomic/1727428451 - Definition - TCP.md",
     "01.Areas/1.UC3M/Networks.md",
@@ -358,12 +312,6 @@
     "02 - Atomic/1727270270 - Method - SIMPLEX.md",
     "02 - Atomic/1729367035 - Test.md",
     "02 - Atomic/Teuroema 2.md",
-    "01.Areas/0.DailyNote/2024-10-19.md",
-    "02 - Atomic/20240620 - 172412 - Method - Polynomial long division.md",
-    "02 - Atomic/1726493246 - Algorithm - AES.md",
-    "02 - Atomic/1729367954 - - Untitled Suffix.md",
-    "02 - Atomic/00000000 - 000000 - Definition - Sequence NOT BOUNDED from above or below.md",
-    "02 - Atomic/20240615 - 210541 - Theorem - Rolle.md",
     "00.References/Heuri_Resources_Problemas.pdf",
     "00.References/Net_Resources_s3_3.pdf",
     "00.References/Net_References_s3_4.pdf",
@@ -382,7 +330,6 @@
     "99 - Meta/2. Scripts/1728047794 - Ejemplos SIMPLEXj.txt",
     "99 - Meta/0. Attachments/1728047794 - Ejemplos SIMPLEXj-1.png",
     "99 - Meta/0. Attachments/1728047794 - Ejemplos SIMPLEXj.png",
-    "99 - Meta/0. Attachments/Screenshot 2024-10-08 at 2.29.28 PM.png",
     "01.Areas/1.UC3M/Movilidad.canvas",
     "01.Areas/3.Matterhorn/Tatto.canvas",
     "01.Areas/2. HTB/HTB_Linux Fundamentals.canvas",

@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-10-21
-sr-interval: 4
+sr-due: 2024-11-02
+sr-interval: 11
 sr-ease: 212
 ---
 # Cifrado asimetrico

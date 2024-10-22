@@ -6,9 +6,9 @@ tags:
   - review
 References: 
 cssclasses: 
-sr-due: 2024-10-21
-sr-interval: 4
-sr-ease: 224
+sr-due: 2024-10-24
+sr-interval: 2
+sr-ease: 204
 ---
 # La funcion de produccion de la empresa
 
@@ -26,10 +26,10 @@ sr-ease: 224
 ## Objetivos: 
 Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde el [[#Tipos de sistemas productivos]]que la empresa utiliza.
 
-1. **Coste:** Queremos minimizar
-2. **Calidad:** Queremos maximizar
+1. ==**Coste:** Queremos minimizar==
+2. ==**Calidad:** Queremos maximizar==
 3. ==**Tiempo de entrega:** Queremos minimizar==
-3. **Flexibilidad:** Qeremos maximizia
+3. ==**Flexibilidad:** Qeremos maximizia==
 
 **Remarks:**
 + El objetivo de minimizar el coste **va en contra del resto de los objetivos de la empresa**. 
