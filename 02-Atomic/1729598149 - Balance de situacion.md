@@ -46,16 +46,18 @@ Colocaremos todos los bienes/deudas/fondos en dos columnas, agrupándolos según
 > [!quote] Remember 
 > Al realizar el balance la columna del activo debe de sumar lo mismo a la del pasivo + patrimonio neto 
 
-
+### Activo:   
 A la hora de colocar los activos en el balance se realiza de la siguiente forma:
 +  De menor a mayor liquiez (lo menor arriba). Liquidez quiere decir **disponibilidad**. 
 > p.e: En la imagen anterior vemos que lo primero son los inmovilizados (no corriente) debido a su baja disponibilidad
 
-
-
+### Pasivo:
 A la hora de colocar el pasivo en el balance se realiza de la siguiente forma: 
 + De menos a mayor exigibilidad. 
   Mayor exigibilidad serían deudas a corto plazo.
 > p.e: En la imagen anterior vemos qwue lo primero es el patrimonio neto (lo propio) debido a que nadie exige nada de ello, mientras que lo último son las deudas a c/p pues son las que más se exigen.
+
+### Patrimonio neto:
+Dentro del patrimonio neto hemos de tener una cosa en cuenta y eso es el **calculo de los beneficios retenidos,** es decir, 
 
 ***
