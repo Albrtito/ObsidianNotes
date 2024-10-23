@@ -151,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02-Atomic/1727121162 - Contabilidad.md"
+              }
             }
           },
           {
@@ -162,7 +164,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f97aefa6b972e655",
@@ -174,6 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/1727121162 - Contabilidad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -288,7 +292,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1087055cabadd75b",
+  "active": "fea6a7bd9cb3093d",
   "lastOpenFiles": [
     "02-Atomic/1727121162 - Contabilidad.md",
     "02-Atomic/1727122369 - Estados contables.md",
