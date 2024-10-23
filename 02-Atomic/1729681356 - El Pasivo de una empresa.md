@@ -14,7 +14,12 @@ cssclasses:
 > Denominamos pasivo a los **métodos de financiación que ha usado la empresa**, lo que **aún debe** o esta **obligada a pagar**.
 > 
 
-Al igual que el activo, se divide en:
-+ **PASIVO NO CORRIENTE (PNC):** Deudas a largo plazo. 
-+ **PASIVO CORRIENTE (PC):** Deudas a corto plazo. 
+## Pasivo no corriente (PNC):
+ Deudas a **largo plazo.** 
+ + Deudas l/p
+
+## Pasivo corriente (PC):
+Deudas a **corto plazo**
++ Deudas c/p
++ Proovedores: Como los proovedores pagarán en un plazo de (normalmente) 3 meses, es una deuda a c/p a tener en cuenta.
 ***

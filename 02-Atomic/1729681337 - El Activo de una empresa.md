@@ -15,7 +15,22 @@ cssclasses:
 > 
 
 Se divide en:
-+ **ACTIVO NO CORRIENTE (ANC):** Cuentás que permanecen en la empresa más de un año:
+
+## Activo no corriente (ANC):
+Cuentás que permanecen en la empresa **más de un año:**
 > Coches, inmoviliaria, patentes, marcas
-+ **ACTIVO CORRIENTE (AC):** Cuentas que permanecen menos de un año
+
++ Inmovilizado material
++ Inmovilizado inmaterial
++ Otro inmovilizado
+## Activo corriente (AC):
+Cuentas que permanecen **menos de un año**
+> Existencias, clientes, cortos plazos
+
++ Existencias
++ Clietnes
++ Inversiones financieras c/p
++ Efectivo/tesorería/caja
+
+
 ***

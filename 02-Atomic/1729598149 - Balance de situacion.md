@@ -11,12 +11,10 @@ cssclasses:
  
 > [!NOTE] Definición: 
 > Bienes, derechos y obligaciones en **un momento determinado**. Se obtienen anualmente o en momentos puntuales 
-+ Lo **mas importante** del balance de situación es que la **ecuación fundamental del patrimonio neto** se ha de cumplir. Esta ecuación es la siguiente:$$Activo = \text{Patrimonio Neto} + \text{Pasivo exigible}$$
-  Con letritas: 
-  $$A = PN + P$$
-  
-Lo que recoge el balance de situación es la estructura economico-financiera de la empresa.
+
+
 ## Estructura economico-financiera de la empresa:
+Lo que recoge el balance de situación es la estructura economico-financiera de la empresa.
 
 Definimos dos conceptos importantísimos en el ámbito de la contabilidad: 
 
@@ -31,20 +29,30 @@ Definimos dos conceptos importantísimos en el ámbito de la contabilidad:
 > Namely: De donde ha salido toda la pasta.
 > 
 + Materializa en **el [[1729681356 - El Pasivo de una empresa|PASIVO]]** (lo que debe) y en el [[1729682380 - El patrimonio neto de una empresa|Patrimonio neto]] (lo que ya tiene)
+### Ecuación fundamental de la contabilidad:
+Lo **mas importante** del balance de situación es que la **ecuación fundamental del patrimonio neto** se ha de cumplir. Esta ecuación es la siguiente:$$Activo = \text{Patrimonio Neto} + \text{Pasivo exigible}$$
+  Con letritas: 
+  $$A = PN + P$$
++  Visto de otra forma: 
+$$
+\text{Activo} -  \text{Pasivo exigible (P)}= \text{Patrimonio Neto (PN)} 
+$$
+	Lo que se tiene (ACTIVO) menos lo que se debe (PASIVO) dará el patrimonio neto (LO QUE REALMENTE SE TIENE)
 
-De 
+
+## Creación del balance:
+
 
 
 A la hora de colocar los activos en el balance se realiza de la siguiente forma:
 	+ De menor a mayor liquiez (lo menor arriba). Liquidez quiere decir **disponibilidad**. 
 
-+ **Estructura financiera:** De donde han salido los recuross. De donde se ha obtenido el dinero para hacer las inversiones. Se materializa en el pasivo y en los **fondos propios de la empresa** **(Patrimonio neto)**
-		Este pasivo puede también dividirse según capital propio y pasivo exigible. 
-		
-		A la hora de colocar el pasivo en el balance se realiza de la siguiente forma: 
+
+
+A la hora de colocar el pasivo en el balance se realiza de la siguiente forma: 
 		+ De menos a mayor exigibilidad. Mayor exigibilidad serían deudas a corto plazo.
 
-	+ **Patrimonio neto:** En el se encuentra el capital, reservas y resultados de ejercicios anterioers (lo ganado por producción/servicios)
+
 
 De estos conceptos obtenemos la relación funcamental del balance de la empresa:
 $$
@@ -52,10 +60,6 @@ $$
 	$$
 + Todo el activo que se tiene tiene que ser igual al patrimonio neto (El dinero de la empresa). 
 + Lo mismo a un lado que al otro.
-+ Visto de otra forma: 
-$$
-\text{Activo} -  \text{Pasivo exigible (P)}= \text{Patrimonio Neto (PN)} 
-$$
-	Lo ganado y que se tiene menos lo debido da el patrimonio Neto.
+
 
 ***

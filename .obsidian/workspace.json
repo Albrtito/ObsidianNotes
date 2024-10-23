@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1729682380 - El patrimonio neto de una empresa.md"
+                "file": "02-Atomic/1729598149 - Balance de situacion.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
+                "file": "02-Atomic/1729598149 - Balance de situacion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -343,12 +343,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "eb49f0224b0310cf",
+  "active": "09c44af5269ff901",
   "lastOpenFiles": [
-    "02-Atomic/1729598149 - Balance de situacion.md",
     "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
     "02-Atomic/1729681356 - El Pasivo de una empresa.md",
     "02-Atomic/1729681337 - El Activo de una empresa.md",
+    "02-Atomic/1729598149 - Balance de situacion.md",
     "02-Atomic/1729681808 - Terminología de la contabilidad.md",
     "02-Atomic/1727121162 - Contabilidad.md",
     "02-Atomic/1729598277 - Cuenta de resultados.md",
