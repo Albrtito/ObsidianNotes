@@ -15,24 +15,30 @@ cssclasses:
   Con letritas: 
   $$A = PN + P$$
   
+Lo que recoge el balance de situación es la estructura economico-financiera de la empresa.
+## Estructura economico-financiera de la empresa:
 
-Ha de recoger 
+Definimos dos conceptos importantísimos en el ámbito de la contabilidad: 
 
-+ **Estructura económica:** Se corresponde con las inversiones que hace la empresa y se materializa en el activo. 
-	+ **Activo:** Que **bienes y derechos tiene la empresa**. El activo puede ser corriente y no corriente. El activo se divide de la siguiente forma: 
-		+ Activo **no corriente**: Cuentas que suelen permanecer más de un año. Inmovilizado material: Edificios, coches. Inmovilizado inmaterial: Patentes, marcas. Otro inmovilizado: Inversiones fuera de la empresa
-		+ Activo **corriente**: Cuentas que permanecen menos de un año: Existencias: Lo del almacen. Clientes: Dinero que deben los clientes. Inversiones financieras: A corto plzo. Tesorería,caja,efectivo
 
-	A la hora de colocar los activos en el balance se realiza de la siguiente forma:
+> [!NOTE] Estructura económica:
+> Como las **inversiones que realiza la empresa**. Representa el **empleo de recursos,bienes y derechos**. 
++ Se materializa en el **[[1729681337 - El Activo de una empresa|ACTIVO]]** (Lo que tiene)
+
+
+> [!NOTE] Esctrutura financiera 
+> Definida por las **fuentes de financiación**, recoge los recursos utilizados para desarrollar las inversiones (**deudas y obligaciones**).
+> Namely: De donde ha salido toda la pasta.
+> 
++ Materializa en **el [[1729681356 - El Pasivo de una empresa|PASIVO]]** (lo que debe) y en el [[1729682380 - El patrimonio neto de una empresa|Patrimonio neto]] (lo que ya tiene)
+
+De 
+
+
+A la hora de colocar los activos en el balance se realiza de la siguiente forma:
 	+ De menor a mayor liquiez (lo menor arriba). Liquidez quiere decir **disponibilidad**. 
 
 + **Estructura financiera:** De donde han salido los recuross. De donde se ha obtenido el dinero para hacer las inversiones. Se materializa en el pasivo y en los **fondos propios de la empresa** **(Patrimonio neto)**
-	+ **Pasivo:** Representa de donde han venido los recursos utilizados para llevar a cabo las inversiones de la empresa. **Deudas y obligaciones de pago**
-		+ Como se ha financiado? 
-		Dividimos el pasivo en: 
-		+ Pasivo **no corriente:** Deudas a laargo plazo.
-		+ Pasivo **corriente:** Deudas a corto plazo, proovedores
-		
 		Este pasivo puede también dividirse según capital propio y pasivo exigible. 
 		
 		A la hora de colocar el pasivo en el balance se realiza de la siguiente forma: 

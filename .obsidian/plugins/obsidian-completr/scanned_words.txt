@@ -1248,6 +1248,9 @@ avisar
 alergias
 asistencia
 asturias
+amplia
+abreviaturas
+asi
 Creaci
 Crear
 Cuando
@@ -2372,6 +2375,7 @@ Comunicarle
 CORRIENTE
 Cuent
 Coches
+Corriente
 de
 due
 dar
@@ -5967,6 +5971,7 @@ enviar
 env
 ehcho
 economico
+ecuaci
 programaci
 primer
 paso
@@ -7223,6 +7228,7 @@ pagos
 preguntarle
 plan
 patentes
+propias
 lineal
 la
 lo
@@ -8254,6 +8260,7 @@ lNn
 llegada
 lugares
 llamamiento
+letritas
 tags
 tres
 todos
@@ -9374,6 +9381,7 @@ transporte
 trasporte
 tenerla
 toca
+terminolog
 review
 resolver
 realizar
@@ -21892,6 +21900,7 @@ Dineros
 Documentaci
 Despu
 Definida
+Denominamos
 funci
 fibonacci
 fica
@@ -23898,6 +23907,7 @@ oXk
 oWYO
 ocupar
 organizarse
+obligada
 que
 queremos
 qD
@@ -29467,6 +29477,7 @@ TIME
 Titulo
 Tool
 Tools
+Terminolog
 grafo
 guardan
 global
@@ -31477,6 +31488,7 @@ Permisos
 Programaciones
 Presupuestos
 PASIVO
+PNC
 Biblio
 BitsPerComponent
 BI

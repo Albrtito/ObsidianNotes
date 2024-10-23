@@ -13,4 +13,7 @@ cssclasses:
 	+ **Activo Corriente** → AC
 	+ **Activo No Corriente** → ANC
 + **Pasivo** → P
+	+ **Pasivo Corriente** → PC
+	+ **Pasivo No Corriente** → PNC
++ **Patrimonio Neto** → PN
 ***
