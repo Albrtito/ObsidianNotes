@@ -3,7 +3,7 @@ aliases:
   - Estados contables
 tags:
   - Empresa
-  - incomplete
+  - review
 References: 
 cssclasses:
 ---

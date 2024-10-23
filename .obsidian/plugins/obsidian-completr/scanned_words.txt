@@ -1258,6 +1258,7 @@ apuntan
 apunta
 apuntar
 asiento
+apuntarlas
 Creaci
 Crear
 Cuando
@@ -10561,6 +10562,7 @@ retenidos
 resolution
 resolutions
 reduce
+referencien
 References
 Resoluci
 Rectas
@@ -19977,6 +19979,7 @@ nodo
 negativa
 ndolos
 normalising
+nuevamente
 Identificar
 Intro
 Identificaci

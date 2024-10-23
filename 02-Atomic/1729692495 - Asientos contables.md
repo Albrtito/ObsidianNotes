@@ -2,8 +2,8 @@
 aliases:
   - Asientos
 tags:
-  - incomplete
   - Empresa
+  - review
 References: 
 cssclasses:
 ---
@@ -13,6 +13,9 @@ cssclasses:
 > Los asientos contables se realizan **cada vez que se realiza una transacción en la empresa**. 
 > Los asientos se anotan en una tabla con **dos columnas,** el **DEBE y HABER**.
 > 
+> Todos los asientos contables se apuntan en **el libro diario**.
+
+
 + Los **activos:**
 	+ **Aumentan** su valor con el **DEBE**
 	+ **Disminuyen** con el **HABER**

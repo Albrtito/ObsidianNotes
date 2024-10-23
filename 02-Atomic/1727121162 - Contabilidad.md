@@ -3,7 +3,7 @@ aliases:
   - Contabilidad
 tags:
   - Empresa
-  - incomplete
+  - review
 References: 
 cssclasses:
 ---
@@ -12,7 +12,7 @@ cssclasses:
 > [!NOTE] Definición 
  > **Contabilidad:** Herramientas **estandarizadas** de análisis que tienen como finalidad **reflejar el estado económico de la empresa**.
  > $$ \text{Contabilidad} = \text{Análisis}$$
- > + Permite **analizar la situación** para tomar decisiones acordes a ella
+ > + Permite **analizar la situación y [[1729694840 - Estructura economico-financiera de la empresa|Estructura economico-financiera de la empresa]] ** para tomar decisiones acordes a ella
 
 Dividimos la contabilidad en dos ramas, según el tipo de análisis que realizan.
 **Remarks:** 
@@ -23,7 +23,8 @@ Dividimos la contabilidad en dos ramas, según el tipo de análisis que realizan
 > [!NOTE] Definición: 
 >  Tener una foto de la compañía y presentar su situación en un momento del tiempo concreto. 
 + Esa foto prentende mostrar la situación de la empresa, con los mismos criterios, reglas y principios. (Un método formalmente definido para el análisis de situación.)
-+ A estas fotos se les llama [[1727122369 - Estados contables|estados contables/financieros.]] Las más importantes son el [[1729598149 - Balance de situacion|Balance de situacion]] y la [[1729598277 - Cuenta de resultados|Cuenta de resultados]]
++ A estas fotos se les llama [[1727122369 - Estados contables|estados contables/financieros.]] 
+	+ Las más importantes son el [[1729598149 - Balance de situacion|Balance de situacion]] y la [[1729598277 - Cuenta de resultados|Cuenta de resultados]]
 
 **Remark:** 
 + Solo agunas formas jurídicas tienen obligación de generar cuentas anuales, entre ellas: SL, SA, Sociedad Labroral,…

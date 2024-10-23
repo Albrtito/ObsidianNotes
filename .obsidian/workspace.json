@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1727122369 - Estados contables.md",
+                "file": "02-Atomic/1729598149 - Balance de situacion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c88868726e87277e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1729694840 - Estructura economico-financiera de la empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1729692495 - Asientos contables.md"
+                "file": "02-Atomic/1727121162 - Contabilidad.md"
               }
             }
           },
@@ -176,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1729692495 - Asientos contables.md",
+                "file": "02-Atomic/1727121162 - Contabilidad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,12 +312,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "19f230303d9766c5",
+  "active": "5ed8186a073fe947",
   "lastOpenFiles": [
-    "02-Atomic/1727122369 - Estados contables.md",
-    "02-Atomic/1729692495 - Asientos contables.md",
+    "02-Atomic/1727105893 - La función financiera de la empresa.md",
+    "02-Atomic/1727121162 - Contabilidad.md",
     "02-Atomic/1729598149 - Balance de situacion.md",
+    "02-Atomic/1729694840 - Estructura economico-financiera de la empresa.md",
+    "02-Atomic/1727122369 - Estados contables.md",
     "02-Atomic/1729598277 - Cuenta de resultados.md",
+    "02-Atomic/1729692495 - Asientos contables.md",
     "02-Atomic/20240501 - 154905 - Normal forms and resolution.md",
     "01-Areas/1.UC3M/Logic.md",
     "02-Atomic/20240523 - 122919 - Propositional logic.md",
@@ -313,8 +329,6 @@
     "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
     "02-Atomic/1729684964 - El BAIT,BAT y BN.md",
     "99-Meta/0. Attachments/1729684964 - El BAIT,BAT y BNj.png",
-    "02-Atomic/1727121162 - Contabilidad.md",
-    "02-Atomic/1727105893 - La función financiera de la empresa.md",
     "99-Meta/0. Attachments/1729598277 - Cuenta de resultadosj.png",
     "02-Atomic/1729684625 - BAIT,BAT,BN.md",
     "99-Meta/0. Attachments/1729682380 - El patrimonio neto de una empresaj.png",
@@ -329,7 +343,6 @@
     "02-Atomic/1729596773 - Teorema 2.md",
     "02-Atomic/1729596711 - Nota.md",
     "02-Atomic/1729596623 -.md",
-    "02-Atomic/1729596332 -.md",
     "00-References/pbcopy",
     "00-References/UC3M_Resources_Calendario2425.pdf",
     "00-References/SoftwareEng_Ch 3_Theory_ArchitecturealModelling.pdf",
