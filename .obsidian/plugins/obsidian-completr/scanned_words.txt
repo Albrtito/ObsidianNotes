@@ -1253,6 +1253,7 @@ abreviaturas
 asi
 agrup
 abiertas
+anotan
 Creaci
 Crear
 Cuando
@@ -2380,6 +2381,7 @@ Coches
 Corriente
 Colocaremos
 Clietnes
+Combined
 de
 due
 dar
@@ -9397,6 +9399,7 @@ trasporte
 tenerla
 toca
 terminolog
+transacci
 review
 resolver
 realizar
@@ -10551,6 +10554,9 @@ recoge
 restamos
 restarle
 retenidos
+resolution
+resolutions
+reduce
 References
 Resoluci
 Rectas
@@ -11512,6 +11518,9 @@ Refleja
 REALMENTE
 Resultado
 RETENIOS
+Resource
+Rules
+Resolution
 cssclasses
 correcto
 correcta
@@ -12949,6 +12958,7 @@ confirma
 cortos
 calcularlos
 calculo
+complexity
 sr
 se
 subproblemas
@@ -14150,6 +14160,7 @@ sepamos
 sepan
 situacion
 simos
+sets
 interval
 importancia
 incorrecto
@@ -18088,6 +18099,7 @@ Euricar
 Esctrutura
 Ecuaci
 Efectivo
+Equivalence
 vital
 variables
 vez
@@ -19957,6 +19969,7 @@ nXsZQ
 nodo
 negativa
 ndolos
+normalising
 Identificar
 Intro
 Identificaci
@@ -21931,6 +21944,7 @@ Documentaci
 Despu
 Definida
 Denominamos
+Derived
 funci
 fibonacci
 fica
@@ -23938,6 +23952,7 @@ oWYO
 ocupar
 organizarse
 obligada
+oder
 que
 queremos
 qD
@@ -25909,6 +25924,8 @@ Asegurarse
 ASDE
 ACTIVO
 ANC
+Assumptions
+Aumentan
 Floyd
 Foundations
 Funci
@@ -31525,6 +31542,10 @@ PASIVO
 PNC
 Proovedores
 Prestaci
+Propositional
+Predicate
+PRENEX
+Proof
 Biblio
 BitsPerComponent
 BI
@@ -33393,6 +33414,9 @@ Silvia
 Significa
 Suffix
 Sale
+Semantic
+Submission
+SKOLEM
 Manual
 Modelar
 Millones
@@ -36132,6 +36156,7 @@ Linux
 Lanz
 Localizar
 LAS
+Logic
 bottom
 base
 brik

@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1727122369 - Estados contables.md"
+                "file": "02-Atomic/1729692495 - Asientos contables.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727122369 - Estados contables.md",
+                "file": "02-Atomic/1729692495 - Asientos contables.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,8 +299,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e14c531d85ad89b0",
+  "active": "19f230303d9766c5",
   "lastOpenFiles": [
+    "02-Atomic/20240501 - 154905 - Normal forms and resolution.md",
+    "01-Areas/1.UC3M/Logic.md",
+    "02-Atomic/20240523 - 122919 - Propositional logic.md",
     "02-Atomic/1729692495 - Asientos contables.md",
     "02-Atomic/1727122369 - Estados contables.md",
     "02-Atomic/1729598149 - Balance de situacion.md",
@@ -327,9 +330,6 @@
     "02-Atomic/1729596711 - Nota.md",
     "02-Atomic/1729596623 -.md",
     "02-Atomic/1729596332 -.md",
-    "02-Atomic/1729596459 -.md",
-    "02-Atomic/1729596396 -.md",
-    "99-Meta/1. Templates/wc - Untitled Suffix.md",
     "00-References/pbcopy",
     "00-References/UC3M_Resources_Calendario2425.pdf",
     "00-References/SoftwareEng_Ch 3_Theory_ArchitecturealModelling.pdf",
