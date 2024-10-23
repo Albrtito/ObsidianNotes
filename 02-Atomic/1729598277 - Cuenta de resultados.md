@@ -31,5 +31,12 @@ Lo primero que hemos de hacer es definir que es lo que veremos como ingreso y lo
 + Gastos financieros
 + Costes de amortización
 
+## Los beneficios de la empresa:
+Dentro de los gastos e ingresos de la empresa siempre existirán unos **gastos seguros** en forma de: 
++ **intereses,impuestos,coste de ventas, gastos de explotación o dividiendos**
+Podemos ver como y cuando afecta cada uno de estos gastos en la siguiente gráfica:
 
+![[1729598277 - Cuenta de resultadosj.png]]
+
+En el curso de Empresa en la UC3M nos enfocaremos en **los tres últimos escalones**, en [[1729684964 - El BAIT,BAT y BN|El BAIT,BAT y BN]]. 
 ***

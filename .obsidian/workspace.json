@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f1d34ad1cbf6514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1729684964 - El BAIT,BAT y BN.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -204,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1729598277 - Cuenta de resultados.md"
+                "file": "02-Atomic/1729684964 - El BAIT,BAT y BN.md"
               }
             }
           },
@@ -228,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1729598277 - Cuenta de resultados.md",
+                "file": "02-Atomic/1729684964 - El BAIT,BAT y BN.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -350,18 +363,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "13abe47c4aa3a423",
+  "active": "7f1d34ad1cbf6514",
   "lastOpenFiles": [
-    "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
-    "02-Atomic/1729681337 - El Activo de una empresa.md",
-    "02-Atomic/1729681356 - El Pasivo de una empresa.md",
-    "02-Atomic/1727122369 - Estados contables.md",
+    "99-Meta/0. Attachments/1729684964 - El BAIT,BAT y BNj.png",
     "02-Atomic/1729598277 - Cuenta de resultados.md",
+    "02-Atomic/1729684964 - El BAIT,BAT y BN.md",
     "02-Atomic/1729598149 - Balance de situacion.md",
-    "99-Meta/0. Attachments/1729682380 - El patrimonio neto de una empresaj.png",
-    "02-Atomic/1729681808 - Terminología de la contabilidad.md",
+    "02-Atomic/1727122369 - Estados contables.md",
     "02-Atomic/1727121162 - Contabilidad.md",
     "02-Atomic/1727105893 - La función financiera de la empresa.md",
+    "99-Meta/0. Attachments/1729598277 - Cuenta de resultadosj.png",
+    "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
+    "02-Atomic/1729684625 - BAIT,BAT,BN.md",
+    "02-Atomic/1729681337 - El Activo de una empresa.md",
+    "02-Atomic/1729681356 - El Pasivo de una empresa.md",
+    "99-Meta/0. Attachments/1729682380 - El patrimonio neto de una empresaj.png",
+    "02-Atomic/1729681808 - Terminología de la contabilidad.md",
     "01-Areas/1.UC3M/Empresa.md",
     "02-Atomic/1727105227 - Modelos de negocio de la empresa.md",
     "02-Atomic/1726499016 - Definir objetivos en la empresa.md",
@@ -394,9 +411,6 @@
     "99-Meta/0. Attachments/Screenshot 2024-09-24 at 1.54.39 PM.png",
     "99-Meta/0. Attachments/Screenshot 2024-09-24 at 1.38.16 PM.png",
     "99-Meta/0. Attachments/Screenshot 2024-09-24 at 1.35.21 PM.png",
-    "99-Meta/0. Attachments/Screenshot 2024-09-23 at 5.34.01 PM.png",
-    "02 - Atomic/20240307 - 000000 - ODEs.md",
-    "02-Atomic/wc.md",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",

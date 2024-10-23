@@ -1252,6 +1252,7 @@ amplia
 abreviaturas
 asi
 agrup
+abiertas
 Creaci
 Crear
 Cuando
@@ -3565,6 +3566,7 @@ dosieres
 desaf
 dico
 dosier
+dividiendos
 modelos
 modelo
 maximizar
@@ -5975,6 +5977,11 @@ env
 ehcho
 economico
 ecuaci
+explotaci
+exige
+exigen
+enfocaremos
+escalones
 programaci
 primer
 paso
@@ -7232,6 +7239,7 @@ preguntarle
 plan
 patentes
 propias
+prestaci
 lineal
 la
 lo
@@ -8264,6 +8272,7 @@ llegada
 lugares
 llamamiento
 letritas
+ltimos
 tags
 tres
 todos
@@ -15277,6 +15286,8 @@ informativa
 informativo
 ido
 inmoviliaria
+imagen
+inmovilizados
 un
 una
 utiliza
@@ -24814,6 +24825,7 @@ qiE
 qRuH
 qdS
 quedo
+qwue
 Algorith
 Algorithm
 All
@@ -31499,6 +31511,7 @@ Presupuestos
 PASIVO
 PNC
 Proovedores
+Prestaci
 Biblio
 BitsPerComponent
 BI
