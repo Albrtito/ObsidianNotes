@@ -3,8 +3,8 @@ aliases:
   - El Pasivo de una empresa
   - PASIVO
 tags:
-  - incomplete
   - Empresa
+  - review
 References: 
 cssclasses:
 ---

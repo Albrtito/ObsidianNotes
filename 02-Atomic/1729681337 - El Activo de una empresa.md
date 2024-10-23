@@ -3,8 +3,8 @@ aliases:
   - El Activo de una empresa
   - ACTIVO
 tags:
-  - incomplete
   - Empresa
+  - review
 References: 
 cssclasses:
 ---

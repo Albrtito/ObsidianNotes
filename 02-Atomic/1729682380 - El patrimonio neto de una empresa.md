@@ -4,10 +4,10 @@ aliases:
   - El patrimonio neto
   - Patrimonio neto
 tags:
-  - incomplete
   - Empresa
+  - review
 References: 
-cssclasses: []
+cssclasses:
 ---
 # El patrimonio neto de una empresa
 

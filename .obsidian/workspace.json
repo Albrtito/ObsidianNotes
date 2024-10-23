@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1729598149 - Balance de situacion.md"
+                "file": "02-Atomic/1729598277 - Cuenta de resultados.md"
               }
             }
           },
@@ -228,9 +228,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1729598149 - Balance de situacion.md",
+                "file": "02-Atomic/1729598277 - Cuenta de resultados.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -239,13 +239,13 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
-                      "query": "tag:#Calc  ",
+                      "query": "tag:#incomplete  ",
                       "color": {
                         "a": 1,
-                        "rgb": 14048348
+                        "rgb": 16711680
                       }
                     },
                     {
@@ -288,6 +288,13 @@
                       "color": {
                         "a": 1,
                         "rgb": 16775199
+                      }
+                    },
+                    {
+                      "query": "tag:#CalcI  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
                       }
                     }
                   ],
@@ -343,17 +350,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "09c44af5269ff901",
+  "active": "13abe47c4aa3a423",
   "lastOpenFiles": [
     "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
-    "99-Meta/0. Attachments/1729682380 - El patrimonio neto de una empresaj.png",
-    "02-Atomic/1729598149 - Balance de situacion.md",
-    "02-Atomic/1729681356 - El Pasivo de una empresa.md",
     "02-Atomic/1729681337 - El Activo de una empresa.md",
+    "02-Atomic/1729681356 - El Pasivo de una empresa.md",
+    "02-Atomic/1727122369 - Estados contables.md",
+    "02-Atomic/1729598277 - Cuenta de resultados.md",
+    "02-Atomic/1729598149 - Balance de situacion.md",
+    "99-Meta/0. Attachments/1729682380 - El patrimonio neto de una empresaj.png",
     "02-Atomic/1729681808 - Terminología de la contabilidad.md",
     "02-Atomic/1727121162 - Contabilidad.md",
-    "02-Atomic/1729598277 - Cuenta de resultados.md",
-    "02-Atomic/1727122369 - Estados contables.md",
     "02-Atomic/1727105893 - La función financiera de la empresa.md",
     "01-Areas/1.UC3M/Empresa.md",
     "02-Atomic/1727105227 - Modelos de negocio de la empresa.md",

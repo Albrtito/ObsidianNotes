@@ -2378,6 +2378,7 @@ Cuent
 Coches
 Corriente
 Colocaremos
+Clietnes
 de
 due
 dar
@@ -12929,6 +12930,7 @@ contactos
 contacte
 confirmada
 confirma
+cortos
 sr
 se
 subproblemas
@@ -18064,6 +18066,7 @@ Est
 Euricar
 Esctrutura
 Ecuaci
+Efectivo
 vital
 variables
 vez
@@ -31495,6 +31498,7 @@ Programaciones
 Presupuestos
 PASIVO
 PNC
+Proovedores
 Biblio
 BitsPerComponent
 BI

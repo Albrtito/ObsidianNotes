@@ -2,8 +2,8 @@
 aliases:
   - Balance de situacion
 tags:
-  - incomplete
   - Empresa
+  - review
 References: 
 cssclasses:
 ---
@@ -56,16 +56,6 @@ A la hora de colocar los activos en el balance se realiza de la siguiente forma:
 A la hora de colocar el pasivo en el balance se realiza de la siguiente forma: 
 + De menos a mayor exigibilidad. 
   Mayor exigibilidad serían deudas a corto plazo.
-> p.e: En la imagen anterior vemos qwue lo primero son 
-
-
-
-De estos conceptos obtenemos la relación funcamental del balance de la empresa:
-$$
-			\text{Activo} = \text{Patrimonio Neto (PN)} + \text{Pasivo exigible (P)}
-	$$
-+ Todo el activo que se tiene tiene que ser igual al patrimonio neto (El dinero de la empresa). 
-+ Lo mismo a un lado que al otro.
-
+> p.e: En la imagen anterior vemos qwue lo primero es el patrimonio neto (lo propio) debido a que nadie exige nada de ello, mientras que lo último son las deudas a c/p pues son las que más se exigen.
 
 ***
