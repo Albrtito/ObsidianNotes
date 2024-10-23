@@ -40,3 +40,6 @@ tags:
 2. [[1727112501 - Practica - Análisis MAPFRE|Practica - Análisis MAPFRE]]
 3. [[1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero|Practica - Ejercicios de rantabilidades y apalancamiento financiero]]
 
+[^1]
+
+[^1]: Esto es un footnote que puedo cambiar desde aqúi
