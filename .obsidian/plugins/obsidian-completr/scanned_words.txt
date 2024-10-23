@@ -1257,6 +1257,7 @@ anotan
 apuntan
 apunta
 apuntar
+asiento
 Creaci
 Crear
 Cuando
@@ -19043,6 +19044,7 @@ vaya
 visitas
 valorar
 viceversa
+viene
 no
 nuestras
 ndar

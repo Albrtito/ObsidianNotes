@@ -26,5 +26,5 @@ cssclasses:
 A la hora de crear un asiento lo hacemos siempre siguiendo los siguientes pasos:
 1. **Qué es este asiento?** → Activo, pasivo
 	1. Qué tipo de activo/pasivo?→ Inmovilizado material, no material, etc.
-2. **Qué genera el asiento?** → 
+2. **Qué genera el asiento?** → **a dnd se va** el activo/pasivo o **de dnd viene** el activo/pasivo
 ***

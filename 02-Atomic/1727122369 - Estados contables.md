@@ -29,14 +29,17 @@ cssclasses:
 >  Se realizan **cada vez que se produce un ehcho en la empresa**
 
 
+**Libros de mayores:**
+> [!NOTE] Def: 
+> Cada una de las cuentas abiertas tiene su propio libro mayor con columna de activos y de pasivos. 
++ Para realizar un libro mayor en específico debemos de obtener **todas las entradas del DEBE, HABER** que referencien a ese libro y apuntarlas nuevamente en el libro mayor bajo columnas DEBE,HABER.
+
+
 **Memoria:**
 > [!NOTE] Definición: 
 > Información de **todos los documentos** de forma ampliada y detallada
 > 
 
-**Libros de mayores:**
-> [!NOTE] Def: 
-> Cada una de las cuentas abiertas tiene su propio libro mayor con columna de activos y de pasivos. 
 
 
 
