@@ -20,5 +20,11 @@ cssclasses:
 	+ **Aumentan** su valor con el **HABER**
 	+ **Disminuyen** con el **DEBE**
 
-+ **IMPORTANTE:** Todos los movimientos que se apuntan en asientos contables han de tener su **contrapartida**. Para cada movimiento que se apunta en el haber se debe de apuntar su 
++ **IMPORTANTE:** Todos los movimientos que se apuntan en asientos contables han de tener su **contrapartida**. 
+  Para cada movimiento que se apunta en el haber se debe de apuntar su efecto en el debe y viceversa. 
+## Creación de asientos:
+A la hora de crear un asiento lo hacemos siempre siguiendo los siguientes pasos:
+1. **Qué es este asiento?** → Activo, pasivo
+	1. Qué tipo de activo/pasivo?→ Inmovilizado material, no material, etc.
+2. **Qué genera el asiento?** → 
 ***

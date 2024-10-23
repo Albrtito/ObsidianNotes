@@ -1254,6 +1254,9 @@ asi
 agrup
 abiertas
 anotan
+apuntan
+apunta
+apuntar
 Creaci
 Crear
 Cuando
@@ -12959,6 +12962,7 @@ cortos
 calcularlos
 calculo
 complexity
+contrapartida
 sr
 se
 subproblemas
@@ -19038,6 +19042,7 @@ visita
 vaya
 visitas
 valorar
+viceversa
 no
 nuestras
 ndar
@@ -21945,6 +21950,7 @@ Despu
 Definida
 Denominamos
 Derived
+Disminuyen
 funci
 fibonacci
 fica
