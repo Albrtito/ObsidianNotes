@@ -41,16 +41,22 @@ $$
 
 
 ## Creación del balance:
-
+Colocaremos todos los bienes/deudas/fondos en dos columnas, agrupándolos según si pertenecen al activo, pasivo o patrimonio neto:
+![[Screenshot 2024-10-23 at 1.44.04 PM.png|center|600]]
+> [!quote] Remember 
+> Al realizar el balance la columna del activo debe de sumar lo mismo a la del pasivo + patrimonio neto 
 
 
 A la hora de colocar los activos en el balance se realiza de la siguiente forma:
-	+ De menor a mayor liquiez (lo menor arriba). Liquidez quiere decir **disponibilidad**. 
++  De menor a mayor liquiez (lo menor arriba). Liquidez quiere decir **disponibilidad**. 
+> p.e: En la imagen anterior vemos que lo primero son los inmovilizados (no corriente) debido a su baja disponibilidad
 
 
 
 A la hora de colocar el pasivo en el balance se realiza de la siguiente forma: 
-		+ De menos a mayor exigibilidad. Mayor exigibilidad serían deudas a corto plazo.
++ De menos a mayor exigibilidad. 
+  Mayor exigibilidad serían deudas a corto plazo.
+> p.e: En la imagen anterior vemos qwue lo primero son 
 
 
 

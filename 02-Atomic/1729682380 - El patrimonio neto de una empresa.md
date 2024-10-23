@@ -7,7 +7,7 @@ tags:
   - incomplete
   - Empresa
 References: 
-cssclasses:
+cssclasses: []
 ---
 # El patrimonio neto de una empresa
 
