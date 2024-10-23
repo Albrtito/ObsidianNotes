@@ -42,5 +42,5 @@ Podemos ver como y cuando afecta cada uno de estos gastos en la siguiente gráfi
 
 + Para llegar a estos tres últimos escalones hemos de haber obtenido **ya el beneficio bruto después de restarle a los ingresos los gastos.**
 
-+ Si también restamos los dividentos obtendremos las **reservas o beneficios retenidos**.
++ Si también restamos los dividentos obtendremos las **reservas o BENEFICIOS RETENIOS**
 ***

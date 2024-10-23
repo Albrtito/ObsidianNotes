@@ -26,7 +26,7 @@ específicamente en los tres últimos escalones:
 + Basándonos en la definición de BAIT podemos calcular que el BAT es el BAIT menos los intereses. 
   Los intereses se miden en porcentaje así que para calcularlos solo tendremos que **multiplicar el BAIT por el porcentaje de interés:**
   $$BAT = BAIT - BAIT\cdot(\%Interes)$$
-
++ A los intereses les llamaremos **GASTOS FINANCIEROS**
 
 > [!NOTE] BN: 
 > LLamamos al beneficio neto **BN.** Ese será el **beneficio final que obtiene la empresa** una vez restamos los intereses y los impuestos. 
