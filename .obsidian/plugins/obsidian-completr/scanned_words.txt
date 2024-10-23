@@ -10520,6 +10520,7 @@ recopilar
 repetido
 reu
 regida
+recoge
 References
 Resoluci
 Rectas
@@ -14112,6 +14113,7 @@ scouts
 sepamos
 sepan
 situacion
+simos
 interval
 importancia
 incorrecto
@@ -18043,6 +18045,7 @@ EkN
 Epoch
 Est
 Euricar
+Esctrutura
 vital
 variables
 vez
@@ -21883,6 +21886,7 @@ DAILY
 Dineros
 Documentaci
 Despu
+Definida
 funci
 fibonacci
 fica
@@ -22921,6 +22925,7 @@ finalizado
 felices
 fichar
 furgonetas
+fuentes
 objetivo
 obtener
 of
@@ -25855,6 +25860,7 @@ Arch
 Ayuda
 Asegurarse
 ASDE
+ACTIVO
 Floyd
 Foundations
 Funci
@@ -31464,6 +31470,7 @@ Papeleos
 Permisos
 Programaciones
 Presupuestos
+PASIVO
 Biblio
 BitsPerComponent
 BI
@@ -34323,6 +34330,7 @@ Menu
 Men
 Material
 Murcia
+Materializa
 Zivkovic
 Zo
 Zi
