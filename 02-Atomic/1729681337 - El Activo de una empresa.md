@@ -15,7 +15,7 @@ cssclasses:
 > 
 
 Se divide en:
-+ **ACTIVO CORRIENTE:** Cuentás que permanecen en la empresa más de un año:
++ **ACTIVO NO CORRIENTE (ANC):** Cuentás que permanecen en la empresa más de un año:
 > Coches, inmoviliaria, patentes, marcas
-
++ **ACTIVO CORRIENTE (AC):** Cuentas que permanecen menos de un año
 ***

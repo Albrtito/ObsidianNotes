@@ -11,6 +11,10 @@ cssclasses:
  
 > [!NOTE] Definición: 
 > Bienes, derechos y obligaciones en **un momento determinado**. Se obtienen anualmente o en momentos puntuales 
++ Lo **mas importante** del balance de situación es que la **ecuación fundamental del patrimonio neto** se ha de cumplir. Esta ecuación es la siguiente:$$Activo = \text{Patrimonio Neto} + \text{Pasivo exigible}$$
+  Con letritas: 
+  $$A = PN + P$$
+  
 
 Ha de recoger 
 

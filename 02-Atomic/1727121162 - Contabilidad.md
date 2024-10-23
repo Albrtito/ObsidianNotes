@@ -15,6 +15,8 @@ cssclasses:
  > + Permite **analizar la situación** para tomar decisiones acordes a ella
 
 Dividimos la contabilidad en dos ramas, según el tipo de análisis que realizan.
+**Remarks:** 
++ En cualquier caso, la terminología de la contabilidad es amplia y luego se usan abreviaturas para todo asi que hay aquí un 
 ### Contabilidad financiera: 
 + Útil para usuarios **externos y legales** 
 
