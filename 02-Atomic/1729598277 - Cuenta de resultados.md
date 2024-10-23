@@ -3,8 +3,8 @@ aliases:
   - Cuenta de resultados
   - Cuenta de pérdidas y ganancias
 tags:
-  - incomplete
   - Empresa
+  - review
 References: 
 cssclasses:
 ---

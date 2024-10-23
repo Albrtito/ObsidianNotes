@@ -24,15 +24,15 @@ cssclasses:
 > Información con ingresos y gastos en el ejercicio económico. Refleja si se ha perdido o ganado dinero => **Sale positiva o negativa** 
 
 
+**[[1729692495 - Asientos contables|Asientos contables]]:**
+> [!NOTE] Definición: 
+>  Se realizan **cada vez que se produce un ehcho en la empresa**
+
+
 **Memoria:**
 > [!NOTE] Definición: 
 > Información de **todos los documentos** de forma ampliada y detallada
 > 
-
-
-**Asientos:**
-> [!NOTE] Definición: 
->  Se realizan **cada vez que se produce un ehcho en la empresa**
 
 **Libros de mayores:**
 > [!NOTE] Def: 

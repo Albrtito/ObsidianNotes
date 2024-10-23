@@ -2,8 +2,8 @@
 aliases:
   - El BAIT,BAT y BN
 tags:
-  - incomplete
   - Empresa
+  - review
 References: 
 cssclasses:
 ---

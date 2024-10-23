@@ -47,77 +47,12 @@
             }
           },
           {
-            "id": "09c44af5269ff901",
+            "id": "19f230303d9766c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1729598149 - Balance de situacion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13abe47c4aa3a423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1729598277 - Cuenta de resultados.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f904395ff4ea38a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1729681337 - El Activo de una empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e032fb4c65a5a7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1729681356 - El Pasivo de una empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb49f0224b0310cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f1d34ad1cbf6514",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1729684964 - El BAIT,BAT y BN.md",
+                "file": "02-Atomic/1729692495 - Asientos contables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -217,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1729598149 - Balance de situacion.md"
+                "file": "02-Atomic/1727122369 - Estados contables.md"
               }
             }
           },
@@ -241,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1729598149 - Balance de situacion.md",
+                "file": "02-Atomic/1727122369 - Estados contables.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -364,20 +299,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "09c44af5269ff901",
+  "active": "e14c531d85ad89b0",
   "lastOpenFiles": [
+    "02-Atomic/1729692495 - Asientos contables.md",
+    "02-Atomic/1727122369 - Estados contables.md",
+    "02-Atomic/1729598149 - Balance de situacion.md",
     "02-Atomic/1729598277 - Cuenta de resultados.md",
+    "02-Atomic/1729681337 - El Activo de una empresa.md",
+    "02-Atomic/1729681356 - El Pasivo de una empresa.md",
+    "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
     "02-Atomic/1729684964 - El BAIT,BAT y BN.md",
     "99-Meta/0. Attachments/1729684964 - El BAIT,BAT y BNj.png",
-    "02-Atomic/1729598149 - Balance de situacion.md",
-    "02-Atomic/1727122369 - Estados contables.md",
     "02-Atomic/1727121162 - Contabilidad.md",
     "02-Atomic/1727105893 - La función financiera de la empresa.md",
     "99-Meta/0. Attachments/1729598277 - Cuenta de resultadosj.png",
-    "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
     "02-Atomic/1729684625 - BAIT,BAT,BN.md",
-    "02-Atomic/1729681337 - El Activo de una empresa.md",
-    "02-Atomic/1729681356 - El Pasivo de una empresa.md",
     "99-Meta/0. Attachments/1729682380 - El patrimonio neto de una empresaj.png",
     "02-Atomic/1729681808 - Terminología de la contabilidad.md",
     "01-Areas/1.UC3M/Empresa.md",

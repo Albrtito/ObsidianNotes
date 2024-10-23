@@ -58,6 +58,7 @@ A la hora de colocar el pasivo en el balance se realiza de la siguiente forma:
 > p.e: En la imagen anterior vemos qwue lo primero es el patrimonio neto (lo propio) debido a que nadie exige nada de ello, mientras que lo último son las deudas a c/p pues son las que más se exigen.
 
 ### Patrimonio neto:
-Dentro del patrimonio neto hemos de tener una cosa en cuenta y eso es el **calculo de los beneficios retenidos,** es decir, 
+Dentro del patrimonio neto hemos de tener en cuenta el **calculo de los beneficios retenidos**. Estos beneficios se obtendrán al realizar el cálculo de [[1729598277 - Cuenta de resultados#Los beneficios de la empresa|Los beneficios de la empresa]] en la cuenta de resultados. 
+
 
 ***
