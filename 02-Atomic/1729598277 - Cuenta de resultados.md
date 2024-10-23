@@ -38,5 +38,9 @@ Podemos ver como y cuando afecta cada uno de estos gastos en la siguiente gráfi
 
 ![[1729598277 - Cuenta de resultadosj.png]]
 
-En el curso de Empresa en la UC3M nos enfocaremos en **los tres últimos escalones**, en [[1729684964 - El BAIT,BAT y BN|El BAIT,BAT y BN]]. 
++ En el curso de Empresa en la UC3M nos enfocaremos en **los tres últimos escalones**, en [[1729684964 - El BAIT,BAT y BN|El BAIT,BAT y BN]]. 
+
++ Para llegar a estos tres últimos escalones hemos de haber obtenido **ya el beneficio bruto después de restarle a los ingresos los gastos.**
+
++ Si también restamos los dividentos obtendremos las **reservas o beneficios retenidos**.
 ***
