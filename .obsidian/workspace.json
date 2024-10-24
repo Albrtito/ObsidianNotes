@@ -11,10 +11,15 @@
             "id": "35fd606f60ec3930",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Areas/1.UC3M/Networks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Networks"
             }
           },
           {
