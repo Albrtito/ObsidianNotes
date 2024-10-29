@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Networks.md",
+                "file": "01-Areas/1.UC3M/Cripto.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networks"
+              "title": "Cripto"
             }
           }
         ],
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 671.5041847229004
+    "width": 671.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -213,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-Areas/1.UC3M/Networks.md",
+                "file": "01-Areas/1.UC3M/Cripto.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +299,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Networks"
+              "title": "Graph of Cripto"
             }
           }
         ]
@@ -338,10 +339,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ea834d652ce0c036",
+  "active": "dc5a60a60064e980",
   "lastOpenFiles": [
-    "02-Atomic/1730036929 - - Untitled Suffix.md",
+    "99-Meta/0. Attachments/Criptoj-6.png",
+    "99-Meta/0. Attachments/Criptoj-5.png",
+    "99-Meta/0. Attachments/Criptoj-4.png",
+    "99-Meta/0. Attachments/Criptoj-3.png",
+    "99-Meta/0. Attachments/Criptoj-2.png",
+    "99-Meta/0. Attachments/Criptoj-1.png",
+    "99-Meta/0. Attachments/Criptoj.png",
     "01-Areas/1.UC3M/Networks.md",
+    "02-Atomic/1730036929 - - Untitled Suffix.md",
     "02-Atomic/1730021358 - Consejo Octubre.md",
     "01-Areas/1.UC3M/Empresa.md",
     "02-Atomic/1727105893 - La función financiera de la empresa.md",
@@ -368,7 +376,6 @@
     "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02-Atomic/1727712353 - Responsabilidad social de la empresa.md",
     "99-Meta/1. Templates/NoteTemplate.md",
-    "02-Atomic/1729596810 - Title.md",
     "00-References/pbcopy",
     "00-References/UC3M_Resources_Calendario2425.pdf",
     "00-References/SoftwareEng_Ch 3_Theory_ArchitecturealModelling.pdf",
@@ -380,12 +387,6 @@
     "00-References/SoftwareDev_Resources_GE2_Presentation_Hands-onLab.pdf",
     "00-References/SoftwareDev_Resources_GE2_Presentation.pdf",
     "99-Meta/0. Attachments/Truth table of the negation connective.png",
-    "99-Meta/0. Attachments/Screenshot 2024-10-08 at 2.29.28 PM.png",
-    "99-Meta/0. Attachments/Screenshot 2024-10-04 at 10.22.44 AM.png",
-    "99-Meta/0. Attachments/Screenshot 2024-10-04 at 1.30.32 PM.png",
-    "99-Meta/0. Attachments/Screenshot 2024-09-24 at 1.55.20 PM.png",
-    "99-Meta/0. Attachments/Screenshot 2024-09-24 at 1.54.39 PM.png",
-    "99-Meta/0. Attachments/Screenshot 2024-09-24 at 1.38.16 PM.png",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",

@@ -56,3 +56,12 @@ tags:
 + [[1728912947 - Cifrado asimetrico|Cifrado asimetrico]]
 ## Práctica:
 + [[1728048290 - Proyecto de criptografía UC3M|Proyecto de criptografía UC3M]]
+
+![[Criptoj.png]]![[Criptoj-1.png]]
+![[Criptoj-2.png]]
+![[Criptoj-3.png]]
+![[Criptoj-4.png]]
+
+![[Criptoj-5.png]]
+
+![[Criptoj-6.png]]
