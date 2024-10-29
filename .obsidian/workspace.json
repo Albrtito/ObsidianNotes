@@ -38,6 +38,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -229,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1726493246 - Algorithm - AES.md",
+                "file": "02-Atomic/1728309909 - MAC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -314,7 +315,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1726493246 - Algorithm - AES"
+              "title": "Graph of 1728309909 - MAC"
             }
           }
         ]
@@ -354,10 +355,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dc5a60a60064e980",
+  "active": "450c3586609c5a54",
   "lastOpenFiles": [
-    "02-Atomic/1728493764 - Cifrado autenticado.md",
     "02-Atomic/1726493246 - Algorithm - AES.md",
+    "02-Atomic/1728493764 - Cifrado autenticado.md",
     "02-Atomic/1728048290 - Proyecto de criptografía UC3M.md",
     "01-Areas/1.UC3M/Cripto.md",
     "02-Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
