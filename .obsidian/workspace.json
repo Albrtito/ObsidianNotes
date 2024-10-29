@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726498880 - Definition - Cifrador.md",
+                "file": "02-Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726498880 - Definition - Cifrador"
+              "title": "1726494310 - Sustitución monoalfabeto monográfica"
             }
           },
           {
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1726498880 - Definition - Cifrador.md",
+                "file": "02-Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -314,7 +314,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1726498880 - Definition - Cifrador"
+              "title": "Graph of 1726494310 - Sustitución monoalfabeto monográfica"
             }
           }
         ]
@@ -356,6 +356,8 @@
   },
   "active": "dc5a60a60064e980",
   "lastOpenFiles": [
+    "02-Atomic/1726520589 - Definition - Criptosistema.md",
+    "02-Atomic/1726498880 - Definition - Cifrador.md",
     "02-Atomic/1726498694 - Definition - Criptografía.md",
     "02-Atomic/1726234693 - Intro a la seguridad informática.md",
     "01-Areas/1.UC3M/Cripto.md",
@@ -390,8 +392,6 @@
     "99-Meta/0. Attachments/1729598277 - Cuenta de resultadosj.png",
     "02-Atomic/1729684625 - BAIT,BAT,BN.md",
     "99-Meta/0. Attachments/1729682380 - El patrimonio neto de una empresaj.png",
-    "02-Atomic/1729681808 - Terminología de la contabilidad.md",
-    "02-Atomic/1727105227 - Modelos de negocio de la empresa.md",
     "00-References/pbcopy",
     "00-References/UC3M_Resources_Calendario2425.pdf",
     "00-References/SoftwareEng_Ch 3_Theory_ArchitecturealModelling.pdf",
