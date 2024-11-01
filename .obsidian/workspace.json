@@ -214,7 +214,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Heuristica y Opti"
+              "title": "Graph view"
             }
           }
         ]
@@ -339,8 +338,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "450c3586609c5a54",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/Recurrence relations.md",
     "02-Atomic/Advance methods in combinatorics.md",
     "01-Areas/1.UC3M/Discrete Math.md",
@@ -373,7 +373,6 @@
     "02-Atomic/1729598149 - Balance de situacion.md",
     "02-Atomic/1729694840 - Estructura economico-financiera de la empresa.md",
     "02-Atomic/1727122369 - Estados contables.md",
-    "02-Atomic/1729598277 - Cuenta de resultados.md",
     "99-Meta/0. Attachments/1729684964 - El BAIT,BAT y BNj.png",
     "99-Meta/0. Attachments/1729598277 - Cuenta de resultadosj.png",
     "99-Meta/0. Attachments/1729682380 - El patrimonio neto de una empresaj.png",
