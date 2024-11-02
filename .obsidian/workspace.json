@@ -110,13 +110,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "01-Areas/1.UC3M/Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heuristica y Opti"
+              "title": "Networks"
             }
           },
           {
@@ -142,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md"
+                "file": "01-Areas/1.UC3M/Networks.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Heuristica y Opti"
+              "title": "Outline of Networks"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "01-Areas/1.UC3M/Networks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Heuristica y Opti"
+              "title": "Graph of Networks"
             }
           }
         ]
@@ -283,6 +283,8 @@
   "active": "2dca472e18c0e06a",
   "lastOpenFiles": [
     "02-Atomic/1729681356 - El Pasivo de una empresa.md",
+    "01-Areas/1.UC3M/Networks.md",
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
     "02-Atomic/1729598277 - Cuenta de resultados.md",
     "02-Atomic/1729681337 - El Activo de una empresa.md",
@@ -306,8 +308,6 @@
     "02-Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
     "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
     "02-Atomic/1726241677 - Definition - Empresas sociales.md",
-    "02-Atomic/1728921778 - La funcion de produccion de la empresa.md",
-    "02-Atomic/1726759568 - Creación de modelos en programación lineal.md",
     "00-References/Heuri_Resources_Problemas.pdf",
     "99-Meta/0. Attachments/Criptoj-6.png",
     "99-Meta/0. Attachments/Criptoj-5.png",
