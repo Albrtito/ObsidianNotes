@@ -7,7 +7,7 @@ tags:
 References: 
 cssclasses:
 ---
-# Routing in the network layer
+# The routing funtion of the network layer
 
 > [!NOTE] Routing: 
 > Network wide process that **determines the end to end paths that packets take**

@@ -31,6 +31,7 @@ From this example we can conclude that the **role of the network layer is to MOV
 + **datagram** → A network layer packet 
 + **data plane** → The part of the network layer that covers *per-router* functions. 
 	+ **forwarding functions** → The different functions inside the data plane
+	+ **forwarding tables** → Tables created by the control plane that tell each router were to send each package. 
 + **control plane** → The part of the network layer that covers *network-wide* logic. Routing of datagrams
 	+ **routing protocols** → Protocols of the control pane
 	+ **routing** → The act of creating routes to move a datagram through the network. 
@@ -38,18 +39,15 @@ From this example we can conclude that the **role of the network layer is to MOV
 + **SDN(Software Defined Networking)** → Implementation of the network layer that separates control and data planes. 
 
 ## Two different planes: 
-When moving packages between hosts we identify two main network layer functions:
+When moving packages between hosts we identify two main network layer functions, each of them done by one of the two planes of the network layer:
 
-+ **[[1730567584 - Forwarding function of the network layer|Forwarding]]:** When a datagram arrives at a router it must be *forwarded*, this means sending it to the next apropiate router in the path to its destination, blocking it or managing it.
-+ **[[1730567598 - Routing function of the network layer|Routing]]** Routing is identifying the paths to take over the network. This is done by **routing algorithms**
 
 1. [[1730567078 - The network layer data plane|Data plane]]: 
-	+ **Implements forwarding**
+	**Implements [[1730567584 - Forwarding function of the network layer|Forwarding]]:** When a datagram arrives at a router it must be *forwarded*, this means sending it to the next apropiate router in the path to its destination, blocking it or managing it.
    
    
 2. [[1730567097 - The network layer control plane|Control plane]]:
-	+ **Implements routing**
-
+	**Implements [[1730567598 - Routing function of the network layer|Routing]]** Routing is identifying the paths to take over the network. This is done by **routing algorithms**
 
 
 

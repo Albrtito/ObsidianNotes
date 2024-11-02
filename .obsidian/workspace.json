@@ -11,7 +11,7 @@
           {
             "id": "823ff74187a37b48",
             "type": "tabs",
-            "dimension": 60.71428571428571,
+            "dimension": 20,
             "children": [
               {
                 "id": "1bab7b3a90b631d4",
@@ -34,7 +34,7 @@
           {
             "id": "3fba0475cebb59d0",
             "type": "tabs",
-            "dimension": 39.285714285714285,
+            "dimension": 80,
             "children": [
               {
                 "id": "fc5c4543203cc1ff",
@@ -67,21 +67,6 @@
                 }
               },
               {
-                "id": "c6eeb3401cc64a18",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1730567584 - Forwarding function of the network layer.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1730567584 - Forwarding function of the network layer"
-                }
-              },
-              {
                 "id": "67ff0774fc5ca113",
                 "type": "leaf",
                 "state": {
@@ -97,7 +82,7 @@
                 }
               }
             ],
-            "currentTab": 2,
+            "currentTab": 1,
             "stacked": true
           }
         ],
@@ -239,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730567584 - Forwarding function of the network layer.md"
+                "file": "02-Atomic/1728386212 - The network layer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730567584 - Forwarding function of the network layer"
+              "title": "Outline of 1728386212 - The network layer"
             }
           },
           {
@@ -268,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730567584 - Forwarding function of the network layer.md",
+                "file": "02-Atomic/1728386212 - The network layer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -353,7 +338,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730567584 - Forwarding function of the network layer"
+              "title": "Graph of 1728386212 - The network layer"
             }
           }
         ]
@@ -378,14 +363,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c6eeb3401cc64a18",
+  "active": "1bab7b3a90b631d4",
   "lastOpenFiles": [
-    "02-Atomic/1730567598 - Routing function of the network layer.md",
-    "00-References/Net_Biblio_Kurose.pdf",
-    "02-Atomic/1730567584 - Forwarding function of the network layer.md",
     "02-Atomic/1730567097 - The network layer control plane.md",
-    "02-Atomic/1730567078 - The network layer data plane.md",
+    "02-Atomic/1730567584 - Forwarding function of the network layer.md",
+    "02-Atomic/1730567598 - Routing function of the network layer.md",
     "02-Atomic/1728386212 - The network layer.md",
+    "02-Atomic/1730567078 - The network layer data plane.md",
+    "00-References/Net_Biblio_Kurose.pdf",
     "01-Areas/1.UC3M/Networks.md",
     "02-Atomic/1726572508 - The network stack.md",
     "02-Atomic/1729681356 - El Pasivo de una empresa.md",
