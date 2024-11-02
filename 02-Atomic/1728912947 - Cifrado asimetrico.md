@@ -6,9 +6,9 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-02
-sr-interval: 11
-sr-ease: 212
+sr-due: 2024-11-07
+sr-interval: 5
+sr-ease: 192
 ---
 # Cifrado asimetrico
 

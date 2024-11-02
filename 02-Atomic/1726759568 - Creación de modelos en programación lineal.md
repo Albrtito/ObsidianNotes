@@ -21,4 +21,9 @@ Crear un modelo es el primer paso a la hora de resolver un problema de programac
 > [!warning] Remarks: 
 > + Cuidado que **no falte ninguna restricción**
 
+## Herramientas de resolución:
+Para crear estos modelos usando herramientas más avanzadas tenemos que generalizarlos, pues pueden tener muchísimas más restriciones o variables, además los parámetros que afectan a las restricciones (Vectores de coeficientes y de costes) han de estar generalizados y guardados en un archivo separado al modelo para que no afecten a a este. 
+
+Durante el curso de Heurística y Optimización de la UC3M hemos estado usando [[1727969678 - MathProg|MathProg]] para resolver modelos más complicados.
+
 

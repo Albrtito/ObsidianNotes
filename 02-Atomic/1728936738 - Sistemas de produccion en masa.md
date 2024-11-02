@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-28
-sr-interval: 6
+sr-due: 2024-11-16
+sr-interval: 14
 sr-ease: 190
 ---
 # Sistemas de produccion en masa

@@ -8,9 +8,9 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-28
-sr-interval: 20
-sr-ease: 250
+sr-due: 2025-01-29
+sr-interval: 88
+sr-ease: 270
 ---
 # Definition - TLS
 

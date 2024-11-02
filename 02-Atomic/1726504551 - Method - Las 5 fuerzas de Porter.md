@@ -8,9 +8,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-24
-sr-interval: 7
-sr-ease: 230
+sr-due: 2024-12-23
+sr-interval: 51
+sr-ease: 250
 ---
 # Las 5 fuerzas de Porter 
 **Remarks:**
