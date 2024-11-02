@@ -20,8 +20,12 @@ The traditional approach is to have a **routing algorithm inside each router**.
 
 + Requires that routers **talk to each other** this is done using **routing message**. 
 ## SDN(Software Define Networking) Approach: 
-Instead of having each router implementing the functions have a **general routing component** that does all the routing for all routers and then sends this information to each of them. 
+Instead of having each router implementing the functions have a **general routing component, physically separated,** that does all the routing for all routers and then sends this information to each of them. 
 
+![[Screenshot 2024-11-02 at 6.41.17 PM.png|center|500]]
 
+**However…**
++ This means that **someone is in charge of the internet** (not so open anymore)
++ What if this fails?
 
 ***

@@ -4907,6 +4907,7 @@ dictionary
 datagrams
 datagrap
 determines
+deciding
 modelos
 modelo
 maximizar
@@ -9901,6 +9902,7 @@ peV
 proces
 planes
 paths
+physically
 lineal
 la
 lo
@@ -17756,6 +17758,8 @@ cay
 comparrison
 company
 conclude
+compared
+component
 sr
 se
 subproblemas
@@ -23697,6 +23701,7 @@ hHG
 hRD
 hXZ
 happen
+human
 Es
 Este
 Ejemplos
@@ -33516,6 +33521,8 @@ oRz
 ojQ
 oEj
 oPo
+operator
+operators
 que
 queremos
 qD
@@ -36302,6 +36309,7 @@ AEL
 AxOF
 ANOTHER
 Algorithms
+Approach
 Floyd
 Foundations
 Funci
