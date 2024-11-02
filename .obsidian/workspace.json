@@ -11,10 +11,15 @@
             "id": "1bab7b3a90b631d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1729077915 - Práctica - Ejercicios de financiación e inversión"
             }
           }
         ],
@@ -124,7 +129,8 @@
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -137,10 +143,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md"
+                "file": "02-Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Heuristica y Opti"
+              "title": "Outline of 1729077915 - Práctica - Ejercicios de financiación e inversión"
             }
           },
           {
@@ -166,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "02-Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Heuristica y Opti"
+              "title": "Graph of 1729077915 - Práctica - Ejercicios de financiación e inversión"
             }
           }
         ]
@@ -275,7 +281,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2dca472e18c0e06a",
+  "active": "2abe5264d5120683",
   "lastOpenFiles": [
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/Recurrence relations.md",
