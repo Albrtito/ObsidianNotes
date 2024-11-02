@@ -12,6 +12,27 @@ sr-ease: 230
 ---
 # Práctica - Ejercicios de financiación e inversión
 > Alberto Pascau Sáez, NIA: 100495775
+## Ejercicio 1:
+
+> [!NOTE]Enunciado: 
+> La empresa OSOPANDA, S.L. se plantea realizar una inversión, para la cual tiene dos ofertas. La primera oferta (proyecto A) supone un desembolso de 16.653 € y le garantiza unos flujos de caja de 6.500 € y 13.000 € el primer y segundo año que dura la inversión, respectivamente. La segunda oferta (proyecto B) supone un desembolso mucho mayor, de 71.428 €, pero únicamente durará un año, al final del cual obtendrá un flujo de caja de 76.428 €. Con estos datos, se pide responder a las siguientes cuestiones de forma justificada: 
+
+1. **Indicar qué oferta elegirá la empresa si sigue el criterio del periodo de recuperación o payback.**
+   Si se sigue el criterio del packback se elegiría el primer proyecto ya que recupera la inversión con en un tiempo menor
+2. **Estudiar el grado de interés de cada una de las ofertas en función del coste de oportunidad del capital y la Tasa de Fisher.** Podemos estudiar el VAN y TIR de cada proyecto obteniendo: 
+   **VALOR PARA VANs según r:**
+   $$VAN_1 = -16653 + \frac{6500}{(1-r)}+ \frac{13000}{(1+r)^2}$$
+   $$VAN_2 = -71428 + \frac{76428}{(1+r)}$$
+   **VALOR PARA TIRs (r para VAN = 0):**
+   $$ TIR_1 \Rightarrow VAN_1 = 0: r_1 = 0.099 \equiv 0.1 \equiv 10\% $$
+   $$ TIR_2 \Rightarrow VAN_2 = 0: r_2 = 0.07 \equiv 7\%$$
+   **Calculamos la Tasa de Fisher igualandao ambos vans y obteniendo la r necesaria para que eso pase:**
+	   $$ VAN_1 = VAN_2: r = 0.05\equiv 5\%$$
+	Finalmente podemos evaluar:
+	+ Si el coste de oportunidad es **menor del 5%** se debe de elegir el **proyecto 2**
+	+ Si el coste de oportunidad es **mayor al 5%** se debe de elegir el **proyecto 1**
+	
+   
 
 ## Ejercicio 6:
 
