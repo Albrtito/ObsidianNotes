@@ -16,9 +16,22 @@ cssclasses:
 > The comparrison used is that while the transport layer is the system used to send letters over a mailing system, the mailmain and the mail company who decide how to send them (by plane, car, train) and which routes to take would be the network layer. 
 
 
-## Dictionary 
+> [!Example] First, an example: 
+> Before going into each part of the layer, lets thing about what happens when some host H1 wants to send to the host H2 some packages that are **created by the transport layer, remember that the network layer goes after the transport one while sending and befor it wh** 
 
+## Names and dictionary: 
 
++ **datagram** → A network layer packet 
++ **data plane** → The part of the network layer that covers *per-router* functions. 
+	+ **forwarding functions** → The different functions inside the data plane
++ **control plane** → The part of the network layer that covers *network-wide* logic. Routing of datagrams
+	+ **routing protocols** → Protocols of the control pane
+	+ **routing** → The act of creating routes to move a datagram through the network. 
++ **ip forwarding** → The act of sending a datagrap to the next ip based on some algorithm. Algorithms are divided between traditional and generalised.
++ **SDN(Software Defined Networking)** → Implementation of the network layer that separates control and data planes. 
+
+## Two different planes: 
+The network layer is divided between the data and the control plane. 
 
 
 
