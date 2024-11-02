@@ -6,16 +6,16 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-30
-sr-interval: 16
-sr-ease: 228
+sr-due: 2024-11-10
+sr-interval: 8
+sr-ease: 208
 ---
 # Packet switching
 
 > [!NOTE] Definition: 
 > Information on the internet is sent by hoping from one host to another until the target host is reached. Messages are not sent whole but broken down into smaller pieces, this process is called **packet switching**.  
 
-+ An explanatory header is added to each of this packets by each of the network layers
++ ==An explanatory header is added to each of this packets by each of the network layers==
 + Packets from **several hosts** can arrive to the same router. 
 + Pacages of one message musn’t allways travel together
 

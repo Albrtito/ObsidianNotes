@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-29
-sr-interval: 7
+sr-due: 2024-11-19
+sr-interval: 17
 sr-ease: 210
 ---
 # Timeout Estimations TCP
@@ -51,14 +51,17 @@ $$
 \boxed{TimeoutInterval = EstimatedRTT + 4\cdot DevRTT}
 $$
  
-## Fast retransmit: 
+## ==Fast retransmit:== 
 
 > [!BUG] Problem:
 > Right now the protocol reacts with a large waiting time (4 times the deviation). If we send 4 packages and the second one is lost, then the reaction to send again the second package wont arrive until we have recieved the acks for all 4 packages (or not). 
 
 We would like to ackt in one RTT time. In order to do so we’ll **only** **tolerate up to three duplicate acks**
 
-+ Once we have recieved **more than three duplicated ack** we’ll assume that it is a loss package and retransmit right away. 
+> [!CHECK] Solution: 
+>  
+>Once we have recieved **more than three duplicated ack** we’ll assume that it is a loss package and retransmit right away. 
+
 
 
 ***

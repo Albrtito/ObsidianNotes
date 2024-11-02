@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726428212 - Definition - Sociedad Colectiva.md",
+                "file": "02-Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726428212 - Definition - Sociedad Colectiva"
+              "title": "1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal"
+            }
+          },
+          {
+            "id": "bc301343a3579103",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/Heuri_Resources_Problemas.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Heuri_Resources_Problemas"
             }
           }
         ],
@@ -143,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1726428212 - Definition - Sociedad Colectiva.md"
+                "file": "02-Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1726428212 - Definition - Sociedad Colectiva"
+              "title": "Outline of 1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal"
             }
           },
           {
@@ -172,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1726428212 - Definition - Sociedad Colectiva.md",
+                "file": "02-Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +269,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1726428212 - Definition - Sociedad Colectiva"
+              "title": "Graph of 1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal"
             }
           }
         ]
@@ -283,6 +295,17 @@
   },
   "active": "1bab7b3a90b631d4",
   "lastOpenFiles": [
+    "00-References/Heuri_Resources_Problemas.pdf",
+    "02-Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+    "02-Atomic/1726763938 - Exercises - Programación Lineal.md",
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
+    "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
+    "02-Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
+    "02-Atomic/1726519620 - Principios de Kerckhoff.md",
+    "02-Atomic/1727429966 - Packet switching.md",
+    "02-Atomic/1728377926 - Timeout estimations TCP.md",
+    "02-Atomic/1728917414 - Orden gaussiano.md",
+    "02-Atomic/1726428212 - Definition - Sociedad Colectiva.md",
     "02-Atomic/1725918135 - Teoría económica de la empresa.md",
     "02-Atomic/1725895664 - Naturaleza y de la empresa.md",
     "02-Atomic/1727255580 - Loss and delay in Networks.md",
@@ -298,17 +321,6 @@
     "02-Atomic/1726574469 - Application layer.md",
     "02-Atomic/1728044996 - Closing a TCP connection.md",
     "02-Atomic/1728936361 - Sistemas de produccion flexibles.md",
-    "02-Atomic/1728038869 - Transport network layer.md",
-    "02-Atomic/1727430724 - Circuit switcing.md",
-    "02-Atomic/1726753991 - Criptosistemas clásicos.md",
-    "02-Atomic/1729077915 - Práctica - Ejercicios de financiación e inversión.md",
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
-    "02-Atomic/Recurrence relations.md",
-    "02-Atomic/Advance methods in combinatorics.md",
-    "01-Areas/1.UC3M/Discrete Math.md",
-    "02-Atomic/Sets of numbers.md",
-    "README.md",
-    "02-Atomic/1726493246 - Algorithm - AES.md",
     "99-Meta/0. Attachments/Criptoj-6.png",
     "99-Meta/0. Attachments/Criptoj-5.png",
     "99-Meta/0. Attachments/Criptoj-4.png",

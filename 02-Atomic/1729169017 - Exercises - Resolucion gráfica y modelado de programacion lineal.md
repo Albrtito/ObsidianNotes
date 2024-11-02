@@ -65,7 +65,6 @@ Parar representar un problema de forma estandar hemos de representar las desigua
 
 
 
-## Resolución gráfica:
 
 ## Tips: 
 + Cuidado con **unidades horarias** pues no se representan los minutos como porcentajes como en otros casos.  

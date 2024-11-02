@@ -7,9 +7,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-24
-sr-interval: 27
-sr-ease: 268
+sr-due: 2025-03-17
+sr-interval: 135
+sr-ease: 288
 ---
 # Definition - Sociedad Colectiva
 
@@ -25,6 +25,6 @@ En las sociedades colectivas:
 + **Los socios son necesarios para que exista la sociedad**
 ## Propiedades: 
 + Cada socio responde de forma **ilimitada POR SU TROZO**: Si un socio tiene el 50%, responde solo por ese 50%
-+ Importa el **nombre y prestigio**
++ ==Importa el **nombre y prestigio**==
 
 
