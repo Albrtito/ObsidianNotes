@@ -13,47 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726759568 - Creación de modelos en programación lineal.md",
+                "file": "02-Atomic/1726067427 - Tipos de empresas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726759568 - Creación de modelos en programación lineal"
-            }
-          },
-          {
-            "id": "4d144676f5edffb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1727969678 - MathProg.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1727969678 - MathProg"
-            }
-          },
-          {
-            "id": "0f13300e8307389b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1727969475 - Practica - Primera practica Heuristica.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1727969475 - Practica - Primera practica Heuristica"
+              "title": "1726067427 - Tipos de empresas"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -174,10 +143,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1727969678 - MathProg.md"
+                "file": "02-Atomic/1726067427 - Tipos de empresas.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1727969678 - MathProg"
+              "title": "Outline of 1726067427 - Tipos de empresas"
             }
           },
           {
@@ -203,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727969678 - MathProg.md",
+                "file": "02-Atomic/1726067427 - Tipos de empresas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1727969678 - MathProg"
+              "title": "Graph of 1726067427 - Tipos de empresas"
             }
           }
         ]
@@ -312,12 +281,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4d144676f5edffb2",
+  "active": "1bab7b3a90b631d4",
   "lastOpenFiles": [
+    "02-Atomic/1727176650 - Principles of reliable data transfer.md",
+    "02-Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
+    "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
+    "02-Atomic/1726241677 - Definition - Empresas sociales.md",
+    "02-Atomic/1728921778 - La funcion de produccion de la empresa.md",
+    "02-Atomic/1726759568 - Creación de modelos en programación lineal.md",
+    "02-Atomic/1727969678 - MathProg.md",
     "02-Atomic/1727969475 - Practica - Primera practica Heuristica.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
-    "02-Atomic/1727969678 - MathProg.md",
-    "02-Atomic/1726759568 - Creación de modelos en programación lineal.md",
     "02-Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
     "02-Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02-Atomic/1727428451 - Definition - TCP.md",
@@ -336,11 +310,6 @@
     "02-Atomic/1727429966 - Packet switching.md",
     "02-Atomic/1728377926 - Timeout estimations TCP.md",
     "02-Atomic/1728917414 - Orden gaussiano.md",
-    "02-Atomic/1726428212 - Definition - Sociedad Colectiva.md",
-    "02-Atomic/1725918135 - Teoría económica de la empresa.md",
-    "02-Atomic/1725895664 - Naturaleza y de la empresa.md",
-    "02-Atomic/1727255580 - Loss and delay in Networks.md",
-    "02-Atomic/1728387775 - Best effort services.md",
     "99-Meta/0. Attachments/Criptoj-6.png",
     "99-Meta/0. Attachments/Criptoj-5.png",
     "99-Meta/0. Attachments/Criptoj-4.png",

@@ -7,8 +7,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-31
-sr-interval: 17
+sr-due: 2024-12-11
+sr-interval: 39
 sr-ease: 230
 ---
 # Estrategias corporativas de la empresa
@@ -18,7 +18,7 @@ sr-ease: 230
 
 ## Tipos: 
 + [[1727711018 - Estrategias de diversificación|Estrategias de diversificación]]
-+ [[1727710261 - Estrategias de integración|Estrategias de integración]]
++ ==[[1727710261 - Estrategias de integración|Estrategias de integración]]==
 + [[1727886467 - Estrategia de glovalización|Estrategia de glovalización]]
 + [[1727886621 - Estrategia de subcontratación|Estrategia de subcontratación]]
 ***

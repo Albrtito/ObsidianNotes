@@ -1270,6 +1270,9 @@ archivos
 api
 autenticar
 advanced
+avanzadas
+archivo
+afecten
 Creaci
 Crear
 Cuando
@@ -7294,6 +7297,7 @@ pude
 privados
 permutations
 postmain
+propuesto
 lineal
 la
 lo
@@ -13051,6 +13055,7 @@ carpetas
 constraint
 combinatorics
 cerrada
+complicados
 sr
 se
 subproblemas
@@ -14258,6 +14263,7 @@ subcarpetas
 servidor
 src
 subsets
+simas
 interval
 importancia
 incorrecto
@@ -30626,6 +30632,9 @@ generaos
 grouping
 grouped
 generally
+generalizarlos
+generalizados
+guardados
 Programaci
 Para
 Problema
@@ -42547,6 +42556,7 @@ VNu
 VYTa
 Vys
 VGOK
+Vectores
 Grupo
 Get
 GWgw
