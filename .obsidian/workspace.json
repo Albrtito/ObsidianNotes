@@ -4,57 +4,104 @@
     "type": "split",
     "children": [
       {
-        "id": "823ff74187a37b48",
-        "type": "tabs",
-        "dimension": 63.903985507246375,
+        "id": "6a8f6d291abb47e3",
+        "type": "split",
+        "dimension": 63.90398550724638,
         "children": [
           {
-            "id": "1bab7b3a90b631d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1728386212 - The network layer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1728386212 - The network layer"
-            }
+            "id": "823ff74187a37b48",
+            "type": "tabs",
+            "dimension": 60.71428571428571,
+            "children": [
+              {
+                "id": "1bab7b3a90b631d4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1728386212 - The network layer.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1728386212 - The network layer"
+                }
+              }
+            ],
+            "stacked": true
           },
           {
-            "id": "fc5c4543203cc1ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1730567078 - The network layer data plane.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "3fba0475cebb59d0",
+            "type": "tabs",
+            "dimension": 39.285714285714285,
+            "children": [
+              {
+                "id": "fc5c4543203cc1ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1730567078 - The network layer data plane.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1730567078 - The network layer data plane"
+                }
               },
-              "icon": "lucide-file",
-              "title": "1730567078 - The network layer data plane"
-            }
-          },
-          {
-            "id": "9db00f2401394cbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1730567097 - The network layer control plane.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+              {
+                "id": "9db00f2401394cbb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1730567097 - The network layer control plane.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1730567097 - The network layer control plane"
+                }
               },
-              "icon": "lucide-file",
-              "title": "1730567097 - The network layer control plane"
-            }
+              {
+                "id": "c6eeb3401cc64a18",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1730567584 - Forwarding function of the network layer.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1730567584 - Forwarding function of the network layer"
+                }
+              },
+              {
+                "id": "67ff0774fc5ca113",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1730567598 - Routing function of the network layer.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1730567598 - Routing function of the network layer"
+                }
+              }
+            ],
+            "currentTab": 2,
+            "stacked": true
           }
         ],
-        "stacked": true
+        "direction": "horizontal"
       },
       {
         "id": "6ff7eaf30bb7c36a",
@@ -192,10 +239,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1728386212 - The network layer.md"
+                "file": "02-Atomic/1730567584 - Forwarding function of the network layer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1728386212 - The network layer"
+              "title": "Outline of 1730567584 - Forwarding function of the network layer"
             }
           },
           {
@@ -221,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1728386212 - The network layer.md",
+                "file": "02-Atomic/1730567584 - Forwarding function of the network layer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,7 +353,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1728386212 - The network layer"
+              "title": "Graph of 1730567584 - Forwarding function of the network layer"
             }
           }
         ]
@@ -331,11 +378,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1bab7b3a90b631d4",
+  "active": "c6eeb3401cc64a18",
   "lastOpenFiles": [
+    "02-Atomic/1730567598 - Routing function of the network layer.md",
+    "00-References/Net_Biblio_Kurose.pdf",
+    "02-Atomic/1730567584 - Forwarding function of the network layer.md",
     "02-Atomic/1730567097 - The network layer control plane.md",
     "02-Atomic/1730567078 - The network layer data plane.md",
-    "00-References/Net_Biblio_Kurose.pdf",
     "02-Atomic/1728386212 - The network layer.md",
     "01-Areas/1.UC3M/Networks.md",
     "02-Atomic/1726572508 - The network stack.md",
@@ -357,9 +406,6 @@
     "02-Atomic/1727187791 - Method - RDT Sliding window.md",
     "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
     "02-Atomic/1727270270 - Method - SIMPLEX.md",
-    "02-Atomic/1728937052 - Sistema de produccion Just In Time.md",
-    "02-Atomic/1727710261 - Estrategias de integración.md",
-    "02-Atomic/1726067427 - Tipos de empresas.md",
     "00-References/Heuri_Resources_Problemas.pdf",
     "99-Meta/0. Attachments/Criptoj-6.png",
     "99-Meta/0. Attachments/Criptoj-5.png",

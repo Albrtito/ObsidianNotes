@@ -1680,6 +1680,8 @@ aMM
 aaAh
 aIbs
 aaqF
+apropiate
+action
 Creaci
 Crear
 Cuando
@@ -4904,6 +4906,7 @@ dmt
 dictionary
 datagrams
 datagrap
+determines
 modelos
 modelo
 maximizar
@@ -6492,6 +6495,7 @@ myV
 mbf
 mailing
 mailmain
+managing
 en
 ease
 es
@@ -9896,6 +9900,7 @@ pja
 peV
 proces
 planes
+paths
 lineal
 la
 lo
@@ -12926,6 +12931,9 @@ tAL
 tuq
 tou
 train
+transferring
+timescales
+timespaces
 review
 resolver
 realizar
@@ -19439,6 +19447,7 @@ sOB
 sHY
 sRrO
 separates
+seconds
 interval
 importancia
 incorrecto
@@ -21030,6 +21039,9 @@ iQBx
 inQiQ
 iOv
 iaUxg
+identifying
+intergace
+interface
 un
 una
 utiliza
@@ -27876,6 +27888,7 @@ nYV
 npFZ
 nKPM
 nWy
+netwok
 Identificar
 Intro
 Identificaci
@@ -29234,6 +29247,7 @@ Iqoi
 Ihl
 Iex
 IyW
+Implements
 Definir
 Din
 Design
@@ -34789,6 +34803,7 @@ qDR
 qJT
 qAL
 qsm
+quickly
 Algorith
 Algorithm
 All
@@ -52644,6 +52659,7 @@ bTar
 bGYWkw
 bAD
 befor
+blocking
 Util
 Una
 UniZumo

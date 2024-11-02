@@ -39,11 +39,16 @@ From this example we can conclude that the **role of the network layer is to MOV
 
 ## Two different planes: 
 When moving packages between hosts we identify two main network layer functions:
-+ **Forwarding:** When a datagram arrives at a router it must be *forwarded*, this means sending it to the next apropiate router in the path to its destination, blocking it or managing it. 
+
++ **[[1730567584 - Forwarding function of the network layer|Forwarding]]:** When a datagram arrives at a router it must be *forwarded*, this means sending it to the next apropiate router in the path to its destination, blocking it or managing it.
++ **[[1730567598 - Routing function of the network layer|Routing]]** Routing is identifying the paths to take over the network. This is done by **routing algorithms**
+
 1. [[1730567078 - The network layer data plane|Data plane]]: 
+	+ **Implements forwarding**
    
    
 2. [[1730567097 - The network layer control plane|Control plane]]:
+	+ **Implements routing**
 
 
 
