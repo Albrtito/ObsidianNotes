@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-11-01
-sr-interval: 25
+sr-due: 2025-01-10
+sr-interval: 69
 sr-ease: 270
 ---
 # Circuit switcing
@@ -23,7 +23,7 @@ Allocating resources is not very good for performance, very fast all resources w
 **It triest to fit several users into one single connection**, there are two ways of doing so:
 1. **Frequency division (FDM)** Tranmission on different electromagnetic frequencies
    ![[1727430724 - Circuit switcing-1.png]]
-2. **Time division multiplexin (TDM):** Slots, quick switching between users with a given pattern. 
+2. ==**Time division multiplexin (TDM):** Slots, quick switching between users with a given pattern.== 
    ![[1727430724 - Circuit switcing.png]]
 
 ***
