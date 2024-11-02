@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-25
-sr-interval: 11
+sr-due: 2024-12-26
+sr-interval: 54
 sr-ease: 190
 ---
 
@@ -34,9 +34,9 @@ El **donde** actua y se desarrolla la empresa es de vital importancia, debemos d
 		+ p.e: Espíritu al trabajo
 	+ Nivel educativo 
 	+ Estructura de clases: Cantidad de clase media
-+ ==**Factores tecnológicos:**==
++ **Factores tecnológicos:**
 	+ **Tecnologías básicas:** Aquellas que están al alcance de cualquier empresa
-	+ **Tecnología ==clave==:** No está al alcance. Tenerlo es bueno y diferencia del resto. 
+	+ **Tecnología clave:** No está al alcance. Tenerlo es bueno y diferencia del resto. 
 	+ **Tecnología incipiente:** Aquella que será clave pero se está desarrollando. 
 
 ## Entorno específico:

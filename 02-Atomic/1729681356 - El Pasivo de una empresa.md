@@ -7,6 +7,9 @@ tags:
   - review
 References: 
 cssclasses:
+sr-due: 2024-11-24
+sr-interval: 22
+sr-ease: 250
 ---
 # El Pasivo de una empresa
 
