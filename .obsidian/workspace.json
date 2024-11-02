@@ -224,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1728386212 - The network layer.md"
+                "file": "02-Atomic/1730567097 - The network layer control plane.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1728386212 - The network layer"
+              "title": "Outline of 1730567097 - The network layer control plane"
             }
           },
           {
@@ -253,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1728386212 - The network layer.md",
+                "file": "02-Atomic/1730567097 - The network layer control plane.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -338,7 +338,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1728386212 - The network layer"
+              "title": "Graph of 1730567097 - The network layer control plane"
             }
           }
         ]
@@ -363,12 +363,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1bab7b3a90b631d4",
+  "active": "9db00f2401394cbb",
   "lastOpenFiles": [
+    "02-Atomic/1728386212 - The network layer.md",
     "02-Atomic/1730567097 - The network layer control plane.md",
     "02-Atomic/1730567584 - Forwarding function of the network layer.md",
     "02-Atomic/1730567598 - Routing function of the network layer.md",
-    "02-Atomic/1728386212 - The network layer.md",
     "02-Atomic/1730567078 - The network layer data plane.md",
     "00-References/Net_Biblio_Kurose.pdf",
     "01-Areas/1.UC3M/Networks.md",
