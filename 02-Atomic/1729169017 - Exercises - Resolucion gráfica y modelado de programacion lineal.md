@@ -6,9 +6,9 @@ tags:
   - Heuri
 References: 
 cssclasses:
-sr-due: 2024-10-30
-sr-interval: 11
-sr-ease: 272
+sr-due: 2024-12-25
+sr-interval: 53
+sr-ease: 292
 ---
 # Exercises - Resolucion gráfica y modelado de programacion lineal
 ## Modelado:
@@ -64,6 +64,51 @@ Parar representar un problema de forma estandar hemos de representar las desigua
 > p.e: Transformamos $0.2x_1 + 0.5x_2 \leq 2.4$ en $0.2x_1 + 0.5x_2 + x_3 = 2.4$. Dnd $x_3$ es la variable de holgura. 
 
 
+
+## Ejemplo de prueba evaluación 30min: 
+
+> [!ATTENTIon] Examen 
+> En la primera prueba de evaluación no entra un SIMPLEX, se hará la resolución de un modelo de forma gráfica 100% 
+
+
+### Modelado:
+**Función objetivo:**
+$$ \min z = x_1 + x_2$$
+**Variables:**
+$x_1 : \text{H. Primer trabajo}$
+$x_2: \text{h. Segundo trabajo}$
+
+**Restricciones:**
+$\text{1) } 20 \geq x_1 + x_2$
+$\text{2) } x_1 \leq x_2$
+$\text{3) }150 \leq x_1\cdot 15  +  x_2\cdot 10$
+
+**Representación en forma canónica:**
+$$
+\begin{gather}
+\text{Función objetivo: }\\
+\max z' = -x_1 - x_2\\\\
+
+\text{Restricciones:}\\\\
+ 20 \leq x_1 + x_2\\\\
+ 0\leq x_2-x_1\\\\
+150 \leq x_1\cdot 15  +  x_2\cdot 10\\\\
+xi\geq 0
+\end{gather}
+$$
+### Resolución gráfica:
+1. **Obtenemos la región factible**
+![[1728047794 - Ejemplos SIMPLEXj.png]]
+
+2. **Obtenemmos el valor de -x-y para un z arbitrario y comprobamos:**
+	1. En este caso hemos comprobado con z = -10. 
+
+![[1728047794 - Ejemplos SIMPLEXj-1.png]]
+3. **Vemos que la solución es el punto: (10,0)**
+   
+   Entonces nuestra solución que minimiza las horas  será:
+   $x_1 = 10$ , $x_2 = 0$ 
+***
 
 
 ## Tips: 
