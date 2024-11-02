@@ -7,8 +7,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-25
-sr-interval: 9
+sr-due: 2024-11-29
+sr-interval: 27
 sr-ease: 208
 ---
 # Transport network layer

@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-28
-sr-interval: 6
+sr-due: 2024-11-16
+sr-interval: 14
 sr-ease: 190
 ---
 # Sistemas de produccion flexibles
@@ -39,7 +39,7 @@ La disposición en planta agrupa zonas en las que esta toda la maquinaria necesa
 **PROS:**
 + Se utilizan mucho las máquinas
 + Se sustituyen facilmente las máquinas
-+ ==Supervisión mutua entre operarios.==
++ Supervisión mutua entre operarios.
 
 **CONS:**
 + Distancia entre funciones

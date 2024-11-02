@@ -7,9 +7,9 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-27
-sr-interval: 13
-sr-ease: 230
+sr-due: 2025-01-03
+sr-interval: 62
+sr-ease: 250
 ---
 # Closing a TCP connection
 
