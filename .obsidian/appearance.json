@@ -17,5 +17,7 @@
     "Center_Images",
     "imageInversion",
     "Center_Tables"
-  ]
+  ],
+  "showViewHeader": true,
+  "nativeMenus": true
 }

@@ -26,6 +26,11 @@ cssclasses:
 
 From this example we can conclude that the **role of the network layer is to MOVE PACKAGES FROM ONE HOST TO ANOTHER**. 
 
+
+> [!ATTENTION] Routers vs link-switches 
+> A distinction between the routers and the link-layer switches is really important because **routers make decisions based on the network layer while switches make them based on the link layer**
+> + Not to confuse link-switches with packet-switches (an) 
+
 ## Names and dictionary: 
 
 + **datagram** → A network layer packet 
@@ -51,7 +56,8 @@ When moving packages between hosts we identify two main network layer functions,
 
 
 ## Network service model:
-The netwok service model could provide tons of different services, security, in-order delivery, guaranteed delivery, congestion or flow control… However **only one service is provided**, this is the [[1728387775 - Best effort services|best-effort service]]
+The netwok service model could provide tons of different services, security, in-order delivery, guaranteed delivery, congestion or flow control… However **only one service is provided**, the [[1728387775 - Best effort services|best-effort service]]. 
+
 
 
 

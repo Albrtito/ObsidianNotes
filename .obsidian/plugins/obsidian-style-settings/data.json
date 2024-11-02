@@ -25,5 +25,13 @@
   "anuppuccin-theme-settings@@anp-toggle-metadata": false,
   "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
   "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-sapphire",
-  "anuppuccin-theme-settings@@anp-decoration-toggle": true
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true,
+  "anuppuccin-theme-settings@@anp-colorful-frame": false,
+  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": true,
+  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-light": false,
+  "anuppuccin-theme-settings@@anp-hide-borders": true,
+  "anuppuccin-theme-settings@@anp-border-radius": 10,
+  "anuppuccin-theme-settings@@anp-card-radius": 16,
+  "anuppuccin-theme-settings@@anp-card-layout-padding": 5,
+  "anuppuccin-theme-settings@@anp-card-header-left-padding": 20
 }

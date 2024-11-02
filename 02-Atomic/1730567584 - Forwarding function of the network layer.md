@@ -2,6 +2,7 @@
 aliases:
   - Forwarding function of the network layer
   - Forwarding
+  - switching
 tags:
   - incomplete
 References: 
@@ -12,6 +13,11 @@ cssclasses:
 >  Router local action of transferring a packet from input link intergace to the appropiate output link interface.
 
  + Takes place in **very short timespaces**. Needs to be done quickly as a lot of packets go through one router. 
+
+
+> [!example] Dictionary: 
+> + **switching** → Can be used interchangeably with forwarding 
+
 
 ## Forwarding tables:
 Every network router has one forwarding table. These tables are use by the router to **know where each packet needs to be forwarded**. 

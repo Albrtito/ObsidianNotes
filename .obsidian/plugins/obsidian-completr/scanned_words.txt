@@ -12938,6 +12938,7 @@ timescales
 timespaces
 thinking
 tell
+tons
 review
 resolver
 realizar
@@ -32145,6 +32146,7 @@ fEXg
 foB
 ftm
 fhu
+funtion
 objetivo
 obtener
 of
@@ -43009,6 +43011,7 @@ gJx
 ggZ
 gtK
 gEuf
+guaranteed
 Programaci
 Para
 Problema
