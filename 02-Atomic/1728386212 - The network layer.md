@@ -17,7 +17,14 @@ cssclasses:
 
 
 > [!Example] First, an example: 
-> Before going into each part of the layer, lets thing about what happens when some host H1 wants to send to the host H2 some packages that are **created by the transport layer, remember that the network layer goes after the transport one while sending and befor it wh** 
+> Before going into each part of the layer, lets thing about what happens when some host H1 wants to send to the host H2 some packages that are **created by the transport layer, remember that the network layer goes after the transport one while sending and befor it when recieving.**
+>
+> 1. H1 encapsulates each transport segment into a datagram and sends it into the nearest router
+> 2. Magic and wonders happen inside the network layer (this is what we’ll talk about)
+> 3. H2 nearest router send the datagram to H2 network layer
+> 4. H2 network layer decodes and send the transport segment into the transport layer. 
+
+From this example we can conclude that the **role of the network layer is to MOVE PACKAGES FROM ONE HOST TO ANOTHER**. 
 
 ## Names and dictionary: 
 
@@ -31,7 +38,12 @@ cssclasses:
 + **SDN(Software Defined Networking)** → Implementation of the network layer that separates control and data planes. 
 
 ## Two different planes: 
-The network layer is divided between the data and the control plane. 
+When moving packages between hosts we identify two main network layer functions:
++ **Forwarding:** When a datagram arrives at a router it must be *forwarded*, this means sending it to the next apropiate router in the path to its destination, blocking it or managing it. 
+1. [[1730567078 - The network layer data plane|Data plane]]: 
+   
+   
+2. [[1730567097 - The network layer control plane|Control plane]]:
 
 
 
