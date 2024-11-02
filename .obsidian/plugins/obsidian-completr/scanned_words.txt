@@ -13050,6 +13050,7 @@ contenido
 carpetas
 constraint
 combinatorics
+cerrada
 sr
 se
 subproblemas

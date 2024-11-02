@@ -6,8 +6,8 @@ tags:
   - Cripto
 References: https://aulaglobal.uc3m.es/pluginfile.php/7291371/mod_resource/content/1/M1_Intro_Ciber_Cifrado_2425.pdf
 cssclasses:
-sr-due: 2024-10-29
-sr-interval: 21
+sr-due: 2024-12-20
+sr-interval: 48
 sr-ease: 210
 ---
 # Intro a la seguridad informática.

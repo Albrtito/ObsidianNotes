@@ -7,8 +7,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-01
-sr-interval: 10
+sr-due: 2024-11-26
+sr-interval: 24
 sr-ease: 227
 ---
 # El proceso de transformación de una empresa
@@ -30,8 +30,8 @@ sr-ease: 227
 
 Hay uns sere de factores que afectan al proceso de transformación:
 + **Creativos**: #Duda: Cuales son estos?
-+ ==**Directivos**: Se centran en la dirección del proceso productivo para garantizar el buen funcionamiento de dicho proceso. Incluye labores de planificación, organización y control.== 
-+ ==**Elementales**: Son los inputs **necesarios para obtener el output**: Capital, mano de obra y materias primas==
++ **Directivos**: Se centran en la dirección del proceso productivo para garantizar el buen funcionamiento de dicho proceso. Incluye labores de planificación, organización y control. 
++ **Elementales**: Son los inputs **necesarios para obtener el output**: Capital, mano de obra y materias primas
 
 
 ***

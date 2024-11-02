@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-01
-sr-interval: 10
+sr-due: 2024-11-26
+sr-interval: 24
 sr-ease: 231
 ---
 # Creación de informes en programación lineal

@@ -6,8 +6,8 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-10-29
-sr-interval: 12
+sr-due: 2024-12-01
+sr-interval: 29
 sr-ease: 230
 ---
 # Cifrador de flujo

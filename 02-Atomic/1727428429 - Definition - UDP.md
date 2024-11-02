@@ -7,8 +7,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-31
-sr-interval: 17
+sr-due: 2024-12-12
+sr-interval: 40
 sr-ease: 230
 ---
 # UDP

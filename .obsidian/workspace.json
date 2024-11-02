@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726574469 - Application layer.md",
+                "file": "02-Atomic/1728935952 - Sistema de produccion por proyectos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726574469 - Application layer"
+              "title": "1728935952 - Sistema de produccion por proyectos"
             }
           }
         ],
@@ -143,10 +143,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1726574469 - Application layer.md"
+                "file": "02-Atomic/1728935952 - Sistema de produccion por proyectos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1726574469 - Application layer"
+              "title": "Outline of 1728935952 - Sistema de produccion por proyectos"
             }
           },
           {
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1726574469 - Application layer.md",
+                "file": "02-Atomic/1728935952 - Sistema de produccion por proyectos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1726574469 - Application layer"
+              "title": "Graph of 1728935952 - Sistema de produccion por proyectos"
             }
           }
         ]
@@ -283,6 +283,14 @@
   },
   "active": "1bab7b3a90b631d4",
   "lastOpenFiles": [
+    "02-Atomic/1726234693 - Intro a la seguridad informática.md",
+    "02-Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+    "02-Atomic/1728042156 - The three way handshake.md",
+    "02-Atomic/1727428429 - Definition - UDP.md",
+    "02-Atomic/1727096148 - Cifrador de flujo.md",
+    "02-Atomic/1729087121 - Creación de informes en programación lineal.md",
+    "02-Atomic/1728922661 - El proceso de transformación de una empresa.md",
+    "02-Atomic/1726574469 - Application layer.md",
     "02-Atomic/1728044996 - Closing a TCP connection.md",
     "02-Atomic/1728936361 - Sistemas de produccion flexibles.md",
     "02-Atomic/1728038869 - Transport network layer.md",
@@ -297,15 +305,10 @@
     "README.md",
     "02-Atomic/1726493246 - Algorithm - AES.md",
     "02-Atomic/20240615 - 210541 - Theorem - Rolle.md",
-    "02-Atomic/1726234693 - Intro a la seguridad informática.md",
     "02-Atomic/1726498694 - Definition - Criptografía.md",
     "02-Atomic/1728309909 - MAC.md",
     "02-Atomic/1728493764 - Cifrado autenticado.md",
     "02-Atomic/1728048290 - Proyecto de criptografía UC3M.md",
-    "01-Areas/1.UC3M/Cripto.md",
-    "02-Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
-    "02-Atomic/1726520589 - Definition - Criptosistema.md",
-    "02-Atomic/1726498880 - Definition - Cifrador.md",
     "99-Meta/0. Attachments/Criptoj-6.png",
     "99-Meta/0. Attachments/Criptoj-5.png",
     "99-Meta/0. Attachments/Criptoj-4.png",
@@ -313,9 +316,6 @@
     "99-Meta/0. Attachments/Criptoj-2.png",
     "99-Meta/0. Attachments/Criptoj-1.png",
     "99-Meta/0. Attachments/Criptoj.png",
-    "01-Areas/1.UC3M/Networks.md",
-    "02-Atomic/1730036929 - - Untitled Suffix.md",
-    "02-Atomic/1730021358 - Consejo Octubre.md",
     "99-Meta/0. Attachments/1729684964 - El BAIT,BAT y BNj.png",
     "99-Meta/0. Attachments/1729598277 - Cuenta de resultadosj.png",
     "99-Meta/0. Attachments/1729682380 - El patrimonio neto de una empresaj.png",
