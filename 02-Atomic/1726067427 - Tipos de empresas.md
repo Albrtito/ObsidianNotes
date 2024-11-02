@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-25
-sr-interval: 3
+sr-due: 2024-11-14
+sr-interval: 12
 sr-ease: 150
 ---
 # Tipos de empresas
@@ -36,7 +36,7 @@ Se tienen en cuenta los siguientes aspectos:
 3. **Fiscalidad:** Impuestos
 4. ==**Gastos de constitución y mantenimiento:** Las empresas sociales grandes requieren una gestión de gobierno interior para solucionar el problema de agencia==
 5. **Flexibilidad:** Quienes forman la empresa? Queremos que esto cambie pronto?
-### ==Titularidad de los medios de producción:==
+### Titularidad de los medios de producción:
 Esto se traduce a titularidad del capital total de la empresa. Dividimos empresas en dos grandes grupos.
 + **Privadas**: Aquellas empresas tituladas por conjuntos de ciudadanos. Con poca o nula aportación económica del estado.
 + **Públicas**: Aquellas empresas tituladas por el estado. El capital de la empresa proviene en gran parte del estado. 

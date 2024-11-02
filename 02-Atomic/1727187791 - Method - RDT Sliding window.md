@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-27
-sr-interval: 13
+sr-due: 2024-12-05
+sr-interval: 33
 sr-ease: 205
 ---
 # Method - RDT Sliding window

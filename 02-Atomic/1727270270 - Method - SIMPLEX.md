@@ -7,9 +7,9 @@ tags:
   - review
 References: 
 cssclasses: 
-sr-due: 2024-10-18
-sr-interval: 1
-sr-ease: 221
+sr-due: 2024-11-04
+sr-interval: 2
+sr-ease: 201
 ---
 
 # Method - SIMPLEX:
@@ -97,7 +97,7 @@ Una vez tenemos **el problema en [[1727270366 - Forma estandar|Forma estandar]]*
 
 ***
 
-NOTAS: 
+**NOTAS:** 
  Un vector X que resuelve Ax = b se llama solución
 + Un vector X ≥ 0 que resuelve Ax = b se llama **solución factible**. 
 + Un vector $X_B \geq 0$ que resuelve $B_{mxm}X_B=b$ se llama **solución factible básica.**
@@ -111,3 +111,6 @@ $$C_B^TX^* \geq C_B^TX, \forall x \in F$$
 	Ax_A = b \Rightarrow x_A= A^{-1}b
 	$$
 + Hacer cambios en el vector de coeficientes b de un sistema que tiene solución no altera ese aspecto del sistema. Seguirá teniendo solución.
+
+**HERRAMIENTAS:**
++ Se puede usar la herramienta [[1729586318 - Tool - Gilp|Tool - Gilp]] para visualizar resoluciones del simplex en hasta 3 dimensiones.

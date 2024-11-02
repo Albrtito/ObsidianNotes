@@ -6,16 +6,16 @@ tags:
   - Heuri
 References: 
 cssclasses:
-sr-due: 2024-10-30
-sr-interval: 16
-sr-ease: 230
+sr-due: 2025-06-11
+sr-interval: 221
+sr-ease: 270
 ---
 # Forma estandar
 
 > [!NOTE] Problema estandar
 > Un problema de programación lineal esta en forma estandar si: 
->+ Se busca **MAXIMIZAR o MINIMIZAR**
->+ ==Las restricciones son de **igualdad**==
+>+ Se busca **MAXIMIZAR**
+>+ Las restricciones son de **igualdad**
 >$$Ax = b$$
 >+ Variables → **≥ 0**
 >+ Vector de recursos (b) → **≥ 0** 

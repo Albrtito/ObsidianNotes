@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-11-01
-sr-interval: 10
+sr-due: 2024-11-25
+sr-interval: 23
 sr-ease: 230
 ---
 # Sistema de produccion Just In Time
@@ -26,6 +26,6 @@ Esto conlleva las siguientes características:
 + Sistema kanban
 
 ### Objetivos:
-==Conseguir un cero todo: **defectos, averías, papel, inventarios, retrasos o plazos**==
+Conseguir un cero todo: **defectos, averías, papel, inventarios, retrasos o plazos**
 
 ***

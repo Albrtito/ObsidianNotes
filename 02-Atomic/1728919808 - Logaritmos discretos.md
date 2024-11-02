@@ -6,8 +6,8 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-10-31
-sr-interval: 9
+sr-due: 2024-11-27
+sr-interval: 25
 sr-ease: 246
 ---
 # Logaritmos discretos

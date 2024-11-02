@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726067427 - Tipos de empresas.md",
+                "file": "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726067427 - Tipos de empresas"
+              "title": "1726503731 - Entorno y competencia de la empresa"
             }
           }
         ],
@@ -143,10 +143,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1726067427 - Tipos de empresas.md"
+                "file": "02-Atomic/1726503731 - Entorno y competencia de la empresa.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1726067427 - Tipos de empresas"
+              "title": "Outline of 1726503731 - Entorno y competencia de la empresa"
             }
           },
           {
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1726067427 - Tipos de empresas.md",
+                "file": "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1726067427 - Tipos de empresas"
+              "title": "Graph of 1726503731 - Entorno y competencia de la empresa"
             }
           }
         ]
@@ -283,6 +283,17 @@
   },
   "active": "1bab7b3a90b631d4",
   "lastOpenFiles": [
+    "02-Atomic/1728919808 - Logaritmos discretos.md",
+    "02-Atomic/1727270366 - Forma estandar.md",
+    "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
+    "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
+    "02-Atomic/1727428451 - Definition - TCP.md",
+    "02-Atomic/1727187791 - Method - RDT Sliding window.md",
+    "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
+    "02-Atomic/1727270270 - Method - SIMPLEX.md",
+    "02-Atomic/1728937052 - Sistema de produccion Just In Time.md",
+    "02-Atomic/1727710261 - Estrategias de integración.md",
+    "02-Atomic/1726067427 - Tipos de empresas.md",
     "02-Atomic/1727176650 - Principles of reliable data transfer.md",
     "02-Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
     "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
@@ -294,22 +305,11 @@
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1726504551 - Method - Las 5 fuerzas de Porter.md",
     "02-Atomic/1727100415 - Theorem - Indicador de Euler.md",
-    "02-Atomic/1727428451 - Definition - TCP.md",
     "02-Atomic/1728380472 - Postulados de Golomb.md",
     "02-Atomic/1726315729 - Problem - Problema de agente.md",
     "02-Atomic/1727429612 - Definition - TLS.md",
     "02-Atomic/1728912947 - Cifrado asimetrico.md",
-    "02-Atomic/1726498880 - Definition - Cifrador.md",
-    "02-Atomic/1728936738 - Sistemas de produccion en masa.md",
     "00-References/Heuri_Resources_Problemas.pdf",
-    "02-Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
-    "02-Atomic/1726763938 - Exercises - Programación Lineal.md",
-    "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
-    "02-Atomic/1729169534 - Exercises - Programacion lineal entera.md",
-    "02-Atomic/1726519620 - Principios de Kerckhoff.md",
-    "02-Atomic/1727429966 - Packet switching.md",
-    "02-Atomic/1728377926 - Timeout estimations TCP.md",
-    "02-Atomic/1728917414 - Orden gaussiano.md",
     "99-Meta/0. Attachments/Criptoj-6.png",
     "99-Meta/0. Attachments/Criptoj-5.png",
     "99-Meta/0. Attachments/Criptoj-4.png",

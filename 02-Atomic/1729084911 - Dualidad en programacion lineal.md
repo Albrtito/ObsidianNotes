@@ -6,9 +6,9 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-10-31
-sr-interval: 9
-sr-ease: 234
+sr-due: 2024-11-04
+sr-interval: 2
+sr-ease: 194
 ---
 # Dualidad en programacion lineal
 Existe algún problema en programación lineal relacionado directamente con el problema que se esta intentando resolver. 
