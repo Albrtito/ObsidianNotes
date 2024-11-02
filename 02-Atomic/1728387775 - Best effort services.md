@@ -6,9 +6,9 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-10-28
-sr-interval: 14
-sr-ease: 270
+sr-due: 2025-01-13
+sr-interval: 72
+sr-ease: 290
 ---
 # Best effort services
 

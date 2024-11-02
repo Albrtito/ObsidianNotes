@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-10-29
-sr-interval: 7
+sr-due: 2024-11-22
+sr-interval: 20
 sr-ease: 210
 ---
 # Sistema de produccion por proyectos

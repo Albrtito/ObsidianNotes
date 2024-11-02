@@ -1,16 +1,16 @@
 ---
 aliases:
-  - Teoría económica de la empresa
+  - Teoría socio-económica de la empresa
 tags:
   - review
   - Empresa
 References: 
-cssclasses:
-sr-due: 2024-10-25
-sr-interval: 28
-sr-ease: 250
+cssclasses: 
+sr-due: 2024-11-17
+sr-interval: 15
+sr-ease: 230
 ---
-# Teoría económica de la empresa
+# Teoría socio-económica de la empresa
 La sociedad actual se basa en la especialización del trabajo.Cada uno de nosotros nos especializamos (escogiendo un camino educativo) para poder realizar productivamente un único tipo de trabajo. 
 
 **Las empresas obtienen ciudadanos especializados y los COORDINAN como mano de obra especializada.**
@@ -22,15 +22,16 @@ Cada uno de los ciudadanos especializados pasa a formar parte de un trozo de la 
 ## Funciones:
 Las funciones de la empresa es todo aquello que la empresa como ente hace. Sus acciones como entidad. Las dividimos en: 
 
-**Funciones reales:** Convertir input en output
+**[[1728921778 - La funcion de produccion de la empresa|Funciones reales]]:** Convertir input en output
 + Aprovisionamiento (conseguir el input)
 + Producción (Transformarlo en output)
 + Comercialización (Vender lo transformado)
 Otras: (Actividades necesarias para que todo funciones) → #Duda Necesidad o comodidad?
 
-**Funciones financieras:** Como conseguir dinero
-+ Financiación de la empresa → Conseguir
-+ Inversión del capital → Donde meter el dinero 
+
+==**[[1727105893 - La función financiera de la empresa|Funciones financieras]]:** Como conseguir dinero==
++ ==Financiación de la empresa → Conseguir==
++ ==Inversión del capital → Donde meter el dinero== 
 
  **Funciones de la dirección:** Coordinar 
  + Actividades de planificación: Objetivos de la empresa y medios necesarios
@@ -40,7 +41,7 @@ Otras: (Actividades necesarias para que todo funciones) → #Duda Necesidad o co
 Los procesos dividen las amplias funciones de la entidad en acciones realizables por los individuos que la componen. 
 Cuando hablamos de procesos apare el concepto de [[1725918620 - Cadena de valor|Cadena de valor]]. En esta dividimos cada proceso en subprocesos, luego en actividades y finalmente en tareas
 + Importante poder diferenciar entre cada una y sus subactividades → Siempre se puede ir bajando hasta llegar al nivel de tarea.
-Podemos dividir entre: 
-+ **Procesos de negocio/Actividades primarias:** Aquellas que satisfacen al cliente. (Logística, operaciones, marketing, ventas)
-+ **Procesos de apoyo/Actividades de soporte:** Dan servicio a los procesos de negocio/proceso de producción. (Gestión, Recursos humanos, Desarrollo). 
+==Podemos dividir entre:== 
++ ==**Procesos de negocio/Actividades primarias:** Aquellas que satisfacen al cliente. (Logística, operaciones, marketing, ventas)==
++ ==**Procesos de apoyo/Actividades de soporte:** Dan servicio a los procesos de negocio/proceso de producción. (Gestión, Recursos humanos, Desarrollo).== 
 #Duda : Diferencia entre proceso de negocio/actividad primaria? Además de la relación que tienen en la cadena de valor.

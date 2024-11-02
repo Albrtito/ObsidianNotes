@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1728935952 - Sistema de produccion por proyectos.md",
+                "file": "02-Atomic/1726428212 - Definition - Sociedad Colectiva.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1728935952 - Sistema de produccion por proyectos"
+              "title": "1726428212 - Definition - Sociedad Colectiva"
             }
           }
         ],
@@ -143,10 +143,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1728935952 - Sistema de produccion por proyectos.md"
+                "file": "02-Atomic/1726428212 - Definition - Sociedad Colectiva.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1728935952 - Sistema de produccion por proyectos"
+              "title": "Outline of 1726428212 - Definition - Sociedad Colectiva"
             }
           },
           {
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1728935952 - Sistema de produccion por proyectos.md",
+                "file": "02-Atomic/1726428212 - Definition - Sociedad Colectiva.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1728935952 - Sistema de produccion por proyectos"
+              "title": "Graph of 1726428212 - Definition - Sociedad Colectiva"
             }
           }
         ]
@@ -283,6 +283,11 @@
   },
   "active": "1bab7b3a90b631d4",
   "lastOpenFiles": [
+    "02-Atomic/1725918135 - Teoría económica de la empresa.md",
+    "02-Atomic/1725895664 - Naturaleza y de la empresa.md",
+    "02-Atomic/1727255580 - Loss and delay in Networks.md",
+    "02-Atomic/1728387775 - Best effort services.md",
+    "02-Atomic/1728935952 - Sistema de produccion por proyectos.md",
     "02-Atomic/1726234693 - Intro a la seguridad informática.md",
     "02-Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "02-Atomic/1728042156 - The three way handshake.md",
@@ -304,11 +309,6 @@
     "02-Atomic/Sets of numbers.md",
     "README.md",
     "02-Atomic/1726493246 - Algorithm - AES.md",
-    "02-Atomic/20240615 - 210541 - Theorem - Rolle.md",
-    "02-Atomic/1726498694 - Definition - Criptografía.md",
-    "02-Atomic/1728309909 - MAC.md",
-    "02-Atomic/1728493764 - Cifrado autenticado.md",
-    "02-Atomic/1728048290 - Proyecto de criptografía UC3M.md",
     "99-Meta/0. Attachments/Criptoj-6.png",
     "99-Meta/0. Attachments/Criptoj-5.png",
     "99-Meta/0. Attachments/Criptoj-4.png",

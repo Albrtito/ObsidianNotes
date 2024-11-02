@@ -6,9 +6,9 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-11-02
-sr-interval: 19
-sr-ease: 225
+sr-due: 2024-11-13
+sr-interval: 11
+sr-ease: 205
 ---
 # Loss and delay in Networks
 When packets are transmitted through the internet they go through different links, routers or switches. **This routers save the packages arriving in a queue and transmitt the first package of the queue to the next link.** 
@@ -55,7 +55,7 @@ $$
 + L: Packet lengh
 + R: link trasmission rate
 
-#### Propagation delay:
+#### ==Propagation delay:==
 $$
 d_{prop} = d/s
 $$
