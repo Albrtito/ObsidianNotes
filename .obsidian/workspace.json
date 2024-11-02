@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1729681356 - El Pasivo de una empresa.md",
+                "file": "02-Atomic/1728386212 - The network layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1729681356 - El Pasivo de una empresa"
+              "title": "1728386212 - The network layer"
             }
           }
         ],
@@ -142,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Areas/1.UC3M/Networks.md"
+                "file": "02-Atomic/1728386212 - The network layer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Networks"
+              "title": "Outline of 1728386212 - The network layer"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-Areas/1.UC3M/Networks.md",
+                "file": "02-Atomic/1728386212 - The network layer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,14 +256,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Networks"
+              "title": "Graph of 1728386212 - The network layer"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 577.5
+    "width": 577.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,10 +281,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2dca472e18c0e06a",
+  "active": "1bab7b3a90b631d4",
   "lastOpenFiles": [
-    "02-Atomic/1729681356 - El Pasivo de una empresa.md",
     "01-Areas/1.UC3M/Networks.md",
+    "02-Atomic/1729681356 - El Pasivo de una empresa.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
     "02-Atomic/1729598277 - Cuenta de resultados.md",
