@@ -58,9 +58,6 @@ aliases:
 1. Protocols, packet and circuits switching, layered architecture and internet architecture. 
 	+ [[1725968193 - Intro to networking|Intro to networking]]
 	+ [[1727255580 - Loss and delay in Networks|Loss and delay in Networks]]
-2. [[1726572508 - The network stack|Layers]]
-	1. [[1728038869 - Transport network layer|Transport layer]]
-	2. [[1728386212 - The network layer|Network layer]]
-	3. 
+2. [[1726572508 - The network stack|Layers]]: The network stack is composed of different layers, each of them occupied of some aspects of the whole process. Each of this layers is covered in this note. **This note is the MOC of basicaly everything there is about networks**
 
 

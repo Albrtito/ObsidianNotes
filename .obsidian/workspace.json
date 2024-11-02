@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "1728386212 - The network layer"
             }
+          },
+          {
+            "id": "6382853dda7bb417",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/Net_Biblio_Kurose.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Net_Biblio_Kurose"
+            }
           }
         ],
         "stacked": true
@@ -283,7 +295,10 @@
   },
   "active": "1bab7b3a90b631d4",
   "lastOpenFiles": [
+    "00-References/Net_Biblio_Kurose.pdf",
     "01-Areas/1.UC3M/Networks.md",
+    "02-Atomic/1726572508 - The network stack.md",
+    "02-Atomic/1728386212 - The network layer.md",
     "02-Atomic/1729681356 - El Pasivo de una empresa.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
@@ -306,9 +321,6 @@
     "02-Atomic/1727710261 - Estrategias de integración.md",
     "02-Atomic/1726067427 - Tipos de empresas.md",
     "02-Atomic/1727176650 - Principles of reliable data transfer.md",
-    "02-Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
-    "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
-    "02-Atomic/1726241677 - Definition - Empresas sociales.md",
     "00-References/Heuri_Resources_Problemas.pdf",
     "99-Meta/0. Attachments/Criptoj-6.png",
     "99-Meta/0. Attachments/Criptoj-5.png",

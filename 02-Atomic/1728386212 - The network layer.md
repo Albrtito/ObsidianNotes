@@ -9,6 +9,24 @@ References:
 cssclasses:
 ---
 # The network layer
+
+> [!NOTE] Intro: 
+> The transport layer is handling the proces to process, however this communication between processes depends on **host to host communication,** this is work of the network layer. 
+
+> The comparrison used is that while the transport layer is the system used to send letters over a mailing system, the mailmain and the mail company who decide how to send them (by plane, car, train) and which routes to take would be the network layer. 
+
+
+## Dictionary 
+
+
+
+
+
+
+
+
+
+
 Within the network layer there are three types of protocols: 
 + Routing and forwarding
 + [[1728390442 - IP Protocol|IP Protocol]] 
