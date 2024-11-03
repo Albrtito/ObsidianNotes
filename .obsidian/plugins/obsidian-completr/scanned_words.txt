@@ -1686,6 +1686,8 @@ attendand
 assistant
 allowed
 anymore
+abstraction
+aspects
 Creaci
 Crear
 Cuando
@@ -4914,6 +4916,7 @@ determines
 deciding
 decisions
 difference
+discuss
 modelos
 modelo
 maximizar
@@ -6503,6 +6506,8 @@ mbf
 mailing
 mailmain
 managing
+math
+match
 en
 ease
 es
@@ -9913,6 +9918,9 @@ paths
 physically
 processors
 programmed
+prefix
+probabilities
+prefixes
 lineal
 la
 lo
@@ -11389,6 +11397,9 @@ ljk
 loY
 lLU
 lYI
+longgest
+lookup
+latest
 tags
 tres
 todos
@@ -14514,6 +14525,7 @@ request
 remote
 roundabouts
 roundabout
+rows
 References
 Resoluci
 Rectas
@@ -17785,6 +17797,7 @@ cars
 components
 charge
 centralised
+counters
 sr
 se
 subproblemas
@@ -19480,6 +19493,7 @@ sRrO
 separates
 seconds
 specifically
+still
 interval
 importancia
 incorrecto
@@ -30706,6 +30720,7 @@ DGO
 DjRO
 DeT
 Dictionary
+DRAM
 funci
 fibonacci
 fica
@@ -32177,6 +32192,7 @@ ftm
 fhu
 funtion
 fails
+feasable
 objetivo
 obtener
 of
@@ -41641,6 +41657,7 @@ TXRUWSI
 Tgu
 TJv
 Tables
+TCAM
 grafo
 guardan
 global
@@ -47288,6 +47305,8 @@ Ssa
 SeS
 SDA
 Saves
+Spetial
+SRAM
 Manual
 Modelar
 Millones
@@ -51294,6 +51313,7 @@ Lcv
 LAe
 Liu
 LAv
+Lookup
 bottom
 base
 brik
@@ -52718,6 +52738,8 @@ befor
 blocking
 booth
 botleneck
+blazingly
+basicaly
 Util
 Una
 UniZumo
@@ -54038,6 +54060,7 @@ Uvwhy
 UgE
 UKr
 UHAiT
+Update
 QUE
 Que
 QE
