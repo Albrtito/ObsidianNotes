@@ -1682,6 +1682,9 @@ aIbs
 aaqF
 apropiate
 action
+attendand
+assistant
+allowed
 Creaci
 Crear
 Cuando
@@ -8199,6 +8202,8 @@ euy
 ecj
 eVVc
 encapsulates
+enter
+exits
 programaci
 primer
 paso
@@ -9904,6 +9909,8 @@ proces
 planes
 paths
 physically
+processors
+programmed
 lineal
 la
 lo
@@ -14503,6 +14510,8 @@ role
 retransmitting
 request
 remote
+roundabouts
+roundabout
 References
 Resoluci
 Rectas
@@ -17770,6 +17779,7 @@ computation
 computes
 communicates
 controllers
+cars
 sr
 se
 subproblemas
@@ -19464,6 +19474,7 @@ sHY
 sRrO
 separates
 seconds
+specifically
 interval
 importancia
 incorrecto
@@ -23713,6 +23724,7 @@ hRD
 hXZ
 happen
 human
+highway
 Es
 Este
 Ejemplos
@@ -33539,6 +33551,7 @@ operator
 operators
 occupied
 outgoing
+older
 que
 queremos
 qD
@@ -36326,6 +36339,7 @@ AxOF
 ANOTHER
 Algorithms
 Approach
+Analogy
 Floyd
 Foundations
 Funci
@@ -48678,6 +48692,7 @@ MfR
 MVK
 Magic
 MOVE
+MAIN
 Zivkovic
 Zo
 Zi
@@ -52695,6 +52710,7 @@ bGYWkw
 bAD
 befor
 blocking
+booth
 Util
 Una
 UniZumo
@@ -61743,6 +61759,7 @@ GwOO
 GDddc
 GRh
 Gqi
+Generalized
 Nota
 Novo
 Nacional
