@@ -1685,6 +1685,7 @@ action
 attendand
 assistant
 allowed
+anymore
 Creaci
 Crear
 Cuando
@@ -4912,6 +4913,7 @@ datagrap
 determines
 deciding
 decisions
+difference
 modelos
 modelo
 maximizar
@@ -17781,6 +17783,8 @@ communicates
 controllers
 cars
 components
+charge
+centralised
 sr
 se
 subproblemas
@@ -32172,6 +32176,7 @@ foB
 ftm
 fhu
 funtion
+fails
 objetivo
 obtener
 of
@@ -52712,6 +52717,7 @@ bAD
 befor
 blocking
 booth
+botleneck
 Util
 Una
 UniZumo

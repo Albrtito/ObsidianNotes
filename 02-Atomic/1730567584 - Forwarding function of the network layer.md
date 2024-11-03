@@ -13,8 +13,7 @@ cssclasses:
 >  Router local action of transferring a packet from input link intergace to the appropiate output link interface.
 
  + Takes place in **very short timespaces**. Needs to be done quickly as a lot of packets go through one router. 
- + The systems that implement this layer are the [[1730624725 - Router|Routers]], specifically, the input-output and switching fabric components.
-
+ 
 
 > [!example] Dictionary: 
 > + **switching** → Can be used interchangeably with forwarding 

@@ -8,7 +8,7 @@
           {
             "id": "6a8f6d291abb47e3",
             "type": "split",
-            "dimension": 63.90398550724638,
+            "dimension": 54.06078724464375,
             "children": [
               {
                 "id": "823ff74187a37b48",
@@ -114,7 +114,7 @@
                     }
                   }
                 ],
-                "currentTab": 2,
+                "currentTab": 4,
                 "stacked": true
               }
             ],
@@ -123,7 +123,7 @@
           {
             "id": "6ff7eaf30bb7c36a",
             "type": "tabs",
-            "dimension": 36.096014492753625,
+            "dimension": 45.93921275535625,
             "children": [
               {
                 "id": "6382853dda7bb417",
@@ -147,137 +147,8 @@
         "type": "split",
         "children": [
           {
-            "id": "499a66215ecf4828",
+            "id": "662098e0d908b3e6",
             "type": "tabs",
-            "children": [
-              {
-                "id": "b89f836cb1d8a8cd",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Files"
-                }
-              },
-              {
-                "id": "fb67b24a9341e2ad",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-search",
-                  "title": "Search"
-                }
-              },
-              {
-                "id": "4d9e8083eba3a4a2",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  },
-                  "icon": "lucide-tags",
-                  "title": "Tags"
-                }
-              },
-              {
-                "id": "b5268fb657afe3fc",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {},
-                  "icon": "lucide-bookmark",
-                  "title": "Bookmarks"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 246
-      },
-      "right": {
-        "id": "8881aa8c79e29157",
-        "type": "split",
-        "children": [
-          {
-            "id": "5997a5c0c99a8696",
-            "type": "tabs",
-            "dimension": 47.96573875802998,
-            "children": [
-              {
-                "id": "2dca472e18c0e06a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01-Areas/1.UC3M/Networks.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Networks"
-                }
-              },
-              {
-                "id": "2abe5264d5120683",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {},
-                  "icon": "SpacedRepIcon",
-                  "title": "Notes Review Queue"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "d8523f2fbc4e9acf",
-            "type": "tabs",
-            "dimension": 27.62312633832976,
-            "children": [
-              {
-                "id": "1223c0f85c541969",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "02-Atomic/1730567584 - Forwarding function of the network layer.md"
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline of 1730567584 - Forwarding function of the network layer"
-                }
-              },
-              {
-                "id": "1087055cabadd75b",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          },
-          {
-            "id": "e2d66690932bc578",
-            "type": "tabs",
-            "dimension": 24.411134903640257,
             "children": [
               {
                 "id": "36d1a43796975b90",
@@ -285,7 +156,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02-Atomic/1730567584 - Forwarding function of the network layer.md",
+                    "file": "02-Atomic/1730624725 - Router.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -370,14 +241,103 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 1730567584 - Forwarding function of the network layer"
+                  "title": "Graph of 1730624725 - Router"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f340046a713a91df",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1223c0f85c541969",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02-Atomic/1730624725 - Router.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 1730624725 - Router"
+                }
+              },
+              {
+                "id": "b89f836cb1d8a8cd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 577.5
+        "width": 246
+      },
+      "right": {
+        "id": "8881aa8c79e29157",
+        "type": "split",
+        "children": [
+          {
+            "id": "5997a5c0c99a8696",
+            "type": "tabs",
+            "dimension": 63.45609065155807,
+            "children": [
+              {
+                "id": "2dca472e18c0e06a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Areas/1.UC3M/Networks.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Networks"
+                }
+              },
+              {
+                "id": "2abe5264d5120683",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Notes Review Queue"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "d8523f2fbc4e9acf",
+            "type": "tabs",
+            "dimension": 36.54390934844192,
+            "children": [
+              {
+                "id": "1087055cabadd75b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -394,8 +354,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "67ff0774fc5ca113",
-      "mtime": "2024-11-03T10:38:58+01:00"
+      "active": "95448bf271b53a33",
+      "mtime": "2024-11-03T10:48:31+01:00"
     }
   },
   "active": "Main"

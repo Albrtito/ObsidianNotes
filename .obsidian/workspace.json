@@ -52,21 +52,6 @@
                 }
               },
               {
-                "id": "9db00f2401394cbb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1730567097 - The network layer control plane.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1730567097 - The network layer control plane"
-                }
-              },
-              {
                 "id": "67ff0774fc5ca113",
                 "type": "leaf",
                 "state": {
@@ -79,21 +64,6 @@
                   },
                   "icon": "lucide-file",
                   "title": "1730567584 - Forwarding function of the network layer"
-                }
-              },
-              {
-                "id": "bcc30b073edccbf8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1726049339 - Definition - Packet switches.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1726049339 - Definition - Packet switches"
                 }
               },
               {
@@ -112,7 +82,7 @@
                 }
               }
             ],
-            "currentTab": 4,
+            "currentTab": 2,
             "stacked": true
           }
         ],
@@ -154,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730624725 - Router.md",
+                "file": "00-References/Net_Biblio_Kurose.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +209,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730624725 - Router"
+              "title": "Graph of Net_Biblio_Kurose"
             }
           }
         ]
@@ -254,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730624725 - Router.md"
+                "file": "00-References/Net_Biblio_Kurose.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730624725 - Router"
+              "title": "Outline of Net_Biblio_Kurose"
             }
           },
           {
@@ -352,22 +322,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "95448bf271b53a33",
+  "active": "6382853dda7bb417",
   "lastOpenFiles": [
-    "99-Meta/0. Attachments/1730624725 - Routerj.png",
+    "02-Atomic/1730624725 - Router.md",
+    "02-Atomic/1730567078 - The network layer data plane.md",
     "02-Atomic/1730567584 - Forwarding function of the network layer.md",
+    "02-Atomic/1730567097 - The network layer control plane.md",
+    "02-Atomic/1726049339 - Definition - Packet switches.md",
+    "99-Meta/0. Attachments/1730624725 - Routerj.png",
     "02-Atomic/1728386212 - The network layer.md",
     "00-References/Net_Biblio_Kurose.pdf",
-    "02-Atomic/1730624725 - Router.md",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 10.09.35 AM.png",
-    "02-Atomic/1726049339 - Definition - Packet switches.md",
     "02-Atomic/1727187769 - Method - RDT With errors and loss.md",
     "02-Atomic/1729167814 - Resolucion de sistemas lineales.md",
     "02-Atomic/1728390442 - IP Protocol.md",
     "02-Atomic/1730567598 - Routing function of the network layer.md",
-    "02-Atomic/1730567078 - The network layer data plane.md",
     "02-Atomic/1728387775 - Best effort services.md",
-    "02-Atomic/1730567097 - The network layer control plane.md",
     "99-Meta/0. Attachments/Screenshot 2024-11-02 at 6.41.17 PM.png",
     "01-Areas/1.UC3M/Networks.md",
     "02-Atomic/1726572508 - The network stack.md",
@@ -391,7 +361,6 @@
     "99-Meta/0. Attachments/Criptoj-2.png",
     "99-Meta/0. Attachments/Criptoj-1.png",
     "99-Meta/0. Attachments/Criptoj.png",
-    "99-Meta/0. Attachments/1729684964 - El BAIT,BAT y BNj.png",
     "00-References/pbcopy",
     "00-References/UC3M_Resources_Calendario2425.pdf",
     "00-References/SoftwareEng_Ch 3_Theory_ArchitecturealModelling.pdf",
