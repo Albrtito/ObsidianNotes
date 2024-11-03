@@ -50,11 +50,12 @@ When moving packages between hosts we identify two main network layer functions,
 1. [[1730567078 - The network layer data plane|Data plane]]: 
 	**Implements [[1730567584 - Forwarding function of the network layer|Forwarding]]:** When a datagram arrives at a router it must be *forwarded*, this means sending it to the next apropiate router in the path to its destination, blocking it or managing it.
 	
-   + The systems that implement this functions are the [[1730624725 - Router|routers]]. We can see more about their structure at its page. 
+   + The systems that implement this functions are the [[1730624725 - Router|routers]]. We can see more about their structure and where it’s implemented at its page. 
    
 2. [[1730567097 - The network layer control plane|Control plane]]:
 	**Implements [[1730567598 - Routing function of the network layer|Routing]]** Routing is identifying the paths to take over the network. This is done by **routing algorithms**
-
+	
+	+ Based on the approach to the control plane, its functions will be implemented by the [[1730624725 - Router|Routers]], specifically in their processors, or by external software systems (SDN).
 
 ## Network service model:
 The netwok service model could provide tons of different services, security, in-order delivery, guaranteed delivery, congestion or flow control… However **only one service is provided**, the [[1728387775 - Best effort services|best-effort service]]. 

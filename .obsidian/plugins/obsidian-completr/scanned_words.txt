@@ -14502,6 +14502,7 @@ remember
 role
 retransmitting
 request
+remote
 References
 Resoluci
 Rectas
@@ -17766,6 +17767,9 @@ compared
 component
 confuse
 computation
+computes
+communicates
+controllers
 sr
 se
 subproblemas
@@ -25188,6 +25192,7 @@ EOqR
 ECZL
 ECm
 EXL
+Executes
 vital
 variables
 vez
@@ -33533,6 +33538,7 @@ oPo
 operator
 operators
 occupied
+outgoing
 que
 queremos
 qD
@@ -44529,6 +44535,7 @@ PnFy
 PaO
 PjLy
 PACKAGES
+Performs
 Biblio
 BitsPerComponent
 BI
@@ -47259,6 +47266,8 @@ SkX
 SCg
 Ssa
 SeS
+SDA
+Saves
 Manual
 Modelar
 Millones

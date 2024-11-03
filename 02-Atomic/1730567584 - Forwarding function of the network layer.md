@@ -23,4 +23,7 @@ cssclasses:
 Every network router has one forwarding table. These tables are use by the router to **know where each packet needs to be forwarded**. 
 + Data from the packet header is taken and used to index the table. 
 + These tables are **created by the [[1730567097 - The network layer control plane|Control plane]]**
+
+## Destination-based forwarding:
+
 ***
