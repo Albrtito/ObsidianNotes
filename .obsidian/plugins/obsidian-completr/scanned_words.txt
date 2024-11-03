@@ -12962,6 +12962,7 @@ thinking
 tell
 tons
 today
+technically
 review
 resolver
 realizar
@@ -14528,6 +14529,7 @@ remote
 roundabouts
 roundabout
 rows
+rather
 References
 Resoluci
 Rectas
