@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730651695 - The Internet Protocol (IP).md",
+                "file": "00-References/Net_Biblio_Kurose.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730651695 - The Internet Protocol (IP)"
+              "title": "Graph of Net_Biblio_Kurose"
             }
           }
         ]
@@ -208,10 +208,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730651695 - The Internet Protocol (IP).md"
+                "file": "00-References/Net_Biblio_Kurose.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730651695 - The Internet Protocol (IP)"
+              "title": "Outline of Net_Biblio_Kurose"
             }
           },
           {
@@ -306,10 +306,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e11ba08d51ee141a",
+  "active": "6382853dda7bb417",
   "lastOpenFiles": [
-    "00-References/Net_Biblio_Kurose.pdf",
     "02-Atomic/1730651695 - The Internet Protocol (IP).md",
+    "00-References/Net_Biblio_Kurose.pdf",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",
     "02-Atomic/1728386212 - The network layer.md",
     "02-Atomic/1730567584 - Forwarding function of the network layer.md",
