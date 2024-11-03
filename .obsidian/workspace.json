@@ -39,37 +39,37 @@
             }
           },
           {
-            "id": "95448bf271b53a33",
+            "id": "666ffe3eee66a08f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1730624725 - Router.md",
+                "file": "02-Atomic/1728386212 - The network layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1730624725 - Router"
+              "title": "1728386212 - The network layer"
             }
           },
           {
-            "id": "ef4b7178f2ac4bbb",
+            "id": "e11ba08d51ee141a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1730650392 - Types of switching fabrics.md",
+                "file": "02-Atomic/1730651695 - The Internet Protocol (IP).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1730650392 - Types of switching fabrics"
+              "title": "1730651695 - The Internet Protocol (IP)"
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       },
       {
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730624725 - Router.md",
+                "file": "02-Atomic/1730651695 - The Internet Protocol (IP).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730624725 - Router"
+              "title": "Graph of 1730651695 - The Internet Protocol (IP)"
             }
           }
         ]
@@ -208,10 +208,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730624725 - Router.md"
+                "file": "02-Atomic/1730651695 - The Internet Protocol (IP).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730624725 - Router"
+              "title": "Outline of 1730651695 - The Internet Protocol (IP)"
             }
           },
           {
@@ -306,18 +306,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "95448bf271b53a33",
+  "active": "e11ba08d51ee141a",
   "lastOpenFiles": [
     "00-References/Net_Biblio_Kurose.pdf",
+    "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",
+    "02-Atomic/1728386212 - The network layer.md",
+    "02-Atomic/1730651695 - The Internet Protocol (IP).md",
+    "02-Atomic/1730567584 - Forwarding function of the network layer.md",
     "02-Atomic/1730624725 - Router.md",
     "02-Atomic/1730650392 - Types of switching fabrics.md",
+    "02-Atomic/1730567078 - The network layer data plane.md",
     "02-Atomic/1730651054 - Router packet scheduling methods.md",
-    "02-Atomic/1728386212 - The network layer.md",
     "01-Areas/1.UC3M/Networks.md",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.17.05 PM.png",
     "02-Atomic/1730648938 - Input port processing in routers.md",
-    "02-Atomic/1730567078 - The network layer data plane.md",
-    "02-Atomic/1730567584 - Forwarding function of the network layer.md",
     "02-Atomic/1730567097 - The network layer control plane.md",
     "02-Atomic/1726049339 - Definition - Packet switches.md",
     "99-Meta/0. Attachments/1730624725 - Routerj.png",
@@ -337,14 +339,12 @@
     "02-Atomic/1729598149 - Balance de situacion.md",
     "02-Atomic/1729684964 - El BAIT,BAT y BN.md",
     "02-Atomic/1729692495 - Asientos contables.md",
-    "02-Atomic/1727121162 - Contabilidad.md",
     "00-References/Heuri_Resources_Problemas.pdf",
     "99-Meta/0. Attachments/Criptoj-6.png",
     "99-Meta/0. Attachments/Criptoj-5.png",
     "99-Meta/0. Attachments/Criptoj-4.png",
     "99-Meta/0. Attachments/Criptoj-3.png",
     "99-Meta/0. Attachments/Criptoj-2.png",
-    "99-Meta/0. Attachments/Criptoj-1.png",
     "00-References/pbcopy",
     "00-References/UC3M_Resources_Calendario2425.pdf",
     "00-References/SoftwareEng_Ch 3_Theory_ArchitecturealModelling.pdf",

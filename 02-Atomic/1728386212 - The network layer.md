@@ -60,7 +60,9 @@ When moving packages between hosts we identify two main network layer functions,
 ## Network service model:
 The netwok service model could provide tons of different services, security, in-order delivery, guaranteed delivery, congestion or flow control… However **only one service is provided**, the [[1728387775 - Best effort services|best-effort service]]. 
 
-
+## Network layer protocols: 
+There are several network layer protocols, here is a list of them: 
++ [[1730651695 - The Internet Protocol (IP)|The Internet Protocol (IP)]] defines the format that the datagrams inside the network layer must have. 
 
 
 ***
