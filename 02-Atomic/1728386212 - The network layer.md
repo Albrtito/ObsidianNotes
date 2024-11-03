@@ -27,9 +27,7 @@ cssclasses:
 From this example we can conclude that the **role of the network layer is to MOVE PACKAGES FROM ONE HOST TO ANOTHER**. 
 
 
-> [!ATTENTION] Routers vs link-switches 
-> A distinction between the routers and the link-layer switches is really important because **routers make decisions based on the network layer while switches make them based on the link layer**
-> + Not to confuse link-switches with packet-switches (an) 
+
 
 ## Names and dictionary: 
 
@@ -40,9 +38,13 @@ From this example we can conclude that the **role of the network layer is to MOV
 + **control plane** → The part of the network layer that covers *network-wide* logic. Routing of datagrams
 	+ **routing protocols** → Protocols of the control pane
 	+ **routing** → The act of creating routes to move a datagram through the network. 
+	+ **SDN(Software Defined Networking)** → Implementation of the network layer that separates control and data planes.
 + **ip forwarding** → The act of sending a datagrap to the next ip based on some algorithm. Algorithms are divided between traditional and generalised.
-+ **SDN(Software Defined Networking)** → Implementation of the network layer that separates control and data planes. 
++ **routers** → The network layer device 
 
+> [!ATTENTION] Routers vs link-switches 
+> A distinction between the routers and the link-layer switches is really important because **routers make decisions based on the network layer while switches make them based on the link layer**
+> + Not to confuse link-switches with packet-switches (these are both routers and link-layer switches) 
 ## Two different planes: 
 When moving packages between hosts we identify two main network layer functions, each of them done by one of the two planes of the network layer:
 
