@@ -11,7 +11,7 @@
           {
             "id": "823ff74187a37b48",
             "type": "tabs",
-            "dimension": 54.17558886509636,
+            "dimension": 35.40328336902213,
             "children": [
               {
                 "id": "1bab7b3a90b631d4",
@@ -34,7 +34,7 @@
           {
             "id": "3fba0475cebb59d0",
             "type": "tabs",
-            "dimension": 45.82441113490364,
+            "dimension": 64.59671663097787,
             "children": [
               {
                 "id": "fc5c4543203cc1ff",
@@ -80,9 +80,39 @@
                   "icon": "lucide-file",
                   "title": "1730567584 - Forwarding function of the network layer"
                 }
+              },
+              {
+                "id": "bcc30b073edccbf8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1726049339 - Definition - Packet switches.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1726049339 - Definition - Packet switches"
+                }
+              },
+              {
+                "id": "95448bf271b53a33",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1730624725 - Router.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1730624725 - Router"
+                }
               }
             ],
-            "currentTab": 2,
+            "currentTab": 3,
             "stacked": true
           }
         ],
@@ -104,19 +134,8 @@
               "icon": "lucide-file-text",
               "title": "Net_Biblio_Kurose"
             }
-          },
-          {
-            "id": "7461d14fbda39128",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +241,8 @@
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -234,9 +254,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "02-Atomic/1728386212 - The network layer.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1728386212 - The network layer"
             }
           },
           {
@@ -262,6 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/1728386212 - The network layer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +369,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1728386212 - The network layer"
             }
           }
         ]
@@ -371,11 +394,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7461d14fbda39128",
+  "active": "1bab7b3a90b631d4",
   "lastOpenFiles": [
-    "00-References/Net_Biblio_Kurose.pdf",
+    "02-Atomic/1726049339 - Definition - Packet switches.md",
+    "02-Atomic/1730624725 - Router.md",
     "02-Atomic/1728386212 - The network layer.md",
     "02-Atomic/1730567584 - Forwarding function of the network layer.md",
+    "00-References/Net_Biblio_Kurose.pdf",
+    "02-Atomic/1727187769 - Method - RDT With errors and loss.md",
+    "02-Atomic/1729167814 - Resolucion de sistemas lineales.md",
+    "02-Atomic/1728390442 - IP Protocol.md",
     "02-Atomic/1730567598 - Routing function of the network layer.md",
     "02-Atomic/1730567078 - The network layer data plane.md",
     "02-Atomic/1728387775 - Best effort services.md",
@@ -396,10 +424,6 @@
     "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02-Atomic/1728919808 - Logaritmos discretos.md",
     "02-Atomic/1727270366 - Forma estandar.md",
-    "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
-    "02-Atomic/1727428451 - Definition - TCP.md",
-    "02-Atomic/1727187791 - Method - RDT Sliding window.md",
-    "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
     "00-References/Heuri_Resources_Problemas.pdf",
     "99-Meta/0. Attachments/Criptoj-6.png",
     "99-Meta/0. Attachments/Criptoj-5.png",

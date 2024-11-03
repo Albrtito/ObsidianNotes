@@ -6,9 +6,9 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-03
-sr-interval: 12
-sr-ease: 270
+sr-due: 2024-12-18
+sr-interval: 45
+sr-ease: 290
 ---
 # Resolucion de sistemas lineales
 

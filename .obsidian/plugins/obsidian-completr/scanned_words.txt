@@ -4908,6 +4908,7 @@ datagrams
 datagrap
 determines
 deciding
+decisions
 modelos
 modelo
 maximizar
@@ -14499,6 +14500,7 @@ rBP
 rNnzpS
 remember
 role
+retransmitting
 References
 Resoluci
 Rectas
@@ -17761,6 +17763,7 @@ company
 conclude
 compared
 component
+confuse
 sr
 se
 subproblemas
@@ -21050,6 +21053,7 @@ identifying
 intergace
 interface
 index
+interchangeably
 un
 una
 utiliza
@@ -30677,6 +30681,7 @@ DwF
 DGO
 DjRO
 DeT
+Dictionary
 funci
 fibonacci
 fica
@@ -33525,6 +33530,7 @@ oEj
 oPo
 operator
 operators
+occupied
 que
 queremos
 qD

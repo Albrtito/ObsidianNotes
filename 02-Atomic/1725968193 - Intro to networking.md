@@ -31,7 +31,7 @@ When we talk about the internet we are just describing a **net of connected devi
 
 In order to **connect all the host** to the network we use: 
 + [[1726049178 - Definition - Communication links|Communication links]] (the medium part of the net) 
-+ [[1726049339 - Definition - Switches|Packet switches]] (More about this later)
++ [[1726049339 - Definition - Packet switches|Packet switches]] (More about this later)
 
 Computers communicate between them using [[1726049888 - Net protocols|Net protocols]]. These protocols give an **standard way of establishing a communication between two nodes**. 
 Anyone can create a protocol, though most protocols used are public.
