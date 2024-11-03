@@ -17780,6 +17780,7 @@ computes
 communicates
 controllers
 cars
+components
 sr
 se
 subproblemas
