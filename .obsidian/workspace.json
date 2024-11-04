@@ -102,6 +102,18 @@
               "icon": "lucide-file",
               "title": "IP Addressing and Routing Scheme"
             }
+          },
+          {
+            "id": "e271759a1120532b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "99-Meta/0. Attachments/IP Addressing and Routing Schemej-1.png"
+              },
+              "icon": "lucide-image",
+              "title": "IP Addressing and Routing Schemej-1"
+            }
           }
         ],
         "currentTab": 1
@@ -241,8 +253,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -322,13 +333,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c972e42cb8cb8dd8",
+  "active": "1223c0f85c541969",
   "lastOpenFiles": [
+    "99-Meta/0. Attachments/IP Addressing and Routing Schemej-1.png",
+    "IP Addressing and Routing Scheme.md",
     "Addressing.pdf",
     "00-References/Net_Biblio_Kurose.pdf",
     "02-Atomic/1730567078 - The network layer data plane.md",
-    "IP Addressing and Routing Scheme.md",
-    "99-Meta/0. Attachments/IP Addressing and Routing Schemej-1.png",
     "02-Atomic/1730713851 - Practica - Addressing Exercise - Topology Design.md",
     "99-Meta/0. Attachments/IP Addressing and Routing Schemej.png",
     "02-Atomic/1730713834 - - Untitled Suffix.md",
