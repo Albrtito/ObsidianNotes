@@ -1688,6 +1688,7 @@ allowed
 anymore
 abstraction
 aspects
+available
 Creaci
 Crear
 Cuando
@@ -3247,6 +3248,8 @@ ClG
 CqiT
 CtR
 CmW
+Configuration
+Compliance
 de
 due
 dar
@@ -8212,6 +8215,7 @@ eVVc
 encapsulates
 enter
 exits
+exceeded
 programaci
 primer
 paso
@@ -9922,6 +9926,7 @@ programmed
 prefix
 probabilities
 prefixes
+pointed
 lineal
 la
 lo
@@ -14530,6 +14535,9 @@ roundabouts
 roundabout
 rows
 rather
+range
+requiring
+redundant
 References
 Resoluci
 Rectas
@@ -15909,6 +15917,10 @@ Raa
 RsD
 RVÖk
 Robin
+Requirements
+Room
+Redundancy
+Redundant
 cssclasses
 correcto
 correcta
@@ -17804,6 +17816,7 @@ charge
 centralised
 counters
 conection
+configured
 sr
 se
 subproblemas
@@ -19502,6 +19515,8 @@ specifically
 still
 select
 schedule
+selection
+sized
 interval
 importancia
 incorrecto
@@ -25232,6 +25247,8 @@ ECZL
 ECm
 EXL
 Executes
+Exercise
+Enterprise
 vital
 variables
 vez
@@ -29309,6 +29326,8 @@ Iex
 IyW
 Implements
 ISP
+Interface
+Internal
 Definir
 Din
 Design
@@ -30729,6 +30748,7 @@ DjRO
 DeT
 Dictionary
 DRAM
+Documentation
 funci
 fibonacci
 fica
@@ -32202,6 +32222,7 @@ funtion
 fails
 feasable
 forwards
+failures
 objetivo
 obtener
 of
@@ -33584,6 +33605,8 @@ occupied
 outgoing
 older
 others
+offices
+optimal
 que
 queremos
 qD
@@ -36372,6 +36395,10 @@ ANOTHER
 Algorithms
 Approach
 Analogy
+Assignment
+Analysis
+Alternative
+Addresses
 Floyd
 Foundations
 Funci
@@ -37665,6 +37692,8 @@ FGB
 Fqg
 FiaX
 FROM
+Followed
+Features
 Warshall
 Width
 We
@@ -40269,6 +40298,7 @@ HDf
 HuX
 HOST
 Hight
+Hop
 TODOS
 The
 Trabajo
@@ -41669,6 +41699,7 @@ TJv
 Tables
 TCAM
 Treats
+Topology
 grafo
 guardan
 global
@@ -45851,6 +45882,10 @@ BUh
 BsP
 BHH
 BYLCW
+Branch
+Backbone
+Broadcast
+Backup
 Steven
 Skiena
 Serie
@@ -47319,6 +47354,11 @@ Saves
 Spetial
 SRAM
 Still
+Subnet
+Strategy
+Started
+Servers
+Separate
 Manual
 Modelar
 Millones
@@ -48730,6 +48770,8 @@ MVK
 Magic
 MOVE
 MAIN
+Mask
+Maximum
 Zivkovic
 Zo
 Zi
@@ -52752,6 +52794,7 @@ booth
 botleneck
 blazingly
 basicaly
+backbone
 Util
 Una
 UniZumo
@@ -54073,6 +54116,7 @@ UgE
 UKr
 UHAiT
 Update
+Usable
 QUE
 Que
 QE
@@ -56680,6 +56724,8 @@ Ord
 OdP
 OOQp
 ONE
+Office
+Ordered
 ximo
 xrL
 xFQ
@@ -61803,6 +61849,7 @@ GDddc
 GRh
 Gqi
 Generalized
+Global
 Nota
 Novo
 Nacional
@@ -67067,6 +67114,7 @@ JdOAZ
 JtgOe
 JTyBDNDU
 JMUS
+Justification
 jj
 jL
 jC
