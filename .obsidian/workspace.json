@@ -110,24 +110,8 @@
               "icon": "lucide-file-text",
               "title": "Net_Biblio_Kurose"
             }
-          },
-          {
-            "id": "0af210ac6fa2e047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IP Addressing and Routing Scheme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IP Addressing and Routing Scheme"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -344,6 +328,46 @@
       "graph:Open graph view": false,
       "workspaces:Manage workspace layouts": false
     }
+  },
+  "floating": {
+    "id": "205d6a73cb49fc5d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "80ab6fbfe258cf7d",
+        "type": "window",
+        "children": [
+          {
+            "id": "893f3870cf0b9bfe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0af210ac6fa2e047",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "IP Addressing and Routing Scheme.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "IP Addressing and Routing Scheme"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1434,
+        "y": 369,
+        "width": 1428,
+        "height": 900,
+        "maximize": false,
+        "zoom": -2.5
+      }
+    ]
   },
   "active": "0af210ac6fa2e047",
   "lastOpenFiles": [
