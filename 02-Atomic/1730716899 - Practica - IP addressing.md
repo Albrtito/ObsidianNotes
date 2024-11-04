@@ -1,3 +1,12 @@
+---
+aliases:
+  - IP Address Assignment
+  - Practica - IP Addressing
+tags:
+  - Networks
+References: 
+cssclasses:
+---
 # IP Address Assignment - Branch 75 
 
 > Author: Alberto Pascau Sáez 
@@ -17,8 +26,8 @@
 **Note:** The range used for this subnets **will be the minimal necessary one.**
 
 4. Point-to-point connections between:
-   - Backbone Router - Server Router
-   - Server Router  -  Office 1 Router
+   + Backbone Router - Server Router
+   + Server Router  -  Office 1 Router
    - Server Router  -  Office 2 Router
    - Office 1 Router - Office 2 Router
 
@@ -107,3 +116,4 @@
 | 10.0.75.160/28      | 10.0.75.245 | 10.0.75.246 |
 | 10.0.75.129         | Office 2    |             |
 
+***

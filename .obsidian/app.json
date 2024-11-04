@@ -5,11 +5,11 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A3",
+    "includeName": false,
+    "pageSize": "A4",
     "landscape": false,
-    "margin": "2",
-    "downscalePercent": 10
+    "margin": "0",
+    "downscalePercent": 52
   },
   "vimMode": true,
   "showLineNumber": true,
