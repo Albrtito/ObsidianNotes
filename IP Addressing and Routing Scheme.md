@@ -3,22 +3,7 @@
 
 ### 1. Network Topology Design
 
-```mermaid
-graph TD
-    BB[Backbone Network<br/>10.0.0.0/24] --- R_BB[Router Backbone]
-    R_BB --- |10.0.75.252/30| R_S[Router Servers]
-    
-    subgraph Branch 75
-        R_S --- |10.0.75.248/30| R_O1[Router Office 1]
-        R_S --- |10.0.75.244/30| R_O2[Router Office 2]
-        R_O1 --- |10.0.75.240/30| R_O2
-        
-        R_O1 --- O1[Office 1 Network<br/>10.0.75.0/25<br/>120 hosts]
-        R_O2 --- O2[Office 2 Network<br/>10.0.75.128/27<br/>27 hosts]
-        R_S --- SRV[Servers Network<br/>10.0.75.160/28<br/>12 hosts]
-    end
-```
-
+![[1730713851 - Practica - Addressing Exercise - Topology Design|Practica - Addressing Exercise - Topology Design]]
 ### 2. Network Requirements Analysis
 
 #### 2.1 Global Requirements
@@ -58,24 +43,24 @@ graph TD
    - Broadcast: 10.0.75.175
    - Router interface: 10.0.75.161
 
-#### 3.2 Point-to-Point Networks (/30)
+#### 3.2 Connections between routers:
 
-1. **Backbone Router ↔ Server Router**
+1. **Backbone Router $\leftrightarrow$ Server Router*. 
    - Network: 10.0.75.252/30
    - Backbone Router: 10.0.75.253
    - Server Router: 10.0.75.254
 
-2. **Server Router ↔ Office 1 Router**
+3. **Server Router $\leftrightarrow$ Office 1 Router**
    - Network: 10.0.75.248/30
    - Server Router: 10.0.75.249
    - Office 1 Router: 10.0.75.250
 
-3. **Server Router ↔ Office 2 Router**
+4. **Server Router $\leftrightarrow$ Office 2 Router**
    - Network: 10.0.75.244/30
    - Server Router: 10.0.75.245
    - Office 2 Router: 10.0.75.246
 
-4. **Office 1 Router ↔ Office 2 Router**
+5. **Office 1 Router $\leftrightarrow$ Office 2 Router**
    - Network: 10.0.75.240/30
    - Office 1 Router: 10.0.75.241
    - Office 2 Router: 10.0.75.242
@@ -84,11 +69,11 @@ graph TD
 
 #### 4.1 Backbone Router (R_BB)
 
-| Destination Network | Subnet Mask | Next Hop      | Interface    |
-|--------------------|-------------|---------------|--------------|
-| 10.0.75.0/25      | 255.255.255.128 | 10.0.75.254 | 10.0.75.253 |
-| 10.0.75.128/27    | 255.255.255.224 | 10.0.75.254 | 10.0.75.253 |
-| 10.0.75.160/28    | 255.255.255.240 | 10.0.75.254 | 10.0.75.253 |
+| Destination Network | Next Hop    | Interface   |
+| ------------------- | ----------- | ----------- |
+| 10.0.75.0/25        | 10.0.75.254 | 10.0.75.253 |
+| 10.0.75.128/27      | 10.0.75.254 | 10.0.75.253 |
+| 10.0.75.160/28      | 10.0.75.254 | 10.0.75.253 |
 
 #### 4.2 Server Router (R_S)
 
