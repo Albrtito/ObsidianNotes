@@ -21195,6 +21195,7 @@ iDOT
 iOPn
 iryHsm
 identifier
+instanceof
 un
 una
 utiliza
@@ -32347,6 +32348,7 @@ fUy
 fields
 folder
 folders
+filter
 objetivo
 obtener
 of
@@ -36539,6 +36541,7 @@ AFVm
 ANg
 Akw
 AJW
+Array
 Floyd
 Foundations
 Funci
@@ -37837,6 +37840,7 @@ Features
 FgS
 FgB
 Fields
+Folder
 Warshall
 Width
 We
@@ -43275,6 +43279,9 @@ gvV
 gastando
 gastado
 getfolders
+getKeys
+getAbstractFileByPath
+getAbstractFilesByPath
 Programaci
 Para
 Problema

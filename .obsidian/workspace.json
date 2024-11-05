@@ -129,18 +129,18 @@
             }
           },
           {
-            "id": "d2f8ed690a536432",
+            "id": "8d78751881b71b4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1730830494 - Testing.md",
+                "file": "02-Atomic/1730831108 -.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1730830494 - Testing"
+              "title": "1730831108 -"
             }
           }
         ],
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730830494 - Testing.md",
+                "file": "02-Atomic/1730831108 -.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,7 +268,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730830494 - Testing"
+              "title": "Graph of 1730831108 -"
             }
           }
         ]
@@ -283,10 +283,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730830494 - Testing.md"
+                "file": "02-Atomic/1730831108 -.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730830494 - Testing"
+              "title": "Outline of 1730831108 -"
             }
           },
           {
@@ -370,10 +370,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d2f8ed690a536432",
+  "active": "8d78751881b71b4a",
   "lastOpenFiles": [
-    "02-Atomic/1730830494 - Testing.md",
+    "02-Atomic/1730831108 -.md",
     "99-Meta/1. Templates/Template2.md",
+    "02-Atomic/1730831043 -.md",
+    "02-Atomic/1730830919 -.md",
+    "02-Atomic/1730830494 - Testing.md",
+    "02-Atomic/1730830625 - Testing.md",
+    "02-Atomic/1730830588 - Titletest.md",
+    "02-Atomic/1730830530 - Title.md",
     "02-Atomic/1730830443 - Testing.md",
     "02-Atomic/1730830408 - Testing.md",
     "02-Atomic/1730830353 - TEsting.md",
@@ -395,12 +401,6 @@
     "02-Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
     "02-Atomic/1729692495 - Asientos contables.md",
     "02-Atomic/1730825978 - - Untitled Suffix.md",
-    "02-Atomic/1729598149 - Balance de situacion.md",
-    "02-Atomic/1729598277 - Cuenta de resultados.md",
-    "Screenshot 2024-10-23 at 1.44.04 PM.png.md",
-    "02-Atomic/1729681337 - El Activo de una empresa.md",
-    "02-Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
-    "02-Atomic/1729684964 - El BAIT,BAT y BN.md",
     "99-Meta/0. Attachments/IP Addressing and Routing Schemej-1.png",
     "Addressing.pdf",
     "99-Meta/0. Attachments/IP Addressing and Routing Schemej.png",
