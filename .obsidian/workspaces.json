@@ -6,124 +6,78 @@
         "type": "split",
         "children": [
           {
-            "id": "6a8f6d291abb47e3",
-            "type": "split",
-            "dimension": 54.06078724464375,
+            "id": "3fba0475cebb59d0",
+            "type": "tabs",
+            "dimension": 32.05383848454636,
             "children": [
               {
-                "id": "823ff74187a37b48",
-                "type": "tabs",
-                "dimension": 35.40328336902213,
-                "children": [
-                  {
-                    "id": "1bab7b3a90b631d4",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02-Atomic/1728386212 - The network layer.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "1728386212 - The network layer"
-                    }
-                  }
-                ],
-                "stacked": true
+                "id": "fc5c4543203cc1ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1730567078 - The network layer data plane.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1730567078 - The network layer data plane"
+                }
               },
               {
-                "id": "3fba0475cebb59d0",
-                "type": "tabs",
-                "dimension": 64.59671663097787,
-                "children": [
-                  {
-                    "id": "fc5c4543203cc1ff",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02-Atomic/1730567078 - The network layer data plane.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "1730567078 - The network layer data plane"
-                    }
+                "id": "67ff0774fc5ca113",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1730567584 - Forwarding function of the network layer.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
                   },
-                  {
-                    "id": "9db00f2401394cbb",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02-Atomic/1730567097 - The network layer control plane.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "1730567097 - The network layer control plane"
-                    }
+                  "icon": "lucide-file",
+                  "title": "1730567584 - Forwarding function of the network layer"
+                }
+              },
+              {
+                "id": "666ffe3eee66a08f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1728386212 - The network layer.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
                   },
-                  {
-                    "id": "67ff0774fc5ca113",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02-Atomic/1730567584 - Forwarding function of the network layer.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "1730567584 - Forwarding function of the network layer"
-                    }
+                  "icon": "lucide-file",
+                  "title": "1728386212 - The network layer"
+                }
+              },
+              {
+                "id": "e11ba08d51ee141a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1730651695 - The Internet Protocol (IP).md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
                   },
-                  {
-                    "id": "bcc30b073edccbf8",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02-Atomic/1726049339 - Definition - Packet switches.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "1726049339 - Definition - Packet switches"
-                    }
-                  },
-                  {
-                    "id": "95448bf271b53a33",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02-Atomic/1730624725 - Router.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "1730624725 - Router"
-                    }
-                  }
-                ],
-                "currentTab": 4,
-                "stacked": true
+                  "icon": "lucide-file",
+                  "title": "1730651695 - The Internet Protocol (IP)"
+                }
               }
             ],
-            "direction": "horizontal"
+            "currentTab": 3,
+            "stacked": true
           },
           {
             "id": "6ff7eaf30bb7c36a",
             "type": "tabs",
-            "dimension": 45.93921275535625,
+            "dimension": 67.94616151545364,
             "children": [
               {
                 "id": "6382853dda7bb417",
@@ -135,6 +89,18 @@
                   },
                   "icon": "lucide-file-text",
                   "title": "Net_Biblio_Kurose"
+                }
+              },
+              {
+                "id": "e271759a1120532b",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "99-Meta/0. Attachments/IP Addressing and Routing Schemej-1.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "IP Addressing and Routing Schemej-1"
                 }
               }
             ]
@@ -156,7 +122,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02-Atomic/1730624725 - Router.md",
+                    "file": "00-References/Net_Biblio_Kurose.pdf",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -241,7 +207,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 1730624725 - Router"
+                  "title": "Graph of Net_Biblio_Kurose"
                 }
               }
             ]
@@ -256,10 +222,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "02-Atomic/1730624725 - Router.md"
+                    "file": "00-References/Net_Biblio_Kurose.pdf"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of 1730624725 - Router"
+                  "title": "Outline of Net_Biblio_Kurose"
                 }
               },
               {
@@ -303,19 +269,8 @@
                   "icon": "lucide-file",
                   "title": "Networks"
                 }
-              },
-              {
-                "id": "2abe5264d5120683",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {},
-                  "icon": "SpacedRepIcon",
-                  "title": "Notes Review Queue"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "d8523f2fbc4e9acf",
@@ -336,8 +291,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 395,
-        "collapsed": true
+        "width": 395
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -354,9 +308,283 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "95448bf271b53a33",
-      "mtime": "2024-11-03T10:48:31+01:00"
+      "floating": {
+        "id": "431491960504fa70",
+        "type": "floating",
+        "children": [
+          {
+            "id": "8d47fb69950d4f76",
+            "type": "window",
+            "children": [
+              {
+                "id": "36a5a3506ee19bc1",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "a0a363e4f7797d2a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {},
+                      "icon": "lucide-file",
+                      "title": "New tab"
+                    }
+                  },
+                  {
+                    "id": "efb5edaf05e1485c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02-Atomic/1730716899 - Practica - IP addressing.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "1730716899 - Practica - IP addressing"
+                    }
+                  }
+                ],
+                "currentTab": 1
+              }
+            ],
+            "direction": "vertical",
+            "x": 6,
+            "y": 6,
+            "width": 1428,
+            "height": 888,
+            "maximize": false,
+            "zoom": -2.5
+          }
+        ]
+      },
+      "active": "6382853dda7bb417",
+      "mtime": "2024-11-05T17:34:29+01:00"
+    },
+    "Recall": {
+      "main": {
+        "id": "17d7a5216cd24ae3",
+        "type": "split",
+        "children": [
+          {
+            "id": "f6d62f57fa6cb6a4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ffe7b69e618fd24a",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "145a221e0e2d66f9",
+        "type": "split",
+        "children": [
+          {
+            "id": "662098e0d908b3e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "36d1a43796975b90",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "01-Areas/1.UC3M/Networks.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#incomplete  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16711680
+                          }
+                        },
+                        {
+                          "query": "tag:#DiffCalc  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 8537055
+                          }
+                        },
+                        {
+                          "query": "tag:#Networks",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11392604
+                          }
+                        },
+                        {
+                          "query": "tag:#Discrete  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084188
+                          }
+                        },
+                        {
+                          "query": "tag:#Cripto",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084269
+                          }
+                        },
+                        {
+                          "query": "tag:#Heuri  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6073814
+                          }
+                        },
+                        {
+                          "query": "tag:#Empresa  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16775199
+                          }
+                        },
+                        {
+                          "query": "tag:#CalcI  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 2.79537653688525,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.0242737249838606,
+                      "repelStrength": 15.3311814073596,
+                      "linkStrength": 0.47411233053583,
+                      "linkDistance": 52,
+                      "scale": 0.09229580869883151,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Networks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f340046a713a91df",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1223c0f85c541969",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "01-Areas/1.UC3M/Networks.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Networks"
+                }
+              },
+              {
+                "id": "b89f836cb1d8a8cd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 246
+      },
+      "right": {
+        "id": "8881aa8c79e29157",
+        "type": "split",
+        "children": [
+          {
+            "id": "5997a5c0c99a8696",
+            "type": "tabs",
+            "dimension": 63.45609065155807,
+            "children": [
+              {
+                "id": "90205c8666b47457",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Notes Review Queue"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d8523f2fbc4e9acf",
+            "type": "tabs",
+            "dimension": 36.54390934844192,
+            "children": [
+              {
+                "id": "1087055cabadd75b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "janitor:Janitor: scan vault": false,
+          "zk-prefixer:Create new unique note": true,
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-spaced-repetition:Review flashcards": true,
+          "templater-obsidian:Templater": true,
+          "omnisearch:Omnisearch": false,
+          "graph:Open graph view": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "ffe7b69e618fd24a",
+      "mtime": "2024-11-05T17:32:35+01:00"
     }
   },
-  "active": "Main"
+  "active": "Recall"
 }
