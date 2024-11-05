@@ -14573,6 +14573,7 @@ rmcJ
 rTBy
 rCpt
 rIuM
+resoluciones
 References
 Resoluci
 Rectas
@@ -23824,6 +23825,7 @@ highway
 hIjl
 hUd
 hBz
+herramienta
 Es
 Este
 Ejemplos
@@ -26678,6 +26680,7 @@ vrL
 vyDG
 vKAJ
 vibY
+visualizar
 no
 nuestras
 ndar
@@ -40413,6 +40416,7 @@ HNSL
 HnL
 HIj
 HVq
+HERRAMIENTAS
 TODOS
 The
 Trabajo

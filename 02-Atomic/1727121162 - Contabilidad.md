@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-05
-sr-interval: 3
+sr-due: 2024-11-13
+sr-interval: 8
 sr-ease: 250
 ---
 # Contabilidad
@@ -20,7 +20,7 @@ sr-ease: 250
 Dividimos la contabilidad en dos ramas, según el tipo de análisis que realizan.
 **Remarks:** 
 + En cualquier caso, la terminología de la contabilidad es amplia y luego se usan abreviaturas para todo asi que hay aquí un 
-### Contabilidad financiera: 
+### ==Contabilidad financiera:== 
 + Útil para usuarios **externos y legales** 
 
 > [!NOTE] Definición: 
@@ -37,7 +37,7 @@ Dividimos la contabilidad en dos ramas, según el tipo de análisis que realizan
 > En examen entran mayoritariamente cuentas de **situación y de pérdidas y balanzas.** 
 > No hacer asientos contables. Se piden balances no asientos. Muchas veces se realizan asientos cuando no es lo que toca.
 
-### Contabilidad analítica: 
+### ==Contabilidad analítica:== 
 + Útil para los usuarios **internos → Le interesa a la propia empresa** 
 
 > [!NOTE] Definición:

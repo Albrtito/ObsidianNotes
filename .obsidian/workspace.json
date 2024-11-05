@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
+                "file": "02-Atomic/1726754186 - Criptosistemas modernos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1729682380 - El patrimonio neto de una empresa"
+              "title": "1726754186 - Criptosistemas modernos"
             }
           }
         ],
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
+                "file": "02-Atomic/1726754186 - Criptosistemas modernos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1729682380 - El patrimonio neto de una empresa"
+              "title": "Graph of 1726754186 - Criptosistemas modernos"
             }
           }
         ]
@@ -142,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1729682380 - El patrimonio neto de una empresa.md"
+                "file": "02-Atomic/1726754186 - Criptosistemas modernos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1729682380 - El patrimonio neto de una empresa"
+              "title": "Outline of 1726754186 - Criptosistemas modernos"
             }
           },
           {
@@ -225,6 +225,15 @@
   },
   "active": "ffe7b69e618fd24a",
   "lastOpenFiles": [
+    "02-Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
+    "02-Atomic/1727122369 - Estados contables.md",
+    "02-Atomic/1727270270 - Method - SIMPLEX.md",
+    "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
+    "02-Atomic/1727121162 - Contabilidad.md",
+    "02-Atomic/1729694840 - Estructura economico-financiera de la empresa.md",
+    "02-Atomic/1727105893 - La función financiera de la empresa.md",
+    "02-Atomic/1727709003 - Estrategias competitivas de la empresa.md",
+    "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
     "00-References/Net_Biblio_Kurose.pdf",
     "01-Areas/1.UC3M/Networks.md",
     "02-Atomic/1730716899 - Practica - IP addressing.md",
@@ -250,15 +259,7 @@
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 10.09.35 AM.png",
     "02-Atomic/1727187769 - Method - RDT With errors and loss.md",
     "02-Atomic/1729167814 - Resolucion de sistemas lineales.md",
-    "02-Atomic/1728390442 - IP Protocol.md",
-    "02-Atomic/1730567598 - Routing function of the network layer.md",
-    "02-Atomic/1728387775 - Best effort services.md",
     "99-Meta/0. Attachments/Screenshot 2024-11-02 at 6.41.17 PM.png",
-    "02-Atomic/1726572508 - The network stack.md",
-    "02-Atomic/1729681356 - El Pasivo de una empresa.md",
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
-    "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
-    "02-Atomic/1729598277 - Cuenta de resultados.md",
     "00-References/Heuri_Resources_Problemas.pdf",
     "99-Meta/0. Attachments/Criptoj-6.png",
     "99-Meta/0. Attachments/Criptoj-5.png",

@@ -8,20 +8,20 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-05
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-11-07
+sr-interval: 2
+sr-ease: 230
 ---
 # El patrimonio neto de una empresa
 
 > [!NOTE] Definición: 
-> El patrimonio neto de la empresa es el **capital que la empresa posee** ya sea como resultado de las ganancias de sus años de funcionamiento o reservas propias. 
+> El patrimonio neto de la empresa es el **==capital que la empresa posee==** ya sea como resultado de las ganancias de sus años de funcionamiento o reservas propias. 
 
 + Lo que ha ido ganando la empresa, los **fondos propios de la empresa**
 
 Se tendrá en cuenta como patrimonio neto:
-+ capital
-+ Reservas 
-+ Resultado de ejercicios anteriores 
++ ==capital==
++ ==Reservas== 
++ ==Resultado de ejercicios anteriores== 
 
 ***
