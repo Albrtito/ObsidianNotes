@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-05
-sr-interval: 3
+sr-due: 2024-11-12
+sr-interval: 7
 sr-ease: 250
 ---
 # Asientos contables
@@ -27,7 +27,22 @@ sr-ease: 250
 	+ **Disminuyen** con el **DEBE**
 
 + **IMPORTANTE:** Todos los movimientos que se apuntan en asientos contables han de tener su **contrapartida**. 
-  Para cada movimiento que se apunta en el haber se debe de apuntar su efecto en el debe y viceversa. 
+  Para cada movimiento que se apunta en el haber se debe de apuntar su efecto en el debe y viceversa.
+
+> [!IDEA] Explicado de otra forma:
+> Los asientos contables es simplemente la empresa apuntando cada uno de los gastos. Como cuando quieres ver cuanto has gastando en el mes. Pero mientras que tu vas y dices 10 euros en la compra ellos tienen que hacerlo tecnicamente y organizado. Así que dicen: 
+> + He gastado(**debo**) (**yo**) 10 euros que le he pagado **a** la empresa que lleva el supermercado (**Mercadona**). Si lo ponemos en una tablita como se hace cada asiento tenemos:
+>   
+>   
+| DEBE             | HABER                    |
+| ---------------- | ------------------------ |
+| **Yo**: 10 euros | **a Mercadona** 10 euros |
+>  
+>  +  Aquí hemos creado el asiento de un pago, o dicho de otra forma, el aumento de un pasivo(un deber de pagar)
+
+
+
+
 ## Creación de asientos:
 A la hora de crear un asiento lo hacemos siempre siguiendo los siguientes pasos:
 1. **Qué es este asiento?** → Activo, pasivo

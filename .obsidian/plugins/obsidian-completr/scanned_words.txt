@@ -1695,6 +1695,7 @@ aiL
 anEO
 aYb
 aaYsp
+apuntando
 Creaci
 Crear
 Cuando
@@ -4934,6 +4935,8 @@ distinguuish
 dDq
 dWH
 dEsf
+dices
+debo
 modelos
 modelo
 maximizar
@@ -6530,6 +6533,7 @@ mAv
 mTG
 mpnHm
 mzM
+mes
 en
 ease
 es
@@ -9951,6 +9955,7 @@ prefixes
 pointed
 pZog
 pnYM
+pagado
 lineal
 la
 lo
@@ -12998,6 +13003,7 @@ today
 technically
 tlag
 txiQ
+tecnicamente
 review
 resolver
 realizar
@@ -25314,6 +25320,7 @@ ERN
 EKe
 EJeI
 EJI
+Explicado
 vital
 variables
 vez
@@ -26682,6 +26689,7 @@ vyDG
 vKAJ
 vibY
 visualizar
+vas
 no
 nuestras
 ndar
@@ -33700,6 +33708,7 @@ oeD
 oQD
 oWt
 ohapC
+organizado
 que
 queremos
 qD
@@ -43234,6 +43243,8 @@ gEfJ
 gdl
 gxP
 gvV
+gastando
+gastado
 Programaci
 Para
 Problema
@@ -48923,6 +48934,7 @@ MAE
 MTB
 MnG
 MTZ
+Mercadona
 Zivkovic
 Zo
 Zi
