@@ -6,7 +6,7 @@
       {
         "id": "3fba0475cebb59d0",
         "type": "tabs",
-        "dimension": 49.75186104218362,
+        "dimension": 71.712158808933,
         "children": [
           {
             "id": "fc5c4543203cc1ff",
@@ -97,15 +97,45 @@
               "icon": "lucide-file",
               "title": "1730827988 - Subnets"
             }
+          },
+          {
+            "id": "94cacf09255640fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-Meta/1. Templates/NoteTemplate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NoteTemplate"
+            }
+          },
+          {
+            "id": "368a5746e53218be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1730829910 - Some title.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1730829910 - Some title"
+            }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 7,
         "stacked": true
       },
       {
         "id": "6ff7eaf30bb7c36a",
         "type": "tabs",
-        "dimension": 50.24813895781638,
+        "dimension": 28.287841191067,
         "children": [
           {
             "id": "6382853dda7bb417",
@@ -138,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730827988 - Subnets.md",
+                "file": "02-Atomic/1730829910 - Some title.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,7 +253,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730827988 - Subnets"
+              "title": "Graph of 1730829910 - Some title"
             }
           }
         ]
@@ -238,10 +268,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730827988 - Subnets.md"
+                "file": "02-Atomic/1730829910 - Some title.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730827988 - Subnets"
+              "title": "Outline of 1730829910 - Some title"
             }
           },
           {
@@ -256,7 +286,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -324,11 +355,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "03cb95ef55f57c7a",
+  "active": "368a5746e53218be",
   "lastOpenFiles": [
+    "02-Atomic/1730829910 - Some title.md",
+    "99-Meta/1. Templates/NoteTemplate.md",
+    "Atomic/undefined.md",
+    "00-References/Net_Biblio_Kurose.pdf",
+    "Atomic",
     "02-Atomic/1730827988 - Subnets.md",
     "02-Atomic/1730826735 - IPv4 protocol.md",
-    "00-References/Net_Biblio_Kurose.pdf",
     "02-Atomic/1728386212 - The network layer.md",
     "02-Atomic/1730651695 - The Internet Protocol (IP).md",
     "01-Areas/1.UC3M/Networks.md",
@@ -350,9 +385,6 @@
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
     "02-Atomic/1727121162 - Contabilidad.md",
     "02-Atomic/1729694840 - Estructura economico-financiera de la empresa.md",
-    "02-Atomic/1727105893 - La función financiera de la empresa.md",
-    "02-Atomic/1727709003 - Estrategias competitivas de la empresa.md",
-    "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
     "99-Meta/0. Attachments/IP Addressing and Routing Schemej-1.png",
     "Addressing.pdf",
     "99-Meta/0. Attachments/IP Addressing and Routing Schemej.png",
@@ -371,7 +403,6 @@
     "00-References/SoftwareDev_Resources_Refactoring presentation.pdf",
     "00-References/SoftwareDev_Resources_GE3_Statement.pdf",
     "00-References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",
-    "00-References/SoftwareDev_Resources_GE2_Statement_Part1.pdf",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
