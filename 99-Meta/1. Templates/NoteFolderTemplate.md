@@ -1,5 +1,5 @@
 <%*
-// Prompt the user for a title
+// Prompt the user for a title to append
 let userTitle = await tp.system.prompt("Enter title");
 // Get the current file title
 let currentTitle = tp.file.title;
@@ -19,9 +19,8 @@ if (!app.vault.getAbstractFileByPath(selectedFolder)) {
   let newFolder = await app.vault.createFolder(selectedFolder);
 }
 
-
 // Move the file to the selected folder
-await tp.file.move(`${selectedFolder}/${tp.file.name}`);
+await tp.file.move(`${selectedFolder}/${newTitle}`);
 %>
 ---
 aliases:

@@ -1698,6 +1698,7 @@ aaYsp
 apuntando
 allows
 allFolders
+aliasMatch
 Creaci
 Crear
 Cuando
@@ -9967,6 +9968,7 @@ pZog
 pnYM
 pagado
 purpose
+push
 lineal
 la
 lo
@@ -13018,6 +13020,7 @@ txiQ
 tecnicamente
 tfile
 tfiles
+toLowerCase
 review
 resolver
 realizar
@@ -17886,6 +17889,7 @@ cVI
 chs
 coloca
 createFolder
+content
 sr
 se
 subproblemas
@@ -19595,6 +19599,7 @@ selectedFolder
 selected
 split
 suggester
+similarNotes
 interval
 importancia
 incorrecto
@@ -21200,6 +21205,7 @@ iOPn
 iryHsm
 identifier
 instanceof
+includes
 un
 una
 utiliza
@@ -33743,6 +33749,7 @@ oQD
 oWt
 ohapC
 organizado
+obsidian
 que
 queremos
 qD
@@ -43288,6 +43295,7 @@ getKeys
 getAbstractFileByPath
 getAbstractFilesByPath
 getAllFolders
+getMarkdownFiles
 Programaci
 Para
 Problema
@@ -53023,6 +53031,7 @@ bUXjt
 bDR
 begins
 billion
+basename
 Util
 Una
 UniZumo
@@ -63505,6 +63514,7 @@ NAA
 NEn
 NiCCPICC
 NATs
+Notice
 Xr
 XObject
 Xw
