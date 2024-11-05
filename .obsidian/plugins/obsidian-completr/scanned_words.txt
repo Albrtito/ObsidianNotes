@@ -3262,6 +3262,7 @@ Connections
 CnI
 CQEw
 CNH
+Collection
 de
 due
 dar
@@ -4938,6 +4939,9 @@ dWH
 dEsf
 dices
 debo
+deleted
+dotted
+decimal
 modelos
 modelo
 maximizar
@@ -8244,6 +8248,7 @@ erc
 ewJ
 exif
 efine
+existance
 programaci
 primer
 paso
@@ -14584,6 +14589,7 @@ rCpt
 rIuM
 resoluciones
 read
+rarely
 References
 Resoluci
 Rectas
@@ -19576,6 +19582,7 @@ srOAn
 sxq
 sections
 section
+self
 interval
 importancia
 incorrecto
@@ -32328,6 +32335,7 @@ fOI
 fln
 fCi
 fUy
+fields
 objetivo
 obtener
 of
@@ -37817,6 +37825,7 @@ Followed
 Features
 FgS
 FgB
+Fields
 Warshall
 Width
 We
@@ -52985,6 +52994,7 @@ bTN
 bUXjt
 bDR
 begins
+billion
 Util
 Una
 UniZumo
@@ -54315,6 +54325,7 @@ Ufe
 UJs
 Uku
 UNIQUE
+Usually
 QUE
 Que
 QE
@@ -56932,6 +56943,7 @@ Ordered
 Oys
 OJH
 Ohl
+Options
 ximo
 xrL
 xFQ
@@ -71236,6 +71248,7 @@ kGfs
 kSnE
 kOF
 kJd
+knowledge
 YUV
 YN
 Yt
