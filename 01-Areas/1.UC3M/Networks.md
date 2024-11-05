@@ -59,4 +59,5 @@ aliases:
 	+ [[1727255580 - Loss and delay in Networks|Loss and delay in Networks]]
 2. [[1726572508 - The network stack|Layers]]: The network stack is composed of different layers, each of them occupied of some aspects of the whole process. Each of this layers is covered in this note. **This note is the MOC of basicaly everything there is about networks**
 
-
+## Prácticas:
++ [[1730716899 - Practica - IP addressing|Practica - IP Addressing]]
