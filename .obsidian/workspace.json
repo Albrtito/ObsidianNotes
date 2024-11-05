@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726754186 - Criptosistemas modernos.md",
+                "file": "02-Atomic/1729692495 - Asientos contables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726754186 - Criptosistemas modernos"
+              "title": "1729692495 - Asientos contables"
             }
           }
         ],
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1726754186 - Criptosistemas modernos.md",
+                "file": "02-Atomic/1729692495 - Asientos contables.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1726754186 - Criptosistemas modernos"
+              "title": "Graph of 1729692495 - Asientos contables"
             }
           }
         ]
@@ -142,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1726754186 - Criptosistemas modernos.md"
+                "file": "02-Atomic/1729692495 - Asientos contables.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1726754186 - Criptosistemas modernos"
+              "title": "Outline of 1729692495 - Asientos contables"
             }
           },
           {
@@ -225,6 +225,14 @@
   },
   "active": "ffe7b69e618fd24a",
   "lastOpenFiles": [
+    "02-Atomic/1729598149 - Balance de situacion.md",
+    "02-Atomic/1729598277 - Cuenta de resultados.md",
+    "Screenshot 2024-10-23 at 1.44.04 PM.png.md",
+    "02-Atomic/1729681337 - El Activo de una empresa.md",
+    "02-Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
+    "02-Atomic/1729684964 - El BAIT,BAT y BN.md",
+    "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
+    "02-Atomic/1726754186 - Criptosistemas modernos.md",
     "02-Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
     "02-Atomic/1727122369 - Estados contables.md",
     "02-Atomic/1727270270 - Method - SIMPLEX.md",
@@ -248,17 +256,9 @@
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",
     "02-Atomic/1728386212 - The network layer.md",
     "02-Atomic/1730567584 - Forwarding function of the network layer.md",
-    "02-Atomic/1730624725 - Router.md",
-    "02-Atomic/1730650392 - Types of switching fabrics.md",
-    "02-Atomic/1730651054 - Router packet scheduling methods.md",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.17.05 PM.png",
-    "02-Atomic/1730648938 - Input port processing in routers.md",
-    "02-Atomic/1730567097 - The network layer control plane.md",
-    "02-Atomic/1726049339 - Definition - Packet switches.md",
     "99-Meta/0. Attachments/1730624725 - Routerj.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 10.09.35 AM.png",
-    "02-Atomic/1727187769 - Method - RDT With errors and loss.md",
-    "02-Atomic/1729167814 - Resolucion de sistemas lineales.md",
     "99-Meta/0. Attachments/Screenshot 2024-11-02 at 6.41.17 PM.png",
     "00-References/Heuri_Resources_Problemas.pdf",
     "99-Meta/0. Attachments/Criptoj-6.png",

@@ -2,13 +2,10 @@
 aliases:
   - Ejemplos SIMPLEX
 tags:
-  - review
   - Heuri
+  - incomplete
 References: 
 cssclasses:
-sr-due: 2024-11-04
-sr-interval: 2
-sr-ease: 190
 ---
 # Ejemplos SIMPLEX
 ## Ejemplo clase magistral:

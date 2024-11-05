@@ -7,24 +7,24 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-05
-sr-interval: 3
+sr-due: 2024-11-15
+sr-interval: 10
 sr-ease: 250
 ---
 # Cuenta de resultados
 
 > [!NOTE] Definición: 
 > Información con ingresos y gastos en el ejercicio económico. Refleja si se ha perdido o ganado dinero => **Sale positiva o negativa** 
-+ Se realiza **al final de cada año**
++ ==Se realiza **al final de cada año**==
 
 **Remarks:**
-+ Se ha de realizar **antes que el balance de situación**
++ ==Se ha de realizar **antes que el balance de situación**==
 ## Ingresos y Gastos:
 Lo primero que hemos de hacer es definir que es lo que veremos como ingreso y lo que veremos como gasto:
 
 **Ingresos:**
 + Venta de productos
-+ Prestación de servicios
++ ==Prestación de servicios==
 + Ingresos financieros
 
 **Gastos:** 
@@ -43,7 +43,7 @@ Podemos ver como y cuando afecta cada uno de estos gastos en la siguiente gráfi
 
 + En el curso de Empresa en la UC3M nos enfocaremos en **los tres últimos escalones**, en [[1729684964 - El BAIT,BAT y BN|El BAIT,BAT y BN]]. 
 
-+ Para llegar a estos tres últimos escalones hemos de haber obtenido **ya el beneficio bruto después de restarle a los ingresos los gastos.**
++ Para llegar a estos tres últimos escalones hemos de haber obtenido **ya el beneficio bruto(BAIT) después de restarle a los ingresos los gastos.**
 
 + Si también restamos los dividentos obtendremos las **reservas o BENEFICIOS RETENIOS**
 ***

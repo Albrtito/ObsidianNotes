@@ -6,9 +6,9 @@ tags:
   - Heuri
 References: 
 cssclasses:
-sr-due: 2024-11-04
-sr-interval: 2
-sr-ease: 213
+sr-due: 2024-11-06
+sr-interval: 1
+sr-ease: 193
 ---
 # Expresiones condicionales en programación lineal
 

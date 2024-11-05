@@ -6,14 +6,14 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-11-04
-sr-interval: 13
+sr-due: 2024-12-11
+sr-interval: 36
 sr-ease: 263
 ---
 # Criptosistemas modernos
 
 > [!NOTE] Intro
-> Los criptosistemas modernos no se basan únicamente en la transposición y sustitución del mensaje sino que aplican ambos métodos al mismo tiempo junto a operaciones lógicas como el XOR.
+> Los criptosistemas modernos no se basan únicamente en la transposición y sustitución del mensaje sino que aplican ambos métodos al mismo tiempo junto a operaciones ==lógicas como el XOR.==
 
 Dividimos los criptosistemas modernosen sistemas simétricos y asimétricos según el número de claves que utilicen.[^1] 
 
@@ -23,5 +23,6 @@ Dividimos los criptosistemas modernosen sistemas simétricos y asimétricos seg�
 + [[1726493246 - Algorithm - AES|AES]]
 
 **Asimétricos:**
++ RSA
 ***
 [^1]: [[1726520589 - Definition - Criptosistema#Sistemas simétricos y asimétricos|Simétricos y asimétricos]]
