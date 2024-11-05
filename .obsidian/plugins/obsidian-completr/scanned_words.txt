@@ -1696,6 +1696,7 @@ anEO
 aYb
 aaYsp
 apuntando
+allows
 Creaci
 Crear
 Cuando
@@ -8242,6 +8243,7 @@ eybY
 erc
 ewJ
 exif
+efine
 programaci
 primer
 paso
@@ -9956,6 +9958,7 @@ pointed
 pZog
 pnYM
 pagado
+purpose
 lineal
 la
 lo
@@ -14580,6 +14583,7 @@ rTBy
 rCpt
 rIuM
 resoluciones
+read
 References
 Resoluci
 Rectas
@@ -19570,6 +19574,8 @@ sized
 subnets
 srOAn
 sxq
+sections
+section
 interval
 importancia
 incorrecto
@@ -21173,6 +21179,7 @@ iTXtXML
 iDOT
 iOPn
 iryHsm
+identifier
 un
 una
 utiliza
@@ -30838,6 +30845,7 @@ DEh
 DpHr
 DZY
 DXmf
+Differntiate
 funci
 fibonacci
 fica
@@ -40427,6 +40435,7 @@ HnL
 HIj
 HVq
 HERRAMIENTAS
+Hader
 TODOS
 The
 Trabajo
@@ -52975,6 +52984,7 @@ bhL
 bTN
 bUXjt
 bDR
+begins
 Util
 Una
 UniZumo
