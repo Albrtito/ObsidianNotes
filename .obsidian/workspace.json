@@ -114,22 +114,37 @@
             }
           },
           {
-            "id": "368a5746e53218be",
+            "id": "a7279303859e4702",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1730829910 - Some title.md",
+                "file": "99-Meta/1. Templates/Template2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1730829910 - Some title"
+              "title": "Template2"
+            }
+          },
+          {
+            "id": "d2f8ed690a536432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1730830494 - Testing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1730830494 - Testing"
             }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 8,
         "stacked": true
       },
       {
@@ -168,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730829910 - Some title.md",
+                "file": "02-Atomic/1730830494 - Testing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,7 +268,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730829910 - Some title"
+              "title": "Graph of 1730830494 - Testing"
             }
           }
         ]
@@ -268,10 +283,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730829910 - Some title.md"
+                "file": "02-Atomic/1730830494 - Testing.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730829910 - Some title"
+              "title": "Outline of 1730830494 - Testing"
             }
           },
           {
@@ -355,11 +370,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "368a5746e53218be",
+  "active": "d2f8ed690a536432",
   "lastOpenFiles": [
-    "02-Atomic/1730829910 - Some title.md",
+    "02-Atomic/1730830494 - Testing.md",
+    "99-Meta/1. Templates/Template2.md",
+    "02-Atomic/1730830443 - Testing.md",
+    "02-Atomic/1730830408 - Testing.md",
+    "02-Atomic/1730830353 - TEsting.md",
     "99-Meta/1. Templates/NoteTemplate.md",
+    "02-Atomic/1730830188 - Some title.md",
     "Atomic/undefined.md",
+    "02-Atomic/1730830120 - Some title.md",
+    "02-Atomic/1730830026 - Some title.md",
+    "Atomic/2/undefined.md",
+    "Atomic/2",
     "00-References/Net_Biblio_Kurose.pdf",
     "Atomic",
     "02-Atomic/1730827988 - Subnets.md",
@@ -377,14 +401,6 @@
     "02-Atomic/1729681337 - El Activo de una empresa.md",
     "02-Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
     "02-Atomic/1729684964 - El BAIT,BAT y BN.md",
-    "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
-    "02-Atomic/1726754186 - Criptosistemas modernos.md",
-    "02-Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
-    "02-Atomic/1727122369 - Estados contables.md",
-    "02-Atomic/1727270270 - Method - SIMPLEX.md",
-    "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
-    "02-Atomic/1727121162 - Contabilidad.md",
-    "02-Atomic/1729694840 - Estructura economico-financiera de la empresa.md",
     "99-Meta/0. Attachments/IP Addressing and Routing Schemej-1.png",
     "Addressing.pdf",
     "99-Meta/0. Attachments/IP Addressing and Routing Schemej.png",
@@ -402,7 +418,6 @@
     "00-References/SoftwareEng_Ch 3_Theory_ArchitecturealModelling.pdf",
     "00-References/SoftwareDev_Resources_Refactoring presentation.pdf",
     "00-References/SoftwareDev_Resources_GE3_Statement.pdf",
-    "00-References/SoftwareDev_Resources_GE2_Statement_Part2.pdf",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
