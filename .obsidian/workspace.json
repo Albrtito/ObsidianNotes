@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 4,
         "stacked": true
       },
       {
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730832772 - CIDR Notation.md",
+                "file": "02-Atomic/1730826735 - IPv4 protocol.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,7 +238,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730832772 - CIDR Notation"
+              "title": "Graph of 1730826735 - IPv4 protocol"
             }
           }
         ]
@@ -323,8 +323,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -341,14 +340,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8d3debae8558dfbe",
+  "active": "d69771e6620a17b2",
   "lastOpenFiles": [
-    "02-Atomic/1730827988 - Subnets.md",
+    "00-References/Net_Biblio_Kurose.pdf",
+    "02-Atomic/1730567584 - Forwarding function of the network layer.md",
     "02-Atomic/1730832772 - CIDR Notation.md",
+    "02-Atomic/1726572508 - The network stack.md",
+    "02-Atomic/1730827988 - Subnets.md",
     "02-Atomic/1730651695 - The Internet Protocol (IP).md",
     "02-Atomic/1730826735 - IPv4 protocol.md",
     "99-Meta/0. Attachments/1730827988 - Subnetsj.png",
-    "00-References/Net_Biblio_Kurose.pdf",
     "99-Meta/1. Templates/NoteTemplate.md",
     "02-Atomic/1730832318 - Somenote.md",
     "02-Atomic/1730832308 - Somenote.md",
@@ -362,14 +363,12 @@
     "02-Atomic/undefined.md",
     "02-Atomic/1730831571 -.md",
     "02-Atomic/1730567078 - The network layer data plane.md",
-    "02-Atomic/1730567584 - Forwarding function of the network layer.md",
     "01-Areas/1.UC3M/undefined.md",
     "Atomic/2/undefined.md",
     "02-Atomic/1730831160 -.md",
     "02-Atomic/1730831108 -.md",
     "02-Atomic/1730831043 -.md",
     "02-Atomic/1730830919 -.md",
-    "02-Atomic/1730830494 - Testing.md",
     "Atomic/2",
     "Atomic",
     "99-Meta/0. Attachments/IP Addressing and Routing Schemej-1.png",

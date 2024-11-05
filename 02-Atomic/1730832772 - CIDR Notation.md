@@ -25,5 +25,19 @@ However, because we study computer science and life could not make things easier
 > In the previous example we could say that the first 24 bits are the ones that define the group as they never change. Then we write:
 > $$ 192.34.23.0/24$$
 
-Finally 
+**REMARK :** This idea of “groups of addresses” is known as [[1730827988 - Subnets|Subnets]]
+
+Finally we can give a formal definition to this notatoin:
+
+> [!NOTE] Definition:
+> CIDR generalizes the notion of subnet addressing. The 32 IP address is divided into two parts in the form:
+> $$a.b.c.d/x$$
+> 
+> + Where x indicates the number of bits in the first part of the address.
+> + THe first part $a.b.c$ constitute the **network portion** and is known as **netork prefix** of the address
+
+**Remarks:**
++ Usually organisations will have some base prefix and then create subnets from that.
++ Routers use this notion of prefixes to optimize routing algorithms and write in this form into the routing tables.
+
 ***
