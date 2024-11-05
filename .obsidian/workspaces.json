@@ -552,6 +552,239 @@
       },
       "active": "ffe7b69e618fd24a",
       "mtime": "2024-11-05T17:32:35+01:00"
+    },
+    "Config": {
+      "main": {
+        "id": "17d7a5216cd24ae3",
+        "type": "split",
+        "children": [
+          {
+            "id": "033cde289ce9d6f5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6382853dda7bb417",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "99-Meta/1. Templates/NoteTemplate.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "NoteTemplate"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "145a221e0e2d66f9",
+        "type": "split",
+        "children": [
+          {
+            "id": "662098e0d908b3e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "36d1a43796975b90",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "99-Meta/1. Templates/NoteTemplate.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#incomplete  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16711680
+                          }
+                        },
+                        {
+                          "query": "tag:#DiffCalc  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 8537055
+                          }
+                        },
+                        {
+                          "query": "tag:#Networks",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11392604
+                          }
+                        },
+                        {
+                          "query": "tag:#Discrete  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084188
+                          }
+                        },
+                        {
+                          "query": "tag:#Cripto",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084269
+                          }
+                        },
+                        {
+                          "query": "tag:#Heuri  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6073814
+                          }
+                        },
+                        {
+                          "query": "tag:#Empresa  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16775199
+                          }
+                        },
+                        {
+                          "query": "tag:#CalcI  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 2.79537653688525,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.0242737249838606,
+                      "repelStrength": 15.3311814073596,
+                      "linkStrength": 0.47411233053583,
+                      "linkDistance": 52,
+                      "scale": 0.09229580869883151,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of NoteTemplate"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f340046a713a91df",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1223c0f85c541969",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "99-Meta/1. Templates/NoteTemplate.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of NoteTemplate"
+                }
+              },
+              {
+                "id": "b89f836cb1d8a8cd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 246
+      },
+      "right": {
+        "id": "8881aa8c79e29157",
+        "type": "split",
+        "children": [
+          {
+            "id": "5997a5c0c99a8696",
+            "type": "tabs",
+            "dimension": 63.45609065155807,
+            "children": [
+              {
+                "id": "2dca472e18c0e06a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1728386212 - The network layer.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1728386212 - The network layer"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d8523f2fbc4e9acf",
+            "type": "tabs",
+            "dimension": 36.54390934844192,
+            "children": [
+              {
+                "id": "1087055cabadd75b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "janitor:Janitor: scan vault": false,
+          "zk-prefixer:Create new unique note": true,
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-spaced-repetition:Review flashcards": true,
+          "templater-obsidian:Templater": true,
+          "omnisearch:Omnisearch": false,
+          "graph:Open graph view": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "6382853dda7bb417",
+      "mtime": "2024-11-05T19:45:41+01:00"
     }
   },
   "active": "Main"
