@@ -4943,6 +4943,7 @@ debo
 deleted
 dotted
 decimal
+doesn
 modelos
 modelo
 maximizar
@@ -8250,6 +8251,7 @@ ewJ
 exif
 efine
 existance
+exceptions
 programaci
 primer
 paso
@@ -13015,6 +13017,7 @@ tlag
 txiQ
 tecnicamente
 tfile
+tfiles
 review
 resolver
 realizar
@@ -17882,6 +17885,7 @@ configured
 cVI
 chs
 coloca
+createFolder
 sr
 se
 subproblemas
@@ -28069,6 +28073,7 @@ netwok
 nowadays
 nrAm
 noR
+newFolder
 Identificar
 Intro
 Identificaci
@@ -43282,6 +43287,7 @@ getfolders
 getKeys
 getAbstractFileByPath
 getAbstractFilesByPath
+getAllFolders
 Programaci
 Para
 Problema
@@ -63498,6 +63504,7 @@ Networking
 NAA
 NEn
 NiCCPICC
+NATs
 Xr
 XObject
 Xw

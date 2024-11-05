@@ -8,7 +8,7 @@
           {
             "id": "3fba0475cebb59d0",
             "type": "tabs",
-            "dimension": 32.05383848454636,
+            "dimension": 71.712158808933,
             "children": [
               {
                 "id": "fc5c4543203cc1ff",
@@ -69,15 +69,45 @@
                   "icon": "lucide-file",
                   "title": "1730651695 - The Internet Protocol (IP)"
                 }
+              },
+              {
+                "id": "d69771e6620a17b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1730826735 - IPv4 protocol.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1730826735 - IPv4 protocol"
+                }
+              },
+              {
+                "id": "03cb95ef55f57c7a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1730827988 - Subnets.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1730827988 - Subnets"
+                }
               }
             ],
-            "currentTab": 3,
+            "currentTab": 5,
             "stacked": true
           },
           {
             "id": "6ff7eaf30bb7c36a",
             "type": "tabs",
-            "dimension": 67.94616151545364,
+            "dimension": 28.287841191067,
             "children": [
               {
                 "id": "6382853dda7bb417",
@@ -89,18 +119,6 @@
                   },
                   "icon": "lucide-file-text",
                   "title": "Net_Biblio_Kurose"
-                }
-              },
-              {
-                "id": "e271759a1120532b",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "99-Meta/0. Attachments/IP Addressing and Routing Schemej-1.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "IP Addressing and Routing Schemej-1"
                 }
               }
             ]
@@ -122,7 +140,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "00-References/Net_Biblio_Kurose.pdf",
+                    "file": "02-Atomic/1730827988 - Subnets.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -207,7 +225,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Net_Biblio_Kurose"
+                  "title": "Graph of 1730827988 - Subnets"
                 }
               }
             ]
@@ -222,10 +240,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "00-References/Net_Biblio_Kurose.pdf"
+                    "file": "02-Atomic/1730827988 - Subnets.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Net_Biblio_Kurose"
+                  "title": "Outline of 1730827988 - Subnets"
                 }
               },
               {
@@ -240,7 +258,8 @@
                   "title": "Files"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
@@ -261,13 +280,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01-Areas/1.UC3M/Networks.md",
+                    "file": "02-Atomic/1728386212 - The network layer.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Networks"
+                  "title": "1728386212 - The network layer"
                 }
               }
             ]
@@ -308,8 +327,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "6382853dda7bb417",
-      "mtime": "2024-11-05T18:05:26+01:00"
+      "active": "03cb95ef55f57c7a",
+      "mtime": "2024-11-05T19:31:10+01:00"
     },
     "Recall": {
       "main": {
