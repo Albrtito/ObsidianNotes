@@ -84,6 +84,18 @@
             }
           },
           {
+            "id": "99fd82e80745a879",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "03cb95ef55f57c7a",
             "type": "leaf",
             "state": {
@@ -114,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       },
       {
@@ -240,6 +252,33 @@
               "icon": "lucide-git-fork",
               "title": "Graph of 1730826735 - IPv4 protocol"
             }
+          },
+          {
+            "id": "719d31cc5ac9b490",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f6e57272b1c6dc6a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       },
@@ -301,8 +340,65 @@
               "icon": "lucide-file",
               "title": "1728386212 - The network layer"
             }
+          },
+          {
+            "id": "63905ec09e86c02f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Atomic/1730826735 - IPv4 protocol.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1730826735 - IPv4 protocol"
+            }
+          },
+          {
+            "id": "5fb0585cc22edfe5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-Atomic/1730826735 - IPv4 protocol.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1730826735 - IPv4 protocol"
+            }
+          },
+          {
+            "id": "be76a2984aec45ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c1f44393674cd7ac",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -340,7 +436,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d69771e6620a17b2",
+  "active": "c1f44393674cd7ac",
   "lastOpenFiles": [
     "00-References/Net_Biblio_Kurose.pdf",
     "02-Atomic/1730567584 - Forwarding function of the network layer.md",
