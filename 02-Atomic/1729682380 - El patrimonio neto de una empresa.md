@@ -8,8 +8,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-07
-sr-interval: 2
+sr-due: 2024-11-11
+sr-interval: 4
 sr-ease: 230
 ---
 # El patrimonio neto de una empresa
@@ -21,7 +21,7 @@ sr-ease: 230
 
 Se tendrá en cuenta como patrimonio neto:
 + ==capital==
-+ ==Reservas== 
-+ ==Resultado de ejercicios anteriores== 
++ Reservas 
++ Resultado de ejercicios anteriores 
 
 ***

@@ -43,6 +43,7 @@ aliases:
 ## Notas: 
 + [[1726825216 - Programación Dinámica|Programación Dinámica]]
 + [[1726759457 - Programación Lineal|Programación Lineal]]
++ [[1730992171 - Satisfabilidad logica|Satisfabilidad logica]]
 
 ## Ejercicios: 
 + [[1726763938 - Exercises - Programación Lineal|Ejercicios programación lineal]]

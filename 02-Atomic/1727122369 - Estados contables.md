@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-07
-sr-interval: 2
+sr-due: 2024-11-12
+sr-interval: 5
 sr-ease: 230
 ---
 # Estados contables
@@ -24,7 +24,7 @@ sr-ease: 230
 
 **[[1729598277 - Cuenta de resultados|Cuenta de resultados]]**
 > [!NOTE] Definición: 
-> Información con ingresos y gastos en el ejercicio económico. ==Refleja si se ha perdido o ganado dinero => **Sale positiva o negativa**== 
+> Información con ingresos y gastos en el ejercicio económico. Refleja si se ha perdido o ganado dinero => **Sale positiva o negativa** 
 
 
 **[[1729692495 - Asientos contables|Asientos contables]]:**
