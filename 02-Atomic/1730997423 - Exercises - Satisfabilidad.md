@@ -10,7 +10,7 @@ cssclasses:
 ---
 # Ejercicios de Satisfabilidad
 ## Ejemplos en clase:
-### CSP:
+### CSP(Alumnos):
 
 > [!NOTE] Enunciado:
 > Seis alumnos:
@@ -66,4 +66,5 @@ $$
 
 4. Todas las partes asignadas:
    $$ Partes = \cup_{i \in Alumnos} x_i$$
-***
+
+### CSP (Reinas)

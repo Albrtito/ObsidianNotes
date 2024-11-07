@@ -36,19 +36,9 @@
               "icon": "lucide-file",
               "title": "1730997423 - Exercises - Satisfabilidad"
             }
-          },
-          {
-            "id": "795d044ab349ae3a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       },
       {
@@ -102,6 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/1730997423 - Exercises - Satisfabilidad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,7 +184,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1730997423 - Exercises - Satisfabilidad"
             }
           }
         ]
@@ -296,7 +287,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "795d044ab349ae3a",
+  "active": "80dac780ba39d003",
   "lastOpenFiles": [
     "02-Atomic/1730997423 - Exercises - Satisfabilidad.md",
     "02-Atomic/1730996237 - Segunda practia heuristica.md",

@@ -1886,6 +1886,10 @@ assign
 axioms
 alumnos
 acabe
+asigna
+actuen
+aplicando
+asignadas
 Creaci
 Crear
 Cuando
@@ -5519,6 +5523,7 @@ deducing
 deduction
 documento
 decidir
+distinta
 modelos
 modelo
 maximizar
@@ -7324,6 +7329,7 @@ mkpR
 mmE
 maintained
 meaning
+modelada
 en
 ease
 es
@@ -9226,6 +9232,8 @@ eTUd
 eYm
 eaT
 existential
+enunciado
+explicitamente
 programaci
 primer
 paso
@@ -41169,6 +41177,7 @@ Alphabet
 Axioms
 Arity
 Ademas
+ASUMIMOS
 Floyd
 Foundations
 Funci
@@ -47284,6 +47293,7 @@ TERM
 Their
 Transformation
 TRUE
+TRABAJAR
 grafo
 guardan
 global
@@ -50617,6 +50627,8 @@ Predicates
 Poliadic
 Previous
 Proving
+PARTE
+Parte
 Biblio
 BitsPerComponent
 BI
@@ -61533,6 +61545,8 @@ UTUZ
 UAINVL
 UDQSVF
 Universal
+UNICAMENTE
+UNA
 QUE
 Que
 QE
@@ -63075,6 +63089,7 @@ QuRn
 QGGe
 QZO
 Quantifiers
+QUIEREN
 Obtener
 Opti
 Objetivo
