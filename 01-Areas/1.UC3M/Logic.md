@@ -24,19 +24,6 @@ During this course well see the basics of propositional and predicate logic.
 This course has a set of mandatory submissions that students are rquired to hand off every 1 to 2 weeks, the following note contains all of them: 
 + [[1730994671 - Exercises - Logic Submissions|Exercises - Logic Submissions]]
 
-Some other exercises of the course:
-+ [[20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus|Exercises - Semantic theory in predicate calculus]]
-+ 
-[Logic_Submission1&2](../../02%20-%20Atomic/Logic_Submission1&2.md)
-[Logic_Submission3.1](../../02%20-%20Atomic/Logic_Submission3.1.md)
-[Logic_Submission3.2](../../02%20-%20Atomic/Logic_Submission3.2.md)
-[Logic_Submission4](../../02%20-%20Atomic/Logic_Submission4.md)
-[Logic_Submission5](../../02%20-%20Atomic/20240409%20-%20115536%20-Logic%20Set%205.md)
-[[20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus|Exercises - Semantic theory in predicate calculus]]
-[Logic_Submission 6.1](../../02%20-%20Atomic/20240418%20-%20150156%20-Logic_Submission%206.1.md)
-[[20240501 - 181254 - Exercises - Logic - PRENEX AND SKOLEM|Logic - Submission - 7.1]]
-[[]]
-
 
 
  

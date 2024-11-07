@@ -208,7 +208,7 @@
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.08803147916691996,
+                  "scale": 0.047595539761346686,
                   "close": true
                 }
               },
@@ -315,12 +315,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "13399303b4fce2f8",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
-    "02-Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
-    "01-Areas/1.UC3M/Logic.md",
-    "02-Atomic/1730994133 - Propositional logic.md",
     "02-Atomic/1730994671 - Exercises - Logic Submissions.md",
+    "02-Atomic/20240508 - 121916 - Exercises -  Logic_Submission 6.2.md",
+    "01-Areas/1.UC3M/Logic.md",
+    "02-Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
+    "02-Atomic/1730994133 - Propositional logic.md",
     "02-Atomic/1730994134 - Predicate Logic.md",
     "02-Atomic/20240523 - 122919 - Propositional logic.md",
     "00-References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
@@ -346,7 +347,6 @@
     "02-Atomic/1726520589 - Definition - Criptosistema.md",
     "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
     "02-Atomic/1726498694 - Definition - Criptografía.md",
-    "02-Atomic/1728037357 - DNS.md",
     "99-Meta/0. Attachments/1730827988 - Subnetsj.png",
     "Atomic/2",
     "Atomic",
