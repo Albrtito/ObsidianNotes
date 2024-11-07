@@ -2,9 +2,9 @@
 aliases:
   - Satisfacción de restricciones
 tags:
-  - review
   - Heuri
   - Logic
+  - incomplete
 References: 
 cssclasses:
 ---
