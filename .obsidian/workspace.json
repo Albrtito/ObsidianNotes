@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "1730997423 - Exercises - Satisfabilidad"
             }
+          },
+          {
+            "id": "795d044ab349ae3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       },
       {
@@ -92,7 +102,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730997423 - Exercises - Satisfabilidad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730997423 - Exercises - Satisfabilidad"
+              "title": "Graph view"
             }
           }
         ]
@@ -287,12 +296,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "80dac780ba39d003",
+  "active": "795d044ab349ae3a",
   "lastOpenFiles": [
+    "02-Atomic/1730997423 - Exercises - Satisfabilidad.md",
     "02-Atomic/1730996237 - Segunda practia heuristica.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1730303159 - Satisfacción de restricciones.md",
-    "02-Atomic/1730997423 - Exercises - Satisfabilidad.md",
     "01-Areas/1.UC3M/Logic.md",
     "02-Atomic/1730297192 - Satisfacibilidad Lógica.md",
     "02-Atomic/1730994134 - Predicate Logic.md",

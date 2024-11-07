@@ -27,6 +27,8 @@ cssclasses:
 > ¿Que parte deberıa hacer cada alumno? Reduce por arco consistencia y camino consistencia los dominios de las variables del problema y encuentra una solucion factible.
 >
 
++ **Para la solución modelada ASUMIMOS QUE TODOS QUIEREN TRABAJAR UNICAMENTE EN UNA PARTE**
+
 **Definición de conjuntos:**
 $$ Alumnos = \{J,M.A.Y.R.F\}$$
 **Definición de variables:** Se define una variable por alumno.
@@ -57,5 +59,11 @@ $$
    $$
    X_R \leq X_y
    $$
-   
+
+> [!attention] Remark: 
+> Debemos también de asegurarnos de aquellas **restricciones que el enunciado no dice explicitamente:** 
+> + En este caso debemos de asegurarnos de que hay al menos un alumno realizando cada una de las partes.
+
+4. Todas las partes asignadas:
+   $$ Partes = \cup_{i \in Alumnos} x_i$$
 ***
