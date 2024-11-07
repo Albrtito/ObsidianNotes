@@ -11148,6 +11148,7 @@ predicarte
 proving
 prove
 premises
+practia
 lineal
 la
 lo
@@ -21938,6 +21939,7 @@ student
 submissions
 semantically
 surely
+satisfability
 interval
 importancia
 incorrecto
