@@ -7,9 +7,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-11-07
-sr-interval: 38
-sr-ease: 270
+sr-due: 2025-03-30
+sr-interval: 143
+sr-ease: 290
 ---
 # Definition - Cooperativa
 
