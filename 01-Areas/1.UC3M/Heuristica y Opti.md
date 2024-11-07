@@ -38,7 +38,7 @@ aliases:
 - Novo Sanjurjo, Vicent J. . Teoría de la Optimización. Universidad Nacional de Educación a Distancia. 1999
 - Novo Sanjurjo, Vicente J.. Optimización: casos prácticos. Universidad Nacional de Educación a Distancia. 2000
 - Sixto Ríos Insua. Investigación Operativa. Optimización. Centro de estudios Ramón Areces. 1988
-
++ Marek V. Intro to logic mathematics of satisfability:[[HyO_Biblio_Marek V. Introduction to mathematics of satisfiability.pdf]]
 
 ## Notas: 
 + [[1726825216 - Programación Dinámica|Programación Dinámica]]

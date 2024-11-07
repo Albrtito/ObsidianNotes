@@ -2,19 +2,21 @@
 aliases: 
 tags:
   - Logic
-"References:":
-  - "[Logic_Resource_Theorems and Derived Rules Combined](../../00.References/Logic_Resource_Theorems%20and%20Derived%20Rules%20Combined.pdf)"
-cssclasses: 
+"References:": []
+cssclasses:
 ---
-# Intro to the course: 
-![Logic_Theory_Ch 0_Intro](../../02%20-%20Atomic/Logic_Theory_Ch%200_Intro.md)
-# Course program: 
-+ [20240523 - 122919 - Propositional logic](20240523%20-%20122919%20-%20Propositional%20logic.md)
+# Logic:
+During this course well see the basics of propositional and predicate logic. We’ll look at ways of prooving logical reasonings in both of them. 
+## Bibliography: 
++ J. Cuena. Lógica Informática. Alianza, 1985
++ Alfredo Deaño. Lógica Computacional. Alianza. 1978
+# Notes:
++ [[1730994133 - Propositional logic|Propositional logic]]
 + [Predicate Logic](../../02%20-%20Atomic/Predicate%20Logic.md)
 + [Semantic Theory](../../02%20-%20Atomic/20240411%20-%20110543%20-Semantic%20Theory.md)
 + [Normal forms and resolution](../../02%20-%20Atomic/20240501%20-%20154905%20-%20Normal%20forms%20and%20resolution.md) 
 
-## Submission sets:
+## Exercises:
 [Logic_Submission1&2](../../02%20-%20Atomic/Logic_Submission1&2.md)
 [Logic_Submission3.1](../../02%20-%20Atomic/Logic_Submission3.1.md)
 [Logic_Submission3.2](../../02%20-%20Atomic/Logic_Submission3.2.md)

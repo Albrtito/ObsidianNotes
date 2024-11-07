@@ -52,7 +52,7 @@ $$
 	\exists x P(x,b,c)
 $$
 ### Syntactically correct formulas: 
-![Screenshot 2024-04-09 at 12.58.02](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-09%20at%2012.58.02.png)
+![[Screenshot 2024-04-09 at 12.58.02]]
 ### Connectives
 Same connectives as in [20240523 - 122919 - Propositional logic](20240523%20-%20122919%20-%20Propositional%20logic.md) are defined. Their hierarchy is also maintained.
 
