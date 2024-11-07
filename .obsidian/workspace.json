@@ -42,8 +42,21 @@
               "icon": "lucide-file",
               "title": "1730303159 - Satisfacción de restricciones"
             }
+          },
+          {
+            "id": "0913f03daf0055e0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/HyO_Biblio_Hamdy.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "HyO_Biblio_Hamdy"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730297192 - Satisfacibilidad Lógica.md",
+                "file": "00-References/HyO_Biblio_Hamdy.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +160,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730297192 - Satisfacibilidad Lógica"
+              "title": "Graph of HyO_Biblio_Hamdy"
             }
           }
         ]
@@ -249,11 +262,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8a354a9a9b2861dc",
+  "active": "0913f03daf0055e0",
   "lastOpenFiles": [
-    "02-Atomic/1730303159 - Satisfacción de restricciones.md",
-    "02-Atomic/1730297192 - Satisfacibilidad Lógica.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
+    "02-Atomic/1730303159 - Satisfacción de restricciones.md",
+    "00-References/HyO_Biblio_Hamdy.pdf",
+    "02-Atomic/1730297192 - Satisfacibilidad Lógica.md",
     "1730903400 - Problema de las n reinas.md",
     "00-References/Net_Biblio_Kurose.pdf",
     "02-Atomic/1730992171 - Satisfabilidad logica.md",
@@ -278,7 +292,6 @@
     "99-Meta/1. Templates/NoteTemplate.md",
     "02-Atomic/1730832318 - Somenote.md",
     "02-Atomic/1730832308 - Somenote.md",
-    "99-Meta/1. Templates/NoteFolderTemplate.md",
     "Atomic/2",
     "Atomic",
     "99-Meta/0. Attachments/IP Addressing and Routing Schemej-1.png",
@@ -296,7 +309,6 @@
     "00-References/UC3M_Resources_Calendario2425.pdf",
     "00-References/SoftwareEng_Ch 3_Theory_ArchitecturealModelling.pdf",
     "00-References/SoftwareDev_Resources_Refactoring presentation.pdf",
-    "00-References/SoftwareDev_Resources_GE3_Statement.pdf",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
