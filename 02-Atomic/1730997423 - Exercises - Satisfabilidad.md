@@ -27,7 +27,35 @@ cssclasses:
 > ¿Que parte deberıa hacer cada alumno? Reduce por arco consistencia y camino consistencia los dominios de las variables del problema y encuentra una solucion factible.
 >
 
-**Definición de **
+**Definición de conjuntos:**
+$$ Alumnos = \{J,M.A.Y.R.F\}$$
+**Definición de variables:** Se define una variable por alumno.
 
+$x_i:$ Parte que se asigna a a cada alumno $i \in Alumnos$ 
 
+**Definición de dominios:** Debemos de definir los dominios de todas las variables:
+
+> [!attention] Restricciones en los dominios:
+> A la hora de definir los dominios de cada variable, se deben de implementar las restricciones que actuen directamente sobre los dominios para optimizar el problema. 
+
++ En este caso definimos diferentes los dominios de Juan y María **aplicando directamente en el dominio las primeras dos restricciones.**
+$$
+\begin{gather}
+D_{x_i} = \{1,2,3\} \forall i \in Alumnos \backslash \{J,M\}\\\\
+D_{x_J} = \{2,3\}\\
+D_{x_M} = \{3\}
+\end{gather}
+$$
+**Restricciones:**
+1. A y R distinta parte: 
+   $$ X_A \neq X_R$$
+2. R y F misma parte:
+   $$
+   X_R = X_F
+   $$
+3. Y después de R
+   $$
+   X_R \leq X_y
+   $$
+   
 ***
