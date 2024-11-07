@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#incomplete  ",
@@ -46,7 +46,7 @@
       "query": "tag:#Cripto  ",
       "color": {
         "a": 1,
-        "rgb": 4415466
+        "rgb": 12568824
       }
     },
     {
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "tag:#Logic  ",
+      "color": {
+        "a": 1,
+        "rgb": 1393663
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 11.8532274590164,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.043131301889258,
+  "scale": 0.04431308485599785,
   "close": true
 }

@@ -5513,6 +5513,7 @@ dfr
 dJb
 detail
 deducing
+deduction
 modelos
 modelo
 maximizar
@@ -7317,6 +7318,7 @@ mWKjY
 mkpR
 mmE
 maintained
+meaning
 en
 ease
 es
@@ -11143,6 +11145,9 @@ propositions
 predicates
 proposition
 predicarte
+proving
+prove
+premises
 lineal
 la
 lo
@@ -14548,6 +14553,8 @@ tkO
 tvs
 tpI
 truth
+therefor
+tenses
 review
 resolver
 realizar
@@ -16332,6 +16339,8 @@ rUs
 reasonings
 reality
 rules
+rquired
+refutation
 References
 Resoluci
 Rectas
@@ -17932,6 +17941,7 @@ RAHLK
 RONEAN
 RYw
 Represent
+Refutation
 cssclasses
 correcto
 correcta
@@ -20032,6 +20042,9 @@ classified
 connectives
 calculus
 counterexamples
+counterexample
+conditional
+conclusion
 sr
 se
 subproblemas
@@ -21922,6 +21935,9 @@ subject
 symbolise
 sitting
 student
+submissions
+semantically
+surely
 interval
 importancia
 incorrecto
@@ -23764,6 +23780,8 @@ iuquo
 igalvan
 inr
 iqQt
+interpretation
+interpretations
 un
 una
 utiliza
@@ -25287,6 +25305,7 @@ utI
 uWS
 universal
 usage
+uniting
 hora
 hacemos
 hacia
@@ -26779,6 +26798,7 @@ hus
 hkk
 hgu
 hbs
+hence
 Es
 Este
 Ejemplos
@@ -28456,6 +28476,7 @@ EuC
 EQv
 ESS
 Existential
+Evaluation
 vital
 variables
 vez
@@ -31558,6 +31579,7 @@ naw
 nEY
 noZ
 nQT
+negating
 Identificar
 Intro
 Identificaci
@@ -39432,6 +39454,7 @@ qEap
 qrP
 qJA
 quantifier
+quantifiers
 Algorith
 Algorithm
 All
@@ -42612,6 +42635,7 @@ FOO
 FNY
 FAHQQO
 FkyM
+FALSE
 Warshall
 Width
 We
@@ -44119,6 +44143,7 @@ WjKB
 WMuEd
 Wuq
 WPd
+Ways
 Heuri
 Hecho
 HyO
@@ -47235,6 +47260,8 @@ TPN
 TSQn
 TERM
 Their
+Transformation
+TRUE
 grafo
 guardan
 global
@@ -50566,6 +50593,8 @@ Propositions
 PREDICATE
 Predicates
 Poliadic
+Previous
+Proving
 Biblio
 BitsPerComponent
 BI
@@ -53704,6 +53733,7 @@ SXb
 SUBJECT
 Sit
 Syntactically
+Submissions
 Manual
 Modelar
 Millones
@@ -68959,6 +68989,7 @@ VpN
 VDs
 VgX
 Valid
+Verify
 Grupo
 Get
 GWgw
@@ -79585,6 +79616,7 @@ wOZ
 wAha
 wtl
 whom
+weeks
 kL
 kMZ
 kC

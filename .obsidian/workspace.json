@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Predicate Logic.md",
+                "file": "02-Atomic/1730994134 - Predicate Logic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Predicate Logic"
+              "title": "1730994134 - Predicate Logic"
             }
           },
           {
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       },
       {
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/Predicate Logic.md",
+                "file": "01-Areas/1.UC3M/Logic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,6 +189,13 @@
                         "a": 1,
                         "rgb": 14048348
                       }
+                    },
+                    {
+                      "query": "tag:#Logic  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1328127
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -201,12 +208,12 @@
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.09229580869883151,
+                  "scale": 0.08803147916691996,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Predicate Logic"
+              "title": "Graph of Logic"
             }
           }
         ]
@@ -308,11 +315,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3c8453fd45a5fefb",
+  "active": "13399303b4fce2f8",
   "lastOpenFiles": [
-    "02-Atomic/20240523 - 122919 - Propositional logic.md",
+    "02-Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
     "01-Areas/1.UC3M/Logic.md",
     "02-Atomic/1730994133 - Propositional logic.md",
+    "02-Atomic/1730994671 - Exercises - Logic Submissions.md",
+    "02-Atomic/1730994134 - Predicate Logic.md",
+    "02-Atomic/20240523 - 122919 - Propositional logic.md",
     "00-References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "02-Atomic/Logic_Theory_Ch 0_Intro.md",
     "02-Atomic/1730303159 - Satisfacción de restricciones.md",
@@ -337,9 +347,6 @@
     "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
     "02-Atomic/1726498694 - Definition - Criptografía.md",
     "02-Atomic/1728037357 - DNS.md",
-    "02-Atomic/1726315564 - Definition - Cooperativa.md",
-    "02-Atomic/1730832772 - CIDR Notation.md",
-    "02-Atomic/1726572508 - The network stack.md",
     "99-Meta/0. Attachments/1730827988 - Subnetsj.png",
     "Atomic/2",
     "Atomic",

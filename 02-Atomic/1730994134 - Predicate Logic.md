@@ -8,10 +8,11 @@ sr-interval: 61
 sr-ease: 292
 aliases:
   - Predicate Calculus
+  - Predicate logic
 ---
 
-# Intro: 
-[20240523 - 122919 - Propositional logic](20240523%20-%20122919%20-%20Propositional%20logic.md) is really useful if there are only minimal unit (atomic) propositions. However reality does not work that way. In order to detail reality in a more accurate way we use predicate logic. 
+# Predicate logic: 
+[[1730994133 - Propositional logic|Propositional logic]] is really useful if there are only minimal unit (atomic) propositions. However reality does not work that way. In order to detail reality in a more accurate way we use predicate logic. 
 
 Predicate logic divides between **what is said: PREDICATE** and **about whom is said: SUBJECT OR TERM** . This way a predicate can be associated to one or more subjects.
 
@@ -52,13 +53,12 @@ $$
 	\exists x P(x,b,c)
 $$
 ### Syntactically correct formulas: 
-![[Screenshot 2024-04-09 at 12.58.02]]
+![[Screenshot 2024-04-09 at 12.58.02.png]]
 ### Connectives
-Same connectives as in [20240523 - 122919 - Propositional logic](20240523%20-%20122919%20-%20Propositional%20logic.md) are defined. Their hierarchy is also maintained.
+Same connectives as in [[1730994133 - Propositional logic|Propositional logic]] are defined. Their hierarchy is also maintained.
 
 ## Axioms: 
-![Screenshot 2024-04-09 at 12.56.05](../99%20-%20Meta/0.%20Attachments/Screenshot%202024-04-09%20at%2012.56.05.png)
-
+![[Screenshot 2024-04-09 at 12.56.05.png]]
 
 ---
 

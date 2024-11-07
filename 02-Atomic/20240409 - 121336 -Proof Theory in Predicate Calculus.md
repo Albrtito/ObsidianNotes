@@ -22,7 +22,7 @@ In order to define a formal proof in Predicate theory we’ll need to identify:
 4. **R: Inference rules**
 	What is legal to do with the SCF?
 	
-Most of these have already been defined in [Predicate Logic](Predicate%20Logic.md), however the Inference rules haven’t been previously defined: 
+Most of these have already been defined in [1730994134 - Predicate Logic](1730994134%20-%20Predicate%20Logic.md), however the Inference rules haven’t been previously defined: 
 
 ## Inference rules in predicate logic (R):
 
