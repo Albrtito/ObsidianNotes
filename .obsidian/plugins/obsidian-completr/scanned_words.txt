@@ -1884,6 +1884,8 @@ arity
 argument
 assign
 axioms
+alumnos
+acabe
 Creaci
 Crear
 Cuando
@@ -3638,6 +3640,7 @@ Caps
 Constant
 Connectives
 Construction
+CSP
 de
 due
 dar
@@ -5514,6 +5517,8 @@ dJb
 detail
 deducing
 deduction
+documento
+decidir
 modelos
 modelo
 maximizar
@@ -11149,6 +11154,7 @@ proving
 prove
 premises
 practia
+portatil
 lineal
 la
 lo
@@ -12819,6 +12825,7 @@ lns
 lEQ
 lcfi
 lXjXo
+llevan
 tags
 tres
 todos
@@ -14556,6 +14563,8 @@ tpI
 truth
 therefor
 tenses
+tercera
+trabajar
 review
 resolver
 realizar
@@ -17943,6 +17952,8 @@ RONEAN
 RYw
 Represent
 Refutation
+Ruben
+Reduce
 cssclasses
 correcto
 correcta
@@ -21940,6 +21951,8 @@ submissions
 semantically
 surely
 satisfability
+satisfabilidad
+solucion
 interval
 importancia
 incorrecto
@@ -23784,6 +23797,7 @@ inr
 iqQt
 interpretation
 interpretations
+insisten
 un
 una
 utiliza
@@ -26801,6 +26815,7 @@ hkk
 hgu
 hbs
 hence
+haci
 Es
 Este
 Ejemplos
@@ -31582,6 +31597,7 @@ nEY
 noZ
 nQT
 negating
+ndolas
 Identificar
 Intro
 Identificaci
@@ -33148,6 +33164,7 @@ IzA
 IIf
 ICEXq
 IgZo
+Ingenier
 Definir
 Din
 Design
@@ -39457,6 +39474,7 @@ qrP
 qJA
 quantifier
 quantifiers
+quien
 Algorith
 Algorithm
 All
@@ -41150,6 +41168,7 @@ Awv
 Alphabet
 Axioms
 Arity
+Ademas
 Floyd
 Foundations
 Funci
@@ -42638,6 +42657,7 @@ FNY
 FAHQQO
 FkyM
 FALSE
+Felisa
 Warshall
 Width
 We
@@ -53736,6 +53756,7 @@ SUBJECT
 Sit
 Syntactically
 Submissions
+Seis
 Manual
 Modelar
 Millones
@@ -76589,6 +76610,7 @@ JYY
 Jrii
 JSQVVR
 JHF
+Juan
 jj
 jL
 jC
@@ -82659,6 +82681,7 @@ YVV
 YGL
 Yma
 YBsi
+Yara
 Kk
 KS
 Kh

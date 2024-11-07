@@ -48,6 +48,7 @@ aliases:
 ## Ejercicios: 
 + [[1726763938 - Exercises - Programación Lineal|Ejercicios programación lineal]]
 	+ [[1728047794 - Ejemplos SIMPLEX|Ejemplos SIMPLEX]]
++ [[1730997423 - Exercises - Satisfabilidad|Ejercicios satisfabilidad]]
 
 ## Prácticas: 
 + [[1727969475 - Practica - Primera practica Heuristica|Primera práctica heuristica]]
