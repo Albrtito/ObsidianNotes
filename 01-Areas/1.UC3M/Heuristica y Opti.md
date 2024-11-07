@@ -43,8 +43,8 @@ aliases:
 ## Notas: 
 + [[1726825216 - Programación Dinámica|Programación Dinámica]]
 + [[1726759457 - Programación Lineal|Programación Lineal]]
-+ [[1730992171 - Satisfabilidad logica|Satisfabilidad logica]]
-
++ [[1730297192 - Satisfacibilidad Lógica|Satisfacibilidad Lógica]]
+	+ [[1730303159 - Satisfacción de restricciones|Satisfacción de restricciones]]
 ## Ejercicios: 
 + [[1726763938 - Exercises - Programación Lineal|Ejercicios programación lineal]]
 	+ [[1728047794 - Ejemplos SIMPLEX|Ejemplos SIMPLEX]]

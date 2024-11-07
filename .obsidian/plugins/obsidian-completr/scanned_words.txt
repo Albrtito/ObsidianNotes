@@ -1701,6 +1701,8 @@ allFolders
 aliasMatch
 accept
 asking
+asignaci
+arco
 Creaci
 Crear
 Cuando
@@ -3271,6 +3273,11 @@ CIDR
 Classless
 Classles
 Corporation
+Contradicci
+Consistencia
+Camino
+Consistentes
+Caminos
 de
 due
 dar
@@ -4951,6 +4958,11 @@ deleted
 dotted
 decimal
 doesn
+disyunci
+denomina
+dominio
+dominios
+direccional
 modelos
 modelo
 maximizar
@@ -6551,6 +6563,7 @@ mes
 mask
 making
 manages
+modificaci
 en
 ease
 es
@@ -8262,6 +8275,10 @@ exif
 efine
 existance
 exceptions
+exponencialmente
+especialmente
+ejecuci
+eliminamos
 programaci
 primer
 paso
@@ -9979,6 +9996,10 @@ pagado
 purpose
 push
 portion
+proposiciones
+proposicional
+pertenece
+permitidas
 lineal
 la
 lo
@@ -11465,6 +11486,9 @@ lYs
 livesearch
 life
 logica
+llaman
+literales
+literal
 tags
 tres
 todos
@@ -13035,6 +13059,7 @@ tfiles
 toLowerCase
 themselfs
 theoretically
+tiende
 review
 resolver
 realizar
@@ -17910,6 +17935,13 @@ content
 constitute
 count
 charged
+conjuntiva
+cuadr
+combinaciones
+compatible
+consistentes
+consistencia
+computar
 sr
 se
 subproblemas
@@ -19623,6 +19655,9 @@ similarNotes
 subnet
 science
 sure
+sofos
+satisfacibilidad
+solamente
 interval
 importancia
 incorrecto
@@ -21235,6 +21270,8 @@ isolating
 islands
 isolated
 interfaz
+instanciaci
+insatisfacibilidad
 un
 una
 utiliza
@@ -22568,6 +22605,7 @@ uTf
 uruH
 uzH
 uPw
+usaban
 hora
 hacemos
 hacia
@@ -26753,6 +26791,7 @@ vibY
 visualizar
 vas
 vault
+verificar
 no
 nuestras
 ndar
@@ -28113,6 +28152,9 @@ nets
 notatoin
 notion
 netork
+negaci
+normal
+nombra
 Identificar
 Intro
 Identificaci
@@ -32399,6 +32441,7 @@ folders
 filter
 fourth
 formal
+fil
 objetivo
 obtener
 of
@@ -36596,6 +36639,7 @@ AJW
 Array
 Adresses
 Assigned
+Arco
 Floyd
 Foundations
 Funci
@@ -37895,6 +37939,7 @@ FgS
 FgB
 Fields
 Folder
+Fijo
 Warshall
 Width
 We
@@ -41919,6 +41964,7 @@ TsP
 TJj
 Txr
 TMx
+Tautolog
 grafo
 guardan
 global
@@ -43340,6 +43386,7 @@ getAllFolders
 getMarkdownFiles
 group
 generalizes
+griegos
 Programaci
 Para
 Problema
@@ -44857,6 +44904,7 @@ PixelYDimension
 PixelXDimension
 Pdx
 PCz
+Punto
 Biblio
 BitsPerComponent
 BI
@@ -47613,6 +47661,8 @@ SOM
 Subnets
 Select
 Satisfabilidad
+Satisfacibilidad
+Satisfacci
 Manual
 Modelar
 Millones
@@ -53078,6 +53128,7 @@ begins
 billion
 basename
 boundy
+booleano
 Util
 Una
 UniZumo
@@ -62167,6 +62218,8 @@ GVV
 GkGXir
 GgC
 GGE
+Grafos
+Grafo
 Nota
 Novo
 Nacional

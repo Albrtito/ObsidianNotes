@@ -1,0 +1,23 @@
+{
+  "hotkeys": [
+    {
+      "sequence": [
+        {
+          "key": "a",
+          "shift": false,
+          "alt": false,
+          "ctrl": true,
+          "meta": false
+        },
+        {
+          "key": "s",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "workspace:toggle-stacked-tabs"
+    }
+  ]
+}
