@@ -152,7 +152,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,10 +213,11 @@
       "templater-obsidian:Templater": true,
       "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "b89f836cb1d8a8cd",
   "lastOpenFiles": [
     "02-Atomic/1730997423 - Exercises - Satisfabilidad.md",
     "02-Atomic/1730996237 - Segunda practia heuristica.md",
