@@ -11,10 +11,15 @@
             "id": "ffe7b69e618fd24a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "99-Meta/1. Templates/NoteFolderTemplate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "NoteFolderTemplate"
             }
           }
         ],
@@ -37,6 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "99-Meta/1. Templates/NoteFolderTemplate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of NoteFolderTemplate"
             }
           }
         ]
@@ -135,9 +141,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "99-Meta/1. Templates/NoteFolderTemplate.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of NoteFolderTemplate"
             }
           },
           {
@@ -217,8 +225,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b89f836cb1d8a8cd",
+  "active": "ffe7b69e618fd24a",
   "lastOpenFiles": [
+    "99-Meta/1. Templates/NoteTemplate.md",
     "02-Atomic/1730997423 - Exercises - Satisfabilidad.md",
     "02-Atomic/1730996237 - Segunda practia heuristica.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
@@ -248,7 +257,6 @@
     "02-Atomic/1727122369 - Estados contables.md",
     "02-Atomic/1727270270 - Method - SIMPLEX.md",
     "02-Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
-    "02-Atomic/1728912947 - Cifrado asimetrico.md",
     "99-Meta/0. Attachments/1730827988 - Subnetsj.png",
     "Atomic/2",
     "Atomic",
