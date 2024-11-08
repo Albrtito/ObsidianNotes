@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of NoteFolderTemplate"
+              "title": "Gráfico de NoteFolderTemplate"
             }
           },
           {
@@ -184,7 +184,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           }
         ],
@@ -209,8 +209,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
             }
           },
           {
@@ -266,11 +266,21 @@
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "Cola de notas a revisar"
+            }
+          },
+          {
+            "id": "daaad5f34de735f4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Cola de notas a revisar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -284,7 +294,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -295,20 +305,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "zk-prefixer:Crear nueva nota única": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "obsidian-spaced-repetition:Revisar Tarjetas": false,
       "janitor:Janitor: scan vault": false,
-      "zk-prefixer:Create new unique note": true,
-      "switcher:Open quick switcher": true,
-      "canvas:Create new canvas": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "obsidian-spaced-repetition:Review flashcards": true,
       "templater-obsidian:Templater": true,
-      "omnisearch:Omnisearch": false,
-      "graph:Open graph view": false,
-      "workspaces:Manage workspace layouts": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "f531d5367329c7ed",
+  "active": "daaad5f34de735f4",
   "lastOpenFiles": [
     "99-Meta/1. Templates/NoteTemplate.md",
     "02-Atomic/1730997423 - Exercises - Satisfabilidad.md",
