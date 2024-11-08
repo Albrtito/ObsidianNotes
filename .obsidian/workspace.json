@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 332
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -215,7 +215,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ffe7b69e618fd24a",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
     "02-Atomic/1730997423 - Exercises - Satisfabilidad.md",
     "02-Atomic/1730996237 - Segunda practia heuristica.md",
