@@ -129,6 +129,33 @@
               "icon": "lucide-git-fork",
               "title": "Graph of NoteFolderTemplate"
             }
+          },
+          {
+            "id": "abce9f1aaffb639e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c19e84ab2378277",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       },
@@ -185,8 +212,65 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "14caecdc1b288c55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99-Meta/1. Templates/NoteFolderTemplate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for NoteFolderTemplate"
+            }
+          },
+          {
+            "id": "df73cb32a94e5957",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99-Meta/1. Templates/NoteFolderTemplate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from NoteFolderTemplate"
+            }
+          },
+          {
+            "id": "1fd35f6e20625189",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f531d5367329c7ed",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -221,11 +305,10 @@
       "templater-obsidian:Templater": true,
       "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-importer:Open Importer": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ffe7b69e618fd24a",
+  "active": "f531d5367329c7ed",
   "lastOpenFiles": [
     "99-Meta/1. Templates/NoteTemplate.md",
     "02-Atomic/1730997423 - Exercises - Satisfabilidad.md",
