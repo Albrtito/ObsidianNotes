@@ -265,12 +265,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
+            }
+          },
+          {
+            "id": "daaad5f34de735f4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
+            }
+          },
+          {
+            "id": "6bb338a90e284121",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Cola de notas a revisar"
             }
           },
           {
-            "id": "daaad5f34de735f4",
+            "id": "197f2a17d2cb3df3",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -280,7 +300,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -318,7 +338,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "daaad5f34de735f4",
+  "active": "197f2a17d2cb3df3",
   "lastOpenFiles": [
     "99-Meta/1. Templates/NoteTemplate.md",
     "02-Atomic/1730997423 - Exercises - Satisfabilidad.md",
