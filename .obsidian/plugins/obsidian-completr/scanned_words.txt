@@ -1890,6 +1890,7 @@ asigna
 actuen
 aplicando
 asignadas
+algorimo
 Creaci
 Crear
 Cuando
@@ -9235,6 +9236,7 @@ existential
 enunciado
 explicitamente
 encontrando
+eliminando
 programaci
 primer
 paso
@@ -11165,6 +11167,7 @@ premises
 practia
 portatil
 pudiese
+parece
 lineal
 la
 lo
@@ -16363,6 +16366,7 @@ rquired
 refutation
 retratados
 resoluble
+resueltos
 References
 Resoluci
 Rectas
@@ -17967,6 +17971,7 @@ Refutation
 Ruben
 Reduce
 Reinas
+Realizamos
 cssclasses
 correcto
 correcta
@@ -21968,6 +21973,7 @@ satisfabilidad
 solucion
 sujetas
 soluc
+seguidad
 interval
 importancia
 incorrecto
@@ -23814,6 +23820,7 @@ interpretation
 interpretations
 insisten
 imponen
+imlementa
 un
 una
 utiliza
@@ -31614,6 +31621,7 @@ noZ
 nQT
 negating
 ndolas
+numeraci
 Identificar
 Intro
 Identificaci

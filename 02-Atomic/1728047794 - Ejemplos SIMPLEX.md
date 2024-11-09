@@ -8,6 +8,7 @@ References:
 cssclasses:
 ---
 # Ejemplos SIMPLEX
+Ejemplos del algoritmo  bien resueltos (con seguidad  de que no hay errores). Se imlementa el algorimo [[1727270270 - Method - SIMPLEX|SIMPLEX]]
 ## Ejemplo clase magistral:
 
 $$
@@ -22,7 +23,9 @@ x\geq 0
 $$
 
 **SIMPLEX:**
-1. Pasar el problema a forma estandar: Hemos de sumar **variables de holgura** para cada una de las restricciones:
+Antes de empezar con el algoritmo hemos de pasar el problema a forma estandar: 
+
+Aplicamos las [[1726759457 - Programación Lineal#Transformaciones|transformaciones necesarias]]. En este caso **eliminando las desigualdades**
 $$
 \begin{gather}
 \text{Restricciones:}\\
@@ -43,16 +46,26 @@ C^T = (2,-3)\\\\
 X = \begin{pmatrix}
 x_1\\x_2\\x_3\\x_4\\x_5
 \end{pmatrix}
-\\
+\\\\
 
 A = \begin{pmatrix}
-
+-1 & 1 & 1 & 0 & 0\\
+1 & 1 & 0 & 1 & 0\\
+1 & -2 & 0 & 0 & 1\\
 \end{pmatrix}
+\\\\
 
+b = \begin{pmatrix}
+2\\4\\1
+\end{pmatrix}
 \end{gather}
 $$
-2. Empezamos a iterar:
-	+ Iteración #0: Cálculo de una solución **básica factible inicial**. 
+
+**Remark:** La numeración a continuación es para cada una de las iteraciones. 1 → Primera iteración, 2 → Segunda iteración …
+
+1. Realizamos la primera iteración.
+
+   
 	1. **Cálculo de las variables básicas:** Para la base $B_0 = I_{3x3}$  serán $x_3, x_4, x_5$, de tal forma que: $x_B = B^-b = I_3^-b = (2,4,1)^T$
 		Entonces: 
 		$$ z_{B_0} = C_{B_0}^T X_{B_0} = (0,0,0)(2,4,1)^T = 0$$
