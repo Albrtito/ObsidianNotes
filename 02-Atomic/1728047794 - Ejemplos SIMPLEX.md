@@ -20,8 +20,6 @@ x_1 - 2x_2 \leq 1\\
 x\geq 0
 \end{gather}
 $$
-**Método gráfico:**
-Se dibuja cada una de las restricciones y se encuentran los puntos extremos de la región factible. 
 
 **SIMPLEX:**
 1. Pasar el problema a forma estandar: Hemos de sumar **variables de holgura** para cada una de las restricciones:
@@ -37,6 +35,22 @@ $$
 + A la hora de realizar este tipo de ejercicios, **separar por columnas para evitar errores.**
 + Las variables que “nos importan” son $x_1$ y $x_2$. El resto son variables de holgura, auxiliares, útiles solo para la resolución.
 
+**Obtenemos los siguientes valores para $C^T$, C, A y b**
+$$
+\begin{gather}
+C^T = (2,-3)\\\\
+
+X = \begin{pmatrix}
+x_1\\x_2\\x_3\\x_4\\x_5
+\end{pmatrix}
+\\
+
+A = \begin{pmatrix}
+
+\end{pmatrix}
+
+\end{gather}
+$$
 2. Empezamos a iterar:
 	+ Iteración #0: Cálculo de una solución **básica factible inicial**. 
 	1. **Cálculo de las variables básicas:** Para la base $B_0 = I_{3x3}$  serán $x_3, x_4, x_5$, de tal forma que: $x_B = B^-b = I_3^-b = (2,4,1)^T$

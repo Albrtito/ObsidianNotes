@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726759457 - Programación Lineal.md",
+                "file": "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726759457 - Programación Lineal"
+              "title": "1728047794 - Ejemplos SIMPLEX"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -57,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +143,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1727270270 - Method - SIMPLEX"
+              "title": "Graph of 1728047794 - Ejemplos SIMPLEX"
             }
           }
         ]
@@ -157,10 +158,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - SIMPLEX.md"
+                "file": "02-Atomic/1728047794 - Ejemplos SIMPLEX.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1727270270 - Method - SIMPLEX"
+              "title": "Outline of 1728047794 - Ejemplos SIMPLEX"
             }
           },
           {
@@ -238,7 +239,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ffe7b69e618fd24a",
+  "active": "7104fe1e0ea8d2f0",
   "lastOpenFiles": [
     "02-Atomic/1726759457 - Programación Lineal.md",
     "02-Atomic/1727270270 - Method - SIMPLEX.md",
