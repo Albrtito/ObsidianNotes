@@ -65,7 +65,7 @@ Una vez tenemos **el problema en [[1727270366 - Forma estandar|Forma estandar]]*
    + En la **primera iteración** escogeremos las variables que permitan crear la **matriz identidad** como base. 
      + Si no existen estas variables **crearemos una variable artificial que permita la creación de la identidad**. Esta variable artificial tendra un coeficiente negativo y suficientemente grande (al menos igual a la suma de todos los coficientes de las incógnitas.)
 
-2. Calculamos el valor de la función objetivo para esa base. 
+2. Calculamos el **valor de la función objetivo** para esa base. 
    1. Calcular el **valor de cada incógnita como el vector $x_B$:** Estos valores serán una **solución factible** 
       $$x_B = B^-b$$
       - **Remark:** Las variables que no aparezcan en la base tomarán un valor de 0.

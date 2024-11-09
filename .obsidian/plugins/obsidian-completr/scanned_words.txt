@@ -1891,6 +1891,8 @@ actuen
 aplicando
 asignadas
 algorimo
+aden
+asumimos
 Creaci
 Crear
 Cuando
@@ -16367,6 +16369,7 @@ refutation
 retratados
 resoluble
 resueltos
+resolviendo
 References
 Resoluci
 Rectas
@@ -30079,6 +30082,7 @@ vZmJ
 vJB
 vFA
 validate
+variales
 no
 nuestras
 ndar
@@ -37998,6 +38002,7 @@ oAz
 otG
 object
 objects
+obteniendo
 que
 queremos
 qD
@@ -48912,6 +48917,7 @@ glr
 ggTT
 goH
 gZZ
+generamos
 Programaci
 Para
 Problema
@@ -69046,6 +69052,7 @@ VDs
 VgX
 Valid
 Verify
+Vease
 Grupo
 Get
 GWgw

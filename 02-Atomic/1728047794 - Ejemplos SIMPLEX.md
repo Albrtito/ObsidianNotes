@@ -41,7 +41,7 @@ $$
 **Obtenemos los siguientes valores para $C^T$, C, A y b**
 $$
 \begin{gather}
-C^T = (2,-3)\\\\
+C^T = (2,-3,0,0,0)\\\\
 
 X = \begin{pmatrix}
 x_1\\x_2\\x_3\\x_4\\x_5
@@ -60,16 +60,19 @@ b = \begin{pmatrix}
 \end{pmatrix}
 \end{gather}
 $$
+**Remarks:**
++ Vease que se añaden columnas en A para las variables de holgura. 
++ Se añaden **coeficientes en C para las variables de holgura**
 
-**Remark:** La numeración a continuación es para cada una de las iteraciones. 1 → Primera iteración, 2 → Segunda iteración …
 
-1. Realizamos la primera iteración.
+
+### Primera iteración:
 
    
-	1. **Cálculo de las variables básicas:** 
+1. **Cálculo de las variables básicas:** 
 	   Creamos una solución factible básica utilizando la base  $B_0 = I_{3x3}$. Esta base la generamos utilizando únicamente las columnas para variables $x_3, x_4, x_5$. 
 	   $$
-		B_0 = \{x_3,x_4,x_5\} =
+		B_0 = I_3= \{x_3,x_4,x_5\} =
 		
 		\begin{pmatrix}
 		1 & 0 & 0 \\
@@ -79,25 +82,30 @@ $$
 	  $$
 	  Esta nueva base nos genera una solución factible básica que obtenemos resolviendo la equación algebráica. 
 	  
-> [!check] Duda:
-> Como es que obtenemos la solución multiplicando por la base y no por A? → La base se obtiene directamente desde A, es un trozo de la matriz A (matriz de costes). Al utilizar solo m (3 en este caso) columnas de la matriz asumimos que el valor para las variables de las otras n columnas (en este caso 2) es 0.
-
 	  $$
 	  B_0 x_{B_0} = b
 	  $$
 	  Entonces:
 	  $$
-	  x_{B_0} = B
-		
-		x_B = B^-b = I_3^-b = (2,4,1)^T$$
-		Entonces: 
-		$$ z_{B_0} = C_{B_0}^T X_{B_0} = (0,0,0)(2,4,1)^T = 0$$
-		**Remarks:** Estamos haciendo que las variables $x_1 y x_2$ sean 0 de forma manual. 
+	  x_{B_0} = B_0^- b = (0,0,2,4,1)^T
+	  $$
+	  
 
-		Este primer punto que hemos encontrado será la **primera solución del problema lineal**. Esta solución estará en el punto: (0,0,2,4,1), aunq para obtener la solución bidimensional solo nos quedamos con las primeras dos. Obteniendo (0,0)
+2.  **Obtener valor de la función objetivo**: Calculamos el valor de la función objetivo con las variales básicas obtenidas. 
+   
+   Aplicamos directamente la definición del problema lineal.
+	$$ z_{B_0} = C_{B_0}^T X_{B_0} = (0,0,0)(2,4,1)^T = 0$$
+	Este primer punto que hemos encontrado será la **primera solución del problema lineal**. Esta solución estará en el punto: (0,0,2,4,1), aunq para obtener la solución bidimensional solo nos quedamos con las primeras dos variables, obteniendo (0,0)
 
-	2. **Regla de entrada:** 
-		+ Utilizamos el subindice i para referirnos a las variables básicas. Mientras que se usa el subindice j para las variables nuevas que entren.
+	
+> [!check] Duda: **Como es que obtenemos la solución multiplicando por la base y no por A?** 
+>La base se obtiene directamente desde A, es un trozo de la matriz A (matriz de costes). Al utilizar solo m (3 en este caso) columnas de la matriz asumimos que el valor para las variables de las otras n columnas (en este caso 2) es 0.
+
+
+
+
+3. **Regla de entrada:** 
+	Utilizamos el subindice i para referirnos a las variables básicas. Mientras que se usa el subindice j para las variables nuevas que entren.
 		  
 		  La forma en la que estamos calculando la función objetivo (su valor) es la siguiente. 
 		  $$ z = \sum_{i\in B} C_i X_i$$
