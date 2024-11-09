@@ -13,14 +13,20 @@ sr-ease: 272
 # Programación Lineal
 
 > [!NOTE] Intro:
-> La programación lineal tiene como objetivo la resolución de problemas que pueden ser expresados como **una relación lineal entre sus variables**, namely, que tienen una forma tal que: 
+> La programación lineal tiene como objetivo la resolución de problemas que pueden ser expresados como **una relación lineal entre sus variables**,sujetas a unas restricciones. 
 > $$
-> f: (\max/\min) z = c^Tx
+> \begin{gather}
+> f: (\max/\min) z = c^Tx\\
+> sujeto a: Ax = b\\ 
+> con: x \geq 0
+\end{gather}
 > $$
 > Donde: 
 > + z : es el valor a maximizar/minimizar
 > + $c^T$: es el vector de coeficientes(racionales), transpuesto para que la multiplicación sea posible.
 > + $x$ : es el vector de variables/incognitas del problema
+> + A: Es la matriz de costes (coeficientes de las variables para cada restricción)
+> + $b$ : es el vector de recursos que imponen las restricciones
 >
 >Además, el problema define **restricciones que se aplican a las variables de la función.**
 
@@ -28,9 +34,14 @@ sr-ease: 272
 
 
 > [!done] Solución:
-> La solución de un problema de progamación lineal se encuentra en el vector de variables que maximice/minimice la función objetivo y cumpla con las restricciones.
+> 
+> Damos entonces las siguientes definiciones:
+> + Un vector X que resuelve Ax =b se llama **solución**
+> + Un vector X≥ 0 que resuelve Ax = b se llama **solución factible**
+> + Un vector $X_B \geq 0$ que resuelve $B_{mxm}
 > ==+ La solución óptima puede ser única o no. En este segundo caso decimos que existen **soluciones óptimas alternativas**==
-+ Puede **no existir ninguna solución**, que nunca pasa
+> + Puede **no existir ninguna solución**, que nunca pasa. 
+> La solución de un problema de progamación lineal se encuentra en el vector de variables que maximice/minimice la función objetivo y cumpla con las restricciones.
 
 ## Formas del modelo en programación lineal:
 Según la forma en la que se exprese la función y las restricciones podemos representar el problema de forma **canónica o de forma estandar**

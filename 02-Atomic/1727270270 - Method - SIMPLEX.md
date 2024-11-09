@@ -18,7 +18,7 @@ sr-ease: 161
 > El método simplex se usa para **econtrar soluciones a problemas lineales**. Para ello, recorre las aristas de la región de soluciones factibles buscando puntos que resuelvan el problema. 
 > Una vez encontrado un punto comprueba si existe algún otro punto con el que se consiga una mejor solución (la solución será un valor mayor para la función objetivo), si existe lo busca, en caso contrario finaliza habiendo encontrado 
 
-+ Si representásemos lo que hace el algoritmo en un plano bidimensional obtendríamos algo así. 
++ Si representásemos lo que hace el algoritmo en un plano bidimensional veríamos que se van encontrando soluciones hasta llegar a la solución óptima.
 ![[1727270270 - Method - SIMPLEXj.png|center|350]]
 
 > [!quote] Remember: 
