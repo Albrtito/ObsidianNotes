@@ -38,7 +38,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -58,7 +57,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1726759457 - Programación Lineal.md",
+                "file": "02-Atomic/1727270270 - Method - SIMPLEX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +142,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1726759457 - Programación Lineal"
+              "title": "Graph of 1727270270 - Method - SIMPLEX"
             }
           }
         ]
@@ -158,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1726759457 - Programación Lineal.md"
+                "file": "02-Atomic/1727270270 - Method - SIMPLEX.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1726759457 - Programación Lineal"
+              "title": "Outline of 1727270270 - Method - SIMPLEX"
             }
           },
           {
@@ -239,8 +238,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7104fe1e0ea8d2f0",
+  "active": "ffe7b69e618fd24a",
   "lastOpenFiles": [
+    "02-Atomic/1726759457 - Programación Lineal.md",
     "02-Atomic/1727270270 - Method - SIMPLEX.md",
     "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
     "02-Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
@@ -268,7 +268,6 @@
     "02-Atomic/1727969475 - Practica - Primera practica Heuristica.md",
     "02-Atomic/1730994671 - Exercises - Logic Submissions.md",
     "02-Atomic/20240508 - 121916 - Exercises -  Logic_Submission 6.2.md",
-    "02-Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
     "00-References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00-References/HyO_Biblio_Hamdy.pdf",
     "99-Meta/0. Attachments/1730827988 - Subnetsj.png",

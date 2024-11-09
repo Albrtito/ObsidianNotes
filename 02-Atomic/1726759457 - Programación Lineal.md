@@ -34,14 +34,26 @@ sr-ease: 272
 
 
 > [!done] Solución:
+> Damos entonces las siguientes definiciones de los **tipos de soluciones**:
 > 
-> Damos entonces las siguientes definiciones:
 > + Un vector X que resuelve Ax =b se llama **solución**
 > + Un vector X≥ 0 que resuelve Ax = b se llama **solución factible**
-> + Un vector $X_B \geq 0$ que resuelve $B_{mxm}
-> ==+ La solución óptima puede ser única o no. En este segundo caso decimos que existen **soluciones óptimas alternativas**==
-> + Puede **no existir ninguna solución**, que nunca pasa. 
-> La solución de un problema de progamación lineal se encuentra en el vector de variables que maximice/minimice la función objetivo y cumpla con las restricciones.
+> + Un vector $X_B \geq 0$ que resuelve $B_{mxm} X_b = b$ se llama **solucón factible básica**
+> +  Un vector $X^*$ es una **solución factible básica y óptima** si y solo si:
+> 		$$C_B^TX^* \geq C_B^TX, \forall x \in F$$
+> 
+>+ La solución óptima puede ser única o no. 
+>+ En este segundo caso decimos que existen **soluciones óptimas alternativas**
+>+ Podría **no existir solución factible básica y óptima**. Estos casos se ven retratados como si siempre se pudiese encontrar una mejor solución → Esto nunca pasa
+>
+>**La condiciones para que un problema sea resoluble serán:**
+>+ Se sabe si algo tiene solución al resolver el sistema algebráico. **Se puede resolver un sistema algebráico siempre y cuando A sea invertible: [[1729167252 - Cálculo de la matriz inversa|Inverse matrix]]**
+>
+>$$
+>Ax_A = b \Rightarrow x_A= A^{-1}b
+>$$
+>
+> + Debido  a esto u**n cambio en b no afectará a la resolución del sistema**
 
 ## Formas del modelo en programación lineal:
 Según la forma en la que se exprese la función y las restricciones podemos representar el problema de forma **canónica o de forma estandar**

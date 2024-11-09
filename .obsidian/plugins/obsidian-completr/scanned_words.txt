@@ -9234,6 +9234,7 @@ eaT
 existential
 enunciado
 explicitamente
+encontrando
 programaci
 primer
 paso
@@ -11163,6 +11164,7 @@ prove
 premises
 practia
 portatil
+pudiese
 lineal
 la
 lo
@@ -16359,6 +16361,8 @@ reality
 rules
 rquired
 refutation
+retratados
+resoluble
 References
 Resoluci
 Rectas
@@ -21962,6 +21966,8 @@ surely
 satisfability
 satisfabilidad
 solucion
+sujetas
+soluc
 interval
 importancia
 incorrecto
@@ -23807,6 +23813,7 @@ iqQt
 interpretation
 interpretations
 insisten
+imponen
 un
 una
 utiliza
@@ -34801,6 +34808,7 @@ DCe
 DoE
 DSMX
 DxP
+Damos
 funci
 fibonacci
 fica
@@ -50630,6 +50638,7 @@ Previous
 Proving
 PARTE
 Parte
+Podr
 Biblio
 BitsPerComponent
 BI
