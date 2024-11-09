@@ -66,7 +66,30 @@ $$
 1. Realizamos la primera iteración.
 
    
-	1. **Cálculo de las variables básicas:** Para la base $B_0 = I_{3x3}$  serán $x_3, x_4, x_5$, de tal forma que: $x_B = B^-b = I_3^-b = (2,4,1)^T$
+	1. **Cálculo de las variables básicas:** 
+	   Creamos una solución factible básica utilizando la base  $B_0 = I_{3x3}$. Esta base la generamos utilizando únicamente las columnas para variables $x_3, x_4, x_5$. 
+	   $$
+		B_0 = \{x_3,x_4,x_5\} =
+		
+		\begin{pmatrix}
+		1 & 0 & 0 \\
+		0 & 1 & 0 \\
+		0 & 0 & 1 \\
+		\end{pmatrix}
+	  $$
+	  Esta nueva base nos genera una solución factible básica que obtenemos resolviendo la equación algebráica. 
+	  
+> [!check] Duda:
+> Como es que obtenemos la solución multiplicando por la base y no por A? → La base se obtiene directamente desde A, es un trozo de la matriz A (matriz de costes). Al utilizar solo m (3 en este caso) columnas de la matriz asumimos que el valor para las variables de las otras n columnas (en este caso 2) es 0.
+
+	  $$
+	  B_0 x_{B_0} = b
+	  $$
+	  Entonces:
+	  $$
+	  x_{B_0} = B
+		
+		x_B = B^-b = I_3^-b = (2,4,1)^T$$
 		Entonces: 
 		$$ z_{B_0} = C_{B_0}^T X_{B_0} = (0,0,0)(2,4,1)^T = 0$$
 		**Remarks:** Estamos haciendo que las variables $x_1 y x_2$ sean 0 de forma manual. 
