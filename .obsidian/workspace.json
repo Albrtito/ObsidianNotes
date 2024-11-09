@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1727711018 - Estrategias de diversificación.md",
+                "file": "02-Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1727711018 - Estrategias de diversificación"
+              "title": "1728935315 - Tipos de sistemas productivos de la empresa"
+            }
+          },
+          {
+            "id": "88d415fd37c291df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1727709332 - Estrategias corporativas de la empresa"
             }
           }
         ],
@@ -42,7 +57,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727711018 - Estrategias de diversificación.md",
+                "file": "02-Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +142,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1727711018 - Estrategias de diversificación"
+              "title": "Graph of 1728935315 - Tipos de sistemas productivos de la empresa"
             }
           }
         ]
@@ -142,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1727711018 - Estrategias de diversificación.md"
+                "file": "02-Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1727711018 - Estrategias de diversificación"
+              "title": "Outline of 1728935315 - Tipos de sistemas productivos de la empresa"
             }
           },
           {
@@ -225,6 +240,15 @@
   },
   "active": "ffe7b69e618fd24a",
   "lastOpenFiles": [
+    "02-Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
+    "02-Atomic/1730297192 - Satisfacibilidad Lógica.md",
+    "02-Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
+    "02-Atomic/1728916836 - Restos potenciales.md",
+    "02-Atomic/1726499016 - Definir objetivos en la empresa.md",
+    "02-Atomic/1725912047 - La microeconomía de la empresa.md",
+    "02-Atomic/1727711018 - Estrategias de diversificación.md",
+    "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
+    "02-Atomic/1727886621 - Estrategia de subcontratación.md",
     "00-References/Net_Biblio_Kurose.pdf",
     "02-Atomic/1730567078 - The network layer data plane.md",
     "02-Atomic/1730827988 - Subnets.md",
@@ -236,7 +260,6 @@
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1730303159 - Satisfacción de restricciones.md",
     "01-Areas/1.UC3M/Logic.md",
-    "02-Atomic/1730297192 - Satisfacibilidad Lógica.md",
     "02-Atomic/1730994134 - Predicate Logic.md",
     "02-Atomic/1730994133 - Propositional logic.md",
     "00-References/HyO_Biblio_Marek V. Introduction to mathematics of satisfiability.pdf",
@@ -246,14 +269,7 @@
     "02-Atomic/20240523 - 131714 - Exercises - Submission 6.2 - Semantic theory in predicate calculus.md",
     "02-Atomic/20240523 - 122919 - Propositional logic.md",
     "00-References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
-    "02-Atomic/Logic_Theory_Ch 0_Intro.md",
     "00-References/HyO_Biblio_Hamdy.pdf",
-    "1730903400 - Problema de las n reinas.md",
-    "02-Atomic/1730992171 - Satisfabilidad logica.md",
-    "02-Atomic/1730826735 - IPv4 protocol.md",
-    "02-Atomic/1730651695 - The Internet Protocol (IP).md",
-    "02-Atomic/1728386212 - The network layer.md",
-    "02-Atomic/1730567584 - Forwarding function of the network layer.md",
     "99-Meta/0. Attachments/1730827988 - Subnetsj.png",
     "Atomic/2",
     "Atomic",

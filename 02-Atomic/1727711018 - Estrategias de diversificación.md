@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses: 
-sr-due: 2024-11-08
-sr-interval: 17
-sr-ease: 210
+sr-due: 2024-11-17
+sr-interval: 8
+sr-ease: 190
 ---
 # Estrategias de diversificación
 

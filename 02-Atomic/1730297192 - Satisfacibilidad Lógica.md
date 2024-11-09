@@ -2,9 +2,9 @@
 aliases:
   - Satisfacibilidad Lógica
 tags:
-  - review
   - Heuri
   - Logic
+  - incomplete
 References: 
 cssclasses:
 ---

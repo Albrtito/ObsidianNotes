@@ -7,8 +7,8 @@ tags:
   - Cripto
 References: 
 cssclasses:
-sr-due: 2024-11-08
-sr-interval: 17
+sr-due: 2024-12-19
+sr-interval: 40
 sr-ease: 250
 ---
 # Restos potenciales
