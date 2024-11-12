@@ -14,17 +14,19 @@ Separamos dos partes:
 
 1. [[1731438416 - Marketing estratégico|Marketing estratégico]]: Estudio de necesidades. Orientar a la empresa
 2. [[1731438501 - Marketing operativo|Marketing operativo]]: Sistema de acción. Especifica y conquista los mercados con acciones concretas.
-## Partes:
+## Etapas::
 Ambas partes se realizan de forma lineal, se obtiene información con el marketing estratégico y se utiliza esa información en el marketing operativo.
+
 Un plan de marketing tendrá las siguientes partes:
 
 1. **Análisis de situación** : Estratégico
 2. **Objetivos:** Estratégico
 3. **Acciones:** Operativo 
-4. **Presupuesto** 
-5. **Resultados**
+4. **Presupuesto**: 
+5. **Resultados**: 
+#Duda: Estas dos últimas no seríanparte del marketing operativo?
 
-
+Cada una de estas partes se estudia más a fonde dentro del marketing estratégico/operativo.
 
 ![[1731436877 - El plan de marketingj.png|center|500]]
 

@@ -1908,6 +1908,8 @@ absorve
 adaptan
 areas
 alos
+anparte
+aprovechar
 Creaci
 Crear
 Cuando
@@ -5551,6 +5553,7 @@ decision
 degraded
 deseados
 diferencianclaramente
+definidos
 modelos
 modelo
 maximizar
@@ -9278,6 +9281,8 @@ experimentado
 esl
 estudian
 eobjetivos
+emrpesa
+etapas
 programaci
 primer
 paso
@@ -12895,6 +12900,7 @@ labeling
 labeled
 limitada
 lissi
+ltimas
 tags
 tres
 todos
@@ -16435,6 +16441,7 @@ redirected
 ruled
 relaciones
 respondan
+rige
 References
 Resoluci
 Rectas
@@ -18042,6 +18049,8 @@ Reinas
 Realizamos
 Request
 ROUTER
+Reflexi
+Resultados
 cssclasses
 correcto
 correcta
@@ -28610,6 +28619,8 @@ Evaluation
 Everyone
 Expanded
 Especifica
+Estrat
+Etapas
 vital
 variables
 vez
@@ -36583,6 +36594,7 @@ ffice
 foor
 forces
 facilitar
+fonde
 objetivo
 obtener
 of
@@ -50790,6 +50802,7 @@ PORT
 Proporcionar
 Precio
 Producto
+Presupuesto
 Biblio
 BitsPerComponent
 BI
@@ -64796,6 +64809,7 @@ OpenFlow
 OpenFLow
 Orienteaci
 Orientar
+Operativo
 ximo
 xrL
 xFQ
