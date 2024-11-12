@@ -4,8 +4,8 @@ aliases:
   - DHCP
   - Dinamic Host Configuration Protocol
 tags:
-  - incomplete
   - Networks
+  - review
 References: 
 cssclasses:
 ---

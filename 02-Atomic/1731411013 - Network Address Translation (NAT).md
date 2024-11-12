@@ -3,7 +3,8 @@ aliases:
   - Network Address Translation (NAT)
   - NAT
 tags:
-  - incomplete
+  - Networks
+  - review
 References: 
 cssclasses:
 ---
@@ -16,7 +17,7 @@ cssclasses:
   $$ 10.0.0.0/8$$
   $$172.16.0.0/12$$
   $$192.168.0.0/16$$
-+ A translation table is created from public to lo
++ A translation table is created from public to local addresses.
 
 
 ***

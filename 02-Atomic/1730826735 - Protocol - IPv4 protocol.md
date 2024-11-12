@@ -2,8 +2,8 @@
 aliases:
   - IPv4 protocol
 tags:
-  - incomplete
   - Networks
+  - review
 References: 
 cssclasses:
 ---
@@ -61,7 +61,9 @@ $$
 
 
 > [!check] Solution: 
-> The solution is to introduce the NATs (Network Address Translation) routers.
+> The solution is to introduce the [[1731411013 - Network Address Translation (NAT)|NAT]] (Network Address Translation) routers. This routers translate from public to local addresses. 
+
+
 
 
 ***
