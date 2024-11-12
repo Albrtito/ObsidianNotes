@@ -23,6 +23,7 @@ cssclasses:
 > La idea principal del marketing esta en el **intercambio de valores**, como comunicación entre dos partes con la finalidad de obtener algo de valor.
 > + Estos valores no tienen porque ser monetarios 
 
+Para realizar este intercambio de forma efectiva se ha de analizar, estudiar y actuar sobre el mercado de una manera específica, esto se recoge en el [[1731436877 - El plan de marketing|El plan de marketing]]
 ## Tipos de marketing:
 Los tipos existentes de marketing se diferencianclaramente según si tienen una **orientación a ventas o al marketing**: 
 + **Orientación a ventas:** La empresa le ventde al cliente.
@@ -49,12 +50,7 @@ La **tarea principal esl el marketing**.
 + Se estudian los mercados objetivo y a los clientes
 + Proporcionar bienes en areas importantes par alos clientes 
 
-## Planificación del marketing:
-Para que la empresa pueda saber lo que los clientes quiere ha de analizar el mercado y el entorno en el que realiza su actividad. Para realizar este análisis se utilizan técnicas de **investigación de mercado**, que **crean un sistema de información de marketing**. 
-Separamos dos partes:
 
-1. [[1731438416 - Marketing estratégico|Marketing estratégico]]: Estudio de necesidades. Orientar a la empresa
-2. [[1731438501 - Marketing operativo|Marketing operativo]]: Sistema de acción. Especifica y conquista los mercados con acciones concretas.
 
 
 ***
