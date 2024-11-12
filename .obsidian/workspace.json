@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 4,
         "stacked": true
       },
       {
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1731409972 - Protocol - DHCP.md",
+                "file": "02-Atomic/1730826735 - IPv4 protocol.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,7 +238,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1731409972 - Protocol - DHCP"
+              "title": "Graph of 1730826735 - IPv4 protocol"
             }
           }
         ]
@@ -341,12 +341,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cb34ee7c24c11935",
+  "active": "d69771e6620a17b2",
   "lastOpenFiles": [
-    "02-Atomic/1730826735 - IPv4 protocol.md",
-    "02-Atomic/1731409972 - Protocol - DHCP.md",
-    "00-References/Net_Biblio_Kurose.pdf",
     "02-Atomic/1730827988 - Subnets.md",
+    "02-Atomic/1731409972 - Protocol - DHCP.md",
+    "02-Atomic/1730826735 - IPv4 protocol.md",
+    "00-References/Net_Biblio_Kurose.pdf",
     "02-Atomic/1727270270 - Method - SIMPLEX.md",
     "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
     "02-Atomic/1726759457 - Programación Lineal.md",
