@@ -19,4 +19,7 @@ There are two versions of IP in use today, [[1730826735 - Protocol - IPv4 protoc
   > Really important to know about CIDR and understand what this notation means
 
 ## IPv4 vs IPv6
+
+### Transition, tunneling:
+
 ***
