@@ -17,7 +17,7 @@ Input ports must do the following actions, we’ll discuss each one of them belo
 4. Update counters for network management.
 
 ## Lookup:
-+ Iput port processing solves the centralised processing botleneck in lookup by **copying the forwarding tables into each one of the input ports.** We call this process the [[1731419106 - Match-Plus-Action method in forwarding|Match-Plus-Action ]]
++ Iput port processing solves the centralised processing botleneck in lookup by **copying the forwarding tables into each one of the input ports.** We call this process the [[1731419106 - Match-Plus-Action methods in forwarding|Match-Plus-Action ]]
 
 
 ![[1730624725 - Routerj.png|center|500]]
