@@ -1902,6 +1902,7 @@ adopted
 annd
 affect
 apart
+adere
 Creaci
 Crear
 Cuando
@@ -5541,6 +5542,7 @@ depleted
 doesnt
 days
 decision
+degraded
 modelos
 modelo
 maximizar
@@ -11198,6 +11200,8 @@ play
 possibly
 payload
 pertinent
+paid
+prioritazion
 lineal
 la
 lo
@@ -20122,6 +20126,7 @@ closest
 chooses
 configuration
 controler
+convention
 sr
 se
 subproblemas
@@ -31684,6 +31689,7 @@ negating
 ndolas
 numeraci
 nature
+neutrality
 Identificar
 Intro
 Identificaci
@@ -33255,6 +33261,7 @@ Ineraction
 INFO
 INSIE
 Ingress
+Inside
 Definir
 Din
 Design
@@ -36543,6 +36550,7 @@ fAO
 fAm
 ffice
 foor
+forces
 objetivo
 obtener
 of
@@ -47400,6 +47408,7 @@ TRABAJAR
 Translation
 Transition
 TUNELING
+Throggling
 grafo
 guardan
 global
@@ -52203,6 +52212,7 @@ Buh
 Brs
 Bxl
 Bxi
+Blocking
 Steven
 Skiena
 Serie
