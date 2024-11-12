@@ -35,6 +35,7 @@ tags:
 	4. [[1727105227 - Modelos de negocio de la empresa|Modelos de negocio de la empresa]]
 3. [[1727105893 - La función financiera de la empresa|La función financiera de la empresa]]
 4. [[1728921778 - La funcion de produccion de la empresa|La funcion de produccion de la empresa]]
+5. 
 ## Prácticas:
 1. [[1726071498 - Práctica - Elevator pitch|Práctica - Elevator pitch]]
 2. [[1727112501 - Practica - Análisis MAPFRE|Practica - Análisis MAPFRE]]
