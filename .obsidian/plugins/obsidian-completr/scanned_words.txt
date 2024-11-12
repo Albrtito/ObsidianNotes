@@ -9255,6 +9255,7 @@ everywhere
 ever
 entire
 extensive
+esential
 programaci
 primer
 paso
@@ -16398,6 +16399,7 @@ resueltos
 resolviendo
 redirects
 respond
+redirected
 References
 Resoluci
 Rectas
@@ -20110,6 +20112,7 @@ conclusion
 closest
 chooses
 configuration
+controler
 sr
 se
 subproblemas
@@ -48973,6 +48976,7 @@ ggTT
 goH
 gZZ
 generamos
+generalized
 Programaci
 Para
 Problema
@@ -64699,6 +64703,7 @@ OEe
 ObRu
 Obyig
 Optimizing
+OpenFlow
 ximo
 xrL
 xFQ
@@ -70625,6 +70630,7 @@ GWgY
 Galv
 GGk
 Giving
+Generalised
 Nota
 Novo
 Nacional
