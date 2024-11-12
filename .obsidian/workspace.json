@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1731411683 - Procotol - IPv6.md",
+                "file": "00-References/Net_Biblio_Kurose.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,7 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1731411683 - Procotol - IPv6"
+              "title": "Graph of Net_Biblio_Kurose"
             }
           }
         ]
@@ -326,13 +326,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1c2afc6a87d69958",
+  "active": "6382853dda7bb417",
   "lastOpenFiles": [
+    "02-Atomic/1731411683 - Procotol - IPv6.md",
     "99-Meta/0. Attachments/1731411683 - Procotol - IPv6j.png",
     "02-Atomic/1730826735 - Protocol - IPv4 protocol.md",
     "00-References/Net_Biblio_Kurose.pdf",
     "02-Atomic/1730651695 - The Internet Protocol (IP).md",
-    "02-Atomic/1731411683 - Procotol - IPv6.md",
     "02-Atomic/1730827988 - Subnets.md",
     "02-Atomic/1731409972 - Protocol - DHCP.md",
     "02-Atomic/1731411013 - Network Address Translation (NAT).md",
@@ -371,7 +371,6 @@
     "99-Meta/0. Attachments/Screenshot 2024-11-02 at 6.41.17 PM.png",
     "00-References/Heuri_Resources_Problemas.pdf",
     "99-Meta/0. Attachments/Criptoj-6.png",
-    "99-Meta/0. Attachments/Criptoj-5.png",
     "00-References/pbcopy",
     "00-References/UC3M_Resources_Calendario2425.pdf",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
