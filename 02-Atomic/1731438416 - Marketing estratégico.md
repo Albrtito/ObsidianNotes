@@ -21,31 +21,36 @@ cssclasses:
 ## Etapas:
 El marketing estratégico se compone de dos etapas: **Análisis y creación de objetivos**.
 
-### Análisis de situación: (Donde estamos?)
+### 1. Análisis de situación: (Donde estamos?)
 
 > [!NOTE] Def: 
 > Obtener un análisis del mercado para diseñar una estrategia que pueda aprovechar las oportunidades. 
 > 
 
-Se deben de realizar análisis de:
++ Este análisis ha de crear un sistema de información de Marketing.
 
+Se deben de realizar análisis de:
 #### Mercado:
-Diferenciar entre el mercado **de referencia**(donde se podría actuar) y mercado **releante**(donde se actua). 
+Diferenciar entre el mercado **de referencia**(donde se podría actuar) y mercado **releante**(donde se actua). Se han de identificar ambos
   
   + Se ha de determinar la **topología del mercado** para dividirlo en pequeños segmentos y conocer su **evolución**.
 
-Se usa un modelo tridimensional para 
+Se usa un modelo tridimensional para hacer este análisis e identificar el **mercado relevate.**
+  ![[1731438416 - Marketing estratégicoj.png|center|400]]
+#### Competencia:
+Es esencial saber que otros competidores existen para poder adaptar la ofertá y competir con otras empresas que actuan en el mismo mercado relevante. **Mejorar la oferta de los competidores**
 
-  
-  
-  
-+ **competencia:** 
-> + entorno
-> + interno
-+ Este análisis ha de crear un sistema de información de Marketing.
+#### Entorno externo e interno: 
+Se ha de hacer un estudio del [[1726503731 - Entorno y competencia de la empresa|Entorno y competencia de la empresa]] al igual que en funciones anteriores para determinar oportunidades y amenazas. También se ha de analizar en entorno interno para detectar debilidades potenciales de la empresa.
 
-#### Diagnóstico de la situación:
-Al finalizar este análisis se da un **diagnóstico de la situación:**
+
+### 2. Diagnóstico de la situación: (Como somos?)
+Al finalizar este análisis se da un **diagnóstico de la situación**. Obtener info fundamental de la tarea anterior. 
+
+### 3. Definición de objetivos: (A donde queremos ir?)
+Los objetivos planteados son de producto o lineas de producto.Se dividen en dot tipos: 
++ **Objetivos cuantitativos:** Logros mesurables, con cifras concreats.
++ **Objetivos cualitativos:**Metas genéricas e intangibles. Menos importantes 
 
 
 ***
