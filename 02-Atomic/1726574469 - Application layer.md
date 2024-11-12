@@ -55,7 +55,7 @@ In order to **identify the socket** we use:
  ```
 
 ### Needs: 
-Applications may need different things, based on this we choose the proper [[1726049888 - Net protocols#Transport protocols|Transport protocol]], some of the needs they may have are: 
+Applications may need different things, based on this we choose the proper [[1726049888 - Protocol - Net protocols#Transport protocols|Transport protocol]], some of the needs they may have are: 
 
 + Data **integrity:** Everything needs to reach ok, no corruption
 + **Throughput:** A need for a lot of packages in short times. (f.e: Video, multimedia)

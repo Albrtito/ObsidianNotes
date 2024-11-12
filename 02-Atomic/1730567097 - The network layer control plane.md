@@ -16,6 +16,7 @@ The control plane is the one that does all the **processing and thinking of the 
 
 ## Traditional approach: 
 The traditional approach is to have a **routing algorithm inside each router**.
+
 >This idea could be compared to having a human operator at each router deciding where to send packages. It would need to have some communication with the nearest operators
 
 + Requires that routers **talk to each other** this is done using **routing message**. 

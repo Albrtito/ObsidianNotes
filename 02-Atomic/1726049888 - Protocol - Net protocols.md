@@ -20,7 +20,7 @@ When sending packages though the internet computers need to understand one anoth
 > A protocol defines the ==format and the order== of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message or other event.
 ## Types by layer:
 The internet is constructed as a layered architecture. For each of it’s layers there are several different protocols. 
-## Application protocols: 
+### Application protocols: 
 Main application layer protocol is DNS, a distributed database:
 + [[1728037357 - DNS|DNS]]
 
@@ -29,3 +29,8 @@ Two main protocols are used in this layer, TCP and UDP.
 + [[1727428429 - Definition - UDP|UDP]]
 + [[1727428451 - Definition - TCP|TCP]]
 We must also mention the [[1727429612 - Definition - TLS|TLS]] tools. Used to add a layer of security to the transport layer protocols. 
+
+### Network protocols:
+The network protocols work with datagrams that encapsulate the transport layer data.
++ [[1731411683 - Procotol - IPv6|IPv6]]
++ [[1730826735 - Protocol - IPv4 protocol|IPv4 protocol]]

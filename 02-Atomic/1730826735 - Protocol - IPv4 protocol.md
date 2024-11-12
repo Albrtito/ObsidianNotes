@@ -1,6 +1,7 @@
 ---
 aliases:
   - IPv4 protocol
+  - IPv4
 tags:
   - Networks
   - review

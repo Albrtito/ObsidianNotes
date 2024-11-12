@@ -3,19 +3,19 @@ aliases:
   - Input port processing in routers
   - Input port processing
 tags:
-  - incomplete
   - Networks
+  - incomplete
 References: 
 cssclasses:
 ---
-### Input port processing:
+# Input port processing:
 Input ports must do the following actions, we’ll discuss each one of them below:
 
 1. Lookup into the forwarding tables and send the packet into the switching fabric to the output port. This lookup is usually denoted as the abstraction **match plus action**
 2. Physical and link layer processing.
 3. Rewrite the packets header information
 4. Update counters for network management.
-### Lookup (match plus action):
+## Lookup (match plus action):
 + Iput port processing solves the centralised processing botleneck in lookup by **copying the forwarding tables into each one of the input ports.** 
 
 ![[1730624725 - Routerj.png|center|500]]
