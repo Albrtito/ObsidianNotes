@@ -31,3 +31,7 @@ retenidos
 Caution
 Attention
 sEn
+seN
+SeN
+SEn
+inside
