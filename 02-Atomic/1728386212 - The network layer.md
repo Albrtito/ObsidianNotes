@@ -61,6 +61,14 @@ When moving packages between hosts we identify two main network layer functions,
 	
 	+ Based on the approach to the control plane, its functions will be implemented by the [[1730624725 - Router|Routers]], specifically in their processors, or by external software systems (SDN).
 
+### Middleboxes:
+Aside the basic networking planes,needed for all of this systems to work, there are others, extra system **performing functions apart from normal,standar function of an IP router.** 
+
+We identify three main systems of this nature:
+1. [[1731411013 - Network Address Translation (NAT)|NAT]] translation
+2. **Security services**
+3. **Performance enhancement services**
+
 ## Network service model:
 The netwok service model could provide tons of different services, security, in-order delivery, guaranteed delivery, congestion or flow control… However **only one service is provided**, the [[1728387775 - Best effort services|best-effort service]]. 
 
@@ -71,4 +79,3 @@ There are several network layer protocols, here is a list of them:
 
 ***
 
-[^1]: [[20240411 - 132633 - Intro to processes|Intro to processes]]
