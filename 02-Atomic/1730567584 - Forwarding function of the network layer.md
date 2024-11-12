@@ -22,9 +22,10 @@ cssclasses:
 ## Forwarding tables:
 Every network router has one forwarding table. These tables are use by the router to **know where each packet needs to be forwarded**. 
 + Data from the packet header is taken and used to index the table. 
-+ These tables are **created by the [[1730567097 - The network layer control plane|Control plane]]**
++ **IMPORTANT:** These tables are **created by the [[1730567097 - The network layer control plane|Control plane]]**
 + Forwarding tables reference IPs in their [[1730832772 - CIDR Notation|CIDR Notation]], sending all IPs with some prefix to the same place. 
 
+**NOTE:** Each of the forwarding algorithms define 
 ## Types of forwarding algorithms:
 ###  [[1731418961 - Generalized forwarding|Generalized forwarding]]
 

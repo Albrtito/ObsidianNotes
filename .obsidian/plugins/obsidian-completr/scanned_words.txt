@@ -1900,6 +1900,7 @@ accepted
 active
 adopted
 annd
+affect
 Creaci
 Crear
 Cuando
@@ -5538,6 +5539,7 @@ deplet
 depleted
 doesnt
 days
+decision
 modelos
 modelo
 maximizar
@@ -11193,6 +11195,7 @@ plug
 play
 possibly
 payload
+pertinent
 lineal
 la
 lo
@@ -18009,6 +18012,7 @@ Reduce
 Reinas
 Realizamos
 Request
+ROUTER
 cssclasses
 correcto
 correcta
@@ -33241,6 +33245,9 @@ ICEXq
 IgZo
 Ingenier
 Ineraction
+INFO
+INSIE
+Ingress
 Definir
 Din
 Design
@@ -34874,6 +34881,9 @@ Dinamic
 Discover
 Different
 Dropping
+DATA
+DEST
+DROP
 funci
 fibonacci
 fica
@@ -41260,6 +41270,7 @@ Arity
 Ademas
 ASUMIMOS
 Action
+ACTION
 Floyd
 Foundations
 Funci
@@ -42749,6 +42760,7 @@ FAHQQO
 FkyM
 FALSE
 Felisa
+FORWARD
 Warshall
 Width
 We
@@ -44257,6 +44269,7 @@ WMuEd
 Wuq
 WPd
 Ways
+WHERE
 Heuri
 Hecho
 HyO
@@ -50720,6 +50733,7 @@ Podr
 Procotol
 Plus
 Prefix
+PORT
 Biblio
 BitsPerComponent
 BI
@@ -53861,6 +53875,8 @@ Syntactically
 Submissions
 Seis
 SOHO
+SEND
+Src
 Manual
 Modelar
 Millones
@@ -55505,6 +55521,9 @@ Maybe
 Manuela
 Match
 Modify
+MOVEMENT
+MATCH
+MODIFY
 Zivkovic
 Zo
 Zi
@@ -84279,6 +84298,7 @@ KXe
 KcrG
 KiIz
 KRuS
+KNOWS
 ÜL
 ÜI
 Ün

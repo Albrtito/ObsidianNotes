@@ -73,7 +73,7 @@
                 }
               }
             ],
-            "currentTab": 1,
+            "currentTab": 3,
             "stacked": true
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730567584 - Forwarding function of the network layer.md",
+                "file": "02-Atomic/1731419106 - Match-Plus-Action methods in forwarding.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +221,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730567584 - Forwarding function of the network layer"
+              "title": "Graph of 1731419106 - Match-Plus-Action methods in forwarding"
             }
           }
         ]
@@ -236,10 +236,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730567584 - Forwarding function of the network layer.md"
+                "file": "02-Atomic/1731419106 - Match-Plus-Action methods in forwarding.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730567584 - Forwarding function of the network layer"
+              "title": "Outline of 1731419106 - Match-Plus-Action methods in forwarding"
             }
           },
           {
@@ -323,15 +323,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "50ae9f418d541bb7",
+  "active": "891fcbeb9c65f6dd",
   "lastOpenFiles": [
-    "02-Atomic/1731418961 - Generalized forwarding.md",
-    "02-Atomic/1731419106 - Match-Plus-Action methods in forwarding.md",
     "02-Atomic/1730567584 - Forwarding function of the network layer.md",
-    "02-Atomic/1730624725 - Router.md",
-    "02-Atomic/1730648938 - Input port processing in routers.md",
+    "02-Atomic/1731419106 - Match-Plus-Action methods in forwarding.md",
     "00-References/Net_Biblio_Kurose.pdf",
     "02-Atomic/1730567078 - The network layer data plane.md",
+    "02-Atomic/1731418961 - Generalized forwarding.md",
+    "02-Atomic/1730624725 - Router.md",
+    "02-Atomic/1730648938 - Input port processing in routers.md",
     "02-Atomic/1728386212 - The network layer.md",
     "02-Atomic/1730567097 - The network layer control plane.md",
     "02-Atomic/1730567598 - Routing function of the network layer.md",
@@ -353,7 +353,6 @@
     "02-Atomic/1730297192 - Satisfacibilidad Lógica.md",
     "02-Atomic/1728916836 - Restos potenciales.md",
     "02-Atomic/1726499016 - Definir objetivos en la empresa.md",
-    "02-Atomic/1725912047 - La microeconomía de la empresa.md",
     "00-References/HyO_Biblio_Marek V. Introduction to mathematics of satisfiability.pdf",
     "00-References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00-References/HyO_Biblio_Hamdy.pdf",

@@ -24,6 +24,9 @@ The match plus action process is performed inside the routers, it is an esential
 
 ## OpenFlow generalised forwarding:
 
+> [!example] Remember: 
+> Match plus action is not creating the tables, just using their defined structure 
+
 We’ll look at the match-plus-action method for **generalised forwarding**. This method is ruled by the **OpenFlow** standard. 
 ### Flow tables:
 The forwarding or flow tables contain the following fields for each entry:
@@ -33,11 +36,25 @@ The forwarding or flow tables contain the following fields for each entry:
 
 ### Match: 
 The OpenFLow standard can look at fields from link,network annd transport layers to assign the package to a flow table entry.
+Therefore, the match part of the forwarding table will have aa value for the port, IP source and IP destination. 
+
+| Ingress port | IP Src | IP Dest |
+| ------------ | ------ | ------- |
+|              |        |         |
++ Of course, a table could have no value for some of this fields at it may not be pertinent or affect the decision. 
 
 ### Action: 
 There are three types of actions that the flow table can perform:
 + **Forwarding**
 + **Dropping**
 + **Modify-field**
+
+### Example: 
+A complete forwarding table following this match-plus-action implementation would have the form:
+
+| MATCH                          | ACTION                |
+| ------------------------------ | --------------------- |
+| PORT: X, IP SRC: X, IP DEST: X | FORWARD\|DROP\|MODIFY |
+
 
 ***
