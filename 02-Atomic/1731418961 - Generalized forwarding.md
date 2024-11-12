@@ -9,4 +9,10 @@ cssclasses:
 ---
 # Generalized forwarding
 
+> [!NOTE] Intro(Analogy): 
+>  Each node sees the final destination of the packet **along with a lot of other info** and decides where to send it based on an algorithm programmed into the router. 
+>  
+>  The cars that enter a roundabout not only tell the booth assistant where to go but also have some properties that allow them to use some exits or not (maybe older cars cannot use the fast highway). It can also happen that some cars are not allowed to used any of the exits.
+
+
 ***

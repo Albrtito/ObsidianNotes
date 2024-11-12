@@ -9254,6 +9254,7 @@ eliminando
 everywhere
 ever
 entire
+extensive
 programaci
 primer
 paso
@@ -22012,6 +22013,7 @@ smartphones
 started
 stedy
 support
+searching
 interval
 importancia
 incorrecto
@@ -41249,6 +41251,7 @@ Axioms
 Arity
 Ademas
 ASUMIMOS
+Action
 Floyd
 Foundations
 Funci
@@ -50706,6 +50709,7 @@ PARTE
 Parte
 Podr
 Procotol
+Plus
 Biblio
 BitsPerComponent
 BI
@@ -55489,6 +55493,7 @@ MZG
 Monadic
 Maybe
 Manuela
+Match
 Zivkovic
 Zo
 Zi
@@ -64693,6 +64698,7 @@ OIhqw
 OEe
 ObRu
 Obyig
+Optimizing
 ximo
 xrL
 xFQ
