@@ -67,7 +67,7 @@ Aside the basic networking planes,needed for all of this systems to work, there 
 We identify three main systems of this nature:
 1. [[1731411013 - Network Address Translation (NAT)|NAT]] translation
 2. **Security services**
-3. **Performance enhancement services**
+3. **Performance enhancement services.**
 
 ## Network service model:
 The netwok service model could provide tons of different services, security, in-order delivery, guaranteed delivery, congestion or flow control… However **only one service is provided**, the [[1728387775 - Best effort services|best-effort service]]. 

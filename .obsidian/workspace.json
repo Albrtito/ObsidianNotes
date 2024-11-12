@@ -58,6 +58,7 @@
                 }
               }
             ],
+            "currentTab": 2,
             "stacked": true
           },
           {
@@ -85,13 +86,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/1730567078 - The network layer data plane.md",
+                    "file": "02-Atomic/1730651054 - Router packet scheduling methods.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "1730567078 - The network layer data plane"
+                  "title": "1730651054 - Router packet scheduling methods"
                 }
               },
               {
@@ -125,7 +126,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -166,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1726572508 - The network stack.md",
+                "file": "02-Atomic/1730651054 - Router packet scheduling methods.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,7 +252,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1726572508 - The network stack"
+              "title": "Graph of 1730651054 - Router packet scheduling methods"
             }
           }
         ]
@@ -266,10 +267,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1726572508 - The network stack.md"
+                "file": "02-Atomic/1730651054 - Router packet scheduling methods.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1726572508 - The network stack"
+              "title": "Outline of 1730651054 - Router packet scheduling methods"
             }
           },
           {
@@ -353,18 +354,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "011197baadde315c",
+  "active": "fc5c4543203cc1ff",
   "lastOpenFiles": [
-    "99-Meta/0. Attachments/1726572508 - The network stackj.png",
+    "02-Atomic/1730624725 - Router.md",
+    "02-Atomic/1730650392 - Types of switching fabrics.md",
+    "02-Atomic/1730648938 - Input port processing in routers.md",
     "02-Atomic/1728386212 - The network layer.md",
+    "02-Atomic/1730567097 - The network layer control plane.md",
+    "02-Atomic/1726572508 - The network stack.md",
+    "02-Atomic/1731419106 - Match-Plus-Action methods in forwarding.md",
+    "02-Atomic/1730651054 - Router packet scheduling methods.md",
+    "02-Atomic/1730567078 - The network layer data plane.md",
+    "99-Meta/0. Attachments/1726572508 - The network stackj.png",
     "02-Atomic/1730567584 - Forwarding function of the network layer.md",
     "00-References/Net_Biblio_Kurose.pdf",
-    "02-Atomic/1730567078 - The network layer data plane.md",
-    "02-Atomic/1730567097 - The network layer control plane.md",
-    "02-Atomic/1731419106 - Match-Plus-Action methods in forwarding.md",
     "02-Atomic/1731418961 - Generalized forwarding.md",
-    "02-Atomic/1730624725 - Router.md",
-    "02-Atomic/1730648938 - Input port processing in routers.md",
     "02-Atomic/1730567598 - Routing function of the network layer.md",
     "02-Atomic/1730826735 - Protocol - IPv4 protocol.md",
     "02-Atomic/1726049888 - Protocol - Net protocols.md",
@@ -382,8 +386,6 @@
     "02-Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
     "02-Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
     "02-Atomic/1730297192 - Satisfacibilidad Lógica.md",
-    "02-Atomic/1728916836 - Restos potenciales.md",
-    "02-Atomic/1726499016 - Definir objetivos en la empresa.md",
     "00-References/HyO_Biblio_Marek V. Introduction to mathematics of satisfiability.pdf",
     "00-References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "00-References/HyO_Biblio_Hamdy.pdf",
@@ -397,7 +399,6 @@
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.17.05 PM.png",
     "99-Meta/0. Attachments/1730624725 - Routerj.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 10.09.35 AM.png",
-    "99-Meta/0. Attachments/Screenshot 2024-11-02 at 6.41.17 PM.png",
     "00-References/Heuri_Resources_Problemas.pdf",
     "00-References/pbcopy",
     "00-References/UC3M_Resources_Calendario2425.pdf",

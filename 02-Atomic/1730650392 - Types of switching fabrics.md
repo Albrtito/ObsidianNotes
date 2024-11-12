@@ -2,8 +2,9 @@
 aliases:
   - Types of switching fabrics
 tags:
-  - incomplete
-References:
+  - Networks
+  - review
+References: 
 cssclasses:
 ---
 # Types of switching fabrics

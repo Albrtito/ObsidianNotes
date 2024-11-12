@@ -49,11 +49,11 @@ As previously defined, layers work as an stack. So if a message wants to be sent
 >2. The link layer adds a header
 >1. Message goes through the physical layer.
 
-> [!NOTE] Definitions
+> [!example] Definitions
 >+ Some definitions: 
->	+ **Segment:** Message + 1 header
->	+ **Datagram:** Message + 2 headers
->	+ **Frame:** Message + 3 headers
+>	+ **Segment:** Message + 1 header → Packet of transport layer
+>	+ **Datagram:** Message + 2 headers → Packet of Network layer
+>	+ **Frame:** Message + 3 headers → Packet of the link layer
 
 At the other end it goes in reverse: 
 
