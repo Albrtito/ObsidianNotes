@@ -1903,6 +1903,7 @@ annd
 affect
 apart
 adere
+avoiding
 Creaci
 Crear
 Cuando
