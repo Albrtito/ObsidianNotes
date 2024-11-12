@@ -56,7 +56,8 @@
                   "title": "1726503731 - Entorno y competencia de la empresa"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "62bb77f775aa2aba",
@@ -115,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1731438416 - Marketing estratégico.md",
+                "file": "02-Atomic/1731438501 - Marketing operativo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +201,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1731438416 - Marketing estratégico"
+              "title": "Graph of 1731438501 - Marketing operativo"
             }
           }
         ]
@@ -215,10 +216,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1731438416 - Marketing estratégico.md"
+                "file": "02-Atomic/1731438501 - Marketing operativo.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1731438416 - Marketing estratégico"
+              "title": "Outline of 1731438501 - Marketing operativo"
             }
           },
           {
@@ -303,12 +304,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6ffae813ee33884c",
+  "active": "909f25a708101411",
   "lastOpenFiles": [
+    "02-Atomic/1731438416 - Marketing estratégico.md",
     "99-Meta/0. Attachments/1731438416 - Marketing estratégicoj.png",
     "02-Atomic/1731438501 - Marketing operativo.md",
     "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
-    "02-Atomic/1731438416 - Marketing estratégico.md",
     "02-Atomic/1731436877 - El plan de marketing.md",
     "99-Meta/0. Attachments/1731436877 - El plan de marketingj.png",
     "02-Atomic/1731435991 - Gestion comercial y marketing en la empresa.md",
@@ -347,7 +348,6 @@
     "99-Meta/0. Attachments/IP Addressing and Routing Schemej.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",
     "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.17.05 PM.png",
-    "99-Meta/0. Attachments/1730624725 - Routerj.png",
     "00-References/Heuri_Resources_Problemas.pdf",
     "00-References/pbcopy",
     "00-References/UC3M_Resources_Calendario2425.pdf",
