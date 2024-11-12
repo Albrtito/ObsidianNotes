@@ -3,8 +3,8 @@ aliases:
   - The Internet Protocol (IP)
   - IP
 tags:
-  - incomplete
   - Networks
+  - review
 References: 
 cssclasses:
 ---
@@ -28,6 +28,11 @@ The transition between these two protocols needs to be slow and stedy, changing 
 
 
 > [!check] Solution
-> The **solution that has been adopted is TUNELING**. 
+> The **solution that has been adopted is TUNELING**. With tunneling we can transfer an IPv6 datagram over IPv4-only nodes. 
+> This is done by putting the entire IPv6 datagram into the payload of an IPv4 datagram. **Just like with any other service, this service is just providing translation between versions**.
++ The reciever of the IPv4 datagram will be the next IPv6 router
++ The version field of the IPv4 datagram will contain a 41, meaning it has inside an IPv6 datagram.
 
+> An example of how the tunneling works:
+	![[1730651695 - The Internet Protocol (IP)j.png|center|400]]
 ***

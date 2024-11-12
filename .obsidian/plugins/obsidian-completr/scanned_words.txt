@@ -1896,6 +1896,9 @@ asumimos
 assignes
 automatically
 acknowledges
+accepted
+active
+adopted
 Creaci
 Crear
 Cuando
@@ -5533,6 +5536,7 @@ distinta
 deplet
 depleted
 doesnt
+days
 modelos
 modelo
 maximizar
@@ -9249,6 +9253,7 @@ encontrando
 eliminando
 everywhere
 ever
+entire
 programaci
 primer
 paso
@@ -11183,6 +11188,7 @@ parece
 plug
 play
 possibly
+payload
 lineal
 la
 lo
@@ -14598,6 +14604,7 @@ trabajar
 translation
 translate
 tunneling
+transition
 review
 resolver
 realizar
@@ -22003,6 +22010,8 @@ soluc
 seguidad
 smartphones
 started
+stedy
+support
 interval
 importancia
 incorrecto
@@ -47358,6 +47367,7 @@ TRUE
 TRABAJAR
 Translation
 Transition
+TUNELING
 grafo
 guardan
 global
@@ -60117,6 +60127,7 @@ bqIq
 bpd
 basics
 bridge
+billions
 Util
 Una
 UniZumo
@@ -79731,6 +79742,7 @@ whom
 weeks
 works
 wireless
+widely
 kL
 kMZ
 kC
