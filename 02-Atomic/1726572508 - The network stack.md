@@ -63,7 +63,5 @@ At the other end it goes in reverse:
 > 4. Transpor layer decodes (check header)
 > 5. App layer delivers to respective service 
 
-#### Routers and switches:
-The previous example only covers host to host **direct connection**, when going through routers or switches thing changes: 
-+ Switches: **only have physical and link**
-+ routers:**only have physical, link and network.**
+## The IP hourglass: 
+An interesting point to make is the impact that the IP protocol has over the whole internet. All layers have several protocols that could be implemented while **the network layer only has the IP protocol**. ![[1726572508 - The network stackj.png|center|300]]
