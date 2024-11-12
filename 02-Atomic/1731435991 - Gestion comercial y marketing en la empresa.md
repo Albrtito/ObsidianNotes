@@ -24,6 +24,11 @@ cssclasses:
 > + Estos valores no tienen porque ser monetarios 
 
 ## Tipos de marketing:
+Los tipos existentes de marketing se diferencianclaramente según si tienen una **orientación a ventas o al marketing**: 
++ **Orientación a ventas:** La empresa le ventde al cliente.
+  Marketing pasivo o de organización
++ **Orienteación al marketing:** La empresa vende según lo que el marketing le dice. 
+  Marketing activo y social.
 ### Marketing pasivo:
 La actividad del marketing es limitada, el marketing **no decide lo que se produce sino que vente lo producido**
 + Más importante la producción que la comercialización. El marketing casi que ni importa
@@ -44,7 +49,12 @@ La **tarea principal esl el marketing**.
 + Se estudian los mercados objetivo y a los clientes
 + Proporcionar bienes en areas importantes par alos clientes 
 
+## Planificación del marketing:
+Para que la empresa pueda saber lo que los clientes quiere ha de analizar el mercado y el entorno en el que realiza su actividad. Para realizar este análisis se utilizan técnicas de **investigación de mercado**, que **crean un sistema de información de marketing**. 
+Separamos dos partes:
 
+1. [[1731438416 - Marketing estratégico|Marketing estratégico]]: Estudio de necesidades. Orientar a la empresa
+2. [[1731438501 - Marketing operativo|Marketing operativo]]: Sistema de acción. Especifica y conquista los mercados con acciones concretas.
 
 
 ***

@@ -1904,6 +1904,10 @@ affect
 apart
 adere
 avoiding
+absorve
+adaptan
+areas
+alos
 Creaci
 Crear
 Cuando
@@ -3659,6 +3663,7 @@ Constant
 Connectives
 Construction
 CSP
+Contacto
 de
 due
 dar
@@ -5544,6 +5549,8 @@ doesnt
 days
 decision
 degraded
+deseados
+diferencianclaramente
 modelos
 modelo
 maximizar
@@ -7353,6 +7360,7 @@ modelada
 mall
 mater
 matched
+monetarios
 en
 ease
 es
@@ -9265,6 +9273,10 @@ entire
 extensive
 esential
 enhancement
+existentes
+experimentado
+esl
+estudian
 programaci
 primer
 paso
@@ -11203,6 +11215,10 @@ payload
 pertinent
 paid
 prioritazion
+procede
+principal
+porque
+presiona
 lineal
 la
 lo
@@ -12876,6 +12892,7 @@ lXjXo
 llevan
 labeling
 labeled
+limitada
 tags
 tres
 todos
@@ -14619,6 +14636,7 @@ translation
 translate
 tunneling
 transition
+tomadas
 review
 resolver
 realizar
@@ -16413,6 +16431,8 @@ redirects
 respond
 redirected
 ruled
+relaciones
+respondan
 References
 Resoluci
 Rectas
@@ -20128,6 +20148,9 @@ chooses
 configuration
 controler
 convention
+coge
+conquista
+concretas
 sr
 se
 subproblemas
@@ -22033,6 +22056,7 @@ stedy
 support
 searching
 standar
+satisfacci
 interval
 importancia
 incorrecto
@@ -28583,6 +28607,7 @@ Existential
 Evaluation
 Everyone
 Expanded
+Especifica
 vital
 variables
 vez
@@ -30146,6 +30171,8 @@ vJB
 vFA
 validate
 variales
+ventde
+vente
 no
 nuestras
 ndar
@@ -33263,6 +33290,7 @@ INFO
 INSIE
 Ingress
 Inside
+Into
 Definir
 Din
 Design
@@ -36552,6 +36580,7 @@ fAm
 ffice
 foor
 forces
+facilitar
 objetivo
 obtener
 of
@@ -38087,6 +38116,8 @@ obteniendo
 offer
 ofered
 ome
+orientaci
+operativo
 que
 queremos
 qD
@@ -47410,6 +47441,7 @@ Translation
 Transition
 TUNELING
 Throggling
+Toma
 grafo
 guardan
 global
@@ -49013,6 +49045,7 @@ goH
 gZZ
 generamos
 generalized
+gico
 Programaci
 Para
 Problema
@@ -50752,6 +50785,9 @@ Procotol
 Plus
 Prefix
 PORT
+Proporcionar
+Precio
+Producto
 Biblio
 BitsPerComponent
 BI
@@ -53896,6 +53932,8 @@ Seis
 SOHO
 SEND
 Src
+Satisfacer
+Separamos
 Manual
 Modelar
 Millones
@@ -55544,6 +55582,7 @@ MOVEMENT
 MATCH
 MODIFY
 Middleboxes
+Marketing
 Zivkovic
 Zo
 Zi
@@ -58547,6 +58586,7 @@ LFbjf
 LgC
 LHL
 LADXWM
+Lograr
 bottom
 base
 brik
@@ -64752,6 +64792,8 @@ Obyig
 Optimizing
 OpenFlow
 OpenFLow
+Orienteaci
+Orientar
 ximo
 xrL
 xFQ
