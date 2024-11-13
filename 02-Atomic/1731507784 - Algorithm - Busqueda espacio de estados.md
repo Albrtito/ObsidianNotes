@@ -24,8 +24,10 @@ cssclasses:
 > + **Espacio de problemas:**
 > 	+ **Espacio de estados**: Un grafo: G(V,E)
 > 	+ **Un estado inicial**, s: 
-> 	+ **Min un estado final**, t: 
-> 
+> 	+ **Min un estado final**, t: Se pueden definir explicitamente o implicitamente. La definición explicita apunta a problemas de **optimización** y la definición implícidta a problemas de **decibilidad.**
+> + **Solución:** La solución contiene un conjunto de operadores(transformaciones), en orden, que transforman el estado inicial al final. Esto se ve **representado como un camino en el grafo**
+
+
 
 
 ## Representación gráfica: 
