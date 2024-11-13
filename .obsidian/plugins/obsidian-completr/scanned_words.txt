@@ -1913,6 +1913,9 @@ aprovechar
 actuar
 adaptar
 adyacentes
+arrows
+adjacency
+arbol
 Creaci
 Crear
 Cuando
@@ -5562,6 +5565,11 @@ definidos
 dividirlo
 diagn
 definiendo
+diagrams
+directed
+deduced
+dense
+dictionaries
 modelos
 modelo
 maximizar
@@ -9301,6 +9309,9 @@ exigibles
 estaos
 estasdos
 expande
+explicita
+eliminate
+enumerar
 programaci
 primer
 paso
@@ -12923,6 +12934,7 @@ labeled
 limitada
 lissi
 ltimas
+loops
 tags
 tres
 todos
@@ -14669,6 +14681,7 @@ transition
 tomadas
 topolog
 tmos
+transitivity
 review
 resolver
 realizar
@@ -16469,6 +16482,10 @@ rige
 releante
 relevate
 representadas
+representado
+removing
+reflexivity
+representarlos
 References
 Resoluci
 Rectas
@@ -20197,6 +20214,7 @@ cualitativos
 conplejidad
 configuraciones
 caminos
+cidta
 sr
 se
 subproblemas
@@ -22108,6 +22126,10 @@ stico
 segmentaci
 simultaneas
 sucesores
+sem
+simplification
+sctructure
+sparse
 interval
 importancia
 incorrecto
@@ -23959,6 +23981,8 @@ introduce
 interesting
 impact
 intangibles
+implicitamente
+impl
 un
 una
 utiliza
@@ -25483,6 +25507,7 @@ uWS
 universal
 usage
 uniting
+upwards
 hora
 hacemos
 hacia
@@ -28662,6 +28687,8 @@ Expanded
 Especifica
 Estrat
 Etapas
+Eliminate
+Enumerando
 vital
 variables
 vez
@@ -30227,6 +30254,7 @@ validate
 variales
 ventde
 vente
+vertex
 no
 nuestras
 ndar
@@ -31772,6 +31800,7 @@ ndolas
 numeraci
 nature
 neutrality
+ntico
 Identificar
 Intro
 Identificaci
@@ -44381,6 +44410,7 @@ Wuq
 WPd
 Ways
 WHERE
+Weighted
 Heuri
 Hecho
 HyO
@@ -45890,6 +45920,7 @@ HnE
 HmU
 HCO
 HKOTR
+Hasse
 TODOS
 The
 Trabajo
@@ -49110,6 +49141,7 @@ gZZ
 generamos
 generalized
 gico
+graf
 Programaci
 Para
 Problema
@@ -55653,6 +55685,7 @@ Marketing
 Mercado
 Metas
 Marca
+Make
 Zivkovic
 Zo
 Zi
@@ -70795,6 +70828,7 @@ Galv
 GGk
 Giving
 Generalised
+Graf
 Nota
 Novo
 Nacional
