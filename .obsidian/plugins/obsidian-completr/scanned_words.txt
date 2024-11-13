@@ -1912,6 +1912,7 @@ anparte
 aprovechar
 actuar
 adaptar
+adyacentes
 Creaci
 Crear
 Cuando
@@ -9299,6 +9300,7 @@ esencial
 exigibles
 estaos
 estasdos
+expande
 programaci
 primer
 paso
@@ -22105,6 +22107,7 @@ segmentos
 stico
 segmentaci
 simultaneas
+sucesores
 interval
 importancia
 incorrecto

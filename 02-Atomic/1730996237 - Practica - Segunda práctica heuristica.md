@@ -20,9 +20,15 @@ cssclasses:
 ## Búsqueda: 
 ### Búsqueda espacio de estados: 
 + Los diferentes estados se pueden crear usando objetos (creando clases)
+	+ Los estados se **representan con contenido semántico**
 + Los operadores toman la forma de funciones/métodos. 
-	+ Dado un estado la función devuelve sus estados sucesores(de un nodo loa adyacentes). `función descendants` 
-	  Esta función **expande un nodo**
-	  x
+```c
+if <condition>
+	then <efectos>
+```
+
++ **Creación de funciones de adyacentes:** Dado un estado la función devuelve sus estados sucesores(de un nodo loa adyacentes). `función descendants` 
+	+ Esta función **expande un nodo**
+	  
 
 ***

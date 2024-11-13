@@ -97,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
+                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1731507784 - Algorithm - Busqueda espacio de estados"
+              "title": "Graph of Heuristica y Opti"
             }
           }
         ]
@@ -246,7 +246,7 @@
               "type": "markdown",
               "state": {
                 "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
@@ -292,7 +292,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e46d42893c588fee",
+  "active": "2dca472e18c0e06a",
   "lastOpenFiles": [
     "02-Atomic/1730996237 - Practica - Segunda práctica heuristica.md",
     "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
