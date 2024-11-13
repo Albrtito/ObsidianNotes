@@ -12,6 +12,10 @@ cssclasses:
 > [!NOTE] Intro:  
 > Los algoritmos de búsqueda resuelven de forma eficiente aquellos problemas con conplejidad exponencial. 
 
+> [!NOTE] Utilida 
+> Contents
+
+
 
 
 

@@ -12,8 +12,8 @@ cssclasses:
 ---
 # Graf Data sctructure
 
-## Weighted graph: 
-Un grafo 
+## Weights: 
+Un grafo con pesos asignados para cada una de sus aristas. 
 ## Implementations: 
 ### Using adjacency matrices: 
 + Used when the graf is **dense**

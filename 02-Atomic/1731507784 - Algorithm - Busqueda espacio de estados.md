@@ -13,6 +13,10 @@ cssclasses:
 > En el examen habrá seguro una **modelización de un problmea de búsqueda con espacios de estado**. 
 > 
 
+Los algoritmos de búsqueda de espacios de estado se dividen en tres parte: 
+1. Modelado del problema en forma de grafo, obteniendo los estados y operadores 
+2. Obtener un **arbol de búsqueda** con todos los caminos posibles en el grafo empezando en el estado inicial. Este algoritmo se genera **utilizando algoritmos de búsqueda**
+3. Analizar el arbol para obtener soluciones
 
 > [!example] Nomenglatura y definiciones: 
 > + **Estados:** configuraciones posibles del problema. Representan información **estática**
@@ -32,6 +36,14 @@ Se pueden representar los estaos y operadores como un [[1731511534 - Graf Data s
 
 En esta representación también observamos que las **restricciones se ven representadas como los caminos que no se pueden realizar.**
 + Si no puedo llegar a un nodo desde otro tendremos una restricción. 
+## Árboles de decibilidad:
+Definimos dos factores de importancia de los árboles de decibilidad:
+1.  factor de ramificación: Lo ancho que puede llegar a ser el arbol (anchura max)
+2. factor de profundidad: Lo alto que puede llegar a ser el arbol. 
+
+ 
+
+
 
 
 ***

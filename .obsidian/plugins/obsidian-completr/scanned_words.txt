@@ -1916,6 +1916,7 @@ adyacentes
 arrows
 adjacency
 arbol
+asignados
 Creaci
 Crear
 Cuando
@@ -11258,6 +11259,7 @@ planteados
 posicionamiento
 posicionar
 presenta
+pesos
 lineal
 la
 lo
@@ -16486,6 +16488,8 @@ representado
 removing
 reflexivity
 representarlos
+rbol
+rboles
 References
 Resoluci
 Rectas
@@ -44411,6 +44415,7 @@ WPd
 Ways
 WHERE
 Weighted
+Weights
 Heuri
 Hecho
 HyO

@@ -39,7 +39,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       },
       {
@@ -112,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
+                "file": "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1731507784 - Algorithm - Busqueda espacio de estados"
+              "title": "Graph of 1731507348 - Algoritmos de búsqueda"
             }
           }
         ]
@@ -307,12 +306,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e46d42893c588fee",
+  "active": "8a354a9a9b2861dc",
   "lastOpenFiles": [
+    "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
     "02-Atomic/1731511534 - Graf Data sctructure.md",
     "02-Atomic/20240519 - 165637 - Hasse diagram.md",
     "02-Atomic/1730996237 - Practica - Segunda práctica heuristica.md",
-    "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1727969475 - Practica - Primera practica Heuristica.md",
     "02-Atomic/1730303159 - Satisfacción de restricciones.md",
