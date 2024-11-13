@@ -15,15 +15,18 @@ cssclasses:
 
 
 > [!example] Nomenglatura y definiciones: 
-> **Estados:** configuraciones posibles del problema. Representan información **estática**
+> + **Estados:** configuraciones posibles del problema. Representan información **estática**
 > 
-> **Operadores:** Transitar entre los estados. 
+> + **Operadores:** Transitar entre los estados. 
 > 
-> **Vista estática del problema:** La estructura que tienen los estados del problema y la información que en ellos se presenta.
+> + **Vista estática del problema:** La estructura que tienen los estados del problema y la información que en ellos se presenta.
 > 
+> + **Espacio de problemas:**
+> 	+ **Espacio de estados**: Un grafo: G(V,E)
+> 	+ **Un estado inicial**, s: 
+> 	+ **Min un estado final**, t: 
 > 
-> 
->  
+
 
 ## Representación gráfica: 
 Se pueden representar los estaos y operadores como un grafo en el que los **nodos serán estasdos** y las **aristas serán los operadores.** 

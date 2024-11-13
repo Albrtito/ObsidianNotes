@@ -97,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730996237 - Practica - Segunda práctica heuristica.md",
+                "file": "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730996237 - Practica - Segunda práctica heuristica"
+              "title": "Graph of 1731507784 - Algorithm - Busqueda espacio de estados"
             }
           }
         ]
@@ -292,10 +292,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1082fad7fa6f2c0c",
+  "active": "e46d42893c588fee",
   "lastOpenFiles": [
-    "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
     "02-Atomic/1730996237 - Practica - Segunda práctica heuristica.md",
+    "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
     "02-Atomic/1727969475 - Practica - Primera practica Heuristica.md",
     "02-Atomic/1730303159 - Satisfacción de restricciones.md",
     "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
