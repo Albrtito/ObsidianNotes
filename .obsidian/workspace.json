@@ -198,7 +198,7 @@
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.047595539761346686,
+                  "scale": 0.09611498563436155,
                   "close": true
                 }
               },
@@ -241,8 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -306,7 +305,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8a354a9a9b2861dc",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
     "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
     "02-Atomic/1731511534 - Graf Data sctructure.md",
