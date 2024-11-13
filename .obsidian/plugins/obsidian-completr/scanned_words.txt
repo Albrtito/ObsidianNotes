@@ -1910,6 +1910,8 @@ areas
 alos
 anparte
 aprovechar
+actuar
+adaptar
 Creaci
 Crear
 Cuando
@@ -3666,6 +3668,8 @@ Connectives
 Construction
 CSP
 Contacto
+Competencia
+Concepci
 de
 due
 dar
@@ -5554,6 +5558,8 @@ degraded
 deseados
 diferencianclaramente
 definidos
+dividirlo
+diagn
 modelos
 modelo
 maximizar
@@ -7364,6 +7370,9 @@ mall
 mater
 matched
 monetarios
+mesurables
+meterlo
+mente
 en
 ease
 es
@@ -9283,6 +9292,9 @@ estudian
 eobjetivos
 emrpesa
 etapas
+evoluci
+esencial
+exigibles
 programaci
 primer
 paso
@@ -11225,6 +11237,9 @@ procede
 principal
 porque
 presiona
+planteados
+posicionamiento
+posicionar
 lineal
 la
 lo
@@ -14645,6 +14660,7 @@ translate
 tunneling
 transition
 tomadas
+topolog
 review
 resolver
 realizar
@@ -16442,6 +16458,8 @@ ruled
 relaciones
 respondan
 rige
+releante
+relevate
 References
 Resoluci
 Rectas
@@ -20162,6 +20180,10 @@ convention
 coge
 conquista
 concretas
+cuantitativos
+cifras
+concreats
+cualitativos
 sr
 se
 subproblemas
@@ -22068,6 +22090,10 @@ support
 searching
 standar
 satisfacci
+segmentos
+stico
+segmentaci
+simultaneas
 interval
 importancia
 incorrecto
@@ -23918,6 +23944,7 @@ imlementa
 introduce
 interesting
 impact
+intangibles
 un
 una
 utiliza
@@ -34940,6 +34967,8 @@ Dropping
 DATA
 DEST
 DROP
+Diferenciar
+Diagn
 funci
 fibonacci
 fica
@@ -36595,6 +36624,7 @@ foor
 forces
 facilitar
 fonde
+finalizar
 objetivo
 obtener
 of
@@ -38132,6 +38162,7 @@ ofered
 ome
 orientaci
 operativo
+ofert
 que
 queremos
 qD
@@ -50803,6 +50834,7 @@ Proporcionar
 Precio
 Producto
 Presupuesto
+Participaci
 Biblio
 BitsPerComponent
 BI
@@ -55598,6 +55630,9 @@ MATCH
 MODIFY
 Middleboxes
 Marketing
+Mercado
+Metas
+Marca
 Zivkovic
 Zo
 Zi
@@ -58602,6 +58637,7 @@ LgC
 LHL
 LADXWM
 Lograr
+Logros
 bottom
 base
 brik

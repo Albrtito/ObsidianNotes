@@ -56,8 +56,7 @@
                   "title": "1726503731 - Entorno y competencia de la empresa"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "62bb77f775aa2aba",
@@ -116,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1731438501 - Marketing operativo.md",
+                "file": "02-Atomic/1731438416 - Marketing estratégico.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +200,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1731438501 - Marketing operativo"
+              "title": "Graph of 1731438416 - Marketing estratégico"
             }
           }
         ]
@@ -216,10 +215,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1731438501 - Marketing operativo.md"
+                "file": "02-Atomic/1731438416 - Marketing estratégico.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1731438501 - Marketing operativo"
+              "title": "Outline of 1731438416 - Marketing estratégico"
             }
           },
           {
@@ -304,12 +303,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "909f25a708101411",
+  "active": "6ffae813ee33884c",
   "lastOpenFiles": [
+    "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
+    "02-Atomic/1731438501 - Marketing operativo.md",
     "02-Atomic/1731438416 - Marketing estratégico.md",
     "99-Meta/0. Attachments/1731438416 - Marketing estratégicoj.png",
-    "02-Atomic/1731438501 - Marketing operativo.md",
-    "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02-Atomic/1731436877 - El plan de marketing.md",
     "99-Meta/0. Attachments/1731436877 - El plan de marketingj.png",
     "02-Atomic/1731435991 - Gestion comercial y marketing en la empresa.md",
