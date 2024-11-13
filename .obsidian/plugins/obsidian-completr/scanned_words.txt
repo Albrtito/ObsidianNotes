@@ -20186,6 +20186,7 @@ cuantitativos
 cifras
 concreats
 cualitativos
+conplejidad
 sr
 se
 subproblemas
