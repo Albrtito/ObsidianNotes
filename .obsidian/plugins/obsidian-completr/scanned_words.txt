@@ -7374,6 +7374,7 @@ monetarios
 mesurables
 meterlo
 mente
+modelizaci
 en
 ease
 es
@@ -9296,6 +9297,8 @@ etapas
 evoluci
 esencial
 exigibles
+estaos
+estasdos
 programaci
 primer
 paso
@@ -11241,6 +11244,7 @@ presiona
 planteados
 posicionamiento
 posicionar
+presenta
 lineal
 la
 lo
@@ -16462,6 +16466,7 @@ respondan
 rige
 releante
 relevate
+representadas
 References
 Resoluci
 Rectas
@@ -18071,6 +18076,7 @@ Request
 ROUTER
 Reflexi
 Resultados
+Representan
 cssclasses
 correcto
 correcta
@@ -20187,6 +20193,8 @@ cifras
 concreats
 cualitativos
 conplejidad
+configuraciones
+caminos
 sr
 se
 subproblemas
@@ -38166,6 +38174,9 @@ ome
 orientaci
 operativo
 ofert
+operadores
+observamos
+objetos
 que
 queremos
 qD
@@ -47491,6 +47502,7 @@ Transition
 TUNELING
 Throggling
 Toma
+Transitar
 grafo
 guardan
 global
@@ -52301,6 +52313,7 @@ Brs
 Bxl
 Bxi
 Blocking
+Busqueda
 Steven
 Skiena
 Serie
@@ -64850,6 +64863,7 @@ OpenFLow
 Orienteaci
 Orientar
 Operativo
+Operadores
 ximo
 xrL
 xFQ
@@ -69267,6 +69281,7 @@ VgX
 Valid
 Verify
 Vease
+Vista
 Grupo
 Get
 GWgw

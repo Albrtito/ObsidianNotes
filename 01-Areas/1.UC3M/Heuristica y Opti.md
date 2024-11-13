@@ -54,4 +54,4 @@ aliases:
 
 ## Prácticas: 
 + [[1727969475 - Practica - Primera practica Heuristica|Primera práctica heuristica]]
-+ [[1730996237 - Segunda práctica heuristica|Segunda practia heuristica]]
++ [[1730996237 - Practica - Segunda práctica heuristica|Segunda practia heuristica]]

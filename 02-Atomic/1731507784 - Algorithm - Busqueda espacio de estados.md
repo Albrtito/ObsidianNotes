@@ -15,10 +15,21 @@ cssclasses:
 
 
 > [!example] Nomenglatura y definiciones: 
-> **Estados:** configuraciones posibles del problema
-> **Operadores:** Transitar entre los estados
+> **Estados:** configuraciones posibles del problema. Representan información **estática**
+> 
+> **Operadores:** Transitar entre los estados. 
+> 
+> **Vista estática del problema:** La estructura que tienen los estados del problema y la información que en ellos se presenta.
+> 
+> 
 > 
 >  
+
+## Representación gráfica: 
+Se pueden representar los estaos y operadores como un grafo en el que los **nodos serán estasdos** y las **aristas serán los operadores.** 
+
+En esta representación también observamos que las **restricciones se ven representadas como los caminos que no se pueden realizar.**
++ Si no puedo llegar a un nodo desde otro tendremos una restricción. 
 
 
 ***
