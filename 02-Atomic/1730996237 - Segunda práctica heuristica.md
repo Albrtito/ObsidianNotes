@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Segunda practia heuristica
+  - Segunda práctica de heurística
 tags:
   - Heuri
 References: 
 cssclasses:
 ---
-# Segunda practia heuristica
+# Segunda práctica heuristica
 
 ## Evaluación:
 + **Satisfabilidad lógica: (CSP)**: 4p

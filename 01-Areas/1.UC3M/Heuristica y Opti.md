@@ -45,6 +45,8 @@ aliases:
 + [[1726759457 - Programación Lineal|Programación Lineal]]
 + [[1730297192 - Satisfacibilidad Lógica|Satisfacibilidad Lógica]]
 	+ [[1730303159 - Satisfacción de restricciones|Satisfacción de restricciones]]
++ [[1731507348 - Algoritmos de búsqueda|Algoritmos de búsqueda]]
+
 ## Ejercicios: 
 + [[1726763938 - Exercises - Programación Lineal|Ejercicios programación lineal]]
 	+ [[1728047794 - Ejemplos SIMPLEX|Ejemplos SIMPLEX]]
@@ -52,4 +54,4 @@ aliases:
 
 ## Prácticas: 
 + [[1727969475 - Practica - Primera practica Heuristica|Primera práctica heuristica]]
-+ [[1730996237 - Segunda practia heuristica|Segunda practia heuristica]]
++ [[1730996237 - Segunda práctica heuristica|Segunda practia heuristica]]

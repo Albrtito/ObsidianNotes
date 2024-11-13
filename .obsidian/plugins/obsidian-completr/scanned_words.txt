@@ -5560,6 +5560,7 @@ diferencianclaramente
 definidos
 dividirlo
 diagn
+definiendo
 modelos
 modelo
 maximizar
@@ -14661,6 +14662,7 @@ tunneling
 transition
 tomadas
 topolog
+tmos
 review
 resolver
 realizar
@@ -41364,6 +41366,7 @@ ASUMIMOS
 Action
 ACTION
 Aside
+Algor
 Floyd
 Foundations
 Funci
