@@ -83,42 +83,8 @@ The routers have several modes to work in:
 | 172.16.76.0/24 | RB       | eth1      |
 | 172.16.75.0/24 | RB       | eth1      |
 
-### CODE EXAMPLES: 
-```bash
-# RA/RB: Eliminar las direcciones de eth0.0 a eth0.4 y wlan0
-	# Check the interfaces data in terminal mode:
-	show interface eth0.0 
-	show interface eth0.1 
-	show interface eth0.2
-	show interface eth0.3 
-	show interface eth0.4
-	# Do for RA and RB
-	# Now delete those IP addresses in configuration
-	# Enter conf mode with: 
-	configure terminal 
-	# enter an interface 
-	interface <name>
-	# delete the address. 
-	no ip address <address>
-	# IP6 should not be necessary, the command is:
-	no ip6 address <address> 
-	# Repeat for all interfaces and routers
-	
-# PCA/PCB: Comprobar direcciones usando ip: 
-	# Show ip config 
-	ip addr show 
-	# Eliminar una IP
-	sudo ip addr del <addr> dev <interface_name>
-	# Añadir una nueva IP
-	sudo ip addr add  <addr> dev <interface_name>
 
-# RA/RB: Añadir una nueva dirección IP
-	config terminal
-	ip address <address> # Address in CIDR notation
-	
-```
-
-#### INPUTTED CODE: 
+### INPUTTED CODE: 
 **Removing IPv4 addresses from routes:**
 ```sh
 # Los comandos de este lab son (para cada router): 
@@ -149,14 +115,14 @@ exit
 ```sh
 # Los comandos de este lab son: (Ejecutar según que linea en cada PC)
 
-	# Eliminamos el address de la interfaz eth1 para PCA
+	#Eliminamos el address de la interfaz eth1 para PCA
 	sudo ip addr del 192.100.100.101/24 dev eth1
-	# Añadimos la dirección adecuada en el PCA
+	#Añadimos la dirección adecuada en el PCA
 	sudo ip addr add  172.16.75.2 dev eth1
 	
-	# Eliminamos el address de la interfaz eth1 para PCB
+	#Eliminamos el address de la interfaz eth1 para PCB
 	sudo ip addr del 192.100.100.102/24 dev eth1
-	# Añadimos la dirección adecuada en el PCB
+	#Añadimos la dirección adecuada en el PCB
 	sudo ip addr add  172.16.76.2 dev eth1
 
 ```

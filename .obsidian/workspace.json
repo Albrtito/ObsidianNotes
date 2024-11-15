@@ -38,6 +38,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -246,7 +247,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "03cb95ef55f57c7a",
+  "active": "531ccf78f47e325b",
   "lastOpenFiles": [
     "02-Atomic/1730827988 - Subnets.md",
     "02-Atomic/1731662455 - Practica - Routers.md",
