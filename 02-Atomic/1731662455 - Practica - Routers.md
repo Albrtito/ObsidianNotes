@@ -32,14 +32,14 @@ The routers have several modes to work in:
 
 
 **RA:**
-+ (NET A): eth0.0 
++ (NET A): eth0.0 → `172.16.75.1` 
 + (NET C): eth0.1
 
 **RB:**
 + (NET B): eth0.0
 + (NET C): eth0.1
 
-**PCA:**
+**PCA:** `172.16.75.2`
 + (NET A): eth1 
 
 **PCB:**
@@ -70,6 +70,12 @@ The routers have several modes to work in:
 	ip addr show 
 	# Eliminar una IP
 	sudo ip addr del <addr> dev <interface_name>
+	# Añadir una nueva IP
+	sudo ip addr add  <addr> dev <interface_name>
+
+# RA/RB: Añadir una nueva dirección IP
+	config terminal
+	ip address <address>
 	
 ```
 
@@ -101,10 +107,18 @@ exit
 
 **Removing IP addresses from PCs**
 ```sh
-# Los comandos de este lab son: (Para cada PC)
+# Los comandos de este lab son: (Ejecutar según que linea en cada PC)
 	# Eliminamos el address de la interfaz eth1 para PCA
 	sudo ip addr del 192.100.100.101/24 dev eth1
 	# Eliminamos el address de la interfaz eth1 para PCA
 	sudo ip addr del 192.100.100.102/24 dev eth1
+	# Añadimos la dirección adecuada en el PCA
+	sudo ip addr add  172.16.75.2 dev eth1
+```
+
+**Adding IP addresses to the routers:**
+```sh
+# Los comandos de esta parte son: (Ejecutar según que linea para cada router)
+
 ```
 ***
