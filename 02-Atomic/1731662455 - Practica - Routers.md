@@ -203,7 +203,6 @@ exit
 # In the routers: The interface goes to the PC
 	# RA
 		config term 
-		#get into config mode 
 		# Set the current mask and through what interface it is routed
 		ip route 172.16.75.2/32 eth0.0
 		exit
@@ -217,13 +216,13 @@ exit
 ```sh
 # In the RA:
 	config term
-	ip route 172.16.0.2 eth0.1 
+	ip route 172.16.0.2/32 eth0.1 
 	exit
 
 # In the RB:
-	config term # get into config mode 
+	config term 
 	# Set the current mask and through what interface it is routed
-	ip route 172.16.0.1 eth0.1 
+	ip route 172.16.0.1/32 eth0.1 
 	exit
 ```
 
