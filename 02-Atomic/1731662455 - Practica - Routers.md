@@ -27,7 +27,8 @@ The routers have several modes to work in:
 >  Compruebe la conectividad entres las redes A y B del escenario, **haciendo un ping entre PCA y PCB**. Verifique con el comando traceroute las interfaces atravesadas por los paquetes que van de PCA a PCB.
 
 ### Assigned IP addresses and interfaces:
-> Subnet mask: `172.16.75.0/25` 
+> Subnet mask NET A: `172.16.75.0/25` 
+> Subnmet mask NET B: `172.16.76.0/25` 
 
 
 **RA:**
@@ -60,15 +61,11 @@ The routers have several modes to work in:
 	interface <name>
 	# delete the address. 
 	no ip address <address>
-	
-	
-	
 	# IP6 should not be necessary, the command is:
 	no ip6 address <address> 
 	# Repeat for all interfaces and routers
 	
 # PCA/PCB: Comprobar direcciones usando ip: 
-
 	# Show ip config 
 	ip addr show 
 	# Eliminar una IP
@@ -76,5 +73,38 @@ The routers have several modes to work in:
 	
 ```
 
-#### INPUT COD
+#### INPUTTED CODE: 
+**Removing IPv4 addresses from routes:**
+```sh
+# Los comandos de este lab son (para cada router): 
+config terminal
+interface eth0.0
+no ip address 192.168.0.1/24
+exit
+interface eth0.1
+no ip address 192.168.1.1/24
+exit
+interface eth0.2
+no ip address 192.168.2.1/24
+exit 
+interface eth0.3 
+no ip address 192.168.3.1/24
+exit
+interface eth0.4
+no ip address 192.168.4.1/24
+exit
+interface wlan0
+no ip address 192.168.5.1/24
+exit 
+exit
+```
+
+**Removing IP addresses from PCs**
+```sh
+# Los comandos de este lab son: (Para cada PC)
+	# Eliminamos el address de la interfaz eth1 para PCA
+	sudo ip addr del 192.100.100.101/24 dev eth1
+	# Eliminamos el address de la interfaz eth1 para PCA
+	sudo ip addr del 192.100.100.102/24 dev eth1
+```
 ***
