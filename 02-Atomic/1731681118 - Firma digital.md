@@ -24,9 +24,15 @@ Por otro lado podemos encapsular la firma y mensaje todo junto en el mismo bloqu
 + El GAMAL crea una firma por separado 
 
 Algoritmo generalizado: 
-+ Se firma el resumen en vez del mensaje debido a optimimzación 
++ Se firma el resumen en vez del mensaje debido a optimimzación y para que no haya acceso al mensaje
 + Se comparan los hashes del mensaje y la firma. 
 	+ El mensaje ha llegado bien (integridad)
-	+ El mensaje ha tenido que ser enviado por 
+	+ El mensaje ha tenido que ser enviado por emisor (Autenticación y no repudio)
+
+### RSA: 
++ [[1731682077 - Algorithm - RSA|Algorithm - RSA]]
+
+### EL GAMAL: 
+
 
 ***
