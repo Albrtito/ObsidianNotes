@@ -26,7 +26,10 @@ The routers have several modes to work in:
 > [!check] MILESTONE 
 >  Compruebe la conectividad entres las redes A y B del escenario, **haciendo un ping entre PCA y PCB**. Verifique con el comando traceroute las interfaces atravesadas por los paquetes que van de PCA a PCB.
 
-### Assigned IP addresses: 
+### Assigned IP addresses and interfaces:
+> Subnet mask: `172.16.75.0/25` 
+
+
 **RA:**
 + (NET A): eth0.0 
 + (NET C): eth0.1
@@ -55,8 +58,9 @@ The routers have several modes to work in:
 	configure terminal 
 	# enter an interface 
 	interface <name>
-	# delete the address
+	# delete the address. IP6 should not be necessary
 	no ip address <address>
+	no ip6 address <address> 
 	# Repeat for all interfaces and routers
 	
 # PCA/PCB: Comprobar direcciones usando ip: 
