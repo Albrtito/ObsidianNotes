@@ -224,13 +224,25 @@ exit
 ```
 
 **Create the routes between the networks:**
++ In the routers:
 ```sh
 # From RA send to NET B
 	config term
 	ip route 176.16.76.0/24 eth0.1
-
-# From RB send to NET A
+	exit
 	
+# From RB send to NET A
+	config term 
+	ip route 176.16.75.0/24 eth0.1
+	exit
+```
 
++ In the PCs 
+```sh
+# From PCA send to PCB : By sending to RA
+	sudo ip route add 176.16.76.0/24 dev eth1
+
+# From PCB send to PCA: By sending to RB
+	sudo ip route add 176.16.75.0/24 dev eth1
 ```
 ***
