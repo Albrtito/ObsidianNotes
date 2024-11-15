@@ -14,6 +14,7 @@ cssclasses:
 > + Allways run the `ping` command with the `-c4` flag. Else the ping will be eternal and a `ctrl-c` would need to be used. This can fuck thigs up. 
 > + Never leave a router in configuration mode
 > + All addresses must be given in [[1730832772 - CIDR Notation|CIDR]] notation. Even if the whole 32 bits are significant → ex: `123.23.23.2/32` 
+> + Aunq el código tenga comentarios no se pueden añadir si son de linea
 
 ## Dudas: 
 #Duda: Pq necesito hacer las rutas para que el ping me funcione?
@@ -201,12 +202,15 @@ exit
 
 # In the routers: The interface goes to the PC
 	# RA
-		config term # get into config mode 
+		config term 
+		#get into config mode 
 		# Set the current mask and through what interface it is routed
-		ip route 172.16.75.2 eth0.0
+		ip route 172.16.75.2/32 eth0.0
+		exit
 	# RB
 		config term
-		ip route 172.16.76.2 eth0.0
+		ip route 172.16.76.2/32 eth0.0
+		exit
 ```
 
 **Create the routes between the routers:**
