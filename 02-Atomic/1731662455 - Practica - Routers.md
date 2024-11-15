@@ -48,7 +48,7 @@ The routers have several modes to work in:
 + (NET A): eth1 → `172.16.75.2` 
 
 **PCB:**
-+ (NET B): eth1 → `172.16.76.1`
++ (NET B): eth1 → `172.16.76.2`
 
 ### Routing tables: 
 
@@ -57,7 +57,30 @@ The routers have several modes to work in:
 | TO             | NEXT_HOP | INTERFACE |
 | -------------- | -------- | --------- |
 | 175.16.76.0/24 | RB       | eth0.1    |
-| 175.16.        |          |           |
+| 175.16.75.2    | PCA      | eth0.0    |
+| 175.16.0.2     | RB       | eth0.1    |
+#### RB:
+
+
+| TO             | NEXT_HOP | INTERFACE |
+| -------------- | -------- | --------- |
+| 175.16.76.2    | PCB      | eth0.0    |
+| 175.16.75.0/24 | RA       | eth0.1    |
+| 175.16.0.1     | RA       | eth0.1    |
+#### PCA:
+
+
+| TO             | NEXT_HOP | INTERFACE |
+| -------------- | -------- | --------- |
+| 175.16.75.0/24 | RA       | eth1      |
+| 175.16.76.0/24 | RB       | eth1      |
+#### PCA:
+
+
+| TO             | NEXT_HOP | INTERFACE |
+| -------------- | -------- | --------- |
+| 175.16.76.0/24 | RB       | eth1      |
+| 175.16.75.0/24 | RB       | eth1      |
 
 ### CODE EXAMPLES: 
 ```bash
@@ -191,10 +214,23 @@ exit
 # In the RA:
 	config term
 	ip route 176.16.0.2 eth0.1 
+	exit
 
 # In the RB:
 	config term # get into config mode 
 	# Set the current mask and through what interface it is routed
 	ip route 176.16.0.1 eth0.1 
+	exit
+```
+
+**Create the routes between the networks:**
+```sh
+# From RA send to NET B
+	config term
+	ip route 176.16.76.0/24 eth0.1
+
+# From RB send to NET A
+	
+
 ```
 ***
