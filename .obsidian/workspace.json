@@ -13,28 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1731681118 - Firma digital.md",
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1731681118 - Firma digital"
+              "title": "1731662455 - Practica - Routers"
             }
           },
           {
-            "id": "29876d6dba11b107",
+            "id": "531ccf78f47e325b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1731682077 - Algorithm - RSA.md",
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1731682077 - Algorithm - RSA"
+              "title": "1731662455 - Practica - Routers"
             }
           }
         ],
@@ -198,13 +198,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Cripto.md",
+                "file": "01-Areas/1.UC3M/Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cripto"
+              "title": "Networks"
             }
           }
         ]
@@ -228,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,8 +248,8 @@
   },
   "active": "03cb95ef55f57c7a",
   "lastOpenFiles": [
-    "02-Atomic/1731682077 - Algorithm - RSA.md",
     "02-Atomic/1731681118 - Firma digital.md",
+    "02-Atomic/1731682077 - Algorithm - RSA.md",
     "02-Atomic/1731662455 - Practica - Routers.md",
     "01-Areas/1.UC3M/Cripto.md",
     "01-Areas/1.UC3M/Networks.md",
