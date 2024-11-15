@@ -15,6 +15,9 @@ cssclasses:
 > + Never leave a router in configuration mode
 > + All addresses must be given in [[1730832772 - CIDR Notation|CIDR]] notation. Even if the whole 32 bits are significant → ex: `123.23.23.2/32` 
 
+## Dudas: 
+#Duda: Pq necesito hacer las rutas para que el ping me funcione?
+
 
 
 ## Router configurations: 
@@ -46,7 +49,7 @@ The routers have several modes to work in:
 
 **PCB:**
 + (NET B): eth1
-### CODE: 
+### CODE EXAMPLES: 
 ```bash
 # RA/RB: Eliminar las direcciones de eth0.0 a eth0.4 y wlan0
 	# Check the interfaces data in terminal mode:
@@ -108,18 +111,27 @@ exit
 exit
 ```
 
-**Removing IP addresses from PCs**
+**Removing IP addresses from PCs and adding new ones**
 ```sh
 # Los comandos de este lab son: (Ejecutar según que linea en cada PC)
+
 	# Eliminamos el address de la interfaz eth1 para PCA
 	sudo ip addr del 192.100.100.101/24 dev eth1
 	# Eliminamos el address de la interfaz eth1 para PCA
 	sudo ip addr del 192.100.100.102/24 dev eth1
 	# Añadimos la dirección adecuada en el PCA
 	sudo ip addr add  172.16.75.2 dev eth1
+	
+	# Eliminamos el address de la interfaz eth1 para PCA
+	sudo ip addr del 192.100.100.101/24 dev eth1
+	# Eliminamos el address de la interfaz eth1 para PCA
+	sudo ip addr del 192.100.100.102/24 dev eth1
+	# Añadimos la dirección adecuada en el PCA
+	sudo ip addr add  172.16.75.2 dev eth1
+
 ```
 
-**Adding IP addresses to the routers:**
+**Assigning IP addresses to the routers:**
 ```sh
 # Los comandos de esta parte son: (Ejecutar según que linea para cada router)
 	# Para RA en NET A
@@ -148,7 +160,7 @@ exit
 	exit
 ```
 
-**Create the routes between routers and pcs**
+**Create the routes between routers and pcs** (of the same NET)
 ```sh
 # In the PCs:
 	# The subnet mask gets all the addresses that will be routet through
@@ -162,4 +174,14 @@ exit
 ```
 
 **Create the routes between the routers:**
+```sh
+# In the RA:
+	config term
+	ip route <subnet mask> <interface>
+
+# In the RB:
+	config term # get into config mode 
+	# Set the current mask and through what interface it is routed
+	ip route <subnet mask> <interface>
+```
 ***
