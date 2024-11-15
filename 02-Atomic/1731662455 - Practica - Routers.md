@@ -41,14 +41,24 @@ The routers have several modes to work in:
 + (NET C): eth0.1 → `172.16.0.1` 
 
 **RB:**
-+ (NET B): eth0.0
++ (NET B): eth0.0 → `172.16.76.1`
 + (NET C): eth0.1 → `172.16.0.2` 
 
-**PCA:** `172.16.75.2`
-+ (NET A): eth1 
+**PCA:** 
++ (NET A): eth1 → `172.16.75.2` 
 
 **PCB:**
-+ (NET B): eth1
++ (NET B): eth1 → `172.16.76.1`
+
+### Routing tables: 
+
+#### RA:
+
+| TO             | NEXT_HOP | INTERFACE |
+| -------------- | -------- | --------- |
+| 175.16.76.0/24 | RB       | eth0.1    |
+| 175.16.        |          |           |
+
 ### CODE EXAMPLES: 
 ```bash
 # RA/RB: Eliminar las direcciones de eth0.0 a eth0.4 y wlan0
@@ -117,17 +127,13 @@ exit
 
 	# Eliminamos el address de la interfaz eth1 para PCA
 	sudo ip addr del 192.100.100.101/24 dev eth1
-	# Eliminamos el address de la interfaz eth1 para PCA
-	sudo ip addr del 192.100.100.102/24 dev eth1
 	# Añadimos la dirección adecuada en el PCA
 	sudo ip addr add  172.16.75.2 dev eth1
 	
-	# Eliminamos el address de la interfaz eth1 para PCA
-	sudo ip addr del 192.100.100.101/24 dev eth1
-	# Eliminamos el address de la interfaz eth1 para PCA
+	# Eliminamos el address de la interfaz eth1 para PCB
 	sudo ip addr del 192.100.100.102/24 dev eth1
-	# Añadimos la dirección adecuada en el PCA
-	sudo ip addr add  172.16.75.2 dev eth1
+	# Añadimos la dirección adecuada en el PCB
+	sudo ip addr add  172.16.76.2 dev eth1
 
 ```
 
@@ -162,26 +168,33 @@ exit
 
 **Create the routes between routers and pcs** (of the same NET)
 ```sh
-# In the PCs:
-	# The subnet mask gets all the addresses that will be routet through
-	# the specified interface
-	sudo ip route add <subnet_mask> dev <PC_interface>
+# In the PCs: All packets in the subnet go through router
+	# PCA
+		# The subnet mask gets all the addresses that will be routet through
+		# the specified interface
+		sudo ip route add 176.16.75.0/24 dev eth1
+	# PCB
+		sudo ip route add 176.16.76.0/24 dev eth1
 
-# In the routers
-	config term # get into config mode 
-	# Set the current mask and through what interface it is routed
-	ip route <subnet mask> <interface>
+# In the routers: The interface goes to the PC
+	# RA
+		config term # get into config mode 
+		# Set the current mask and through what interface it is routed
+		ip route 176.16.75.2 eth0.0
+	# RB
+		config term
+		ip route 176.16.76.2 eth0.0
 ```
 
 **Create the routes between the routers:**
 ```sh
 # In the RA:
 	config term
-	ip route <subnet mask> <interface>
+	ip route 176.16.0.2 eth0.1 
 
 # In the RB:
 	config term # get into config mode 
 	# Set the current mask and through what interface it is routed
-	ip route <subnet mask> <interface>
+	ip route 176.16.0.1 eth0.1 
 ```
 ***
