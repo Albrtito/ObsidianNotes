@@ -58,8 +58,12 @@ The routers have several modes to work in:
 	configure terminal 
 	# enter an interface 
 	interface <name>
-	# delete the address. IP6 should not be necessary
+	# delete the address. 
 	no ip address <address>
+	
+	
+	
+	# IP6 should not be necessary, the command is:
 	no ip6 address <address> 
 	# Repeat for all interfaces and routers
 	
@@ -71,4 +75,6 @@ The routers have several modes to work in:
 	sudo ip addr del <addr> dev <interface_name>
 	
 ```
+
+#### INPUT COD
 ***
