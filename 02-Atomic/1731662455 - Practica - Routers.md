@@ -29,16 +29,17 @@ The routers have several modes to work in:
 
 ### Assigned IP addresses and interfaces:
 > Subnet mask NET A: `172.16.75.0/25` 
-> Subnmet mask NET B: `172.16.76.0/25` 
+> Subnet mask NET B: `172.16.76.0/25` 
+> Subnet mask NET C (ROUTERS): `172.16.0.0/30` 
 
 
 **RA:**
 + (NET A): eth0.0 → `172.16.75.1` 
-+ (NET C): eth0.1
++ (NET C): eth0.1 → `172.16.0.1` 
 
 **RB:**
 + (NET B): eth0.0
-+ (NET C): eth0.1
++ (NET C): eth0.1 → `172.16.0.2` 
 
 **PCA:** `172.16.75.2`
 + (NET A): eth1 
@@ -121,13 +122,44 @@ exit
 **Adding IP addresses to the routers:**
 ```sh
 # Los comandos de esta parte son: (Ejecutar según que linea para cada router)
-	# Para RA
+	# Para RA en NET A
 	config terminal
+	interface eth0.0
 	ip address 172.16.75.1/32
 	exit
-	# Para RB
+	
+	# Para RA en NET C
+	interface eth0.1
+	ip address 172.16.0.1/32
+	exit 
+	
+	exit
+	# Para RB en NET B
 	config terminal 
+	interface eth0.0
 	ip address 172.16.76.1/32
 	exit
+	
+	# Para RB en NET C
+	interface eth0.1
+	ip address 172.16.0.2/32
+	exit
+	
+	exit
 ```
+
+**Create the routes between routers and pcs**
+```sh
+# In the PCs:
+	# The subnet mask gets all the addresses that will be routet through
+	# the specified interface
+	sudo ip route add <subnet_mask> dev <PC_interface>
+
+# In the routers
+	config term # get into config mode 
+	# Set the current mask and through what interface it is routed
+	ip route <subnet mask> <interface>
+```
+
+**Create the routes between the routers:**
 ***
