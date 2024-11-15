@@ -209,9 +209,10 @@ exit
 + In the PCs 
 ```sh
 # From PCA send to PCB : By sending to RA
-	sudo ip route add default 172.16.76.0/24 dev eth1
+	sudo ip route add 172.16.76.0/24 dev eth1
 
 # From PCB send to PCA: By sending to RB
-	sudo ip route add default 172.16.75.0/24 dev eth1
+	sudo ip route add 172.16.75.0/24 dev eth1
+
 ```
 ***
