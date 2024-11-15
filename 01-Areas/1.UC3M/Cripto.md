@@ -54,5 +54,6 @@ tags:
 + [[1728309909 - MAC|MAC]]
 + [[1728493764 - Cifrado autenticado|Cifrado autenticado]]
 + [[1728912947 - Cifrado asimetrico|Cifrado asimetrico]]
++ [[1731681118 - Firma digital|Firma digital]]
 ## Práctica:
 + [[1728048290 - Proyecto de criptografía UC3M|Proyecto de criptografía UC3M]]

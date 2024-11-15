@@ -5576,6 +5576,7 @@ directed
 deduced
 dense
 dictionaries
+digital
 modelos
 modelo
 maximizar
@@ -20241,6 +20242,7 @@ careful
 configurations
 conectividad
 comando
+comentarios
 sr
 se
 subproblemas
@@ -42935,6 +42937,7 @@ FkyM
 FALSE
 Felisa
 FORWARD
+Firma
 Warshall
 Width
 We
