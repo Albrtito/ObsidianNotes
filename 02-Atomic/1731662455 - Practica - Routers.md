@@ -42,7 +42,7 @@ The routers have several modes to work in:
 + (NET B): eth1
 ### CODE: 
 ```bash
-# Eliminar las direcciones de eth0.0 a eth0.4 t wlan0
+# RA/RB: Eliminar las direcciones de eth0.0 a eth0.4 y wlan0
 	# Check the interfaces data in terminal mode:
 	show interface eth0.0 
 	show interface eth0.1 
@@ -59,7 +59,12 @@ The routers have several modes to work in:
 	no ip address <address>
 	# Repeat for all interfaces and routers
 	
-	
+# PCA/PCB: Comprobar direcciones usando ip: 
+
+	# Show ip config 
+	ip addr show 
+	# Eliminar una IP
+	sudo ip addr del <addr> dev <interface_name>
 	
 ```
 ***

@@ -6,7 +6,6 @@
       {
         "id": "3fba0475cebb59d0",
         "type": "tabs",
-        "dimension": 71.712158808933,
         "children": [
           {
             "id": "03cb95ef55f57c7a",
@@ -25,25 +24,6 @@
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "6ff7eaf30bb7c36a",
-        "type": "tabs",
-        "dimension": 28.287841191067,
-        "children": [
-          {
-            "id": "6382853dda7bb417",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00-References/Net_Biblio_Kurose.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Net_Biblio_Kurose"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -254,8 +234,8 @@
   "active": "03cb95ef55f57c7a",
   "lastOpenFiles": [
     "00-References/Net_Biblio_Kurose.pdf",
-    "01-Areas/1.UC3M/Networks.md",
     "02-Atomic/1731662455 - Practica - Routers.md",
+    "01-Areas/1.UC3M/Networks.md",
     "02-Atomic/1730827988 - Subnets.md",
     "02-Atomic/1730567078 - The network layer data plane.md",
     "02-Atomic/1730567584 - Forwarding function of the network layer.md",
