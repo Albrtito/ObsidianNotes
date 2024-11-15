@@ -9313,6 +9313,7 @@ expande
 explicita
 eliminate
 enumerar
+escenario
 programaci
 primer
 paso

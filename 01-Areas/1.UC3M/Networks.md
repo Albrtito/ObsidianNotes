@@ -61,3 +61,4 @@ aliases:
 
 ## Prácticas:
 + [[1730716899 - Practica - IP addressing|Practica - IP Addressing]]
++ [[1731662455 - Practica - Routers|Practica - Routers]]
