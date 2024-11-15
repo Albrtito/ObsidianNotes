@@ -96,6 +96,7 @@ no ip address 192.168.2.1/24
 exit 
 interface eth0.3 
 no ip address 192.168.3.1/24
+
 exit
 interface eth0.4
 no ip address 192.168.4.1/24
