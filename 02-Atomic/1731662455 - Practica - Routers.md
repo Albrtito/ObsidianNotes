@@ -162,9 +162,9 @@ exit
 	# PCA
 		# The subnet mask gets all the addresses that will be routet through
 		# the specified interface
-		sudo ip route add  172.16.75.0/24 via 172.16.75.1
+		sudo ip route add  172.16.75.0/24 dev eth1
 	# PCB
-		sudo ip route add 172.16.76.0/24 via 172.16.76.1
+		sudo ip route add 172.16.76.0/24 dev eth1
 
 # In the routers: The interface goes to the PC
 	# RA
