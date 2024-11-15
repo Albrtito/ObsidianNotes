@@ -13,6 +13,7 @@ cssclasses:
 > Collection of things to be careful about:
 > + Allways run the `ping` command with the `-c4` flag. Else the ping will be eternal and a `ctrl-c` would need to be used. This can fuck thigs up. 
 > + Never leave a router in configuration mode
+> + All addresses must be given in [[1730832772 - CIDR Notation|CIDR]] notation. Even if the whole 32 bits are significant → ex: `123.23.23.2/32` 
 
 
 
@@ -75,7 +76,7 @@ The routers have several modes to work in:
 
 # RA/RB: Añadir una nueva dirección IP
 	config terminal
-	ip address <address>
+	ip address <address> # Address in CIDR notation
 	
 ```
 
@@ -119,6 +120,13 @@ exit
 **Adding IP addresses to the routers:**
 ```sh
 # Los comandos de esta parte son: (Ejecutar según que linea para cada router)
-
+	# Para RA
+	config terminal
+	ip address 172.16.75.1/32
+	exit
+	# Para RB
+	config terminal 
+	ip address 172.16.76.1/32
+	exit
 ```
 ***
