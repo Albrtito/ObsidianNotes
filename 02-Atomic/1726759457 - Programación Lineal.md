@@ -6,8 +6,8 @@ tags:
   - Heuri
 References: 
 cssclasses: []
-sr-due: 2024-11-23
-sr-interval: 40
+sr-due: 2025-03-05
+sr-interval: 109
 sr-ease: 272
 ---
 # Programación Lineal
