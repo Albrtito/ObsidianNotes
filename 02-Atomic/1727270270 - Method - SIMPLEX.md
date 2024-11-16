@@ -11,7 +11,7 @@ sr-due: 2024-11-08
 sr-interval: 1
 sr-ease: 161
 ---
-
+ 
 # Method - SIMPLEX:
 
 > [!NOTE] Definition: 
@@ -72,7 +72,7 @@ Una vez tenemos **el problema en [[1727270366 - Forma estandar|Forma estandar]]*
 	2. Calcular el **valor de la función objetivo:**
 	   $$z = C_B^T \cdot x_B$$
 	   
-3. **Regla de entrada:** En este paso calcularemos cual de las variables que no se encuentra en la base aporta mas entrando en ella. Esto lo sabremos calculando:
+3. ==**Regla de entrada:** En este paso calcularemos cual de las variables que no se encuentra en la base aporta mas entrando en ella. Esto lo sabremos calculando:==
    $$\min \{z_j-C_j\}$$
    + Donde: 
 	  $$z_j = C_B^Ty_j \rightarrow y_j = B^-A_j$$
