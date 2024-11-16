@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-12
-sr-interval: 5
+sr-due: 2024-12-01
+sr-interval: 15
 sr-ease: 230
 ---
 # Estados contables

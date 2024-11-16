@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-12
-sr-interval: 7
+sr-due: 2024-12-08
+sr-interval: 22
 sr-ease: 250
 ---
 # Asientos contables

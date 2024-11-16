@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-11-16
-sr-interval: 14
-sr-ease: 190
+sr-due: 2024-11-22
+sr-interval: 6
+sr-ease: 170
 ---
 # Sistemas de produccion flexibles
 

@@ -11288,6 +11288,7 @@ ping
 paquetes
 pcs
 peor
+ponemos
 lineal
 la
 lo
@@ -14715,6 +14716,7 @@ tmos
 transitivity
 thigs
 traceroute
+tablita
 review
 resolver
 realizar

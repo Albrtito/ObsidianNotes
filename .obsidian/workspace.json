@@ -35,13 +35,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1727122369 - Estados contables.md",
+                "file": "02-Atomic/1727176650 - Principles of reliable data transfer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1727122369 - Estados contables"
+              "title": "1727176650 - Principles of reliable data transfer"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727122369 - Estados contables.md",
+                "file": "02-Atomic/1727176650 - Principles of reliable data transfer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1727122369 - Estados contables"
+              "title": "Graph of 1727176650 - Principles of reliable data transfer"
             }
           }
         ]
@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1727122369 - Estados contables.md"
+                "file": "02-Atomic/1727176650 - Principles of reliable data transfer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1727122369 - Estados contables"
+              "title": "Outline of 1727176650 - Principles of reliable data transfer"
             }
           },
           {
@@ -246,6 +246,9 @@
   },
   "active": "e41968827e1f2d06",
   "lastOpenFiles": [
+    "02-Atomic/1728936361 - Sistemas de produccion flexibles.md",
+    "02-Atomic/1729692495 - Asientos contables.md",
+    "02-Atomic/1727122369 - Estados contables.md",
     "02-Atomic/1727429966 - Packet switching.md",
     "02-Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "02-Atomic/1727709003 - Estrategias competitivas de la empresa.md",
@@ -270,9 +273,6 @@
     "02-Atomic/1731511534 - Graf Data sctructure.md",
     "02-Atomic/20240519 - 165637 - Hasse diagram.md",
     "02-Atomic/1730996237 - Practica - Segunda práctica heuristica.md",
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
-    "02-Atomic/1727969475 - Practica - Primera practica Heuristica.md",
-    "02-Atomic/1730303159 - Satisfacción de restricciones.md",
     "00-References/HyO_Biblio_Marek V. Introduction to mathematics of satisfiability.pdf",
     "99-Meta/0. Attachments/1731438416 - Marketing estratégicoj.png",
     "99-Meta/0. Attachments/1731436877 - El plan de marketingj.png",
