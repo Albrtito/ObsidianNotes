@@ -70,7 +70,7 @@ $$
 
    
 1. **Cálculo de las variables básicas:** 
-	   Creamos una solución factible básica utilizando la base  $B_0 = I_{3x3}$. Esta base la generamos utilizando únicamente las columnas para variables $x_3, x_4, x_5$. 
+Creamos una solución factible básica utilizando la base  $B_0 = I_{3x3}$. Esta base la generamos utilizando únicamente las columnas para variables $x_3, x_4, x_5$. 
 	   $$
 		B_0 = I_3= \{x_3,x_4,x_5\} =
 		
@@ -80,22 +80,24 @@ $$
 		0 & 0 & 1 \\
 		\end{pmatrix}
 	  $$
-	  Esta nueva base nos genera una solución factible básica que obtenemos resolviendo la equación algebráica. 
-	  
-	  $$
-	  B_0 x_{B_0} = b
-	  $$
-	  Entonces:
-	  $$
-	  x_{B_0} = B_0^- b = (0,0,2,4,1)^T
-	  $$
-	  
 
-2.  **Obtener valor de la función objetivo**: Calculamos el valor de la función objetivo con las variales básicas obtenidas. 
-   
-   Aplicamos directamente la definición del problema lineal.
+Esta nueva base nos genera una solución factible básica que obtenemos resolviendo la equación algebráica. 
+	  
+$$
+	  B_0 x_{B_0} = b
+$$
+Entonces:
+$$
+	  x_{B_0} = B_0^- b = (0,0,2,4,1)^T
+ $$
+
+1.1.  **Obtener valor de la función objetivo**: 
+
+Calculamos el valor de la función objetivo con las variales básicas obtenidas. 
+
+Aplicamos directamente la definición del problema lineal.
 	$$ z_{B_0} = C_{B_0}^T X_{B_0} = (0,0,0)(2,4,1)^T = 0$$
-	Este primer punto que hemos encontrado será la **primera solución del problema lineal**. Esta solución estará en el punto: (0,0,2,4,1), aunq para obtener la solución bidimensional solo nos quedamos con las primeras dos variables, obteniendo (0,0)
+Este primer punto que hemos encontrado será la **primera solución del problema lineal**. Esta solución estará en el punto: (0,0,2,4,1), aunq para obtener la solución bidimensional solo nos quedamos con las primeras dos variables, obteniendo (0,0)
 
 	
 > [!check] Duda: **Como es que obtenemos la solución multiplicando por la base y no por A?** 
@@ -105,21 +107,40 @@ $$
 
 
 2. **Regla de entrada:** 
-	Utilizamos el subindice i para referirnos a las variables básicas. Mientras que se usa el subindice j para las variables nuevas que entren(variables no básicas).
-	 
-	La forma en la que estamos calculando la función objetivo (su valor) es la siguiente. 
-	  $$ z = \sum_{i\in B} C_i X_i$$
-  En el paso uno las nuevas variables eran 0 y no teníamos que tenerlas en cuenta.
-  
-  Ahora introducimos una variable no básica/nueva.
-	  $$ z = \sum_{i\in B} C_i \hat X_i + c_j \sigma $$
-	  + **sigma:** Es la variable nueva.
-	  + $c_j$: Es el coeficiente de la variable nueva
-	  El valor de las variables básicas cambia, se **acomodan**. Por eso lleva el sombrerito. Podemos obtener el nuevo valor de las variables básicas. 
-	  $$ \boxed{\hat x_i. = x_i - \sigma y_{ji'}}$$
-	  Operamos: 
-		…
-		$$z - \sigma(z_j - c_j)$$
+Utilizamos el subindice i para referirnos a las variables básicas. Mientras que se usa el subindice j para las variables nuevas que entren(variables no básicas)
+
+> [!NOTE] Regla de entrada:
+> Ahora que hemos obtenido una posible solución tenemos que comprobar si esta solución **mejorará en caso de que introdujamos alguna otra variable**. 
+> 	
+
+**Remarks:**
+En este ejemplo se va a explicar **como se obtiene el método que utilizaremos:**
+
+Actualmente la forma en la que estamos calculando la función objetivo (su valor) es la siguiente.
+$$ z = \sum_{i\in B} C_i X_i$$
+ En el paso uno las nuevas variables eran 0 y no teníamos que tenerlas en cuenta, introducimos una nueva variable de aquellas que noeran básicas y comprobamos si el valor de la función objetivo aumenta. 
+
+$$ z = \sum_{i\in B} C_i \hat X_i + c_j \sigma $$
++ **sigma:** Es la variable nueva.
++ $c_j$: Es el coeficiente de la variable nueva
+
+
+> [!bug] Problema: 
+> Al añadir una nueva variable con otro coeficiente la función objetivo z no puede mantenerse con el mismo valor. 
+> $$
+> \sum_{i\in B} C_i X_i = \sum_{i\in B} C_i \hat X_i + c_j \sigma 
+> $$
+
+
+> [!check] Solution:
+> Se marca a las variables X con un sombrerito. Esto quiere decir que se **acomodan, cambiando su valor para que la igualdad se mantenga** 
+
++ Obtenemos el valor de una variable acomodada como el siguiente:
+
+$$ \boxed{\hat x_i. = x_i - \sigma y_{ji'}}$$
+Operamos: 
+#Duda: Como se obtiene el coste reducido a través de la definición de una variable básica acomodada. 	
+$$z - \sigma(z_j - c_j)$$
 		A esto lo llamamos el **coste reducido**. En este caso queremos minimizar así que trateremos de encontrar el máximo valor negativo del coste reducido. 
 		Tenemos dos opciones, una por variable nueva: 
 		$$z_1 - c_1 = C_B^Ty_1 - C_1 = -2$$
