@@ -1920,6 +1920,7 @@ asignados
 accessed
 atravesadas
 acceso
+acomodada
 Creaci
 Crear
 Cuando
@@ -7394,6 +7395,7 @@ meterlo
 mente
 modelizaci
 modes
+mantenerse
 en
 ease
 es
@@ -16515,6 +16517,7 @@ reflexivity
 representarlos
 rbol
 rboles
+reducidos
 References
 Resoluci
 Rectas
@@ -20253,6 +20256,8 @@ conectividad
 comando
 comentarios
 comparan
+cambiando
+compararlos
 sr
 se
 subproblemas
@@ -24022,6 +24027,7 @@ impact
 intangibles
 implicitamente
 impl
+introdujamos
 un
 una
 utiliza
@@ -25547,6 +25553,7 @@ universal
 usage
 uniting
 upwards
+utilizaremos
 hora
 hacemos
 hacia
@@ -31845,6 +31852,7 @@ nature
 neutrality
 ntico
 necesito
+noeran
 Identificar
 Intro
 Identificaci

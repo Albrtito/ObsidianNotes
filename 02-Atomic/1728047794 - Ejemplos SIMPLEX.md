@@ -138,52 +138,65 @@ $$ z = \sum_{i\in B} C_i \hat X_i + c_j \sigma $$
 + Obtenemos el valor de una variable acomodada como el siguiente:
 
 $$ \boxed{\hat x_i. = x_i - \sigma y_{ji'}}$$
-Operamos: 
-#Duda: Como se obtiene el coste reducido a través de la definición de una variable básica acomodada. 	
-$$z - \sigma(z_j - c_j)$$
-		A esto lo llamamos el **coste reducido**. En este caso queremos minimizar así que trateremos de encontrar el máximo valor negativo del coste reducido. 
-		Tenemos dos opciones, una por variable nueva: 
-		$$z_1 - c_1 = C_B^Ty_1 - C_1 = -2$$
-		$$z_2 - c_2 = C_B^Ty_2- C_2 = 3$$
-		El mayor número negativo será -2 así que **incluimos a $x_1$ en la base** y pasamos al siguiente paso. 
-			
-	3. **Regla de salida**: 
-			La base tiene que ser tridimensional, tenemos una columna de más. Vamos a averiguar que columna es la que nos quitamos. 
+#Duda: Como se obtiene el coste reducido a través de la definición de una variable básica acomodada.
 
-		  Ahora el problema aparece pq tenemos una base tridimensional igualada a otra cuatridimensional (hemos añadido a1)
-		  $$a_3x_3 + a_4x_4 + a_5x_5 = a_3\hat x_3 + a_3\hat x_3 + a_3\hat x_3 + a_3\hat x_3 + a_1 \theta$$
-		  Resolvemos la equación algebráica: 
-		  $$ B_0 y_1 = a_1$$ 
-			Y obtenemos la igualdad: 
-			$$ \boxed{a_1 = a_3y_{11} + a_4y_{12} + a_5y_{13} }$$
-			Lo que nos permite reformular utilizando la nueva definicón de a1:
-			$$a_3x_3 + a_4x_4 + a_5x_5 = a_3(\hat x_3 + \theta y_{11}) + a_4(\hat x_4+ \theta y_{12})  + a_5(\hat x_5 + \theta y_{13})$$
-			Que podemos simplificar como: 
-			$$x_i = \hat x_i + \theta y_{ii'}$$
-			Y de aquí obtenemos el cambio de valor para la variable de decisión: 
-			
-			$$\hat x_i =  x_i - \theta y_{ii'}$$
-			Acotando este valor como **no-negativo** podemos obtener: 
-			$$ \theta \leq \frac{x_i}{y_{ji`}}$$
-			Entonces, si nuestra restricción es que las variables sean mayores de 0, al intentar sacar una variable podemos ver si la que quitamos nos crea un valor negativo y denegarla.
-			La variable que tendremos que saar será con la que se obtenga: 
-			$$min_{i\in B}\{\frac{x_i}{y_{ji'}}\}$$
-			Mientras que sea **mayor o igual a 0**
-		+ Si nos encontrásemos con un caso en el que todos los valores son negativos significaría que la región no esta acotada, esto simplemente no pasa con un buen modelo. Te faltan restricciones.
-		  
-			En el ejempo que estamos haciendo ahora mismo obtenemos: 
-			$$min\{\frac{2}{-1}, \frac{4}{1},\frac{1}{1}\}$$
-			**
-			**SIGUIENTE ITERACIÓN**
-			
-			Tendrá que salir la variable $x_5$ de la base.
-			La nueva base para la nueva iteración será: 
-			$$ B_1 = \{x_1, x_3, x_4\} = \begin{pmatrix}
+**Utilizando esta nueva definición obtenemos el coste reducido de una nueva variable no básica.**
+$$z - \sigma(z_j - c_j)$$
++ El objetivo será **minimizar este coste**, queremos encontrar el máximo valor negativo (**el mínimo de los costes reducidos**)
+
+Para cada variable no básica que podamos introducir a la base tendremos que calcular su coste reducido y compararlos. 
+
+**En este caso:**
+Tenemos dos opciones, una por variable nueva: 
+$$z_1 - c_1 = C_B^Ty_1 - C_1 = -2$$
+$$z_2 - c_2 = C_B^Ty_2- C_2 = 3$$
+
+El mayor número negativo será -2 así que **incluimos a $x_1$ en la base** y pasamos al siguiente paso. 
+
+3. **Regla de salida**:
+
+> [!bug] Problema:
+> Ahora el problema es que tenemos **una variable de más en la base** 
+
+
+> [!check] Sol 
+> La solución obvia, **saquemos la variable que peor nos venga de la base.**  
+
+Este problema se representa en que tenemos una base tridimensional igualada a otra cuatridimensional. 
+  $$a_3x_3 + a_4x_4 + a_5x_5 = a_3\hat x_3 + a_3\hat x_3 + a_3\hat x_3 + a_3\hat x_3 + a_1 \theta$$
+
+Resolvemos la equación algebráica: 
+  $$ B_0 y_1 = a_1$$ 
+Y obtenemos la igualdad: 
+	$$ \boxed{a_1 = a_3y_{11} + a_4y_{12} + a_5y_{13} }$$
+	Lo que nos permite reformular utilizando la nueva definicón de a1:
+	$$a_3x_3 + a_4x_4 + a_5x_5 = a_3(\hat x_3 + \theta y_{11}) + a_4(\hat x_4+ \theta y_{12})  + a_5(\hat x_5 + \theta y_{13})$$
+	Que podemos simplificar como: 
+	$$x_i = \hat x_i + \theta y_{ii'}$$
+	Y de aquí obtenemos el cambio de valor para la variable de decisión: 
+	
+	$$\hat x_i =  x_i - \theta y_{ii'}$$
+	Acotando este valor como **no-negativo** podemos obtener: 
+	$$ \theta \leq \frac{x_i}{y_{ji`}}$$
+	Entonces, si nuestra restricción es que las variables sean mayores de 0, al intentar sacar una variable podemos ver si la que quitamos nos crea un valor negativo y denegarla.
+	La variable que tendremos que saar será con la que se obtenga: 
+	$$min_{i\in B}\{\frac{x_i}{y_{ji'}}\}$$
+	Mientras que sea **mayor o igual a 0**
++ Si nos encontrásemos con un caso en el que todos los valores son negativos significaría que la región no esta acotada, esto simplemente no pasa con un buen modelo. Te faltan restricciones.
+  
+	En el ejempo que estamos haciendo ahora mismo obtenemos: 
+	$$min\{\frac{2}{-1}, \frac{4}{1},\frac{1}{1}\}$$
+	**
+	**SIGUIENTE ITERACIÓN**
+	
+	Tendrá que salir la variable $x_5$ de la base.
+	La nueva base para la nueva iteración será: 
+	$$ B_1 = \{x_1, x_3, x_4\} = \begin{pmatrix}
 -1 &&1 &&0 \\ 1 && 0&& 1 \\ 1&& 0&& 0
 \end{pmatrix} $$
 
-			Calculamos la inversa y obtenemos el siguiente punto. 
-			$$ B_1 ^- = $$ 
-		Esto se repite → Ya copiado en el sucio. 
-		
+	Calculamos la inversa y obtenemos el siguiente punto. 
+	$$ B_1 ^- = $$ 
+Esto se repite → Ya copiado en el sucio. 
+
 
