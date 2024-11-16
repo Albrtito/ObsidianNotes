@@ -3,12 +3,15 @@ aliases:
   - Ejemplos SIMPLEX
 tags:
   - Heuri
-  - incomplete
+  - review
 References: 
 cssclasses:
+sr-due: 2024-11-17
+sr-interval: 1
+sr-ease: 232
 ---
 # Ejemplos SIMPLEX
-Ejemplos del algoritmo  bien resueltos (con seguidad  de que no hay errores). Se imlementa el algorimo [[1727270270 - Method - SIMPLEX|SIMPLEX]]
+Ejemplos del algoritmo  bien resueltos (con seguidad  de que no hay errres). Se imlementa el algorimo [[1727270270 - Method - SIMPLEX|SIMPLEX]]
 ## Ejemplo clase magistral:
 
 $$
@@ -166,37 +169,35 @@ Este problema se representa en que tenemos una base tridimensional igualada a ot
   $$a_3x_3 + a_4x_4 + a_5x_5 = a_3\hat x_3 + a_3\hat x_3 + a_3\hat x_3 + a_3\hat x_3 + a_1 \theta$$
 
 Resolvemos la equación algebráica: 
-  $$ B_0 y_1 = a_1$$ 
+#Duda: Cooooomo? Necesito una explicación de esto tmb
+$$ B_0 y_1 = a_1$$ 
 Y obtenemos la igualdad: 
-	$$ \boxed{a_1 = a_3y_{11} + a_4y_{12} + a_5y_{13} }$$
-	Lo que nos permite reformular utilizando la nueva definicón de a1:
-	$$a_3x_3 + a_4x_4 + a_5x_5 = a_3(\hat x_3 + \theta y_{11}) + a_4(\hat x_4+ \theta y_{12})  + a_5(\hat x_5 + \theta y_{13})$$
-	Que podemos simplificar como: 
-	$$x_i = \hat x_i + \theta y_{ii'}$$
-	Y de aquí obtenemos el cambio de valor para la variable de decisión: 
+$$ \boxed{a_1 = a_3y_{11} + a_4y_{12} + a_5y_{13} }$$
+
+Lo que nos permite reformular utilizando la nueva definicón de a1:
+
+$$a_3x_3 + a_4x_4 + a_5x_5 = a_3(\hat x_3 + \theta y_{11}) + a_4(\hat x_4+ \theta y_{12})  + a_5(\hat x_5 + \theta y_{13})$$
+Que podemos simplificar como: 
+$$x_i = \hat x_i + \theta y_{ii'}$$
+Y de aquí obtenemos el cambio de valor para la variable de decisión: 
 	
 	$$\hat x_i =  x_i - \theta y_{ii'}$$
-	Acotando este valor como **no-negativo** podemos obtener: 
+Acotando este valor como **no-negativo** podemos obtener: 
 	$$ \theta \leq \frac{x_i}{y_{ji`}}$$
-	Entonces, si nuestra restricción es que las variables sean mayores de 0, al intentar sacar una variable podemos ver si la que quitamos nos crea un valor negativo y denegarla.
-	La variable que tendremos que saar será con la que se obtenga: 
-	$$min_{i\in B}\{\frac{x_i}{y_{ji'}}\}$$
-	Mientras que sea **mayor o igual a 0**
+Entonces, si nuestra restricción es que las variables sean mayores de 0, al intentar sacar una variable podemos ver si la que quitamos nos crea un valor negativo y denegarla.
+La variable que tendremos que saar será con la que se obtenga: 
+$$\boxed{min_{i\in B}\{\frac{x_i}{y_{ji'}}\}}$$
++ Mientras que sea **mayor o igual a 0**
 + Si nos encontrásemos con un caso en el que todos los valores son negativos significaría que la región no esta acotada, esto simplemente no pasa con un buen modelo. Te faltan restricciones.
-  
-	En el ejempo que estamos haciendo ahora mismo obtenemos: 
-	$$min\{\frac{2}{-1}, \frac{4}{1},\frac{1}{1}\}$$
-	**
-	**SIGUIENTE ITERACIÓN**
+
+En el ejempo que estamos haciendo ahora mismo obtenemos: 
+$$min\{\frac{2}{-1}, \frac{4}{1},\frac{1}{1}\}$$
+
+**SIGUIENTE ITERACIÓN**
 	
-	Tendrá que salir la variable $x_5$ de la base.
-	La nueva base para la nueva iteración será: 
 	$$ B_1 = \{x_1, x_3, x_4\} = \begin{pmatrix}
 -1 &&1 &&0 \\ 1 && 0&& 1 \\ 1&& 0&& 0
 \end{pmatrix} $$
 
-	Calculamos la inversa y obtenemos el siguiente punto. 
-	$$ B_1 ^- = $$ 
-Esto se repite → Ya copiado en el sucio. 
 
 

@@ -3682,6 +3682,7 @@ Concepci
 CAREFUL
 Compruebe
 CODE
+Cooooomo
 de
 due
 dar
@@ -5580,6 +5581,7 @@ dense
 dictionaries
 digital
 dependiendo
+detenidamente
 modelos
 modelo
 maximizar
@@ -9334,6 +9336,7 @@ eun
 encapsular
 encapsula
 enviado
+explicaci
 programaci
 primer
 paso
@@ -11284,6 +11287,7 @@ pesos
 ping
 paquetes
 pcs
+peor
 lineal
 la
 lo
@@ -16518,6 +16522,7 @@ representarlos
 rbol
 rboles
 reducidos
+realizaci
 References
 Resoluci
 Rectas
@@ -22174,6 +22179,7 @@ simplification
 sctructure
 sparse
 significant
+saquemos
 interval
 importancia
 incorrecto
@@ -30305,6 +30311,7 @@ ventde
 vente
 vertex
 verifica
+venga
 no
 nuestras
 ndar
@@ -38267,6 +38274,7 @@ operadores
 observamos
 objetos
 optimimzaci
+obvia
 que
 queremos
 qD
@@ -72514,6 +72522,7 @@ NAT
 Never
 NET
 NEXT
+Necesito
 Xr
 XObject
 Xw
