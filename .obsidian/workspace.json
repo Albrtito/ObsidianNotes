@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +164,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1727270270 - Method - SIMPLEX"
+              "title": "Graph of 1728047794 - Ejemplos SIMPLEX"
             }
           }
         ]
@@ -179,10 +179,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - SIMPLEX.md"
+                "file": "02-Atomic/1728047794 - Ejemplos SIMPLEX.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1727270270 - Method - SIMPLEX"
+              "title": "Outline of 1728047794 - Ejemplos SIMPLEX"
             }
           },
           {
@@ -261,8 +261,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ffe7b69e618fd24a",
+  "active": "7104fe1e0ea8d2f0",
   "lastOpenFiles": [
+    "02-Atomic/1727270270 - Method - SIMPLEX.md",
     "02-Atomic/1731662455 - Practica - Routers.md",
     "02-Atomic/1731681118 - Firma digital.md",
     "02-Atomic/1731682077 - Algorithm - RSA.md",
@@ -292,7 +293,6 @@
     "99-Meta/0. Attachments/1731438416 - Marketing estratégicoj.png",
     "99-Meta/0. Attachments/1731436877 - El plan de marketingj.png",
     "02-Atomic/1731435991 - Gestion comercial y marketing en la empresa.md",
-    "01-Areas/1.UC3M/Empresa.md",
     "99-Meta/0. Attachments/1726572508 - The network stackj.png",
     "99-Meta/0. Attachments/1730651695 - The Internet Protocol (IP)j.png",
     "99-Meta/0. Attachments/1731411683 - Procotol - IPv6j.png",

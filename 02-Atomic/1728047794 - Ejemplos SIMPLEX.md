@@ -105,12 +105,13 @@ $$
 
 
 2. **Regla de entrada:** 
-	Utilizamos el subindice i para referirnos a las variables básicas. Mientras que se usa el subindice j para las variables nuevas que entren.
-		  
-	  La forma en la que estamos calculando la función objetivo (su valor) es la siguiente. 
+	Utilizamos el subindice i para referirnos a las variables básicas. Mientras que se usa el subindice j para las variables nuevas que entren(variables no básicas).
+	 
+	La forma en la que estamos calculando la función objetivo (su valor) es la siguiente. 
 	  $$ z = \sum_{i\in B} C_i X_i$$
-	  En el paso uno las nuevas variables eran 0 y no teníamos que tenerlas en cuenta.
-	  Ahora introducimos una variable no básica/nueva.
+  En el paso uno las nuevas variables eran 0 y no teníamos que tenerlas en cuenta.
+  
+  Ahora introducimos una variable no básica/nueva.
 	  $$ z = \sum_{i\in B} C_i \hat X_i + c_j \sigma $$
 	  + **sigma:** Es la variable nueva.
 	  + $c_j$: Es el coeficiente de la variable nueva

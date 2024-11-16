@@ -7,9 +7,9 @@ tags:
   - review
 References: 
 cssclasses: 
-sr-due: 2024-11-08
-sr-interval: 1
-sr-ease: 161
+sr-due: 2024-11-18
+sr-interval: 2
+sr-ease: 141
 ---
  
 # Method - SIMPLEX:
