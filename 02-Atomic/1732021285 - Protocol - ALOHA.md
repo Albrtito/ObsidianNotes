@@ -50,7 +50,12 @@ For an small (or any arbitrary) number of host, the **best value for p will be:*
 ## PURE (Unslotted) ALOHA: 
 In order to solve the problem of clock synchronisation we delete the slots. 
 + This means that collisions can also happen if someone is in the middle of the transmission. 
-+ Any frame that is send will collide with other frames that are send in the interval $[t_0 -1, t_0 + 1]$. There will be collision with any system that transmit
++ Any frame that is send will collide with other frames that are send in the interval $[t_0 -1, t_0 + 1]$. There will be collision with any system that transmits in that interval. 
 	+ This after all means that **the number of collisions rises.**
+### Efficiency: 
+The efficiency goes down by a lot to 18%. 
 
+
+## Verbessern the protocol: 
+What if we wanted to verbessern the protocol. Just by checking if the channel is busy we’ll stop collisions. This implementation is [[1732022695 - Protocol - CSMA-CD|CSMA]]
 ***

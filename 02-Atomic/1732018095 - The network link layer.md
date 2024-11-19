@@ -87,9 +87,9 @@ We would like that:
 	 + Some examples are: [[1732020527 - Protocol - TDMA|TDMA]] and [[1732020800 - Protocol - FDMA|FDMA]]
 	 + **Good** for high channel loads, **bad** for low channel loads
 
-+ **Random acces:** Channel does not divide or partition. 
++ **Random access:** Channel does not divide or partition. 
 	+ We need a way to **detect recover from collisions.**
-	+ Some examples are: 
+	+ Some examples are: [[1732021285 - Protocol - ALOHA|ALOHA]], [[1732022695 - Protocol - CSMA-CD|CSMA]]
 	+ Opposite from the channel partition: **Good for low** channel load, **bad for high** channel load. 
 
 + **Taking turns:** Nodes take turns. The nodes with more data take longer turns.

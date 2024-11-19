@@ -36,6 +36,7 @@ The network protocols work with datagrams that encapsulate the transport layer d
 + [[1730826735 - Protocol - IPv4 protocol|IPv4 protocol]]
 
 ### Link protocols: 
-The link layer has several protocols. One packet can be managed by several protocols in order to travel from one node to another. 
+The link layer has several protocols. One packet can be managed by several protocols in order to travel from one node to another.
+This note collects the **important and widely used link protocols**, see the [[1732018095 - The network link layer|Link Layer]] note for other protocols such as the multiple acces protocols. 
 + [[1732018610 - Protocol - WIFI|WIFI]]
-+ 
++ [[1732023041 - Protocol - Ethernet|Ethernet]]

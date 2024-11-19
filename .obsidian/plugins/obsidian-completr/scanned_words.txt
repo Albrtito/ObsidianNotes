@@ -1923,6 +1923,7 @@ acceso
 acomodada
 adjacent
 avoided
+aloha
 Creaci
 Crear
 Cuando
@@ -3688,6 +3689,8 @@ Cooooomo
 Connect
 Collisions
 Channerl
+CSMA
+Clock
 de
 due
 dar
@@ -5589,6 +5592,8 @@ dependiendo
 detenidamente
 duples
 duplex
+delete
+detects
 modelos
 modelo
 maximizar
@@ -7406,6 +7411,8 @@ modelizaci
 modes
 mantenerse
 mediums
+mind
+middle
 en
 ease
 es
@@ -9350,6 +9357,8 @@ encapsulation
 ethernet
 entity
 examles
+everyone
+empty
 programaci
 primer
 paso
@@ -11305,6 +11314,8 @@ ponemos
 permitted
 piece
 partition
+playing
+pure
 lineal
 la
 lo
@@ -12984,6 +12995,7 @@ ltimas
 loops
 leave
 loades
+loads
 tags
 tres
 todos
@@ -14734,6 +14746,7 @@ transitivity
 thigs
 traceroute
 tablita
+transmitting
 review
 resolver
 realizar
@@ -16543,6 +16556,7 @@ rboles
 reducidos
 realizaci
 responsability
+rises
 References
 Resoluci
 Rectas
@@ -20295,6 +20309,11 @@ chanell
 coordinated
 centralized
 collisions
+collided
+clocks
+clock
+collide
+collects
 sr
 se
 subproblemas
@@ -22217,6 +22236,8 @@ synchronises
 slot
 slots
 station
+synchronized
+synchronisation
 interval
 importancia
 incorrecto
@@ -28786,6 +28807,8 @@ Eliminate
 Enumerando
 EXAMPLES
 Error
+Efficiency
+Ethernet
 vital
 variables
 vez
@@ -30354,6 +30377,7 @@ vente
 vertex
 verifica
 venga
+verbessern
 no
 nuestras
 ndar
@@ -31902,6 +31926,7 @@ neutrality
 ntico
 necesito
 noeran
+none
 Identificar
 Intro
 Identificaci
@@ -35119,6 +35144,7 @@ Diagn
 Distribution
 Division
 Disadvantages
+Decentralization
 funci
 fibonacci
 fica
@@ -36779,6 +36805,7 @@ funcione
 firmar
 firmas
 frequency
+followint
 objetivo
 obtener
 of
@@ -41531,6 +41558,7 @@ Aleatoria
 ADJACENT
 Acces
 Access
+ALOHA
 Floyd
 Foundations
 Funci
@@ -51023,6 +51051,7 @@ Producto
 Presupuesto
 Participaci
 PCA
+PURE
 Biblio
 BitsPerComponent
 BI
@@ -54172,6 +54201,7 @@ Satisfacer
 Separamos
 Subnmet
 Sending
+Slotted
 Manual
 Modelar
 Millones
@@ -60472,6 +60502,8 @@ bridge
 billions
 behind
 band
+beginning
+busy
 Util
 Una
 UniZumo
@@ -61972,6 +62004,7 @@ Universal
 UNICAMENTE
 UNA
 Updated
+Unslotted
 QUE
 Que
 QE
@@ -65046,6 +65079,7 @@ Orientar
 Operativo
 Operadores
 Obtendremos
+Opposite
 ximo
 xrL
 xFQ
@@ -69465,6 +69499,7 @@ Verify
 Vease
 Vista
 Verifique
+Verbessern
 Grupo
 Get
 GWgw
@@ -70977,6 +71012,7 @@ Giving
 Generalised
 Graf
 GAMAL
+Good
 Nota
 Novo
 Nacional
@@ -80107,6 +80143,9 @@ works
 wireless
 widely
 wifi
+wasting
+wil
+wasted
 kL
 kMZ
 kC
