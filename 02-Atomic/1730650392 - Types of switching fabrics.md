@@ -6,6 +6,9 @@ tags:
   - review
 References: 
 cssclasses:
+sr-due: 2024-11-22
+sr-interval: 3
+sr-ease: 268
 ---
 # Types of switching fabrics
 ![[Screenshot 2024-11-03 at 5.17.05 PM.png|center]]

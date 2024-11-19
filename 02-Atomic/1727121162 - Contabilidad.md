@@ -6,9 +6,9 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-13
-sr-interval: 8
-sr-ease: 250
+sr-due: 2025-01-07
+sr-interval: 49
+sr-ease: 270
 ---
 # Contabilidad
 
@@ -18,8 +18,6 @@ sr-ease: 250
  > + Permite **analizar la situación y [[1729694840 - Estructura economico-financiera de la empresa|Estructura economico-financiera de la empresa]] ** para tomar decisiones acordes a ella
 
 Dividimos la contabilidad en dos ramas, según el tipo de análisis que realizan.
-**Remarks:** 
-+ En cualquier caso, la terminología de la contabilidad es amplia y luego se usan abreviaturas para todo asi que hay aquí un 
 ### ==Contabilidad financiera:== 
 + Útil para usuarios **externos y legales** 
 

@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-11-13
-sr-interval: 11
+sr-due: 2024-12-19
+sr-interval: 30
 sr-ease: 205
 ---
 # Loss and delay in Networks

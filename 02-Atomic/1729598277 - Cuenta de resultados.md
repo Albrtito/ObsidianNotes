@@ -7,8 +7,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-15
-sr-interval: 10
+sr-due: 2024-12-19
+sr-interval: 30
 sr-ease: 250
 ---
 # Cuenta de resultados
@@ -23,9 +23,9 @@ sr-ease: 250
 Lo primero que hemos de hacer es definir que es lo que veremos como ingreso y lo que veremos como gasto:
 
 **Ingresos:**
-+ Venta de productos
++ ==Venta de productos==
 + ==Prestación de servicios==
-+ Ingresos financieros
++ ==Ingresos financieros==
 
 **Gastos:** 
 + Coste de materias primas

@@ -8,6 +8,9 @@ tags:
   - review
 References: 
 cssclasses:
+sr-due: 2024-11-23
+sr-interval: 4
+sr-ease: 270
 ---
 # The forwarding function the netwok layer:
 > [!NOTE] Forwarding: 

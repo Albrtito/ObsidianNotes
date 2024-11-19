@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-14
-sr-interval: 9
+sr-due: 2024-12-16
+sr-interval: 27
 sr-ease: 250
 ---
 # Balance de situacion

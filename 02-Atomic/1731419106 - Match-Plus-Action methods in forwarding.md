@@ -6,6 +6,9 @@ tags:
   - review
 References: 
 cssclasses:
+sr-due: 2024-11-23
+sr-interval: 4
+sr-ease: 270
 ---
 # Match-Plus-Action 
 The match plus action process is performed inside the routers, it is an esential function of the data plane **in charge of finding where each datagram should be redirected by looking at the table**. 
