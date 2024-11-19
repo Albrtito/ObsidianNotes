@@ -80,14 +80,20 @@ We would like that:
 4. We would like for the protocol to be simple. 
 
 ### Types: 
-+ **Channerl partitioning:** We divide the channel into smaller pieces. Each node has a piece.
++ **Channel partitioning:** We divide the channel into smaller pieces. Each node has a piece.
 	+ There are no collisions in this method
-  > A piece could be a time slot or a frequency. 
+  > A piece could be a t ime slot or a frequency. 
 
-	 + Some examles are: 
+	 + Some examples are: [[1732020527 - Protocol - TDMA|TDMA]] and [[1732020800 - Protocol - FDMA|FDMA]]
+	 + **Good** for high channel loads, **bad** for low channel loads
+
 + **Random acces:** Channel does not divide or partition. 
-	+ We need a way to recover from collisions. 
+	+ We need a way to **detect recover from collisions.**
+	+ Some examples are: 
+	+ Opposite from the channel partition: **Good for low** channel load, **bad for high** channel load. 
+
 + **Taking turns:** Nodes take turns. The nodes with more data take longer turns.
+	+ 
 
 
 ***

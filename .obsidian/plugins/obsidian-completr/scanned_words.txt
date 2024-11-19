@@ -1922,6 +1922,7 @@ atravesadas
 acceso
 acomodada
 adjacent
+avoided
 Creaci
 Crear
 Cuando
@@ -3685,6 +3686,8 @@ Compruebe
 CODE
 Cooooomo
 Connect
+Collisions
+Channerl
 de
 due
 dar
@@ -5584,6 +5587,8 @@ dictionaries
 digital
 dependiendo
 detenidamente
+duples
+duplex
 modelos
 modelo
 maximizar
@@ -7400,6 +7405,7 @@ mente
 modelizaci
 modes
 mantenerse
+mediums
 en
 ease
 es
@@ -9340,6 +9346,10 @@ encapsula
 enviado
 explicaci
 encapsulate
+encapsulation
+ethernet
+entity
+examles
 programaci
 primer
 paso
@@ -11292,6 +11302,9 @@ paquetes
 pcs
 peor
 ponemos
+permitted
+piece
+partition
 lineal
 la
 lo
@@ -12970,6 +12983,7 @@ lissi
 ltimas
 loops
 leave
+loades
 tags
 tres
 todos
@@ -20273,6 +20287,14 @@ compact
 chapter
 channels
 connet
+correctoin
+card
+chip
+collision
+chanell
+coordinated
+centralized
+collisions
 sr
 se
 subproblemas
@@ -22191,6 +22213,10 @@ sparse
 significant
 saquemos
 severl
+synchronises
+slot
+slots
+station
 interval
 importancia
 incorrecto
@@ -24045,6 +24071,8 @@ intangibles
 implicitamente
 impl
 introdujamos
+identifiaction
+ime
 un
 una
 utiliza
@@ -27069,6 +27097,8 @@ home
 hourglass
 haya
 hashes
+hsare
+hight
 Es
 Este
 Ejemplos
@@ -28755,6 +28785,7 @@ Etapas
 Eliminate
 Enumerando
 EXAMPLES
+Error
 vital
 variables
 vez
@@ -33446,6 +33477,7 @@ Inside
 Into
 INPUTTED
 INTERFACE
+Ideal
 Definir
 Din
 Design
@@ -35084,6 +35116,9 @@ DEST
 DROP
 Diferenciar
 Diagn
+Distribution
+Division
+Disadvantages
 funci
 fibonacci
 fica
@@ -36743,6 +36778,7 @@ finalizar
 funcione
 firmar
 firmas
+frequency
 objetivo
 obtener
 of
@@ -38286,6 +38322,7 @@ observamos
 objetos
 optimimzaci
 obvia
+organisation
 que
 queremos
 qD
@@ -41491,6 +41528,9 @@ Algor
 Allways
 Assigning
 Aleatoria
+ADJACENT
+Acces
+Access
 Floyd
 Foundations
 Funci
@@ -42983,6 +43023,9 @@ Felisa
 FORWARD
 Firma
 FRAME
+Framing
+Full
+FDMA
 Warshall
 Width
 We
@@ -44495,6 +44538,8 @@ WHERE
 Weighted
 Weights
 WIFI
+Wifi
+Wasting
 Heuri
 Hecho
 HyO
@@ -46006,6 +46051,7 @@ HCO
 HKOTR
 Hasse
 HOP
+Half
 TODOS
 The
 Trabajo
@@ -47623,6 +47669,8 @@ Throggling
 Toma
 Transitar
 Terminal
+Taking
+TDMA
 grafo
 guardan
 global
@@ -54123,6 +54171,7 @@ Src
 Satisfacer
 Separamos
 Subnmet
+Sending
 Manual
 Modelar
 Millones
@@ -55778,6 +55827,7 @@ Marca
 Make
 Mode
 MILESTONE
+Mediaci
 Zivkovic
 Zo
 Zi
@@ -60420,6 +60470,8 @@ bpd
 basics
 bridge
 billions
+behind
+band
 Util
 Una
 UniZumo
@@ -72537,6 +72589,7 @@ Never
 NET
 NEXT
 Necesito
+NODES
 Xr
 XObject
 Xw
