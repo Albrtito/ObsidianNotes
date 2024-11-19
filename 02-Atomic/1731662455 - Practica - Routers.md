@@ -17,8 +17,7 @@ cssclasses:
 > + Aunq el código tenga comentarios no se pueden añadir si son de linea
 
 ## Dudas: 
-#Duda: Pq necesito hacer las rutas para que el ping me funcione?
-
+#Duda: La notación CIDR impone parte de la condición para que una dirección sea diferente a otra? Pq si un PC tiene la dirección X.X.X.1 en la subnet X.X.X.0/25 tengo que referenciarlo como X.X.X.1/25 en vez de X.X.X.1/32? No sería el caso de que esa dirección viene dada por los primeros 32 bits?
 
 
 ## Router configurations: 
@@ -38,18 +37,18 @@ The routers have several modes to work in:
 
 
 **RA:**
-+ (NET A): eth0.0 → `172.16.75.1` 
-+ (NET C): eth0.1 → `172.16.0.1` 
++ (NET A): eth0.0 → `172.16.75.1/25` 
++ (NET C): eth0.1 → `172.16.0.1/30` 
 
 **RB:**
-+ (NET B): eth0.0 → `172.16.76.1`
-+ (NET C): eth0.1 → `172.16.0.2` 
++ (NET B): eth0.0 → `172.16.76.1/25`
++ (NET C): eth0.1 → `172.16.0.2/30` 
 
 **PCA:** 
-+ (NET A): eth1 → `172.16.75.2` 
++ (NET A): eth1 → `172.16.75.2/25` 
 
 **PCB:**
-+ (NET B): eth1 → `172.16.76.2`
++ (NET B): eth1 → `172.16.76.2/25`
 
 ### Routing tables: 
 
@@ -57,9 +56,9 @@ The routers have several modes to work in:
 
 | TO             | NEXT_HOP | INTERFACE |
 | -------------- | -------- | --------- |
-| 172.16.76.0/24 | RB       | eth0.1    |
-| 172.16.75.2    | PCA      | eth0.0    |
-| 172.16.0.2     | RB       | eth0.1    |
+| 172.16.76.0/25 | RB       | eth0.1    |
+| 172.16.75.2/25 | PCA      | eth0.0    |
+| 172.16.0.2/30  | RB       | eth0.1    |
 #### RB:
 
 
