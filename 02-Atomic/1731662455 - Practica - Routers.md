@@ -152,26 +152,27 @@ exit
 **Assigning IP addresses to the routers:**
 ```sh
 # Los comandos de esta parte son: (Ejecutar según que linea para cada router)
-	# Para RA en NET A
+	#RA: 
+	# NET A
 	config terminal
 	interface eth0.0
 	ip address 172.16.75.1/25
 	exit
 	
-	# Para RA en NET C
+	# NET C
 	interface eth0.1
 	ip address 172.16.0.1/30
 	exit 
 	exit
 
-
-	# Para RB en NET B
+	# RB:
+	# NET B
 	config terminal 
 	interface eth0.0
 	ip address 172.16.76.1/25
 	exit
 	
-	# Para RB en NET C
+	# NET C
 	interface eth0.1
 	ip address 172.16.0.2/30
 	exit
