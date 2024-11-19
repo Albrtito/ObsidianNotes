@@ -7,8 +7,8 @@ tags:
   - Networks
 References: "[[Net_References_s1_2.pdf]]"
 cssclasses: 
-sr-due: 2024-11-10
-sr-interval: 27
+sr-due: 2025-02-06
+sr-interval: 79
 sr-ease: 250
 ---
 # The network stack: 
@@ -22,7 +22,6 @@ sr-ease: 250
 
 From bottom to top, each layer offers a different services:
 ## Layers:
-#Duda: Differences between link and network layers.
 They are **numbered from bottom to top:**
 
 1. **Physical:** The actual things we can touch 
@@ -32,7 +31,7 @@ They are **numbered from bottom to top:**
    > Next connection that needs to be made.
 
 3. [[1728386212 - The network layer|Network layer]]: Joining all the linked devices in the link layer (the glue to actually create the network).
-   > Where is the connection going? Whole image of the web.
+   > Where is the connection going? Whole topology of the web.
 
 4. [[1728038869 - Transport network layer|Transport layer]]: Processes talking to each other to transfer data. 
    >How is the info going to be encoded and transported

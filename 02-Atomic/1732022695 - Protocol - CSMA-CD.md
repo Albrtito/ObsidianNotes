@@ -24,5 +24,10 @@ Add **collision detection:** Reduce the time wasted in collisions.
 $$
 efficiency = \frac{1}{1 + \frac{5t_{prop}}{t_{trans}}}
 $$
-
++ **Prop time:** Max prop delay between 2 nodes 
++ **Transmission time:** Max time to transmit a **max-size** frame 
++ **Efficiency goes to 1:** 
+	+ With propagation time going to 0 
+	+ With transmission time going to infinity
++ 
 ***
