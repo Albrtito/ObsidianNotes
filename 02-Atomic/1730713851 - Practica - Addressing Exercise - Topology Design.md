@@ -12,7 +12,7 @@ cssclasses:
 ```mermaid
 graph TD
     BB[Backbone Network<br/>10.0.0.0/24] --- R_BB[Router Backbone]
-    R_BB --- |10.0.75.252/30| R_S[Router Servers]
+    R_BB --- |10.0.75.0/24| R_S[Router Servers]
     
     subgraph Branch 75
         R_S --- |10.0.75.248/30| R_O1[Router Office 1]

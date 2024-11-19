@@ -5668,6 +5668,7 @@ ddefine
 deleting
 decentralization
 direcctions
+design
 modelos
 modelo
 maximizar
@@ -38854,6 +38855,7 @@ oyna
 osR
 optimizing
 office
+onew
 que
 queremos
 qD

@@ -8,6 +8,27 @@ cssclasses:
 ---
 # Practica - Routers - 2
 For this practice we’ll use a **modified version** of the [[1730716899 - Practica - IP addressing|IP Address Assignment]], with small changes to the number of hosts required for each of the networks. 
+## Topology design: 
+
+```mermaid
+graph TD
+    subgraph Branch 100
+    R100
+    end
+    R100 ---|10.0.0.0/24| R4
+
+    subgraph Branch 75
+	    R4 --- |10.0.75.0/24| R_S[R3]
+        R_S --- |10.0.75.248/30| R_O1[Router Office 1]
+        R_S --- |10.0.75.244/30| R_O2[Router Office 2]
+        R_O1 --- |10.0.75.240/30| R_O2
+        
+        R_O1 --- O1[Office 1 Network<br/>10.0.75.0/25<br/>120 hosts]
+        R_O2 --- O2[Office 2 Network<br/>10.0.75.128/27<br/>27 hosts]
+        subgraph NET: SE
+        R_S --- SRV[Servers Network<br/>10.0.75.160/28<br/>12 hosts]
+    end
+```
 
 ## Requirements: 
 1. **Office 1:** 100 hosts
