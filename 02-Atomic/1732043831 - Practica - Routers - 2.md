@@ -7,25 +7,7 @@ References:
 cssclasses:
 ---
 # Practica - Routers - 2
-# Topología de Red RYSCA/p_encam_a
 
-```mermaid
-graph TD
-subgraph ide1 [10.0.0.0/24]
-R100
-R4
-R100 --- R4
-subgraph ide2 [10.0.75.0/24]
-R1
-R2
-R3
-R4
-end
-end
-
-
-  ```
-  
 ## Tablas de Enrutamiento
 
 ### Router R1

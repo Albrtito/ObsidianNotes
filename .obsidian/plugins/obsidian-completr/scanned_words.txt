@@ -29165,6 +29165,7 @@ EdpT
 EzO
 EQLp
 Empty
+Enrutamiento
 vital
 variables
 vez
@@ -33929,6 +33930,7 @@ Ijnl
 IiJ
 IpJ
 Idwj
+Interfaz
 Definir
 Din
 Design
@@ -35592,6 +35594,8 @@ Dvp
 DfqZZo
 DFp
 Duplex
+Destino
+Directamente
 funci
 fibonacci
 fica
@@ -54956,6 +54960,8 @@ SoE
 SSL
 SeVT
 SECOND
+Siguiente
+Salto
 Manual
 Modelar
 Millones
