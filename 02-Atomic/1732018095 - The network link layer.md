@@ -17,7 +17,7 @@ cssclasses:
 
 > [!NOTE] Definition (MAIN IDEA):  
 > The link layer has the **responsability of transferring a datagram from one node to a physically adjacent node over a link**. 
-> + Connect a ONE LINK HOP
+> + Connect a ONE LINK HOP via some medium
 >   
 > Each link is different and therefore needs a different protocol. 
 
@@ -28,10 +28,15 @@ cssclasses:
 >+ **MAC Addresses: Physical addresses: Link layer addresses:** The addresses used in the Link layer to identify hosts 
 >+ **bitTime:** The time to transmit one bit
 
+
+> [!bug] Problems: 
+> The main problems of the link layer are: 
+> 1. There are several link mediums through wich a packet can travel. Several protocols need to be used easily. Changing between protocols musnt be a problem 
+
 ## Link layer services: 
-1. **Framing:** 
-  + The encapsulation of the datagram into a frame. A **header and trailer are added** 
-  + Mediación / organisation of the used medium in shared channels 
+1. **Framing:** The act of creating the link frame 
+  + Creation of a **header and trailer**. 
+  +  
   + **MAC address** usage to identifiaction of hosts
 2. **Reliable delivery between ADJACENT NODES:** 
 
@@ -57,7 +62,7 @@ cssclasses:
 ## Implementation of the link layer: 
 The link layer is implemented in each host.Each hosts needs an specific card(chip) in order to use each one of the protocols (wifi card, ethernet card…). 
 
-## Multiple acces protocols: 
+## Multiple access protocols: 
 We can define two different types of links: 
 + **point-to-point:** Point to point link between ethernet switches and a host.
   > A wire connecting one host to another

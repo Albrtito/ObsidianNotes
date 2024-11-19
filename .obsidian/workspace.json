@@ -6,7 +6,7 @@
       {
         "id": "4bab566806dd88ef",
         "type": "tabs",
-        "dimension": 49.38692098092643,
+        "dimension": 35.08403361344538,
         "children": [
           {
             "id": "a58d321609bbb403",
@@ -104,7 +104,7 @@
       {
         "id": "00702acb4992b3cf",
         "type": "split",
-        "dimension": 50.61307901907357,
+        "dimension": 64.91596638655463,
         "children": [
           {
             "id": "6ff7eaf30bb7c36a",
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732022695 - Protocol - CSMA-CD.md",
+                "file": "02-Atomic/1732018095 - The network link layer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +263,34 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732022695 - Protocol - CSMA-CD"
+              "title": "Graph of 1732018095 - The network link layer"
+            }
+          },
+          {
+            "id": "b6e33d160bc51eb6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "26c82695bfd12dda",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -278,10 +305,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732022695 - Protocol - CSMA-CD.md"
+                "file": "02-Atomic/1732018095 - The network link layer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732022695 - Protocol - CSMA-CD"
+              "title": "Outline of 1732018095 - The network link layer"
             }
           },
           {
@@ -326,8 +353,65 @@
               "icon": "lucide-file",
               "title": "1726572508 - The network stack"
             }
+          },
+          {
+            "id": "91a226be6ec6c6dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Atomic/1732018095 - The network link layer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1732018095 - The network link layer"
+            }
+          },
+          {
+            "id": "ff2c0b52c01a233a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-Atomic/1732018095 - The network link layer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1732018095 - The network link layer"
+            }
+          },
+          {
+            "id": "1a28d692f3ed6fec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7146df4c17fa9c4f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -366,11 +450,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e1f33a2eb0d7ff85",
+  "active": "7146df4c17fa9c4f",
   "lastOpenFiles": [
+    "02-Atomic/1732022695 - Protocol - CSMA-CD.md",
     "00-References/Net_Resources_s5_1.pdf",
     "00-References/Net_Biblio_Kurose.pdf",
-    "02-Atomic/1732022695 - Protocol - CSMA-CD.md",
     "00-References/Net_Resources_s5_2.pdf",
     "00-References/Net_Resoureces_s5_1.pdf",
     "00-References/Net_Resources_s5_3.pdf",
