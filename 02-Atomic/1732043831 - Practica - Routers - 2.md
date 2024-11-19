@@ -55,20 +55,26 @@ graph TD
 
 1. **Office 1:** (Needs 100 hosts, 127 addresses are given using a /25 mask)
 	+ Network: 10.0.75.0/25
-	+ Router (R1): 10.0.75.1
+	+ **Router (R1):** 10.0.75.1
+	+ **Host (Ofi1):** 10.0.75.2
 	+ Broadcast: 10.0.75.127
 2. **Office 2:** (Needs 25 hosts, 32 addresses are given using a /27 mask)
 	+ Network: 10.0.75.128/27
-	+ Router (R2): 10.0.75.129
+	+ **Router (R2):** 10.0.75.129
+	+ **Host (Ofi2):** 10.0.75.130
 	+ Broadcast: 10.0.75.159
-3. **Servers:** (Needs 10 hosts, 15 addresses are given using a /28 mask ) 
+3. **Servers:** (Needs 10 hosts, 16 addresses are given using a /28 mask ) 
 	+ Network: 10.0.75.160/28 
-	+ Router (R3): 10.0.75.161 
-	+ Broadcast: 10.0.74.175
-4. **R1  -  R2**: (Needs 2 hosts and 1 broadcast address. Use a /30 mask)
-5. **R2 - R3**: (Needs 2 hosts and 1 broadcast address. Use a /30 mask)
-6. **R1 - R3**: (Needs 2 hosts and 1 broadcast address. Use a /30 mask)
-7. **R**
+	+ **Router (R3):** 10.0.75.161 
+	+ Broadcast: 10.0.75.175
+4. **R1 - R2**: (Needs 2 hosts and 1 broadcast address. Use a /30 mask)
+	+ Network: 10.0.75.176/30 
+	+ **Router(R1):** 10.0.75.177
+	+ **Router(R2(:** 10.0.75.178
+	+ Broadcast: 10.0.75.179
+1. **R2 - R3**: (Needs 2 hosts and 1 broadcast address. Use a /30 mask)
+2. **R1 - R3**: (Needs 2 hosts and 1 broadcast address. Use a /30 mask)
+3. **R3-R4**:(Needs 2 hosts and 1 broadcast address. Use a /30 mask)
 ## Routing tables: 
 Taking the onew from the previous addressing assignment: 
 ![[1730716899 - Practica - IP addressing#4. Routing Tables]]
