@@ -111,19 +111,26 @@ exit
 exit
 ```
 
-**Removing IP addresses from PCs and adding new ones**
+**Removing IP addresses from PCs,  adding new ones and default gateways **
 ```sh
 # Los comandos de este lab son: (Ejecutar según que linea en cada PC)
 
 	#Eliminamos el address de la interfaz eth1 para PCA
 	sudo ip addr del 192.100.100.101/24 dev eth1
+	sudo ip addr flush dev eth1
 	#Añadimos la dirección adecuada en el PCA
-	sudo ip addr add  172.16.75.3 dev eth1
+	sudo ip addr add  172.16.75.10/25 dev eth1
+	# Configuramos el default gateway por el router RA
+	sudo ip add default via 172.16.75.2 dev eth1
 	
 	#Eliminamos el address de la interfaz eth1 para PCB
 	sudo ip addr del 192.100.100.102/24 dev eth1
+	sudo ip addr flush dev eth1
 	#Añadimos la dirección adecuada en el PCB
-	sudo ip addr add  172.16.76.3 dev eth1
+	sudo ip addr add  172.16.76.10/25 dev eth1
+	# Configuramos el default gateway por el router RB
+	sudo ip addr add default via 172.16.76.2 dev eth1
+	
 
 ```
 
@@ -133,19 +140,19 @@ exit
 	# Para RA en NET A
 	config terminal
 	interface eth0.0
-	ip address 172.16.75.1/32
+	ip address 172.16.75.2/25
 	exit
 	
 	# Para RA en NET C
 	interface eth0.1
-	ip address 172.16.0.1/32
+	ip address 172.16.0.1/30
 	exit 
 	
 	exit
 	# Para RB en NET B
 	config terminal 
 	interface eth0.0
-	ip address 172.16.76.1/32
+	ip address 172.16.76.1/30
 	exit
 	
 	# Para RB en NET C
@@ -197,22 +204,13 @@ exit
 ```sh
 # From RA send to NET B
 	config term
-	ip route 172.16.76.0/24 eth0.1
+	ip route 172.16.76.0/25 172.16.0.2
 	exit
 	
 # From RB send to NET A
 	config term 
-	ip route 172.16.75.0/24 eth0.1
+	ip route 172.16.75.0/25 172.16.0.1
 	exit
 ```
 
-+ In the PCs 
-```sh
-# From PCA send to PCB : By sending to RA
-	sudo ip route add 172.16.76.0/24 dev eth1
-
-# From PCB send to PCA: By sending to RB
-	sudo ip route add 172.16.75.0/24 dev eth1
-
-```
 ***
