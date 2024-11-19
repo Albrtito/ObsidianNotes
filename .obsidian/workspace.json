@@ -36,7 +36,14 @@
               "icon": "lucide-file",
               "title": "1732043831 - Practica - Routers - 2"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ae6021dd537c7c5e",
+        "type": "tabs",
+        "children": [
           {
             "id": "bd5be62925afc076",
             "type": "leaf",
@@ -52,8 +59,7 @@
               "title": "1730716899 - Practica - IP addressing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

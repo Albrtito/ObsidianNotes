@@ -7,7 +7,16 @@ References:
 cssclasses:
 ---
 # Practica - Routers - 2
+For this practice we’ll use a **modified version** of the [[1730716899 - Practica - IP addressing|IP Address Assignment]], with small changes to the number of hosts required for each of the networks. 
 
+## Requirements: 
+1. **Office 1:** 100 hosts
+2. **Office 3:** 25 hosts 
+3. **Servers:** 10 hosts 
+4. Ip addresses must be assigned optimizing the number of direcctions for each network 
+### RIP Requirements:
+1. RIP should not be used when no adjacent routers use RIP
+2. Identify the initial router information 
 ## Tablas de Enrutamiento
 
 ### Router R1
