@@ -5662,6 +5662,8 @@ dTi
 dqZ
 dEuhN
 ddefine
+deleting
+decentralization
 modelos
 modelo
 maximizar
@@ -9465,6 +9467,7 @@ eLTO
 eklw
 els
 engloba
+establish
 programaci
 primer
 paso
@@ -13140,6 +13143,7 @@ lQn
 lOF
 lEd
 legacy
+lowers
 tags
 tres
 todos
@@ -22493,6 +22497,10 @@ sLn
 sShO
 sbpdx
 sUe
+strategy
+slotted
+stopped
+sensed
 interval
 importancia
 incorrecto
@@ -29150,6 +29158,7 @@ EUY
 EdpT
 EzO
 EQLp
+Empty
 vital
 variables
 vez
@@ -37263,6 +37272,8 @@ fNn
 fzgV
 framing
 figure
+fact
+finalized
 objetivo
 obtener
 of
@@ -42091,6 +42102,7 @@ Already
 Altough
 Adjacent
 Among
+Abort
 Floyd
 Foundations
 Funci
@@ -46677,6 +46689,7 @@ HTQ
 HJF
 HMZR
 HQm
+Hawaian
 TODOS
 The
 Trabajo
@@ -51738,6 +51751,7 @@ PgCS
 PGwHnj
 Problems
 Porque
+Pure
 Biblio
 BitsPerComponent
 BI
@@ -53227,6 +53241,7 @@ BBQh
 BQAz
 BWP
 BKZ
+Busy
 Steven
 Skiena
 Serie
@@ -61323,6 +61338,7 @@ bqK
 bsK
 bitTime
 bowth
+backoff
 Util
 Una
 UniZumo
@@ -79688,6 +79704,7 @@ jfOw
 jtw
 jpEJi
 jhY
+jam
 wA
 wo
 wpMuB

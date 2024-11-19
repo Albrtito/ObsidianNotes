@@ -3,10 +3,13 @@ aliases:
   - Protocol - ALOHA
   - ALOHA
 tags:
-  - incomplete
   - Networks
+  - review
 References: 
 cssclasses:
+sr-due: 2024-11-20
+sr-interval: 1
+sr-ease: 226
 ---
 # Protocol - ALOHA
 
@@ -15,62 +18,7 @@ cssclasses:
 >  We say it is random due to its strategy for retransmission based on a random value p when a collision is detected. 
 
 + It’s name comes from the fact that it was developed to establish communication between Hawaian islands. 
-+ There are two types of ALOHA protocols, slotted and pure. 
-
-## Slotted ALOHA: Time slots
-
-> [!NOTE] Intro:
-> The slotted ALOHA uses fixed slots of time to send data. This prevents collisions but  requires all hosts to be synchronised.  
-
-### Requirements:
-
-+ All frames  must have the same size
-+ Time is divided into slots, each slot has the lenght equal to the time required to transmit 1 frame. 
-
-  #Duda: The propagation over one link could be different than other. And what if the transmission delay of one host is different form the others?
-
-	+ Everyone can use the slots, however u need to transmit **at the beginning of the slot**
-
-+ Nodes are somehow synchronized 
-  >f.e: Using a clock
-+ The collision is detected by every node in the system. 
-	+ Everyone can see that the link is busy. 
-###  Managing collisions:
-If there is a collision, **each node that collided retransmits with a probability p**. 
-+ P is obtained randomly. The probability of collisions will change with a direct relation to P. The higher the P, the higher the probability of collisions. 
-
-### PROS and CONS: 
-+ Same as all random access protocols. 
-**PROS:** 
-+ With an **small load**, the channel can be used with **little to none problems.** 
-+ **Decentralization**, only clocks are needed
-+ Really **simple**. 
-
-**CONS:**
-+ Collisions = wasting slots
-+ **Clock synchronisation is really hard** 
-
-### Efficiency:
-With a **huge number of hosts** we’ll have a value for p = 37%. This value will transform into: 
-+ 37% of the channel will be used. 
-+ 37% of the channel wil be empty. 
-+ 26% of the time there will be collisions. 
-
-For an small (or any arbitrary) number of host, the **best value for p will be:**
- $$
- p = 1/N
- $$
- + Where N is the number of hosts in the system. 
-
-## PURE (Unslotted) ALOHA: 
-In order to solve the problem of clock synchronisation we delete the slots. 
-+ This means that collisions can also happen if someone is in the middle of the transmission. 
-+ Any frame that is send will collide with other frames that are send in the interval $[t_0 -1, t_0 + 1]$. There will be collision with any system that transmits in that interval. 
-	+ This after all means that **the number of collisions rises.**
-### Efficiency: 
-The efficiency goes down by a lot to 18%. 
-
-
-## Verbessern the protocol: 
-What if we wanted to verbessern the protocol. Just by checking if the channel is busy we’ll stop collisions. This implementation is [[1732022695 - Protocol - CSMA-CD|CSMA]]
++ There are two types of ALOHA:
+	+ [[1732035034 - Protocol - Slotted ALOHA|Protocol - Slotted ALOHA]]
+	+ [[1732035070 - Protocol - Pure ALOHA|Protocol - Pure ALOHA]]
 ***
