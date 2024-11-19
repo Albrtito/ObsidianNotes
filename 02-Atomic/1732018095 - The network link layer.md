@@ -34,6 +34,9 @@ cssclasses:
   + **MAC address** usage to identifiaction of hosts
 2. **Reliable delivery between ADJACENT NODES:** 
 
+**Remarks:**
++ A trailer is something added **behind the data** instead of before it. 
+
 > [!bug] Problem, question: 
 > If TCP is reliable, why is important to have a reliable link layer protocol. 
 > If the link is reliable, why use TCP or any other reliable transport layer protocol ?
@@ -48,5 +51,24 @@ cssclasses:
 5. **Error correctoin**
 6. **Half duples and full duplex protocols**: Ways of sending and recieving data over the same channel. 
 	1. **Half duplex:** One is sending, the other cannot
-	2. **Full duples:** Sendi
+	2. **Full duples:** Sending is permitted from both parts. 
+
+## Implementation of the link layer: 
+The link layer is implemented in each host.Each hosts needs an specific card(chip) in order to use each one of the protocols (wifi card, ethernet card…). 
+
+## Multiple acces protocols: 
+We can define two different types of links: 
++ **point-to-point:** Point to point link between ethernet switches and a host.
+  > A wire connecting one host to another
++ **broadcast** links
+  > Wifi, signals, using air and similar mediums. 
+  
+In both types we’ll find problems with something we’ll call **collision**. 
+Collisions happen when a node recieves two or more signals at the same time. 
+
+In order to solve this the **multiple access protocols are used,** these protocols determine: 
++ How nodes hsare the chanell → When each node can transmit 
++ The protocols must **use the same channel that is being coordinated.** 
+
+
 ***
