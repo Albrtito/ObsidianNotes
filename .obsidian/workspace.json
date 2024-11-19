@@ -37,7 +37,8 @@
               "title": "1732043831 - Practica - Routers - 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,10 +246,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "531ccf78f47e325b",
+  "active": "3011014efc3155f1",
   "lastOpenFiles": [
-    "02-Atomic/1732043831 - Practica - Routers - 2.md",
     "02-Atomic/1731662455 - Practica - Routers.md",
+    "02-Atomic/1732043831 - Practica - Routers - 2.md",
     "02-Atomic/1732043763 - Practica - Routers - 1.md",
     "02-Atomic/1732018095 - The network link layer.md",
     "02-Atomic/1732031831 - Link channel multiple access protocols.md",
