@@ -1021,142 +1021,13 @@
         "type": "split",
         "children": [
           {
-            "id": "4bab566806dd88ef",
-            "type": "tabs",
-            "dimension": 35.08403361344538,
-            "children": [
-              {
-                "id": "a58d321609bbb403",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732018610 - Protocol - WIFI.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732018610 - Protocol - WIFI"
-                }
-              },
-              {
-                "id": "67994b7c04c0d77e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732020527 - Protocol - TDMA.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732020527 - Protocol - TDMA"
-                }
-              },
-              {
-                "id": "b2910eca3f45827e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732020800 - Protocol - FDMA.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732020800 - Protocol - FDMA"
-                }
-              },
-              {
-                "id": "392533786c8b52fd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732021285 - Protocol - ALOHA.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732021285 - Protocol - ALOHA"
-                }
-              },
-              {
-                "id": "e1f33a2eb0d7ff85",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732022695 - Protocol - CSMA-CD.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732022695 - Protocol - CSMA-CD"
-                }
-              },
-              {
-                "id": "263ef9bdfd88cc26",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732023041 - Protocol - Ethernet.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732023041 - Protocol - Ethernet"
-                }
-              }
-            ],
-            "currentTab": 4
-          },
-          {
-            "id": "00702acb4992b3cf",
+            "id": "272ea3d5a26c0049",
             "type": "split",
-            "dimension": 64.91596638655463,
             "children": [
               {
-                "id": "6ff7eaf30bb7c36a",
+                "id": "a181a8d9a688f463",
                 "type": "tabs",
-                "children": [
-                  {
-                    "id": "6382853dda7bb417",
-                    "type": "leaf",
-                    "state": {
-                      "type": "pdf",
-                      "state": {
-                        "file": "00-References/Net_Biblio_Kurose.pdf"
-                      },
-                      "icon": "lucide-file-text",
-                      "title": "Net_Biblio_Kurose"
-                    }
-                  },
-                  {
-                    "id": "0650c95df00c5da8",
-                    "type": "leaf",
-                    "state": {
-                      "type": "pdf",
-                      "state": {
-                        "file": "00-References/Net_Resources_s5_1.pdf"
-                      },
-                      "icon": "lucide-file-text",
-                      "title": "Net_Resources_s5_1"
-                    }
-                  }
-                ],
-                "currentTab": 1
-              },
-              {
-                "id": "6886a07856d010fb",
-                "type": "tabs",
+                "dimension": 54.880694143167034,
                 "children": [
                   {
                     "id": "627546c0f3528120",
@@ -1174,9 +1045,31 @@
                     }
                   }
                 ]
+              },
+              {
+                "id": "6886a07856d010fb",
+                "type": "tabs",
+                "dimension": 45.119305856832966,
+                "children": [
+                  {
+                    "id": "19a487545ad3a208",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02-Atomic/1732031831 - Link channel multiple access protocols.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "1732031831 - Link channel multiple access protocols"
+                    }
+                  }
+                ]
               }
             ],
-            "direction": "horizontal"
+            "direction": "vertical"
           }
         ],
         "direction": "vertical"
@@ -1197,7 +1090,7 @@
                   "state": {
                     "file": "02-Atomic/1732018095 - The network link layer.md",
                     "options": {
-                      "collapse-filter": true,
+                      "collapse-filter": false,
                       "search": "",
                       "localJumps": 2,
                       "localBacklinks": true,
@@ -1206,7 +1099,7 @@
                       "showTags": false,
                       "showAttachments": false,
                       "hideUnresolved": false,
-                      "collapse-color-groups": false,
+                      "collapse-color-groups": true,
                       "colorGroups": [
                         {
                           "query": "tag:#incomplete  ",
@@ -1270,17 +1163,44 @@
                       "textFadeMultiplier": 0,
                       "nodeSizeMultiplier": 2.79537653688525,
                       "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
+                      "collapse-forces": true,
                       "centerStrength": 0.0242737249838606,
                       "repelStrength": 15.3311814073596,
                       "linkStrength": 0.47411233053583,
                       "linkDistance": 52,
-                      "scale": 0.1242554851663404,
+                      "scale": 0.08922934559046299,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
                   "title": "Graph of 1732018095 - The network link layer"
+                }
+              },
+              {
+                "id": "b6e33d160bc51eb6",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "26c82695bfd12dda",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
                 }
               }
             ]
@@ -1317,7 +1237,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 200,
+        "width": 279.5,
         "collapsed": true
       },
       "right": {
@@ -1343,8 +1263,65 @@
                   "icon": "lucide-file",
                   "title": "1726572508 - The network stack"
                 }
+              },
+              {
+                "id": "91a226be6ec6c6dc",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02-Atomic/1732018095 - The network link layer.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 1732018095 - The network link layer"
+                }
+              },
+              {
+                "id": "ff2c0b52c01a233a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "02-Atomic/1732018095 - The network link layer.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 1732018095 - The network link layer"
+                }
+              },
+              {
+                "id": "1a28d692f3ed6fec",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "7146df4c17fa9c4f",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Notes Review Queue"
+                }
               }
-            ]
+            ],
+            "currentTab": 4
           },
           {
             "id": "d8523f2fbc4e9acf",
@@ -1384,7 +1361,7 @@
         }
       },
       "active": "627546c0f3528120",
-      "mtime": "2024-11-19T16:52:16+01:00"
+      "mtime": "2024-11-19T18:35:49+01:00"
     },
     "Empresa": {
       "main": {
@@ -2493,5 +2470,5 @@
       "mtime": "2024-11-19T13:07:42+01:00"
     }
   },
-  "active": "Net"
+  "active": "Net-Routers"
 }

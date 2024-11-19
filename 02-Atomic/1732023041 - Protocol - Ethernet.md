@@ -3,16 +3,21 @@ aliases:
   - Protocol - Ethernet
   - Ethernet
 tags:
-  - incomplete
   - Networks
+  - review
 References: 
 cssclasses:
+sr-due: 2024-11-20
+sr-interval: 1
+sr-ease: 225
 ---
 # Protocol - Ethernet
-The Ethernet protocol is a link layer protocol that uses a random access implementation based on [[1732037327 - Protocol - CSMA-CD|CSMA/CD]] protocol. 
+
+> [!NOTE] Intro: 
+>  The Ethernet protocol is a link layer protocol that uses a random access implementation based on [[1732037327 - Protocol - CSMA-CD|CSMA/CD]].
 
 **Remarks:**
-+ The ethernet link card that a host has is called NIC
++ The ethernet link card that a host card is called NIC
 ## Steps: 
 **Sending data:**
 1. NIC recieves tha datagram, creates the frame
@@ -22,6 +27,6 @@ The Ethernet protocol is a link layer protocol that uses a random access impleme
 3. Wait untill the transmission is finalized (the whole frame is send): 
 	+ **There is no collision while sending:** Nice, the frame was sent
 	+ **There is a collision:** Abort and send a jam signal (saying, I stopped because a collision was sensed)
-		+ Enter an **binary exponential backoff**. Based on a probability, a retransmission will happen. 
+		+ Enter an **binary exponential backoff** → Based on the probability that retransmission will happen → Based on the number of hosts connected to the link. 
    * 
 ***

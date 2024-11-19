@@ -4,133 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "4bab566806dd88ef",
+        "id": "3fba0475cebb59d0",
         "type": "tabs",
-        "dimension": 37.56177924217463,
         "children": [
           {
-            "id": "e1f33a2eb0d7ff85",
+            "id": "03cb95ef55f57c7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1732022695 - Protocol - CSMA.md",
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1732022695 - Protocol - CSMA"
+              "title": "1731662455 - Practica - Routers"
             }
           },
           {
-            "id": "263ef9bdfd88cc26",
+            "id": "531ccf78f47e325b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1732023041 - Protocol - Ethernet.md",
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1732023041 - Protocol - Ethernet"
+              "title": "1731662455 - Practica - Routers"
             }
-          }
-        ]
-      },
-      {
-        "id": "00702acb4992b3cf",
-        "type": "split",
-        "dimension": 62.43822075782537,
-        "children": [
-          {
-            "id": "6ff7eaf30bb7c36a",
-            "type": "tabs",
-            "dimension": 39.3018018018018,
-            "children": [
-              {
-                "id": "6382853dda7bb417",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00-References/Net_Biblio_Kurose.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Net_Biblio_Kurose"
-                }
-              },
-              {
-                "id": "107ddae837723d73",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00-References/Net_Resources_s5_1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Net_Resources_s5_1"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "272ea3d5a26c0049",
-            "type": "split",
-            "dimension": 60.69819819819819,
-            "children": [
-              {
-                "id": "a181a8d9a688f463",
-                "type": "tabs",
-                "dimension": 54.880694143167034,
-                "children": [
-                  {
-                    "id": "627546c0f3528120",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02-Atomic/1732018095 - The network link layer.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "1732018095 - The network link layer"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "6886a07856d010fb",
-                "type": "tabs",
-                "dimension": 45.119305856832966,
-                "children": [
-                  {
-                    "id": "19a487545ad3a208",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02-Atomic/1732031831 - Link channel multiple access protocols.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "1732031831 - Link channel multiple access protocols"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
           }
         ],
-        "direction": "horizontal"
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -149,7 +57,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732022695 - Protocol - CSMA.md",
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,39 +137,12 @@
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.1242554851663404,
+                  "scale": 0.09229580869883151,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732022695 - Protocol - CSMA"
-            }
-          },
-          {
-            "id": "b6e33d160bc51eb6",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "26c82695bfd12dda",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Graph of 1731662455 - Practica - Routers"
             }
           }
         ]
@@ -276,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732022695 - Protocol - CSMA.md"
+                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732022695 - Protocol - CSMA"
+              "title": "Outline of 1730827988 - Subnets"
             }
           },
           {
@@ -294,11 +175,13 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -315,73 +198,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726572508 - The network stack.md",
+                "file": "01-Areas/1.UC3M/Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726572508 - The network stack"
-            }
-          },
-          {
-            "id": "91a226be6ec6c6dc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02-Atomic/1732022695 - Protocol - CSMA.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 1732022695 - Protocol - CSMA"
-            }
-          },
-          {
-            "id": "ff2c0b52c01a233a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02-Atomic/1732022695 - Protocol - CSMA.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 1732022695 - Protocol - CSMA"
-            }
-          },
-          {
-            "id": "1a28d692f3ed6fec",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "7146df4c17fa9c4f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "Networks"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -402,7 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
+    "width": 395,
     "collapsed": true
   },
   "left-ribbon": {
@@ -420,10 +246,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e1f33a2eb0d7ff85",
+  "active": "03cb95ef55f57c7a",
   "lastOpenFiles": [
-    "02-Atomic/1732023041 - Protocol - Ethernet.md",
+    "02-Atomic/1732018095 - The network link layer.md",
+    "02-Atomic/1732031831 - Link channel multiple access protocols.md",
+    "00-References/Net_Biblio_Kurose.pdf",
+    "00-References/Net_Resources_s5_1.pdf",
     "02-Atomic/1732037327 - Protocol - CSMA-CD.md",
+    "02-Atomic/1732023041 - Protocol - Ethernet.md",
     "02-Atomic/1732022695 - Protocol - CSMA.md",
     "02-Atomic/1732037299 -.md",
     "02-Atomic/1732021285 - Protocol - ALOHA.md",
@@ -431,10 +261,6 @@
     "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
     "02-Atomic/1732020800 - Protocol - FDMA.md",
     "02-Atomic/1732020527 - Protocol - TDMA.md",
-    "00-References/Net_Resources_s5_1.pdf",
-    "02-Atomic/1732031831 - Link channel multiple access protocols.md",
-    "00-References/Net_Biblio_Kurose.pdf",
-    "02-Atomic/1732018095 - The network link layer.md",
     "02-Atomic/1732018610 - Protocol - WIFI.md",
     "00-References/Net_Resources_s5_2.pdf",
     "00-References/Net_Resoureces_s5_1.pdf",
@@ -455,7 +281,6 @@
     "02-Atomic/1730827988 - Subnets.md",
     "02-Atomic/1730650392 - Types of switching fabrics.md",
     "02-Atomic/1731411013 - Network Address Translation (NAT).md",
-    "02-Atomic/1731418961 - Generalized forwarding.md",
     "00-References/HyO_Biblio_Marek V. Introduction to mathematics of satisfiability.pdf",
     "99-Meta/0. Attachments/1731438416 - Marketing estratégicoj.png",
     "99-Meta/0. Attachments/1731436877 - El plan de marketingj.png",
