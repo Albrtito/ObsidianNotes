@@ -6,12 +6,12 @@ tags:
   - Heuri
 References: 
 cssclasses:
-sr-due: 2024-11-10
-sr-interval: 1
-sr-ease: 153
+sr-due: 2024-11-21
+sr-interval: 2
+sr-ease: 133
 ---
 # Expresiones condicionales en programación lineal
-
+#Duda: La nota entera
 
 > [!NOTE] Definition: 
 > Cuando nos encontramos con expresiones del tipo: 

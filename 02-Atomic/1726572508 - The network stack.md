@@ -28,7 +28,7 @@ They are **numbered from bottom to top:**
 1. **Physical:** The actual things we can touch 
    >Hardware
 
-2. **Link:** Data transfer between **neighboring network elements**
+2. [[1732018095 - The network link layer|Link Layer]]: Data transfer between **neighboring network elements**
    > Next connection that needs to be made.
 
 3. [[1728386212 - The network layer|Network layer]]: Joining all the linked devices in the link layer (the glue to actually create the network).
