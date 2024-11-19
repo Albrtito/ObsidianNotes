@@ -9,33 +9,48 @@ References:
 cssclasses:
 ---
 # Protocol - ALOHA
-ALOHA is a link layer random access protocol for multiple channel access. 
+
+> [!NOTE] Def: 
+>  ALOHA is a link layer random access protocol for multiple channel access. 
+>  We say it is random due to its strategy for retransmission based on a random value p when a collision is detected. 
+
++ It’s name comes from the fact that it was developed to establish communication between Hawaian islands. 
++ There are two types of ALOHA protocols, slotted and pure. 
 
 ## Slotted ALOHA: Time slots
-This protocol takes into account the followint **assumptions** (rules so that everyone is playing with the same idea in mind): 
 
-+ All frames have the same size
+> [!NOTE] Intro:
+> The slotted ALOHA uses fixed slots of time to send data. This prevents collisions but  requires all hosts to be synchronised.  
+
+### Requirements:
+
++ All frames  must have the same size
 + Time is divided into slots, each slot has the lenght equal to the time required to transmit 1 frame. 
-	+ Everyone can use the slots, however u need to transmit **at the beginning of the slot**
-+ Nodes are somehow synchronized 
-+ The collision is detected by every node in the system. 
 
-What happens with collisions? 
+  #Duda: The propagation over one link could be different than other. And what if the transmission delay of one host is different form the others?
+
+	+ Everyone can use the slots, however u need to transmit **at the beginning of the slot**
+
++ Nodes are somehow synchronized 
+  >f.e: Using a clock
++ The collision is detected by every node in the system. 
+	+ Everyone can see that the link is busy. 
+###  Managing collisions:
 If there is a collision, **each node that collided retransmits with a probability p**. 
 + P is obtained randomly. The probability of collisions will change with a direct relation to P. The higher the P, the higher the probability of collisions. 
 
-## PROS and CONS: 
-
+### PROS and CONS: 
++ Same as all random access protocols. 
 **PROS:** 
-+ With an small load, the channel can be used with little to none problems. 
-+ Decentralization, only clocks are needed
-+ Really simple. 
++ With an **small load**, the channel can be used with **little to none problems.** 
++ **Decentralization**, only clocks are needed
++ Really **simple**. 
 
 **CONS:**
 + Collisions = wasting slots
-+ Clock synchronisation is really hard to do. 
++ **Clock synchronisation is really hard** 
 
-### What is the efficiency of this systems?
+### Efficiency:
 With a **huge number of hosts** we’ll have a value for p = 37%. This value will transform into: 
 + 37% of the channel will be used. 
 + 37% of the channel wil be empty. 
