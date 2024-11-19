@@ -50,13 +50,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1732043831 - Practica - Routers - 2.md",
+                "file": "02-Atomic/1730716899 - Practica - IP addressing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1732043831 - Practica - Routers - 2"
+              "title": "1730716899 - Practica - IP addressing"
             }
           }
         ]
@@ -267,11 +267,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cf4808ee7580c40e",
+  "active": "3011014efc3155f1",
   "lastOpenFiles": [
+    "02-Atomic/1730716899 - Practica - IP addressing.md",
     "02-Atomic/1730713851 - Practica - Addressing Exercise - Topology Design.md",
     "02-Atomic/1732043831 - Practica - Routers - 2.md",
-    "02-Atomic/1730716899 - Practica - IP addressing.md",
     "02-Atomic/1731662455 - Practica - Routers.md",
     "02-Atomic/1732043763 - Practica - Routers - 1.md",
     "02-Atomic/1732018095 - The network link layer.md",
