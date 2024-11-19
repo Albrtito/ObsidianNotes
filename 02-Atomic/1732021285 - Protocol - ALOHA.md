@@ -33,7 +33,24 @@ If there is a collision, **each node that collided retransmits with a probabilit
 
 **CONS:**
 + Collisions = wasting slots
++ Clock synchronisation is really hard to do. 
 
 ### What is the efficiency of this systems?
+With a **huge number of hosts** we’ll have a value for p = 37%. This value will transform into: 
++ 37% of the channel will be used. 
++ 37% of the channel wil be empty. 
++ 26% of the time there will be collisions. 
+
+For an small (or any arbitrary) number of host, the **best value for p will be:**
+ $$
+ p = 1/N
+ $$
+ + Where N is the number of hosts in the system. 
+
+## PURE (Unslotted) ALOHA: 
+In order to solve the problem of clock synchronisation we delete the slots. 
++ This means that collisions can also happen if someone is in the middle of the transmission. 
++ Any frame that is send will collide with other frames that are send in the interval $[t_0 -1, t_0 + 1]$. There will be collision with any system that transmit
+	+ This after all means that **the number of collisions rises.**
 
 ***
