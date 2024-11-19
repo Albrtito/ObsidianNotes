@@ -115,23 +115,27 @@ exit
 ```sh
 # Los comandos de este lab son: (Ejecutar según que linea en cada PC)
 	#PCA
-		#Eliminamos el address de la interfaz eth1 para PCA
-		sudo ip addr del 192.100.100.101/24 dev eth1
-		sudo ip addr flush dev eth1
-		#Añadimos la dirección adecuada en el PCA
-		sudo ip  addr add  172.16.75.10/25 dev eth1
-		# Configuramos el default gateway por el router RA
-		sudo ip route add default via 172.16.75.2 dev eth1
+	
+	#Eliminamos el address de la interfaz eth1 para PCA
+	sudo ip addr del 192.100.100.101/24 dev eth1
+	sudo ip addr flush dev eth1
+	
+	#Añadimos la dirección adecuada en el PCA
+	sudo ip  addr add  172.16.75.10/25 dev eth1
+	# Configuramos el default gateway por el router RA
+	sudo ip route add default via 172.16.75.2 dev eth1
 
-	#PCAB
-		#Eliminamos el address de la interfaz eth1 para PCB
-		sudo ip addr del 192.100.100.102/24 dev eth1
-		sudo ip addr flush dev eth1
-		
-		#Añadimos la dirección adecuada en el PCB
-		sudo ip addr add  172.16.76.10/25 dev eth1
-		# Configuramos el default gateway por el router RB
-		sudo ip route add default via 172.16.76.2 dev eth1
+
+	#PCB
+	
+	#Eliminamos el address de la interfaz eth1 para PCB
+	sudo ip addr del 192.100.100.102/24 dev eth1
+	sudo ip addr flush dev eth1
+	
+	#Añadimos la dirección adecuada en el PCB
+	sudo ip addr add  172.16.76.10/25 dev eth1
+	# Configuramos el default gateway por el router RB
+	sudo ip route add default via 172.16.76.2 dev eth1
 	
 
 ```
@@ -155,12 +159,12 @@ exit
 	# Para RB en NET B
 	config terminal 
 	interface eth0.0
-	ip address 172.16.76.2/30
+	ip address 172.16.76.2/25
 	exit
 	
 	# Para RB en NET C
 	interface eth0.1
-	ip address 172.16.0.2/32
+	ip address 172.16.0.2/30
 	exit
 	exit
 ```
@@ -178,43 +182,5 @@ exit
 	ip route 172.16.75.0/25 172.16.0.1
 	exit
 ```
-
-
-**Create the routes between routers and pcs** (of the same NET)
-```sh
-# In the PCs: All packets in the subnet go through router
-	# PCA
-		# The subnet mask gets all the addresses that will be routet through
-		# the specified interface
-		sudo ip route add default 172.16.75.1 dev eth1
-	# PCB
-		sudo ip route add default  172.16.76.1 dev eth1
-
-# In the routers: The interface goes to the PC
-	# RA
-		config term 
-		# Set the current mask and through what interface it is routed
-		ip route 172.16.75.0/24 eth0.0
-		exit
-	# RB
-		config term
-		ip route 172.16.76.0/24 eth0.0
-		exit
-```
-
-**Create the routes between the routers:**
-```sh
-# In the RA:
-	config term
-	ip route 172.16.0.2/32 172.16.0.2
-	exit
-
-# In the RB:
-	config term 
-	# Set the current mask and through what interface it is routed
-	ip route 172.16.0.1/32 172.16.0.1
-	exit
-```
-
 
 ***
