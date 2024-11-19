@@ -56,35 +56,35 @@ The routers have several modes to work in:
 
 | TO             | NEXT_HOP | INTERFACE |
 | -------------- | -------- | --------- |
-| 172.16.76.0/25 | RB       | eth0.1    |
 | 172.16.75.2/25 | PCA      | eth0.0    |
+| 172.16.76.0/25 | RB       | eth0.1    |
 | 172.16.0.2/30  | RB       | eth0.1    |
 #### RB:
 
 
 | TO             | NEXT_HOP | INTERFACE |
 | -------------- | -------- | --------- |
-| 172.16.76.2    | PCB      | eth0.0    |
-| 172.16.75.0/24 | RA       | eth0.1    |
-| 172.16.0.1     | RA       | eth0.1    |
+| 172.16.76.2/25 | PCB      | eth0.0    |
+| 172.16.75.0/25 | RA       | eth0.1    |
+| 172.16.0.1/30  | RA       | eth0.1    |
 #### PCA:
 
 
-| TO             | NEXT_HOP | INTERFACE |
-| -------------- | -------- | --------- |
-| 172.16.75.0/24 | RA       | eth1      |
-| 172.16.76.0/24 | RB       | eth1      |
-#### PCA:
+| TO            | NEXT_HOP | INTERFACE |
+| ------------- | -------- | --------- |
+| 172.16.0.0/16 | RA       | eth1      |
+
+#### PCB:
 
 
-| TO             | NEXT_HOP | INTERFACE |
-| -------------- | -------- | --------- |
-| 172.16.76.0/24 | RB       | eth1      |
-| 172.16.75.0/24 | RB       | eth1      |
+| TO            | NEXT_HOP | INTERFACE |
+| ------------- | -------- | --------- |
+| 172.16.0.0/16 | RB       | eth1      |
+
 
 
 ### INPUTTED CODE: 
-**Removing IPv4 addresses from routes:**
+1. **Removing IPv4 addresses from routes:**
 ```sh
 # Los comandos de este lab son (para cada router): 
 config terminal
@@ -110,31 +110,41 @@ exit
 exit
 ```
 
-**Removing IP addresses from PCs,  adding new ones and default gateways **
+2. **Removing IP addresses from PCs**
 ```sh
-# Los comandos de este lab son: (Ejecutar según que linea en cada PC)
+# Ejecutar por lineas según que PC
+ 
 	#PCA
-	
 	#Eliminamos el address de la interfaz eth1 para PCA
 	sudo ip addr del 192.100.100.101/24 dev eth1
+	# Este comando deja en blanco la interfaz. 
 	sudo ip addr flush dev eth1
+
 	
+	#PCB
+	#Eliminamos el address de la interfaz eth1 para PCB
+	sudo ip addr del 192.100.100.102/24 dev eth1
+	# Este comando deja en blanco la interfaz. 
+	sudo ip addr flush dev eth1
+
+```
+
+3. **Adding new  IP addresses to PCs and default gateways**
+```sh
+# Los comandos de este lab son: (Ejecutar según que linea en cada PC)
+
+	#PCA
 	#Añadimos la dirección adecuada en el PCA
-	sudo ip  addr add  172.16.75.10/25 dev eth1
+	sudo ip  addr add  172.16.75.2/25 dev eth1
 	# Configuramos el default gateway por el router RA
-	sudo ip route add default via 172.16.75.2 dev eth1
+	sudo ip route add default via 172.16.75.1 dev eth1
 
 
 	#PCB
-	
-	#Eliminamos el address de la interfaz eth1 para PCB
-	sudo ip addr del 192.100.100.102/24 dev eth1
-	sudo ip addr flush dev eth1
-	
 	#Añadimos la dirección adecuada en el PCB
-	sudo ip addr add  172.16.76.10/25 dev eth1
+	sudo ip addr add  172.16.76.2/25 dev eth1
 	# Configuramos el default gateway por el router RB
-	sudo ip route add default via 172.16.76.2 dev eth1
+	sudo ip route add default via 172.16.76.1 dev eth1
 	
 
 ```
@@ -145,7 +155,7 @@ exit
 	# Para RA en NET A
 	config terminal
 	interface eth0.0
-	ip address 172.16.75.2/25
+	ip address 172.16.75.1/25
 	exit
 	
 	# Para RA en NET C
@@ -158,7 +168,7 @@ exit
 	# Para RB en NET B
 	config terminal 
 	interface eth0.0
-	ip address 172.16.76.2/25
+	ip address 172.16.76.1/25
 	exit
 	
 	# Para RB en NET C
@@ -169,7 +179,7 @@ exit
 ```
 
 **Create the routes between the networks:**
-+ In the routers:
+
 ```sh
 # From RA send to NET B
 	config term

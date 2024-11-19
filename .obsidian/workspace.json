@@ -6,6 +6,7 @@
       {
         "id": "3fba0475cebb59d0",
         "type": "tabs",
+        "dimension": 52.5,
         "children": [
           {
             "id": "03cb95ef55f57c7a",
@@ -21,7 +22,15 @@
               "icon": "lucide-file",
               "title": "1731662455 - Practica - Routers"
             }
-          },
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "4578600667039acb",
+        "type": "tabs",
+        "dimension": 47.5,
+        "children": [
           {
             "id": "531ccf78f47e325b",
             "type": "leaf",
@@ -37,8 +46,7 @@
               "title": "1731662455 - Practica - Routers"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
