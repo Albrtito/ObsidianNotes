@@ -20,43 +20,23 @@ For this practice we’ll use a **modified version** of the [[1730716899 - Pract
 3. The router R100 should be accessible from office networks. 
 
 ## Address assignment: 
-1. **Office 1:** (Needs 100 hosts, 128 addresses are given using a /26 mask)
+**Remarks:** 
++ Hosts can be set up in between the router and the broadcast addresses
++ The “zero address”, broadcast and default gateway are taken into account when computing number of hosts. 
+1. **Office 1:** (Needs 100 hosts, 127 addresses are given using a /25 mask)
 	+ Network: 10.0.75.0/25
 	+ Router (R1): 10.0.75.1
 	+ Broadcast: 10.0.75.127
-2. **Office 2:** (Needs 25 hosts, 31 addresses are given using a /28 mask)
+2. **Office 2:** (Needs 25 hosts, 32 addresses are given using a /27 mask)
 	+ Network: 10.0.75.128/27
-	+ Router (R2): 10.0.75.128
-## Tablas de Enrutamiento
+	+ Router (R2): 10.0.75.129
+	+ Broadcast: 10.0.75.159
+3. **Servers:** (Needs 10 hosts, 15 addresses are given using a /28 mask ) 
+	+ Network: 10.0.75.160/28 
+	+ Router (R3): 10.0.75.161 
+	+ Broadcast: 10.0.74.175
 
-### Router R1
-| Destino       | Siguiente Salto        | Interfaz |
-| ------------- | ---------------------- | -------- |
-| 10.0.75.0/24  | Directamente conectado | eth0.2   |
-| 10.0.75.0/24  | Directamente conectado | eth0.3   |
-| 10.0.0.0/24   | eth0.1                 | -        |
-| 10.0.100.0/24 | R100                   | -        |
-
-### Router R2
-| Destino | Siguiente Salto | Interfaz |
-| ------- | -------------- | -------- |
-| 10.0.75.0/24 | Directamente conectado | eth0.1 |
-| 10.0.75.0/24 | Directamente conectado | eth0.3 |
-| 10.0.0.0/24 | eth0.1 | - |
-| 10.0.100.0/24 | R100 | - |
-
-### Router R3
-| Destino | Siguiente Salto | Interfaz |
-| ------- | -------------- | -------- |
-| 10.0.75.0/24 | Directamente conectado | eth0.1 |
-| 10.0.75.0/24 | Directamente conectado | eth0.2 |
-| 10.0.75.0/24 | Directamente conectado | eth0.3 |
-| 10.0.0.0/24 | eth0.4 | - |
-| 10.0.100.0/24 | R100 | - |
-
-### Router R100
-| Destino | Siguiente Salto | Interfaz |
-| ------- | -------------- | -------- |
-| 10.0.75.0/24 | R1, R2 | - |
-| 10.0.0.0/24 | Directamente conectado | - |
+## Routing tables: 
+Taking the onew from the previous addressing assignment: 
+![[1730716899 - Practica - IP addressing#4. Routing Tables]]
 ***
