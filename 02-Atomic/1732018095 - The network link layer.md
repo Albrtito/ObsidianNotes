@@ -22,10 +22,11 @@ cssclasses:
 > Each link is different and therefore needs a different protocol. 
 
 > [!example] Notation: 
-> **host and routers = nodes:** From the link layer point of view all devices at the edges of the link are nodes and there are no differences between them. 
-> **links:** The communication channels that connet adjacent nodes. There are severl types. 
-> **packet → FRAME:** The packet of the link layer is a frame, it **encapsulates the network layer packet (datagram)**
->**MAC Addresses: Physical addresses: Link layer addresses:** The addresses used in the Link layer to identify hosts 
+>+ **host and routers = nodes:** From the link layer point of view all devices at the edges of the link are nodes and there are no differences between them. 
+>+ **links:** The communication channels that connet adjacent nodes. There are severl types. 
+>+ **packet → FRAME:** The packet of the link layer is a frame, it **encapsulates the network layer packet (datagram)**
+>+ **MAC Addresses: Physical addresses: Link layer addresses:** The addresses used in the Link layer to identify hosts 
+>+ **bitTime:** The time to transmit one bit
 
 ## Link layer services: 
 1. **Framing:** 

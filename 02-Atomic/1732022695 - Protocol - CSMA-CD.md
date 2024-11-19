@@ -19,5 +19,10 @@ CSMA is a link layer protocol using random access in order to solve a multiple a
 ### CSMA/CD:
 Add **collision detection:** Reduce the time wasted in collisions. 
 + If a node detects a collision while it is transmitting, it’ll stop. 
-+ 
+
+#### Efficiency: 
+$$
+efficiency = \frac{1}{1 + \frac{5t_{prop}}{t_{trans}}}
+$$
+
 ***

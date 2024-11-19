@@ -126,7 +126,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732023041 - Protocol - Ethernet.md",
+                "file": "02-Atomic/1732022695 - Protocol - CSMA-CD.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,12 +263,12 @@
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.07043488449702007,
+                  "scale": 0.1242554851663404,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732023041 - Protocol - Ethernet"
+              "title": "Graph of 1732022695 - Protocol - CSMA-CD"
             }
           }
         ]
@@ -283,10 +283,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732023041 - Protocol - Ethernet.md"
+                "file": "02-Atomic/1732022695 - Protocol - CSMA-CD.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732023041 - Protocol - Ethernet"
+              "title": "Outline of 1732022695 - Protocol - CSMA-CD"
             }
           },
           {
@@ -305,8 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -353,7 +352,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -370,13 +370,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "263ef9bdfd88cc26",
+  "active": "e1f33a2eb0d7ff85",
   "lastOpenFiles": [
-    "02-Atomic/1726049888 - Protocol - Net protocols.md",
     "02-Atomic/1732023041 - Protocol - Ethernet.md",
+    "02-Atomic/1732018095 - The network link layer.md",
+    "02-Atomic/1726049888 - Protocol - Net protocols.md",
     "02-Atomic/1732022695 - Protocol - CSMA-CD.md",
     "02-Atomic/1732021285 - Protocol - ALOHA.md",
-    "02-Atomic/1732018095 - The network link layer.md",
     "02-Atomic/1732020800 - Protocol - FDMA.md",
     "02-Atomic/1732020527 - Protocol - TDMA.md",
     "02-Atomic/1732018610 - Protocol - WIFI.md",
