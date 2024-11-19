@@ -16,7 +16,7 @@ sr-ease: 153
 > [!NOTE] Definition: 
 > Cuando nos encontramos con expresiones del tipo: 
 > 
-> > **Si variable1 es mayore que 20 entonces pasa algo**
+> > **Si variable1 es mayor que 20 entonces pasa algo**
 >
 > tenemos ante nosotros una **expresión condicional.** 
 

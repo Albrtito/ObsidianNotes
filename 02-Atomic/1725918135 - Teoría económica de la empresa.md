@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses: 
-sr-due: 2024-11-17
-sr-interval: 15
-sr-ease: 230
+sr-due: 2024-11-28
+sr-interval: 9
+sr-ease: 210
 ---
 # Teoría socio-económica de la empresa
 La sociedad actual se basa en la especialización del trabajo.Cada uno de nosotros nos especializamos (escogiendo un camino educativo) para poder realizar productivamente un único tipo de trabajo. 
@@ -41,7 +41,7 @@ Otras: (Actividades necesarias para que todo funciones) → #Duda Necesidad o co
 Los procesos dividen las amplias funciones de la entidad en acciones realizables por los individuos que la componen. 
 Cuando hablamos de procesos apare el concepto de [[1725918620 - Cadena de valor|Cadena de valor]]. En esta dividimos cada proceso en subprocesos, luego en actividades y finalmente en tareas
 + Importante poder diferenciar entre cada una y sus subactividades → Siempre se puede ir bajando hasta llegar al nivel de tarea.
-==Podemos dividir entre:== 
-+ ==**Procesos de negocio/Actividades primarias:** Aquellas que satisfacen al cliente. (Logística, operaciones, marketing, ventas)==
-+ ==**Procesos de apoyo/Actividades de soporte:** Dan servicio a los procesos de negocio/proceso de producción. (Gestión, Recursos humanos, Desarrollo).== 
+Podemos dividir entre:
++ **Procesos de negocio/Actividades primarias:** Aquellas que satisfacen al cliente. (Logística, operaciones, marketing, ventas)
++ **Procesos de apoyo/Actividades de soporte:** Dan servicio a los procesos de negocio/proceso de producción. (Gestión, Recursos humanos, Desarrollo).
 #Duda : Diferencia entre proceso de negocio/actividad primaria? Además de la relación que tienen en la cadena de valor.
