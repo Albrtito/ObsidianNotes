@@ -70,5 +70,24 @@ In order to solve this the **multiple access protocols are used,** these protoco
 + How nodes hsare the chanell → When each node can transmit 
 + The protocols must **use the same channel that is being coordinated.** 
 
+### Ideal framework: 
+What would be the ideal multiple acces protocol? 
++ We define a multiple acces channel (MAC) with a rate R of bps. 
+We would like that: 
+1. When only one node wants to transmit it can send at rate R 
+2. When M nodes want to transmit, each can send at average rate R/M. Distribution of the link over all nodes. 
+3. There wont be a centralized entity that synchronises. There is a decentralized network of links. 
+4. We would like for the protocol to be simple. 
+
+### Types: 
++ **Channerl partitioning:** We divide the channel into smaller pieces. Each node has a piece.
+	+ There are no collisions in this method
+  > A piece could be a time slot or a frequency. 
+
+	 + Some examles are: 
++ **Random acces:** Channel does not divide or partition. 
+	+ We need a way to recover from collisions. 
++ **Taking turns:** Nodes take turns. The nodes with more data take longer turns.
+
 
 ***
