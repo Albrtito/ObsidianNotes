@@ -34,3 +34,8 @@ We must also mention the [[1727429612 - Definition - TLS|TLS]] tools. Used to ad
 The network protocols work with datagrams that encapsulate the transport layer data.
 + [[1731411683 - Procotol - IPv6|IPv6]]
 + [[1730826735 - Protocol - IPv4 protocol|IPv4 protocol]]
+
+### Link protocols: 
+The link layer has several protocols. One packet can be managed by several protocols in order to travel from one node to another. 
++ [[1732018610 - Protocol - WIFI|WIFI]]
++ 

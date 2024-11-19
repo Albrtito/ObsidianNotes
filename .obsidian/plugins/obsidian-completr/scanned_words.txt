@@ -1921,6 +1921,7 @@ accessed
 atravesadas
 acceso
 acomodada
+adjacent
 Creaci
 Crear
 Cuando
@@ -3683,6 +3684,7 @@ CAREFUL
 Compruebe
 CODE
 Cooooomo
+Connect
 de
 due
 dar
@@ -9337,6 +9339,7 @@ encapsular
 encapsula
 enviado
 explicaci
+encapsulate
 programaci
 primer
 paso
@@ -16525,6 +16528,7 @@ rbol
 rboles
 reducidos
 realizaci
+responsability
 References
 Resoluci
 Rectas
@@ -20265,6 +20269,10 @@ comentarios
 comparan
 cambiando
 compararlos
+compact
+chapter
+channels
+connet
 sr
 se
 subproblemas
@@ -22182,6 +22190,7 @@ sctructure
 sparse
 significant
 saquemos
+severl
 interval
 importancia
 incorrecto
@@ -42973,6 +42982,7 @@ FALSE
 Felisa
 FORWARD
 Firma
+FRAME
 Warshall
 Width
 We
@@ -44484,6 +44494,7 @@ Ways
 WHERE
 Weighted
 Weights
+WIFI
 Heuri
 Hecho
 HyO
@@ -58772,6 +58783,7 @@ LHL
 LADXWM
 Lograr
 Logros
+LINK
 bottom
 base
 brik
@@ -80041,6 +80053,7 @@ weeks
 works
 wireless
 widely
+wifi
 kL
 kMZ
 kC
