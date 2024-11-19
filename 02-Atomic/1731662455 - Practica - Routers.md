@@ -164,7 +164,7 @@ exit
 		# the specified interface
 		sudo ip route add default 172.16.75.1 dev eth1
 	# PCB
-		sudo ip route add 172.16.76.0/24 dev eth1
+		sudo ip route add default  172.16.76.1 dev eth1
 
 # In the routers: The interface goes to the PC
 	# RA
