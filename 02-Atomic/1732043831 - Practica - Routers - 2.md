@@ -22,11 +22,16 @@ graph TD
         R_S --- |10.0.75.248/30| R_O1[Router Office 1]
         R_S --- |10.0.75.244/30| R_O2[Router Office 2]
         R_O1 --- |10.0.75.240/30| R_O2
-        
+
+		subgraph Office 1
         R_O1 --- O1[Office 1 Network<br/>10.0.75.0/25<br/>120 hosts]
-        R_O2 --- O2[Office 2 Network<br/>10.0.75.128/27<br/>27 hosts]
-        subgraph NET: SE
-        R_S --- SRV[Servers Network<br/>10.0.75.160/28<br/>12 hosts]
+        end
+        subgraph Office 2
+	     R_O2 --- O2[Office 2 Network<br/>10.0.75.128/27<br/>27 hosts]
+        end
+        subgraph Servers
+         R_S --- SRV[Servers Network<br/>10.0.75.160/28<br/>12 hosts]
+        end
     end
 ```
 
@@ -41,9 +46,13 @@ graph TD
 3. The router R100 should be accessible from office networks. 
 
 ## Address assignment: 
+
 **Remarks:** 
 + Hosts can be set up in between the router and the broadcast addresses
 + The “zero address”, broadcast and default gateway are taken into account when computing number of hosts. 
+
+#Duda: Why create an independent network for each of the server point-to-point connections. Why not create one network for all servers. 
+
 1. **Office 1:** (Needs 100 hosts, 127 addresses are given using a /25 mask)
 	+ Network: 10.0.75.0/25
 	+ Router (R1): 10.0.75.1
@@ -56,7 +65,10 @@ graph TD
 	+ Network: 10.0.75.160/28 
 	+ Router (R3): 10.0.75.161 
 	+ Broadcast: 10.0.74.175
-
+4. **R1  -  R2**: (Needs 2 hosts and 1 broadcast address. Use a /30 mask)
+5. **R2 - R3**: (Needs 2 hosts and 1 broadcast address. Use a /30 mask)
+6. **R1 - R3**: (Needs 2 hosts and 1 broadcast address. Use a /30 mask)
+7. **R**
 ## Routing tables: 
 Taking the onew from the previous addressing assignment: 
 ![[1730716899 - Practica - IP addressing#4. Routing Tables]]
