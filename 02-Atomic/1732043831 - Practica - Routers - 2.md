@@ -11,25 +11,19 @@ cssclasses:
 
 ```mermaid
 graph TD
-  subgraph SUCURSAL N
-    R1[(R1)] --- eth0.1
-    R1 --- eth0.2
-    R1 --- eth0.3
-    R2[(R2)] --- eth0.1 
-    R2 --- eth0.2
-    R2 --- eth0.3
-    R3[(R3)] --- eth0.1
-    R3 --- eth0.2
-    R3 --- eth0.3
-    R3 --- eth0.4
-    Red Oficinas 1 --- eth1
-    Red Oficinas 2 --- eth1
-    Red Servidores --- hstOf11
-    Red Servidores --- hstOf12
-  end
-  R100[(R100)] --- 10.0.100.0/24
-  10.0.75.0/24 --- R1
-  10.0.75.0/24 --- R2
+subgraph ide1 [10.0.0.0/24]
+R100
+R4
+R100 --- R4
+subgraph ide2 [10.0.75.0/24]
+R1
+R2
+R3
+R4
+end
+end
+
+
   ```
   
 ## Tablas de Enrutamiento
