@@ -57,19 +57,19 @@ For this practice we’ll use a **modified version** of the [[1730716899 - Pract
 	  
 6. **R1 - R3**: (Needs 2 hosts and 1 broadcast address. Use a /30 mask)
 	+ Network: 10.0.75.184/30
-	+ **Router (R1):** 10.0.75.185
-	+ **Router(R2):** 10.0.75.186
+	+ **Router (R1):** 10.0.75.185 (*eth0.2*)
+	+ **Router(R3):** 10.0.75.186 (*eth0.3*)
 	+ Broadcast: 10.0.75.187
 	  
 7. **R3-R4**:(Needs 2 hosts and 1 broadcast address. Use a /30 mask)
 	+ Network: 10.0.75.188/30
-	+ **Router(R3):** 10.0.75.189
-	+ **Router(R4):** 10.0.75.190
+	+ **Router(R3):** 10.0.75.189 (*eth0.2*)
+	+ **Router(R4):** 10.0.75.190 (*eth0.2*)
 	+ Broadcast: 10.0.75.191
 	  
 8. **R4-R100:** (10.0.0.0/24)
-	+ **Router(R4):** 10.0.0.75
-	+ **Router(R100):** 10.0.0.100
+	+ **Router(R4):** 10.0.0.75 (*eth0.1*)
+	+ **Router(R100):** 10.0.0.100 (*eth0.1*) → Assuming as nothing is sid in the picture
 ## Routing tables: 
 
 ### Backbone Router 
