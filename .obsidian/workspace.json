@@ -6,7 +6,7 @@
       {
         "id": "4bab566806dd88ef",
         "type": "tabs",
-        "dimension": 35.08403361344538,
+        "dimension": 24.052718286655683,
         "children": [
           {
             "id": "a58d321609bbb403",
@@ -104,7 +104,7 @@
       {
         "id": "00702acb4992b3cf",
         "type": "split",
-        "dimension": 64.91596638655463,
+        "dimension": 75.94728171334431,
         "children": [
           {
             "id": "6ff7eaf30bb7c36a",
@@ -146,6 +146,7 @@
               {
                 "id": "a181a8d9a688f463",
                 "type": "tabs",
+                "dimension": 54.880694143167034,
                 "children": [
                   {
                     "id": "627546c0f3528120",
@@ -167,6 +168,7 @@
               {
                 "id": "6886a07856d010fb",
                 "type": "tabs",
+                "dimension": 45.119305856832966,
                 "children": [
                   {
                     "id": "19a487545ad3a208",
@@ -174,13 +176,13 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "02-Atomic/1732031831 - Link channel access protocols.md",
+                        "file": "02-Atomic/1732031831 - Link channel multiple access protocols.md",
                         "mode": "source",
                         "backlinks": true,
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "1732031831 - Link channel access protocols"
+                      "title": "1732031831 - Link channel multiple access protocols"
                     }
                   }
                 ]
@@ -208,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732018095 - The network link layer.md",
+                "file": "02-Atomic/1732031831 - Link channel multiple access protocols.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +295,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732018095 - The network link layer"
+              "title": "Graph of 1732031831 - Link channel multiple access protocols"
             }
           },
           {
@@ -335,10 +337,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732018095 - The network link layer.md"
+                "file": "02-Atomic/1732031831 - Link channel multiple access protocols.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732018095 - The network link layer"
+              "title": "Outline of 1732031831 - Link channel multiple access protocols"
             }
           },
           {
@@ -389,7 +391,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/1732018095 - The network link layer.md",
+                "file": "02-Atomic/1732031831 - Link channel multiple access protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -399,7 +401,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1732018095 - The network link layer"
+              "title": "Backlinks for 1732031831 - Link channel multiple access protocols"
             }
           },
           {
@@ -408,12 +410,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/1732018095 - The network link layer.md",
+                "file": "02-Atomic/1732031831 - Link channel multiple access protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1732018095 - The network link layer"
+              "title": "Outgoing links from 1732031831 - Link channel multiple access protocols"
             }
           },
           {
@@ -479,12 +481,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "627546c0f3528120",
+  "active": "19a487545ad3a208",
   "lastOpenFiles": [
-    "02-Atomic/1732031831 - Link channel access protocols.md",
-    "02-Atomic/1732018095 - The network link layer.md",
     "02-Atomic/1732022695 - Protocol - CSMA-CD.md",
+    "02-Atomic/1732031831 - Link channel multiple access protocols.md",
     "00-References/Net_Resources_s5_1.pdf",
+    "02-Atomic/1732018095 - The network link layer.md",
     "00-References/Net_Biblio_Kurose.pdf",
     "00-References/Net_Resources_s5_2.pdf",
     "00-References/Net_Resoureces_s5_1.pdf",
@@ -514,7 +516,6 @@
     "02-Atomic/1729598277 - Cuenta de resultados.md",
     "02-Atomic/1727255580 - Loss and delay in Networks.md",
     "02-Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
-    "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
     "00-References/HyO_Biblio_Marek V. Introduction to mathematics of satisfiability.pdf",
     "99-Meta/0. Attachments/1731438416 - Marketing estratégicoj.png",
     "99-Meta/0. Attachments/1731436877 - El plan de marketingj.png",

@@ -1942,6 +1942,8 @@ agN
 ahz
 afF
 aUal
+allmost
+accesed
 Creaci
 Crear
 Cuando
@@ -9460,6 +9462,7 @@ eybq
 eLTO
 eklw
 els
+engloba
 programaci
 primer
 paso
@@ -13134,6 +13137,7 @@ lDkL
 lQn
 lOF
 lEd
+legacy
 tags
 tres
 todos
@@ -20537,6 +20541,8 @@ cTc
 cuL
 ctzFV
 cxF
+coaxial
+connecttion
 sr
 se
 subproblemas
@@ -35565,6 +35571,7 @@ DWa
 Dvp
 DfqZZo
 DFp
+Duplex
 funci
 fibonacci
 fica
@@ -37250,6 +37257,8 @@ fRL
 fFW
 fNn
 fzgV
+framing
+figure
 objetivo
 obtener
 of
@@ -42073,6 +42082,9 @@ APT
 AlRI
 AkSI
 AVfs
+ADDRESS
+Already
+Altough
 Floyd
 Foundations
 Funci
@@ -51719,6 +51731,7 @@ PyT
 PgCS
 PGwHnj
 Problems
+Porque
 Biblio
 BitsPerComponent
 BI
@@ -61302,6 +61315,7 @@ bPQ
 bqK
 bsK
 bitTime
+bowth
 Util
 Una
 UniZumo
@@ -65934,6 +65948,7 @@ Omk
 OaV
 OvK
 ODAJ
+Other
 ximo
 xrL
 xFQ

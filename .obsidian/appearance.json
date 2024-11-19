@@ -5,7 +5,7 @@
   "theme": "system",
   "baseFontSize": 14,
   "interfaceFontFamily": "Inter,FiraCode Nerd Font,JetBrainsMono Nerd Font",
-  "textFontFamily": "FiraCode Nerd Font,Inter,Iosevka Nerd Font",
+  "textFontFamily": "Inter,Iosevka Nerd Font,FiraCode Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font,Iosevka Nerd Font",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [

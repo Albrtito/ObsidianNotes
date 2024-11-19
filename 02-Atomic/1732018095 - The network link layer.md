@@ -4,8 +4,8 @@ aliases:
   - Link Layer
   - The link layer
 tags:
-  - incomplete
   - Networks
+  - review
 References: 
 cssclasses:
 ---
@@ -20,6 +20,9 @@ cssclasses:
 > + Connect a ONE LINK HOP via some medium
 >   
 > Each link is different and therefore needs a different protocol. 
+> 
+> The **implementation of this layer happens in each hosts**. 
+>+ A chip (link-card), specific to each protocol, is needed. 
 
 > [!example] Notation: 
 >+ **host and routers = nodes:** From the link layer point of view all devices at the edges of the link are nodes and there are no differences between them. 
@@ -44,13 +47,13 @@ The link layer may provide some of the following services based on the different
 
 Este servicio engloba: 
 + Creation of a **header and trailer**.
-+ Use of a [[1732031831 - Link channel access protocols|Channel access protocol]]. 
++ Use of a [[1732031831 - Link channel multiple access protocols|Channel access protocol]]. 
 + Creation of a **MAC ADDRESS** 
 
  **Remarks:**
 + A trailer is something added **behind the data** instead of before it.
       
-### Reliable delivery between ADJACENT NODES:
+### Adjacent reliable delivery:
 
 > Already know how to do this based on the [[1727176650 - Principles of reliable data transfer|Principles of reliable data transfer]]
 
@@ -66,55 +69,18 @@ This service comes with a question on why it is necessary.
 > + Maybe if we are sure that the link will allways be reliable, it makes no sense to implement TCP. The reality is that we wont be able to really know that for sure. So better implement TCP
 
 ### Half-Full Duplex channels:
-5. **Half duples and full duplex protocols**: Ways of sending and recieving data over the same channel. 
-	1. **Half duplex:** One is sending, the other cannot
-	2. **Full duples:** Sending is permitted from both parts. 
 
+> [!NOTE] Def: 
+> Based on the type of physical link being used a half or full duplex channel can be offered. 
+> 
++ **Half duplex:** Only one side of the link can send at a time
++ **Full duplex:** Both sides of the link can send at the same time. 
+**Remark:**
++ Altough one may think that nowadays allmost everything is full duplex, the reality is that most of the legacy internet connections are half duplex. 
+> f.e: El cable coaxial
 ### Other services:
 1. **Flow control** 
 2. **Error detection**
 3. **Error correctoin**
-## Implementation of the link layer: 
-The link layer is implemented in each host.Each hosts needs an specific card(chip) in order to use each one of the protocols (wifi card, ethernet card…). 
-
-## Multiple access protocols: 
-We can define two different types of links: 
-+ **point-to-point:** Point to point link between ethernet switches and a host.
-  > A wire connecting one host to another
-+ **broadcast** links
-  > Wifi, signals, using air and similar mediums. 
-  
-In both types we’ll find problems with something we’ll call **collision**. 
-Collisions happen when a node recieves two or more signals at the same time. 
-
-In order to solve this the **multiple access protocols are used,** these protocols determine: 
-+ How nodes hsare the chanell → When each node can transmit 
-+ The protocols must **use the same channel that is being coordinated.** 
-
-### Ideal framework: 
-What would be the ideal multiple acces protocol? 
-+ We define a multiple acces channel (MAC) with a rate R of bps. 
-We would like that: 
-1. When only one node wants to transmit it can send at rate R 
-2. When M nodes want to transmit, each can send at average rate R/M. Distribution of the link over all nodes. 
-3. There wont be a centralized entity that synchronises. There is a decentralized network of links. 
-4. We would like for the protocol to be simple. 
-
-### Types: 
-+ **Channel partitioning:** We divide the channel into smaller pieces. Each node has a piece.
-	+ There are no collisions in this method
-  > A piece could be a t ime slot or a frequency. 
-
-	 + Some examples are: [[1732020527 - Protocol - TDMA|TDMA]] and [[1732020800 - Protocol - FDMA|FDMA]]
-	 + **Good** for high channel loads, **bad** for low channel loads
-
-+ **Random access:** Channel does not divide or partition. 
-	+ We need a way to **detect recover from collisions.**
-	+ Some examples are: [[1732021285 - Protocol - ALOHA|ALOHA]], [[1732022695 - Protocol - CSMA-CD|CSMA]]
-	+ Opposite from the channel partition: **Good for low** channel load, **bad for high** channel load. 
-
-+ **Taking turns:** Nodes take turns. The nodes with more data take longer turns.
-	+ 
-
 
 ***
