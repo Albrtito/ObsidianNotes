@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-11-14
-sr-interval: 12
+sr-due: 2024-12-12
+sr-interval: 23
 sr-ease: 150
 ---
 # Tipos de empresas
@@ -17,11 +17,11 @@ Podemos dividir los tipos de empresa según:
 	+ Primario
 	+ secundario
 	+ terciario 
-+ **Tamaño**: 
-	+ Micro: < 10 trabajadores, < 2M
-	+ Pequeña: 10-49 trabajadores, 2-10M
-	+ Mediana: 50-249 trabajadores, 10-50M
-	+ Grande: >250 trabajadores, +50M
++ ==**Tamaño**:== 
+	+ ==Micro: < 10 trabajadores, < 2M==
+	+ ==Pequeña: 10-49 trabajadores, 2-10M==
+	+ ==Mediana: 50-249 trabajadores, 10-50M==
+	+ ==Grande: >250 trabajadores, +50M==
 + **Ámbito de competencia:** 
 	+ Monomercado/Multimercado
 	+ Nacional/Multinacional
@@ -32,9 +32,8 @@ Desde un punto de vista legal podemos analizar las empresas bajo dos importantes
 Se tienen en cuenta los siguientes aspectos:
 1. **Tipo de actividad:** Se require un tipo de forma jurídica?
 2. ==**Responsabilidad:** Que responsabilidad se quiere tener respecto a los bienes de la empresa?==
-#Duda : Cuando hablamos de bienes de la empresa, lo estamos usando como un sinónimo de capital?
 3. **Fiscalidad:** Impuestos
-4. ==**Gastos de constitución y mantenimiento:** Las empresas sociales grandes requieren una gestión de gobierno interior para solucionar el problema de agencia==
+4. **Gastos de constitución y mantenimiento:** Las empresas sociales grandes requieren una gestión de gobierno interior para solucionar el problema de agencia
 5. **Flexibilidad:** Quienes forman la empresa? Queremos que esto cambie pronto?
 ### Titularidad de los medios de producción:
 Esto se traduce a titularidad del capital total de la empresa. Dividimos empresas en dos grandes grupos.

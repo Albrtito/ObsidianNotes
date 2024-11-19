@@ -6,9 +6,9 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-11-14
-sr-interval: 12
-sr-ease: 228
+sr-due: 2025-01-12
+sr-interval: 54
+sr-ease: 248
 ---
 # Principles of reliable data transfer.
 The problem of comunication within the internet lies on **how to transfer data reliablely using an unreliable channel.** 
@@ -38,10 +38,10 @@ For the following implementations we’ll take into account the following **assu
 	+ There is a **current state**
 	+ They change state based on the input (pck’s)
 
-> [!quote] ==Remember:== 
-> ==A reliable transmission means:==
-> ==+ All packets arrive==
-> ==+ Packets arrive **in order** to the APP==
+> [!quote] Remember: 
+> A reliable transmission means:
+> + All packets arrive
+> + Packets arrive **in order** to the APP
 
 
 ## Implementations:

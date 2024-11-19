@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-13
-sr-interval: 8
+sr-due: 2024-12-17
+sr-interval: 28
 sr-ease: 250
 ---
 # El BAIT,BAT y BN
