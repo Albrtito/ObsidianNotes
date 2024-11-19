@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Link channel access protocols
-  - Channel access protocols
+  - Link channel multiple access protocols
+  - Channel multiple access protocols
 tags:
   - incomplete
   - Networks
@@ -11,38 +11,46 @@ cssclasses:
 # Link channel multiple access protocols
 
 The link layer must decide how each channel is accesed, not all channels provide bowth ways connecttion, not only that but most of the channels must provide an operating window for tons of hosts and must manage that. These protocols are used to figure out how 
-## Multiple access protocols: 
-We can define two different types of links: 
-+ **point-to-point:** Point to point link between ethernet switches and a host.
-  > A wire connecting one host to another
-+ **broadcast** links
-  > Wifi, signals, using air and similar mediums. 
-  
-In both types we’ll find problems with something we’ll call **collision**. 
-Collisions happen when a node recieves two or more signals at the same time. 
 
-In order to solve this the **multiple access protocols are used,** these protocols determine: 
-+ How nodes hsare the chanell → When each node can transmit 
+## Where does the problem appear?
+In both types we’ll find problems with something we’ll call **collision**. 
+
+> [!NOTE] Collision: 
+> Collisions happen when a node recieves two or more signals at the same time. 
+ 
+## What must the protocol provide?
+In order to solve this the **multiple access protocols are used,** these protocols must:
+
++ Figure out how nodes are going to transmit and coordinate
 + The protocols must **use the same channel that is being coordinated.** 
 
 ### Ideal framework: 
-What would be the ideal multiple acces protocol? 
-+ We define a multiple acces channel (MAC) with a rate R of bps. 
-We would like that: 
-1. When only one node wants to transmit it can send at rate R 
-2. When M nodes want to transmit, each can send at average rate R/M. Distribution of the link over all nodes. 
-3. There wont be a centralized entity that synchronises. There is a decentralized network of links. 
-4. We would like for the protocol to be simple. 
 
-### Types: 
-+ **Channel partitioning:** We divide the channel into smaller pieces. Each node has a piece.
-	+ There are no collisions in this method
-  > A piece could be a t ime slot or a frequency. 
+> [!NOTE] Info:
+> We’ll use the following ideal properties of a multiple access protocol to compare the specific protocols defined. 
 
-	 + Some examples are: [[1732020527 - Protocol - TDMA|TDMA]] and [[1732020800 - Protocol - FDMA|FDMA]]
-	 + **Good** for high channel loads, **bad** for low channel loads
+**Remark:**
+ + R is defined as the rate at which a host can transmit info through an specific link. 
 
-+ **Random access:** Channel does not divide or partition. 
+1. When **only one node** wants to transmit it can send at **rate R** 
+2. When **M nodes want to transmit**, each can send at **average rate R/M.** Distribution of the link over all nodes. 
+3. There **wont be a centralized entity** that synchronises. There is a decentralized network of links. 
+4. We would like for the protocol to be **simple**. 
+
+## Types: 
+Based on the solution provided we ddefine several types of these protocols: 
+### Channel partitioning:
+We divide the channel into smaller pieces. Each node has a piece.
++ There are no collisions in this method
++ **Good for high channel loads, **bad for low channel loads**
+
+  > A piece could be a t ime slot, a frequency or something similar. 
+
++ Among these types of protocols are:
+	 + [[1732020527 - Protocol - TDMA|TDMA]] : Channel divided by time slots
+	 + [[1732020800 - Protocol - FDMA|FDMA]]: Channel divided by frequency slots.
+### Random access:
+Channel does not divide or partition. Whenever a host wants to acces it does. 
 	+ We need a way to **detect recover from collisions.**
 	+ Some examples are: [[1732021285 - Protocol - ALOHA|ALOHA]], [[1732022695 - Protocol - CSMA-CD|CSMA]]
 	+ Opposite from the channel partition: **Good for low** channel load, **bad for high** channel load. 
