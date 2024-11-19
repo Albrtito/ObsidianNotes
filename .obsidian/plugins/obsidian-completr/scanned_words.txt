@@ -14921,6 +14921,7 @@ tkg
 toj
 tHzA
 tnu
+tengo
 review
 resolver
 realizar
@@ -16753,6 +16754,7 @@ rWq
 rdl
 rAY
 reducint
+referenciarlo
 References
 Resoluci
 Rectas
@@ -24381,6 +24383,7 @@ iPE
 iFjiX
 iXaMC
 iYChYChY
+impone
 un
 una
 utiliza
@@ -32315,6 +32318,7 @@ nwvn
 nrG
 nyfd
 nFy
+notaci
 Identificar
 Intro
 Identificaci
@@ -43624,6 +43628,7 @@ Fcb
 FLiD
 FqG
 FVl
+FIRST
 Warshall
 Width
 We
@@ -51757,6 +51762,7 @@ Problems
 Porque
 Pure
 Provides
+Parts
 Biblio
 BitsPerComponent
 BI
@@ -54949,6 +54955,7 @@ SmJ
 SoE
 SSL
 SeVT
+SECOND
 Manual
 Modelar
 Millones
