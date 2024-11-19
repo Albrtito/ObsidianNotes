@@ -11317,6 +11317,8 @@ piece
 partition
 playing
 pure
+prop
+propagation
 lineal
 la
 lo
@@ -16559,6 +16561,9 @@ reducidos
 realizaci
 responsability
 rises
+renamed
+reassembly
+redundancy
 References
 Resoluci
 Rectas
@@ -20316,6 +20321,8 @@ clocks
 clock
 collide
 collects
+caouse
+conflict
 sr
 se
 subproblemas
@@ -39856,6 +39863,7 @@ quantifier
 quantifiers
 quien
 quantity
+queing
 Algorith
 Algorithm
 All
@@ -43057,6 +43065,7 @@ FRAME
 Framing
 Full
 FDMA
+Fragmentation
 Warshall
 Width
 We
@@ -44571,6 +44580,7 @@ Weights
 WIFI
 Wifi
 Wasting
+Wighted
 Heuri
 Hecho
 HyO
@@ -51055,6 +51065,8 @@ Presupuesto
 Participaci
 PCA
 PURE
+Priority
+Prop
 Biblio
 BitsPerComponent
 BI
@@ -55862,6 +55874,7 @@ Make
 Mode
 MILESTONE
 Mediaci
+Max
 Zivkovic
 Zo
 Zi
@@ -58868,6 +58881,7 @@ LADXWM
 Lograr
 Logros
 LINK
+LImit
 bottom
 base
 brik

@@ -7,6 +7,9 @@ tags:
   - review
 References: 
 cssclasses:
+sr-due: 2024-11-22
+sr-interval: 3
+sr-ease: 269
 ---
 # The network layer data plane
 The data plane implements the [[1730567584 - Forwarding function of the network layer|Forwarding function of the network layer]]. 

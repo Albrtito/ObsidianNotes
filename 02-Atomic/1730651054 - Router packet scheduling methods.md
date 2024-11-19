@@ -7,6 +7,9 @@ tags:
   - review
 References: 
 cssclasses:
+sr-due: 2024-11-22
+sr-interval: 3
+sr-ease: 268
 ---
 # Router packet scheduling methods
 There are several packet scheduling methods that routers can use. Nowadays they all mus adere to the **net neutrality convention**, which forces ISP to follow three rules: 

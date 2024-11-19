@@ -8,6 +8,9 @@ tags:
   - review
 References: 
 cssclasses:
+sr-due: 2024-11-22
+sr-interval: 3
+sr-ease: 250
 ---
 # Protocol - DHCP
 

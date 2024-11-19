@@ -7,6 +7,9 @@ tags:
   - review
 References: 
 cssclasses:
+sr-due: 2024-11-22
+sr-interval: 3
+sr-ease: 251
 ---
 # Input port processing:
 Input ports must do the following actions, we’ll discuss each one of them below:

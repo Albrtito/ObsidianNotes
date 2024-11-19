@@ -7,6 +7,9 @@ tags:
   - review
 References: 
 cssclasses:
+sr-due: 2024-11-22
+sr-interval: 3
+sr-ease: 250
 ---
 # IPv4 protocol
 The IPv4 protocol is the first network addressing protocol created. It’s purpose is to d**efine the format that a datagram** (packet in the network layer) should have and **give an unique identifier to each host in the network**
@@ -15,7 +18,7 @@ The IPv4 protocol is the first network addressing protocol created. It’s purpo
 + The packet will have a total of 20 bytes of header assuming no options.
 + Options are rarely used (deleted in the IPv6 for a reason)
 + **Because the existance of options wont allow for a direct knowledge of where the data begins the header lenght field is added**
-![[Screenshot 2024-11-03 at 5.40.15 PM.png|center|500]]
+![[Screenshot 2024-11-03 at 5.40.15 PM.png|center|400]]
 ### Fields:
 Collection of the most important fields, or those that are not self explanatory.
 + **Version number:** Differntiate between IPv4 and IPv6 datagrams in order to know how to read it.
@@ -35,7 +38,7 @@ $$
   $$ 193.32.216.$$
   
 
-+ **All interfaces must have an UNIQUE address** (See NATs for exceptions)
++ **All interfaces must have an UNIQUE address** (See [[1731411013 - Network Address Translation (NAT)|NAT]]s for exceptions)
 + IP Networks where each host has its own IP address are called [[1730827988 - Subnets|Subnets]].
 + Addresses are written in their generalised [[1730832772 - CIDR Notation|CIDR]] notation.
 + A **broadcast address** is stablished as the $255.255.255.255$. If a host uses this address to send information, all host connected to the network (and set to accept it) will get the info.
