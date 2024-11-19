@@ -3,12 +3,8 @@ aliases:
   - Ejemplos SIMPLEX
 tags:
   - Heuri
-  - review
 References: 
 cssclasses:
-sr-due: 2024-11-17
-sr-interval: 1
-sr-ease: 232
 ---
 # Ejemplos SIMPLEX
 Ejemplos del algoritmo  bien resueltos (con seguidad  de que no hay errres). Se imlementa el algorimo [[1727270270 - Method - SIMPLEX|SIMPLEX]]
@@ -193,11 +189,12 @@ $$\boxed{min_{i\in B}\{\frac{x_i}{y_{ji'}}\}}$$
 En el ejempo que estamos haciendo ahora mismo obtenemos: 
 $$min\{\frac{2}{-1}, \frac{4}{1},\frac{1}{1}\}$$
 
-**SIGUIENTE ITERACIÓN**
-	
+### Segunda iteración:
+Para la segunda iteración hemos sacado de la base a $x_5$ e incluido la variable $x_1$. La base que utilizaremos será: 
 	$$ B_1 = \{x_1, x_3, x_4\} = \begin{pmatrix}
 -1 &&1 &&0 \\ 1 && 0&& 1 \\ 1&& 0&& 0
 \end{pmatrix} $$
+A partir de aquí repetimos los pasos. 
 
 
 

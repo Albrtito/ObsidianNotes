@@ -3,12 +3,9 @@ aliases:
   - Cifrado asimetrico
 tags:
   - Cripto
-  - review
+  - incomplete
 References: 
 cssclasses:
-sr-due: 2024-11-17
-sr-interval: 10
-sr-ease: 192
 ---
 # Cifrado asimetrico
 

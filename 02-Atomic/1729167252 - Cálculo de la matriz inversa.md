@@ -8,8 +8,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-11
-sr-interval: 20
+sr-due: 2025-01-28
+sr-interval: 70
 sr-ease: 290
 ---
 # Cálculo de la matriz inversa

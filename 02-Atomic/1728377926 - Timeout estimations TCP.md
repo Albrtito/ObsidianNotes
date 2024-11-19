@@ -6,9 +6,9 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-11-19
-sr-interval: 17
-sr-ease: 210
+sr-due: 2024-11-29
+sr-interval: 10
+sr-ease: 190
 ---
 # Timeout Estimations TCP
 The TCP protocol asociates a timer  to the **oldest package being sent** (without a recieved ack), the value of this timer is what we call **TimeoutInterval** and it’s computed using the **RTT** or round time trip.

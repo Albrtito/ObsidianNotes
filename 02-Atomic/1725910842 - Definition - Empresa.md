@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-11-18
-sr-interval: 35
-sr-ease: 230
+sr-due: 2025-03-16
+sr-interval: 117
+sr-ease: 250
 ---
 # Definition - Empresa
 > [!NOTE] Empresa
