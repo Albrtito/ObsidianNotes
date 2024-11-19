@@ -170,11 +170,11 @@ exit
 	# RA
 		config term 
 		# Set the current mask and through what interface it is routed
-		ip route 172.16.75.2/32 172.16.75.2
+		ip route 172.16.75.0/24 eth0.0
 		exit
 	# RB
 		config term
-		ip route 172.16.76.2/32 172.16.76.2
+		ip route 172.16.76.0/24 eth0.0
 		exit
 ```
 
