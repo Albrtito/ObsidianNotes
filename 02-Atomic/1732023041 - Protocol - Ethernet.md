@@ -9,7 +9,7 @@ References:
 cssclasses:
 ---
 # Protocol - Ethernet
-The Ethernet protocol is a link layer protocol that uses a random access implementation based on [[1732022695 - Protocol - CSMA-CD|CSMA/CD]] protocol. 
+The Ethernet protocol is a link layer protocol that uses a random access implementation based on [[1732037327 - Protocol - CSMA-CD|CSMA/CD]] protocol. 
 
 **Remarks:**
 + The ethernet link card that a host has is called NIC

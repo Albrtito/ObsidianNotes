@@ -25,5 +25,5 @@ The efficiency goes down by a lot to 18%.
 
 
 ## Verbessern the protocol: 
-What if we wanted to verbessern the protocol. Just by **checking if the channel is busy we’ll stop collisions.** This implementation is [[1732022695 - Protocol - CSMA-CD|CSMA]]
+What if we wanted to verbessern the protocol. Just by **checking if the channel is busy we’ll stop collisions.** This implementation is [[1732022695 - Protocol - CSMA|CSMA]]
 ***

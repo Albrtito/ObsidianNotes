@@ -61,7 +61,7 @@ Channel does not divide or partition. Whenever a host wants to acces it does.
 + Opposite from the channel partition: **Good for low** channel load, **bad for high** channel load. 
 + Among these types of protocols are: + 
 	+ [[1732021285 - Protocol - ALOHA|ALOHA]]
-	+ [[1732022695 - Protocol - CSMA-CD|CSMA]]
+	+ [[1732022695 - Protocol - CSMA|CSMA]]
 		+ [[1732023041 - Protocol - Ethernet|Ethernet]] → Based on CSMA
 
 + **Taking turns:** Nodes take turns. The nodes with more data take longer turns.
