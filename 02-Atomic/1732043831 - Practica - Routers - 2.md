@@ -71,6 +71,7 @@ For this practice we’ll use a **modified version** of the [[1730716899 - Pract
 	+ **Router(R4):** 10.0.0.75 (*eth0.1*)
 	+ **Router(R100):** 10.0.0.100 (*eth0.1*) → Assuming as nothing is sid in the picture
 ## Routing tables: 
+**bold** → Backup connections
 
 ### R100: 
 
@@ -86,32 +87,38 @@ For this practice we’ll use a **modified version** of the [[1730716899 - Pract
 | 10.0.75.0/24        | 10.0.75.189 | eth0.2    |
 
 ### Server Router (R3)
-+ **Default gateway:** R4
++ This router is the **servers default gateway**
 
-| Destination Network | Next Hop       | Interface |
-| ------------------- | -------------- | --------- |
-| 10.0.75.160/28      |                | eth0.1    |
-| 10.0.100.0/24       | 10.0.75.190    | eth0.2    |
-| 10.0.75.            |                | eth0.3    |
-| 10.0.75.128/27      | 10.0.75181<br> | eth0.4    |
+| Destination Network | Next Hop        | Interface  |
+| ------------------- | --------------- | ---------- |
+| 10.0.75.160/28      |                 | eth0.1     |
+| 10.0.100.0/24       | 10.0.75.190     | eth0.2     |
+| 10.0.75.0/25        | 10.0.75.185     | eth0.3     |
+| 10.0.75.128/27      | 10.0.75.181<br> | eth0.4     |
+| **10.0.75.0/25**    | **10.0.75.181** | **eth0.4** |
+| **10.0.75.128/27**  | **10.0.75.185** | **eth0.3** |
 
 ### Office 1 Router 
-+ **Default gateway:** R3
++ This router is the **Ofi1 default gateway**
+
+| Destination Network | Next Hop        | Interface  |
+| ------------------- | --------------- | ---------- |
+| 10.0.75.0/25        |                 | eth0.1     |
+| 10.0.75.160/28      | 10.0.75.186     | eth0.2     |
+| 10.0.75.128/27      | 10.0.75.178     | eth0.3     |
+| 10.0.100.0/24       | 10.0.75.186     | eth0.2     |
+| **10.0.75128/27**   | **10.0.75.186** | **eth0.2** |
+| **10.0.75.160/28**  | **10.0.75.178** | **eth0.3** |
+| **10.0.100.0/24**   | **10.0.75.178** | **eth0.3** |
+
+
+### Office 2 Router
++ This router is the **Ofi2 default gateway**
 
 | Destination Network | Next Hop | Interface |
 | ------------------- | -------- | --------- |
 |                     |          |           |
 |                     |          |           |
 |                     |          |           |
-
-
-### Office 2 Router
-+ **Default gateway:** R3
-
-| Destination Network | Next Hop    | Interface |
-| ------------------- | ----------- | --------- |
-|                     |             |           |
-|                     |             |           |
-|                     |             |           |
 
 ***
