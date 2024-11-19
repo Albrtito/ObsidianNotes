@@ -118,12 +118,12 @@ exit
 	#Eliminamos el address de la interfaz eth1 para PCA
 	sudo ip addr del 192.100.100.101/24 dev eth1
 	#Añadimos la dirección adecuada en el PCA
-	sudo ip addr add  172.16.75.2 dev eth1
+	sudo ip addr add  172.16.75.3 dev eth1
 	
 	#Eliminamos el address de la interfaz eth1 para PCB
 	sudo ip addr del 192.100.100.102/24 dev eth1
 	#Añadimos la dirección adecuada en el PCB
-	sudo ip addr add  172.16.76.2 dev eth1
+	sudo ip addr add  172.16.76.3 dev eth1
 
 ```
 
