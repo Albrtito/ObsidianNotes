@@ -6,38 +6,8 @@
       {
         "id": "4bab566806dd88ef",
         "type": "tabs",
-        "dimension": 24.052718286655683,
+        "dimension": 37.56177924217463,
         "children": [
-          {
-            "id": "a58d321609bbb403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732018610 - Protocol - WIFI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732018610 - Protocol - WIFI"
-            }
-          },
-          {
-            "id": "67994b7c04c0d77e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732020527 - Protocol - TDMA.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732020527 - Protocol - TDMA"
-            }
-          },
           {
             "id": "b2910eca3f45827e",
             "type": "leaf",
@@ -98,13 +68,12 @@
               "title": "1732023041 - Protocol - Ethernet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "00702acb4992b3cf",
         "type": "split",
-        "dimension": 75.94728171334431,
+        "dimension": 62.43822075782537,
         "children": [
           {
             "id": "6ff7eaf30bb7c36a",
@@ -124,7 +93,7 @@
                 }
               },
               {
-                "id": "0650c95df00c5da8",
+                "id": "107ddae837723d73",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -210,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732031831 - Link channel multiple access protocols.md",
+                "file": "02-Atomic/1732020800 - Protocol - FDMA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -295,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732031831 - Link channel multiple access protocols"
+              "title": "Graph of 1732020800 - Protocol - FDMA"
             }
           },
           {
@@ -337,10 +306,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732031831 - Link channel multiple access protocols.md"
+                "file": "02-Atomic/1732020800 - Protocol - FDMA.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732031831 - Link channel multiple access protocols"
+              "title": "Outline of 1732020800 - Protocol - FDMA"
             }
           },
           {
@@ -391,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/1732031831 - Link channel multiple access protocols.md",
+                "file": "02-Atomic/1732020800 - Protocol - FDMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -401,7 +370,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1732031831 - Link channel multiple access protocols"
+              "title": "Backlinks for 1732020800 - Protocol - FDMA"
             }
           },
           {
@@ -410,12 +379,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/1732031831 - Link channel multiple access protocols.md",
+                "file": "02-Atomic/1732020800 - Protocol - FDMA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1732031831 - Link channel multiple access protocols"
+              "title": "Outgoing links from 1732020800 - Protocol - FDMA"
             }
           },
           {
@@ -463,8 +432,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -481,13 +449,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "19a487545ad3a208",
+  "active": "b2910eca3f45827e",
   "lastOpenFiles": [
-    "02-Atomic/1732022695 - Protocol - CSMA-CD.md",
-    "02-Atomic/1732031831 - Link channel multiple access protocols.md",
+    "02-Atomic/1732020527 - Protocol - TDMA.md",
     "00-References/Net_Resources_s5_1.pdf",
-    "02-Atomic/1732018095 - The network link layer.md",
+    "02-Atomic/1732031831 - Link channel multiple access protocols.md",
     "00-References/Net_Biblio_Kurose.pdf",
+    "02-Atomic/1732018095 - The network link layer.md",
+    "02-Atomic/1732018610 - Protocol - WIFI.md",
+    "02-Atomic/1732022695 - Protocol - CSMA-CD.md",
     "00-References/Net_Resources_s5_2.pdf",
     "00-References/Net_Resoureces_s5_1.pdf",
     "00-References/Net_Resources_s5_3.pdf",
@@ -514,8 +484,6 @@
     "02-Atomic/1727121162 - Contabilidad.md",
     "02-Atomic/1729598149 - Balance de situacion.md",
     "02-Atomic/1729598277 - Cuenta de resultados.md",
-    "02-Atomic/1727255580 - Loss and delay in Networks.md",
-    "02-Atomic/1729088215 - Method - Ramificación y acotación en profundidad.md",
     "00-References/HyO_Biblio_Marek V. Introduction to mathematics of satisfiability.pdf",
     "99-Meta/0. Attachments/1731438416 - Marketing estratégicoj.png",
     "99-Meta/0. Attachments/1731436877 - El plan de marketingj.png",

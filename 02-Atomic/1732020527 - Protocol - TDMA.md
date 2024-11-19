@@ -4,18 +4,19 @@ aliases:
   - TDMA
   - Time Division Multiple Acces Protocol
 tags:
-  - incomplete
   - Networks
+  - review
 References: 
 cssclasses:
+sr-due: 2024-11-22
+sr-interval: 3
+sr-ease: 268
 ---
 # Protocol - TDMA
-The TDMA protocol is a channel partitioning protocol for the link layer of the network stack. It divides the link medium into multiple time slots. 
-+ A lenght slot is defined where the lenght is some time. 
 
-**Advantages:** 
-+ For high loades of traffic it is really useful. 
-
-**Disadvantages:** 
-+ If the load of the system is not as hight, there will be packets that cannot be transfered but are not really waiting for anyone. Wasting resources. 
+> [!NOTE] Def: 
+>  The TDMA protocol is a channel partitioning protocol for the link layer of the network stack. It divides the link medium into multiple time slots. 
+## Pros and Cons:
++ Same as all partition channel protocols.
++ **CON:** Needs a synchronisation of all hosts connected in order to divide time slots.
 ***

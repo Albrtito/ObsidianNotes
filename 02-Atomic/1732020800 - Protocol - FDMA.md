@@ -10,7 +10,10 @@ References:
 cssclasses:
 ---
 # Protocol - FDMA
-The FDMA protocol is a channel partitioning protocol for the link layer of the network stack. It divides the link medium into multiple frequency slots. 
+
+> [!NOTE] Def: 
+>  The FDMA protocol is a channel partitioning protocol for the link layer of the network stack. It divides the link medium into multiple frequency slots. 
+
 + Each station is assigned a **fixed frequency band**
 **Advantages:** 
 + For high loades of traffic it is really useful. 

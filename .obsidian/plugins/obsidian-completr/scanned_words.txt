@@ -3738,6 +3738,7 @@ CEN
 CBO
 CRfy
 Changing
+Collision
 de
 due
 dar
@@ -5660,6 +5661,7 @@ dMOMUwu
 dTi
 dqZ
 dEuhN
+ddefine
 modelos
 modelo
 maximizar
@@ -20543,6 +20545,8 @@ ctzFV
 cxF
 coaxial
 connecttion
+coordinate
+compare
 sr
 se
 subproblemas
@@ -42085,6 +42089,8 @@ AVfs
 ADDRESS
 Already
 Altough
+Adjacent
+Among
 Floyd
 Foundations
 Funci
@@ -59645,6 +59651,7 @@ LHj
 Lutb
 LmfN
 LNt
+Links
 bottom
 base
 brik

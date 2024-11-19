@@ -2,22 +2,27 @@
 aliases:
   - Link channel multiple access protocols
   - Channel multiple access protocols
+  - MAC Protocols
 tags:
-  - incomplete
   - Networks
+  - review
 References: 
-cssclasses:
+cssclasses: 
+sr-due: 2024-11-20
+sr-interval: 1
+sr-ease: 230
 ---
 # Link channel multiple access protocols
 
 The link layer must decide how each channel is accesed, not all channels provide bowth ways connecttion, not only that but most of the channels must provide an operating window for tons of hosts and must manage that. These protocols are used to figure out how 
 
 ## Where does the problem appear?
-In both types we’ll find problems with something we’ll call **collision**. 
+Links can have collisions: 
 
 > [!NOTE] Collision: 
 > Collisions happen when a node recieves two or more signals at the same time. 
- 
+
+ Collisions make it so no info is transmitted, these protocols try to solve this problem. 
 ## What must the protocol provide?
 In order to solve this the **multiple access protocols are used,** these protocols must:
 
@@ -51,12 +56,13 @@ We divide the channel into smaller pieces. Each node has a piece.
 	 + [[1732020800 - Protocol - FDMA|FDMA]]: Channel divided by frequency slots.
 ### Random access:
 Channel does not divide or partition. Whenever a host wants to acces it does. 
-	+ We need a way to **detect recover from collisions.**
-	+ Some examples are: [[1732021285 - Protocol - ALOHA|ALOHA]], [[1732022695 - Protocol - CSMA-CD|CSMA]]
-	+ Opposite from the channel partition: **Good for low** channel load, **bad for high** channel load. 
+
++ We need a way to **detect/recover from collisions.**
++ Opposite from the channel partition: **Good for low** channel load, **bad for high** channel load. 
++ Among these types of protocols are: + 
+	+ [[1732021285 - Protocol - ALOHA|ALOHA]]
+	+ [[1732022695 - Protocol - CSMA-CD|CSMA]]
+		+ [[1732023041 - Protocol - Ethernet|Ethernet]] → Based on CSMA
 
 + **Taking turns:** Nodes take turns. The nodes with more data take longer turns.
-	+ 
-
-
 ***

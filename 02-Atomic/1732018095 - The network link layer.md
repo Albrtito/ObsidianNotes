@@ -8,8 +8,11 @@ tags:
   - review
 References: 
 cssclasses:
+sr-due: 2024-11-20
+sr-interval: 1
+sr-ease: 230
 ---
-# The network link layer
+# The link layer
 
 > [!attention] Biblio reference: 
 > The wifi is really compact in the UC3M course and given with LANs. We wont be seeing the whole WIFI chapter. 
