@@ -34,14 +34,28 @@ cssclasses:
 > 1. There are several link mediums through wich a packet can travel. Several protocols need to be used easily. Changing between protocols musnt be a problem 
 
 ## Link layer services: 
-1. **Framing:** The act of creating the link frame 
-  + Creation of a **header and trailer**. 
-  +  
-  + **MAC address** usage to identifiaction of hosts
-2. **Reliable delivery between ADJACENT NODES:** 
+The link layer may provide some of the following services based on the different protocols and mediums used.
+### Framing:
 
-**Remarks:**
-+ A trailer is something added **behind the data** instead of before it. 
+> [!NOTE] Def: 
+>  The act of creating the link frame, is directly related to the protocol used.
+
+#Duda : Porque el channel access protocol es algo dentro del servicio de framing?
+
+Este servicio engloba: 
++ Creation of a **header and trailer**.
++ Use of a [[1732031831 - Link channel access protocols|Channel access protocol]]. 
++ Creation of a **MAC ADDRESS** 
+
+ **Remarks:**
++ A trailer is something added **behind the data** instead of before it.
+      
+### Reliable delivery between ADJACENT NODES:
+
+> Already know how to do this based on the [[1727176650 - Principles of reliable data transfer|Principles of reliable data transfer]]
+
+
+This service comes with a question on why it is necessary.
 
 > [!bug] Problem, question: 
 > If TCP is reliable, why is important to have a reliable link layer protocol. 
@@ -51,14 +65,15 @@ cssclasses:
 > + The retransmission of TCP packets can be avoided with a reliable link layer. Instead of retransmitting through the whole network we just need to do it over one link. 
 > + Maybe if we are sure that the link will allways be reliable, it makes no sense to implement TCP. The reality is that we wont be able to really know that for sure. So better implement TCP
 
-
-3. **Flow control:** 
-4. **Error detection**
-5. **Error correctoin**
-6. **Half duples and full duplex protocols**: Ways of sending and recieving data over the same channel. 
+### Half-Full Duplex channels:
+5. **Half duples and full duplex protocols**: Ways of sending and recieving data over the same channel. 
 	1. **Half duplex:** One is sending, the other cannot
 	2. **Full duples:** Sending is permitted from both parts. 
 
+### Other services:
+1. **Flow control** 
+2. **Error detection**
+3. **Error correctoin**
 ## Implementation of the link layer: 
 The link layer is implemented in each host.Each hosts needs an specific card(chip) in order to use each one of the protocols (wifi card, ethernet card…). 
 
