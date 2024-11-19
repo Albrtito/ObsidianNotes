@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-11-16
-sr-interval: 14
+sr-due: 2024-12-18
+sr-interval: 29
 sr-ease: 190
 ---
 # Sistemas de produccion en masa
@@ -24,7 +24,7 @@ Esto conlleva las siguientes características:
 + **Maquinaria:** Altamente especializada 
 + **Costes variables:** bajos
 + **Costes fijos:** Altos
-+ **Planificación:** ==Facil puesto a que se sigue todo el rato la misma cadena de trabajo==
++ **Planificación:** Facil puesto a que se sigue todo el rato la misma cadena de trabajo
 
 ### Pros&Cons:
 ==**PROS:**==

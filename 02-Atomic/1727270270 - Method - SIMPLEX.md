@@ -7,9 +7,9 @@ tags:
   - review
 References: 
 cssclasses: 
-sr-due: 2024-11-18
-sr-interval: 2
-sr-ease: 141
+sr-due: 2024-11-20
+sr-interval: 1
+sr-ease: 130
 ---
  
 # Method - SIMPLEX:
@@ -64,6 +64,7 @@ Las nomenglatura básica del simplesx, para no perderse entre tanto vector, matr
 
 Una vez tenemos **el problema en [[1727270366 - Forma estandar|Forma estandar]]**
 
+### Base y solución:
 1. Definimos una base con la que realizar la iteración. 
    + En la **primera iteración** escogeremos las variables que permitan crear la **matriz identidad** como base. 
      + Si no existen estas variables **crearemos una variable artificial que permita la creación de la identidad**. Esta variable artificial tendra un coeficiente negativo y suficientemente grande (al menos igual a la suma de todos los coficientes de las incógnitas.)
@@ -74,7 +75,7 @@ Una vez tenemos **el problema en [[1727270366 - Forma estandar|Forma estandar]]*
       - **Remark:** Las variables que no aparezcan en la base tomarán un valor de 0.
 	2. Calcular el **valor de la función objetivo:**
 	   $$z = C_B^T \cdot x_B$$
-	   
+### Regla de entrada:
 3. ==**Regla de entrada:** En este paso calcularemos cual de las variables que no se encuentra en la base aporta mas entrando en ella. Esto lo sabremos calculando:==
    $$\min \{z_j-C_j\}$$
    + Donde: 
@@ -88,6 +89,8 @@ Una vez tenemos **el problema en [[1727270366 - Forma estandar|Forma estandar]]*
 		+ **Todas las variables artificiales toman valor 0**
 		  
 	+ **CONTINUE:** En cuanto una de las variables tome valor negativo pasamos al paso 3
+
+### Regla de salida:
 
 4. **Regla de salida:** En este paso calculamos que variable de las que están en la base tiene que salir para que la variable que encontramos en el paso 2 entre. Saldrá la variable que cumpla: 
    $$ \min\{\frac{x_{i}}{y_{ji'}}\} \forall i \in B$$
