@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-12
-sr-interval: 21
+sr-due: 2025-01-14
+sr-interval: 56
 sr-ease: 232
 ---
 # Method - Ramificación y acotación en profundidad

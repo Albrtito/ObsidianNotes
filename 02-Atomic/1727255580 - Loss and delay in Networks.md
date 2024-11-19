@@ -30,9 +30,8 @@ $$
 d_{nodal} = d_{proc} + d_{queue} + d_{trans} + d_{prop}
 $$
 #### Queueing delay: 
-#Duda: Dont really understand what the link bandwith is.
 $$ \text{traffic intensity } = {La\over R}$$
-+ ==R : Link bandwitdth (bps)==
++ ==R : Link bandwitdth (bps)==: How much can the link transmit
 + L: Packet length (bits)
 + a : average packet arrival rate (pck/s)
 
