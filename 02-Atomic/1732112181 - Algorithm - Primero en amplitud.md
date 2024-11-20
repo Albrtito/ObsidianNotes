@@ -23,8 +23,22 @@ cssclasses:
 
 
 > [!attention] Remark: 
->  + La lista será **una cola**
+>  + La lista será **una cola**, **LIFO** (Last in first out)
 
+## Propiedades: 
 
+**Admisibilidad y completitud:**
++ Este algoritmo será **completo** pues siempre encontrara una solución 
++ El algorimo será **admisible** si y solo si **todos los operadores tienen el mismo coste**
 
+**Remarks:**
++ Al encontraruna solución a este algoritmo a profundad d, se asegura que **no existe ningua solución a profundidad menor que d** puesto que todos los nodos a menor profundidad ya se han analizado. 
+
+## Eficiencia: 
+### Tiempo: 
+El tiempo de ejecución de este algoritmo se guía por el **tiempo requerido para expandir un nodo**. 
+
+Si llamamos d al **left most** nodo en de máxima profundidad p. Este será el mejor caso dentro de todos los peores casos con los que nos podemos encontrar. 
+Para generar este nod d 
+### Memoria: 
 ***
