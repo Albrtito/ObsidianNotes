@@ -1952,6 +1952,7 @@ ancho
 anchura
 amplitud
 algun
+alcanza
 Creaci
 Crear
 Cuando
@@ -5676,6 +5677,7 @@ decentralization
 direcctions
 design
 dato
+distancia
 modelos
 modelo
 maximizar
@@ -7514,6 +7516,7 @@ mYDYe
 mgP
 musnt
 modified
+metemos
 en
 ease
 es
@@ -9482,6 +9485,7 @@ els
 engloba
 establish
 expandido
+encuentro
 programaci
 primer
 paso
@@ -11466,6 +11470,8 @@ puj
 practice
 picture
 profundad
+profundizando
+pila
 lineal
 la
 lo
@@ -16774,6 +16780,7 @@ referenciarlo
 ramificaci
 rdalo
 reci
+razones
 References
 Resoluci
 Rectas
@@ -20577,6 +20584,8 @@ coordinate
 compare
 completo
 capas
+completitud
+complejo
 sr
 se
 subproblemas
@@ -22529,6 +22538,7 @@ stopped
 sensed
 sito
 sucessores
+sucesor
 interval
 importancia
 incorrecto
@@ -29192,6 +29202,7 @@ Empty
 Enrutamiento
 Expandir
 Expande
+Expandimos
 vital
 variables
 vez
@@ -32349,6 +32360,7 @@ nyfd
 nFy
 notaci
 necesariamente
+necsario
 Identificar
 Intro
 Identificaci
@@ -55002,6 +55014,7 @@ SeVT
 SECOND
 Siguiente
 Salto
+STACK
 Manual
 Modelar
 Millones
@@ -72059,6 +72072,7 @@ Gwu
 Gby
 Genera
 Generar
+Generamos
 Nota
 Novo
 Nacional

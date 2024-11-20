@@ -27,6 +27,7 @@ cssclasses:
 
 > [!attention] Remarks: 
 > + **Generar = Usar memoria** : Siempre que generamos algun dato estamos utilizando memoria para ello, guardamos ese dato en algún sito. 
+> + **Eliminar de la lista = Dejar de usar memoria**: 
 
 ### Pseudocódigo:
 1. Generar el estado inicial $S_0$ 

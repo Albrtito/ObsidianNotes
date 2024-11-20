@@ -16,8 +16,26 @@ cssclasses:
 ## Pseudocódigo: 
 1. Generamos el nodo inicial y lo guardamos en la lista 
 2. Expandimos el primer nodo de la lista, lo eliminamos de la lista. 
+	-  Si el nodo se encuentra a una profundidad igual o mayor a $d_{max}$ lo eliminamos de la lista y **volvemos al paso 2**.
 	+ Obtenemos los sucesores y los metemos en la lista en la primera posición cada vez que obtenemos un sucesor → **STACK**
 	+ Esta la meta entre los sucesores=
-		+ SI
-1. 
+		+ SI: **HALT**
+		+ NO: **Vuelvo al paso 2**
+
+
+> [!attention] Remark: 
+>  + La lista es un **stack**, **FIFO**. **pila**.
+
+## Propiedades:
+
+**Admisibilidad y completitud:**
++ Este algoritmo **no es complejo** puesto a que si la **solución esta más abajo que la distancia máxima no la encuentro**
++ Si el algoritmo no es complejo entonces **no es admisible**. 
+
+## Eficiencia: 
+### Tiempo: 
+Obtenemos una complejidad de tiempo: $O(b^d)$  por la mismas razones que las que tenemos en el [[1732112181 - Algorithm - Primero en amplitud|Algorithm - Primero en amplitud]].
+### Memoria: 
+En el peor de los casos 
+
 ***
