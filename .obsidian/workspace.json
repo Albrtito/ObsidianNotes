@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       },
       {
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
+                "file": "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,7 +218,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732116599 - Algorithm - Profundizacion iterativa"
+              "title": "Graph of 1732114607 - Algorithm - Primero en profundidad"
             }
           }
         ]
@@ -233,10 +233,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md"
+                "file": "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732116599 - Algorithm - Profundizacion iterativa"
+              "title": "Outline of 1732114607 - Algorithm - Primero en profundidad"
             }
           },
           {
@@ -320,12 +320,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2d80d1313a42e16d",
+  "active": "a445259147561852",
   "lastOpenFiles": [
-    "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
-    "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
+    "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
     "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
+    "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
     "02-Atomic/1731511534 - Graf Data sctructure.md",
     "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
     "20240515 - 032018 - Tree graph.md",

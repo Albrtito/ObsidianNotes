@@ -12,6 +12,7 @@ cssclasses:
 > [!NOTE] Intro: 
 > Expande el primero de los nodos recién generados hasta que se encuentra la meta o se alcanza una profundidad máxima $d_max$ 
 > + Necesitamos la profundidad máxima para no generar infinitamente profundizando en un nodo. → **No mola tener parámetros pero es necsario**
+> + Esto es un algoritmo **memoryless**, esto quiere decir que no guardamos los caminos guardados, solo el que estamos guardando como “mejor”.
 
 ## Pseudocódigo: 
 1. Generamos el nodo inicial y lo guardamos en la lista 

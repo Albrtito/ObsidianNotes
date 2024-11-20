@@ -7520,6 +7520,7 @@ musnt
 modified
 metemos
 mantener
+memoryless
 en
 ease
 es
@@ -9493,6 +9494,7 @@ encontrara
 encontraruna
 evaluation
 exploraciones
+elegimos
 programaci
 primer
 paso
@@ -14959,6 +14961,7 @@ tnu
 tengo
 tlimo
 teneindo
+tan
 review
 resolver
 realizar
@@ -16797,6 +16800,8 @@ rdalo
 reci
 razones
 requerido
+requremiento
+razon
 References
 Resoluci
 Rectas
@@ -18427,6 +18432,7 @@ RhBj
 RPrXs
 Rwf
 RRU
+RECURSIVAS
 cssclasses
 correcto
 correcta
@@ -24438,6 +24444,8 @@ impone
 infinito
 iterativa
 incrementea
+implementa
+implenta
 un
 una
 utiliza
@@ -53335,6 +53343,7 @@ BWP
 BKZ
 Busy
 Build
+BUCLE
 Steven
 Skiena
 Serie
