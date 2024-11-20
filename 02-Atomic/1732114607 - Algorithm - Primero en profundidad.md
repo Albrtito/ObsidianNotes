@@ -25,6 +25,7 @@ cssclasses:
 
 > [!attention] Remark: 
 >  + La lista es un **stack**, **FIFO**. **pila**.
+>  + Al ser esto una pila se **implementa con funciones RECURSIVAS**
 
 ## Propiedades:
 
@@ -36,6 +37,14 @@ cssclasses:
 ### Tiempo: 
 Obtenemos una complejidad de tiempo: $O(b^d)$  por la mismas razones que las que tenemos en el [[1732112181 - Algorithm - Primero en amplitud|Algorithm - Primero en amplitud]].
 ### Memoria: 
-En el peor de los casos 
+En el peor de los casos he creado una línea de profuncidad hasta la profundida d (máxima profundidad del arbol). Obengo entonces $bd$ nodos en memoria. 
+La complejidad de memoria será: $O(bd)$ 
+
+Si aplcamos **lazy evaluation** no generaremos más que el siguiente nodo por el que vamos a lanzarnos en la profundidad. 
+En este caso obtenemos $O(d)$ espacio de memoria requreido en el peor de los casos. 
+
+**Remark:**
++ Tener tan **poco requremiento de memoria** es la razon por la que elegimos este algoritmo. 
+
 
 ***

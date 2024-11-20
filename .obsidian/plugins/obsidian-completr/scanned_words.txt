@@ -1953,6 +1953,8 @@ anchura
 amplitud
 algun
 alcanza
+analizado
+aplcamos
 Creaci
 Crear
 Cuando
@@ -7517,6 +7519,7 @@ mgP
 musnt
 modified
 metemos
+mantener
 en
 ease
 es
@@ -9486,6 +9489,9 @@ engloba
 establish
 expandido
 encuentro
+encontrara
+encontraruna
+evaluation
 programaci
 primer
 paso
@@ -11472,6 +11478,10 @@ picture
 profundad
 profundizando
 pila
+peores
+profunidad
+profundida
+profuncidad
 lineal
 la
 lo
@@ -13168,6 +13178,8 @@ lEd
 legacy
 lowers
 lower
+lazy
+lanzarnos
 tags
 tres
 todos
@@ -14944,6 +14956,8 @@ toj
 tHzA
 tnu
 tengo
+tlimo
+teneindo
 review
 resolver
 realizar
@@ -16781,6 +16795,7 @@ ramificaci
 rdalo
 reci
 razones
+requerido
 References
 Resoluci
 Rectas
@@ -20586,6 +20601,7 @@ completo
 capas
 completitud
 complejo
+cola
 sr
 se
 subproblemas
@@ -22539,6 +22555,7 @@ sensed
 sito
 sucessores
 sucesor
+sima
 interval
 importancia
 incorrecto
@@ -32361,6 +32378,7 @@ nFy
 notaci
 necesariamente
 necsario
+ningua
 Identificar
 Intro
 Identificaci
@@ -50039,6 +50057,7 @@ gTmC
 gXih
 gateway
 gateways
+generaremos
 Programaci
 Para
 Problema
@@ -59740,6 +59759,7 @@ LmfN
 LNt
 Links
 LISTA
+LIFO
 bottom
 base
 brik
@@ -66049,6 +66069,7 @@ OaV
 OvK
 ODAJ
 Other
+Obengo
 ximo
 xrL
 xFQ

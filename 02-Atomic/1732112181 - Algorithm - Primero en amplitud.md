@@ -24,6 +24,7 @@ cssclasses:
 
 > [!attention] Remark: 
 >  + La lista será **una cola**, **LIFO** (Last in first out)
+>  + Al ser la lista una cola se implenta con **un BUCLE**: `while true`
 
 ## Propiedades: 
 
@@ -48,6 +49,7 @@ Podemos expresar este último caso en forma de notación: $O(b^b)$
 ### Memoria: 
 Como para obtener el  **right most**  nodo en el peor de los casos tendremos que mantener en memoria todos los nodos de ese útlimo nivel, esta cantidad de nodos máxima será de: $b^d$ .
 Entonces la complejidad de memoria de este algoritmo será:  $O(b^d)$ 
+
 **Remark:**
 + Esto quiere decir que la complejidad de memoria es **exponencial y por ello malísima**
 

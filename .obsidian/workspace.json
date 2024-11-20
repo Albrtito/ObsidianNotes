@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       },
       {
@@ -111,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
+                "file": "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732114607 - Algorithm - Primero en profundidad"
+              "title": "Graph of 1732112181 - Algorithm - Primero en amplitud"
             }
           }
         ]
@@ -218,10 +218,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md"
+                "file": "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732114607 - Algorithm - Primero en profundidad"
+              "title": "Outline of 1732112181 - Algorithm - Primero en amplitud"
             }
           },
           {
@@ -305,11 +305,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a445259147561852",
+  "active": "da9580cc12c79e28",
   "lastOpenFiles": [
-    "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
     "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
+    "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
     "02-Atomic/1731511534 - Graf Data sctructure.md",
     "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
     "20240515 - 032018 - Tree graph.md",
