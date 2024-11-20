@@ -9492,6 +9492,7 @@ encuentro
 encontrara
 encontraruna
 evaluation
+exploraciones
 programaci
 primer
 paso
@@ -24435,6 +24436,8 @@ iXaMC
 iYChYChY
 impone
 infinito
+iterativa
+incrementea
 un
 una
 utiliza
@@ -30811,6 +30814,7 @@ vaJ
 vuU
 vertice
 volvemos
+voy
 no
 nuestras
 ndar
@@ -35657,6 +35661,7 @@ DFp
 Duplex
 Destino
 Directamente
+Dejar
 funci
 fibonacci
 fica
@@ -51838,6 +51843,7 @@ Pure
 Provides
 Parts
 Pseudoc
+Profundizacion
 Biblio
 BitsPerComponent
 BI
@@ -61434,6 +61440,7 @@ bowth
 backoff
 bold
 busqueda
+basado
 Util
 Una
 UniZumo
