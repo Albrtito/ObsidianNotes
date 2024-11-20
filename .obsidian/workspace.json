@@ -37,9 +37,24 @@
               "icon": "lucide-file",
               "title": "1732112181 - Algorithm - Primero en amplitud"
             }
+          },
+          {
+            "id": "a445259147561852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1732114607 - Algorithm - Primero en profundidad"
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       },
       {
@@ -96,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
+                "file": "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732112181 - Algorithm - Primero en amplitud"
+              "title": "Graph of 1732114607 - Algorithm - Primero en profundidad"
             }
           }
         ]
@@ -203,10 +218,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md"
+                "file": "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732112181 - Algorithm - Primero en amplitud"
+              "title": "Outline of 1732114607 - Algorithm - Primero en profundidad"
             }
           },
           {
@@ -290,13 +305,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "da9580cc12c79e28",
+  "active": "a445259147561852",
   "lastOpenFiles": [
+    "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
+    "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
+    "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
     "02-Atomic/1731511534 - Graf Data sctructure.md",
     "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
     "20240515 - 032018 - Tree graph.md",
-    "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
-    "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
     "02-Atomic/1732111920 - Algoritmos de busqueda por fuerza bruta.md",
     "02-Atomic/1730303159 - Satisfacción de restricciones.md",
     "02-Atomic/1730996237 - Practica - Segunda práctica heuristica.md",
@@ -319,7 +335,6 @@
     "02-Atomic/1732037299 -.md",
     "02-Atomic/1732021285 - Protocol - ALOHA.md",
     "02-Atomic/1732035070 - Protocol - Pure ALOHA.md",
-    "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
     "00-References/Net_Resources_s5_2.pdf",
     "00-References/Net_Resoureces_s5_1.pdf",
     "00-References/Net_Resources_s5_3.pdf",

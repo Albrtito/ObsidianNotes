@@ -51,4 +51,13 @@ Entonces la complejidad de memoria de este algoritmo será:  $O(b^d)$
 **Remark:**
 + Esto quiere decir que la complejidad de memoria es **exponencial y por ello malísima**
 
+
+> [!check] Duda: Y si el factor de ramificación no es constante?
+> Para todos estos cálculos definimos el factor de ramificación como el **número medio de sucesores**. 
+> > Esto no es del todo cierto pq hay un límite y un calculo matemático relacionado aquí que no estamos teneindo en cuenta. 
+> > 
+
+
+
+
 ***

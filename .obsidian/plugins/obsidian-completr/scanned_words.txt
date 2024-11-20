@@ -1951,6 +1951,7 @@ admisible
 ancho
 anchura
 amplitud
+algun
 Creaci
 Crear
 Cuando
@@ -5674,6 +5675,7 @@ deleting
 decentralization
 direcctions
 design
+dato
 modelos
 modelo
 maximizar
@@ -16771,6 +16773,7 @@ reducint
 referenciarlo
 ramificaci
 rdalo
+reci
 References
 Resoluci
 Rectas
@@ -22524,6 +22527,8 @@ strategy
 slotted
 stopped
 sensed
+sito
+sucessores
 interval
 importancia
 incorrecto
@@ -29186,6 +29191,7 @@ EQLp
 Empty
 Enrutamiento
 Expandir
+Expande
 vital
 variables
 vez
@@ -30776,6 +30782,7 @@ vxf
 vaJ
 vuU
 vertice
+volvemos
 no
 nuestras
 ndar
@@ -33954,6 +33961,7 @@ IpJ
 Idwj
 Interfaz
 Identify
+Implementaciones
 Definir
 Din
 Design
@@ -59718,6 +59726,7 @@ Lutb
 LmfN
 LNt
 Links
+LISTA
 bottom
 base
 brik
@@ -62909,6 +62918,7 @@ UQUU
 UWs
 Untw
 Utilidades
+Usar
 QUE
 Que
 QE
@@ -72048,6 +72058,7 @@ GIQ
 Gwu
 Gby
 Genera
+Generar
 Nota
 Novo
 Nacional

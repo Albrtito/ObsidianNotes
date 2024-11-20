@@ -34,6 +34,7 @@ cssclasses:
 3. Si t$\in$ conjunto de sucessores, entonces **HALT**, en caso contrario **volvemos al caso 2**
 ### Implementaciones:
 + [[1732112181 - Algorithm - Primero en amplitud|Algorithm - Primero en amplitud]]
++ [[1732114607 - Algorithm - Primero en profundidad|Algorithm - Primero en profundidad]]
 
 
 
