@@ -8,6 +8,11 @@ cssclasses:
 ---
 # Practica - Routers - 2
 For this practice we’ll use a **modified version** of the [[1730716899 - Practica - IP addressing|IP Address Assignment]], with small changes to the number of hosts required for each of the networks. 
+
+
+> [!l] Title
+> Contents
+
 ## Requirements: 
 1. **Office 1:** 100 hosts
 2. **Office 3:** 25 hosts 
