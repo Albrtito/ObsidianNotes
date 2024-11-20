@@ -46,7 +46,7 @@ For this practice we’ll use a **modified version** of the [[1730716899 - Pract
 4. **R1 - R2**: (Needs 2 hosts and 1 broadcast address. Use a /30 mask)
 	+ Network: 10.0.75.176/30 
 	+ **Router(R1):** 10.0.75.177 (*eth0.3*)
-	+ **Router(R2(:** 10.0.75.178 (*eth0.2*)
+	+ **Router(R2):** 10.0.75.178 (*eth0.2*)
 	+ Broadcast: 10.0.75.179
 	  
 5. **R2 - R3**: (Needs 2 hosts and 1 broadcast address. Use a /30 mask)
