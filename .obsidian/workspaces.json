@@ -1677,42 +1677,25 @@
         "type": "split",
         "children": [
           {
-            "id": "3fba0475cebb59d0",
+            "id": "4578600667039acb",
             "type": "tabs",
             "children": [
               {
-                "id": "03cb95ef55f57c7a",
+                "id": "3011014efc3155f1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/1731662455 - Practica - Routers.md",
+                    "file": "02-Atomic/1732043831 - Practica - Routers - 2.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "1731662455 - Practica - Routers"
-                }
-              },
-              {
-                "id": "531ccf78f47e325b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1731662455 - Practica - Routers.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1731662455 - Practica - Routers"
+                  "title": "1732043831 - Practica - Routers - 2"
                 }
               }
-            ],
-            "currentTab": 1,
-            "stacked": true
+            ]
           }
         ],
         "direction": "vertical"
@@ -1920,8 +1903,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "531ccf78f47e325b",
-      "mtime": "2024-11-15T15:31:20+01:00"
+      "active": "3011014efc3155f1",
+      "mtime": "2024-11-20T14:11:55+01:00"
     },
     "Cripto": {
       "main": {
@@ -2470,5 +2453,5 @@
       "mtime": "2024-11-19T13:07:42+01:00"
     }
   },
-  "active": "Net-Routers"
+  "active": "Empresa"
 }
