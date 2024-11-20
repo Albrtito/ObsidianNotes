@@ -38,7 +38,17 @@ cssclasses:
 ### Tiempo: 
 El tiempo de ejecución de este algoritmo se guía por el **tiempo requerido para expandir un nodo**. 
 
-Si llamamos d al **left most** nodo en de máxima profundidad p. Este será el mejor caso dentro de todos los peores casos con los que nos podemos encontrar. 
-Para generar este nod d 
+Para el **left most** nodo en de máxima profundidad d. Este será el mejor caso dentro de todos los peores casos con los que nos podemos encontrar. 
+Para generar este nodo tendremos que generar $\sum_{i = 0}^{d-1} b^i$ nodos donde d es la profunidad máxima del arbol. 
+
+Para el **right most** nodo de la máxima profundida, el peor de los casos dentro de todos los peores casos con los que nos podemos encontrar. 
+Para generar este nodo tendremos que haber generado $\sum^{d}_{i =0} b^i$
+
+Podemos expresar este último caso en forma de notación: $O(b^b)$
 ### Memoria: 
+Como para obtener el  **right most**  nodo en el peor de los casos tendremos que mantener en memoria todos los nodos de ese útlimo nivel, esta cantidad de nodos máxima será de: $b^d$ .
+Entonces la complejidad de memoria de este algoritmo será:  $O(b^d)$ 
+**Remark:**
++ Esto quiere decir que la complejidad de memoria es **exponencial y por ello malísima**
+
 ***
