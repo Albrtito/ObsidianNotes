@@ -10,8 +10,14 @@ cssclasses:
 For this practice we’ll use a **modified version** of the [[1730716899 - Practica - IP addressing|IP Address Assignment]], with small changes to the number of hosts required for each of the networks. 
 
 
-> [!l] Title
-> Contents
+> [!check] MILESTONE:
+> Compruebe que se tiene conectividad IP desde cualquier router o PC con el resto de los equipos del escenario y que la ruta seguida por los paquetes es la óptima, haciendo ping y traceroute. 
+> 
+> Realice un traceroute desde el hstOf1 a R100 y verifique si sigue la ruta a través de R1-R2 o de R1-R3. 
+> 
+> Ejecute un ping entre hstOf1 y R100 y no lo detenga. Con el ping en ejecución, desconecte las interfaces de los routers del triángulo seguidos por el ping anterior (R1-R2 o R1-R3).
+> 
+> Compruebe que se mantiene la conectividad global a pesar de una caída de comunicaciones en el triángulo R1-R2-R3 y verifique con un traceroute que se toma la ruta alternativa. Una vez se haya conseguido, contacte con el profesorado en clase para validar el hito 
 
 ## Requirements: 
 1. **Office 1:** 100 hosts

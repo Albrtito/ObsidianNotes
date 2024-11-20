@@ -1947,6 +1947,9 @@ accesed
 avoidance
 accessible
 assignment
+admisible
+ancho
+anchura
 Creaci
 Crear
 Cuando
@@ -3742,6 +3745,7 @@ CBO
 CRfy
 Changing
 Collision
+Completitud
 de
 due
 dar
@@ -16762,6 +16766,7 @@ rdl
 rAY
 reducint
 referenciarlo
+ramificaci
 References
 Resoluci
 Rectas
@@ -20563,6 +20568,7 @@ coaxial
 connecttion
 coordinate
 compare
+completo
 sr
 se
 subproblemas
@@ -24391,6 +24397,7 @@ iFjiX
 iXaMC
 iYChYChY
 impone
+infinito
 un
 una
 utiliza
@@ -32327,6 +32334,7 @@ nrG
 nyfd
 nFy
 notaci
+necesariamente
 Identificar
 Intro
 Identificaci
@@ -42127,6 +42135,7 @@ Adjacent
 Among
 Abort
 Assuming
+Admisibilidad
 Floyd
 Foundations
 Funci
@@ -62890,6 +62899,7 @@ UAUKU
 UQUU
 UWs
 Untw
+Utilidades
 QUE
 Que
 QE

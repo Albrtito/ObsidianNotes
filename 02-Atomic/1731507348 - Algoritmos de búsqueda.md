@@ -20,8 +20,9 @@ cssclasses:
 + **Admisibilidad:** Si garantiza que encontrará una solución óptima dado a que exista alguna. 
 	+ Si un algoritmo es **admisible es necesariamente completo**
 
-
-
+## Tipos: 
++ [[1731507784 - Algorithm - Busqueda espacio de estados|Algorithm - Busqueda espacio de estados]]
++ 
 
 
 
