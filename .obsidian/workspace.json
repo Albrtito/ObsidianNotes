@@ -4,107 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "fabe814c139eca2a",
+        "id": "4578600667039acb",
         "type": "tabs",
-        "dimension": 74.87955953200274,
         "children": [
           {
-            "id": "8a354a9a9b2861dc",
+            "id": "3011014efc3155f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
+                "file": "02-Atomic/1732043831 - Practica - Routers - 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1731507348 - Algoritmos de búsqueda"
+              "title": "1732043831 - Practica - Routers - 2"
             }
           },
           {
-            "id": "da9580cc12c79e28",
+            "id": "fbfdf04edad8fe4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
+                "file": "02-Atomic/1732043763 - Practica - Routers - 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1732112181 - Algorithm - Primero en amplitud"
-            }
-          },
-          {
-            "id": "a445259147561852",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732114607 - Algorithm - Primero en profundidad"
-            }
-          },
-          {
-            "id": "2d80d1313a42e16d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732116599 - Algorithm - Profundizacion iterativa"
-            }
-          }
-        ],
-        "currentTab": 2,
-        "stacked": true
-      },
-      {
-        "id": "9a3fb0594165e723",
-        "type": "tabs",
-        "dimension": 25.120440467997245,
-        "children": [
-          {
-            "id": "87a5ef792ae76c21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1731511534 - Graf Data sctructure.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1731511534 - Graf Data sctructure"
-            }
-          },
-          {
-            "id": "e46d42893c588fee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1731507784 - Algorithm - Busqueda espacio de estados"
+              "title": "1732043763 - Practica - Routers - 1"
             }
           }
         ]
@@ -126,7 +56,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,13 +124,6 @@
                         "a": 1,
                         "rgb": 14048348
                       }
-                    },
-                    {
-                      "query": "tag:#Logic  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1328127
-                      }
                     }
                   ],
                   "collapse-display": true,
@@ -213,12 +136,12 @@
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.09611498563436155,
+                  "scale": 0.09229580869883151,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732114607 - Algorithm - Primero en profundidad"
+              "title": "Graph of 1731662455 - Practica - Routers"
             }
           }
         ]
@@ -233,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md"
+                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732114607 - Algorithm - Primero en profundidad"
+              "title": "Outline of 1730827988 - Subnets"
             }
           },
           {
@@ -251,11 +174,13 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -272,13 +197,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
-                "mode": "preview",
+                "file": "01-Areas/1.UC3M/Networks.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heuristica y Opti"
+              "title": "Networks"
             }
           }
         ]
@@ -320,11 +245,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a445259147561852",
+  "active": "3011014efc3155f1",
   "lastOpenFiles": [
+    "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
     "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
-    "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
     "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
     "02-Atomic/1731511534 - Graf Data sctructure.md",
     "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",

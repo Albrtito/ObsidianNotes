@@ -1955,6 +1955,7 @@ algun
 alcanza
 analizado
 aplcamos
+alternativa
 Creaci
 Crear
 Cuando
@@ -5680,6 +5681,8 @@ direcctions
 design
 dato
 distancia
+detenga
+desconecte
 modelos
 modelo
 maximizar
@@ -7521,6 +7524,7 @@ modified
 metemos
 mantener
 memoryless
+mantiene
 en
 ease
 es
@@ -9495,6 +9499,7 @@ encontraruna
 evaluation
 exploraciones
 elegimos
+equipos
 programaci
 primer
 paso
@@ -11485,6 +11490,7 @@ peores
 profunidad
 profundida
 profuncidad
+pesar
 lineal
 la
 lo
@@ -18433,6 +18439,7 @@ RPrXs
 Rwf
 RRU
 RECURSIVAS
+Realice
 cssclasses
 correcto
 correcta
@@ -20609,6 +20616,7 @@ capas
 completitud
 complejo
 cola
+comunicaciones
 sr
 se
 subproblemas
@@ -22563,6 +22571,8 @@ sito
 sucessores
 sucesor
 sima
+seguida
+seguidos
 interval
 importancia
 incorrecto
@@ -27514,6 +27524,8 @@ hpAT
 hcY
 hKS
 hKh
+hstOf
+hito
 Es
 Este
 Ejemplos
@@ -29231,6 +29243,7 @@ Enrutamiento
 Expandir
 Expande
 Expandimos
+Ejecute
 vital
 variables
 vez
@@ -30823,6 +30836,8 @@ vuU
 vertice
 volvemos
 voy
+verifique
+validar
 no
 nuestras
 ndar
