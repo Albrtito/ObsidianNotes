@@ -12,6 +12,10 @@ cssclasses:
 ---
 # Graf Data sctructure
 
+
+> [!NOTE] Def: 
+> + **Vertice:** Un vertice en un grafo es  representa un estado del problema → [[1731507784 - Algorithm - Busqueda espacio de estados|Algorithm - Busqueda espacio de estados]]
+
 ## Weights: 
 Un grafo con pesos asignados para cada una de sus aristas. 
 ## Implementations: 

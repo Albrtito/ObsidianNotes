@@ -9479,6 +9479,7 @@ eklw
 els
 engloba
 establish
+expandido
 programaci
 primer
 paso
@@ -11462,6 +11463,7 @@ pvWf
 puj
 practice
 picture
+profundad
 lineal
 la
 lo
@@ -16768,6 +16770,7 @@ rAY
 reducint
 referenciarlo
 ramificaci
+rdalo
 References
 Resoluci
 Rectas
@@ -20570,6 +20573,7 @@ connecttion
 coordinate
 compare
 completo
+capas
 sr
 se
 subproblemas
@@ -29181,6 +29185,7 @@ EzO
 EQLp
 Empty
 Enrutamiento
+Expandir
 vital
 variables
 vez
@@ -30770,6 +30775,7 @@ vzn
 vxf
 vaJ
 vuU
+vertice
 no
 nuestras
 ndar
@@ -51792,6 +51798,7 @@ Porque
 Pure
 Provides
 Parts
+Pseudoc
 Biblio
 BitsPerComponent
 BI
@@ -70498,6 +70505,8 @@ VDQ
 VdC
 VeS
 VUVV
+Vertice
+Vuelvo
 Grupo
 Get
 GWgw
@@ -72038,6 +72047,7 @@ GuHC
 GIQ
 Gwu
 Gby
+Genera
 Nota
 Novo
 Nacional
@@ -73672,6 +73682,7 @@ NSy
 NGT
 NDJu
 Ncd
+Nunca
 Xr
 XObject
 Xw

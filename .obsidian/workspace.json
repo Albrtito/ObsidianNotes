@@ -77,8 +77,7 @@
               "title": "1731507784 - Algorithm - Busqueda espacio de estados"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -293,11 +292,12 @@
   },
   "active": "da9580cc12c79e28",
   "lastOpenFiles": [
-    "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
-    "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
-    "02-Atomic/1732111920 - Algoritmos de busqueda por fuerza bruta.md",
-    "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
     "02-Atomic/1731511534 - Graf Data sctructure.md",
+    "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
+    "20240515 - 032018 - Tree graph.md",
+    "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
+    "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
+    "02-Atomic/1732111920 - Algoritmos de busqueda por fuerza bruta.md",
     "02-Atomic/1730303159 - Satisfacción de restricciones.md",
     "02-Atomic/1730996237 - Practica - Segunda práctica heuristica.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
@@ -320,7 +320,6 @@
     "02-Atomic/1732021285 - Protocol - ALOHA.md",
     "02-Atomic/1732035070 - Protocol - Pure ALOHA.md",
     "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
-    "02-Atomic/1732020800 - Protocol - FDMA.md",
     "00-References/Net_Resources_s5_2.pdf",
     "00-References/Net_Resoureces_s5_1.pdf",
     "00-References/Net_Resources_s5_3.pdf",
