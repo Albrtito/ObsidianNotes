@@ -1950,6 +1950,7 @@ assignment
 admisible
 ancho
 anchura
+amplitud
 Creaci
 Crear
 Cuando
@@ -61383,6 +61384,7 @@ bitTime
 bowth
 backoff
 bold
+busqueda
 Util
 Una
 UniZumo

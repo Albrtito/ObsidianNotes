@@ -3,7 +3,7 @@
   "cssTheme": "Underwater",
   "translucency": true,
   "theme": "system",
-  "baseFontSize": 21,
+  "baseFontSize": 15,
   "interfaceFontFamily": "Inter,FiraCode Nerd Font,JetBrainsMono Nerd Font",
   "textFontFamily": "Inter,Iosevka Nerd Font,FiraCode Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font,Iosevka Nerd Font",
