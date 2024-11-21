@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Algorithm - Busqueda espacio de estados
+  - Modelado de un espacio de estados
 tags:
   - incomplete
   - Heuri
 References: 
 cssclasses:
 ---
-# Algorithm - Busqueda espacio de estados
+# Modelado de un espacio de estados
 
 > [!attention] Pregunta de examen:
 > En el examen habrá seguro una **modelización de un problmea de búsqueda con espacios de estado**. 
 > 
 
-Los algoritmos de búsqueda de espacios de estado se dividen en tres parte: 
+Modelar un problema de búsqueda con espacio de estados nos permite **obtener un grafo que reprsenta el problema **
 1. Modelado del problema en forma de grafo, obteniendo los estados y operadores 
 2. Obtener un **arbol de búsqueda** con todos los caminos posibles en el grafo empezando en el estado inicial. Este algoritmo se genera **utilizando algoritmos de búsqueda**
 3. Analizar el arbol para obtener soluciones
@@ -35,7 +35,7 @@ Los algoritmos de búsqueda de espacios de estado se dividen en tres parte:
 Se pueden representar los estaos y operadores como un [[1731511534 - ADT - Graf|Grafo]] en el que los **nodos serán estados** y las **aristas serán los operadores.** 
 
 > [!NOTE] : 
-> + **Vertice:** Un vertice en un grafo es  representa un estado del problema → [[1731507784 - Algorithm - Busqueda espacio de estados|Algorithm - Busqueda espacio de estados]]
+> + **Vertice:** Un vertice en un grafo es  representa un estado del problema → [[1731507784 -  Busqueda modelando un espacio de estados|Algorithm - Busqueda espacio de estados]]
 
 En esta representación también observamos que las **restricciones se ven representadas como los caminos que no se pueden realizar.**
 + Si no puedo llegar a un nodo desde otro tendremos una restricción. 

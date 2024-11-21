@@ -1,36 +1,25 @@
 ---
 aliases:
-  - Algoritmos de búsqueda
+  - Problemas de búsqueda
 tags:
   - incomplete
   - Heuri
 References: 
 cssclasses:
 ---
-# Algoritmos de búsqueda
-
-> [!NOTE] Intro:  
-> Los algoritmos de búsqueda resuelven de forma eficiente aquellos problemas con conplejidad exponencial. 
-
-## Modelado con espacio de estados:
-El modelado de problemas de búsqueda con espacio de estados se basa en dos ideas fundamentales: 
+# Problemas de búsqueda
+#Duda: El espacio de estados es simplemente el modelo? Luego la resolución la realizamos con un algoritmos de búsqueda (de los que hay en tipos de algoritmos?)
+## Modelado de un espacio de estados:
+El modelado de problemas de búsqueda como un espacio de estados se basa en dos ideas fundamentales: 
 
 1. Un posible conjunto de valores específicos para cada una  de mis variables es un estado que se representa en forma de **nodo**
 2. Realizar un cambio para obtener un conjunto diferente es una operación, que se representa como **una arista**
-+ Este modelado se explica en profundidad en su nota: [[]]
-
-> [!NOTE] Modelado: 
-> Dado el [[1731511534 - ADT - Graf|Grafo]] G(V,E) obtenido utilizamos un algoritmo de búsqueda para generar el árbol de búsqueda $T_G(s,t)$
++ Este modelado se explica en profundidad en su nota: [[1731507784 -  Busqueda modelando un espacio de estados|Modelado de un espacio de estados]]
++ Como resultado de este modelado **obtenemos un grafo**
+##  Resolución
+> [!attention] MAIN IDEA: 
+> Dado el [[1731511534 - ADT - Graf|Grafo]] G(V,E) obtenido utilizamos un [[1732193365 - Algoritmos de busqueda|Algoritmo de busqueda]] para generar el árbol de búsqueda $T_G(s,t)$ que muestra el resultado del problema. 
 > 
-## Propiedades: 
-Evaluamos un algorimo de busqueda analizando su completitud y admisibilidad.
-
-+ **Completitud:** Un algoritmo de búsqueda es completo si **garantiza que encontrará una solución** dada que exista alguna. #Duda: Aunq esta solución se pueda dar en tiempo infinito
-+ **Admisibilidad:** Si garantiza que encontrará una solución óptima dado a que exista alguna. 
-	+ Si un algoritmo es **admisible es necesariamente completo**
-
-
-+ [[1731507784 - Algorithm - Busqueda espacio de estados|Algorithm - Busqueda espacio de estados]]
 
 ## Algoritmos de búsqueda por fuerza bruta: 
 

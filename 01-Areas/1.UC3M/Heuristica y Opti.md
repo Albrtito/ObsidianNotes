@@ -45,7 +45,7 @@ aliases:
 + [[1726759457 - Programación Lineal|Programación Lineal]]
 + [[1730297192 - Satisfacibilidad Lógica|Satisfacibilidad Lógica]]
 	+ [[1730303159 - Satisfacción de restricciones|Satisfacción de restricciones]]
-+ [[1731507348 - Algoritmos de búsqueda|Algoritmos de búsqueda]]
++ [[1731507348 - Problemas de búsqueda|Problemas de búsqueda]]
 
 ## Ejercicios: 
 + [[1726763938 - Exercises - Programación Lineal|Ejercicios programación lineal]]

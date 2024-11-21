@@ -1963,6 +1963,7 @@ addition
 automatic
 analizando
 admisibilidad
+arista
 Creaci
 Crear
 Cuando
@@ -7539,6 +7540,7 @@ mantener
 memoryless
 mantiene
 multiedges
+modelando
 en
 ease
 es
