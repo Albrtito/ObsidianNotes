@@ -1968,6 +1968,8 @@ adirla
 apuntes
 aseguradora
 aseguradores
+argumentemos
+asuminedo
 Creaci
 Crear
 Cuando
@@ -5703,6 +5705,7 @@ direction
 density
 directrices
 dadas
+duda
 modelos
 modelo
 maximizar
@@ -7548,6 +7551,8 @@ mantiene
 multiedges
 modelando
 muestra
+microempresa
+monomercado
 en
 ease
 es
@@ -9526,6 +9531,8 @@ equipos
 estan
 enqueue
 edge
+escritura
+escrib
 programaci
 primer
 paso
@@ -11523,6 +11530,7 @@ pseudoc
 pseudograph
 probando
 posiciona
+pie
 lineal
 la
 lo
@@ -16857,6 +16865,7 @@ remove
 reflect
 reprsenta
 realizadas
+redactemos
 References
 Resoluci
 Rectas
@@ -20677,6 +20686,7 @@ contribute
 characteristics
 collected
 culas
+conocida
 sr
 se
 subproblemas
@@ -32498,6 +32508,8 @@ necsario
 ningua
 nonempty
 ntalo
+nacional
+numerada
 Identificar
 Intro
 Identificaci
@@ -37485,6 +37497,9 @@ fbae
 fall
 focuses
 fuese
+futura
+financiar
+facturar
 objetivo
 obtener
 of
