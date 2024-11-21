@@ -39,7 +39,7 @@
   "anuppuccin-theme-settings@@anp-header-divider-color-toggle": true,
   "anuppuccin-theme-settings@@anp-h1-color-custom": "anp-h1-sapphire",
   "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-teal",
-  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-maroon",
+  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-green",
   "anuppuccin-theme-settings@@anp-h5-color-custom": "anp-h5-teal",
   "anuppuccin-theme-settings@@anp-h6-color-custom": "anp-h6-peach",
   "anuppuccin-theme-settings@@anp-h4-color-custom": "anp-h4-sky",
@@ -49,5 +49,13 @@
   "anuppuccin-theme-settings@@anp-h1-divider": true,
   "anuppuccin-theme-settings@@anp-header-margin-value": 16,
   "anuppuccin-theme-settings@@anp-callout-select": "none",
-  "anuppuccin-theme-settings@@callout-radius": 5
+  "anuppuccin-theme-settings@@callout-radius": 5,
+  "blue-topaz-theme@@background-notebook-liked-switch": false,
+  "minimal-style@@tabs-style": "tabs-default",
+  "minimal-style@@window-title-off": true,
+  "anuppuccin-theme-settings@@ctp-custom-sapphire@@light": "#3A6D8C",
+  "anuppuccin-theme-settings@@ctp-custom-blue@@light": "#6A9AB0",
+  "anuppuccin-theme-settings@@ctp-custom-sky@@light": "#001F3F",
+  "anuppuccin-theme-settings@@ctp-custom-green@@light": "#88A47C",
+  "anuppuccin-theme-settings@@ctp-custom-green@@dark": "#88A47C"
 }
