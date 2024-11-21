@@ -72,11 +72,11 @@ Donde:
 + **NU:**( Nota Universidad) Nota media de la universidad sobre 10
 + **FE:** (Factor Ebau) Se calcula resolviendo:
 $$
-\text{FactorEbau} = (\frac{\text{NB}}{14})*0.3)
+\text{FactorEbau} = (\frac{\text{NB}}{14}*0.3)
 $$
 + **FU:** (Factor Uni) Se calcula resolviendo
 $$
-\text{FactorUni} = ((1-\frac{\text{NU}}{10})*0.5)
+\text{FactorUni} = (\frac{\text{NU}}{10}*0.5)
 $$
 
 Se ha de tener en cuenta que: 
@@ -89,7 +89,6 @@ Se ha de tener en cuenta que:
 	$$
 		+ Cada año aumenta 100$
 
-$$
 
 ## 3. Definición de la empresa
 ### 3.1 Forma jurídica y económica 
