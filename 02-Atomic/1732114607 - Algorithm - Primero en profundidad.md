@@ -2,10 +2,13 @@
 aliases:
   - Algorithm - Primero en profundidad
 tags:
-  - incomplete
   - Heuri
+  - review
 References: 
 cssclasses:
+sr-due: 2024-11-22
+sr-interval: 1
+sr-ease: 228
 ---
 # Algorithm - Primero en profundidad
 

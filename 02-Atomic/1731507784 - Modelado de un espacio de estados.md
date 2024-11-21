@@ -2,12 +2,21 @@
 aliases:
   - Modelado de un espacio de estados
 tags:
-  - incomplete
   - Heuri
+  - review
 References: 
 cssclasses:
+sr-due: 2024-11-22
+sr-interval: 1
+sr-ease: 230
 ---
 # Modelado de un espacio de estados
+
+> [!NOTE] Intro:
+> 1. Un posible conjunto de valores específicos para cada una  de mis variables es un estado que se representa en forma de **nodo**
+> 2. Realizar un cambio para obtener un conjunto diferente es una operación, que se representa como **una arista**
+> 3. El resultado será un conjunto de nodos (estados) y aristas(operadores) que se puede representar en forma de grafo. 
+
 
 > [!attention] Pregunta de examen:
 > En el examen habrá seguro una **modelización de un problmea de búsqueda con espacios de estado**. 
@@ -15,7 +24,8 @@ cssclasses:
 
 Modelar un problema de búsqueda con espacio de estados nos permite **obtener un grafo que representa el problema**
 
-Con las definiciones de elementos de un espacio de esta
+Utilizar las siguientes definiciones para realizar el modelado: 
+
 > [!example] Nomenglatura y definiciones: 
 > + **Estados:** configuraciones posibles del problema. Representan información **estática**
 > 
