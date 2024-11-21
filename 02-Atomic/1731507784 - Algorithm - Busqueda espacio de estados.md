@@ -32,7 +32,7 @@ Los algoritmos de búsqueda de espacios de estado se dividen en tres parte:
 > + **Solución:** La solución contiene un conjunto de operadores(transformaciones), en orden, que transforman el estado inicial al final. Esto se ve **representado como un camino en el grafo**
 
 ## Representación gráfica: 
-Se pueden representar los estaos y operadores como un [[1731511534 - ADT - Graf|Grafo]] en el que los **nodos serán estasdos** y las **aristas serán los operadores.** 
+Se pueden representar los estaos y operadores como un [[1731511534 - ADT - Graf|Grafo]] en el que los **nodos serán estados** y las **aristas serán los operadores.** 
 
 > [!NOTE] : 
 > + **Vertice:** Un vertice en un grafo es  representa un estado del problema → [[1731507784 - Algorithm - Busqueda espacio de estados|Algorithm - Busqueda espacio de estados]]
