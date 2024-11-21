@@ -18,8 +18,13 @@ Se presenta a continuación un MOC con cada una de las partes realizadas.
 ## 1. Inventar una empresa:
 
 > [!NOTE] Requisito: 
-> Describir el campo de actividad de la em 
+> Describir el campo de actividad de la empresa (producto o servicio). 
+> 
 
+La empresa que se presenta es **Try Again Seguros**. Una aseguradora para matrículas universitarias. 
+> “Paga una vez, inténtalo dos veces”
+
+La empresa se posiciona dentro del sector terciario 
 
 
 

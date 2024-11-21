@@ -1965,6 +1965,9 @@ analizando
 admisibilidad
 arista
 adirla
+apuntes
+aseguradora
+aseguradores
 Creaci
 Crear
 Cuando
@@ -5698,6 +5701,8 @@ desconecte
 dequeue
 direction
 density
+directrices
+dadas
 modelos
 modelo
 maximizar
@@ -11517,6 +11522,7 @@ parenthesis
 pseudoc
 pseudograph
 probando
+posiciona
 lineal
 la
 lo
@@ -16850,6 +16856,7 @@ represents
 remove
 reflect
 reprsenta
+realizadas
 References
 Resoluci
 Rectas
@@ -18484,6 +18491,7 @@ RECURSIVAS
 Realice
 Realizo
 Removes
+Requisito
 cssclasses
 correcto
 correcta
@@ -20668,6 +20676,7 @@ colorings
 contribute
 characteristics
 collected
+culas
 sr
 se
 subproblemas
@@ -22636,6 +22645,7 @@ subgraph
 spanning
 sqeuda
 studied
+secci
 interval
 importancia
 incorrecto
@@ -26071,6 +26081,7 @@ undo
 undirected
 under
 unweighted
+universitarias
 hora
 hacemos
 hacia
@@ -32486,6 +32497,7 @@ necesariamente
 necsario
 ningua
 nonempty
+ntalo
 Identificar
 Intro
 Identificaci
@@ -34103,6 +34115,7 @@ Inutil
 Incrementar
 Implementing
 Isomorphic
+Inventar
 Definir
 Din
 Design
@@ -35777,6 +35790,7 @@ Direction
 Density
 Dense
 Depth
+Describir
 funci
 fibonacci
 fica
@@ -42311,6 +42325,7 @@ Admisibilidad
 ADTs
 Adds
 Adjacency
+Agrupaci
 Floyd
 Foundations
 Funci
@@ -43829,6 +43844,7 @@ FLiD
 FqG
 FVl
 FIRST
+Fincas
 Warshall
 Width
 We
@@ -51984,6 +52000,8 @@ Pila
 Pseudograph
 Pseudographs
 Planar
+Propietarios
+Paga
 Biblio
 BitsPerComponent
 BI
@@ -55192,6 +55210,7 @@ Spanning
 Shortest
 Simple
 Sparse
+Seguros
 Manual
 Modelar
 Millones
@@ -56875,6 +56894,7 @@ Minimum
 Multigraphs
 Multiedges
 Multigraph
+Mutualidad
 Zivkovic
 Zo
 Zi
