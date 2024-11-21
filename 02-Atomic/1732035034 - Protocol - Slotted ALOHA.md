@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-11-20
-sr-interval: 1
+sr-due: 2024-11-24
+sr-interval: 3
 sr-ease: 230
 ---
 # Protocol - Slotted ALOHA
@@ -24,7 +24,7 @@ sr-ease: 230
 
 	+ Everyone can use the slots, however u need to transmit **at the beginning of the slot**
 
-+ Nodes are somehow synchronized 
++ Nodes are somehow ==synchronized== 
   >f.e: Using a clock
 + The collision is detected by every node in the system. 
 	+ Everyone can see that the link is busy. 

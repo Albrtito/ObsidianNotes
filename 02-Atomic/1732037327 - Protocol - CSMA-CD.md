@@ -8,9 +8,9 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-20
+sr-due: 2024-11-22
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 # Protocol - CSMA-CD
 
@@ -19,7 +19,7 @@ sr-ease: 230
 
 + If a node detects a collision while it is transmitting, it’ll stop. 
 
-====### Efficiency: 
+### ==Efficiency:== 
 $$
 efficiency = \frac{1}{1 + \frac{5t_{prop}}{t_{trans}}}
 $$

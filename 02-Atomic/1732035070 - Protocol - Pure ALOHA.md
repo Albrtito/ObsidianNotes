@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-20
-sr-interval: 1
+sr-due: 2024-11-24
+sr-interval: 3
 sr-ease: 230
 ---
 # Protocol - Pure ALOHA
@@ -20,7 +20,7 @@ sr-ease: 230
 ### Efficiency: 
 The efficiency goes down by a lot to 18%. 
 
-+ Any frame that is send will collide with other frames that are send in the interval $[t_0 -1, t_0 + 1]$. There will be collision with any system that transmits in that interval. 
++ Any frame that is send will collide with other frames that are send in the interval $(t_0 -1, t_0 + 1)$. There will be collision with any system that transmits in that interval. 
 	+ This after all means that **the number of collisions rises.**
 
 

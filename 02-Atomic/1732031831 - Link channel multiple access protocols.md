@@ -8,8 +8,8 @@ tags:
   - review
 References: 
 cssclasses: 
-sr-due: 2024-11-20
-sr-interval: 1
+sr-due: 2024-11-24
+sr-interval: 3
 sr-ease: 230
 ---
 # Link channel multiple access protocols
@@ -19,7 +19,7 @@ The link layer must decide how each channel is accesed, not all channels provide
 ## Where does the problem appear?
 Links can have collisions: 
 
-> [!NOTE] Collision: 
+> [!NOTE] **Collision**: 
 > Collisions happen when a node recieves two or more signals at the same time. 
 
  Collisions make it so no info is transmitted, these protocols try to solve this problem. 
@@ -39,7 +39,7 @@ In order to solve this the **multiple access protocols are used,** these protoco
 
 1. When **only one node** wants to transmit it can send at **rate R** 
 2. When **M nodes want to transmit**, each can send at **average rate R/M.** Distribution of the link over all nodes. 
-3. There **wont be a centralized entity** that synchronises. There is a decentralized network of links. 
+3. ==There **wont be a centralized entity** that synchronises. There is a decentralized network of links.== 
 4. We would like for the protocol to be **simple**. 
 
 ## Types: 
