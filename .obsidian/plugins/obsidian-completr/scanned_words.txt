@@ -1958,6 +1958,7 @@ aplcamos
 alternativa
 aside
 accesses
+arrow
 Creaci
 Crear
 Cuando
@@ -3756,6 +3757,7 @@ Collision
 Completitud
 Compruebo
 Creates
+Complementary
 de
 due
 dar
@@ -5687,6 +5689,8 @@ dato
 distancia
 detenga
 desconecte
+dequeue
+direction
 modelos
 modelo
 maximizar
@@ -9504,6 +9508,9 @@ evaluation
 exploraciones
 elegimos
 equipos
+estan
+enqueue
+edge
 programaci
 primer
 paso
@@ -11497,6 +11504,7 @@ profuncidad
 pesar
 prevents
 parenthesis
+pseudoc
 lineal
 la
 lo
@@ -13196,6 +13204,7 @@ lower
 lazy
 lanzarnos
 len
+love
 tags
 tres
 todos
@@ -14978,6 +14987,7 @@ tan
 transposiciones
 tower
 theoretical
+tree
 review
 resolver
 realizar
@@ -20634,6 +20644,7 @@ comunicaciones
 consecutive
 concept
 certain
+colorings
 sr
 se
 subproblemas
@@ -22596,6 +22607,11 @@ sytem
 slacks
 stacks
 sequentially
+sequencialmente
+studies
+subgraph
+spanning
+sqeuda
 interval
 importancia
 incorrecto
@@ -24482,6 +24498,7 @@ implenta
 imagine
 imaginary
 indifferently
+irst
 un
 una
 utiliza
@@ -26027,6 +26044,7 @@ ueGei
 uLJD
 unitarios
 undo
+undirected
 hora
 hacemos
 hacia
@@ -29274,6 +29292,7 @@ Expandimos
 Ejecute
 ERROR
 Examples
+Eulerian
 vital
 variables
 vez
@@ -30869,6 +30888,7 @@ voy
 verifique
 validar
 vectors
+vertices
 no
 nuestras
 ndar
@@ -34053,6 +34073,7 @@ Implementaciones
 Inutil
 Incrementar
 Implementing
+Isomorphic
 Definir
 Din
 Design
@@ -35720,6 +35741,7 @@ Destino
 Directamente
 Dejar
 Does
+Dijkstra
 funci
 fibonacci
 fica
@@ -42250,6 +42272,7 @@ Assuming
 Admisibilidad
 ADTs
 Adds
+Adjacency
 Floyd
 Foundations
 Funci
@@ -45304,6 +45327,7 @@ Wlko
 WqJg
 WpF
 WWq
+Walks
 Heuri
 Hecho
 HyO
@@ -46839,6 +46863,8 @@ HMZR
 HQm
 Hawaian
 Hosts
+Handshanking
+Hamiltonian
 TODOS
 The
 Trabajo
@@ -48492,6 +48518,7 @@ Tct
 TAD
 Tags
 True
+Trees
 grafo
 guardan
 global
@@ -50131,6 +50158,8 @@ gateway
 gateways
 generaremos
 guardar
+getting
+game
 Programaci
 Para
 Problema
@@ -51913,6 +51942,9 @@ Parts
 Pseudoc
 Profundizacion
 Pila
+Pseudograph
+Pseudographs
+Planar
 Biblio
 BitsPerComponent
 BI
@@ -53407,6 +53439,7 @@ Build
 BUCLE
 Bool
 Balanced
+Bipartite
 Steven
 Skiena
 Serie
@@ -55114,6 +55147,9 @@ STACK
 Stacks
 Stack
 Saving
+Subgraph
+Spanning
+Shortest
 Manual
 Modelar
 Millones
@@ -56793,6 +56829,7 @@ MZCE
 MrsW
 Mcx
 Methods
+Minimum
 Zivkovic
 Zo
 Zi
@@ -63038,6 +63075,7 @@ UWs
 Untw
 Utilidades
 Usar
+Undirected
 QUE
 Que
 QE
@@ -72181,6 +72219,8 @@ Gby
 Genera
 Generar
 Generamos
+Graph
+Graphs
 Nota
 Novo
 Nacional
@@ -81446,6 +81486,7 @@ wuvow
 wSCM
 wCG
 wRb
+wanting
 kL
 kMZ
 kC

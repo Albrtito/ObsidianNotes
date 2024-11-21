@@ -30,5 +30,5 @@ cssclasses:
 
 + [[1731511534 - ADT - Graf|ADT - Graf]]
 + [[1732189319 - ADT - Stack|ADT - Stack]]
-+ 
++ [[1732190503 - ADT - Queue|ADT - Queue]]
 ***

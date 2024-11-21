@@ -856,24 +856,9 @@
                   "icon": "lucide-file",
                   "title": "1732116599 - Algorithm - Profundizacion iterativa"
                 }
-              },
-              {
-                "id": "df6fafc3539d3991",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732189319 - ADT - Stack.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732189319 - ADT - Stack"
-                }
               }
             ],
-            "currentTab": 4,
+            "currentTab": 3,
             "stacked": true
           },
           {
@@ -887,13 +872,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/1731511534 - Graf Data sctructure.md",
+                    "file": "02-Atomic/1731511534 - ADT - Graf.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "1731511534 - Graf Data sctructure"
+                  "title": "1731511534 - ADT - Graf"
                 }
               },
               {
@@ -909,6 +894,21 @@
                   },
                   "icon": "lucide-file",
                   "title": "1731507784 - Algorithm - Busqueda espacio de estados"
+                }
+              },
+              {
+                "id": "6e921452e9bc8600",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1732190503 - ADT - Queue.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1732190503 - ADT - Queue"
                 }
               }
             ]
@@ -930,7 +930,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02-Atomic/1732189319 - ADT - Stack.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -1025,11 +1024,11 @@
                       "linkStrength": 0.47411233053583,
                       "linkDistance": 52,
                       "scale": 0.09611498563436155,
-                      "close": false
+                      "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 1732189319 - ADT - Stack"
+                  "title": "Graph view"
                 }
               }
             ]
@@ -1043,11 +1042,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "02-Atomic/1732189319 - ADT - Stack.md"
-                  },
+                  "state": {},
                   "icon": "lucide-list",
-                  "title": "Outline of 1732189319 - ADT - Stack"
+                  "title": "Outline"
                 }
               },
               {
@@ -1114,8 +1111,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 395,
-        "collapsed": true
+        "width": 395
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -1132,8 +1128,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "df6fafc3539d3991",
-      "mtime": "2024-11-21T12:44:18+01:00"
+      "active": "36d1a43796975b90",
+      "mtime": "2024-11-21T13:09:35+01:00"
     },
     "Net": {
       "main": {

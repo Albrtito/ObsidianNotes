@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 16762883
       }
+    },
+    {
+      "query": "tag:#Heuri  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
     }
   ],
   "collapse-display": false,
@@ -88,6 +95,6 @@
   "repelStrength": 11.8532274590164,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.0521156895224947,
+  "scale": 0.0669203336933577,
   "close": true
 }
