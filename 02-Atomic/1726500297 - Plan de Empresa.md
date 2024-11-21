@@ -26,7 +26,7 @@ Se presenta a continuación un MOC con cada una de las partes realizadas.
 > [!NOTE] Requisito: 
 > Describir el campo de actividad de la empresa (producto o servicio). 
 > 
-
+### Introducción:
 La empresa propuesta es **Try Again Seguros**. Una aseguradora para matrículas universitarias. 
 > “Paga una vez, inténtalo dos veces”
 
@@ -36,8 +36,12 @@ Esto se debe a que:
 + La empresa actua únicamente en el mercado de seguros español. 
 
 Por último, la empresa se creará como  sociedad de capitales, una **sociedad de responsabilidad limitada** que se creará con dos socios. 
+Se elegirá esta forma debido a que:
++ ==El capital desembolsado incialmente será de X==  → @Tomas
++ Al elegir esta forma jurídica la empresa se beneficia de que los socios puedan realizar prestaciones accesorias como trabajo [^3]
 
-### 1.2 ‚Qué es un seguro de matrícula?
+### 1.2 Qué es un seguro de matrícula?
+
 
 
 
@@ -46,3 +50,4 @@ Por último, la empresa se creará como  sociedad de capitales, una **sociedad d
 + Poner como objetivo de empresa: **Maximizar el valor de la empresa**
 + Se aconseja (aunq no se requiere) que se utilice el [[1727105227 - Modelos de negocio de la empresa#Modelo canvas:|Modelo canvas]]]
 [^2]: #Duda: Se busca que redactemos las características y teoría de cada parte realizada o que directamente argumentemos las decisiones asuminedo que la teoría ya es conocida? 
+[^3]: #Duda: En una SA los socios no podrían realizar trabajo? Los socios no son los que tienen las acciones? Serían entonces los socios los organizativos y los accionistas otros diferentes?
