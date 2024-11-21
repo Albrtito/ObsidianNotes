@@ -38,11 +38,30 @@ Un seguro de matrícula es un servicio ofrecido por la empresa dirigido a estudi
 Algunas características a remarcar del seguro son: 
 + El estudiante contratará un seguro **para UNA única asignatura**, contratando otro seguro diferente en caso de que quiera asegurar otra asignatura.
 
+
 #### Computo del seguro:
 El cálculo realizado para calcular el seguro será: 
 
 **En caso de que el estudiante sea de nuevo acceso a la universidad (primer año)**
++ Se utiliza **unicamente la nota de ebau**
++ Se descuenta un máximo del 50%
+$$
+\text{Precio} = (\text{PM} * (1-(\frac{\text{NB}}{14}*0.5))
+$$
+Donde: 
++ **PM**: (Precio Matrícula) Es el precio de la siguiente (segunda)matrícula de la asignatura. 
++ **NB**: (Nota Ebau) Nota de ebau sobre 14
 
+**En caso de que el estudiante no sea de nuevo acceso a la universidad(cualquiera menos el primer año)**
++ Se utiliza **la nota de ebau y la nota media universitaria**
++ Se descontará un máximo del 80% subdividido de la siguiente forma: 
+	+ 50% Dependiente de la nota media universitaria 
+	+ 30% Dependiente de la nota de ebau
+
+
+Se ha de tener en cuenta que: 
++ El cómputo se hace contra el precio de la siguiente matrícula. 
++ Se asume que las matrículas duplican su precio por año 
 $$
 
 $$
