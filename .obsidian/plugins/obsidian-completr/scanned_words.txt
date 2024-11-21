@@ -3770,6 +3770,7 @@ Completitud
 Compruebo
 Creates
 Complementary
+Computo
 de
 due
 dar
@@ -5709,6 +5710,7 @@ dadas
 duda
 dirigido
 desembolsado
+descuenta
 modelos
 modelo
 maximizar
@@ -7556,6 +7558,7 @@ modelando
 muestra
 microempresa
 monomercado
+mputo
 en
 ease
 es
@@ -16874,6 +16877,8 @@ reflect
 reprsenta
 realizadas
 redactemos
+remarcar
+rango
 References
 Resoluci
 Rectas
@@ -22667,6 +22672,8 @@ sqeuda
 studied
 secci
 suspendiese
+subdividido
+sube
 interval
 importancia
 incorrecto
@@ -29354,6 +29361,7 @@ ERROR
 Examples
 Eulerian
 Edge
+Ebau
 vital
 variables
 vez
@@ -35817,6 +35825,7 @@ Dense
 Depth
 Describir
 Descripci
+Dependiente
 funci
 fibonacci
 fica
@@ -42358,6 +42367,7 @@ ADTs
 Adds
 Adjacency
 Agrupaci
+Algunas
 Floyd
 Foundations
 Funci
@@ -43877,6 +43887,7 @@ FqG
 FVl
 FIRST
 Fincas
+Factor
 Warshall
 Width
 We
@@ -56929,6 +56940,7 @@ Multigraphs
 Multiedges
 Multigraph
 Mutualidad
+Matr
 Zivkovic
 Zo
 Zi
