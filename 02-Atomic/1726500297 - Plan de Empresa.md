@@ -42,7 +42,9 @@ Se elegirá esta forma debido a que:
 
 ### 1.2 Qué es un seguro de matrícula?
 Un seguro de matrícula es un servicio ofrecido por la empresa dirigido a estudiantes universitarios. 
-El estudiante contratará el seguro **para UNA única asignatura**.  Al contratar este seguro el estudiante pagará un precio **variable** en función de **su nota de ebau, nota media universitaria y nº de matrícula**. A  cambio la empresa asegura que pagará el valor de la siguiente matrícula  **en caso de que el estudiente suspendiese la asignatura**
+
+El estudiante contratará un seguro **para UNA única asignatura**, contratando otro seguro diferente en caso de que quiera asegurar otra asignatura.
+ Al contratar este seguro el estudiante pagará un precio **variable** en función de **su nota de ebau, nota media universitaria y nº de matrícula**. A  cambio la empresa asegura que pagará el valor de la siguiente matrícula  **en caso de que el estudiente suspendiese la asignatura**
 
 
 
