@@ -11,10 +11,15 @@
             "id": "2e31ac113c084d0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1732021285 - Protocol - ALOHA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1732021285 - Protocol - ALOHA"
             }
           }
         ],
@@ -37,6 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/1732021285 - Protocol - ALOHA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1732021285 - Protocol - ALOHA"
             }
           }
         ]
@@ -135,9 +141,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "02-Atomic/1732021285 - Protocol - ALOHA.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1732021285 - Protocol - ALOHA"
             }
           },
           {
@@ -217,6 +225,7 @@
   },
   "active": "2e31ac113c084d0e",
   "lastOpenFiles": [
+    "02-Atomic/1728386212 - The network layer.md",
     "02-Atomic/1732043831 - Practica - Routers - 2.md",
     "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
@@ -244,7 +253,6 @@
     "02-Atomic/1732023041 - Protocol - Ethernet.md",
     "02-Atomic/1732022695 - Protocol - CSMA.md",
     "02-Atomic/1732037299 -.md",
-    "02-Atomic/1732021285 - Protocol - ALOHA.md",
     "00-References/Net_Resources_s5_2.pdf",
     "00-References/Net_Resoureces_s5_1.pdf",
     "00-References/Net_Resources_s5_3.pdf",
