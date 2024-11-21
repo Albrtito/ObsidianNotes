@@ -1970,6 +1970,7 @@ aseguradora
 aseguradores
 argumentemos
 asuminedo
+accesorias
 Creaci
 Crear
 Cuando
@@ -5706,6 +5707,8 @@ density
 directrices
 dadas
 duda
+dirigido
+desembolsado
 modelos
 modelo
 maximizar
@@ -9533,6 +9536,9 @@ enqueue
 edge
 escritura
 escrib
+estudiantes
+ebau
+estudiente
 programaci
 primer
 paso
@@ -11531,6 +11537,8 @@ pseudograph
 probando
 posiciona
 pie
+puedan
+prestaciones
 lineal
 la
 lo
@@ -20687,6 +20695,8 @@ characteristics
 collected
 culas
 conocida
+contratar
+contratando
 sr
 se
 subproblemas
@@ -22656,6 +22666,7 @@ spanning
 sqeuda
 studied
 secci
+suspendiese
 interval
 importancia
 incorrecto
@@ -24543,6 +24554,7 @@ imagine
 imaginary
 indifferently
 irst
+incialmente
 un
 una
 utiliza
@@ -26092,6 +26104,7 @@ undirected
 under
 unweighted
 universitarias
+universitaria
 hora
 hacemos
 hacia
@@ -35803,6 +35816,7 @@ Density
 Dense
 Depth
 Describir
+Descripci
 funci
 fibonacci
 fica
@@ -39066,6 +39080,8 @@ onew
 obviously
 optimization
 okay
+ofrecido
+organizativos
 que
 queremos
 qD
@@ -40599,6 +40615,7 @@ qcC
 qJh
 qiC
 qov
+quiera
 Algorith
 Algorithm
 All
@@ -48588,6 +48605,7 @@ TAD
 Tags
 True
 Trees
+Tomas
 grafo
 guardan
 global
@@ -50230,6 +50248,7 @@ guardar
 getting
 game
 grah
+genes
 Programaci
 Para
 Problema
@@ -61639,6 +61658,7 @@ basado
 backwards
 button
 bidirectional
+beneficia
 Util
 Una
 UniZumo

@@ -28,6 +28,25 @@ Se presenta a continuación un MOC con cada una de las partes realizadas.
 > Describir el campo de actividad de la empresa (producto o servicio). 
 > 
 
+### 1.1 Descripción del servicio
+El campo de actividad de la empresa propuesta se encuentra dentro del mercado de seguros. La empresa **ofrece un seguro de matrícula para estudiantes universitarios**[^4]
+### 1.2 Qué es un seguro de matrícula?
+Un seguro de matrícula es un servicio ofrecido por la empresa dirigido a estudiantes universitarios. 
+
+ Al contratar este seguro el estudiante pagará un precio **variable** en función de **su nota de ebau, nota media universitaria y nº de matrícula**. A  cambio la empresa asegura que pagará el valor de la siguiente matrícula  **en caso de que el estudiente suspendiese la asignatura**
+
+Algunas características a remarcar del seguro son: 
++ El estudiante contratará un seguro **para UNA única asignatura**, contratando otro seguro diferente en caso de que quiera asegurar otra asignatura.
+
+#### Computo del seguro:
+El cálculo realizado para calcular el seguro será: 
+
+**En caso de que el estudiante sea de nuevo acceso a la universidad (primer año)**
+
+$$
+
+$$
+
 ## 3. Definición de la empresa
 ### 3.1 Forma económica y jurídica
 La empresa propuesta es **Try Again Seguros**. Una aseguradora para matrículas universitarias. 
@@ -43,12 +62,6 @@ Se elegirá esta forma debido a que:
 + ==El capital desembolsado incialmente será de X==  → @Tomas
 + Al elegir esta forma jurídica la empresa se beneficia de que los socios puedan realizar prestaciones accesorias como trabajo [^3]
 
-### 1.2 Qué es un seguro de matrícula?
-Un seguro de matrícula es un servicio ofrecido por la empresa dirigido a estudiantes universitarios. 
-
-El estudiante contratará un seguro **para UNA única asignatura**, contratando otro seguro diferente en caso de que quiera asegurar otra asignatura.
- Al contratar este seguro el estudiante pagará un precio **variable** en función de **su nota de ebau, nota media universitaria y nº de matrícula**. A  cambio la empresa asegura que pagará el valor de la siguiente matrícula  **en caso de que el estudiente suspendiese la asignatura**
-
 
 
 ***
@@ -57,3 +70,4 @@ El estudiante contratará un seguro **para UNA única asignatura**, contratando 
 + Se aconseja (aunq no se requiere) que se utilice el [[1727105227 - Modelos de negocio de la empresa#Modelo canvas:|Modelo canvas]]]
 [^2]: #Duda: Se busca que redactemos las características y teoría de cada parte realizada o que directamente argumentemos las decisiones asuminedo que la teoría ya es conocida? 
 [^3]: #Duda: En una SA los socios no podrían realizar trabajo? Los socios no son los que tienen las acciones? Serían entonces los socios los organizativos y los accionistas otros diferentes?
+[^4]: Aquí habría que añadir los gráficos creados. 
