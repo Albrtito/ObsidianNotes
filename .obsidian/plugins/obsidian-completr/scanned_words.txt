@@ -1957,6 +1957,7 @@ analizado
 aplcamos
 alternativa
 aside
+accesses
 Creaci
 Crear
 Cuando
@@ -22594,6 +22595,7 @@ slack
 sytem
 slacks
 stacks
+sequentially
 interval
 importancia
 incorrecto
@@ -24479,6 +24481,7 @@ implementa
 implenta
 imagine
 imaginary
+indifferently
 un
 una
 utiliza
@@ -30865,6 +30868,7 @@ volvemos
 voy
 verifique
 validar
+vectors
 no
 nuestras
 ndar
@@ -38972,6 +38976,7 @@ optimizing
 office
 onew
 obviously
+optimization
 que
 queremos
 qD
@@ -51907,6 +51912,7 @@ Provides
 Parts
 Pseudoc
 Profundizacion
+Pila
 Biblio
 BitsPerComponent
 BI
@@ -55107,6 +55113,7 @@ Salto
 STACK
 Stacks
 Stack
+Saving
 Manual
 Modelar
 Millones
@@ -56785,6 +56792,7 @@ MTk
 MZCE
 MrsW
 Mcx
+Methods
 Zivkovic
 Zo
 Zi
@@ -64592,6 +64600,7 @@ QTU
 QFc
 QKp
 QXHID
+Queue
 Obtener
 Opti
 Objetivo
