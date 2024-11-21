@@ -48,7 +48,7 @@ El cálculo realizado para calcular el seguro será:
 
 El precio se calcula resolviendo:
 $$
-\text{Precio} = \text{PM} * ((1-\frac{\text{NB}}{14})*0.5)
+\text{Precio} = \text{PM} * (1 - (\frac{\text{NB}}{14})*0.5)
 $$
 Donde: 
 + **PM**: (Precio Matrícula) Es el precio de la siguiente (segunda)matrícula de la asignatura. 
@@ -64,7 +64,7 @@ Donde:
 
 El precio se calcula resolviendo:
 $$
-\text{Precio} = (\text{PM} * (\text{FE} + \text{FU})) +( PM * (0.1 * (NM - 1)))
+\text{Precio} = (\text{PM} * ( 1-\text{FE} + \text{FU})) +( PM * (0.1 * (NM - 1)))
 $$
 Donde:
 + **NB:** (Nota Ebau) Nota de ebau sobre 14
@@ -72,7 +72,7 @@ Donde:
 + **NU:**( Nota Universidad) Nota media de la universidad sobre 10
 + **FE:** (Factor Ebau) Se calcula resolviendo:
 $$
-\text{FactorEbau} = ((1-\frac{\text{NB}}{14})*0.3)
+\text{FactorEbau} = (\frac{\text{NB}}{14})*0.3)
 $$
 + **FU:** (Factor Uni) Se calcula resolviendo
 $$
