@@ -8,8 +8,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-20
-sr-interval: 1
+sr-due: 2024-11-24
+sr-interval: 3
 sr-ease: 230
 ---
 # The link layer
@@ -25,19 +25,18 @@ sr-ease: 230
 > Each link is different and therefore needs a different protocol. 
 > 
 > The **implementation of this layer happens in each hosts**. 
->+ A chip (link-card), specific to each protocol, is needed. 
+>==+ A chip (link-card), specific to each protocol, is needed.== 
 
 > [!example] Notation: 
 >+ **host and routers = nodes:** From the link layer point of view all devices at the edges of the link are nodes and there are no differences between them. 
 >+ **links:** The communication channels that connet adjacent nodes. There are severl types. 
 >+ **packet → FRAME:** The packet of the link layer is a frame, it **encapsulates the network layer packet (datagram)**
->+ **MAC Addresses: Physical addresses: Link layer addresses:** The addresses used in the Link layer to identify hosts 
+>==+ **MAC Addresses: Physical addresses: Link layer addresses:** The addresses used in the Link layer to identify hosts== 
 >+ **bitTime:** The time to transmit one bit
-
 
 > [!bug] Problems: 
 > The main problems of the link layer are: 
-> 1. There are several link mediums through wich a packet can travel. Several protocols need to be used easily. Changing between protocols musnt be a problem 
+> 1. There are several link mediums through wich a packet can travel. Several protocols need to be used easily. The problem is changing between protocols **fast.**
 
 ## Link layer services: 
 The link layer may provide some of the following services based on the different protocols and mediums used.
@@ -46,7 +45,11 @@ The link layer may provide some of the following services based on the different
 > [!NOTE] Def: 
 >  The act of creating the link frame, is directly related to the protocol used.
 
-#Duda : Porque el channel access protocol es algo dentro del servicio de framing?
+#Duda : Porque el channel access protocol es algo dentro del servicio de framing? 
+
+> [!check] Duda: Pq el channel acces protocol es algo dentro del servicio de framing?
+> Porque el frame variará según el protocolo que utilice ese link.  Todo el framing coge el datagram pero no de la misma forma. 
+
 
 Este servicio engloba: 
 + Creation of a **header and trailer**.

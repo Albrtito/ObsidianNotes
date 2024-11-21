@@ -21391,7 +21391,6 @@ sums
 simpler
 something
 stated
-second
 step
 show
 satisface
@@ -22308,7 +22307,6 @@ sOB
 sHY
 sRrO
 separates
-seconds
 specifically
 still
 select
@@ -54153,7 +54151,6 @@ Segments
 Sends
 SEQUENCE
 SPACES
-Second
 Segunda
 SHA
 Supondremos
