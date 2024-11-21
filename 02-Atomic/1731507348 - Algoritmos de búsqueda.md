@@ -30,6 +30,10 @@ cssclasses:
 > + **Eliminar de la lista = Dejar de usar memoria**: 
 
 ### Pseudocódigo:
+
+> [!attention] Main idea:
+> Este pseudocódigo recoge el algoritmo general de un algoritmo de búsqeuda por fuerza bruta 
+
 1. Generar el estado inicial $S_0$ 
 2. Expandir el primer nodo de la LISTA y añadir sus sucesores a LISTA. 
 3. Si t$\in$ conjunto de sucessores, entonces **HALT**, en caso contrario **volvemos al caso 2**

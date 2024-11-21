@@ -4,26 +4,125 @@
     "type": "split",
     "children": [
       {
-        "id": "d9412a80988d07d2",
+        "id": "fabe814c139eca2a",
         "type": "tabs",
+        "dimension": 51.02179836512262,
         "children": [
           {
-            "id": "2e31ac113c084d0e",
+            "id": "8a354a9a9b2861dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1727711018 - Estrategias de diversificación.md",
+                "file": "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1727711018 - Estrategias de diversificación"
+              "title": "1731507348 - Algoritmos de búsqueda"
+            }
+          },
+          {
+            "id": "da9580cc12c79e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1732112181 - Algorithm - Primero en amplitud"
+            }
+          },
+          {
+            "id": "a445259147561852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1732114607 - Algorithm - Primero en profundidad"
+            }
+          },
+          {
+            "id": "2d80d1313a42e16d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1732116599 - Algorithm - Profundizacion iterativa"
+            }
+          },
+          {
+            "id": "df6fafc3539d3991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1732189319 -.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1732189319 -"
             }
           }
         ],
+        "currentTab": 4,
         "stacked": true
+      },
+      {
+        "id": "9a3fb0594165e723",
+        "type": "tabs",
+        "dimension": 48.97820163487738,
+        "children": [
+          {
+            "id": "87a5ef792ae76c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1731511534 - Graf Data sctructure.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1731511534 - Graf Data sctructure"
+            }
+          },
+          {
+            "id": "e46d42893c588fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1731507784 - Algorithm - Busqueda espacio de estados"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -42,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727711018 - Estrategias de diversificación.md",
+                "file": "02-Atomic/1732189319 -.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -53,7 +152,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "tag:#incomplete  ",
@@ -110,6 +209,13 @@
                         "a": 1,
                         "rgb": 14048348
                       }
+                    },
+                    {
+                      "query": "tag:#Logic  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1328127
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -118,43 +224,16 @@
                   "nodeSizeMultiplier": 2.79537653688525,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.10925799863853,
-                  "repelStrength": 16.3036078965283,
+                  "centerStrength": 0.0242737249838606,
+                  "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.07167334621087909,
+                  "scale": 0.09611498563436155,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1727711018 - Estrategias de diversificación"
-            }
-          },
-          {
-            "id": "fc17a30e900d6f8a",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "5277caa8de0cf553",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Graph of 1732189319 -"
             }
           }
         ]
@@ -169,10 +248,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1727711018 - Estrategias de diversificación.md"
+                "file": "02-Atomic/1732189319 -.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1727711018 - Estrategias de diversificación"
+              "title": "Outline of 1732189319 -"
             }
           },
           {
@@ -187,7 +266,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,73 +283,21 @@
         "dimension": 63.45609065155807,
         "children": [
           {
-            "id": "90205c8666b47457",
+            "id": "2dca472e18c0e06a",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "b25603422e8df2b5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
+              "type": "markdown",
               "state": {
-                "file": "02-Atomic/1727711018 - Estrategias de diversificación.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 1727711018 - Estrategias de diversificación"
-            }
-          },
-          {
-            "id": "2eeeae8e11e21776",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02-Atomic/1727711018 - Estrategias de diversificación.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 1727711018 - Estrategias de diversificación"
-            }
-          },
-          {
-            "id": "3ed0f2b8fe586a60",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "25035ac93f5900cb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Heuristica y Opti"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -290,7 +318,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 395,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,8 +336,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2e31ac113c084d0e",
+  "active": "df6fafc3539d3991",
   "lastOpenFiles": [
+    "99-Meta/0. Attachments/Unit 1 1 Stacks TAD cd4c18e3e5cd42fbae907146da33d417.md",
+    "02-Atomic/1732189319 -.md",
+    "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
+    "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
+    "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
+    "02-Atomic/1726500637 - Definición - Saldo de la balanza comercial.md",
+    "02-Atomic/1727711018 - Estrategias de diversificación.md",
     "02-Atomic/1732023041 - Protocol - Ethernet.md",
     "02-Atomic/1727270270 - Method - SIMPLEX.md",
     "02-Atomic/1732035070 - Protocol - Pure ALOHA.md",
@@ -326,15 +362,8 @@
     "02-Atomic/1732021285 - Protocol - ALOHA.md",
     "02-Atomic/1728386212 - The network layer.md",
     "02-Atomic/1732043831 - Practica - Routers - 2.md",
-    "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
-    "02-Atomic/1731507348 - Algoritmos de búsqueda.md",
-    "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
     "02-Atomic/1731511534 - Graf Data sctructure.md",
-    "02-Atomic/1731507784 - Algorithm - Busqueda espacio de estados.md",
-    "20240515 - 032018 - Tree graph.md",
-    "02-Atomic/1732111920 - Algoritmos de busqueda por fuerza bruta.md",
-    "02-Atomic/1730303159 - Satisfacción de restricciones.md",
     "00-References/Net_Biblio_Kurose.pdf",
     "00-References/Net_Resources_s5_1.pdf",
     "00-References/Net_Resources_s5_2.pdf",

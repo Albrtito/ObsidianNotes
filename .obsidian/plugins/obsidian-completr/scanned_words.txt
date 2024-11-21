@@ -1956,6 +1956,7 @@ alcanza
 analizado
 aplcamos
 alternativa
+aside
 Creaci
 Crear
 Cuando
@@ -3752,6 +3753,8 @@ CRfy
 Changing
 Collision
 Completitud
+Compruebo
+Creates
 de
 due
 dar
@@ -11492,6 +11495,7 @@ profundida
 profuncidad
 pesar
 prevents
+parenthesis
 lineal
 la
 lo
@@ -13190,6 +13194,7 @@ lowers
 lower
 lazy
 lanzarnos
+len
 tags
 tres
 todos
@@ -14969,6 +14974,8 @@ tengo
 tlimo
 teneindo
 tan
+transposiciones
+tower
 review
 resolver
 realizar
@@ -16809,6 +16816,8 @@ razones
 requerido
 requremiento
 razon
+represents
+remove
 References
 Resoluci
 Rectas
@@ -18441,6 +18450,8 @@ Rwf
 RRU
 RECURSIVAS
 Realice
+Realizo
+Removes
 cssclasses
 correcto
 correcta
@@ -20618,6 +20629,8 @@ completitud
 complejo
 cola
 comunicaciones
+consecutive
+concept
 sr
 se
 subproblemas
@@ -22575,6 +22588,10 @@ seguidos
 sdfsf
 sdfsdf
 synchronised
+slack
+sytem
+slacks
+stacks
 interval
 importancia
 incorrecto
@@ -24458,6 +24475,8 @@ iterativa
 incrementea
 implementa
 implenta
+imagine
+imaginary
 un
 una
 utiliza
@@ -26001,6 +26020,8 @@ ulWPPPZZj
 uvw
 ueGei
 uLJD
+unitarios
+undo
 hora
 hacemos
 hacia
@@ -29246,6 +29267,8 @@ Expandir
 Expande
 Expandimos
 Ejecute
+ERROR
+Examples
 vital
 variables
 vez
@@ -34021,6 +34044,9 @@ Idwj
 Interfaz
 Identify
 Implementaciones
+Inutil
+Incrementar
+Implementing
 Definir
 Din
 Design
@@ -35687,6 +35713,7 @@ Duplex
 Destino
 Directamente
 Dejar
+Does
 funci
 fibonacci
 fica
@@ -37377,6 +37404,8 @@ figure
 fact
 finalized
 fixes
+fbae
+fall
 objetivo
 obtener
 of
@@ -38940,6 +38969,7 @@ osR
 optimizing
 office
 onew
+obviously
 que
 queremos
 qD
@@ -42211,6 +42241,8 @@ Among
 Abort
 Assuming
 Admisibilidad
+ADTs
+Adds
 Floyd
 Foundations
 Funci
@@ -48450,6 +48482,9 @@ TAVg
 TMtMt
 TimesNewRomanPS
 Tct
+TAD
+Tags
+True
 grafo
 guardan
 global
@@ -50088,6 +50123,7 @@ gXih
 gateway
 gateways
 generaremos
+guardar
 Programaci
 Para
 Problema
@@ -53361,6 +53397,8 @@ BKZ
 Busy
 Build
 BUCLE
+Bool
+Balanced
 Steven
 Skiena
 Serie
@@ -55065,6 +55103,8 @@ SECOND
 Siguiente
 Salto
 STACK
+Stacks
+Stack
 Manual
 Modelar
 Millones
@@ -59791,6 +59831,8 @@ LNt
 Links
 LISTA
 LIFO
+Lots
+Like
 bottom
 base
 brik
@@ -61466,6 +61508,8 @@ backoff
 bold
 busqueda
 basado
+backwards
+button
 Util
 Una
 UniZumo
