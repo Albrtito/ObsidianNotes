@@ -6,9 +6,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-11-21
-sr-interval: 35
-sr-ease: 270
+sr-due: 2024-12-09
+sr-interval: 18
+sr-ease: 250
 ---
 # Responsabilidad social de la empresa
 

@@ -19,7 +19,7 @@ sr-ease: 230
 
 + If a node detects a collision while it is transmitting, it’ll stop. 
 
-### Efficiency: 
+====### Efficiency: 
 $$
 efficiency = \frac{1}{1 + \frac{5t_{prop}}{t_{trans}}}
 $$
