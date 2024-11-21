@@ -35,7 +35,9 @@ Esto se debe a que:
 + La cantidad de trabajadores de la empresa será menor que 10 y facturará una cantidad menor que 2M anualmente. 
 + La empresa actua únicamente en el mercado de seguros español. 
 
-Por último, la empresa se creará como una sociedad de capitales, específicamente,  de responsabilidad limitada. 
+Por último, la empresa se creará como  sociedad de capitales, una **sociedad de responsabilidad limitada** que se creará con dos socios. 
+
+### 1.2 ‚Qué es un seguro de matrícula?
 
 
 
