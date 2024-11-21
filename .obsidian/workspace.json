@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3fba0475cebb59d0",
@@ -329,12 +329,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0053b91f7de10121",
+  "active": "77006f10992dd9b2",
   "lastOpenFiles": [
-    "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
-    "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
     "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
     "02-Atomic/1726500297 - Plan de Empresa.md",
+    "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
+    "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
     "02-Atomic/1726241677 - Definition - Empresas sociales.md",
     "02-Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
     "02-Atomic/1728921778 - La funcion de produccion de la empresa.md",

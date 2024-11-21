@@ -14,5 +14,8 @@ cssclasses:
 >  + Análisis del entorno especifico de la actividad elegida, siguiendo el esquema de las "cinco fuerzas de Porter."
 
 ## 2. Analizar el sector al que pertenece la empresa: 
+### 2.1 Análisis del entorno genérico: 
+
+### 2.2 Análisis del entorno específico: PORTER
 
 ***
