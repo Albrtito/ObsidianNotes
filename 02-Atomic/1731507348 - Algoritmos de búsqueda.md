@@ -29,6 +29,8 @@ cssclasses:
 > + **Generar = Usar memoria** : Siempre que generamos algun dato estamos utilizando memoria para ello, guardamos ese dato en algún sito. 
 > + **Eliminar de la lista = Dejar de usar memoria**: 
 
+
+#Duda: Que pasaría si nuestro grafo no fuese simple? → Hay multiple edges
 ### Pseudocódigo:
 
 > [!attention] Main idea:

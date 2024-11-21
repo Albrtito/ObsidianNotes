@@ -1959,6 +1959,8 @@ alternativa
 aside
 accesses
 arrow
+addition
+automatic
 Creaci
 Crear
 Cuando
@@ -7533,6 +7535,7 @@ metemos
 mantener
 memoryless
 mantiene
+multiedges
 en
 ease
 es
@@ -11505,6 +11508,7 @@ pesar
 prevents
 parenthesis
 pseudoc
+pseudograph
 lineal
 la
 lo
@@ -13205,6 +13209,7 @@ lazy
 lanzarnos
 len
 love
+loop
 tags
 tres
 todos
@@ -14988,6 +14993,9 @@ transposiciones
 tower
 theoretical
 tree
+tuples
+trivial
+transformations
 review
 resolver
 realizar
@@ -16830,6 +16838,7 @@ requremiento
 razon
 represents
 remove
+reflect
 References
 Resoluci
 Rectas
@@ -20645,6 +20654,9 @@ consecutive
 concept
 certain
 colorings
+contribute
+characteristics
+collected
 sr
 se
 subproblemas
@@ -22612,6 +22624,7 @@ studies
 subgraph
 spanning
 sqeuda
+studied
 interval
 importancia
 incorrecto
@@ -26045,6 +26058,7 @@ uLJD
 unitarios
 undo
 undirected
+under
 hora
 hacemos
 hacia
@@ -30889,6 +30903,7 @@ verifique
 validar
 vectors
 vertices
+valence
 no
 nuestras
 ndar
@@ -32457,6 +32472,7 @@ notaci
 necesariamente
 necsario
 ningua
+nonempty
 Identificar
 Intro
 Identificaci
@@ -35742,6 +35758,7 @@ Directamente
 Dejar
 Does
 Dijkstra
+Degree
 funci
 fibonacci
 fica
@@ -37434,6 +37451,7 @@ finalized
 fixes
 fbae
 fall
+focuses
 objetivo
 obtener
 of
@@ -38999,6 +39017,7 @@ office
 onew
 obviously
 optimization
+okay
 que
 queremos
 qD
@@ -55150,6 +55169,7 @@ Saving
 Subgraph
 Spanning
 Shortest
+Simple
 Manual
 Modelar
 Millones
@@ -56830,6 +56850,9 @@ MrsW
 Mcx
 Methods
 Minimum
+Multigraphs
+Multiedges
+Multigraph
 Zivkovic
 Zo
 Zi
