@@ -69,13 +69,14 @@ $$
 Donde:
 + **NB:** (Nota Ebau) Nota de ebau sobre 14
 + **NM:** (Número matrícula) Con rango empezando en 1
++ **NU:**( Nota Universidad) Nota media de la universidad sobre 10
 + **FE:** (Factor Ebau) Se calcula resolviendo:
 $$
 \text{FactorEbau} = ((1-\frac{\text{NB}}{14})*0.3)
 $$
 + **FU:** (Factor Uni) Se calcula resolviendo
 $$
-\text{FactorUni} = ((1-\frac{\text{NM}}{10})*0.5)
+\text{FactorUni} = ((1-\frac{\text{NU}}{10})*0.5)
 $$
 
 Se ha de tener en cuenta que: 
