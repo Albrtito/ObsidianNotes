@@ -12,10 +12,19 @@ cssclasses:
 > [!NOTE] Intro:  
 > Los algoritmos de búsqueda resuelven de forma eficiente aquellos problemas con conplejidad exponencial. 
 
-> [!NOTE] Utilidades: 
-> Dado un grafo G(V,E) utilizamos un algoritmo de búsqueda para generar el árbol de búsqueda $T_G(s,t)$
+## Modelado con espacio de estados:
+El modelado de problemas de búsqueda con espacio de estados se basa en dos ideas fundamentales: 
+
+1. Un posible conjunto de valores específicos para cada una  de mis variables es un estado que se representa en forma de **nodo**
+2. Realizar un cambio para obtener un conjunto diferente es una operación, que se representa como **una arista**
++ Este modelado se explica en profundidad en su nota: [[]]
+
+> [!NOTE] Modelado: 
+> Dado el [[1731511534 - ADT - Graf|Grafo]] G(V,E) obtenido utilizamos un algoritmo de búsqueda para generar el árbol de búsqueda $T_G(s,t)$
 > 
 ## Propiedades: 
+Evaluamos un algorimo de busqueda analizando su completitud y admisibilidad.
+
 + **Completitud:** Un algoritmo de búsqueda es completo si **garantiza que encontrará una solución** dada que exista alguna. #Duda: Aunq esta solución se pueda dar en tiempo infinito
 + **Admisibilidad:** Si garantiza que encontrará una solución óptima dado a que exista alguna. 
 	+ Si un algoritmo es **admisible es necesariamente completo**

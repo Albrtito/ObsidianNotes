@@ -1961,6 +1961,8 @@ accesses
 arrow
 addition
 automatic
+analizando
+admisibilidad
 Creaci
 Crear
 Cuando
@@ -5693,6 +5695,7 @@ detenga
 desconecte
 dequeue
 direction
+density
 modelos
 modelo
 maximizar
@@ -14996,6 +14999,8 @@ tree
 tuples
 trivial
 transformations
+traversals
+traversal
 review
 resolver
 realizar
@@ -26059,6 +26064,7 @@ unitarios
 undo
 undirected
 under
+unweighted
 hora
 hacemos
 hacia
@@ -29307,6 +29313,7 @@ Ejecute
 ERROR
 Examples
 Eulerian
+Edge
 vital
 variables
 vez
@@ -35759,6 +35766,11 @@ Dejar
 Does
 Dijkstra
 Degree
+Directed
+Direction
+Density
+Dense
+Depth
 funci
 fibonacci
 fica
@@ -37452,6 +37464,7 @@ fixes
 fbae
 fall
 focuses
+fuese
 objetivo
 obtener
 of
@@ -50179,6 +50192,7 @@ generaremos
 guardar
 getting
 game
+grah
 Programaci
 Para
 Problema
@@ -53459,6 +53473,7 @@ BUCLE
 Bool
 Balanced
 Bipartite
+Breath
 Steven
 Skiena
 Serie
@@ -55170,6 +55185,7 @@ Subgraph
 Spanning
 Shortest
 Simple
+Sparse
 Manual
 Modelar
 Millones
@@ -59903,6 +59919,7 @@ LISTA
 LIFO
 Lots
 Like
+Less
 bottom
 base
 brik
@@ -61580,6 +61597,7 @@ busqueda
 basado
 backwards
 button
+bidirectional
 Util
 Una
 UniZumo
@@ -81510,6 +81528,7 @@ wSCM
 wCG
 wRb
 wanting
+weights
 kL
 kMZ
 kC
