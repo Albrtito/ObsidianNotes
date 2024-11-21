@@ -1,6 +1,7 @@
 ---
 aliases:
   - Plan de Empresa
+  - Practica - Plan de Empresa
 tags:
   - Empresa
 References: 
@@ -26,7 +27,9 @@ Se presenta a continuación un MOC con cada una de las partes realizadas.
 > [!NOTE] Requisito: 
 > Describir el campo de actividad de la empresa (producto o servicio). 
 > 
-### Introducción:
+
+## 3. Definición de la empresa
+### 3.1 Forma económica y jurídica
 La empresa propuesta es **Try Again Seguros**. Una aseguradora para matrículas universitarias. 
 > “Paga una vez, inténtalo dos veces”
 
