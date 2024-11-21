@@ -40,3 +40,4 @@ SEN
 second
 Second
 seconds
+following

@@ -69,9 +69,16 @@
         "a": 1,
         "rgb": 1393663
       }
+    },
+    {
+      "query": "tag:#EDA  ",
+      "color": {
+        "a": 1,
+        "rgb": 16762883
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 3,
   "nodeSizeMultiplier": 1.40375896516393,

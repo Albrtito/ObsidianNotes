@@ -32,7 +32,7 @@ Los algoritmos de búsqueda de espacios de estado se dividen en tres parte:
 > + **Solución:** La solución contiene un conjunto de operadores(transformaciones), en orden, que transforman el estado inicial al final. Esto se ve **representado como un camino en el grafo**
 
 ## Representación gráfica: 
-Se pueden representar los estaos y operadores como un [[1731511534 - Graf Data sctructure|Grafo]] en el que los **nodos serán estasdos** y las **aristas serán los operadores.** 
+Se pueden representar los estaos y operadores como un [[1731511534 - ADT - Graf|Grafo]] en el que los **nodos serán estasdos** y las **aristas serán los operadores.** 
 
 En esta representación también observamos que las **restricciones se ven representadas como los caminos que no se pueden realizar.**
 + Si no puedo llegar a un nodo desde otro tendremos una restricción. 
