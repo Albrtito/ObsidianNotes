@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "02-Atomic/1727711018 - Estrategias de diversificación.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1727270270 - Method - SIMPLEX"
+              "title": "1727711018 - Estrategias de diversificación"
             }
           }
         ],
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "02-Atomic/1727711018 - Estrategias de diversificación.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1727270270 - Method - SIMPLEX"
+              "title": "Graph of 1727711018 - Estrategias de diversificación"
             }
           },
           {
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - SIMPLEX.md"
+                "file": "02-Atomic/1727711018 - Estrategias de diversificación.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1727270270 - Method - SIMPLEX"
+              "title": "Outline of 1727711018 - Estrategias de diversificación"
             }
           },
           {
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "02-Atomic/1727711018 - Estrategias de diversificación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1727270270 - Method - SIMPLEX"
+              "title": "Backlinks for 1727711018 - Estrategias de diversificación"
             }
           },
           {
@@ -237,12 +237,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "02-Atomic/1727711018 - Estrategias de diversificación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1727270270 - Method - SIMPLEX"
+              "title": "Outgoing links from 1727711018 - Estrategias de diversificación"
             }
           },
           {
@@ -309,6 +309,8 @@
   },
   "active": "2e31ac113c084d0e",
   "lastOpenFiles": [
+    "02-Atomic/1732023041 - Protocol - Ethernet.md",
+    "02-Atomic/1727270270 - Method - SIMPLEX.md",
     "02-Atomic/1732035070 - Protocol - Pure ALOHA.md",
     "02-Atomic/1732031831 - Link channel multiple access protocols.md",
     "02-Atomic/1730624725 - Router.md",
@@ -333,8 +335,6 @@
     "20240515 - 032018 - Tree graph.md",
     "02-Atomic/1732111920 - Algoritmos de busqueda por fuerza bruta.md",
     "02-Atomic/1730303159 - Satisfacción de restricciones.md",
-    "02-Atomic/1730996237 - Practica - Segunda práctica heuristica.md",
-    "02-Atomic/1732043763 - Practica - Routers - 1.md",
     "00-References/Net_Biblio_Kurose.pdf",
     "00-References/Net_Resources_s5_1.pdf",
     "00-References/Net_Resources_s5_2.pdf",

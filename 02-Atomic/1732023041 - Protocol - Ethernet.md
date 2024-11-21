@@ -7,8 +7,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-20
-sr-interval: 1
+sr-due: 2024-11-24
+sr-interval: 3
 sr-ease: 225
 ---
 # Protocol - Ethernet
@@ -27,6 +27,6 @@ sr-ease: 225
 3. Wait untill the transmission is finalized (the whole frame is send): 
 	+ **There is no collision while sending:** Nice, the frame was sent
 	+ **There is a collision:** Abort and send a jam signal (saying, I stopped because a collision was sensed)
-		+ Enter an **binary exponential backoff** → Based on the probability that retransmission will happen → Based on the number of hosts connected to the link. 
+		+ ==Enter an **binary exponential backoff** → Based on the probability that retransmission will happen → Based on the number of hosts connected to the link.== 
    * 
 ***
