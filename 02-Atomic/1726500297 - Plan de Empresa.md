@@ -45,6 +45,8 @@ El cálculo realizado para calcular el seguro será:
 **En caso de que el estudiante sea de nuevo acceso a la universidad (primer año)**
 + Se utiliza **unicamente la nota de ebau**
 + Se descuenta un máximo del 50%
+
+El precio se calcula resolviendo:
 $$
 \text{Precio} = (\text{PM} * (1-(\frac{\text{NB}}{14}*0.5))
 $$
@@ -53,10 +55,20 @@ Donde:
 + **NB**: (Nota Ebau) Nota de ebau sobre 14
 
 **En caso de que el estudiante no sea de nuevo acceso a la universidad(cualquiera menos el primer año)**
-+ Se utiliza **la nota de ebau y la nota media universitaria**
++ Se utiliza **la nota de ebau,la nota media universitaria y el número de matrícula**
 + Se descontará un máximo del 80% subdividido de la siguiente forma: 
 	+ 50% Dependiente de la nota media universitaria 
 	+ 30% Dependiente de la nota de ebau
++ Se subirá el precio un 10% sobre el precio calculado por cada matrícula extra: 
+  > Entonces para la segunda matrícula se sube un 10%, para la tercera un 20
+
+El precio se calcula resolviendo:
+$$
+\text{Precio} = (\text{PM} * )
+$$
+$$
+\text{FactorEbau} = (1-(\frac{\text{NB}}{14}*0.5)
+$$
 
 
 Se ha de tener en cuenta que: 
@@ -67,7 +79,7 @@ $$
 $$
 
 ## 3. Definición de la empresa
-### 3.1 Forma económica y jurídica
+### 3.1 Forma jurídica y económica 
 La empresa propuesta es **Try Again Seguros**. Una aseguradora para matrículas universitarias. 
 > “Paga una vez, inténtalo dos veces”
 
@@ -80,7 +92,10 @@ Por último, la empresa se creará como  sociedad de capitales, una **sociedad d
 Se elegirá esta forma debido a que:
 + ==El capital desembolsado incialmente será de X==  → @Tomas
 + Al elegir esta forma jurídica la empresa se beneficia de que los socios puedan realizar prestaciones accesorias como trabajo [^3]
-
+### 3.2 Objetivos de la empresa: 
+Los objetivos de la empresa serán:
+1. **Maximizar el valor de la empresa**
+2. **Proporcionar seguridad económica a los estudiantes universitarios**
 
 
 ***
