@@ -7541,6 +7541,7 @@ memoryless
 mantiene
 multiedges
 modelando
+muestra
 en
 ease
 es
@@ -11514,6 +11515,7 @@ prevents
 parenthesis
 pseudoc
 pseudograph
+probando
 lineal
 la
 lo
@@ -16846,6 +16848,7 @@ razon
 represents
 remove
 reflect
+reprsenta
 References
 Resoluci
 Rectas
