@@ -5711,6 +5711,8 @@ duda
 dirigido
 desembolsado
 descuenta
+destacando
+darse
 modelos
 modelo
 maximizar
@@ -9542,6 +9544,9 @@ escrib
 estudiantes
 ebau
 estudiente
+elegidos
+especifico
+elegida
 programaci
 primer
 paso
@@ -20702,6 +20707,8 @@ culas
 conocida
 contratar
 contratando
+cinco
+convirti
 sr
 se
 subproblemas
@@ -29362,6 +29369,7 @@ Examples
 Eulerian
 Edge
 Ebau
+Elija
 vital
 variables
 vez
@@ -32531,6 +32539,7 @@ nonempty
 ntalo
 nacional
 numerada
+naci
 Identificar
 Intro
 Identificaci
@@ -34149,6 +34158,8 @@ Incrementar
 Implementing
 Isomorphic
 Inventar
+Indique
+Indicar
 Definir
 Din
 Design
@@ -35826,6 +35837,7 @@ Depth
 Describir
 Descripci
 Dependiente
+Destacar
 funci
 fibonacci
 fica

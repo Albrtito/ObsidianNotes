@@ -1,21 +1,24 @@
 ---
 aliases:
   - Practica - Plan de Empresa - 1.Inventar una empresa
+  - Inventar una empresa
 tags:
-  - incomplete
+  - Empresa
 References: 
 cssclasses:
 ---
 #  Plan de Empresa - 1. Inventar una empresa
 
-## 1. Inventar una empresa:
-
 > [!NOTE] Requisito: 
 > Describir el campo de actividad de la empresa (producto o servicio). 
 > 
 
+## 1. Inventar una empresa:
+
 ### 1.1 Descripción del servicio
 El campo de actividad de la empresa propuesta se encuentra dentro del mercado de seguros. La empresa **ofrece un seguro de matrícula para estudiantes universitarios**[^4]
+
+La empresa se creará en un único mercado y nación, convirtiéndola en una **empresa nacional de monomercado**
 ### 1.2 Qué es un seguro de matrícula?
 Un seguro de matrícula es un servicio ofrecido por la empresa dirigido a estudiantes universitarios. 
 
@@ -76,3 +79,4 @@ Se ha de tener en cuenta que:
 
 
 ***
+[^4]: Aquí habría que añadir los gráficos creados. 
