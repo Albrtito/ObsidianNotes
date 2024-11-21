@@ -80,8 +80,13 @@ $$
 
 Se ha de tener en cuenta que: 
 + El cómputo se hace contra el precio de la siguiente matrícula. 
-+ Se asume que las matrículas duplican su precio por año 
-$$
++ Para realizar los cálculos de este plan de empresa se asumirá que
+	+ **El valor de PM para una primera matrícula es de 100$**
+	+ **El valor de PM para otras matrículas será**
+	$$
+	 \text{PM}_i = \text{NM} * 100
+	$$
+		+ Cada año aumenta 100$
 
 $$
 
