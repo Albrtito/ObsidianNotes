@@ -7,8 +7,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-22
-sr-interval: 3
+sr-due: 2024-12-01
+sr-interval: 9
 sr-ease: 268
 ---
 # Router packet scheduling methods

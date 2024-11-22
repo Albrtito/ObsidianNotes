@@ -7,8 +7,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-22
-sr-interval: 3
+sr-due: 2024-11-28
+sr-interval: 6
 sr-ease: 250
 ---
 # IPv4 protocol
@@ -41,7 +41,9 @@ $$
 + **All interfaces must have an UNIQUE address** (See [[1731411013 - Network Address Translation (NAT)|NAT]]s for exceptions)
 + IP Networks where each host has its own IP address are called [[1730827988 - Subnets|Subnets]].
 + Addresses are written in their generalised [[1730832772 - CIDR Notation|CIDR]] notation.
-+ A **broadcast address** is stablished as the $255.255.255.255$. If a host uses this address to send information, all host connected to the network (and set to accept it) will get the info.
++ A **broadcast address** is stablished as the $255.255.255.255$ .If a host uses this address to send information, all host connected to the network (and set to accept it) will get the info.
+	+ **NOTE:** The broadcast address of each subnet can vary based on the range that that subnet takes. The broadcast address is **stablished as the last possible connection of the subnet**
+	  > If a net goes from the 111.192.10.2 to - 111.192.10.24 the broadcast address will be 111.192.10.24
 
 ## Distributing addresses:
 
@@ -67,6 +69,10 @@ $$
 > [!check] Solution: 
 > The solution is to introduce the [[1731411013 - Network Address Translation (NAT)|NAT]] (Network Address Translation) routers. This routers translate from public to local addresses. 
 
+There are som **set addresses saved allways for SOHO subnets**, these address groupps are: 
++ `192.168.0.0/16`
++ `172.16.0.0/16`
++ `10.0.0.0/8` 
 
 
 
