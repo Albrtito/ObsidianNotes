@@ -81,23 +81,42 @@ Se ha de tener en cuenta que:
 Si se realizase el cálculo de los ingresos con datos para cada asegurado podríamos obtener exactamente los ingresos generados.
 Para el cómputo de indicadores como el punto muerto se complicaría inmensamente el cálculo, debido a esto se ha decidido estandarizar los ingresos generados para un número n de seguros. 
 
-Para estandarizar los ingresos generados por un número n de seguros utilizamos los siguientes datos, tomando como referencia la escuela politécnica de la UC3M.
+Realizaremos la estandarización en dos pasos.
+1. Primero se obtendrán los beneficios calculados antes del pago de matrículas aseguradas 
+2. A continuación se analizará el porcentaje de matrículas que el seguro deberá de pagar (en caso de que el estudiante asegurado suspendiese la asignatura) y el coste que ello supodría. 
+
+**NOTA:** 
++ Para estos cálculos asumimos que el precio de la primera matrícula es de 100 y se duplica posteriormente por matrícula
+##### Ingresoss generados antes del pago de matrículas:
+Para estandarizar los ingresos generados por un número n de seguros antes del pago de matrículas utilizamos los siguientes datos, tomando como referencia la escuela politécnica de la UC3M.
 
 + **Nota media de EBAU de los estudiantes**: *12.285* [^5]
 + **Nota media universitaria de los estudiantes (aprox):** [^6] *6.5*
 
 Utilizando estos datos podemos calcular el **ingreso generado antes de pagos de matrícula** por los seguros. (Ingreso si ningún estudiante asegurado suspendieses su asignatura) 
 
-Asumimos que se ofrecerán la mitad de los seguros para primeras 
+Asumimos que se ofrecerán la mitad de los seguros para primeras matrículas y la otra mitad para matrículas posteriores. 
 
-En vez de dividir los n seguros generados entre aquellos que pertenecen a primera matricula de los que no (puesto a que conllevarían cálculos distintos) aproximamos un porcentaje del 50%, 50%.
-De esta forma se asume que, la mitad de los seguros serán para asignaturas en primera matrícula mientras que el resto serán para matrículas superiores. 
-No obstante, el cálculo del seguro para matrículas segundas/terceras/cuartas/… depende también del número de matrícula. Para real
+No obstante, el cálculo del seguro para matrículas segundas/terceras/cuartas/… depende también del número de matrícula. Para estandarizarlo dividimos el 50% de la siguiente forma: 
++ 25% : Segundas matrículas 
++ 20% : Terceras matrículas 
++ 5% : Cuartas matrículas
 
-  
+Finalmente podemos obtener los ingresos generados antes del pago de matrículas por un número n de seguros : 
 $$
-
+\text{Ingresos} = (0.5n*\text{IP}) + (0.25n * \text{IS}) + (0.2*\text{IT})+ (0.2*\text{IC})
 $$
+Donde: 
++ **IP:** Ingreso por **un seguro de Primera matrícula**
+$$
+IP  = 100 * (1 - (\frac{\text{12.285}}{14})*0.5)
+$$
++ **IS:** Ingreso por **un seguro de Segunda Matrícula**
+$$
+IS = (\text{100} * ( 1-\text{FE} + \text{FU})) +( 10)
+$$
+	Donde calculamos el FE (Factor Ebau) y FU(Factor uni) de la forma ya comentada en los cálculos del seguro obteniendo: 
+	+ 
 ***
 [^4]: Aquí habría que añadir los gráficos creados. 
 [^5]: https://www.uc3m.es/conocenos/nuestros-estudiantes
