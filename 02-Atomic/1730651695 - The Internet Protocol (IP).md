@@ -7,9 +7,9 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-22
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-12-03
+sr-interval: 11
+sr-ease: 270
 ---
 # The Internet Protocol (IP)
 There are two versions of IP in use today, [[1730826735 - Protocol - IPv4 protocol|IPv4 protocol]] and **IPv6**. 

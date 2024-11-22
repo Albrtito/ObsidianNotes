@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-11-22
-sr-interval: 6
+sr-due: 2024-12-02
+sr-interval: 10
 sr-ease: 170
 ---
 # Sistemas de produccion flexibles
@@ -24,8 +24,8 @@ Esto conlleva las siguientes características:
 
 + **Volumen**: Medio-Bajo
 + **Variabilidad**: alta
-+ **Cualificación**: Alta y ==Polivalente==, se necesita del trabajo en equipo
-+ ==**Maquinaria:** De uso general== 
++ **Cualificación**: Alta y Polivalente, se necesita del trabajo en equipo
++ **Maquinaria:** De uso general 
 + **Costes variables:** Altos 
 
 
@@ -38,8 +38,8 @@ La disposición en planta agrupa zonas en las que esta toda la maquinaria necesa
 
 **PROS:**
 + Se utilizan mucho las máquinas
-+ Se sustituyen facilmente las máquinas
-+ Supervisión mutua entre operarios.
++ ==Se sustituyen facilmente las máquinas==
++ ==Supervisión mutua entre operarios.==
 
 **CONS:**
 + Distancia entre funciones
