@@ -121,11 +121,14 @@ Finalmente podemos obtener los ingresos generados antes del pago de matrículas 
 $$
 \text{Ingresos} = (0.5n*\text{IP}) + (0.25n * \text{IS}) + (0.2*\text{IT})+ (0.2*\text{IC})
 $$
-Donde: 
+**Donde**: 
+Tenemos en cuenta los descuentos de la siguiente forma:
 + **DE:** El descuento ebau, utilizando la nota media(12.285) de EBAU toma un valor de 
   → $DE = (0.13*200) = 26$ : En caso de ser una primera matrícula
   →  $DE= (0.0.78*PM)$ : En caso de ser una matrícula posterior a la primera
 + **DU:** El descuento uni, utilizando la nota media (6.5) toma un valor de →  $DU = (0.325*PM)$
+  
+Calculamos los ingresos para cada tipo de matrícula:
 + **IP:** Ingreso por **un seguro de Primera matrícula** donde: 
 	+ $DE = 26$
 	
@@ -144,9 +147,34 @@ $$
 	+ $DU =0.325*400= 130$
 	+ $PE = 400 * 0.1 = 40$
 $$
-IS = 400 - 31.2 - 130 + 40 =  278
+IS = 400 - 31.2 - 130 + 40 =  278.8
 $$
+  
++ **IC:** Ingreso por **un seguro de cuarta matrícula** donde:
+	+ $DE = 0.078 * 500 = 39$
+	+ $DU =0.325*500= 162,5$
+	+ $PE = 500 * 0.1 = 50$
+$$
+IS = 500-39-162,5+50 = 348,5
+$$
+
+Obtenemos entonces el **cálculo final de los ingresos como:** 
+$$
+\text{Ingresos} = (0.5n*174) + (0.25n * 209.1) + (0.2n*278.8)+ (0.05n*348.5)
+$$
+Que se puede simplificar a: 
+$$
+Ingresos = 
+$$
++ Observamos que,por ejemplo, por un número de seguros igual a 100 se obtendrá un beneficio de: [^7]
+$$
+Ingresos_{100} = 21 246
+$$
+
+##### Perdidas estimadas: 
+
 ***
 [^4]: Aquí habría que añadir los gráficos creados. 
 [^5]: https://www.uc3m.es/conocenos/nuestros-estudiantes
 [^6]: Este dato no lo da la UC3M así que se obtiene un número aproximado, generado por los autores del plan de empresa. 
+[^7]: #Duda Todas las funciones y programas utilizados merece la pena añadirlos al plan de emrpesa de alguna forma? Se calificarían?
