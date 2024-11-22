@@ -72,7 +72,7 @@ $$
 	+ **DE:** (Descuento Ebau) Se calcula igual que en el primer caso solo que con un porcentaje del 30%
 		
 $$
-DE =  (\frac{\text{NB}}{14})*0.5*PM
+DE =  (\frac{\text{NB}}{14})*0.3*PM
 $$
 	+ **DN:** (Descuento Nota) Calculado como
 	  $$
@@ -122,19 +122,30 @@ $$
 \text{Ingresos} = (0.5n*\text{IP}) + (0.25n * \text{IS}) + (0.2*\text{IT})+ (0.2*\text{IC})
 $$
 Donde: 
-+ **DE:** El descuento ebau, utilizando la nota media(12.285) de EBAU toma un valor de →  $DE= (0.13*PM)$
-+ **DU:** El descuento uni, utilizando la nota media (6.5) toma un valor de $DU = (0.325)
-+ ****
-+ **IP:** Ingreso por **un seguro de Primera matrícula**
++ **DE:** El descuento ebau, utilizando la nota media(12.285) de EBAU toma un valor de 
+  → $DE = (0.13*200) = 26$ : En caso de ser una primera matrícula
+  →  $DE= (0.0.78*PM)$ : En caso de ser una matrícula posterior a la primera
++ **DU:** El descuento uni, utilizando la nota media (6.5) toma un valor de →  $DU = (0.325*PM)$
++ **IP:** Ingreso por **un seguro de Primera matrícula** donde: 
+	+ $DE = 26$
+	
 $$
-IP  = 100 * (1 - (\frac{\text{12.285}}{14})*0.5) = 56.125
+IP  = 200 - 26 = 174
 $$
-+ **IS:** Ingreso por **un seguro de Segunda Matrícula**
++ **IS:** Ingreso por **un seguro de Segunda Matrícula** donde:
+	+ $DE = 0.078 * 300 = 23.4$
+	+ $DU =0.325*300 =  97.5$
+	+ $PE = 300 * 0.1 = 30$
 $$
-IS = (\text{100} * ( 1-\text{0.26} + \text{0.325})) +( 10)
+IS = 300 - 23.4 - 97.5 + 30 = 209.1
 $$
-	Donde calculamos el 0.26(Factor Ebau) y 0.325(Factor uni) de la forma ya comentada en los cálculos del seguro. 
-
++ **IT:** Ingreso por **un seguro de tercera matrícula** donde:
+	+ $DE = 0.078 * 400 = 31.2$
+	+ $DU =0.325*400= 130$
+	+ $PE = 400 * 0.1 = 40$
+$$
+IS = 400 - 31.2 - 130 + 40 =  278
+$$
 ***
 [^4]: Aquí habría que añadir los gráficos creados. 
 [^5]: https://www.uc3m.es/conocenos/nuestros-estudiantes
