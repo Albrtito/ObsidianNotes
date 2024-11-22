@@ -4,125 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "cfc607d3325fb0fa",
+        "id": "e7b68473099de705",
         "type": "tabs",
-        "dimension": 72.21570926143025,
         "children": [
           {
-            "id": "c1dbd3daf5d3e670",
+            "id": "1d408abc3d02d974",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726500297 - Plan de Empresa.md",
+                "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726500297 - Plan de Empresa"
-            }
-          },
-          {
-            "id": "0053b91f7de10121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa"
-            }
-          },
-          {
-            "id": "77006f10992dd9b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732217706 - Practica - Plan de Empresa - 2.Analisis del sector"
-            }
-          },
-          {
-            "id": "3416a40cdbaa2777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732217814 - Practica - Plan de Empresa - 3.Definir la empresa"
+              "title": "1729084911 - Dualidad en programacion lineal"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "3fba0475cebb59d0",
-        "type": "tabs",
-        "dimension": 27.78429073856976,
-        "children": [
-          {
-            "id": "6ffae813ee33884c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726067427 - Tipos de empresas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726067427 - Tipos de empresas"
-            }
-          },
-          {
-            "id": "b8fe88a75e2b26ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726067427 - Tipos de empresas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726067427 - Tipos de empresas"
-            }
-          },
-          {
-            "id": "ae86661c36fc6637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726241677 - Definition - Empresas sociales.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726241677 - Definition - Empresas sociales"
-            }
-          }
-        ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -141,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1731436877 - El plan de marketing.md",
+                "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +53,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "tag:#incomplete  ",
@@ -217,16 +118,43 @@
                   "nodeSizeMultiplier": 2.79537653688525,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.0242737249838606,
-                  "repelStrength": 15.3311814073596,
+                  "centerStrength": 0.10925799863853,
+                  "repelStrength": 16.3036078965283,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.07043488449702007,
+                  "scale": 0.08943851297751801,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1731436877 - El plan de marketing"
+              "title": "Graph of 1729084911 - Dualidad en programacion lineal"
+            }
+          },
+          {
+            "id": "fc17a30e900d6f8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5277caa8de0cf553",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -241,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1731436877 - El plan de marketing.md"
+                "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1731436877 - El plan de marketing"
+              "title": "Outline of 1729084911 - Dualidad en programacion lineal"
             }
           },
           {
@@ -263,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -276,21 +203,71 @@
         "dimension": 63.45609065155807,
         "children": [
           {
-            "id": "2dca472e18c0e06a",
+            "id": "90205c8666b47457",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "b25603422e8df2b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
               "state": {
-                "file": "01-Areas/1.UC3M/Empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-file",
-              "title": "Empresa"
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2eeeae8e11e21776",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3ed0f2b8fe586a60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "25035ac93f5900cb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -311,8 +288,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -329,8 +305,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0053b91f7de10121",
+  "active": "1d408abc3d02d974",
   "lastOpenFiles": [
+    "02-Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
+    "02-Atomic/20240615 - 195347 - Differentiability.md",
+    "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
+    "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
     "02-Atomic/1726500297 - Plan de Empresa.md",
     "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
     "01-Areas/1.UC3M/Empresa.md",
@@ -353,10 +333,6 @@
     "02-Atomic/1728935952 - Sistema de produccion por proyectos.md",
     "02-Atomic/1730651054 - Router packet scheduling methods.md",
     "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md",
-    "02-Atomic/1728936361 - Sistemas de produccion flexibles.md",
-    "02-Atomic/1725918135 - Teoría económica de la empresa.md",
-    "99-Meta/2. Scripts/Dudas/Dudas-Empresa.md",
-    "02-Atomic/1730651695 - The Internet Protocol (IP).md",
     "99-Meta/2. Scripts/buscar_dudas.py",
     "99-Meta/2. Scripts/Dudas",
     "99-Meta/2. Scripts/dudas_2.py~",

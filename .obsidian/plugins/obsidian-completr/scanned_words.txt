@@ -1971,6 +1971,7 @@ aseguradores
 argumentemos
 asuminedo
 accesorias
+avoidable
 Creaci
 Crear
 Cuando
@@ -3771,6 +3772,9 @@ Compruebo
 Creates
 Complementary
 Computo
+Corner
+Continuity
+Cauchy
 de
 due
 dar
@@ -5714,6 +5718,10 @@ descuenta
 destacando
 darse
 determinant
+differentiated
+derivation
+derivates
+discontinuity
 modelos
 modelo
 maximizar
@@ -11549,6 +11557,7 @@ pie
 puedan
 prestaciones
 protocolo
+parallel
 lineal
 la
 lo
@@ -15040,6 +15049,8 @@ traversals
 traversal
 treat
 trying
+trigonometric
+tangent
 review
 resolver
 realizar
@@ -18526,6 +18537,7 @@ Realice
 Realizo
 Removes
 Requisito
+Relations
 cssclasses
 correcto
 correcta
@@ -20719,6 +20731,7 @@ convirti
 cancel
 canceled
 coefficient
+capacity
 sr
 se
 subproblemas
@@ -32562,6 +32575,7 @@ nacional
 numerada
 naci
 normally
+notations
 Identificar
 Intro
 Identificaci
@@ -35860,6 +35874,11 @@ Describir
 Descripci
 Dependiente
 Destacar
+Derivative
+Differentiability
+Derivatives
+Differentiable
+Derivation
 funci
 fibonacci
 fica
@@ -53583,6 +53602,7 @@ Bool
 Balanced
 Bipartite
 Breath
+BUT
 Steven
 Skiena
 Serie
@@ -55297,6 +55317,7 @@ Simple
 Sparse
 Seguros
 Solutions
+Side
 Manual
 Modelar
 Millones
@@ -56983,6 +57004,7 @@ Multigraph
 Mutualidad
 Matr
 Multiply
+Mean
 Zivkovic
 Zo
 Zi
@@ -60034,6 +60056,7 @@ LIFO
 Lots
 Like
 Less
+Leibniz
 bottom
 base
 brik
@@ -72378,6 +72401,7 @@ Generamos
 Graph
 Graphs
 GET
+Graphically
 Nota
 Novo
 Nacional
@@ -74013,6 +74037,7 @@ NGT
 NDJu
 Ncd
 Nunca
+Newton
 Xr
 XObject
 Xw
@@ -77003,6 +77028,7 @@ yVl
 yss
 yHw
 ySh
+yes
 JFIF
 Jn
 Jg
