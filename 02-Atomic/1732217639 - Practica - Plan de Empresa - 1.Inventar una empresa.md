@@ -77,6 +77,19 @@ Se ha de tener en cuenta que:
 	$$
 		+ Cada año aumenta 100$
 
+#### Estandarización de los ingresos: 
+Para estandarizar los ingresos generados por un número n de seguros utilizamos los siguientes datos: 
++ **Nota media de EBAU**: *12.285* [^5]
++ **Nota media universitaria:** [^6] *6.5*
 
+Con estos datos podemos dividir un número n de seguros en dos grupos: 
+
+1. **Seguros de primera matrícula:**  
+   Este tipo de seguros proporcionar
+$$
+
+$$
 ***
 [^4]: Aquí habría que añadir los gráficos creados. 
+[^5]: https://www.uc3m.es/conocenos/nuestros-estudiantes
+[^6]: Este dato no lo da la UC3M así que se obtiene un número aproximado, generado por los autores del plan de empresa. 
