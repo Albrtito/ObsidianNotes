@@ -109,14 +109,14 @@ $$
 Donde: 
 + **IP:** Ingreso por **un seguro de Primera matrícula**
 $$
-IP  = 100 * (1 - (\frac{\text{12.285}}{14})*0.5)
+IP  = 100 * (1 - (\frac{\text{12.285}}{14})*0.5) = 56.125
 $$
 + **IS:** Ingreso por **un seguro de Segunda Matrícula**
 $$
-IS = (\text{100} * ( 1-\text{FE} + \text{FU})) +( 10)
+IS = (\text{100} * ( 1-\text{0.26} + \text{0.325})) +( 10)
 $$
-	Donde calculamos el FE (Factor Ebau) y FU(Factor uni) de la forma ya comentada en los cálculos del seguro obteniendo: 
-	+ 
+	Donde calculamos el 0.26(Factor Ebau) y 0.325(Factor uni) de la forma ya comentada en los cálculos del seguro. 
+
 ***
 [^4]: Aquí habría que añadir los gráficos creados. 
 [^5]: https://www.uc3m.es/conocenos/nuestros-estudiantes
