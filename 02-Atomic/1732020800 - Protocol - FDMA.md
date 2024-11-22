@@ -8,9 +8,9 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-22
-sr-interval: 3
-sr-ease: 268
+sr-due: 2024-12-02
+sr-interval: 10
+sr-ease: 288
 ---
 # Protocol - FDMA
 

@@ -1,16 +1,16 @@
 ---
 aliases:
-  - Estrategia de glovalización
+  - Estrategia de globalización
 tags:
   - review
   - Empresa
 References: 
-cssclasses:
-sr-due: 2024-11-22
-sr-interval: 39
-sr-ease: 270
+cssclasses: 
+sr-due: 2024-12-14
+sr-interval: 22
+sr-ease: 250
 ---
-# Estrategia de glovalización
+# Estrategia de globalización
 
 > [!NOTE] Definition: 
 > El fenómeno de apertura de las economías y fronteras para las empresas. 

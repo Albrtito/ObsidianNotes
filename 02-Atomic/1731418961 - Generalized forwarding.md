@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-22
-sr-interval: 3
+sr-due: 2024-11-28
+sr-interval: 6
 sr-ease: 250
 ---
 # Generalized forwarding
