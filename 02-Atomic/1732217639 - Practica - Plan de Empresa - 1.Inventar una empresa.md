@@ -36,10 +36,15 @@ El cálculo realizado para calcular el seguro será:
 
 El precio se calcula resolviendo:
 $$
-\text{Precio} = \text{PM} * (1 - (\frac{\text{NB}}{14})*0.5)
+\text{Precio} = \text{PM} - DE
 $$
 Donde: 
+
 + **PM**: (Precio Matrícula) Es el precio de la siguiente (segunda)matrícula de la asignatura. 
++ **DE:** (Descuento Ebau) Es el precio que se descuenta debido a la nota de ebau
+$$
+DE =  (\frac{\text{NB}}{14})*0.5*PM
+$$
 + **NB**: (Nota Ebau) Nota de ebau sobre 14
 
 **En caso de que el estudiante no sea de nuevo acceso a la universidad(cualquiera menos el primer año)**
@@ -47,14 +52,21 @@ Donde:
 + Se descontará un máximo del 80% subdividido de la siguiente forma: 
 	+ 50% Dependiente de la nota media universitaria 
 	+ 30% Dependiente de la nota de ebau
-+ Se subirá el precio un 10% sobre el precio calculado por cada matrícula extra: 
++ Se subirá el precio un 10% sobre el precio de la matrícula por cada matrícula extra: 
   > Entonces para la segunda matrícula se sube un 10%, para la tercera un 20%…
 
 El precio se calcula resolviendo:
 $$
-\text{Precio} = (\text{PM} * ( 1-\text{FE} + \text{FU})) +( PM * (0.1 * (NM - 1)))
+\text{Precio} = PM - DT + PE 
 $$
 Donde:
++ **PM:** (Precio matrícula)
++ **DT:** Descuento total, calculado como: 
+$$
+DT = \text{DE} + \text{DN}
+$$
+	Donde: 
+	+ **DE:** (Descuento Ebau) Se calcula igual que 
 + **NB:** (Nota Ebau) Nota de ebau sobre 14
 + **NM:** (Número matrícula) Con rango empezando en 1
 + **NU:**( Nota Universidad) Nota media de la universidad sobre 10
