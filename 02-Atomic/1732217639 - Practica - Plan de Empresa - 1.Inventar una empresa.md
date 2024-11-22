@@ -61,24 +61,27 @@ $$
 $$
 Donde:
 + **PM:** (Precio matrícula)
++ **NB:** (Nota Ebau) Nota de ebau sobre 14
++ **NU:**( Nota Universidad) Nota media de la universidad sobre 10
++ **NM:** (Número matrícula) Con rango empezando en 1
 + **DT:** Descuento total, calculado como: 
 $$
 DT = \text{DE} + \text{DN}
 $$
 	Donde: 
-	+ **DE:** (Descuento Ebau) Se calcula igual que 
-+ **NB:** (Nota Ebau) Nota de ebau sobre 14
-+ **NM:** (Número matrícula) Con rango empezando en 1
-+ **NU:**( Nota Universidad) Nota media de la universidad sobre 10
-+ **FE:** (Factor Ebau) Se calcula resolviendo:
+	+ **DE:** (Descuento Ebau) Se calcula igual que en el primer caso solo que con un porcentaje del 30%
+		
 $$
-\text{FactorEbau} = (\frac{\text{NB}}{14}*0.3)
+DE =  (\frac{\text{NB}}{14})*0.5*PM
 $$
-+ **FU:** (Factor Uni) Se calcula resolviendo
+	+ **DN:** (Descuento Nota) Calculado como
+	  $$
+	  DN = \frac{NU}{10} * 0.5 * PM
+	  $$
++ **PE:** (Precio Extra) Se calcula el porcentaje extra por matrícula: 
 $$
-\text{FactorUni} = (\frac{\text{NU}}{10}*0.5)
-$$
-
+PE = PM *0.1 * (NM-1)
+$$ 
 Se ha de tener en cuenta que: 
 + El cómputo se hace contra el precio de la siguiente matrícula. 
 + Para realizar los cálculos de este plan de empresa se asumirá que
@@ -119,6 +122,9 @@ $$
 \text{Ingresos} = (0.5n*\text{IP}) + (0.25n * \text{IS}) + (0.2*\text{IT})+ (0.2*\text{IC})
 $$
 Donde: 
++ **DE:** El descuento ebau, utilizando la nota media(12.285) de EBAU toma un valor de →  $DE= (0.13*PM)$
++ **DU:** El descuento uni, utilizando la nota media (6.5) toma un valor de $DU = (0.325)
++ ****
 + **IP:** Ingreso por **un seguro de Primera matrícula**
 $$
 IP  = 100 * (1 - (\frac{\text{12.285}}{14})*0.5) = 56.125
