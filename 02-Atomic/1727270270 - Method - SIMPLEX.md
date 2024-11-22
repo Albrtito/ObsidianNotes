@@ -7,7 +7,7 @@ tags:
   - review
 References: 
 cssclasses: 
-sr-due: 2024-11-22
+sr-due: 2024-11-23
 sr-interval: 1
 sr-ease: 130
 ---
@@ -56,9 +56,6 @@ Las nomenglatura básica del simplesx, para no perderse entre tanto vector, matr
   
 + **$C_{B_i}$ → Vector**: Vector de coeficientes reducido, solo tendrá aquellos coeficientes de las variables que componen la base $B_i$.
 	+ $C_B^T$ → **Vector:** Este mismo vector pero transpuesto
-+ **b → Vector:** Vector de recursos. 
-+ **$x^*$ → Vector:** Solució factible del problema
-
 ***
 ## Pasos:
 
@@ -94,10 +91,11 @@ Una vez tenemos **el problema en [[1727270366 - Forma estandar|Forma estandar]]*
 
 4. **Regla de salida:** En este paso calculamos que variable de las que están en la base tiene que salir para que la variable que encontramos en el paso 2 entre. Saldrá la variable que cumpla: 
    $$ \min\{\frac{x_{i}}{y_{ji'}}\} \forall i \in B$$
+#Duda: Pq importa el orden de las variables $x_i$ → Esto es lo quee significa coger la variables i’ verdad?
    + Aquí $y_{ji}$ se refiere a la posición i (incrementando empezando en 1, por eso lleva la prima) del vector $y_j$ calculado en el paso 2
    + $x_i$ será el valor de la incognita para la solución factible propuesta en esta iteración.
 
-	**IR AL PASO 1:**
+**IR AL PASO 1:**
     + Decidida cual es la variable de entrada(paso 2) y cual es la de salida (paso 3) se vuelve al paso 1 con la nueva base. 
       **Recomendación:** En la nueva base poner las variables en orden según su i.
 

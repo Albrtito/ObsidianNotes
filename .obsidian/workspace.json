@@ -4,125 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "cfc607d3325fb0fa",
+        "id": "f0d85cf60ea87bba",
         "type": "tabs",
-        "dimension": 72.21570926143025,
         "children": [
           {
-            "id": "c1dbd3daf5d3e670",
+            "id": "0a87a0c171e3047a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726500297 - Plan de Empresa.md",
+                "file": "02-Atomic/1730650392 - Types of switching fabrics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726500297 - Plan de Empresa"
+              "title": "1730650392 - Types of switching fabrics"
             }
           },
           {
-            "id": "0053b91f7de10121",
+            "id": "131127352b2ce9c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
+                "file": "02-Atomic/Order 2 linear ODE's.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa"
-            }
-          },
-          {
-            "id": "77006f10992dd9b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732217706 - Practica - Plan de Empresa - 2.Analisis del sector"
-            }
-          },
-          {
-            "id": "3416a40cdbaa2777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732217814 - Practica - Plan de Empresa - 3.Definir la empresa"
+              "title": "Order 2 linear ODE's"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "3fba0475cebb59d0",
-        "type": "tabs",
-        "dimension": 27.784290738569755,
-        "children": [
-          {
-            "id": "6ffae813ee33884c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726067427 - Tipos de empresas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726067427 - Tipos de empresas"
-            }
-          },
-          {
-            "id": "b8fe88a75e2b26ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726067427 - Tipos de empresas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726067427 - Tipos de empresas"
-            }
-          },
-          {
-            "id": "ae86661c36fc6637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726241677 - Definition - Empresas sociales.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726241677 - Definition - Empresas sociales"
-            }
-          }
-        ],
-        "currentTab": 2
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -141,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1731436877 - El plan de marketing.md",
+                "file": "02-Atomic/Order 2 linear ODE's.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +69,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "tag:#incomplete  ",
@@ -217,16 +134,43 @@
                   "nodeSizeMultiplier": 2.79537653688525,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.0242737249838606,
-                  "repelStrength": 15.3311814073596,
+                  "centerStrength": 0.10925799863853,
+                  "repelStrength": 16.3036078965283,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.07043488449702007,
+                  "scale": 0.08943851297751801,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1731436877 - El plan de marketing"
+              "title": "Graph of Order 2 linear ODE's"
+            }
+          },
+          {
+            "id": "fc17a30e900d6f8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5277caa8de0cf553",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -241,10 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1731436877 - El plan de marketing.md"
+                "file": "02-Atomic/Order 2 linear ODE's.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1731436877 - El plan de marketing"
+              "title": "Outline of Order 2 linear ODE's"
             }
           },
           {
@@ -259,12 +203,12 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -276,21 +220,71 @@
         "dimension": 63.45609065155807,
         "children": [
           {
-            "id": "2dca472e18c0e06a",
+            "id": "90205c8666b47457",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "b25603422e8df2b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
               "state": {
-                "file": "01-Areas/1.UC3M/Empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-file",
-              "title": "Empresa"
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2eeeae8e11e21776",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3ed0f2b8fe586a60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "25035ac93f5900cb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -311,8 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -329,49 +322,49 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "77006f10992dd9b2",
+  "active": "131127352b2ce9c2",
   "lastOpenFiles": [
-    "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
-    "02-Atomic/1726500297 - Plan de Empresa.md",
-    "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
-    "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
-    "02-Atomic/1726241677 - Definition - Empresas sociales.md",
-    "02-Atomic/1728935315 - Tipos de sistemas productivos de la empresa.md",
-    "02-Atomic/1728921778 - La funcion de produccion de la empresa.md",
-    "02-Atomic/1728936738 - Sistemas de produccion en masa.md",
-    "02-Atomic/1726067427 - Tipos de empresas.md",
-    "02-Atomic/1727112501 - Practica - Análisis MAPFRE.md",
-    "01-Areas/1.UC3M/Empresa.md",
-    "02-Atomic/1727105227 - Modelos de negocio de la empresa.md",
-    "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
-    "02-Atomic/1731438501 - Marketing operativo.md",
-    "02-Atomic/1731438416 - Marketing estratégico.md",
-    "02-Atomic/1731435991 - Gestion comercial y marketing en la empresa.md",
-    "02-Atomic/1731436877 - El plan de marketing.md",
-    "02-Atomic/1732193365 - Algoritmos de busqueda.md",
-    "02-Atomic/1731507784 - Modelado de un espacio de estados.md",
+    "99-Meta/2. Scripts/Dudas/Dudas-Discrete.md",
+    "02-Atomic/1730650392 - Types of switching fabrics.md",
+    "99-Meta/2. Scripts/output.txt",
+    "99-Meta/2. Scripts/Dudas/Dudas-FilesAndDB.md",
+    "99-Meta/2. Scripts/Dudas/Dudas-Modelo.md",
+    "99-Meta/2. Scripts/Dudas/Dudas-TCP.md",
+    "99-Meta/2. Scripts/Dudas/Dudas-define.md",
+    "99-Meta/2. Scripts/Dudas/Dudas-include.md",
+    "99-Meta/2. Scripts/Dudas",
+    "99-Meta/2. Scripts/output/Dudas-FilesAndDB.md",
+    "99-Meta/2. Scripts/output/Dudas-Discrete.md",
+    "99-Meta/2. Scripts/output/Dudas-TCP.md",
+    "99-Meta/2. Scripts/output/Dudas-Modelo.md",
+    "99-Meta/2. Scripts/output/Dudas-define.md",
+    "99-Meta/2. Scripts/output/Dudas-include.md",
+    "99-Meta/2. Scripts/output",
+    "99-Meta/2.Scripts/output/Dudas-include.md",
+    "99-Meta/2.Scripts/output/Dudas-FilesAndDB.md",
+    "99-Meta/2.Scripts/output/Dudas-Modelo.md",
+    "99-Meta/2.Scripts/output/Dudas-define.md",
+    "99-Meta/2.Scripts/output/Dudas-Discrete.md",
+    "99-Meta/2.Scripts/output/Dudas-TCP.md",
+    "99-Meta/2.Scripts/output",
+    "99-Meta/2.Scripts",
+    "99-Meta/2. Scripts/ruta/a/tu/vault/de/obsidian/99-Meta/2.Scripts/output",
+    "99-Meta/2. Scripts/ruta/a/tu/vault/de/obsidian/99-Meta/2.Scripts",
+    "99-Meta/2. Scripts/ruta/a/tu/vault/de/obsidian/99-Meta",
+    "99-Meta/2. Scripts/ruta/a/tu/vault/de/obsidian",
+    "99-Meta/2. Scripts/ruta/a/tu/vault/de",
+    "02-Atomic/1727270270 - Method - SIMPLEX.md",
+    "02-Atomic/1730648938 - Input port processing in routers.md",
+    "02-Atomic/1730567078 - The network layer data plane.md",
     "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
-    "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
-    "02-Atomic/1731507348 - Problemas de búsqueda.md",
-    "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md",
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
-    "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
-    "02-Atomic/1731511534 - ADT - Graf.md",
-    "00-References/Net_Biblio_Kurose.pdf",
-    "00-References/Net_Resources_s5_1.pdf",
-    "00-References/Net_Resources_s5_2.pdf",
-    "00-References/Net_Resoureces_s5_1.pdf",
-    "00-References/Net_Resources_s5_3.pdf",
-    "00-References/Net_Resourece_s5_1.pdf",
-    "00-References/S5.2 Presentation.pdf",
-    "00-References/S5.1 Presentation.pdf",
-    "00-References/HyO_Biblio_Marek V. Introduction to mathematics of satisfiability.pdf",
+    "02-Atomic/1731507784 - Modelado de un espacio de estados.md",
+    "02-Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
+    "02-Atomic/1732037327 - Protocol - CSMA-CD.md",
     "99-Meta/0. Attachments/1731438416 - Marketing estratégicoj.png",
     "99-Meta/0. Attachments/1731436877 - El plan de marketingj.png",
     "99-Meta/0. Attachments/1726572508 - The network stackj.png",
     "99-Meta/0. Attachments/1730651695 - The Internet Protocol (IP)j.png",
     "99-Meta/0. Attachments/1731411683 - Procotol - IPv6j.png",
-    "00-References/Logic_Resource_Theorems and Derived Rules Combined.pdf",
     "99-Meta/0. Attachments/1730827988 - Subnetsj.png",
     "99-Meta/0. Attachments/IP Addressing and Routing Schemej-1.png",
     "99-Meta/0. Attachments/IP Addressing and Routing Schemej.png",

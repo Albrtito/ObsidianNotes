@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-22
-sr-interval: 1
+sr-due: 2024-11-24
+sr-interval: 2
 sr-ease: 228
 ---
 # Algorithm - Profundizacion iterativa

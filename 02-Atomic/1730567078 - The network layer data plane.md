@@ -7,8 +7,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-22
-sr-interval: 3
+sr-due: 2024-11-30
+sr-interval: 8
 sr-ease: 269
 ---
 # The network layer data plane

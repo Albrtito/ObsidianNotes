@@ -5713,6 +5713,7 @@ desembolsado
 descuenta
 destacando
 darse
+determinant
 modelos
 modelo
 maximizar
@@ -15036,6 +15037,8 @@ trivial
 transformations
 traversals
 traversal
+treat
+trying
 review
 resolver
 realizar
@@ -16884,6 +16887,9 @@ realizadas
 redactemos
 remarcar
 rango
+replaced
+reasoning
+recursive
 References
 Resoluci
 Rectas
@@ -20709,6 +20715,9 @@ contratar
 contratando
 cinco
 convirti
+cancel
+canceled
+coefficient
 sr
 se
 subproblemas
@@ -22681,6 +22690,9 @@ secci
 suspendiese
 subdividido
 sube
+substituted
+special
+squared
 interval
 importancia
 incorrecto
@@ -24569,6 +24581,9 @@ imaginary
 indifferently
 irst
 incialmente
+invented
+instances
+invalid
 un
 una
 utiliza
@@ -26119,6 +26134,7 @@ under
 unweighted
 universitarias
 universitaria
+unknowns
 hora
 hacemos
 hacia
@@ -27646,6 +27662,7 @@ hKS
 hKh
 hstOf
 hito
+harder
 Es
 Este
 Ejemplos
@@ -29370,6 +29387,7 @@ Eulerian
 Edge
 Ebau
 Elija
+Encontrada
 vital
 variables
 vez
@@ -30967,6 +30985,7 @@ validar
 vectors
 vertices
 valence
+variation
 no
 nuestras
 ndar
@@ -32540,6 +32559,7 @@ ntalo
 nacional
 numerada
 naci
+normally
 Identificar
 Intro
 Identificaci
@@ -42380,6 +42400,8 @@ Adds
 Adjacency
 Agrupaci
 Algunas
+Anyway
+ANYTHING
 Floyd
 Foundations
 Funci
@@ -45437,6 +45459,7 @@ WqJg
 WpF
 WWq
 Walks
+WRONKSKIAN
 Heuri
 Hecho
 HyO
@@ -50272,6 +50295,7 @@ getting
 game
 grah
 genes
+guess
 Programaci
 Para
 Problema
@@ -55268,6 +55292,7 @@ Shortest
 Simple
 Sparse
 Seguros
+Solutions
 Manual
 Modelar
 Millones
@@ -56953,6 +56978,7 @@ Multiedges
 Multigraph
 Mutualidad
 Matr
+Multiply
 Zivkovic
 Zo
 Zi
@@ -72347,6 +72373,7 @@ Generar
 Generamos
 Graph
 Graphs
+GET
 Nota
 Novo
 Nacional
