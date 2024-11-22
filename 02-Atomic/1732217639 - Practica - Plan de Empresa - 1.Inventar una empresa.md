@@ -65,9 +65,9 @@ Donde:
 + **NU:**( Nota Universidad) Nota media de la universidad sobre 10
 + **NM:** (Número matrícula) Con rango empezando en 1
 + **DT:** Descuento total, calculado como: 
-$$
-DT = \text{DE} + \text{DN}
-$$
+		$$
+		DT = \text{DE} + \text{DN}
+		$$
 	Donde: 
 	+ **DE:** (Descuento Ebau) Se calcula igual que en el primer caso solo que con un porcentaje del 30%
 		
@@ -87,9 +87,9 @@ Se ha de tener en cuenta que:
 + Para realizar los cálculos de este plan de empresa se asumirá que
 	+ **El valor de PM para una primera matrícula es de 100$**
 	+ **El valor de PM para otras matrículas será**
-	$$
-	 \text{PM}_i = \text{NM} * 100
-	$$
+			$$
+			 \text{PM}_i = \text{NM} * 100
+			$$
 		+ Cada año aumenta 100$
 
 #### Estandarización de los ingresos: 
@@ -164,14 +164,17 @@ $$
 $$
 Que se puede simplificar a: 
 $$
-Ingresos = 
+Ingresos = 212,46 \cdot n
 $$
++ Esto quiere decir que **generalizando, la empresa ganaría 212,46$ por cada seguro vendido**
+
 + Observamos que,por ejemplo, por un número de seguros igual a 100 se obtendrá un beneficio de: [^7]
 $$
 Ingresos_{100} = 21 246
 $$
 
 ##### Perdidas estimadas: 
++ Esto para mañana 
 
 ***
 [^4]: Aquí habría que añadir los gráficos creados. 
