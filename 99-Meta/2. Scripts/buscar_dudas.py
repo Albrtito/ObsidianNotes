@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 import re
+import yaml
 
 class DudasAnalyzer:
     def __init__(self, vault_path):
@@ -21,11 +22,31 @@ class DudasAnalyzer:
         asignaturas = set()
         for file in self.atomic_folder.glob("**/*.md"):
             with open(file, 'r', encoding='utf-8') as f:
+                # Leer todo el contenido
                 content = f.read()
-                # Buscar hashtags que no sean #Duda
-                tags = re.findall(r'#([A-Za-z0-9])', content)
-                asignaturas.update([tag for tag in tags if tag != 'Duda'])
-        print(asignaturas)
+                
+                # Extraer frontmatter YAML
+                try:
+                    frontmatter_match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
+                    if frontmatter_match:
+                        frontmatter = yaml.safe_load(frontmatter_match.group(1))
+                        # Extraer tags del frontmatter si existen
+                        if 'tags' in frontmatter:
+                            tags = frontmatter['tags']
+                            if isinstance(tags, list):
+                                asignaturas.update(tags)
+                            elif isinstance(tags, str):
+                                asignaturas.add(tags)
+                except: # Ignorar errores en YAML  
+                    pass
+
+                # Extraer tags del contenido (por si no están en frontmatter)
+                tags_in_content = re.findall(r'#([A-Za-z0-9]+)(?!\w)', content)
+                asignaturas.update([tag for tag in tags_in_content if tag != 'Duda'])
+                
+                asignaturas.discard('Duda')
+
+        print("Asignaturas encontradas:", asignaturas)
         return list(asignaturas)
 
     def find_notes_with_tag(self, tag):
@@ -34,6 +55,24 @@ class DudasAnalyzer:
         for file in self.atomic_folder.glob("**/*.md"):
             with open(file, 'r', encoding='utf-8') as f:
                 content = f.read()
+                
+                # Primero revisar el frontmatter YAML
+                try:
+                    frontmatter_match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
+                    if frontmatter_match:
+                        frontmatter = yaml.safe_load(frontmatter_match.group(1))
+                        # Comprobar tags en frontmatter
+                        if 'tags' in frontmatter:
+                            tags = frontmatter['tags']
+                            if isinstance(tags, list) and tag in tags:
+                                matching_files.append(file)
+                                continue
+                            elif isinstance(tags, str) and tag == tags:
+                                matching_files.append(file)
+                                continue
+                except: # Ignorar errores en YAML 
+                    pass
+                # Luego revisar el contenido del archivo
                 if f"#{tag}" in content:
                     matching_files.append(file)
         return matching_files
@@ -42,7 +81,8 @@ class DudasAnalyzer:
         """Extrae las dudas de un archivo específico"""
         dudas = []
         with open(file, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
+            content = f.read()
+            lines = content.split('\n')
             for line in lines:
                 if '#Duda' in line:
                     # Elimina el hashtag #Duda y cualquier otro hashtag

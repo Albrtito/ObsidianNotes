@@ -30986,6 +30986,7 @@ vectors
 vertices
 valence
 variation
+verdad
 no
 nuestras
 ndar
@@ -40657,6 +40658,7 @@ qJh
 qiC
 qov
 quiera
+quee
 Algorith
 Algorithm
 All

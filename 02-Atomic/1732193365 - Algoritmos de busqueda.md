@@ -19,7 +19,7 @@ sr-ease: 230
 ## Propiedades: 
 Evaluamos un algorimo de busqueda analizando su completitud y admisibilidad.
 
-+ **Completitud:** Un algoritmo de búsqueda es completo si **garantiza que encontrará una solución** dada que exista alguna. #Duda: Aunq esta solución se pueda dar en tiempo infinito
++ **Completitud:** Un algoritmo de búsqueda es completo si **garantiza que encontrará una solución** dada que exista alguna. #Duda: Aunq esta solución se pueda dar en tiempo infinito?
 + **Admisibilidad:** Si garantiza que encontrará una solución óptima dado a que exista alguna. 
 	+ Si un algoritmo es **admisible es necesariamente completo**
 ### Remarks:
