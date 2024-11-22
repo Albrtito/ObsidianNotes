@@ -78,14 +78,23 @@ Se ha de tener en cuenta que:
 		+ Cada año aumenta 100$
 
 #### Estandarización de los ingresos: 
-Para estandarizar los ingresos generados por un número n de seguros utilizamos los siguientes datos: 
-+ **Nota media de EBAU**: *12.285* [^5]
-+ **Nota media universitaria:** [^6] *6.5*
+Si se realizase el cálculo de los ingresos con datos para cada asegurado podríamos obtener exactamente los ingresos generados.
+Para el cómputo de indicadores como el punto muerto se complicaría inmensamente el cálculo, debido a esto se ha decidido estandarizar los ingresos generados para un número n de seguros. 
 
-Con estos datos podemos dividir un número n de seguros en dos grupos: 
+Para estandarizar los ingresos generados por un número n de seguros utilizamos los siguientes datos, tomando como referencia la escuela politécnica de la UC3M.
 
-1. **Seguros de primera matrícula:**  
-   Este tipo de seguros proporcionar
++ **Nota media de EBAU de los estudiantes**: *12.285* [^5]
++ **Nota media universitaria de los estudiantes (aprox):** [^6] *6.5*
+
+Utilizando estos datos podemos calcular el **ingreso generado antes de pagos de matrícula** por los seguros. (Ingreso si ningún estudiante asegurado suspendieses su asignatura) 
+
+Asumimos que se ofrecerán la mitad de los seguros para primeras 
+
+En vez de dividir los n seguros generados entre aquellos que pertenecen a primera matricula de los que no (puesto a que conllevarían cálculos distintos) aproximamos un porcentaje del 50%, 50%.
+De esta forma se asume que, la mitad de los seguros serán para asignaturas en primera matrícula mientras que el resto serán para matrículas superiores. 
+No obstante, el cálculo del seguro para matrículas segundas/terceras/cuartas/… depende también del número de matrícula. Para real
+
+  
 $$
 
 $$
