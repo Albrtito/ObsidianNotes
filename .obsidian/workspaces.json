@@ -1665,8 +1665,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 269.5,
-        "collapsed": true
+        "width": 363
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -1683,8 +1682,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "17606650654a866a",
-      "mtime": "2024-11-13T15:13:00+01:00"
+      "active": "2dca472e18c0e06a",
+      "mtime": "2024-11-22T16:56:28+01:00"
     },
     "Net-Routers": {
       "main": {
@@ -2817,5 +2816,5 @@
       "mtime": "2024-11-22T11:50:31+01:00"
     }
   },
-  "active": "Empresa"
+  "active": "Plan de empresa"
 }

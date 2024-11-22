@@ -4,99 +4,125 @@
     "type": "split",
     "children": [
       {
-        "id": "7c1616cc8d54bde6",
-        "type": "split",
+        "id": "cfc607d3325fb0fa",
+        "type": "tabs",
+        "dimension": 72.21570926143025,
         "children": [
           {
-            "id": "3fba0475cebb59d0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6ffae813ee33884c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1731438416 - Marketing estratégico.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1731438416 - Marketing estratégico"
-                }
+            "id": "c1dbd3daf5d3e670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1726500297 - Plan de Empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              {
-                "id": "909f25a708101411",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1731438501 - Marketing operativo.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1731438501 - Marketing operativo"
-                }
-              },
-              {
-                "id": "ce5cd5b122a5ced0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1726503731 - Entorno y competencia de la empresa"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "1726500297 - Plan de Empresa"
+            }
           },
           {
-            "id": "62bb77f775aa2aba",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "adaf76554ccbe066",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1731435991 - Gestion comercial y marketing en la empresa.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1731435991 - Gestion comercial y marketing en la empresa"
-                }
+            "id": "0053b91f7de10121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              {
-                "id": "17606650654a866a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1731436877 - El plan de marketing.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1731436877 - El plan de marketing"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa"
+            }
+          },
+          {
+            "id": "77006f10992dd9b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1732217706 - Practica - Plan de Empresa - 2.Analisis del sector"
+            }
+          },
+          {
+            "id": "3416a40cdbaa2777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1732217814 - Practica - Plan de Empresa - 3.Definir la empresa"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
+      },
+      {
+        "id": "3fba0475cebb59d0",
+        "type": "tabs",
+        "dimension": 27.78429073856976,
+        "children": [
+          {
+            "id": "6ffae813ee33884c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1726067427 - Tipos de empresas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1726067427 - Tipos de empresas"
+            }
+          },
+          {
+            "id": "b8fe88a75e2b26ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1726067427 - Tipos de empresas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1726067427 - Tipos de empresas"
+            }
+          },
+          {
+            "id": "ae86661c36fc6637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1726241677 - Definition - Empresas sociales.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1726241677 - Definition - Empresas sociales"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -285,7 +311,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363
+    "width": 269.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,8 +329,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "17606650654a866a",
+  "active": "0053b91f7de10121",
   "lastOpenFiles": [
+    "02-Atomic/1726500297 - Plan de Empresa.md",
+    "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
+    "01-Areas/1.UC3M/Empresa.md",
+    "02-Atomic/1731436877 - El plan de marketing.md",
     "02-Atomic/1732031831 - Link channel multiple access protocols.md",
     "01-Areas/1.UC3M/Networks.md",
     "02-Atomic/1726572508 - The network stack.md",
@@ -326,10 +357,6 @@
     "02-Atomic/1725918135 - Teoría económica de la empresa.md",
     "99-Meta/2. Scripts/Dudas/Dudas-Empresa.md",
     "02-Atomic/1730651695 - The Internet Protocol (IP).md",
-    "02-Atomic/1732020527 - Protocol - TDMA.md",
-    "02-Atomic/1731507348 - Problemas de búsqueda.md",
-    "02-Atomic/1731411683 - Procotol - IPv6.md",
-    "02-Atomic/1730650392 - Types of switching fabrics.md",
     "99-Meta/2. Scripts/buscar_dudas.py",
     "99-Meta/2. Scripts/Dudas",
     "99-Meta/2. Scripts/dudas_2.py~",
