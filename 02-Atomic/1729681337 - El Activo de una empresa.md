@@ -7,8 +7,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-23
-sr-interval: 18
+sr-due: 2025-01-09
+sr-interval: 46
 sr-ease: 250
 ---
 # El Activo de una empresa

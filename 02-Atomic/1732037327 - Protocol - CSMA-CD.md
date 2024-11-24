@@ -8,8 +8,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-24
-sr-interval: 2
+sr-due: 2024-11-28
+sr-interval: 4
 sr-ease: 210
 ---
 # Protocol - CSMA-CD

@@ -6,9 +6,9 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-24
-sr-interval: 3
-sr-ease: 230
+sr-due: 2024-12-06
+sr-interval: 12
+sr-ease: 250
 ---
 # Protocol - Pure ALOHA
 

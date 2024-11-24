@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1727105121 - Estrategia de la empresa.md",
+                "file": "02-Atomic/1732193365 - Algoritmos de busqueda.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1727105121 - Estrategia de la empresa"
+              "title": "1732193365 - Algoritmos de busqueda"
             }
           }
         ],
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727105121 - Estrategia de la empresa.md",
+                "file": "02-Atomic/1732193365 - Algoritmos de busqueda.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1727105121 - Estrategia de la empresa"
+              "title": "Graph of 1732193365 - Algoritmos de busqueda"
             }
           },
           {
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1727105121 - Estrategia de la empresa.md"
+                "file": "02-Atomic/1732193365 - Algoritmos de busqueda.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1727105121 - Estrategia de la empresa"
+              "title": "Outline of 1732193365 - Algoritmos de busqueda"
             }
           },
           {
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 334
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -307,6 +307,15 @@
   },
   "active": "1d408abc3d02d974",
   "lastOpenFiles": [
+    "02-Atomic/1732037327 - Protocol - CSMA-CD.md",
+    "02-Atomic/1730567584 - Forwarding function of the network layer.md",
+    "02-Atomic/1729681337 - El Activo de una empresa.md",
+    "02-Atomic/1731419106 - Match-Plus-Action methods in forwarding.md",
+    "02-Atomic/1729681356 - El Pasivo de una empresa.md",
+    "02-Atomic/1732031831 - Link channel multiple access protocols.md",
+    "02-Atomic/1732018095 - The network link layer.md",
+    "02-Atomic/1732035070 - Protocol - Pure ALOHA.md",
+    "02-Atomic/1727105121 - Estrategia de la empresa.md",
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
     "02-Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
     "02-Atomic/20240615 - 195347 - Differentiability.md",
@@ -316,23 +325,14 @@
     "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
     "01-Areas/1.UC3M/Empresa.md",
     "02-Atomic/1731436877 - El plan de marketing.md",
-    "02-Atomic/1732031831 - Link channel multiple access protocols.md",
     "01-Areas/1.UC3M/Networks.md",
     "02-Atomic/1726572508 - The network stack.md",
-    "02-Atomic/1732018095 - The network link layer.md",
     "02-Atomic/1727711018 - Estrategias de diversificación.md",
     "02-Atomic/1730827988 - Subnets.md",
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
     "02-Atomic/1732020800 - Protocol - FDMA.md",
     "02-Atomic/1732193365 - Algoritmos de busqueda.md",
     "02-Atomic/1727886467 - Estrategia de globalización.md",
-    "02-Atomic/1730832772 - CIDR Notation.md",
-    "02-Atomic/1731418961 - Generalized forwarding.md",
-    "02-Atomic/1730826735 - Protocol - IPv4 protocol.md",
-    "02-Atomic/1731409972 - Protocol - DHCP.md",
-    "02-Atomic/1731411013 - Network Address Translation (NAT).md",
-    "02-Atomic/1728935952 - Sistema de produccion por proyectos.md",
-    "02-Atomic/1730651054 - Router packet scheduling methods.md",
     "99-Meta/2. Scripts/buscar_dudas.py",
     "99-Meta/2. Scripts/Dudas",
     "99-Meta/2. Scripts/dudas_2.py~",

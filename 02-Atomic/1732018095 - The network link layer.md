@@ -8,8 +8,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-24
-sr-interval: 3
+sr-due: 2024-12-01
+sr-interval: 7
 sr-ease: 230
 ---
 # The link layer
