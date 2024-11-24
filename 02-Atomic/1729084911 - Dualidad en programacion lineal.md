@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-23
-sr-interval: 4
+sr-due: 2024-12-02
+sr-interval: 8
 sr-ease: 174
 ---
 # Dualidad en programacion lineal
@@ -78,6 +78,7 @@ x_1'+ 2x_2' + 3x_3' - x_4' \geq -2 \\
 
 **Remarks:**
 + Si el primal tiene una solución correspondiente a la base B, entonces $x’^{*^T} = C_B^t B^-$
+#Duda : Simplemente el los últimos valores de la última iteración para las variables?
   Esto quiere decir que no hace falta que recalculemos todo, al estar unidos podemos obtener directamente el problema.La solución del dual se calcula directamente desde la solución del primal.
   + C → El vector de coeficientes de la base
   + B → La base de la última iteración del simplex que resuelve el problema primal

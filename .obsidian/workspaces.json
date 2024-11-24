@@ -265,10 +265,15 @@
                 "id": "1d408abc3d02d974",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
                   "icon": "lucide-file",
-                  "title": "New tab"
+                  "title": "1729084911 - Dualidad en programacion lineal"
                 }
               }
             ],
@@ -291,6 +296,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -375,7 +381,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "title": "Graph of 1729084911 - Dualidad en programacion lineal"
                 }
               },
               {
@@ -416,9 +422,11 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {},
+                  "state": {
+                    "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md"
+                  },
                   "icon": "lucide-list",
-                  "title": "Outline"
+                  "title": "Outline of 1729084911 - Dualidad en programacion lineal"
                 }
               },
               {
@@ -552,7 +560,7 @@
         }
       },
       "active": "1d408abc3d02d974",
-      "mtime": "2024-11-22T16:42:57+01:00"
+      "mtime": "2024-11-24T09:49:41+01:00"
     },
     "Config": {
       "main": {
