@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -289,11 +289,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7de9ea3991a80f9f",
+  "active": "89f41d219a819371",
   "lastOpenFiles": [
+    "99-Meta/2. Scripts/Dudas/Dudas-Empresa.md",
     "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
     "02-Atomic/1731438416 - Marketing estratégico.md",
-    "99-Meta/2. Scripts/Dudas/Dudas-Empresa.md",
     "02-Atomic/1731435991 - Gestion comercial y marketing en la empresa.md",
     "01-Areas/1.UC3M/Empresa.md",
     "02-Atomic/1732193365 - Algoritmos de busqueda.md",

@@ -102,7 +102,7 @@ Realizaremos la estandarización en dos pasos.
 
 **NOTA:** 
 + Para estos cálculos asumimos que el precio de la primera matrícula es de 100 y se duplica posteriormente por matrícula
-##### Ingresoss generados antes del pago de matrículas:
+##### Ingresos generados antes del pago de matrículas:
 Para estandarizar los ingresos generados por un número n de seguros antes del pago de matrículas utilizamos los siguientes datos, tomando como referencia la escuela politécnica de la UC3M.
 
 + **Nota media de EBAU de los estudiantes**: *12.285* [^5]
