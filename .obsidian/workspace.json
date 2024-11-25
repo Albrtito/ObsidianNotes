@@ -4,26 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "e7b68473099de705",
+        "id": "3fba0475cebb59d0",
         "type": "tabs",
         "children": [
           {
-            "id": "1d408abc3d02d974",
+            "id": "6ffae813ee33884c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1732193365 - Algoritmos de busqueda.md",
+                "file": "02-Atomic/1731438416 - Marketing estratégico.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1732193365 - Algoritmos de busqueda"
+              "title": "1731438416 - Marketing estratégico"
+            }
+          },
+          {
+            "id": "909f25a708101411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1731438501 - Marketing operativo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1731438501 - Marketing operativo"
+            }
+          },
+          {
+            "id": "ce5cd5b122a5ced0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1726503731 - Entorno y competencia de la empresa"
+            }
+          },
+          {
+            "id": "7de9ea3991a80f9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-Meta/2. Scripts/Dudas/Dudas-Empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dudas-Empresa"
             }
           }
         ],
-        "stacked": true
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -42,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732193365 - Algoritmos de busqueda.md",
+                "file": "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -53,7 +98,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "tag:#incomplete  ",
@@ -118,43 +163,16 @@
                   "nodeSizeMultiplier": 2.79537653688525,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.10925799863853,
-                  "repelStrength": 16.3036078965283,
+                  "centerStrength": 0.0242737249838606,
+                  "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.08943851297751801,
+                  "scale": 0.07043488449702007,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732193365 - Algoritmos de busqueda"
-            }
-          },
-          {
-            "id": "fc17a30e900d6f8a",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "5277caa8de0cf553",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Graph of 1731436877 - El plan de marketing"
             }
           }
         ]
@@ -169,10 +187,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732193365 - Algoritmos de busqueda.md"
+                "file": "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732193365 - Algoritmos de busqueda"
+              "title": "Outline of 1731436877 - El plan de marketing"
             }
           },
           {
@@ -191,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -203,71 +222,21 @@
         "dimension": 63.45609065155807,
         "children": [
           {
-            "id": "90205c8666b47457",
+            "id": "2dca472e18c0e06a",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "b25603422e8df2b5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
+              "type": "markdown",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "01-Areas/1.UC3M/Empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "2eeeae8e11e21776",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "3ed0f2b8fe586a60",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "25035ac93f5900cb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Empresa"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -288,7 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 363
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,8 +274,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1d408abc3d02d974",
+  "active": "7de9ea3991a80f9f",
   "lastOpenFiles": [
+    "02-Atomic/1731435991 - Gestion comercial y marketing en la empresa.md",
+    "01-Areas/1.UC3M/Empresa.md",
+    "02-Atomic/1732193365 - Algoritmos de busqueda.md",
     "02-Atomic/1732037327 - Protocol - CSMA-CD.md",
     "02-Atomic/1730567584 - Forwarding function of the network layer.md",
     "02-Atomic/1729681337 - El Activo de una empresa.md",
@@ -323,7 +295,6 @@
     "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
     "02-Atomic/1726500297 - Plan de Empresa.md",
     "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
-    "01-Areas/1.UC3M/Empresa.md",
     "02-Atomic/1731436877 - El plan de marketing.md",
     "01-Areas/1.UC3M/Networks.md",
     "02-Atomic/1726572508 - The network stack.md",
@@ -331,8 +302,6 @@
     "02-Atomic/1730827988 - Subnets.md",
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
     "02-Atomic/1732020800 - Protocol - FDMA.md",
-    "02-Atomic/1732193365 - Algoritmos de busqueda.md",
-    "02-Atomic/1727886467 - Estrategia de globalización.md",
     "99-Meta/2. Scripts/buscar_dudas.py",
     "99-Meta/2. Scripts/Dudas",
     "99-Meta/2. Scripts/dudas_2.py~",

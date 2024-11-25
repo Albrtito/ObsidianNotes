@@ -1972,6 +1972,7 @@ argumentemos
 asuminedo
 accesorias
 avoidable
+adirlos
 Creaci
 Crear
 Cuando
@@ -20732,6 +20733,7 @@ cancel
 canceled
 coefficient
 capacity
+calificar
 sr
 se
 subproblemas
