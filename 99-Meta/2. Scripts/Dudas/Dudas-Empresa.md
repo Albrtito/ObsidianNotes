@@ -8,7 +8,7 @@
 > 
 
 > [!duda] Duda 2
->  : En una SA los socios no podrían realizar trabajo? Los socios no son los que tienen las acciones? Serían entonces los socios los organizativos y los accionistas otros diferentes?
+>  En una SA los socios no podrían realizar trabajo? Los socios no son los que tienen las acciones? Serían entonces los socios los organizativos y los accionistas otros diferentes?
 > Encontrada en: [[1732217814 - Practica - Plan de Empresa - 3.Definir la empresa]]
 
 > [!check] Solución 2
@@ -50,7 +50,7 @@
 > 
 
 > [!duda] Duda 8
-> [^2]: : Se busca que redactemos las características y teoría de cada parte realizada o que directamente argumentemos las decisiones asuminedo que la teoría ya es conocida?
+> : Se busca que redactemos las características y teoría de cada parte realizada o que directamente argumentemos las decisiones asuminedo que la teoría ya es conocida?
 > Encontrada en: [[1726500297 - Plan de Empresa]]
 
 > [!check] Solución 8
