@@ -72,7 +72,9 @@ Una vez definidos los objetivos y analizado el mercado objetivo realizamos el [[
 ### 5. Posicionamiento del producto:
 > Como les vendemos el producto a cada segmento?
 
-2. **Estrategia de posicionamiento del producto:** Concepción e imagen del producto para meterlo en la mente del consumidor.
+Sabiendo el segmento del mercado al que se dirige la empresa podemos idear el tipo de [[1732632985 - Posicionamiento de un producto en marketing|Posicionamiento de producto]]
 
-Estas estrategias son simultaneas. Se decide donde (mercado) se va a posicionar un producto. 
+
+
+
 ***
