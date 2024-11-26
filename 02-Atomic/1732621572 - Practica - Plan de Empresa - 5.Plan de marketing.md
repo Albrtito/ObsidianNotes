@@ -75,7 +75,9 @@ La imagen del producto va directamente ligada a la comunidad universitaria. La m
 2. También se ha desarrollado un logo de texto que utiliza la misma tipología y diseño: 
 
 ![[1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png|center]]
-
+##### Forma
+#### Línea de producto: 
+Se establecería una única línea de producto con un artículo individual, el seguro de matrícula para una asignatura. 
 
 
 #### Precio:

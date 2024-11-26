@@ -64,4 +64,13 @@ Tras el análisis de la gama de productos que ofrece una empresa se pueden elabo
 ### Estrategias: 
 1. Añadir varias lineas de producto para ampliar la oferta
 2. Extender una línea de productos para camptar más clientes
+3. Incorporar variaciones en los productos existentes para completar la línea 
+4. Reducir la amplitud o profundidad de la línea
+
+## Ciclo de vida del producto: 
+El ciclo de vida de un producto se divide en 4 fases: 
+1. Introducción
+2. Crecimiento 
+3. Madurez 
+4. Declive 
 ***
