@@ -16,5 +16,11 @@ cssclasses:
 + Centrado en los beneficios que reporta, deseos del consumidor.
 + Como variable comercial, se centra en los siguientes atributos: **Calidad, diseño y forma, envase, tamaño o cantidad, servicios e imagen**
 + Condiciona al resto de las variables del marketing mix
+## Atributos del producto: 
+1. **Calidad:**
+### Imagen: 
+
+> [!NOTE] Def: 
+> La imagen que tiene un consumidor del producto será el conjunto de características (positivas y negativas) que  
 
 ***
