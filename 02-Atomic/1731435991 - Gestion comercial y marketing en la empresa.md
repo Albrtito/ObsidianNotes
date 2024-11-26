@@ -25,7 +25,7 @@ cssclasses:
 
 Para realizar este intercambio de forma efectiva se ha de analizar, estudiar y actuar sobre el mercado de una manera específica, esto se recoge en el [[1731436877 - El plan de marketing|El plan de marketing]]
 ## Tipos de marketing:
-Los tipos existentes de marketing se diferencianclaramente según si tienen una **orientación a ventas o al marketing**: 
+Los tipos existentes de marketing se diferencian claramente según si tienen una **orientación a ventas o al marketing**: 
 + **Orientación a ventas:** La empresa le ventde al cliente.
   Marketing pasivo o de organización
 + **Orienteación al marketing:** La empresa vende según lo que el marketing le dice. 
@@ -46,7 +46,7 @@ El marketing coge una **importancia estratégica** y de análisis.
 	+ El producto se vente solo
 
 ### Marketing social:
-La **tarea principal esl el marketing**. 
+La **tarea principal es el marketing**. 
 + Se estudian los mercados objetivo y a los clientes
 + Proporcionar bienes en areas importantes par alos clientes 
 

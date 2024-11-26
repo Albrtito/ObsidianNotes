@@ -26,5 +26,13 @@ No existe forma idónea de dividir el mercado, no obstante se dan 3 factores amp
 2. El **comportamiento específico de compra**
 3. **Criterios de conducta**
 ### Características del comprador:
-### 
+Los criterios basados en las características del comprador parten de la base de que **los deseos de consumir necesidades,etc.** se basean en criterios: 
++ **Geográficos**
++ **Deomgráficos**
++ **Socioeconómicos**
++ **Psicológicos**
+### Comportamiento específico de compra: 
+
+### Criterios de conducta: 
+
 ***

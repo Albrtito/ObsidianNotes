@@ -26,6 +26,7 @@ cssclasses:
 ### 5.1 Marketing estratégico: 
 El marketing estratégico de la empresa ha de crear un sistema de información que permite el análisis del mercado y el diseño de una estrategia que facilite el aprovechamiento de oportunidades. 
 En este caso se han diferenciado: 
++ Utilizamos un plan de marketing que dirige y decide el número de productos que se deben de vender. (Orientación al marketing, marketing activo con importancia estratégica)
 
 + El  **mercado de referencia** como aquel donde se podría actuar → Toda la comunidad de estudiantes universitarios. 
 + El **mercado relevante** como aquel donde se actua → Comunidad de estudiantes universitarios de la escuela politécnica de la UC3M. 

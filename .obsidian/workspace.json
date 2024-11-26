@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1731436877 - El plan de marketing.md",
+                "file": "02-Atomic/1732623287 - Proceso de segmentacion de mercados.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1731436877 - El plan de marketing"
+              "title": "Graph of 1732623287 - Proceso de segmentacion de mercados"
             }
           }
         ]
@@ -272,10 +272,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1731436877 - El plan de marketing.md"
+                "file": "02-Atomic/1732623287 - Proceso de segmentacion de mercados.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1731436877 - El plan de marketing"
+              "title": "Outline of 1732623287 - Proceso de segmentacion de mercados"
             }
           },
           {
@@ -342,7 +342,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
+    "width": 418,
     "collapsed": true
   },
   "left-ribbon": {
@@ -360,13 +360,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "921c8372dd03272b",
+  "active": "ca25bbded46665c2",
   "lastOpenFiles": [
     "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
+    "01-Areas/1.UC3M/Empresa.md",
+    "02-Atomic/1731435991 - Gestion comercial y marketing en la empresa.md",
+    "02-Atomic/1731436877 - El plan de marketing.md",
     "02-Atomic/1732623287 - Proceso de segmentacion de mercados.md",
     "02-Atomic/1732622827 - Estrategias de segmentacion del mercado.md",
     "02-Atomic/1731438416 - Marketing estratégico.md",
-    "02-Atomic/1731436877 - El plan de marketing.md",
     "02-Atomic/1731438501 - Marketing operativo.md",
     "99-Meta/0. Attachments/1731438416 - Marketing estratégicoj.png",
     "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
@@ -384,8 +386,6 @@
     "02-Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
     "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
     "99-Meta/2. Scripts/Dudas/Dudas-Empresa.md",
-    "02-Atomic/1731435991 - Gestion comercial y marketing en la empresa.md",
-    "01-Areas/1.UC3M/Empresa.md",
     "02-Atomic/1732193365 - Algoritmos de busqueda.md",
     "02-Atomic/1732037327 - Protocol - CSMA-CD.md",
     "02-Atomic/1730567584 - Forwarding function of the network layer.md",
