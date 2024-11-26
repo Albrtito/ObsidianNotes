@@ -26,6 +26,11 @@ Un seguro de matrícula es un servicio ofrecido por la empresa dirigido a estudi
 
 Algunas características a remarcar del seguro son: 
 + El estudiante contratará un seguro **para UNA única asignatura**, contratando otro seguro diferente en caso de que quiera asegurar otra asignatura.
++ Al contratar el seguro, el estudiante deberá de atenerse a las **condiciones del seguro**, descritas a continuación. 
+
+#### Condiciones del seguro: 
+1. Se pagará el coste de la siguiente matrícula siempre y cuando el estudiante obtenga **una media igual o superior a 3 en la asignatura asegurada**
+2. Se pagará el coste de la siguiente matrícula siempre y cuando el estudianto obtenga **una nota igual o superior a 2,5 en todas las pruebas de evaluación (controles) y exámenes (examen final)** de la asignatura. 
 
 #### Computo del seguro:
 El cálculo realizado para calcular el seguro será: 
@@ -85,7 +90,7 @@ $$
 Se ha de tener en cuenta que: 
 + El cómputo se hace contra el precio de la siguiente matrícula. 
 + Para realizar los cálculos de este plan de empresa se asumirá que
-	+ **El valor de PM para una primera matrícula es de 100$**
+	+ **El valor de PM para una primera matrícula es de 100$.** Este valor lo obtenemos a través del precio por c
 	+ **El valor de PM para otras matrículas será**
 			$$
 			 \text{PM}_i = \text{NM} * 100
@@ -174,7 +179,12 @@ Ingresos_{100} = 21 246
 $$
 
 ##### Perdidas estimadas: 
-Las pérdidas estimadas se dan también en función del porcentaje estimado de suspensos, usando el estudio encontrado[^8] que proporciona datos de 2014 de la UC3M y el siguiente artículo [^9], que proporciona datos respecto a la cantidad de créditos aprovados por estudiantes respecto al número de créditos matriculado o “tasa de rendimiento”
+Las pérdidas estimadas se dan también en función del porcentaje estimado de suspensos, usando el estudio encontrado[^8] que proporciona datos de 2014 de la UC3M y el siguiente artículo [^9], que proporciona datos respecto a la cantidad de créditos aprovados por estudiantes respecto al número de créditos matriculado o “tasa de rendimiento”. 
+Según estos estudios, el primer año la tasa de abandono es del 21% y la tasa de rendimiento del 77,5%. Haremos una modificación del primer dato debido a su antiguedad, utilizando una tasa de abandono menor, del 15%.
+Usando estas cifras y teniendo en cuenta la segunda condición del seguro anticipamos. 
++ El primer año aprobarán el 
+
+
 
 
 
