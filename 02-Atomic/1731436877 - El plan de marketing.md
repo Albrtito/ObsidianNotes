@@ -21,10 +21,12 @@ Un plan de marketing tendrá las siguientes partes:
 
 1. **Análisis de situación** : Estratégico
 2. **Objetivos:** Estratégico
-3. **Acciones:** Operativo 
+3. **Acciones:** Operativo
+Debido a estas tres primeras etapas obtendremos un presupuesto y finalmente (al terminar)  
 4. **Presupuesto**: 
 5. **Resultados**: 
-#Duda: Estas dos últimas no seríanparte del marketing operativo?
+
+#Duda: Estas dos últimas no serían parte del marketing operativo?
 
 Cada una de estas partes se estudia más a fonde dentro del marketing estratégico/operativo.
 

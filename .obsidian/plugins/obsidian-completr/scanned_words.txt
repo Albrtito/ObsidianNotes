@@ -1989,6 +1989,8 @@ aseguradoras
 atributos
 aprovechamiento
 asgQ
+ampliamente
+aceptados
 Creaci
 Crear
 Cuando
@@ -5753,6 +5755,7 @@ directa
 diversificasen
 diferenciada
 dirige
+dan
 modelos
 modelo
 maximizar
@@ -11625,6 +11628,7 @@ peO
 pMi
 pFn
 pyG
+prioridades
 lineal
 la
 lo
@@ -20831,6 +20835,9 @@ carrera
 centrada
 concentrada
 compradores
+comportamiento
+comprador
+conducta
 sr
 se
 subproblemas
@@ -24710,6 +24717,7 @@ inmensamente
 innovador
 icp
 indiferenciada
+insatisfechas
 un
 una
 utiliza
@@ -29526,6 +29534,7 @@ EpW
 Epw
 Epi
 Eck
+Establecer
 vital
 variables
 vez
@@ -36014,6 +36023,7 @@ Differentiable
 Derivation
 Digitalizaci
 Diferenciarse
+Darse
 funci
 fibonacci
 fica
@@ -39290,6 +39300,7 @@ organizativos
 ofrezcan
 ocurren
 oTE
+obtenidos
 que
 queremos
 qD
@@ -42578,6 +42589,7 @@ Asumimos
 Analizamos
 ABB
 AoY
+Adecuar
 Floyd
 Foundations
 Funci
@@ -55493,6 +55505,7 @@ Side
 Segundas
 SOm
 Segmentaci
+Segmento
 Manual
 Modelar
 Millones

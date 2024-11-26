@@ -31,7 +31,8 @@ En este caso se han diferenciado:
 + El **mercado relevante** como aquel donde se actua → Comunidad de estudiantes universitarios de la escuela politécnica de la UC3M. 
 
 **Objetivos:**
-1. Darse a conocer
+1. **Destacar y darse a conocer en la comunidad de estudiantes universitarios**
+2. 
 #### El proceso de segmentación del mercado: 
 + Ya se ha dicho → Mercado relevante → Comunidad universitaria de la UC3M. 
 

@@ -20,5 +20,11 @@ cssclasses:
 + Analizar competencia 
 + Establecer prioridades
 
-
+## Criterios de segmentación: 
+No existe forma idónea de dividir el mercado, no obstante se dan 3 factores ampliamente aceptados que son: 
+1. Las **características del comprador**
+2. El **comportamiento específico de compra**
+3. **Criterios de conducta**
+### Características del comprador:
+### 
 ***
