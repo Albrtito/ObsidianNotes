@@ -1,17 +1,19 @@
 ---
 aliases:
   - Marketing operativo
+  - Marketing-mix
 tags:
   - incomplete
-References:
+  - Empresa
+References: 
 cssclasses:
 ---
 # Marketing operativo
 
 > [!NOTE] Into 
-> Sistema de acción. Especifica y conquista los mercados con acciones concretas de:
+> Sistema de acción distribuido en cuatro partes a las que llamamos **marketing mix**. 
 > + Precio 
-> + Producto 
+> + [[1732633633 - MarketingMix - Producto|Producto]]
 > + Comunicación 
 > + Distribución
 

@@ -53,8 +53,7 @@ Para este segmento ya definido se seguirá una estrategia de posicionamiento bas
 
 1. **Las ventajas o beneficios que proporciona el producto al os estudiantes:**  Posicionamiento centrado en la ventaja que aporta el seguro,el pago de la siguiente matrícula, y no en su coste. 
    
-2. **Las características del usuario:** Se asociará la necesidad de un seguro con el miedo de suspender la asignatura, posicionando el servicio como un **nivel extra de seguridad**, centrandose en los estudiantes que aprueban pero no tienen la seguridad de que lo vayan a hacer.  
-
+2. **Las características del usuario y producto:** Se asociará la necesidad de un seguro con el miedo de suspender la asignatura, asociando a el servicio como un **nivel extra de seguridad**, centrandose en los estudiantes que aprueban pero no tienen la seguridad de que lo vayan a hacer.  
 
 ### 5.2 El marketing operativo:
 En esta sección se define 

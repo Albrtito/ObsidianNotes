@@ -1995,6 +1995,8 @@ acuden
 aprobarla
 asociar
 aprueban
+asocia
+atribuotos
 Creaci
 Crear
 Cuando
@@ -3808,6 +3810,9 @@ Comportamiento
 Criterio
 Categor
 Conducta
+Comparar
+Centrado
+Condiciona
 de
 due
 dar
@@ -5768,6 +5773,7 @@ diferencian
 deseos
 demogr
 diferenciadas
+distribuido
 modelos
 modelo
 maximizar
@@ -9627,6 +9633,7 @@ eligen
 estilios
 elegido
 escogida
+envase
 programaci
 primer
 paso
@@ -11651,6 +11658,7 @@ parten
 psicogr
 proporciona
 posicionando
+pseudof
 lineal
 la
 lo
@@ -17014,6 +17022,7 @@ riamente
 regulares
 relevantes
 recurosos
+reporta
 References
 Resoluci
 Rectas
@@ -20876,6 +20885,7 @@ criteros
 carater
 centrado
 centrandose
+centra
 sr
 se
 subproblemas
@@ -29582,6 +29592,7 @@ Establecer
 Edad
 Estudiantes
 Edades
+Enfatizar
 vital
 variables
 vez
@@ -36076,6 +36087,7 @@ Darse
 Demogr
 Diferenciamos
 Dirigido
+Distribucion
 funci
 fibonacci
 fica
@@ -39354,6 +39366,7 @@ ofrezcan
 ocurren
 oTE
 obtenidos
+ofrezca
 que
 queremos
 qD
@@ -40893,6 +40906,7 @@ qFz
 qsFfH
 qqSn
 qebH
+quitarles
 Algorith
 Algorithm
 All
@@ -42643,6 +42657,8 @@ Analizamos
 ABB
 AoY
 Adecuar
+Asociaci
+Asociar
 Floyd
 Foundations
 Funci
@@ -44165,6 +44181,7 @@ Fincas
 Factor
 Fuerzas
 Fhl
+Frente
 Warshall
 Width
 We
@@ -57256,6 +57273,7 @@ Mean
 Mvm
 MaL
 Misma
+MarketingMix
 Zivkovic
 Zo
 Zi

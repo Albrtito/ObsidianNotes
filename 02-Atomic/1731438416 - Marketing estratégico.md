@@ -2,8 +2,8 @@
 aliases:
   - Marketing estratégico
 tags:
-  - incomplete
   - Empresa
+  - review
 References: 
 cssclasses:
 ---

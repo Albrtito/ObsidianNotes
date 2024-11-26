@@ -3,8 +3,8 @@ aliases:
   - Posicionamiento de un producto en marketing
   - Posicionamiento de producto
 tags:
-  - incomplete
   - Empresa
+  - review
 References: 
 cssclasses:
 ---
@@ -19,6 +19,6 @@ Las empresas pueden realizar posicionamiento de varias formas:
 3. **Según las características del usuario:** Asociación al estilo de vida del consumidor
 4. **Frente a otro consumidor:** Comparar el producto con el de otro consumidor. Con el objetivo de quitarles clientes 
 5. **Usando símbolos culturales:** Asociar valores sociales o símbolos culturales a la marca.
-6. **En función de precio-calidad**:
+6. **En función de precio-calidad**:Usar un alto precio como sinónimo de calidad. 
 
 ***
