@@ -22,27 +22,26 @@ cssclasses:
 >+ d. Estrategia de comunicación (Definir el método más adecuado: publicidad, promociones, etc). 
 
 ## 5. Plan de marketing: 
-+ El plan de marketing debe de cumplir el objetivo 3 de la sección 3.2: **Destacar y darse a conocer en la comunidad de estudiantes universitarios**
 ### 5.1 Marketing estratégico: 
 El marketing estratégico de la empresa ha de crear un sistema de información que permite el análisis del mercado y el diseño de una estrategia que facilite el aprovechamiento de oportunidades. 
 En este caso se han diferenciado: 
-+ Utilizamos un plan de marketing que dirige y decide el número de productos que se deben de vender. (Orientación al marketing, marketing activo con importancia estratégica)
 
 + El  **mercado de referencia** como aquel donde se podría actuar → Toda la comunidad de estudiantes universitarios. 
 + El **mercado relevante** como aquel donde se actua → Comunidad de estudiantes universitarios de la escuela politécnica de la UC3M. 
 
-**Objetivos:**
+**Objetivo cualitativo:**
 1. **Destacar y darse a conocer en la comunidad de estudiantes universitarios**
-2. 
 #### El proceso de segmentación del mercado: 
-+ Ya se ha dicho → Mercado relevante → Comunidad universitaria de la UC3M. 
+El proceso de segmentación nos permite dividir el mercado, obteniendo el grupo de compradores relevantes. Esta segmentación la hemos realizado siguiendo los siguientes criteros.
 ##### Criterios de segmetnación: 
 Se han utilizado los siguientes criterios de segmentación para definir los segmentos objetivo. 
 1. **Criterio geográfico:** Estudiantes del municipio madrileño que acuden a la escuela politécnica de la uc3m en leganés. 
 2. **Criterio demográfico:** Edades de entre 18 y 25
 3. **Criterio socioeconómico:** Estudiantes de familia de clase media-alta.
 4. **Según la categoría del usuario:** Diferenciamos entre nuevos estudiantes de la universidad y estudiantes que ya llevan un tiempo en ella. 
-5. **Criterio psicográfico:** 
+5. **Criterio psicográfico:** Define el tipo de personalidad de los estudiantes a los que va dirigido el servicio: Dirigido a estudiantes con miedo a suspender la asignatura pero con la capacidad para aprobarla. 
+
+
 ##### Estrategia de segmentación:
 + **Segmentación concentrada** en el segmento propuesto. 
 

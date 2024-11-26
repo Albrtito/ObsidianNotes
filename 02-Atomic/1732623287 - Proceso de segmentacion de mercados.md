@@ -2,8 +2,8 @@
 aliases:
   - Proceso de segmentacion de mercados
 tags:
-  - incomplete
   - Empresa
+  - review
 References: 
 cssclasses:
 ---
@@ -44,5 +44,5 @@ Este tipo de características en economías actuales ya no son tan importantes e
 ### Criterios de conducta: 
 Conducta de **compra y uso de la clientela.** 
 + **Según los beneficios buscados:** Según que quiera obtener la clientela
-+ 
+
 ***

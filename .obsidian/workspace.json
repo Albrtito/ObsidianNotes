@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
+                "file": "02-Atomic/1732623287 - Proceso de segmentacion de mercados.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732621572 - Practica - Plan de Empresa - 5.Plan de marketing"
+              "title": "Graph of 1732623287 - Proceso de segmentacion de mercados"
             }
           }
         ]
@@ -272,10 +272,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md"
+                "file": "02-Atomic/1732623287 - Proceso de segmentacion de mercados.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732621572 - Practica - Plan de Empresa - 5.Plan de marketing"
+              "title": "Outline of 1732623287 - Proceso de segmentacion de mercados"
             }
           },
           {
@@ -360,10 +360,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ad3c76f5e361b54d",
+  "active": "ca25bbded46665c2",
   "lastOpenFiles": [
-    "02-Atomic/1732623287 - Proceso de segmentacion de mercados.md",
     "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
+    "02-Atomic/1732623287 - Proceso de segmentacion de mercados.md",
     "02-Atomic/1732626065 - - Untitled Suffix.md",
     "01-Areas/1.UC3M/Empresa.md",
     "02-Atomic/1731435991 - Gestion comercial y marketing en la empresa.md",
