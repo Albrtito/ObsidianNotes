@@ -17,7 +17,7 @@ cssclasses:
 >
 >**Marketing mix**: 
 >+ [x] a. Estrategia de producto (Definición y atributos, línea de producto, ciclo de vida) 
->+ [ ] b. Estrategia de distribución (Definir la estrategia de distribución)
+>+ [x] b. Estrategia de distribución (Definir la estrategia de distribución)
 >+ [x] c. Precios (establezca el precio que se utilizará para calcular el punto muerto).
 >+ [ ] d. Estrategia de comunicación (Definir el método más adecuado: publicidad, promociones, etc). 
 
@@ -57,11 +57,12 @@ Para este segmento ya definido se seguirá una estrategia de posicionamiento bas
 
 ### 5.2 El marketing operativo:
 En esta sección se definen las estrategias aplicadas para cada elemento del **marketing mix**. 
-#### Estrategia de producto: 
+#### Estrategias de producto: 
 El producto ofrecido por la empresa es un **servicio de seguros de matrícula universitaria** dirigido a estudiantes universitarios de la UC3M. Debido a su naturaleza podemos categorizar el producto como un bien de especialidad. 
 
+##### Atributos:
 El producto posee los siguientes atributos. 
-##### Imagen: 
+###### Imagen: 
 La imagen del producto va directamente ligada a la comunidad universitaria. La marca seguirá una estrategia de tipo **único o corporativo**, todos los productos se unirán a la misma imagen. De esta forma no solo se ahorra en gastos de marketing sino que también facilita la identificación de la marca a los estudiantes. 
 **Logos:**
 + Se utiliza el color azul para crear seguridad y confianza en la marca.  
@@ -75,11 +76,11 @@ La imagen del producto va directamente ligada a la comunidad universitaria. La m
 2. También se ha desarrollado un logo de texto que utiliza la misma tipología y diseño: 
 
 ![[1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png|center]]
-##### Forma: 
-#### Línea de producto: 
+###### Forma: 
+##### Línea de producto: 
 Se establecería una única línea de producto con un artículo individual, el seguro de matrícula para una asignatura. 
 
-#### Ciclo de vida del producto: 
+##### Ciclo de vida del producto: 
 El objetivo de este plan de marketing es que **al finalizar los cinco años se abandone la fase de introducción, entrando en la fase de crecimiento.**
 Esto significa que mantendremos las ventas bajas, los precios altossy se  realizarán cambañas de comunicación para dar a conocer a la empresa. 
 #### Estrategias de distribución:
@@ -91,9 +92,9 @@ Hemos decidido utilizar este tipo de canal debido a que:
 
 La distribución se realizará a través de consultas telefónicas o presenciales con los clientes. Debido a esto la empresa tendrá una persona contratada para responder a consultas. 
 
-Como solo se quiere llegar a un grupo muy selecto de compradores en el mercado desde un número muy limitado de establecimientos se utilizará una **estrategia de distribución exclusiva**. El único establecimiento qu
+Como solo se quiere llegar a un grupo muy selecto de compradores en el mercado desde un único  establecimiento se utilizará una **estrategia de distribución exclusiva**. 
 
-#### Estrategia de precio:
+#### Estrategias de precio:
 Como en todos los seguros, el precio se calcula a través de una estimación de los riesgos y un estudio estadístico de las variables que afectan al precio del seguro. 
 
 Esta estrategia permite crear un modelo económico del comportamiento del mercado relevante y utilizar estrategias de precio en función de costes. Donde los costes se calculan utilizando el modelo económico creado. 
@@ -280,6 +281,7 @@ $$
 
 
 #### Estrategia de comunicación:
+
 
 
 ***

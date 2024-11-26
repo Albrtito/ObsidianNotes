@@ -2006,6 +2006,7 @@ abandone
 altossy
 adquirido
 acotados
+alterar
 Creaci
 Crear
 Cuando
@@ -9665,6 +9666,7 @@ elaborado
 establecimientos
 exclusiva
 estimaci
+establecimiento
 programaci
 primer
 paso
@@ -15204,6 +15206,7 @@ twQq
 thq
 tipolog
 todav
+tras
 review
 resolver
 realizar
@@ -17068,6 +17071,7 @@ reputaci
 recordado
 represnetantes
 responder
+referente
 References
 Resoluci
 Rectas
@@ -22939,6 +22943,7 @@ segun
 stas
 selecto
 selectos
+subiesen
 interval
 importancia
 incorrecto
@@ -68263,6 +68268,7 @@ xmy
 xem
 xyO
 xan
+ximos
 zumos
 zumo
 zQ
