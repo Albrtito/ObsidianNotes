@@ -4,71 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "3fba0475cebb59d0",
+        "id": "cfc607d3325fb0fa",
         "type": "tabs",
+        "dimension": 72.21570926143025,
         "children": [
           {
-            "id": "6ffae813ee33884c",
+            "id": "c1dbd3daf5d3e670",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1731438416 - Marketing estratégico.md",
+                "file": "02-Atomic/1726500297 - Plan de Empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1731438416 - Marketing estratégico"
+              "title": "1726500297 - Plan de Empresa"
             }
           },
           {
-            "id": "909f25a708101411",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1731438501 - Marketing operativo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1731438501 - Marketing operativo"
-            }
-          },
-          {
-            "id": "ce5cd5b122a5ced0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726503731 - Entorno y competencia de la empresa"
-            }
-          },
-          {
-            "id": "7de9ea3991a80f9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99-Meta/2. Scripts/Dudas/Dudas-Empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dudas-Empresa"
-            }
-          },
-          {
-            "id": "89f41d219a819371",
+            "id": "0053b91f7de10121",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,22 +39,90 @@
             }
           },
           {
-            "id": "adddeeea5d44fb0e",
+            "id": "77006f10992dd9b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
+                "file": "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dudas-Heuri"
+              "title": "1732217706 - Practica - Plan de Empresa - 2.Analisis del sector"
+            }
+          },
+          {
+            "id": "3416a40cdbaa2777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1732217814 - Practica - Plan de Empresa - 3.Definir la empresa"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
+      },
+      {
+        "id": "3fba0475cebb59d0",
+        "type": "tabs",
+        "dimension": 27.78429073856976,
+        "children": [
+          {
+            "id": "6ffae813ee33884c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1726067427 - Tipos de empresas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1726067427 - Tipos de empresas"
+            }
+          },
+          {
+            "id": "b8fe88a75e2b26ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1726067427 - Tipos de empresas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1726067427 - Tipos de empresas"
+            }
+          },
+          {
+            "id": "ae86661c36fc6637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1726241677 - Definition - Empresas sociales.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1726241677 - Definition - Empresas sociales"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +226,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1731436877 - El plan de marketing"
+              "title": "Graph of 1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa"
             }
           }
         ]
@@ -220,7 +244,7 @@
                 "file": "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1731436877 - El plan de marketing"
+              "title": "Outline of 1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa"
             }
           },
           {
@@ -287,7 +311,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363
+    "width": 269.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,8 +329,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "adddeeea5d44fb0e",
+  "active": "0053b91f7de10121",
   "lastOpenFiles": [
+    "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
+    "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
+    "02-Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
+    "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
+    "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
     "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
     "99-Meta/2. Scripts/Dudas/Dudas-Empresa.md",
     "02-Atomic/1731438416 - Marketing estratégico.md",
@@ -322,16 +352,11 @@
     "02-Atomic/1732035070 - Protocol - Pure ALOHA.md",
     "02-Atomic/1727105121 - Estrategia de la empresa.md",
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
-    "02-Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
     "02-Atomic/20240615 - 195347 - Differentiability.md",
-    "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
     "02-Atomic/1726500297 - Plan de Empresa.md",
-    "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
     "02-Atomic/1731436877 - El plan de marketing.md",
     "01-Areas/1.UC3M/Networks.md",
     "02-Atomic/1726572508 - The network stack.md",
-    "02-Atomic/1727711018 - Estrategias de diversificación.md",
-    "02-Atomic/1730827988 - Subnets.md",
     "99-Meta/2. Scripts/buscar_dudas.py",
     "99-Meta/2. Scripts/Dudas",
     "99-Meta/2. Scripts/dudas_2.py~",

@@ -174,10 +174,14 @@ Ingresos_{100} = 21 246
 $$
 
 ##### Perdidas estimadas: 
-+ Esto para mañana 
+Las pérdidas estimadas se dan también en función del porcentaje estimado de suspensos, usando el estudio encontrado[^8] que proporciona datos de 2014 de la UC3M y el siguiente artículo [^9], que proporciona datos respecto a la cantidad de créditos aprovados por estudiantes respecto al número de créditos matriculado o “tasa de rendimiento”
+
+
 
 ***
 [^4]: Aquí habría que añadir los gráficos creados. 
 [^5]: https://www.uc3m.es/conocenos/nuestros-estudiantes
 [^6]: Este dato no lo da la UC3M así que se obtiene un número aproximado, generado por los autores del plan de empresa. 
 [^7]: #Duda Todas las funciones y programas utilizados merece la pena añadirlos al plan de emrpesa de alguna forma? Se calificarían?
+[^8]: https://www.uc3m.es/consejosocial/media/consejosocial/doc/archivo/doc_2019_abandono-grado/estudio-abandono-grado_diciembre-2019.pdf
+[^9]: https://theobjective.com/sociedad/2024-01-29/universitarios-tasa-suspensos/
