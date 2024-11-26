@@ -32,7 +32,7 @@ El marketing estratégico se compone de dos etapas: **Análisis y creación de o
 
 Se deben de realizar análisis de:
 #### Mercado:
-Diferenciar entre el mercado **de referencia**(donde se podría actuar) y mercado **releante**(donde se actua). Se han de identificar ambos
+Diferenciar entre el mercado **de referencia**(donde se podría actuar) y mercado **relevante**(donde se actua). Se han de identificar ambos
   
   + Se ha de determinar la **topología del mercado** para dividirlo en pequeños segmentos y conocer su **evolución**.
 

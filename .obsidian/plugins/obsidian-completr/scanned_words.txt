@@ -1986,6 +1986,7 @@ aplica
 aprobados
 anticipar
 aseguradoras
+atributos
 Creaci
 Crear
 Cuando
@@ -9593,6 +9594,7 @@ estima
 establecidos
 enfocar
 estudiantiles
+establezca
 programaci
 primer
 paso
@@ -11603,6 +11605,8 @@ politico
 percepci
 protegen
 proporcionan
+promociones
+protegerse
 lineal
 la
 lo
@@ -20797,6 +20801,7 @@ comparaci
 comptetitividad
 compiten
 carrera
+centrada
 sr
 se
 subproblemas
@@ -35962,6 +35967,7 @@ Derivatives
 Differentiable
 Derivation
 Digitalizaci
+Diferenciarse
 funci
 fibonacci
 fica
