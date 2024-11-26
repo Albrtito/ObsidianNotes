@@ -34,6 +34,14 @@ Los objetivos de la empresa serán:
 2. **Proporcionar seguridad económica a los estudiantes universitarios**
 3. **Destacar y darse a conocer en la comunidad de estudiantes universitarios**
 
+### 3.3 Estrategia de la empresa:
+A continuación definimos las estrategias competitivas y coorporativas que llevaría la empresa con el fin de cumplir con los objetivos establecidos. 
+#### Estrategias competitivas: 
+La empresa utilizaría una **estrategia de liderazgo en diferenciación** debido a que es un producto innovador y diferente al resto. 
+
+> Debido a que no hay otras empresas que ofrezcan el mismo servicio la diferenciación se enfocaría en comparación con posibles productos sustitutivos. 
+
+#### Estrategias coorporativas: 
 
 ***
 [^3]: #Duda: En una SA los socios no podrían realizar trabajo? Los socios no son los que tienen las acciones? Serían entonces los socios los organizativos y los accionistas otros diferentes?

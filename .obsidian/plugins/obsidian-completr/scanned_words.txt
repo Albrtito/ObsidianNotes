@@ -9581,6 +9581,7 @@ estimadas
 estudianto
 educaci
 estima
+establecidos
 programaci
 primer
 paso
@@ -20773,6 +20774,7 @@ calculados
 cuartas
 controles
 clulo
+coorporativas
 sr
 se
 subproblemas
@@ -24644,6 +24646,7 @@ instances
 invalid
 indicadores
 inmensamente
+innovador
 un
 una
 utiliza

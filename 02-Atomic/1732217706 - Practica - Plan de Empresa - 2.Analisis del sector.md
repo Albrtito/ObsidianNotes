@@ -38,7 +38,6 @@ Utilizamos el análisis de las Cinco Fuerzas de Porter para analizar el entorno 
 + La comptetitividad en el sector es mínima debido a la diferenciación del producto. Este tipo de seguros es algo muy novedoso. Los únicos seguros universitarios que compiten en este sector lo hacen en forma de “fondo de inversión universitario”. [^1]
 
 #### Estudio de los productos sustitutivos: 
-
 + **Becas universitarias**
 + **Préstamos estudiantiles**
 + **Seguros de fondos universitarios**
@@ -53,6 +52,7 @@ El **poder de negociación de estos clientes será nulo** puesto a que el seguro
 
 #### Estudio de la rivalidad del sector: 
 La rivalidad del sector será **baja** debido a que es un producto innovador que no tiene competencia directa. 
+Se puede anticipar un posible aumento de esta rivalidad en el caso de que aseguradoras tradicionales diversificasen su producto.  
 
 ***
 
