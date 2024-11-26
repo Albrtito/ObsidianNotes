@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732633799 - MarketingMix - Distribucion.md",
+                "file": "02-Atomic/1732633633 - MarketingMix - Producto.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732633799 - MarketingMix - Distribucion"
+              "title": "Graph of 1732633633 - MarketingMix - Producto"
             }
           }
         ]
@@ -272,10 +272,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732633799 - MarketingMix - Distribucion.md"
+                "file": "02-Atomic/1732633633 - MarketingMix - Producto.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732633799 - MarketingMix - Distribucion"
+              "title": "Outline of 1732633633 - MarketingMix - Producto"
             }
           },
           {
@@ -294,7 +294,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -359,8 +360,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f90fee14a45a9e6c",
+  "active": "b0a69722b35ebc6b",
   "lastOpenFiles": [
+    "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
     "02-Atomic/1732633633 - MarketingMix - Producto.md",
     "02-Atomic/1732633799 - MarketingMix - Distribucion.md",
     "02-Atomic/1731438501 - Marketing operativo.md",
@@ -368,7 +370,6 @@
     "02-Atomic/1731435991 - Gestion comercial y marketing en la empresa.md",
     "02-Atomic/1732632985 - Posicionamiento de un producto en marketing.md",
     "02-Atomic/1731436877 - El plan de marketing.md",
-    "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
     "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
     "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
     "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",

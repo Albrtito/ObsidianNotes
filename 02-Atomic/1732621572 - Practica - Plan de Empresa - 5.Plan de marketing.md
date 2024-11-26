@@ -61,7 +61,7 @@ En esta sección se define
 
 
 
-#### Precio del seguro:
+#### Precio:
 El cálculo realizado para calcular el seguro será: 
 
 **En caso de que el estudiante sea de nuevo acceso a la universidad (primer año)**
