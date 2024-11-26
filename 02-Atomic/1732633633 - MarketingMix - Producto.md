@@ -17,7 +17,7 @@ cssclasses:
 + Como variable comercial, se centra en los siguientes atributos: **Calidad, diseño y forma, envase, tamaño o cantidad, servicios e imagen**
 + Condiciona al resto de las variables del marketing mix
 ## Atributos del producto: 
-1. **Calidad:**
+
 ### Imagen: 
 
 > [!NOTE] Def: 
@@ -33,5 +33,5 @@ Dividimos las marcas según la estrategia de marca utilizada.
 	   + Ahorro en gastos de marketing 
 	2. **Marcas múltiples:** Distintas marcas para cada gama/tipo de producto de la empresa. 
 	   + Los productos individuales no comprometen la reputación del fabricante. 
-2. **Marcas de distribuidores:** Se pone la marca del que lo vende, no del que lo hace
+2. **Marcas de distribuidores:** Se pone la marca del que lo vende, no del que lo hace. 
 ***
