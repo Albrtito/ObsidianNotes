@@ -34,4 +34,7 @@ Dividimos las marcas según la estrategia de marca utilizada.
 	2. **Marcas múltiples:** Distintas marcas para cada gama/tipo de producto de la empresa. 
 	   + Los productos individuales no comprometen la reputación del fabricante. 
 2. **Marcas de distribuidores:** Se pone la marca del que lo vende, no del que lo hace. 
+
+### Diseño y forma: 
+
 ***

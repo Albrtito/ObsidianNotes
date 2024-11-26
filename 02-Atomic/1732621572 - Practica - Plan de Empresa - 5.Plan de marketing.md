@@ -58,9 +58,23 @@ Para este segmento ya definido se seguirá una estrategia de posicionamiento bas
 ### 5.2 El marketing operativo:
 En esta sección se definen las estrategias aplicadas para cada elemento del **marketing mix**. 
 #### Estrategia de producto: 
-El producto ofrecido por la empresa es un **servicio de seguros de matrícula universitaria** dirigido a estudiantes universitarios de la UC3M. Debido a su naturaleza podemos categorizar el producto como un bien de especialidad.
+El producto ofrecido por la empresa es un **servicio de seguros de matrícula universitaria** dirigido a estudiantes universitarios de la UC3M. Debido a su naturaleza podemos categorizar el producto como un bien de especialidad. 
 
+El producto posee los siguientes atributos. 
+##### Imagen: 
+La imagen del producto va directamente ligada a la comunidad universitaria. La marca será de tipo **único o corporativo**, todos los productos utilizarán el mismo logo, que se muestra a continuación.
+**Logos:**
++ Se utiliza el color azul para crear seguridad y confianza en la marca.  
 
+1. Logo gráfico:
+
+![[1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-1.png|center]]
+
++ Se utilizan las siglas **T.A.S** para abreviar el nombre de la empresa(**Try Again Seguros** ) y que pueda ser así facilmente recordado por los usuarios. 
+
+2. También se ha desarrollado un logo de texto que utiliza la misma tipología y diseño: 
+
+![[1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png|center]]
 
 
 #### Precio:

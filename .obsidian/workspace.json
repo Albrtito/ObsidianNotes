@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
+                "file": "02-Atomic/1732633633 - MarketingMix - Producto.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,7 +242,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732621572 - Practica - Plan de Empresa - 5.Plan de marketing"
+              "title": "Graph of 1732633633 - MarketingMix - Producto"
             }
           }
         ]
@@ -257,10 +257,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md"
+                "file": "02-Atomic/1732633633 - MarketingMix - Producto.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732621572 - Practica - Plan de Empresa - 5.Plan de marketing"
+              "title": "Outline of 1732633633 - MarketingMix - Producto"
             }
           },
           {
@@ -345,10 +345,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ad3c76f5e361b54d",
+  "active": "b0a69722b35ebc6b",
   "lastOpenFiles": [
-    "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
     "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
+    "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png",
+    "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-1.png",
+    "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj.png",
+    "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
     "02-Atomic/1732633633 - MarketingMix - Producto.md",
     "02-Atomic/1732633799 - MarketingMix - Distribucion.md",
     "02-Atomic/1731438501 - Marketing operativo.md",
@@ -373,7 +376,6 @@
     "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02-Atomic/1726067427 - Tipos de empresas.md",
     "02-Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
-    "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
     "99-Meta/2. Scripts/buscar_dudas.py",
     "99-Meta/2. Scripts/Dudas",
     "99-Meta/2. Scripts/dudas_2.py~",
@@ -390,9 +392,6 @@
     "99-Meta/0. Attachments/1731411683 - Procotol - IPv6j.png",
     "99-Meta/0. Attachments/1730827988 - Subnetsj.png",
     "99-Meta/0. Attachments/IP Addressing and Routing Schemej-1.png",
-    "99-Meta/0. Attachments/IP Addressing and Routing Schemej.png",
-    "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.40.15 PM.png",
-    "99-Meta/0. Attachments/Screenshot 2024-11-03 at 5.17.05 PM.png",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
