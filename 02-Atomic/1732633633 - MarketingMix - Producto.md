@@ -3,8 +3,8 @@ aliases:
   - MarketingMix - Producto
   - Producto
 tags:
-  - incomplete
   - Empresa
+  - incomplete
 References: 
 cssclasses:
 ---

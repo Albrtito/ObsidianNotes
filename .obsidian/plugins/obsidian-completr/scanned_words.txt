@@ -2007,6 +2007,8 @@ altossy
 adquirido
 acotados
 alterar
+aumentan
+academias
 Creaci
 Crear
 Cuando
@@ -3825,6 +3827,7 @@ Centrado
 Condiciona
 Canales
 Compuestos
+Carpetas
 de
 due
 dar
@@ -17072,6 +17075,7 @@ recordado
 represnetantes
 responder
 referente
+repartir
 References
 Resoluci
 Rectas
@@ -22944,6 +22948,7 @@ stas
 selecto
 selectos
 subiesen
+selectiva
 interval
 importancia
 incorrecto
@@ -24849,6 +24854,7 @@ introducci
 intermediarios
 indirecta
 intermediario
+intensiva
 un
 una
 utiliza
@@ -29675,6 +29681,7 @@ Edades
 Enfatizar
 Extender
 Exclusiva
+Escasa
 vital
 variables
 vez
@@ -34487,6 +34494,9 @@ IngresoTrasGasto
 Incorporar
 Intensiva
 Intermediarios
+Inversion
+Inestable
+Intensa
 Definir
 Din
 Design
@@ -36180,6 +36190,7 @@ Distribucion
 Distintas
 Declive
 Dividida
+Disminuye
 funci
 fibonacci
 fica
@@ -42764,6 +42775,9 @@ Ahorro
 Amplitud
 Algunos
 Adecuaci
+Aumenta
+Acuerdo
+Anuncios
 Floyd
 Foundations
 Funci
@@ -44288,6 +44302,7 @@ Fuerzas
 Fhl
 Frente
 Facilida
+Folletos
 Warshall
 Width
 We
@@ -45828,6 +45843,7 @@ Walks
 WRONKSKIAN
 Wlu
 WtG
+Wuolah
 Heuri
 Hecho
 HyO
@@ -57387,6 +57403,7 @@ Misma
 MarketingMix
 Madurez
 Muchos
+Modififaci
 Zivkovic
 Zo
 Zi

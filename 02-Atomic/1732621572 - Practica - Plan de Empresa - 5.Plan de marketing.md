@@ -280,8 +280,14 @@ $$
 + Esto quiere decir, que se podría utilizar esta cifra para aproximar la cantidad de ingresos generados por cada seguro vendido teniendo en cuenta las pérdidas medias que generará ese seguro. 
 
 
-#### Estrategia de comunicación:
+#### Estrategia de comunicación: 
+Para comunicarle a los estudiantes el nuevo servicio que ofrece la empresa se utilizarán los siguientes métodos: 
 
++ **Marketing directo:** Acuerdo con las academias universitarias
++ **Publicidad:** Folletos que repartir 
++ **Marketing directo:** Cosas útiles que repartir (Carpetas)
++ **Publicidad**: Anuncios en Wuolah
++ **Relaciones públicas:** Acuerdos con estudiantes universitarios de la UC3M con un imacto alto en RRSS
 
 
 ***

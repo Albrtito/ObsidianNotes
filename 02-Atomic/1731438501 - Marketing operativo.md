@@ -14,7 +14,7 @@ cssclasses:
 > Sistema de acción distribuido en cuatro partes a las que llamamos **marketing mix**. 
 > + Precio 
 > + [[1732633633 - MarketingMix - Producto|Producto]]
-> + Comunicación 
+> + [[1732648928 - MarketingMix - Comunicacion|Comunicación]] 
 > + [[1732633799 - MarketingMix - Distribucion|Distribución]]
 
  
