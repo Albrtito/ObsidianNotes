@@ -17,12 +17,18 @@ cssclasses:
 ### 2.1 Análisis del entorno genérico: 
 Analizamos el entorno genérico a través de los siguientes factores: 
 #### Factores económicos: 
++ El poder adquisitivo de las familias de estudiantes univesritarios 
++ El coste del crédito universitario público. 
++ 
 #### Factores politico-legales:
-
++ La regulación del sector asegurador 
++ Políticas de educación universitaria 
 #### Factores socio-culturales:
-
++ La estima a la educación universitaria en la sociedad
++ El nivel educativo de la ESO y BACH. 
++ La percepción de riesgo de los estudiantes. 
 #### Factores tecnológicos:
-
++ 
 
 ### 2.2 Análisis del entorno específico: PORTER
 Utilizamos el análisis de las Cinco Fuerzas de Porter para analizar el entorno específico de la empresa. 
