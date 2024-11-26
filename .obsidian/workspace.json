@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "3fba0475cebb59d0",
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1728936738 - Sistemas de produccion en masa.md",
+                "file": "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1728936738 - Sistemas de produccion en masa"
+              "title": "Graph of 1732621572 - Practica - Plan de Empresa - 5.Plan de marketing"
             }
           }
         ]
@@ -272,10 +272,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1728936738 - Sistemas de produccion en masa.md"
+                "file": "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1728936738 - Sistemas de produccion en masa"
+              "title": "Outline of 1732621572 - Practica - Plan de Empresa - 5.Plan de marketing"
             }
           },
           {
@@ -360,10 +360,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "322b94cd15d6c90e",
+  "active": "ad3c76f5e361b54d",
   "lastOpenFiles": [
-    "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
     "02-Atomic/1728936738 - Sistemas de produccion en masa.md",
+    "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
     "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
     "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
     "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
