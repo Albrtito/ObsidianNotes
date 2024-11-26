@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732623287 - Proceso de segmentacion de mercados.md",
+                "file": "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732623287 - Proceso de segmentacion de mercados"
+              "title": "Graph of 1732621572 - Practica - Plan de Empresa - 5.Plan de marketing"
             }
           }
         ]
@@ -272,10 +272,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732623287 - Proceso de segmentacion de mercados.md"
+                "file": "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732623287 - Proceso de segmentacion de mercados"
+              "title": "Outline of 1732621572 - Practica - Plan de Empresa - 5.Plan de marketing"
             }
           },
           {
@@ -360,13 +360,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ca25bbded46665c2",
+  "active": "ad3c76f5e361b54d",
   "lastOpenFiles": [
+    "02-Atomic/1732623287 - Proceso de segmentacion de mercados.md",
     "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
     "01-Areas/1.UC3M/Empresa.md",
     "02-Atomic/1731435991 - Gestion comercial y marketing en la empresa.md",
     "02-Atomic/1731436877 - El plan de marketing.md",
-    "02-Atomic/1732623287 - Proceso de segmentacion de mercados.md",
     "02-Atomic/1732622827 - Estrategias de segmentacion del mercado.md",
     "02-Atomic/1731438416 - Marketing estratégico.md",
     "02-Atomic/1731438501 - Marketing operativo.md",

@@ -1991,6 +1991,7 @@ aprovechamiento
 asgQ
 ampliamente
 aceptados
+acuden
 Creaci
 Crear
 Cuando
@@ -3800,6 +3801,8 @@ Condiciones
 Cinco
 Cdy
 CXl
+Comportamiento
+Criterio
 de
 due
 dar
@@ -5757,6 +5760,9 @@ diferenciada
 dirige
 dan
 diferencian
+deseos
+demogr
+diferenciadas
 modelos
 modelo
 maximizar
@@ -7611,6 +7617,8 @@ manener
 mns
 mZX
 mediana
+municipio
+madrile
 en
 ease
 es
@@ -9610,6 +9618,7 @@ estudiantiles
 establezca
 eFYy
 eligen
+estilios
 programaci
 primer
 paso
@@ -11630,6 +11639,7 @@ pMi
 pFn
 pyG
 prioridades
+parten
 lineal
 la
 lo
@@ -13336,6 +13346,7 @@ ltm
 lXm
 lgi
 limitados
+legan
 tags
 tres
 todos
@@ -18628,6 +18639,7 @@ Relations
 Realizaremos
 Rfi
 RTYTN
+Renta
 cssclasses
 correcto
 correcta
@@ -20840,6 +20852,8 @@ comportamiento
 comprador
 conducta
 claramente
+consumir
+conductas
 sr
 se
 subproblemas
@@ -22823,6 +22837,9 @@ suspensos
 segmentacion
 segmento
 segmenteaci
+sexo
+segmetnaci
+socioecon
 interval
 importancia
 incorrecto
@@ -26276,6 +26293,7 @@ universitario
 uEu
 uKBY
 uju
+urbano
 hora
 hacemos
 hacia
@@ -27804,6 +27822,7 @@ hKh
 hstOf
 hito
 harder
+habitat
 Es
 Este
 Ejemplos
@@ -29537,6 +29556,9 @@ Epw
 Epi
 Eck
 Establecer
+Edad
+Estudiantes
+Edades
 vital
 variables
 vez
@@ -36026,6 +36048,7 @@ Derivation
 Digitalizaci
 Diferenciarse
 Darse
+Demogr
 funci
 fibonacci
 fica
@@ -52290,6 +52313,8 @@ PORTER
 Perdidas
 POSIBLE
 Posicionamiento
+Psicol
+Personalidades
 Biblio
 BitsPerComponent
 BI
@@ -55508,6 +55533,8 @@ Segundas
 SOm
 Segmentaci
 Segmento
+Socioecon
+Sirven
 Manual
 Modelar
 Millones
@@ -61936,6 +61963,8 @@ bidirectional
 beneficia
 barreras
 becas
+basean
+bitos
 Util
 Una
 UniZumo
