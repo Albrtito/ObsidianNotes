@@ -1979,6 +1979,8 @@ aproximado
 atenerse
 asegurada
 aproximar
+adquisitivo
+asegurador
 Creaci
 Crear
 Cuando
@@ -9577,6 +9579,8 @@ escuela
 estandarizarlo
 estimadas
 estudianto
+educaci
+estima
 programaci
 primer
 paso
@@ -11584,6 +11588,7 @@ polit
 posteriores
 pruebas
 politico
+percepci
 lineal
 la
 lo
@@ -16930,6 +16935,7 @@ replaced
 reasoning
 recursive
 realizase
+regulaci
 References
 Resoluci
 Rectas
@@ -20766,6 +20772,7 @@ complicar
 calculados
 cuartas
 controles
+clulo
 sr
 se
 subproblemas
@@ -26188,6 +26195,8 @@ unweighted
 universitarias
 universitaria
 unknowns
+univesritarios
+universitario
 hora
 hacemos
 hacia
@@ -35923,6 +35932,7 @@ Differentiability
 Derivatives
 Differentiable
 Derivation
+Digitalizaci
 funci
 fibonacci
 fica
@@ -53654,6 +53664,7 @@ Balanced
 Bipartite
 Breath
 BUT
+BACH
 Steven
 Skiena
 Serie
