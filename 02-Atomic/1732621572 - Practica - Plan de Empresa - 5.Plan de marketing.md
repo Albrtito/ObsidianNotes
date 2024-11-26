@@ -25,7 +25,12 @@ cssclasses:
 + El plan de marketing debe de cumplir el objetivo 3 de la sección 3.2: **Destacar y darse a conocer en la comunidad de estudiantes universitarios**
 ### 5.1 Marketing estratégico: 
 El marketing estratégico de la empresa ha de crear un sistema de información que permite el análisis del mercado y el diseño de una estrategia que facilite el aprovechamiento de oportunidades. 
-En este caso se han diferenciado  el **mercado de referencia**
+En este caso se han diferenciado: 
+
++ El  **mercado de referencia** como aquel donde se podría actuar → Toda la comunidad de estudiantes universitarios. 
++ El **mercado relevante** como aquel donde se actua → Comunidad de estudiantes universitarios de la escuela politécnica de la UC3M. 
+
+
 
 
 
