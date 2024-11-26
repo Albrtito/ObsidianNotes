@@ -1992,6 +1992,7 @@ asgQ
 ampliamente
 aceptados
 acuden
+aprobarla
 Creaci
 Crear
 Cuando
@@ -7621,6 +7622,7 @@ mZX
 mediana
 municipio
 madrile
+miedo
 en
 ease
 es
@@ -9621,6 +9623,7 @@ establezca
 eFYy
 eligen
 estilios
+elegido
 programaci
 primer
 paso
@@ -17004,6 +17007,8 @@ requeridos
 regulado
 riamente
 regulares
+relevantes
+recurosos
 References
 Resoluci
 Rectas
@@ -20861,6 +20866,8 @@ conductas
 consumen
 clientela
 categor
+cualitativo
+criteros
 sr
 se
 subproblemas
@@ -22847,6 +22854,7 @@ segmenteaci
 sexo
 segmetnaci
 socioecon
+suspender
 interval
 importancia
 incorrecto
@@ -36057,6 +36065,7 @@ Diferenciarse
 Darse
 Demogr
 Diferenciamos
+Dirigido
 funci
 fibonacci
 fica
@@ -37762,6 +37771,7 @@ fZh
 fä
 fpUd
 fiD
+favorable
 objetivo
 obtener
 of

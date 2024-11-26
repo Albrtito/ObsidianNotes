@@ -34,16 +34,21 @@ En este caso se han diferenciado:
 #### El proceso de segmentación del mercado: 
 El proceso de segmentación nos permite dividir el mercado, obteniendo el grupo de compradores relevantes. Esta segmentación la hemos realizado siguiendo los siguientes criteros.
 ##### Criterios de segmetnación: 
-Se han utilizado los siguientes criterios de segmentación para definir los segmentos objetivo. 
+Se han utilizado los siguientes criterios de segmentación para definir **un único** segmento objetivo. 
+
 1. **Criterio geográfico:** Estudiantes del municipio madrileño que acuden a la escuela politécnica de la uc3m en leganés. 
 2. **Criterio demográfico:** Edades de entre 18 y 25
 3. **Criterio socioeconómico:** Estudiantes de familia de clase media-alta.
-4. **Según la categoría del usuario:** Diferenciamos entre nuevos estudiantes de la universidad y estudiantes que ya llevan un tiempo en ella. 
 5. **Criterio psicográfico:** Define el tipo de personalidad de los estudiantes a los que va dirigido el servicio: Dirigido a estudiantes con miedo a suspender la asignatura pero con la capacidad para aprobarla. 
 
-
 ##### Estrategia de segmentación:
-+ **Segmentación concentrada** en el segmento propuesto. 
+La estrategia escogida es la de **segmentación concentrada**.
+
+Se ha elegido esta estrategia debido a que:
++ Es favorable para las pequeña empresa en la que se tienen recurosos limitados, como es  en este caso. 
++ La empresa se quiere enfocar unicamente en el segmento definido. 
+
+
 
 
 
