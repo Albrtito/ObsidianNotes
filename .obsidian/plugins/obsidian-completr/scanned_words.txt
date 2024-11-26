@@ -2002,6 +2002,9 @@ abreviar
 ahorra
 ampliar
 afectadas
+abandone
+altossy
+adquirido
 Creaci
 Crear
 Cuando
@@ -7645,6 +7648,7 @@ madrile
 miedo
 mejore
 madurez
+mantendremos
 en
 ease
 es
@@ -9651,6 +9655,7 @@ envase
 especialidad
 evalua
 elaborar
+elaborado
 programaci
 primer
 paso
@@ -20920,6 +20925,7 @@ culos
 canales
 camptar
 completar
+camba
 sr
 se
 subproblemas
@@ -24811,6 +24817,7 @@ identifican
 individuales
 identificaci
 individualeso
+introducci
 un
 una
 utiliza
@@ -37847,6 +37854,8 @@ fabricantes
 fabricante
 funcionalidad
 fases
+facetas
+faceta
 objetivo
 obtener
 of

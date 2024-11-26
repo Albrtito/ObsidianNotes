@@ -83,6 +83,7 @@ Se establecería una única línea de producto con un artículo individual, el s
 El objetivo de este plan de marketing es que **al finalizar los cinco años se abandone la fase de introducción, entrando en la fase de crecimiento.**
 Esto significa que mantendremos las ventas bajas, los precios altossy se  realizarán cambañas de comunicación para dar a conocer a la empresa. 
 #### Estrategias de distribución:
+
 #### Precio:
 El cálculo realizado para calcular el seguro será: 
 
@@ -244,7 +245,7 @@ $$
 $$
 Que podemos simplificar como: 
 $$
-\text{Gastos} = 7.28n
+\text{Gastos} = 76.284n
 $$
 + Esto quiere decir que, **generalizando, la empresa perdería   por cada seguro vendido 76,28$**
 + Observamos que, por ejemplo, para ese mismo número de seguros de 100 utilizando en los ingresos antes de pérdidas obtendríamos unas pérdidas de: 

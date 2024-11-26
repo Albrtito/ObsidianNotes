@@ -15,7 +15,7 @@ cssclasses:
 > + Precio 
 > + [[1732633633 - MarketingMix - Producto|Producto]]
 > + Comunicación 
-> + Distribución
+> + [[1732633799 - MarketingMix - Distribucion|Distribución]]
 
  
  
