@@ -1976,6 +1976,9 @@ adirlos
 asegurado
 aseguradas
 aproximado
+atenerse
+asegurada
+aproximar
 Creaci
 Crear
 Cuando
@@ -3781,6 +3784,7 @@ Continuity
 Cauchy
 Calculado
 Cuartas
+Condiciones
 de
 due
 dar
@@ -5731,6 +5735,7 @@ discontinuity
 decidido
 duplica
 descuentos
+descritas
 modelos
 modelo
 maximizar
@@ -9570,6 +9575,7 @@ estandarizar
 escuela
 estandarizarlo
 estimadas
+estudianto
 programaci
 primer
 paso
@@ -11575,6 +11581,7 @@ parallel
 posteriormente
 polit
 posteriores
+pruebas
 lineal
 la
 lo
@@ -20756,6 +20763,7 @@ calificar
 complicar
 calculados
 cuartas
+controles
 sr
 se
 subproblemas
@@ -22733,6 +22741,7 @@ special
 squared
 supodr
 suspendieses
+superior
 interval
 importancia
 incorrecto
@@ -31030,6 +31039,7 @@ vertices
 valence
 variation
 verdad
+vendido
 no
 nuestras
 ndar
@@ -34227,6 +34237,7 @@ Indique
 Indicar
 Ingresoss
 Ingreso
+IngresoTrasGasto
 Definir
 Din
 Design
@@ -50352,6 +50363,7 @@ grah
 genes
 guess
 generalizando
+gather
 Programaci
 Para
 Problema
@@ -66410,6 +66422,7 @@ OvK
 ODAJ
 Other
 Obengo
+Observamos
 ximo
 xrL
 xFQ

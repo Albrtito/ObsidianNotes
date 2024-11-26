@@ -193,15 +193,20 @@ $$
 $$
 Que podemos simplificar como: 
 $$
-\text{Gastos} = 
+\text{Gastos} = 7.28n
 $$
-+ Esto quiere decir que, **generalizando, la empresa perdería   por cada seguro vendido**
++ Esto quiere decir que, **generalizando, la empresa perdería   por cada seguro vendido 76,28$**
 + Observamos que, por ejemplo, para ese mismo número de seguros de 100 utilizando en los ingresos antes de pérdidas obtendríamos unas pérdidas de: 
 $$
 Gastos_{100} = 7628.4 $
 $$
 
-##### Ingresos finales: 
+##### Ingresos después del gasto estimado: 
+Uniendo los ingresos y gastos estimados podemos calcular el ingreso medio por seguro después del gasto estimado como. 
+$$
+\text{IngresoTrasGasto} = (212.46 - 76.28)n = 136.18n
+$$
++ Esto quiere decir, que se podría utilizar esta cifra para aproximar la cantidad de ingresos generados por cada seguro vendido teniendo en cuenta las pérdidas medias que generará ese seguro. 
 
 
 

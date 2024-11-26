@@ -23,7 +23,7 @@ La empresa se posiciona dentro del sector terciario de servicios como una microe
 Esto se debe a que: 
 + La cantidad de trabajadores de la empresa será menor que 10 y facturará una cantidad menor que 2M anualmente. 
 + La empresa actua únicamente en el mercado de seguros español. 
-
+#### Forma jurídica
 Por último, la empresa se creará como  sociedad de capitales, una **sociedad de responsabilidad limitada** que se creará con dos socios. 
 Se elegirá esta forma debido a que:
 + ==El capital desembolsado incialmente será de X==  → @Tomas
@@ -31,7 +31,7 @@ Se elegirá esta forma debido a que:
 ### 3.2 Objetivos de la empresa: 
 Los objetivos de la empresa serán:
 1. **Maximizar el valor de la empresa** → Plan económico
-2. **Proporcionar seguridad económica a los estudiantes universitarios** 
+2. **Proporcionar seguridad económica a los estudiantes universitarios**
 3. **Destacar y darse a conocer en la comunidad de estudiantes universitarios**
 
 
