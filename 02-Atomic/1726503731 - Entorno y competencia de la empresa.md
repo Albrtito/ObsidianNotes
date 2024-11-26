@@ -30,8 +30,7 @@ El **donde** actua y se desarrolla la empresa es de vital importancia, debemos d
 	+ Regulación de las industrias
 		+ p.e: Licencias de estancos
 + **Factores socio-culturales:**
-
-		+ p.e: Espíritu al trabajo
+	+ p.e: Espíritu al trabajo
 	+ Nivel educativo 
 	+ Estructura de clases: Cantidad de clase media
 + **Factores tecnológicos:**
