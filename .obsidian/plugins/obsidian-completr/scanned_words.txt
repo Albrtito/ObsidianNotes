@@ -2001,6 +2001,7 @@ asociando
 abreviar
 ahorra
 ampliar
+afectadas
 Creaci
 Crear
 Cuando
@@ -5784,6 +5785,7 @@ dsitintas
 distribuidores
 desarrollado
 distitntas
+desarrolar
 modelos
 modelo
 maximizar
@@ -7642,6 +7644,7 @@ municipio
 madrile
 miedo
 mejore
+madurez
 en
 ease
 es
@@ -11674,6 +11677,7 @@ proporciona
 posicionando
 pseudof
 proposito
+pasiva
 lineal
 la
 lo
@@ -36132,6 +36136,7 @@ Diferenciamos
 Dirigido
 Distribucion
 Distintas
+Declive
 funci
 fibonacci
 fica
@@ -37841,6 +37846,7 @@ favorable
 fabricantes
 fabricante
 funcionalidad
+fases
 objetivo
 obtener
 of
@@ -57331,6 +57337,7 @@ Mvm
 MaL
 Misma
 MarketingMix
+Madurez
 Zivkovic
 Zo
 Zi

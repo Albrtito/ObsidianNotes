@@ -68,9 +68,19 @@ Tras el análisis de la gama de productos que ofrece una empresa se pueden elabo
 4. Reducir la amplitud o profundidad de la línea
 
 ## Ciclo de vida del producto: 
-El ciclo de vida de un producto se divide en 4 fases: 
-1. Introducción
-2. Crecimiento 
-3. Madurez 
-4. Declive 
+El ciclo de vida de un producto se compone por las diferentes etapas de desarrollo del mismo. Estas etapas **no se producen de modo *natural* sino que se ven afectadas por todo tipo de factores(externos e internos)**
++ Debido a esto no se debe tomar una posición pasiva sino desarrolar estrategias para mantenerse en crecimiento/madurez
++ 
+
+se divide en 4 fases: 
+1. **Introducción**: 
+   + Altos costes de marketing
+   + campañas para darse a conocer
+   + Inversion en comunicación
+   + Dificil/Inestable relación con los proovedores.
+1. **Crecimiento**:  
+2. **Madurez**: 
+3. **Declive**: 
+
+![[1732633633 - MarketingMix - Productoj.png|center]]
 ***
