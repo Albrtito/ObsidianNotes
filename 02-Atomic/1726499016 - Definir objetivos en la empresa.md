@@ -28,4 +28,4 @@ No solo tenemos al grupo de los directivos sino también al de los **trabajadore
 
 + Los directivos ponen los objetivos, **(teniendo en cuenta | tomando como restricción) los objetivos del resto de grupos y la supervivencia de la empresa**
 
-> p.e: El objetivo que resume todo esto será **“maximizar el valor de la empresa”** → PONER COMO OBJETIVO PARA EL [[1726500297 - Plan de Empresa|Plan de Empresa]]
+> p.e: El objetivo que resume todo esto será **“maximizar el valor de la empresa”** → PONER COMO OBJETIVO PARA EL [[1726500297 - Practica - Plan de Empresa|Plan de Empresa]]

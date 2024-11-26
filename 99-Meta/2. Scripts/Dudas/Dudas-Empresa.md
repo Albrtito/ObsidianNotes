@@ -51,7 +51,7 @@
 
 > [!duda] Duda 8
 > : Se busca que redactemos las características y teoría de cada parte realizada o que directamente argumentemos las decisiones asuminedo que la teoría ya es conocida?
-> Encontrada en: [[1726500297 - Plan de Empresa]]
+> Encontrada en: [[1726500297 - Practica - Plan de Empresa]]
 
 > [!check] Solución 8
 > 

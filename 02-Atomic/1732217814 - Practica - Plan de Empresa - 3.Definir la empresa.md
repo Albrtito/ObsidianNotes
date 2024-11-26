@@ -41,9 +41,10 @@ A continuación definimos las estrategias competitivas y coorporativas que lleva
 La empresa utilizaría una **estrategia de liderazgo en diferenciación**.
 
 Debido a que es un producto innovador y diferente al resto no es necesario competir en costes con ningún otra empresa. 
-Sin embargo si que es necesario manener una diferenciación clara entre el servicio propuesto para:
+Sin embargo si que es necesario manener una diferenciación clara y **centrada en la marca** para:
+
 + Diferenciarse frente a otros productos sustitutivos como las becas universitarias. 
-+ Unir el servicio a la marca y captar una gran cantidad del mercado para crear 
++ Unir el servicio a la marca y captar una gran cantidad del mercado para aumentar las barreras de entrada al sector y protegerse de futuros competidores. 
 
 > POSIBLE: Debido a que no hay otras empresas que ofrezcan el mismo servicio la diferenciación se enfocaría en comparación con posibles productos sustitutivos. 
 

@@ -27,6 +27,8 @@ Se presenta a continuación un MOC con cada una de las partes realizadas.
 1. [[1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa|Inventar una empresa]]
 2. [[1732217706 - Practica - Plan de Empresa - 2.Analisis del sector|Analisis del sector]]
 3. [[1732217814 - Practica - Plan de Empresa - 3.Definir la empresa|Definir la empresa]]
+4. Sistema de producción 
+5. [[Plan de marke]]
 
 
 ***
