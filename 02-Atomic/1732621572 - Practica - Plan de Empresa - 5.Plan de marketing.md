@@ -56,7 +56,9 @@ Para este segmento ya definido se seguirá una estrategia de posicionamiento bas
 2. **Las características del usuario y producto:** Se asociará la necesidad de un seguro con el miedo de suspender la asignatura, asociando a el servicio como un **nivel extra de seguridad**, centrandose en los estudiantes que aprueban pero no tienen la seguridad de que lo vayan a hacer.  
 
 ### 5.2 El marketing operativo:
-En esta sección se define 
+En esta sección se definen las estrategias aplicadas para cada elemento del **marketing mix**. 
+#### Estrategia de producto: 
+El producto ofrecido por la empresa es un **servicio de seguros de matrícula universitaria** dirigido a estudiantes universitarios de la UC3M. Debido a su naturaleza podemos categorizar el producto como un bien de especialidad.
 
 
 
