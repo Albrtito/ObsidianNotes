@@ -45,7 +45,19 @@ Dividimos las marcas según la estrategia de marca utilizada.
 ### Calidad: 
 
 > [!NOTE] Def: 
-> Definimos calidad como el **grado de adecuación al uso** de un producto. *cuanto satisfa* 
+> Definimos calidad como el **grado de adecuación al uso** de un producto. *cuanto satisface el producto las necesidades del cliente* . La calidad depende de:
+> + Lo que se espera del producto 
+> + Las características del producto
 
+## Líneas de productos:
+Una empresa puede producir más de un único producto, a cada uno de estos productos o conjunto de ellos les llamamos **líneas de productos**. 
+ 
+### Gama de productos:
+> [!NOTE] Gama de productos
+> La gama de productos es la oferta total compuesta por líneas de productos y artículos individuales.  
 
++ **Amplitud de la gama:** Número de líneas que comparten una o varias características 
++ **Profundidad de la gama:** Referencias individualeso productos ofrecidos en cada línea. 
++ **Longitud de la gama:** Número de productos fabricados por la empresa, la suma de todas las distitntas líneas de producto. 
++ **Consistencia de la gama:** La medida en la que varias lineas se 
 ***
