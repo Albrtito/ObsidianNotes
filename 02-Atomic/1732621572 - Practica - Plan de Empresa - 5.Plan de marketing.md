@@ -91,9 +91,18 @@ Hemos decidido utilizar este tipo de canal debido a que:
 
 La distribución se realizará a través de consultas telefónicas o presenciales con los clientes. Debido a esto la empresa tendrá una persona contratada para responder a consultas. 
 
-Como solo se quiere llegar a un grupo muy selecto de compradores en el mercado desde un número muy limitado de establecimientos se utilizará una **estrategia de distribución exclusiva**
+Como solo se quiere llegar a un grupo muy selecto de compradores en el mercado desde un número muy limitado de establecimientos se utilizará una **estrategia de distribución exclusiva**. El único establecimiento qu
 
-#### Precio:
+#### Estrategia de precio:
+Como en todos los seguros, el precio se calcula a través de una estimación de los riesgos y un estudio estadístico de las variables que afectan al precio del seguro. 
+
+Esta estrategia permite crear un modelo económico del comportamiento del mercado relevante y utilizar estrategias de precio en función de costes. Donde los costes se calculan utilizando el modelo económico creado. 
+
+En el caso de que los costes del seguro subiesen se alterarían los descuentos máximos que da el seguro para aumentar los beneficios. 
+
+A continuación se da una explicación detallada del cálculo de los precios obtenidos tras analizar el mercado referente. 
+
+##### Cálculo del precio: 
 El cálculo realizado para calcular el seguro será: 
 
 **En caso de que el estudiante sea de nuevo acceso a la universidad (primer año)**
