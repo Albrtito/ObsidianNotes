@@ -1981,6 +1981,11 @@ asegurada
 aproximar
 adquisitivo
 asegurador
+aportado
+aplica
+aprobados
+anticipar
+aseguradoras
 Creaci
 Crear
 Cuando
@@ -5739,6 +5744,8 @@ decidido
 duplica
 descuentos
 descritas
+directa
+diversificasen
 modelos
 modelo
 maximizar
@@ -7588,6 +7595,8 @@ microempresa
 monomercado
 mputo
 muerto
+mayorit
+manener
 en
 ease
 es
@@ -9582,6 +9591,8 @@ estudianto
 educaci
 estima
 establecidos
+enfocar
+estudiantiles
 programaci
 primer
 paso
@@ -11590,6 +11601,8 @@ posteriores
 pruebas
 politico
 percepci
+protegen
+proporcionan
 lineal
 la
 lo
@@ -13291,6 +13304,7 @@ lanzarnos
 len
 love
 loop
+limitando
 tags
 tres
 todos
@@ -15084,6 +15098,7 @@ trying
 trigonometric
 tangent
 terceras
+tradicionales
 review
 resolver
 realizar
@@ -16937,6 +16952,9 @@ reasoning
 recursive
 realizase
 regulaci
+requeridos
+regulado
+riamente
 References
 Resoluci
 Rectas
@@ -20775,6 +20793,10 @@ cuartas
 controles
 clulo
 coorporativas
+comparaci
+comptetitividad
+compiten
+carrera
 sr
 se
 subproblemas
@@ -22753,6 +22775,8 @@ squared
 supodr
 suspendieses
 superior
+stamos
+suspensos
 interval
 importancia
 incorrecto
@@ -32629,6 +32653,8 @@ numerada
 naci
 normally
 notations
+novedoso
+nicos
 Identificar
 Intro
 Identificaci
@@ -39201,6 +39227,8 @@ optimization
 okay
 ofrecido
 organizativos
+ofrezcan
+ocurren
 que
 queremos
 qD
@@ -52170,6 +52198,7 @@ Propietarios
 Paga
 PORTER
 Perdidas
+POSIBLE
 Biblio
 BitsPerComponent
 BI
@@ -53668,6 +53697,7 @@ Bipartite
 Breath
 BUT
 BACH
+Becas
 Steven
 Skiena
 Serie
@@ -61802,6 +61832,8 @@ backwards
 button
 bidirectional
 beneficia
+barreras
+becas
 Util
 Una
 UniZumo
