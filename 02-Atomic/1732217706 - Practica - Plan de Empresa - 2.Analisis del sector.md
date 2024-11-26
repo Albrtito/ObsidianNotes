@@ -38,17 +38,21 @@ Utilizamos el análisis de las Cinco Fuerzas de Porter para analizar el entorno 
 + La comptetitividad en el sector es mínima debido a la diferenciación del producto. Este tipo de seguros es algo muy novedoso. Los únicos seguros universitarios que compiten en este sector lo hacen en forma de “fondo de inversión universitario”. [^1]
 
 #### Estudio de los productos sustitutivos: 
+
 + **Becas universitarias**
 + **Préstamos estudiantiles**
 + **Seguros de fondos universitarios**
 
 #### Proovedores: 
-+ 
+Los proovedores de una compañía aseguradora son aquellos que les proporcionan los datos para poder adaptar el precio del seguro según las últimas estadísticas de aprobados, suspensos, etc. Al enfocarnos en el mercado de la **educación público universitaria** las universidades públicas serían los proovedores que pueden proporcionar los datos requeridos.  No obstante estas universidades tienen regulado por ley los datos que pueden proporcionar. 
+Esto quiere decir que 
 
-#### Relación con los clientes: 
+#### Estudio de los clientes: 
+Los clientes serán **estudiantes universitarios**, mayoritáriamente de primero y segundo año de carrera pues es cuando la mayoría de suspensos ocurren. 
+El **poder de negociación de estos clientes será nulo** puesto a que el seguro se calcula directamente con sus notas y no tienen ellos capacidad de negociar o cambiar el precio. 
 
-#### Rivalidad dentro del sector: 
-
+#### Estudio de la rivalidad del sector: 
+La rivalidad del sector será **baja** debido a que es un producto innovador que no tiene competencia directa. 
 
 ***
 
