@@ -19,8 +19,25 @@ La distribución tiene dos facetas:
 2. Los canales de distribución
 
 ## Canales de distribución: 
+Algunos conceptos básicos de los canales de distribución son: 
++ **Longitud del canal:** Según el número de intermediarios(saltos) que hay entre la producción y le venta del producto. 
 ### Tipos: 
-Diferenciamos entre dos tipos de canales 
+Diferenciamos entre dos tipos de canales de distribución según su longitud. 
+1. **Distribución directa:** 
+   + Longitud uno
+2. **Distribución indirecta:** Dividida entre **corta y larga** segun si tiene uno o más intermediarios. 
+   + Longitud mayor que uno 
+   + Compuestos por 
+     empresa → represnetantes →mayorístas → minorístas
+### Funciones: 
++ Reducción del número de contactos 
++ Agrupación de la oferta 
++ Movimiento del producto 
++ Adecuación a oferta/demanda 
++ Prestación de servicios al producto 
 
-
+### Estrategias de distribución: 
+1. **Intensiva**
+2. **Selectiva**
+3. **Ex**
 ***
