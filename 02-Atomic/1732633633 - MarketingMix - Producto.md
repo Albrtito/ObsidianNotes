@@ -37,4 +37,15 @@ Dividimos las marcas según la estrategia de marca utilizada.
 
 ### Diseño y forma: 
 
+> [!NOTE] Def: 
+> El diseño es la combinación adecuada de aspecto, color, forma y facilidad de uso. Se evalua desde una **doble perspectiva**:
+> + La estética → Belleza
+> + La funcionalidad o utilidad → Facilida de uso
+
+### Calidad: 
+
+> [!NOTE] Def: 
+> Definimos calidad como el **grado de adecuación al uso** de un producto. *cuanto satisfa* 
+
+
 ***

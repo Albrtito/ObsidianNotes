@@ -62,7 +62,7 @@ El producto ofrecido por la empresa es un **servicio de seguros de matrícula un
 
 El producto posee los siguientes atributos. 
 ##### Imagen: 
-La imagen del producto va directamente ligada a la comunidad universitaria. La marca será de tipo **único o corporativo**, todos los productos utilizarán el mismo logo, que se muestra a continuación.
+La imagen del producto va directamente ligada a la comunidad universitaria. La marca seguirá una estrategia de tipo **único o corporativo**, todos los productos se unirán a la misma imagen. De esta forma no solo se ahorra en gastos de marketing sino que también facilita la identificación de la marca a los estudiantes. 
 **Logos:**
 + Se utiliza el color azul para crear seguridad y confianza en la marca.  
 
@@ -75,6 +75,7 @@ La imagen del producto va directamente ligada a la comunidad universitaria. La m
 2. También se ha desarrollado un logo de texto que utiliza la misma tipología y diseño: 
 
 ![[1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png|center]]
+
 
 
 #### Precio:
