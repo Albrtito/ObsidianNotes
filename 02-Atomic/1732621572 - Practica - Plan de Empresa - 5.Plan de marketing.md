@@ -16,7 +16,7 @@ cssclasses:
 >-  [x] b. Define la estrategia de posicionamiento de la empresa 
 >
 >**Marketing mix**: 
->+ [ ] a. Estrategia de producto (Definición y atributos, línea de producto, ciclo de vida) 
+>+ [x] a. Estrategia de producto (Definición y atributos, línea de producto, ciclo de vida) 
 >+ [ ] b. Estrategia de distribución (Definir la estrategia de distribución)
 >+ [x] c. Precios (establezca el precio que se utilizará para calcular el punto muerto).
 >+ [ ] d. Estrategia de comunicación (Definir el método más adecuado: publicidad, promociones, etc). 
@@ -75,14 +75,14 @@ La imagen del producto va directamente ligada a la comunidad universitaria. La m
 2. También se ha desarrollado un logo de texto que utiliza la misma tipología y diseño: 
 
 ![[1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png|center]]
-##### Forma
+##### Forma: 
 #### Línea de producto: 
 Se establecería una única línea de producto con un artículo individual, el seguro de matrícula para una asignatura. 
 
 #### Ciclo de vida del producto: 
 El objetivo de este plan de marketing es que **al finalizar los cinco años se abandone la fase de introducción, entrando en la fase de crecimiento.**
-
-
+Esto significa que mantendremos las ventas bajas, los precios altossy se  realizarán cambañas de comunicación para dar a conocer a la empresa. 
+#### Estrategias de distribución:
 #### Precio:
 El cálculo realizado para calcular el seguro será: 
 
@@ -259,6 +259,8 @@ $$
 $$
 + Esto quiere decir, que se podría utilizar esta cifra para aproximar la cantidad de ingresos generados por cada seguro vendido teniendo en cuenta las pérdidas medias que generará ese seguro. 
 
+
 #### Estrategia de comunicación:
+
 
 ***
