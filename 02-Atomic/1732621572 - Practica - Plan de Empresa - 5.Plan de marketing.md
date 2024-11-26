@@ -83,6 +83,15 @@ Se establecería una única línea de producto con un artículo individual, el s
 El objetivo de este plan de marketing es que **al finalizar los cinco años se abandone la fase de introducción, entrando en la fase de crecimiento.**
 Esto significa que mantendremos las ventas bajas, los precios altossy se  realizarán cambañas de comunicación para dar a conocer a la empresa. 
 #### Estrategias de distribución:
+El **canal de distribución será directo** en la mayoría de los casos pues la empresa vendrá directamente y sin intermediarios el servicio. 
+
+Hemos decidido utilizar este tipo de canal debido a que:
++ La empresa todavía está en fase de introducción y no posee grandes cantidades de capital
++ Hay un único producto que vender y no requiere distribución física. 
+
+La distribución se realizará a través de consultas telefónicas o presenciales con los clientes. Debido a esto la empresa tendrá una persona contratada para responder a consultas. 
+
+Como solo se quiere llegar a un grupo muy selecto de compradores en el mercado desde un número muy limitado de establecimientos se utilizará una **estrategia de distribución exclusiva**
 
 #### Precio:
 El cálculo realizado para calcular el seguro será: 

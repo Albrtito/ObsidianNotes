@@ -37,7 +37,7 @@ Diferenciamos entre dos tipos de canales de distribución según su longitud.
 + Prestación de servicios al producto 
 
 ### Estrategias de distribución: 
-1. **Intensiva**
+1. **Intensiva**: Muchos intermediarios, 
 2. **Selectiva**
-3. **Ex**
+3. **Exclusiva** 
 ***

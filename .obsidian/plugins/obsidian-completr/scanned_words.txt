@@ -3821,6 +3821,8 @@ Conducta
 Comparar
 Centrado
 Condiciona
+Canales
+Compuestos
 de
 due
 dar
@@ -7649,6 +7651,7 @@ miedo
 mejore
 madurez
 mantendremos
+minor
 en
 ease
 es
@@ -17053,6 +17056,7 @@ recurosos
 reporta
 reputaci
 recordado
+represnetantes
 References
 Resoluci
 Rectas
@@ -20926,6 +20930,7 @@ canales
 camptar
 completar
 camba
+corta
 sr
 se
 subproblemas
@@ -22916,6 +22921,9 @@ suspender
 sufra
 siglas
 siguietnes
+saltos
+segun
+stas
 interval
 importancia
 incorrecto
@@ -24818,6 +24826,8 @@ individuales
 identificaci
 individualeso
 introducci
+intermediarios
+indirecta
 un
 una
 utiliza
@@ -29643,6 +29653,7 @@ Estudiantes
 Edades
 Enfatizar
 Extender
+Exclusiva
 vital
 variables
 vez
@@ -34452,6 +34463,7 @@ Ingresoss
 Ingreso
 IngresoTrasGasto
 Incorporar
+Intensiva
 Definir
 Din
 Design
@@ -36144,6 +36156,7 @@ Dirigido
 Distribucion
 Distintas
 Declive
+Dividida
 funci
 fibonacci
 fica
@@ -42726,6 +42739,8 @@ Asociar
 Atributos
 Ahorro
 Amplitud
+Algunos
+Adecuaci
 Floyd
 Foundations
 Funci
@@ -55655,6 +55670,7 @@ Socioecon
 Sirven
 Situaciones
 Sabiendo
+Selectiva
 Manual
 Modelar
 Millones
