@@ -30,6 +30,13 @@ En este caso se han diferenciado:
 + El  **mercado de referencia** como aquel donde se podría actuar → Toda la comunidad de estudiantes universitarios. 
 + El **mercado relevante** como aquel donde se actua → Comunidad de estudiantes universitarios de la escuela politécnica de la UC3M. 
 
+**Objetivos:**
+1. Darse a conocer
+#### El proceso de segmentación del mercado: 
++ Ya se ha dicho → Mercado relevante → Comunidad universitaria de la UC3M. 
+
+**Estrategia de segmenteación:** 
++ Segmentación concentrada en el segmento propuesto. 
 
 
 

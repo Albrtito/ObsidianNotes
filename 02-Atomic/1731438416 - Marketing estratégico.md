@@ -66,7 +66,7 @@ Los objetivos planteados son de producto o lineas de producto.Se dividen en dot 
 ### 4. Segmentación del mercado 
 > A quién se vende el producto?
 
-Una vez definidos los objetivos y analizado el mercado objetivo realizamos el [[1732623287 - Proceso de segmentacion de mercados|Proceso de segmentacion de mercados]]. Esto nos permite ver los diferentes grupos de compradores a los que se dirige el producto y sus características. 
+Una vez definidos los objetivos y analizado el mercado objetivo realizamos el [[1732623287 - Proceso de segmentacion de mercados|Proceso de segmentacion de mercados]]. Esto nos permite ver los **diferentes grupos de compradores con caraterísticas similares** a los que se dirige el producto.
 + Según los resultados de este proceso se eligen las [[1732622827 - Estrategias de segmentacion del mercado|Estrategias de segmentacion del mercado]]
 
 ### 5. Posicionamiento del producto:
