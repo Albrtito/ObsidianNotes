@@ -22,7 +22,10 @@ cssclasses:
 
 > [!NOTE] Def: 
 > La imagen que tiene un consumidor del producto será el conjunto de características (positivas y negativas) que  asocia en su mente al producto.
-
+#### Marca:
 Un elemento fundamental en la imagen de un producto es **la marca**. Que tiene como proposito **identificar productos o servicios de vendedor o grupo de ellos y diferenciarlos de los que ofrecen los competidores.**
-+ Estas marcas se identifican a través de un logotipo.
++ Estas marcas se identifican a través de un nombre y logotipo.
+
+Dividimos las marcas entre: 
+1. **Marcas de fabricantes:**
 ***
