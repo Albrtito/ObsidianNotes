@@ -12,14 +12,14 @@ cssclasses:
 
 > [!NOTE] Requisitos: 
 > **Marketing estratégico**:
->+  a. Define los criterios y la segmentación de la estrategia para el mercado
->+ b. Define la estrategia de posicionamiento de la empresa 
+> - [x] a. Define los criterios y la segmentación de la estrategia para el mercado
+>-  [x] b. Define la estrategia de posicionamiento de la empresa 
 >
 >**Marketing mix**: 
->+ a. Estrategia de producto (Definición y atributos, línea de producto, ciclo de vida) 
->+ b. Estrategia de distribución (Definir la estrategia de distribución)
->+ c. Precios (establezca el precio que se utilizará para calcular el punto muerto).
->+ d. Estrategia de comunicación (Definir el método más adecuado: publicidad, promociones, etc). 
+>+ [ ] a. Estrategia de producto (Definición y atributos, línea de producto, ciclo de vida) 
+>+ [ ] b. Estrategia de distribución (Definir la estrategia de distribución)
+>+ [ ] c. Precios (establezca el precio que se utilizará para calcular el punto muerto).
+>+ [ ] d. Estrategia de comunicación (Definir el método más adecuado: publicidad, promociones, etc). 
 
 ## 5. Plan de marketing: 
 ### 5.1 Marketing estratégico: 
@@ -51,11 +51,13 @@ Se ha elegido esta estrategia debido a que:
 #### Posicionamiento en el mercado:
 Para este segmento ya definido se seguirá una estrategia de posicionamiento basada en:
 
-1. **Las ventajas o beneficios que proporciona el producto al os estudiantes:**  
+1. **Las ventajas o beneficios que proporciona el producto al os estudiantes:**  Posicionamiento centrado en la ventaja que aporta el seguro,el pago de la siguiente matrícula, y no en su coste. 
    
-2. **Las características del usuario:** Fijándonos en el criterio psicográfico utilizado para definir el segmento
+2. **Las características del usuario:** Se asociará la necesidad de un seguro con el miedo de suspender la asignatura, posicionando el servicio como un **nivel extra de seguridad**, centrandose en los estudiantes que aprueban pero no tienen la seguridad de que lo vayan a hacer.  
 
 
+### 5.2 El marketing operativo:
+En esta sección se define 
 
 
 ***
