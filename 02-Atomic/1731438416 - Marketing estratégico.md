@@ -45,10 +45,14 @@ Es esencial saber que otros competidores existen para poder adaptar la ofertá y
 Se ha de hacer un estudio del [[1726503731 - Entorno y competencia de la empresa|Entorno y competencia de la empresa]] al igual que en funciones anteriores para determinar oportunidades y amenazas. También se ha de analizar en entorno interno para detectar debilidades potenciales de la empresa.
 
 
-### 2. Diagnóstico de la situación: (Como somos?)
+### 2. Diagnóstico de la situación: 
+>Como somos?
+
 Al finalizar este análisis se da un **diagnóstico de la situación**. Obtener info fundamental de la tarea anterior. 
 
-### 3. Definición de objetivos: (A donde queremos ir?)
+### 3. Definición de objetivos: 
+> A donde queremos ir?
+
 Los objetivos planteados son de producto o lineas de producto.Se dividen en dot tipos: 
 + **Objetivos cuantitativos:** Logros mesurables, con cifras concreats.Más importantes y exigibles. (Los que hacen falta)
 	+ Participación del mercado → Objetivo de ventas
@@ -59,18 +63,16 @@ Los objetivos planteados son de producto o lineas de producto.Se dividen en dot 
 	+ Marca 
 	+ importancia
 	+ Relación con el cliente 
+### 4. Segmentación del mercado 
+> A quién se vende el producto?
 
-### 4. Creación de las estrategias:
-Basándonos en todo lo anterior definimos dos estrategias básicas.
-+ 
-1. **Estrategia de segmentación:** Define mercados objetivos donde actuar. Definimos los siguientes tipos: 
-	1. Estrategia **indiferenciada**: Misma estrategia para todos los posibles segmentos. 
-	2. Estrategia **diferenciada**
-		1. **Diferenciación amplia**: Se crea un marketing-mix específico para cada uno de los segmentos
-		2. **Diferenciación concentrada**: Se crea un marketing-mix específico para uno solo o unos pocos segmentos seleccionados. 
-		   > Mejor para pequeña-mediana empresa con recursos limitados pero con mayores riesgos
+Una vez definidos los objetivos y analizado el mercado objetivo realizamos el [[1732623287 - Proceso de segmentacion de mercados|Proceso de segmentacion de mercados]]. Esto nos permite ver los diferentes grupos de compradores a los que se dirige el producto y sus características. 
++ Según los resultados de este proceso se eligen las [[1732622827 - Estrategias de segmentacion del mercado|Estrategias de segmentacion del mercado]]
+
+### 5. Posicionamiento del producto:
+> Como les vendemos el producto a cada segmento?
+
 2. **Estrategia de posicionamiento del producto:** Concepción e imagen del producto para meterlo en la mente del consumidor.
 
 Estas estrategias son simultaneas. Se decide donde (mercado) se va a posicionar un producto. 
-
 ***

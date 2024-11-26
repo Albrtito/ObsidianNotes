@@ -5751,6 +5751,8 @@ descuentos
 descritas
 directa
 diversificasen
+diferenciada
+dirige
 modelos
 modelo
 maximizar
@@ -7604,6 +7606,7 @@ mayorit
 manener
 mns
 mZX
+mediana
 en
 ease
 es
@@ -9602,6 +9605,7 @@ enfocar
 estudiantiles
 establezca
 eFYy
+eligen
 programaci
 primer
 paso
@@ -13326,6 +13330,7 @@ limitando
 ltm
 lXm
 lgi
+limitados
 tags
 tres
 todos
@@ -20824,6 +20829,8 @@ comptetitividad
 compiten
 carrera
 centrada
+concentrada
+compradores
 sr
 se
 subproblemas
@@ -22804,6 +22811,9 @@ suspendieses
 superior
 stamos
 suspensos
+segmentacion
+segmento
+segmenteaci
 interval
 importancia
 incorrecto
@@ -24699,6 +24709,7 @@ indicadores
 inmensamente
 innovador
 icp
+indiferenciada
 un
 una
 utiliza
@@ -31116,6 +31127,7 @@ variation
 verdad
 vendido
 vsv
+vendemos
 no
 nuestras
 ndar
@@ -52263,6 +52275,7 @@ Paga
 PORTER
 Perdidas
 POSIBLE
+Posicionamiento
 Biblio
 BitsPerComponent
 BI
@@ -55479,6 +55492,7 @@ Solutions
 Side
 Segundas
 SOm
+Segmentaci
 Manual
 Modelar
 Millones
@@ -57168,6 +57182,7 @@ Multiply
 Mean
 Mvm
 MaL
+Misma
 Zivkovic
 Zo
 Zi
