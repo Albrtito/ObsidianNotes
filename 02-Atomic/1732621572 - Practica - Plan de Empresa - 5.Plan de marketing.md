@@ -80,7 +80,8 @@ La imagen del producto va directamente ligada a la comunidad universitaria. La m
 Se establecería una única línea de producto con un artículo individual, el seguro de matrícula para una asignatura. 
 
 #### Ciclo de vida del producto: 
-1. **Introducción:** Altos costes e 
+El objetivo de este plan de marketing es que **al finalizar los cinco años se abandone la fase de introducción, entrando en la fase de crecimiento.**
+
 
 #### Precio:
 El cálculo realizado para calcular el seguro será: 

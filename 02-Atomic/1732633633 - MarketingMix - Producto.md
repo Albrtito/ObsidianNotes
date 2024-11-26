@@ -78,9 +78,26 @@ se divide en 4 fases:
    + campañas para darse a conocer
    + Inversion en comunicación
    + Dificil/Inestable relación con los proovedores.
-1. **Crecimiento**:  
-2. **Madurez**: 
-3. **Declive**: 
+   + Escasa competencia
+2. **Crecimiento**:  
+   + Ya se conoce el producto y **suben ventas**
+   + Aumenta la competencia
+   + Disminuyen los precios
+   + Distribución intensiva
+   + No se realizan cambios al producto
+3. **Madurez**:
+   + Precios bajos 
+   + Modififación del producto, gama y sucesores
+   + Disminuye el presupuesto 
+   + Distribución intensiva
+   + Intensa competencia
+4. **Declive**: 
+   + Disminuyen las ventas 
+   + Disminuye la competencia
+   + No se realizan cambios al producto 
+   + Precios Aumentan 
+     #Duda Pq aumentan los precios?
+   + Distribución selectiva 
 
 ![[1732633633 - MarketingMix - Productoj.png|center]]
 ***
