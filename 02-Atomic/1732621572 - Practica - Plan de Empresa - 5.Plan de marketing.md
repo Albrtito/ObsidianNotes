@@ -37,11 +37,12 @@ En este caso se han diferenciado:
 #### El proceso de segmentación del mercado: 
 + Ya se ha dicho → Mercado relevante → Comunidad universitaria de la UC3M. 
 ##### Criterios de segmetnación: 
-Se han utilizado los siguientes criterios: 
+Se han utilizado los siguientes criterios de segmentación para definir los segmentos objetivo. 
 1. **Criterio geográfico:** Estudiantes del municipio madrileño que acuden a la escuela politécnica de la uc3m en leganés. 
 2. **Criterio demográfico:** Edades de entre 18 y 25
 3. **Criterio socioeconómico:** Estudiantes de familia de clase media-alta.
-4. **Categoría del usuario:** Diferenciamos entre nuevos usu
+4. **Según la categoría del usuario:** Diferenciamos entre nuevos estudiantes de la universidad y estudiantes que ya llevan un tiempo en ella. 
+5. **Criterio psicográfico:** 
 ##### Estrategia de segmentación:
 + **Segmentación concentrada** en el segmento propuesto. 
 

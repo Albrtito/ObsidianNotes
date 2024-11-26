@@ -3803,6 +3803,8 @@ Cdy
 CXl
 Comportamiento
 Criterio
+Categor
+Conducta
 de
 due
 dar
@@ -11640,6 +11642,7 @@ pFn
 pyG
 prioridades
 parten
+psicogr
 lineal
 la
 lo
@@ -17000,6 +17003,7 @@ regulaci
 requeridos
 regulado
 riamente
+regulares
 References
 Resoluci
 Rectas
@@ -20854,6 +20858,9 @@ conducta
 claramente
 consumir
 conductas
+consumen
+clientela
+categor
 sr
 se
 subproblemas
@@ -36049,6 +36056,7 @@ Digitalizaci
 Diferenciarse
 Darse
 Demogr
+Diferenciamos
 funci
 fibonacci
 fica
@@ -55535,6 +55543,7 @@ Segmentaci
 Segmento
 Socioecon
 Sirven
+Situaciones
 Manual
 Modelar
 Millones
@@ -60282,6 +60291,7 @@ Leibniz
 LIr
 LXF
 Lbt
+Lealtad
 bottom
 base
 brik
@@ -61965,6 +61975,7 @@ barreras
 becas
 basean
 bitos
+buscados
 Util
 Una
 UniZumo
@@ -74287,6 +74298,7 @@ Newton
 NtWF
 NKp
 NCF
+Nuevo
 Xr
 XObject
 Xw
