@@ -48,7 +48,12 @@ Se ha elegido esta estrategia debido a que:
 + Es favorable para las pequeña empresa en la que se tienen recurosos limitados, como es  en este caso. 
 + La empresa se quiere enfocar unicamente en el segmento definido. 
 
+#### Posicionamiento en el mercado:
+Para este segmento ya definido se seguirá una estrategia de posicionamiento basada en:
 
+1. **Las ventajas o beneficios que proporciona el producto al os estudiantes:**  
+   
+2. **Las características del usuario:** Fijándonos en el criterio psicográfico utilizado para definir el segmento
 
 
 

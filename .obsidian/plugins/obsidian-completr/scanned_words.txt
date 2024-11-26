@@ -9624,6 +9624,7 @@ eFYy
 eligen
 estilios
 elegido
+escogida
 programaci
 primer
 paso
@@ -11646,6 +11647,7 @@ pyG
 prioridades
 parten
 psicogr
+proporciona
 lineal
 la
 lo
@@ -20868,6 +20870,7 @@ clientela
 categor
 cualitativo
 criteros
+carater
 sr
 se
 subproblemas

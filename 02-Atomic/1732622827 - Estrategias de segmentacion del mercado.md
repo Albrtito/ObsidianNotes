@@ -24,4 +24,6 @@ Se crea una estrategia **diferente para cada segmento.** Se divide en dos tipos 
 1. **Diferenciación amplia**: Se crea un marketing-mix específico para cada uno de los segmentos
 2. **Diferenciación concentrada**: Se crea un marketing-mix específico para uno solo o unos pocos segmentos seleccionados. 
   > Mejor para pequeña-mediana empresa con recursos limitados pero con mayores riesgos
+  
+  
 ***
