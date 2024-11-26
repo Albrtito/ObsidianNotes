@@ -90,7 +90,7 @@ $$
 Se ha de tener en cuenta que: 
 + El cómputo se hace contra el precio de la siguiente matrícula. 
 + Para realizar los cálculos de este plan de empresa se asumirá que
-	+ **El valor de PM para una primera matrícula es de 100$.** Este valor lo obtenemos a través del precio por c
+	+ **El valor de PM para una primera matrícula es de 100$.** Este valor lo obtenemos a través del precio por crédito público establecido en la comunidad de madrid. [^10]
 	+ **El valor de PM para otras matrículas será**
 			$$
 			 \text{PM}_i = \text{NM} * 100
@@ -182,9 +182,26 @@ $$
 Las pérdidas estimadas se dan también en función del porcentaje estimado de suspensos, usando el estudio encontrado[^8] que proporciona datos de 2014 de la UC3M y el siguiente artículo [^9], que proporciona datos respecto a la cantidad de créditos aprovados por estudiantes respecto al número de créditos matriculado o “tasa de rendimiento”. 
 Según estos estudios, el primer año la tasa de abandono es del 21% y la tasa de rendimiento del 77,5%. Haremos una modificación del primer dato debido a su antiguedad, utilizando una tasa de abandono menor, del 15%.
 Usando estas cifras y teniendo en cuenta la segunda condición del seguro anticipamos. 
-+ El primer año aprobarán el 
++ El primer año aprobará el 30% de los estudiantes asegurados. 
++ A partir del primer año aprobará el 40% de los estudiantes asegurados. 
+Utilizando los datos propuestos en la sección de ingresos obtenemos. 
 
+$$
+\begin{gather}
+\text{Gastos} = (0.5n*174*0.3) + (0.25n * 209.1 * 0.4) + (0.2n*278.8*0.4)+ \\(0.05n*348.5*0.4)
+\end{gather}
+$$
+Que podemos simplificar como: 
+$$
+\text{Gastos} = 
+$$
++ Esto quiere decir que, **generalizando, la empresa perdería   por cada seguro vendido**
++ Observamos que, por ejemplo, para ese mismo número de seguros de 100 utilizando en los ingresos antes de pérdidas obtendríamos unas pérdidas de: 
+$$
+Gastos_{100} = 7628.4 $
+$$
 
+##### Ingresos finales: 
 
 
 
@@ -195,3 +212,4 @@ Usando estas cifras y teniendo en cuenta la segunda condición del seguro antici
 [^7]: #Duda Todas las funciones y programas utilizados merece la pena añadirlos al plan de emrpesa de alguna forma? Se calificarían?
 [^8]: https://www.uc3m.es/consejosocial/media/consejosocial/doc/archivo/doc_2019_abandono-grado/estudio-abandono-grado_diciembre-2019.pdf
 [^9]: https://theobjective.com/sociedad/2024-01-29/universitarios-tasa-suspensos/
+[^10]: https://www.comunidad.madrid/servicios/educacion/precios-publicos-universitarios
