@@ -1993,6 +1993,8 @@ ampliamente
 aceptados
 acuden
 aprobarla
+asociar
+aprueban
 Creaci
 Crear
 Cuando
@@ -11648,6 +11650,7 @@ prioridades
 parten
 psicogr
 proporciona
+posicionando
 lineal
 la
 lo
@@ -20871,6 +20874,8 @@ categor
 cualitativo
 criteros
 carater
+centrado
+centrandose
 sr
 se
 subproblemas
@@ -31179,6 +31184,8 @@ verdad
 vendido
 vsv
 vendemos
+ventaja
+vayan
 no
 nuestras
 ndar
