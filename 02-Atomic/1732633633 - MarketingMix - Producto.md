@@ -59,5 +59,9 @@ Una empresa puede producir más de un único producto, a cada uno de estos produ
 + **Amplitud de la gama:** Número de líneas que comparten una o varias características 
 + **Profundidad de la gama:** Referencias individualeso productos ofrecidos en cada línea. 
 + **Longitud de la gama:** Número de productos fabricados por la empresa, la suma de todas las distitntas líneas de producto. 
-+ **Consistencia de la gama:** La medida en la que varias lineas se 
++ **Consistencia de la gama:** La medida en la que varias lineas se relacionan con el uso final, con su producción o con los canales de distribución utilizados. 
+Tras el análisis de la gama de productos que ofrece una empresa se pueden elaborar las siguietnes estrategias:
+### Estrategias: 
+1. Añadir varias lineas de producto para ampliar la oferta
+2. Extender una línea de productos para camptar más clientes
 ***
