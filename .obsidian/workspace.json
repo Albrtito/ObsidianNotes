@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "3fba0475cebb59d0",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
+                "file": "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,7 +272,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1727709332 - Estrategias corporativas de la empresa"
+              "title": "Graph of 1732621572 - Practica - Plan de Empresa - 5.Plan de marketing"
             }
           }
         ]
@@ -287,10 +287,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md"
+                "file": "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1727709332 - Estrategias corporativas de la empresa"
+              "title": "Outline of 1732621572 - Practica - Plan de Empresa - 5.Plan de marketing"
             }
           },
           {
@@ -375,12 +375,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cde1b0648b9d3f4f",
+  "active": "ad3c76f5e361b54d",
   "lastOpenFiles": [
-    "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
-    "02-Atomic/1728936738 - Sistemas de produccion en masa.md",
-    "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
     "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
+    "02-Atomic/1728936738 - Sistemas de produccion en masa.md",
+    "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
+    "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
+    "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
     "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
     "02-Atomic/1732648928 - MarketingMix - Comunicacion.md",
     "02-Atomic/1731438501 - Marketing operativo.md",
@@ -400,7 +401,6 @@
     "01-Areas/1.UC3M/Empresa.md",
     "99-Meta/0. Attachments/1731438416 - Marketing estratégicoj.png",
     "02-Atomic/1726500297 - Practica - Plan de Empresa.md",
-    "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
     "02-Atomic/1727711018 - Estrategias de diversificación.md",
     "02-Atomic/1727710261 - Estrategias de integración.md",
     "02-Atomic/1727105121 - Estrategia de la empresa.md",
