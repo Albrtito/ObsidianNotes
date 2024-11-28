@@ -18,7 +18,7 @@ cssclasses:
 > $$
 
 ## Propiedades: 
-+ **Admisibilidad:** Decimos que una heurística es admisible si **no se sobreestima el coste para ningún estado**
++ **Admisibilidad:** Decimos que una heurística es admisible si **no se sobreestima el coste para ningún estado**. 
   > Esto lo podemos analizar utilizando los últimos estados de la búsqueda. 
 
 
