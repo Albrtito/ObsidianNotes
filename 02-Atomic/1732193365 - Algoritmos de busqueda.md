@@ -34,4 +34,5 @@ Evaluamos un algorimo de busqueda analizando su completitud y admisibilidad.
 > Se van probando caminos hasta que **el algoritmo se encuentra con la solución correcta** 
 
 + [[1732193684 - Algoritmos de busqueda por fuerza bruta|Algoritmos de busqueda por fuerza bruta]]
++ 
 ***
