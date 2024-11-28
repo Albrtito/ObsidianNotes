@@ -36,8 +36,19 @@
               "icon": "lucide-file",
               "title": "1732043763 - Practica - Routers - 1"
             }
+          },
+          {
+            "id": "23a5f273b3f362d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,10 +256,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3011014efc3155f1",
+  "active": "23a5f273b3f362d1",
   "lastOpenFiles": [
-    "02-Atomic/1732043763 - Practica - Routers - 1.md",
     "02-Atomic/1732043831 - Practica - Routers - 2.md",
+    "02-Atomic/1732043763 - Practica - Routers - 1.md",
     "02-Atomic/1732721937 - Gastos.md",
     "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
     "02-Atomic/1731438416 - Marketing estratégico.md",
