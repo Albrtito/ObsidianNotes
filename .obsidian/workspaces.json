@@ -2499,23 +2499,8 @@
           {
             "id": "cfc607d3325fb0fa",
             "type": "tabs",
-            "dimension": 72.21570926143025,
+            "dimension": 48.20038910505836,
             "children": [
-              {
-                "id": "c1dbd3daf5d3e670",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1726500297 - Plan de Empresa.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1726500297 - Plan de Empresa"
-                }
-              },
               {
                 "id": "0053b91f7de10121",
                 "type": "leaf",
@@ -2562,85 +2547,135 @@
                 }
               },
               {
-                "id": "1ae9787462190966",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              },
-              {
-                "id": "50df8c764bb3575b",
+                "id": "ad3c76f5e361b54d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
+                    "file": "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "20240615 - 211237 - Theorem - Cauchy Mean Value theorem"
+                  "title": "1732621572 - Practica - Plan de Empresa - 5.Plan de marketing"
+                }
+              },
+              {
+                "id": "322b94cd15d6c90e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1728936738 - Sistemas de produccion en masa.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1728936738 - Sistemas de produccion en masa"
+                }
+              },
+              {
+                "id": "cde1b0648b9d3f4f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1727709332 - Estrategias corporativas de la empresa"
+                }
+              },
+              {
+                "id": "07893856d16c26d4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1732721937 - Gastos.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1732721937 - Gastos"
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 6
           },
           {
             "id": "3fba0475cebb59d0",
             "type": "tabs",
-            "dimension": 27.78429073856976,
+            "dimension": 51.79961089494164,
             "children": [
               {
-                "id": "6ffae813ee33884c",
+                "id": "921c8372dd03272b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/1726067427 - Tipos de empresas.md",
+                    "file": "02-Atomic/1731438416 - Marketing estratégico.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "1726067427 - Tipos de empresas"
+                  "title": "1731438416 - Marketing estratégico"
                 }
               },
               {
-                "id": "b8fe88a75e2b26ff",
+                "id": "b0a69722b35ebc6b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/1726067427 - Tipos de empresas.md",
+                    "file": "02-Atomic/1732633633 - MarketingMix - Producto.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "1726067427 - Tipos de empresas"
+                  "title": "1732633633 - MarketingMix - Producto"
                 }
               },
               {
-                "id": "ae86661c36fc6637",
+                "id": "f90fee14a45a9e6c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/1726241677 - Definition - Empresas sociales.md",
+                    "file": "02-Atomic/1732633799 - MarketingMix - Distribucion.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "1726241677 - Definition - Empresas sociales"
+                  "title": "1732633799 - MarketingMix - Distribucion"
+                }
+              },
+              {
+                "id": "eb9735b0551cdd86",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1732648928 - MarketingMix - Comunicacion.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1732648928 - MarketingMix - Comunicacion"
                 }
               }
             ],
-            "currentTab": 2
+            "stacked": true
           }
         ],
         "direction": "vertical"
@@ -2659,7 +2694,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02-Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md",
+                    "file": "02-Atomic/1732721937 - Gastos.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -2744,7 +2779,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 20240615 - 211237 - Theorem - Cauchy Mean Value theorem"
+                  "title": "Graph of 1732721937 - Gastos"
                 }
               }
             ]
@@ -2759,10 +2794,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "02-Atomic/20240615 - 211237 - Theorem - Cauchy Mean Value theorem.md"
+                    "file": "02-Atomic/1732721937 - Gastos.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of 20240615 - 211237 - Theorem - Cauchy Mean Value theorem"
+                  "title": "Outline of 1732721937 - Gastos"
                 }
               },
               {
@@ -2781,7 +2816,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 246
+        "width": 246,
+        "collapsed": true
       },
       "right": {
         "id": "8881aa8c79e29157",
@@ -2828,7 +2864,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 269.5
+        "width": 418,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -2845,9 +2882,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "50df8c764bb3575b",
-      "mtime": "2024-11-22T22:12:14+01:00"
+      "active": "07893856d16c26d4",
+      "mtime": "2024-11-28T16:14:09+01:00"
     }
   },
-  "active": "Plan de empresa"
+  "active": "Net-Routers"
 }

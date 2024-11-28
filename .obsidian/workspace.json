@@ -4,185 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "cfc607d3325fb0fa",
+        "id": "4578600667039acb",
         "type": "tabs",
-        "dimension": 48.20038910505836,
         "children": [
           {
-            "id": "0053b91f7de10121",
+            "id": "3011014efc3155f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
+                "file": "02-Atomic/1732043831 - Practica - Routers - 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa"
+              "title": "1732043831 - Practica - Routers - 2"
             }
           },
           {
-            "id": "77006f10992dd9b2",
+            "id": "fbfdf04edad8fe4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
+                "file": "02-Atomic/1732043763 - Practica - Routers - 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1732217706 - Practica - Plan de Empresa - 2.Analisis del sector"
-            }
-          },
-          {
-            "id": "3416a40cdbaa2777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732217814 - Practica - Plan de Empresa - 3.Definir la empresa"
-            }
-          },
-          {
-            "id": "ad3c76f5e361b54d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732621572 - Practica - Plan de Empresa - 5.Plan de marketing"
-            }
-          },
-          {
-            "id": "322b94cd15d6c90e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1728936738 - Sistemas de produccion en masa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1728936738 - Sistemas de produccion en masa"
-            }
-          },
-          {
-            "id": "cde1b0648b9d3f4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1727709332 - Estrategias corporativas de la empresa"
-            }
-          },
-          {
-            "id": "07893856d16c26d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732721937 - Gastos.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732721937 - Gastos"
+              "title": "1732043763 - Practica - Routers - 1"
             }
           }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "3fba0475cebb59d0",
-        "type": "tabs",
-        "dimension": 51.79961089494164,
-        "children": [
-          {
-            "id": "921c8372dd03272b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1731438416 - Marketing estratégico.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1731438416 - Marketing estratégico"
-            }
-          },
-          {
-            "id": "b0a69722b35ebc6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732633633 - MarketingMix - Producto.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732633633 - MarketingMix - Producto"
-            }
-          },
-          {
-            "id": "f90fee14a45a9e6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732633799 - MarketingMix - Distribucion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732633799 - MarketingMix - Distribucion"
-            }
-          },
-          {
-            "id": "eb9735b0551cdd86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732648928 - MarketingMix - Comunicacion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732648928 - MarketingMix - Comunicacion"
-            }
-          }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +56,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732721937 - Gastos.md",
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,12 +136,12 @@
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.07043488449702007,
+                  "scale": 0.09229580869883151,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732721937 - Gastos"
+              "title": "Graph of 1731662455 - Practica - Routers"
             }
           }
         ]
@@ -301,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732721937 - Gastos.md"
+                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732721937 - Gastos"
+              "title": "Outline of 1730827988 - Subnets"
             }
           },
           {
@@ -319,7 +174,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -341,13 +197,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Empresa.md",
+                "file": "01-Areas/1.UC3M/Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Empresa"
+              "title": "Networks"
             }
           }
         ]
@@ -371,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418,
+    "width": 395,
     "collapsed": true
   },
   "left-ribbon": {
@@ -389,7 +245,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "07893856d16c26d4",
+  "active": "3011014efc3155f1",
   "lastOpenFiles": [
     "02-Atomic/1732721937 - Gastos.md",
     "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
