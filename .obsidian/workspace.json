@@ -110,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732193365 - Algoritmos de busqueda.md",
+                "file": "02-Atomic/1732811321 - Algoritmos heurísticos de búsqueda.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -209,7 +209,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732193365 - Algoritmos de busqueda"
+              "title": "Graph of 1732811321 - Algoritmos heurísticos de búsqueda"
             }
           }
         ]
@@ -224,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732193365 - Algoritmos de busqueda.md"
+                "file": "02-Atomic/1732811321 - Algoritmos heurísticos de búsqueda.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732193365 - Algoritmos de busqueda"
+              "title": "Outline of 1732811321 - Algoritmos heurísticos de búsqueda"
             }
           },
           {
@@ -246,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340,
-    "collapsed": true
+    "width": 340
   },
   "right": {
     "id": "8881aa8c79e29157",
