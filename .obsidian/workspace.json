@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726825216 - Programación Dinámica.md",
+                "file": "02-Atomic/1729169534 - Exercises - Programacion lineal entera.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726825216 - Programación Dinámica"
+              "title": "1729169534 - Exercises - Programacion lineal entera"
             }
           },
           {
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1726825216 - Programación Dinámica.md",
+                "file": "02-Atomic/1729169534 - Exercises - Programacion lineal entera.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1726825216 - Programación Dinámica"
+              "title": "Graph of 1729169534 - Exercises - Programacion lineal entera"
             }
           },
           {
@@ -219,10 +219,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1726825216 - Programación Dinámica.md"
+                "file": "02-Atomic/1729169534 - Exercises - Programacion lineal entera.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1726825216 - Programación Dinámica"
+              "title": "Outline of 1729169534 - Exercises - Programacion lineal entera"
             }
           },
           {
@@ -307,6 +307,10 @@
   },
   "active": "e46d42893c588fee",
   "lastOpenFiles": [
+    "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
+    "02-Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+    "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
+    "02-Atomic/1726825216 - Programación Dinámica.md",
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
     "02-Atomic/1727270270 - Method - SIMPLEX.md",
     "02-Atomic/1730297192 - Satisfacibilidad Lógica.md",
@@ -314,7 +318,6 @@
     "02-Atomic/1730303159 - Satisfacción de restricciones.md",
     "02-Atomic/1732811321 - Algoritmos heurísticos de búsqueda.md",
     "02-Atomic/1730301910 - Algoritmo de Davis-Putnam-Logemann-Loveland.md",
-    "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
     "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
     "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
     "02-Atomic/1732193365 - Algoritmos de busqueda.md",
@@ -330,9 +333,6 @@
     "02-Atomic/1728936738 - Sistemas de produccion en masa.md",
     "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
     "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
-    "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
-    "02-Atomic/1732648928 - MarketingMix - Comunicacion.md",
-    "02-Atomic/1732633799 - MarketingMix - Distribucion.md",
     "99-Meta/0. Attachments/1732633633 - MarketingMix - Productoj.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-1.png",

@@ -18,9 +18,14 @@ sr-ease: 290
 > [!NOTE] Definición: 
 > La programación dinámica es una **técnica bottom-up** en la que se **guardan resultados intermedios** para luego reusarse durante la resolución de un problema. 
 + Util cuando podemos obtener **subproblemas ordenados**. 
+
 La técnica se puede descomponer en los siguientes pasos: 
 1. **Descomponer el problema** en subproblemas similares
-2. Definir recursivamente la solución óptima del problema → #Duda: QUE?
+2. Definir recursivamente la solución óptima del problema 
+   
+> [!check] Duda: Que significa esto:
+> Esto quiere decir que la solución se obtiene de forma recursiva (con funciones recursivas). El backtracking the esta recursividad se ve en el siguiente paso.  
+
 3. Calcular los subproblemas de abajo hacia arriba 
 4. Calcular la solución global usando los resultados intermedios
 
