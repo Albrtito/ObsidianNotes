@@ -19,7 +19,7 @@ cssclasses:
 > > 
 + El resto de nodos no expandidos no se mantienen en memoria 
 + Se puede ver como un algoritmo de [[1732112181 - Algorithm - Primero en amplitud|Primero en amplitud]] con una restricción de cuantos nodos se pueden expandir por nivel. (Si k = $\infty$ entonces es el algoritmo de primero en amplitud tal cual)
-+ 
++ **Falta de monotonía** No se encontrará una solución igual o más óptima aumentando el valor de k. Debido a este problema **este algoritmo no se utiliza**
 
 Para implementar este algoritmo se guarda cada grupo de k nodos como un “contenedor” de nodos, guardándolos en un vector. 
 

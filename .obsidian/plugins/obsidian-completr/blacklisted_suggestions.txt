@@ -41,3 +41,7 @@ second
 Second
 seconds
 following
+close
+closed
+closely
+closest
