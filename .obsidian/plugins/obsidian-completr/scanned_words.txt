@@ -11728,6 +11728,9 @@ parecido
 presentaremos
 prometedor
 prioridad
+progresivamente
+profundas
+profundizaci
 lineal
 la
 lo
@@ -21002,6 +21005,7 @@ comunicarle
 computacional
 coming
 criterio
+consumo
 sr
 se
 subproblemas
