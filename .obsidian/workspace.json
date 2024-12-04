@@ -4,48 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "fabe814c139eca2a",
+        "id": "3fba0475cebb59d0",
         "type": "tabs",
         "children": [
           {
-            "id": "e46d42893c588fee",
+            "id": "6ffae813ee33884c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "02-Atomic/1728921778 - La funcion de produccion de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1727270270 - Method - SIMPLEX"
+              "title": "1728921778 - La funcion de produccion de la empresa"
             }
           },
           {
-            "id": "5b2503880d24a4d3",
+            "id": "909f25a708101411",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1730303159 - Satisfacción de restricciones.md",
+                "file": "02-Atomic/1731438501 - Marketing operativo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1730303159 - Satisfacción de restricciones"
+              "title": "1731438501 - Marketing operativo"
             }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "59df783bbe67598e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "2d80d1313a42e16d",
+            "id": "ce5cd5b122a5ced0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1726503731 - Entorno y competencia de la empresa"
+            }
+          },
+          {
+            "id": "7de9ea3991a80f9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-Meta/2. Scripts/Dudas/Dudas-Empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dudas-Empresa"
+            }
+          },
+          {
+            "id": "89f41d219a819371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa"
+            }
+          },
+          {
+            "id": "adddeeea5d44fb0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -57,21 +95,6 @@
               },
               "icon": "lucide-file",
               "title": "Dudas-Heuri"
-            }
-          },
-          {
-            "id": "a7003db94df8b28b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1729084911 - Dualidad en programacion lineal"
             }
           }
         ]
@@ -93,9 +116,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - SIMPLEX.md",
+                "file": "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -104,7 +127,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "tag:#incomplete  ",
@@ -161,65 +184,24 @@
                         "a": 1,
                         "rgb": 14048348
                       }
-                    },
-                    {
-                      "query": "tag:#Logic  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1328127
-                      }
-                    },
-                    {
-                      "query": "tag:#EDA  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16762880
-                      }
                     }
                   ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.39155888359428,
+                  "nodeSizeMultiplier": 2.79537653688525,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.178748758689176,
+                  "centerStrength": 0.0242737249838606,
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.1481227552074855,
+                  "scale": 0.07043488449702007,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1727270270 - Method - SIMPLEX"
-            }
-          },
-          {
-            "id": "d984ccb5a50bcd56",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "d6d22eeec0682472",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Graph of 1731436877 - El plan de marketing"
             }
           }
         ]
@@ -234,10 +216,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - SIMPLEX.md"
+                "file": "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1727270270 - Method - SIMPLEX"
+              "title": "Outline of 1731436877 - El plan de marketing"
             }
           },
           {
@@ -256,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -273,13 +256,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "01-Areas/1.UC3M/Empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heuristica y Opti"
+              "title": "Empresa"
             }
           }
         ]
@@ -303,7 +286,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 363
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,10 +303,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e46d42893c588fee",
+  "active": "6ffae813ee33884c",
   "lastOpenFiles": [
-    "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
+    "02-Atomic/1731438416 - Marketing estratégico.md",
+    "02-Atomic/1726503731 - Entorno y competencia de la empresa.md",
     "02-Atomic/1727270270 - Method - SIMPLEX.md",
+    "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
     "02-Atomic/1729169534 - Exercises - Programacion lineal entera.md",
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
     "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
@@ -341,13 +326,11 @@
     "02-Atomic/1732043831 - Practica - Routers - 2.md",
     "02-Atomic/1732721937 - Gastos.md",
     "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
-    "02-Atomic/1731438416 - Marketing estratégico.md",
     "02-Atomic/1731436877 - El plan de marketing.md",
     "02-Atomic/1731438501 - Marketing operativo.md",
     "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
     "02-Atomic/1728936738 - Sistemas de produccion en masa.md",
     "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
-    "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
     "99-Meta/0. Attachments/1732633633 - MarketingMix - Productoj.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-1.png",

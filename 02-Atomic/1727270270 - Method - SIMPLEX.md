@@ -12,6 +12,7 @@ sr-interval: 1
 sr-ease: 130
 ---
  
+ 
 # Method - SIMPLEX:
 
 > [!NOTE] Definition: 
