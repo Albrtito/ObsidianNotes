@@ -38,7 +38,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       },
       {
@@ -79,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730303159 - Satisfacción de restricciones.md",
+                "file": "02-Atomic/1730297192 - Satisfacibilidad Lógica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730303159 - Satisfacción de restricciones"
+              "title": "Graph of 1730297192 - Satisfacibilidad Lógica"
             }
           },
           {
@@ -220,10 +219,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730303159 - Satisfacción de restricciones.md"
+                "file": "02-Atomic/1730297192 - Satisfacibilidad Lógica.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730303159 - Satisfacción de restricciones"
+              "title": "Outline of 1730297192 - Satisfacibilidad Lógica"
             }
           },
           {
@@ -306,12 +305,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5b2503880d24a4d3",
+  "active": "e46d42893c588fee",
   "lastOpenFiles": [
-    "02-Atomic/1732811321 - Algoritmos heurísticos de búsqueda.md",
-    "02-Atomic/1730297192 - Satisfacibilidad Lógica.md",
-    "02-Atomic/1730301910 - Algoritmo de Davis-Putnam-Logemann-Loveland.md",
     "02-Atomic/1730301854 - Algoritmo de Davis-Putnam.md",
+    "02-Atomic/1730297192 - Satisfacibilidad Lógica.md",
+    "02-Atomic/1730303159 - Satisfacción de restricciones.md",
+    "02-Atomic/1732811321 - Algoritmos heurísticos de búsqueda.md",
+    "02-Atomic/1730301910 - Algoritmo de Davis-Putnam-Logemann-Loveland.md",
     "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
     "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
     "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
@@ -337,7 +337,6 @@
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-1.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj.png",
     "02-Atomic/1731435991 - Gestion comercial y marketing en la empresa.md",
-    "02-Atomic/1732632985 - Posicionamiento de un producto en marketing.md",
     "99-Meta/0. Attachments/1731438416 - Marketing estratégicoj.png",
     "99-Meta/2. Scripts/buscar_dudas.py",
     "99-Meta/2. Scripts/Dudas",
