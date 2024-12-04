@@ -5,8 +5,8 @@ aliases:
   - Punto muerto
   - Apalancamiento operativo
 tags:
-  - incomplete
   - Empresa
+  - review
 References: 
 cssclasses:
 ---
@@ -32,16 +32,27 @@ También podemos obtener estos datos a través de las siguientes cantidades:
 
 A partir de un valor de unidades $Q_0$ se empezará a ganar beneficios. Los beneficios ganados tras la venta de $Q_0$ unidades serán de 0$
 
+> [!attention] Remark: 
+> Se buscará un valor para el punto muerto **LO MÁS PEQUEÑO POSIBLE** debido a que cuanto antes se emprezase a ganar, mejor.
 ## Apalancamiento operativo: 
 El apalancamiento financiero se puede analizar de varias formas: 
+
+> [!attention] Remark: 
+> Independientemente de la forma utilizada siempre queremos que el apalancamiento sea **LO MÁS PEQUEÑO POSIBLE** 
+
 1. **Variación del beneficio tras una variación de un punto porcentual en el nivel de producción y venta**
+   + Calculado usando dos valores para Q y sus beneficios asociados. 
 $$
 \mathrm{A}_0=\frac{\frac{B_2-B_1}{B_1}}{\frac{Q_2-Q_1}{Q_1}}=\frac{\frac{\Delta B}{B_1}}{\frac{\Delta Q}{Q_1}}
 $$
 2. Como **medida de riesgo económico:**
-   + Calculada para un único valor de Q(cantidad de unidades) y un 
+   + Calculado para un único valor de Q(cantidad de unidades) y el beneficio asociado a ellas. 
 $$
 A_0 = \frac{Q_i \cdot m}{B_i}
 $$
-3. C
+3. En función a su **relación con el punto muerto**
+$$
+A_o = \frac{Q_i}{Q_i - Q_0}
+$$
+
 ***
