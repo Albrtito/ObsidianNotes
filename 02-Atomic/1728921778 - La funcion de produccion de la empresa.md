@@ -24,7 +24,7 @@ sr-ease: 224
 ![[1728921778 - La funcion de produccion de la empresaj.png]]
 
 ## Objetivos: 
-Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde el [[#Tipos de sistemas productivos]]que la empresa utiliza.
+Dentro del proceso productivo tenemos 4 objetivos.
 
 1. **Coste:** Queremos minimizar
 2. **Calidad:** Queremos maximizar
@@ -42,8 +42,9 @@ Dentro del proceso productivo tenemos 4 objetivos que dictaminarán más tarde e
 3. **Cuanto producir**? → Capacidad de la planta
 4. **Donde producir**? → Localización de la planta
 
-Según las respuestas a estas pregutnas se elegirá un [[1728935315 - Tipos de sistemas productivos de la empresa|Tipos de sistemas productivos]].
+Según las respuestas a estas preguntas se elegirá un [[1728935315 - Tipos de sistemas productivos de la empresa|Tipos de sistemas productivos]].
 
+Para el análisis del sistema de producción elegido se utilizarán 
 ### Otras decisiones:
 Además del tipo de sistema productivo que se utilizará hemos de tener en cuenta:
 
