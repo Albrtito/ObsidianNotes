@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Algorithm - Busqueda de el mejor primero
+  - Algorithm - Busquedas de el mejor primero
 tags:
   - incomplete
   - Heuri
@@ -24,6 +24,14 @@ cssclasses:
 + **Algoritmo de heurística pura: (GBFS)** $f = h$ 
   Utilizamos la función heurística. Esto **no nos sirve para encontrar soluciónes óptimas pero se utiliza debido a su valocidad**
 + [[20240515 - 031336 - Algorithm - Dijkstra's algorithm|Dijkstra's algorithm]] $f = g$: Ordenamos según el coste que tiene cada nodo a la meta. 
+
+Podemos juntar ambos tipos, utilizando el valor exacto de g y la estimación de h para obtener una función f: 
+$$
+f = g + h
+$$
+**Esta unión da como resultado el algoritmo [[1733324893 - Algorithm - A*|A estrella]]**
+
+
 
 
 

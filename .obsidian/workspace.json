@@ -8,51 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7003db94df8b28b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732193365 - Algoritmos de busqueda.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732193365 - Algoritmos de busqueda"
-            }
-          },
-          {
-            "id": "2cf6d8e151b91d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1733321764 - Algorithm - Busqueda en escalada.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1733321764 - Algorithm - Busqueda en escalada"
-            }
-          },
-          {
-            "id": "8e2caf37bdf03df6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1733322593 - Algorithm - Beam Search.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1733322593 - Algorithm - Beam Search"
-            }
-          },
-          {
             "id": "8a025e10c65f6414",
             "type": "leaf",
             "state": {
@@ -83,22 +38,22 @@
             }
           },
           {
-            "id": "9416d24cf2e2d93b",
+            "id": "d3a382978411e8da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
+                "file": "02-Atomic/1733324893 - Algorithm - A*.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20240515 - 031336 - Algorithm - Dijkstra's algorithm"
+              "title": "1733324893 - Algorithm - A*"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1733323628 - Algorithm - Busqueda de el mejor primero.md",
+                "file": "02-Atomic/1733324893 - Algorithm - A*.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -216,7 +171,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1733323628 - Algorithm - Busqueda de el mejor primero"
+              "title": "Graph of 1733324893 - Algorithm - A*"
             }
           },
           {
@@ -258,10 +213,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1733323628 - Algorithm - Busqueda de el mejor primero.md"
+                "file": "02-Atomic/1733324893 - Algorithm - A*.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1733323628 - Algorithm - Busqueda de el mejor primero"
+              "title": "Outline of 1733324893 - Algorithm - A*"
             }
           },
           {
@@ -345,14 +300,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c9f889e2c9e61cba",
+  "active": "d3a382978411e8da",
   "lastOpenFiles": [
-    "02-Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
-    "02-Atomic/1733323628 - Algorithm - Busqueda de el mejor primero.md",
+    "02-Atomic/1732193365 - Algoritmos de busqueda.md",
+    "02-Atomic/1731507348 - Problemas de búsqueda.md",
     "02-Atomic/1733323021 - Algoritmos de busqueda heuristica.md",
     "02-Atomic/1733321764 - Algorithm - Busqueda en escalada.md",
     "02-Atomic/1733322593 - Algorithm - Beam Search.md",
-    "02-Atomic/1732193365 - Algoritmos de busqueda.md",
+    "02-Atomic/1733323628 - Algorithm - Busqueda de el mejor primero.md",
+    "02-Atomic/1733324893 - Algorithm - A*.md",
+    "02-Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
     "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md",
     "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
@@ -371,8 +328,6 @@
     "02-Atomic/1731438501 - Marketing operativo.md",
     "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
     "02-Atomic/1731438416 - Marketing estratégico.md",
-    "02-Atomic/1729169534 - Exercises - Programacion lineal entera.md",
-    "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
     "99-Meta/0. Attachments/1732633633 - MarketingMix - Productoj.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-1.png",

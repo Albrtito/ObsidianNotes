@@ -9694,6 +9694,7 @@ expandidos
 expanden
 eliminan
 expandimos
+estrella
 programaci
 primer
 paso
@@ -50761,6 +50762,7 @@ ggJhN
 gama
 guardaremos
 guard
+guardarlo
 Programaci
 Para
 Problema
@@ -80646,6 +80648,7 @@ jpEJi
 jhY
 jam
 joins
+juntar
 wA
 wo
 wpMuB
