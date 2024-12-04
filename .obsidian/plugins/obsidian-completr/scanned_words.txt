@@ -2010,6 +2010,7 @@ alterar
 aumentan
 academias
 anotar
+aleatoriamente
 Creaci
 Crear
 Cuando
@@ -3830,6 +3831,7 @@ Canales
 Compuestos
 Carpetas
 Computacionalmente
+Climbing
 de
 due
 dar
@@ -5801,6 +5803,8 @@ desarrolar
 directo
 determinados
 detenemos
+defecto
+descartamos
 modelos
 modelo
 maximizar
@@ -7662,6 +7666,7 @@ mejore
 madurez
 mantendremos
 minor
+minimizamos
 en
 ease
 es
@@ -9675,6 +9680,7 @@ estimaci
 establecimiento
 esado
 estemos
+escalada
 programaci
 primer
 paso
@@ -11704,6 +11710,8 @@ proposito
 pasiva
 presenciales
 parecido
+presentaremos
+prometedor
 lineal
 la
 lo
@@ -17085,6 +17093,8 @@ repartir
 resulta
 recursiva
 recursivas
+remificaci
+regular
 References
 Resoluci
 Rectas
@@ -29702,6 +29712,7 @@ Extender
 Exclusiva
 Escasa
 Elegir
+Elegimos
 vital
 variables
 vez
