@@ -5806,6 +5806,8 @@ determinados
 detenemos
 defecto
 descartamos
+desestiman
+desestimados
 modelos
 modelo
 maximizar
@@ -9683,6 +9685,9 @@ esado
 estemos
 escalada
 equivocarse
+expandidos
+expanden
+eliminan
 programaci
 primer
 paso
@@ -13426,6 +13431,7 @@ ltiples
 ligada
 limitado
 lados
+llegaba
 tags
 tres
 todos
@@ -22976,6 +22982,7 @@ subiesen
 selectiva
 sobreestima
 saltarse
+simult
 interval
 importancia
 incorrecto
@@ -32904,6 +32911,7 @@ nicos
 nEp
 neas
 nom
+neamente
 Identificar
 Intro
 Identificaci
@@ -39514,6 +39522,7 @@ obtenidos
 ofrezca
 ofrecen
 ofrecidos
+optimista
 que
 queremos
 qD
@@ -50730,6 +50739,7 @@ grO
 ggJhN
 gama
 guardaremos
+guard
 Programaci
 Para
 Problema

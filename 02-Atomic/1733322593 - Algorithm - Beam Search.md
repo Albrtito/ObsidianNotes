@@ -15,9 +15,24 @@ cssclasses:
 > 
 > Se utiliza el **parámetro k:** Igual al número de nodos simultáneamente expandidos
 > 
-> > Se expanden los k mejores nodos a cada profundidad. 
+> > Se expanden los k mejores nodos a cada profundidad de forma recursiva. 
 > > 
-+ El resto de 
++ El resto de nodos no expandidos no se mantienen en memoria 
++ Se puede ver como un algoritmo de [[1732112181 - Algorithm - Primero en amplitud|Primero en amplitud]] con una restricción de cuantos nodos se pueden expandir por nivel. (Si k = $\infty$ entonces es el algoritmo de primero en amplitud tal cual)
++ 
+
+Para implementar este algoritmo se guarda cada grupo de k nodos como un “contenedor” de nodos, guardándolos en un vector. 
+
+## Propiedades: 
++ **Completo:** → NO
+  Como se desestiman nodos (se eliminan de la memoria), la función heurística puede haber desestimados estos nodos de forma optimista(se llegaba a una solucion con menos coste). 
++ **Admisible:** → NO
+  Si no es completo no es admisible
+## Eficiencia: 
++ **Memoria:** Guardamos k nodos por cada nivel expandido, visitamos un número de niveles d. 
+  $$
+   O(kd)
+   $$
  
 
 ***

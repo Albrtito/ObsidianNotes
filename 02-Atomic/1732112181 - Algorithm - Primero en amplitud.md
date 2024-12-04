@@ -1,11 +1,12 @@
 ---
 aliases:
   - Algorithm - Primero en amplitud
+  - Primero en amplitud
 tags:
   - Heuri
   - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-11-24
 sr-interval: 2
 sr-ease: 228
