@@ -110,7 +110,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732811321 - Algoritmos heurísticos de búsqueda.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -209,7 +208,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732811321 - Algoritmos heurísticos de búsqueda"
+              "title": "Graph view"
             }
           },
           {
@@ -250,11 +249,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02-Atomic/1732811321 - Algoritmos heurísticos de búsqueda.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 1732811321 - Algoritmos heurísticos de búsqueda"
+              "title": "Outline"
             }
           },
           {
@@ -298,65 +295,8 @@
               "icon": "lucide-file",
               "title": "Heuristica y Opti"
             }
-          },
-          {
-            "id": "b75727a28940abcc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02-Atomic/1732811321 - Algoritmos heurísticos de búsqueda.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 1732811321 - Algoritmos heurísticos de búsqueda"
-            }
-          },
-          {
-            "id": "370f8f41652f8251",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02-Atomic/1732811321 - Algoritmos heurísticos de búsqueda.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 1732811321 - Algoritmos heurísticos de búsqueda"
-            }
-          },
-          {
-            "id": "d4b50a9f49652ed5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "5fcdcbfd5e323286",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -377,8 +317,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -395,8 +334,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5fcdcbfd5e323286",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1732811321 - Algoritmos heurísticos de búsqueda.md",
     "02-Atomic/1732193365 - Algoritmos de busqueda.md",
     "02-Atomic/1732043763 - Practica - Routers - 1.md",
@@ -427,7 +367,6 @@
     "99-Meta/0. Attachments/1731438416 - Marketing estratégicoj.png",
     "02-Atomic/1726500297 - Practica - Plan de Empresa.md",
     "02-Atomic/1727711018 - Estrategias de diversificación.md",
-    "02-Atomic/1727710261 - Estrategias de integración.md",
     "99-Meta/2. Scripts/buscar_dudas.py",
     "99-Meta/2. Scripts/Dudas",
     "99-Meta/2. Scripts/dudas_2.py~",
