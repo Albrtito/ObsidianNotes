@@ -2012,6 +2012,7 @@ academias
 anotar
 aleatoriamente
 aumentando
+ascendentemente
 Creaci
 Crear
 Cuando
@@ -3834,6 +3835,7 @@ Carpetas
 Computacionalmente
 Climbing
 Completo
+CLOSED
 de
 due
 dar
@@ -5809,6 +5811,7 @@ defecto
 descartamos
 desestiman
 desestimados
+detengmos
 modelos
 modelo
 maximizar
@@ -9690,6 +9693,7 @@ equivocarse
 expandidos
 expanden
 eliminan
+expandimos
 programaci
 primer
 paso
@@ -11721,6 +11725,7 @@ presenciales
 parecido
 presentaremos
 prometedor
+prioridad
 lineal
 la
 lo
@@ -13434,6 +13439,9 @@ ligada
 limitado
 lados
 llegaba
+labels
+lists
+listas
 tags
 tres
 todos
@@ -15234,6 +15242,8 @@ thq
 tipolog
 todav
 tras
+temporary
+terminaci
 review
 resolver
 realizar
@@ -17105,6 +17115,8 @@ recursiva
 recursivas
 remificaci
 regular
+recap
+rito
 References
 Resoluci
 Rectas
@@ -20985,6 +20997,8 @@ consultas
 contratada
 comunicarle
 computacional
+coming
+criterio
 sr
 se
 subproblemas
@@ -22985,6 +22999,7 @@ selectiva
 sobreestima
 saltarse
 simult
+sugirere
 interval
 importancia
 incorrecto
@@ -31334,6 +31349,8 @@ vendedor
 variaciones
 vendr
 visitamos
+visited
+valocidad
 no
 nuestras
 ndar
@@ -52540,6 +52557,7 @@ Personalidades
 Psicogr
 Profundidad
 Putnam
+Propone
 Biblio
 BitsPerComponent
 BI
@@ -54041,6 +54059,7 @@ BACH
 Becas
 Belleza
 Beam
+Busquedas
 Steven
 Skiena
 Serie
@@ -66855,6 +66874,8 @@ OJS
 OxB
 Ocp
 OpSY
+OPEN
+Ordenamos
 ximo
 xrL
 xFQ
@@ -72895,6 +72916,7 @@ GEf
 GXl
 Gama
 Guardamos
+GBFS
 Nota
 Novo
 Nacional
@@ -80623,6 +80645,7 @@ jtw
 jpEJi
 jhY
 jam
+joins
 wA
 wo
 wpMuB
