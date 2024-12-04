@@ -55724,6 +55724,7 @@ Situaciones
 Sabiendo
 Selectiva
 Satisfacible
+Simplemente
 Manual
 Modelar
 Millones
