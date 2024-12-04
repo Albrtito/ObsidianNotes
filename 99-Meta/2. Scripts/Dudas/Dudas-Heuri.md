@@ -19,7 +19,7 @@
 > Encontrada en: [[1727968107 - Expresiones condicionales en programación lineal]]
 
 > [!check] Solución 3
-> 
+> Resuleta
 
 > [!duda] Duda 4
 > : Simplemente el los últimos valores de la última iteración para las variables?
@@ -47,14 +47,15 @@
 > Encontrada en: [[1731507348 - Problemas de búsqueda]]
 
 > [!check] Solución 7
-> 
+> Es una técnica de modelado, únicamente eso. 
+> Es la forma de resolver un problema a través de la búsqueda. 
 
 > [!duda] Duda 8
 > : Que pasaría si nuestro grafo no fuese simple? → Hay multiple edges
 > Encontrada en: [[1732193684 - Algoritmos de busqueda por fuerza bruta]]
 
 > [!check] Solución 8
-> 
+> A efectos prácticos se usa el camino de mínom coste. En casos de que estemos buscando no repetir caminos o algo parecido se podría usar pero sino no lo usamos.
 
 > [!duda] Duda 9
 > + **Completitud:** Un algoritmo de búsqueda es completo si **garantiza que encontrará una solución** dada que exista alguna. : Aunq esta solución se pueda dar en tiempo infinito?
