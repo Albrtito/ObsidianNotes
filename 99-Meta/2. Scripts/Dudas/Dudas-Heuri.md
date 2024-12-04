@@ -12,7 +12,7 @@
 > Encontrada en: [[1732189479 - Abstract Data Types]]
 
 > [!check] Solución 2
-> 
+> Diferencia entre computacional y algebráicamente. Computacionalmente es lineal pero algebráicamente no.  
 
 > [!duda] Duda 3
 > : La nota entera

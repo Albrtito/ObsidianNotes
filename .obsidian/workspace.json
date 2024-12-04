@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+                "file": "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1729169534 - Exercises - Programacion lineal entera"
+              "title": "Graph of Dudas-Heuri"
             }
           },
           {
@@ -219,10 +219,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1729169534 - Exercises - Programacion lineal entera.md"
+                "file": "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1729169534 - Exercises - Programacion lineal entera"
+              "title": "Outline of Dudas-Heuri"
             }
           },
           {
@@ -305,10 +305,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e46d42893c588fee",
+  "active": "2d80d1313a42e16d",
   "lastOpenFiles": [
-    "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
     "02-Atomic/1729169534 - Exercises - Programacion lineal entera.md",
+    "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
     "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
     "02-Atomic/1726825216 - Programación Dinámica.md",
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
