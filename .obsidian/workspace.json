@@ -211,6 +211,33 @@
               "icon": "lucide-git-fork",
               "title": "Graph of 1732811321 - Algoritmos heurísticos de búsqueda"
             }
+          },
+          {
+            "id": "d984ccb5a50bcd56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d6d22eeec0682472",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       },
@@ -271,8 +298,65 @@
               "icon": "lucide-file",
               "title": "Heuristica y Opti"
             }
+          },
+          {
+            "id": "b75727a28940abcc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Atomic/1732811321 - Algoritmos heurísticos de búsqueda.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1732811321 - Algoritmos heurísticos de búsqueda"
+            }
+          },
+          {
+            "id": "370f8f41652f8251",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-Atomic/1732811321 - Algoritmos heurísticos de búsqueda.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1732811321 - Algoritmos heurísticos de búsqueda"
+            }
+          },
+          {
+            "id": "d4b50a9f49652ed5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5fcdcbfd5e323286",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -311,7 +395,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5b2503880d24a4d3",
+  "active": "5fcdcbfd5e323286",
   "lastOpenFiles": [
     "02-Atomic/1732811321 - Algoritmos heurísticos de búsqueda.md",
     "02-Atomic/1732193365 - Algoritmos de busqueda.md",
