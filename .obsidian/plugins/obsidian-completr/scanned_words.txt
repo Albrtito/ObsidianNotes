@@ -19095,7 +19095,6 @@ cdZK
 create
 completed
 changes
-closed
 common
 cBj
 cZBwoF
@@ -19844,11 +19843,9 @@ contain
 cummulative
 consequence
 contrario
-closely
 corresponding
 communicatoin
 closing
-close
 contrase
 conoce
 craci
@@ -20868,7 +20865,6 @@ counterexamples
 counterexample
 conditional
 conclusion
-closest
 chooses
 configuration
 controler
