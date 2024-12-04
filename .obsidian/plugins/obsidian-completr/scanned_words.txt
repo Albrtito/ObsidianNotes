@@ -5812,6 +5812,7 @@ descartamos
 desestiman
 desestimados
 detengmos
+deepening
 modelos
 modelo
 maximizar
@@ -15245,6 +15246,7 @@ todav
 tras
 temporary
 terminaci
+tanta
 review
 resolver
 realizar
@@ -34562,6 +34564,8 @@ Intermediarios
 Inversion
 Inestable
 Intensa
+Iterative
+IDA
 Definir
 Din
 Design
