@@ -14,4 +14,8 @@ cssclasses:
 ## Idiomas:
 + Para comprobar el mapping del certiciado que se tiene al nivel que se pide se dan una serie de documentos para cada idioma con los diferentes certificados que se pueden tener. 
 + Las universidades suelen ser flexibles, no obstante se ha de mirar las observaciones de cada una de ellas. (En algunos casos hay un número de años a partir de los que el certificado no es válido)
+
+## Ayudas:
++ Hay que estar 60 días para recibir la ayuda Erasmus, sino no se recibe y hay que devolverla. 
++ **Viaje:** Se dan más ayudas si se hace el viaje en transportes “ecológicos”
 ***
