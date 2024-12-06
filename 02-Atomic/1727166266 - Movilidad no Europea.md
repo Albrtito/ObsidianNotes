@@ -1,7 +1,8 @@
 ---
 aliases:
   - Movilidad no Europea
-tags: []
+tags:
+  - Mov
 References: 
 cssclasses:
 ---

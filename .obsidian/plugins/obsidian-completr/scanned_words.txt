@@ -2013,6 +2013,7 @@ anotar
 aleatoriamente
 aumentando
 ascendentemente
+ayudas
 Creaci
 Crear
 Cuando
@@ -5813,6 +5814,8 @@ desestiman
 desestimados
 detengmos
 deepening
+ditos
+devolverla
 modelos
 modelo
 maximizar
@@ -7677,6 +7680,8 @@ minor
 minimizamos
 monoton
 muestran
+master
+mapping
 en
 ease
 es
@@ -9697,6 +9702,8 @@ expanden
 eliminan
 expandimos
 estrella
+europa
+ecol
 programaci
 primer
 paso
@@ -13449,6 +13456,7 @@ llegaba
 labels
 lists
 listas
+libres
 tags
 tres
 todos
@@ -15253,6 +15261,7 @@ temporary
 terminaci
 tanta
 titulaci
+transportes
 review
 resolver
 realizar
@@ -17126,6 +17135,10 @@ remificaci
 regular
 recap
 rito
+requerimientos
+renuncia
+recibir
+recibe
 References
 Resoluci
 Rectas
@@ -21005,6 +21018,7 @@ computacional
 coming
 criterio
 consumo
+certiciado
 sr
 se
 subproblemas
@@ -39553,6 +39567,7 @@ ofrezca
 ofrecen
 ofrecidos
 optimista
+observaciones
 que
 queremos
 qD
@@ -41093,6 +41108,7 @@ qsFfH
 qqSn
 qebH
 quitarles
+quedan
 Algorith
 Algorithm
 All
@@ -42855,6 +42871,7 @@ Acuerdo
 Anuncios
 Acuerdos
 Admisible
+Ayudas
 Floyd
 Foundations
 Funci
@@ -44381,6 +44398,7 @@ Frente
 Facilida
 Folletos
 Falta
+Fijarse
 Warshall
 Width
 We
@@ -55798,6 +55816,7 @@ Selectiva
 Satisfacible
 Simplemente
 Search
+Saber
 Manual
 Modelar
 Millones
@@ -57492,6 +57511,7 @@ MarketingMix
 Madurez
 Muchos
 Modififaci
+Mov
 Zivkovic
 Zo
 Zi
@@ -71376,6 +71396,7 @@ Vertice
 Vuelvo
 Vbf
 VCzE
+Viaje
 Grupo
 Get
 GWgw
@@ -80658,6 +80679,7 @@ jhY
 jam
 joins
 juntar
+justificada
 wA
 wo
 wpMuB
