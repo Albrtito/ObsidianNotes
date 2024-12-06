@@ -7676,6 +7676,7 @@ mantendremos
 minor
 minimizamos
 monoton
+muestran
 en
 ease
 es
@@ -11731,6 +11732,7 @@ prioridad
 progresivamente
 profundas
 profundizaci
+pertinente
 lineal
 la
 lo
@@ -15250,6 +15252,7 @@ tras
 temporary
 terminaci
 tanta
+titulaci
 review
 resolver
 realizar
@@ -23003,6 +23006,7 @@ sobreestima
 saltarse
 simult
 sugirere
+solicitar
 interval
 importancia
 incorrecto
@@ -37972,6 +37976,7 @@ funcionalidad
 fases
 facetas
 faceta
+filtrar
 objetivo
 obtener
 of
