@@ -165,7 +165,7 @@
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.10487485197381426,
+                  "scale": 0.05281790119329888,
                   "close": true
                 }
               },
@@ -366,7 +366,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "14e2095f55fe5f78",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
     "02-Atomic/1733323021 - Algoritmos de busqueda heuristica.md",
