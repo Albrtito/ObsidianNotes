@@ -3,6 +3,7 @@ Resumen de las páginas web de importancia, burocracia y cosas a tener en cuenta
 
 Link de referencia con todos los programas de movilidad de la uc3m: [aquí](https://www.uc3m.es/ss/Satellite/SecretariaVirtual/es/TextoMixta/1371211195334/)
 + [[1727166266 - Movilidad no Europea|Movilidad no Europea]]
++ 
 
 ## Idiomas: 
 En todas las movilidades y prácitas se han de presentar los certificados de idiomas correspondientes. para ello se ha de usar el siguiente [formulario](https://aplicaciones.uc3m.es/formulario/cert_ofi_idiomas) que luego se vuelca, una vez comprobados los datos, en el apartado de certificados de idiomas de SIGMA (El pasaporte de idiomas).
