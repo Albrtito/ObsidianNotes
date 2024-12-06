@@ -8,9 +8,12 @@ Link de referencia con todos los programas de movilidad de la uc3m: [aquí](http
 ## Idiomas: 
 En todas las movilidades y prácitas se han de presentar los certificados de idiomas correspondientes. para ello se ha de usar el siguiente [formulario](https://aplicaciones.uc3m.es/formulario/cert_ofi_idiomas) que luego se vuelca, una vez comprobados los datos, en el apartado de certificados de idiomas de SIGMA (El pasaporte de idiomas).
 
+> [!attention] Nota: 
+> Todos los años se quedan plazas libres debido a que los estudiantes no tienen los idim 
+
+
 ## Movilidad europea:
 + Link de referencia de la uc3m: [aquí](https://www.uc3m.es/secretaria-virtual/convocatoria-erasmusplus-grado)
-
 
 ## Programas de prácticas: 
 ### Erasmus + prácticas:

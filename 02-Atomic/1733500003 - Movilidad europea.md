@@ -1,13 +1,15 @@
 ---
 aliases:
   - Movilidad europea
-tags: []
+tags:
+  - Mov
 References: 
 cssclasses:
 ---
 # Movilidad europea
 + Las plazas se muestran todas en un excel con toda la información, se ha de filtrar por titulación para obtener la pertinente y de esas universidades elegir las que se quieran solicitar. 
 + La adjudicación de plazas se hace utilizando la nota media de los estudiantes. 
+
 > [!attention] Cuidado con… 
 > + Fijarse en cuantos créditos requieren las universidades, por diferencia de años entre grados con europa muchas veces se entra en un primero de master, con x créditos requeridos. Si no se cumplen esos requerimientos se verá como una **renuncia no justificada** 
 
@@ -18,4 +20,5 @@ cssclasses:
 ## Ayudas:
 + Hay que estar 60 días para recibir la ayuda Erasmus, sino no se recibe y hay que devolverla. 
 + **Viaje:** Se dan más ayudas si se hace el viaje en transportes “ecológicos”
+
 ***

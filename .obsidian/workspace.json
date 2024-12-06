@@ -52,8 +52,7 @@
               "title": "1727166266 - Movilidad no Europea"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1733500003 - Movilidad europea.md",
+                "file": "01-Areas/1.UC3M/Movilidad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +170,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1733500003 - Movilidad europea"
+              "title": "Graph of Movilidad"
             }
           },
           {
@@ -213,10 +212,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1733500003 - Movilidad europea.md"
+                "file": "01-Areas/1.UC3M/Movilidad.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1733500003 - Movilidad europea"
+              "title": "Outline of Movilidad"
             }
           },
           {
@@ -367,7 +366,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6a7941b9175fa35f",
+  "active": "43a8945846ebea6f",
   "lastOpenFiles": [
     "02-Atomic/1727166266 - Movilidad no Europea.md",
     "02-Atomic/1733500003 - Movilidad europea.md",
