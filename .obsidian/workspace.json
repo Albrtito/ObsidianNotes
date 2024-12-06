@@ -312,12 +312,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "14e2095f55fe5f78",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -356,7 +366,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c9f889e2c9e61cba",
+  "active": "14e2095f55fe5f78",
   "lastOpenFiles": [
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
     "02-Atomic/1733323021 - Algoritmos de busqueda heuristica.md",
