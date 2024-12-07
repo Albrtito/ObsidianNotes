@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1728377926 - Timeout estimations TCP.md",
+                "file": "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1728377926 - Timeout estimations TCP"
+              "title": "1732035034 - Protocol - Slotted ALOHA"
             }
           }
         ],
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1728377926 - Timeout estimations TCP.md",
+                "file": "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1728377926 - Timeout estimations TCP"
+              "title": "Graph of 1732035034 - Protocol - Slotted ALOHA"
             }
           },
           {
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1728377926 - Timeout estimations TCP.md"
+                "file": "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1728377926 - Timeout estimations TCP"
+              "title": "Outline of 1732035034 - Protocol - Slotted ALOHA"
             }
           },
           {
@@ -308,6 +308,9 @@
   },
   "active": "1d408abc3d02d974",
   "lastOpenFiles": [
+    "02-Atomic/1727100415 - Theorem - Indicador de Euler.md",
+    "02-Atomic/1727187154 - Method - RDT Over reliable channel.md",
+    "02-Atomic/1728377926 - Timeout estimations TCP.md",
     "02-Atomic/1732021285 - Protocol - ALOHA.md",
     "02-Atomic/1728038869 - Transport network layer.md",
     "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md",
@@ -331,9 +334,6 @@
     "02-Atomic/1733322593 - Algorithm - Beam Search.md",
     "02-Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
     "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
-    "02-Atomic/1730303159 - Satisfacción de restricciones.md",
-    "02-Atomic/1727270270 - Method - SIMPLEX.md",
-    "02-Atomic/1732633799 - MarketingMix - Distribucion.md",
     "99-Meta/0. Attachments/1732633633 - MarketingMix - Productoj.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-1.png",

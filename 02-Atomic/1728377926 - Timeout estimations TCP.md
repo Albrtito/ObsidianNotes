@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-11-29
-sr-interval: 10
+sr-due: 2025-01-01
+sr-interval: 25
 sr-ease: 190
 ---
 # Timeout Estimations TCP
