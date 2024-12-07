@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-24
-sr-interval: 2
+sr-due: 2024-12-26
+sr-interval: 19
 sr-ease: 228
 ---
 # Algorithm - Profundizacion iterativa
@@ -34,7 +34,7 @@ sr-ease: 228
 
 ## Eficiencia: 
 La eficiencia va a ser la misma que en la búsqueda en primero en profundidad. 
-+ b → 
++ b →  Factor de ramificación
 ### Tiempo: 
 $$
 O(b^d)

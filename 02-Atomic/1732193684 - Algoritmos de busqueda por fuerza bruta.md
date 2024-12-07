@@ -13,6 +13,11 @@ sr-ease: 230
 # Algoritmos de busqueda por fuerza bruta
 
 #Duda: Que pasaría si nuestro grafo no fuese simple? → Hay multiple edges
+
+> [!check] Duda: Que pasaría si nuestro grafo no fuese simple y tuviese multiple edges? 
+> Al estar buscando los caminos **óptimos**, si un grafo tiene multiple edges solo nos importará aquel edge que tenga **menor coste**. 
+> En algunos problemas de búsqueda con restricciones del tipo "no se puede pasar dos veces por un mismo edge” p 
+
 ## Pseudocódigo:
 
 > [!attention] Main idea:

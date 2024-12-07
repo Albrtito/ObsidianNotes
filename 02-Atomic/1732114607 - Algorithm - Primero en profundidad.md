@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-24
-sr-interval: 2
+sr-due: 2024-12-26
+sr-interval: 19
 sr-ease: 228
 ---
 # Algorithm - Primero en profundidad
