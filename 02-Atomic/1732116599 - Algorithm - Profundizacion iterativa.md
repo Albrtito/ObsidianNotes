@@ -34,6 +34,7 @@ sr-ease: 228
 
 ## Eficiencia: 
 La eficiencia va a ser la misma que en la búsqueda en primero en profundidad. 
++ b → 
 ### Tiempo: 
 $$
 O(b^d)

@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-24
-sr-interval: 2
+sr-due: 2024-12-29
+sr-interval: 22
 sr-ease: 230
 ---
 # Modelado de un espacio de estados
