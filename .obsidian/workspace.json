@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
+                "file": "02-Atomic/1729087121 - Creación de informes en programación lineal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1732035034 - Protocol - Slotted ALOHA"
+              "title": "1729087121 - Creación de informes en programación lineal"
             }
           }
         ],
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
+                "file": "02-Atomic/1729087121 - Creación de informes en programación lineal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732035034 - Protocol - Slotted ALOHA"
+              "title": "Graph of 1729087121 - Creación de informes en programación lineal"
             }
           },
           {
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md"
+                "file": "02-Atomic/1729087121 - Creación de informes en programación lineal.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732035034 - Protocol - Slotted ALOHA"
+              "title": "Outline of 1729087121 - Creación de informes en programación lineal"
             }
           },
           {
@@ -308,6 +308,10 @@
   },
   "active": "1d408abc3d02d974",
   "lastOpenFiles": [
+    "02-Atomic/1730567078 - The network layer data plane.md",
+    "02-Atomic/lifeOS.md",
+    "02-Atomic/1731409972 - Protocol - DHCP.md",
+    "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
     "02-Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02-Atomic/1727187154 - Method - RDT Over reliable channel.md",
     "02-Atomic/1728377926 - Timeout estimations TCP.md",
@@ -330,10 +334,6 @@
     "02-Atomic/1733324893 - Algorithm - A*.md",
     "02-Atomic/1733323628 - Algorithm - Busqueda de el mejor primero.md",
     "02-Atomic/1731507348 - Problemas de búsqueda.md",
-    "02-Atomic/1733321764 - Algorithm - Busqueda en escalada.md",
-    "02-Atomic/1733322593 - Algorithm - Beam Search.md",
-    "02-Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
-    "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
     "99-Meta/0. Attachments/1732633633 - MarketingMix - Productoj.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-1.png",

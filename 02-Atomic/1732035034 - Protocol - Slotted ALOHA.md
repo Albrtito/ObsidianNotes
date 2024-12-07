@@ -6,9 +6,9 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-11-24
+sr-due: 2024-12-10
 sr-interval: 3
-sr-ease: 230
+sr-ease: 210
 ---
 # Protocol - Slotted ALOHA
 
