@@ -6,17 +6,16 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-24
-sr-interval: 2
-sr-ease: 230
+sr-due: 2025-01-25
+sr-interval: 49
+sr-ease: 250
 ---
 # Algoritmos de busqueda por fuerza bruta
 
-#Duda: Que pasaría si nuestro grafo no fuese simple? → Hay multiple edges
 
 > [!check] Duda: Que pasaría si nuestro grafo no fuese simple y tuviese multiple edges? 
 > Al estar buscando los caminos **óptimos**, si un grafo tiene multiple edges solo nos importará aquel edge que tenga **menor coste**. 
-> En algunos problemas de búsqueda con restricciones del tipo "no se puede pasar dos veces por un mismo edge” p 
+> En algunos problemas de búsqueda con restricciones del tipo "no se puede pasar dos veces por un mismo edge” puede tener sentido preocuparse por ello. 
 
 ## Pseudocódigo:
 

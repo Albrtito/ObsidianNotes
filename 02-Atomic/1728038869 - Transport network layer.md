@@ -7,8 +7,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-11-29
-sr-interval: 27
+sr-due: 2025-02-09
+sr-interval: 64
 sr-ease: 208
 ---
 # Transport network layer
@@ -28,7 +28,7 @@ Services and protocols provide **logical communication between systems,** they d
 + **Reciever:** The one recieving packets and sending them to the app layer
   + **Recieves segment + checks header:** check everything is ok
   + **Extract message:** For application
-  + ==**Pass message to the app socket by DEMULTIPLEXING:** See demultiplexing in the next part==
+  + **Pass message to the app socket by DEMULTIPLEXING:** See demultiplexing in the next part
 
 
 > [!attention] Differences between transport and network: 

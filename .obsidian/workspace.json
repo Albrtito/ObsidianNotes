@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md",
+                "file": "02-Atomic/1728377926 - Timeout estimations TCP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1732193684 - Algoritmos de busqueda por fuerza bruta"
+              "title": "1728377926 - Timeout estimations TCP"
             }
           }
         ],
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md",
+                "file": "02-Atomic/1728377926 - Timeout estimations TCP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,7 +118,7 @@
                   "nodeSizeMultiplier": 2.79537653688525,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.10925799863853,
+                  "centerStrength": 0.051906779661017,
                   "repelStrength": 16.3036078965283,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732193684 - Algoritmos de busqueda por fuerza bruta"
+              "title": "Graph of 1728377926 - Timeout estimations TCP"
             }
           },
           {
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md"
+                "file": "02-Atomic/1728377926 - Timeout estimations TCP.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732193684 - Algoritmos de busqueda por fuerza bruta"
+              "title": "Outline of 1728377926 - Timeout estimations TCP"
             }
           },
           {
@@ -288,7 +288,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,6 +308,9 @@
   },
   "active": "1d408abc3d02d974",
   "lastOpenFiles": [
+    "02-Atomic/1732021285 - Protocol - ALOHA.md",
+    "02-Atomic/1728038869 - Transport network layer.md",
+    "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md",
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
     "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
     "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
@@ -326,13 +330,10 @@
     "02-Atomic/1733321764 - Algorithm - Busqueda en escalada.md",
     "02-Atomic/1733322593 - Algorithm - Beam Search.md",
     "02-Atomic/20240515 - 031336 - Algorithm - Dijkstra's algorithm.md",
-    "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md",
     "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
     "02-Atomic/1730303159 - Satisfacción de restricciones.md",
     "02-Atomic/1727270270 - Method - SIMPLEX.md",
     "02-Atomic/1732633799 - MarketingMix - Distribucion.md",
-    "02-Atomic/1733319298 - Analisis de la produccion en la empresa.md",
-    "02-Atomic/1728921778 - La funcion de produccion de la empresa.md",
     "99-Meta/0. Attachments/1732633633 - MarketingMix - Productoj.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-1.png",

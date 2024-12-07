@@ -7,8 +7,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-24
-sr-interval: 3
+sr-due: 2024-12-28
+sr-interval: 21
 sr-ease: 226
 ---
 # Protocol - ALOHA
