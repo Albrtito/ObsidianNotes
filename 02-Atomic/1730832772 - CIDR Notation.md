@@ -8,9 +8,9 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-12-05
-sr-interval: 13
-sr-ease: 270
+sr-due: 2025-02-01
+sr-interval: 56
+sr-ease: 290
 ---
 # CIDR Notation:
 > CIDR: Classles Interdomain Routing

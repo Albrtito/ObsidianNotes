@@ -7,9 +7,9 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-11-27
-sr-interval: 44
-sr-ease: 308
+sr-due: 2025-07-25
+sr-interval: 230
+sr-ease: 328
 ---
 # Communication links
 

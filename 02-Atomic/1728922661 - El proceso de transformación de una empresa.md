@@ -7,9 +7,9 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-26
-sr-interval: 24
-sr-ease: 227
+sr-due: 2024-12-22
+sr-interval: 15
+sr-ease: 207
 ---
 # El proceso de transformación de una empresa
 
