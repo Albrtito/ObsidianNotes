@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses: 
-sr-due: 2024-12-08
-sr-interval: 36
+sr-due: 2025-03-01
+sr-interval: 83
 sr-ease: 230
 ---
 # Estrategias de integración:
@@ -25,7 +25,7 @@ sr-ease: 230
 **Desventajas:**
 + ==Mayor riesgo, más empresas = más riesgo==
 + Menos flexibilidad
-+ Pérdida de ventajas de especialización: #Duda: Que?
++ Pérdida de ventajas de especialización: Es más complicado variar el producto
 + ==Más costes administrativos==
 
 Hay dos timpos de integración corporativa, **vertical y horizontal:** 
