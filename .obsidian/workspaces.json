@@ -267,13 +267,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/1732193365 - Algoritmos de busqueda.md",
+                    "file": "02-Atomic/1727270270 - Method - SIMPLEX.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "1732193365 - Algoritmos de busqueda"
+                  "title": "1727270270 - Method - SIMPLEX"
                 }
               }
             ],
@@ -296,7 +296,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02-Atomic/1732193365 - Algoritmos de busqueda.md",
+                    "file": "02-Atomic/1727270270 - Method - SIMPLEX.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -372,16 +372,16 @@
                       "nodeSizeMultiplier": 2.79537653688525,
                       "lineSizeMultiplier": 1,
                       "collapse-forces": false,
-                      "centerStrength": 0.10925799863853,
-                      "repelStrength": 16.3036078965283,
+                      "centerStrength": 0.18373352165725,
+                      "repelStrength": 20,
                       "linkStrength": 0.47411233053583,
                       "linkDistance": 52,
-                      "scale": 0.08943851297751801,
+                      "scale": 0.039029437649587606,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 1732193365 - Algoritmos de busqueda"
+                  "title": "Graph of 1727270270 - Method - SIMPLEX"
                 }
               },
               {
@@ -423,10 +423,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "02-Atomic/1732193365 - Algoritmos de busqueda.md"
+                    "file": "02-Atomic/1727270270 - Method - SIMPLEX.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of 1732193365 - Algoritmos de busqueda"
+                  "title": "Outline of 1727270270 - Method - SIMPLEX"
                 }
               },
               {
@@ -457,60 +457,6 @@
             "dimension": 63.45609065155807,
             "children": [
               {
-                "id": "90205c8666b47457",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {},
-                  "icon": "SpacedRepIcon",
-                  "title": "Notes Review Queue"
-                }
-              },
-              {
-                "id": "b25603422e8df2b5",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks"
-                }
-              },
-              {
-                "id": "2eeeae8e11e21776",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "Outgoing links"
-                }
-              },
-              {
-                "id": "3ed0f2b8fe586a60",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  },
-                  "icon": "lucide-tags",
-                  "title": "Tags"
-                }
-              },
-              {
                 "id": "25035ac93f5900cb",
                 "type": "leaf",
                 "state": {
@@ -520,8 +466,7 @@
                   "title": "Notes Review Queue"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "d8523f2fbc4e9acf",
@@ -560,7 +505,7 @@
         }
       },
       "active": "1d408abc3d02d974",
-      "mtime": "2024-11-25T16:34:32+01:00"
+      "mtime": "2024-12-08T13:39:29+01:00"
     },
     "Config": {
       "main": {
@@ -3282,5 +3227,5 @@
       "mtime": "2024-12-07T15:20:16+01:00"
     }
   },
-  "active": "Recall"
+  "active": "Net"
 }
