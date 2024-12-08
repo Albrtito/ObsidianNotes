@@ -1071,55 +1071,25 @@
         "type": "split",
         "children": [
           {
-            "id": "272ea3d5a26c0049",
-            "type": "split",
+            "id": "a181a8d9a688f463",
+            "type": "tabs",
             "children": [
               {
-                "id": "a181a8d9a688f463",
-                "type": "tabs",
-                "dimension": 54.88069414316704,
-                "children": [
-                  {
-                    "id": "627546c0f3528120",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02-Atomic/1732018095 - The network link layer.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "1732018095 - The network link layer"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "6886a07856d010fb",
-                "type": "tabs",
-                "dimension": 45.11930585683296,
-                "children": [
-                  {
-                    "id": "19a487545ad3a208",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02-Atomic/1732031831 - Link channel multiple access protocols.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "1732031831 - Link channel multiple access protocols"
-                    }
-                  }
-                ]
+                "id": "627546c0f3528120",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1732021285 - Protocol - ALOHA.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1732021285 - Protocol - ALOHA"
+                }
               }
-            ],
-            "direction": "vertical"
+            ]
           }
         ],
         "direction": "vertical"
@@ -1352,8 +1322,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "19a487545ad3a208",
-      "mtime": "2024-11-22T16:46:43+01:00"
+      "active": "627546c0f3528120",
+      "mtime": "2024-12-08T14:03:34+01:00"
     },
     "Empresa": {
       "main": {
@@ -3227,5 +3197,5 @@
       "mtime": "2024-12-07T15:20:16+01:00"
     }
   },
-  "active": "Net"
+  "active": "Recall"
 }
