@@ -6,8 +6,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-12-08
-sr-interval: 22
+sr-due: 2025-01-30
+sr-interval: 53
 sr-ease: 250
 ---
 # Asientos contables
@@ -39,7 +39,6 @@ sr-ease: 250
 | **Yo**: 10 euros | **a Mercadona** 10 euros |
 >  
 >  +  Aquí hemos creado el asiento de un pago, o dicho de otra forma, el aumento de un pasivo(un deber de pagar)
-
 
 
 

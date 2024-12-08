@@ -8,8 +8,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-12-08
-sr-interval: 14
+sr-due: 2025-01-17
+sr-interval: 40
 sr-ease: 270
 ---
 # The forwarding function the netwok layer:
@@ -29,7 +29,6 @@ Every network router has one forwarding table. These tables are use by the route
 + **IMPORTANT:** These tables are **created by the [[1730567097 - The network layer control plane|Control plane]]**
 + Forwarding tables reference IPs in their [[1730832772 - CIDR Notation|CIDR Notation]], sending all IPs with some prefix to the same place. 
 
-**NOTE:** Each of the forwarding algorithms define 
 ## Types of forwarding algorithms:
 ###  [[1731418961 - Generalized forwarding|Generalized forwarding]]
 
@@ -46,7 +45,5 @@ Every network router has one forwarding table. These tables are use by the route
 > Each node sees the final destination of a packet and decides **towards where to send it only based on how to arrive to that destination**. 
 > 
 > If we used cars going though roundabouts with each roundabout having an entry booth the cars would tell the attendand where to go(final destination) and the attendand would just decide wich exit to take at that roundabout.
-
-
 
 ***

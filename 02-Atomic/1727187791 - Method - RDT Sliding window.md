@@ -12,7 +12,6 @@ sr-ease: 205
 ---
 # Method - RDT Sliding window
 
-
 ## Sliding window mechanism:
 ![[1727176650 - Principles of reliable data transfer-1.png]]
 #Duda: Entonces esperamos a que los que están en la porción amarilla se ack para volver a mandar? Ese tiempo de espera es así?

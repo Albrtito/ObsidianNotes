@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+                "file": "02-Atomic/1728921778 - La funcion de produccion de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726242484 - Definition - Sociedad anónima (S.A)"
+              "title": "1728921778 - La funcion de produccion de la empresa"
             }
           }
         ],
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+                "file": "02-Atomic/1728921778 - La funcion de produccion de la empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1726242484 - Definition - Sociedad anónima (S.A)"
+              "title": "Graph of 1728921778 - La funcion de produccion de la empresa"
             }
           },
           {
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1726242484 - Definition - Sociedad anónima (S.A).md"
+                "file": "02-Atomic/1728921778 - La funcion de produccion de la empresa.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1726242484 - Definition - Sociedad anónima (S.A)"
+              "title": "Outline of 1728921778 - La funcion de produccion de la empresa"
             }
           },
           {
@@ -252,6 +252,12 @@
   },
   "active": "1d408abc3d02d974",
   "lastOpenFiles": [
+    "02-Atomic/1731418961 - Generalized forwarding.md",
+    "02-Atomic/1729692495 - Asientos contables.md",
+    "02-Atomic/1730567584 - Forwarding function of the network layer.md",
+    "02-Atomic/1727096148 - Cifrador de flujo.md",
+    "02-Atomic/1727187791 - Method - RDT Sliding window.md",
+    "02-Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "02-Atomic/1727710261 - Estrategias de integración.md",
     "02-Atomic/1727270270 - Method - SIMPLEX.md",
     "02-Atomic/1732021285 - Protocol - ALOHA.md",
@@ -272,12 +278,6 @@
     "02-Atomic/1727100415 - Theorem - Indicador de Euler.md",
     "02-Atomic/1727187154 - Method - RDT Over reliable channel.md",
     "02-Atomic/1728377926 - Timeout estimations TCP.md",
-    "02-Atomic/1728038869 - Transport network layer.md",
-    "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md",
-    "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
-    "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
-    "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
-    "02-Atomic/1731507784 - Modelado de un espacio de estados.md",
     "99-Meta/0. Attachments/1732633633 - MarketingMix - Productoj.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-1.png",
