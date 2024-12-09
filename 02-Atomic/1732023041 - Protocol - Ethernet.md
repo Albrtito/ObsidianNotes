@@ -7,8 +7,8 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-24
-sr-interval: 3
+sr-due: 2025-01-01
+sr-interval: 23
 sr-ease: 225
 ---
 # Protocol - Ethernet

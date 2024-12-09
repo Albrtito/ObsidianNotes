@@ -6,21 +6,20 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-24
-sr-interval: 2
-sr-ease: 230
+sr-due: 2024-12-12
+sr-interval: 3
+sr-ease: 210
 ---
 # Algoritmos de busqueda
 
 > [!NOTE] Intro:  
-> Los algoritmos de búsqueda resuelven de forma eficiente aquellos problemas con conplejidad exponencial. 
-
+> Los algoritmos de búsqueda resuelven de forma eficiente aquellos problemas con complejidad exponencial. 
 
 ## Propiedades: 
 Evaluamos un algorimo de busqueda analizando su completitud y admisibilidad.
 
 + **Completitud:** Un algoritmo de búsqueda es completo si **garantiza que encontrará una solución** dada que exista alguna. #Duda: Aunq esta solución se pueda dar en tiempo infinito?
-+ **Admisibilidad:** Si garantiza que encontrará una solución óptima dado a que exista alguna. 
++ **Admisibilidad:** Si garantiza que encontrará una **solución óptima** dado a que exista alguna. 
 	+ Si un algoritmo es **admisible es necesariamente completo**
 ### Remarks:
 

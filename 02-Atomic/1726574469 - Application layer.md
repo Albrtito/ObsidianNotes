@@ -6,8 +6,8 @@ tags:
   - Networks
 References: "[[Net_References_s2_1.pdf]]"
 cssclasses:
-sr-due: 2024-12-09
-sr-interval: 37
+sr-due: 2025-03-04
+sr-interval: 85
 sr-ease: 230
 ---
 # Application layer
@@ -15,13 +15,14 @@ sr-ease: 230
 > [!Quote] Remember: 
 > In any network, the aplicatinos that send messages through the network are called **distributed**. 
 
+## Types of applications:
 The **architecture of the application can be one of two types:**
 
-Server - Client
+### Server-Client:
 1. **Server:** Where some common info is. It has a permanent place (permanent IP) and sends info to all the clients. 
 2. **Clients:** The clients communicate with the server and not with each other. Do not need to be connected all the time
 
-Peer-Peer: 
+### Peer-Peer:
 The peer to peer architecture uses a direct connection between hosts instead of a server-host connection. 
 + There is **no server**
 + There is a service for service mindset. (Bit-Torrent)
@@ -54,7 +55,7 @@ In order to **identify the socket** we use:
  telnet <IPAddress> <port>
  ```
 
-### Needs: 
+## Services: 
 Applications may need different things, based on this we choose the proper [[1726049888 - Protocol - Net protocols#Transport protocols|Transport protocol]], some of the needs they may have are: 
 
 + Data **integrity:** Everything needs to reach ok, no corruption

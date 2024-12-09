@@ -6,15 +6,14 @@ tags:
   - review
 References: 
 cssclasses:
-sr-due: 2024-11-24
-sr-interval: 2
-sr-ease: 228
+sr-due: 2025-02-04
+sr-interval: 57
+sr-ease: 248
 ---
 # Problemas de búsqueda
-#Duda: El espacio de estados es simplemente el modelo? Luego la resolución la realizamos con un algoritmos de búsqueda (de los que hay en tipos de algoritmos?)
 
 ## Modelado de un espacio de estados:
-El modelado de problemas de búsqueda como un espacio de estados se basa en dos ideas fundamentales: 
+El modelado de problemas de búsqueda se realiza siempre como un espacio de estados. Este modelado posee las siguientes características: 
 
 1. Un posible conjunto de valores específicos para cada una  de mis variables es un estado que se representa en forma de **nodo**
 2. Realizar un cambio para obtener un conjunto diferente es una operación, que se representa como **una arista**
