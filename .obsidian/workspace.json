@@ -4,26 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e7b68473099de705",
+        "id": "6bc9cceeeaecbe3f",
         "type": "tabs",
         "children": [
           {
-            "id": "1d408abc3d02d974",
+            "id": "c773b82d7c627536",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02-Atomic/1727096148 - Cifrador de flujo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "00-References/Net_Biblio_Kurose.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1727096148 - Cifrador de flujo"
+              "icon": "lucide-file-text",
+              "title": "Net_Biblio_Kurose"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -42,9 +38,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727096148 - Cifrador de flujo.md",
+                "file": "02-Atomic/1732018095 - The network link layer.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -117,21 +113,21 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 2.79537653688525,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.18373352165725,
-                  "repelStrength": 20,
+                  "collapse-forces": true,
+                  "centerStrength": 0.0242737249838606,
+                  "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.039029437649587606,
+                  "scale": 0.08922934559046299,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1727096148 - Cifrador de flujo"
+              "title": "Graph of 1732018095 - The network link layer"
             }
           },
           {
-            "id": "fc17a30e900d6f8a",
+            "id": "b6e33d160bc51eb6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -148,7 +144,7 @@
             }
           },
           {
-            "id": "5277caa8de0cf553",
+            "id": "26c82695bfd12dda",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -169,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1727096148 - Cifrador de flujo.md"
+                "file": "02-Atomic/1732018095 - The network link layer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1727096148 - Cifrador de flujo"
+              "title": "Outline of 1732018095 - The network link layer"
             }
           },
           {
@@ -191,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -203,13 +200,18 @@
         "dimension": 63.45609065155807,
         "children": [
           {
-            "id": "25035ac93f5900cb",
+            "id": "2dca472e18c0e06a",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "type": "markdown",
+              "state": {
+                "file": "01-Areas/1.UC3M/Networks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Networks"
             }
           }
         ]
@@ -233,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 462
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,8 +252,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1d408abc3d02d974",
+  "active": "c773b82d7c627536",
   "lastOpenFiles": [
+    "02-Atomic/1732021285 - Protocol - ALOHA.md",
+    "00-References/Net_Biblio_Kurose.pdf",
+    "02-Atomic/1727096148 - Cifrador de flujo.md",
     "02-Atomic/1726498694 - Definition - Criptografía.md",
     "02-Atomic/1731419106 - Match-Plus-Action methods in forwarding.md",
     "02-Atomic/1727709003 - Estrategias competitivas de la empresa.md",
@@ -271,13 +276,10 @@
     "02-Atomic/1731418961 - Generalized forwarding.md",
     "02-Atomic/1729692495 - Asientos contables.md",
     "02-Atomic/1730567584 - Forwarding function of the network layer.md",
-    "02-Atomic/1727096148 - Cifrador de flujo.md",
     "02-Atomic/1727187791 - Method - RDT Sliding window.md",
     "02-Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
     "02-Atomic/1727710261 - Estrategias de integración.md",
     "02-Atomic/1727270270 - Method - SIMPLEX.md",
-    "02-Atomic/1732021285 - Protocol - ALOHA.md",
-    "02-Atomic/1732037327 - Protocol - CSMA-CD.md",
     "99-Meta/0. Attachments/1732633633 - MarketingMix - Productoj.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-1.png",
@@ -292,7 +294,6 @@
     "99-Meta/2. Scripts/output.txt",
     "99-Meta/2. Scripts/output",
     "99-Meta/2.Scripts/output",
-    "99-Meta/2.Scripts",
     "99-Meta/0. Attachments/1731436877 - El plan de marketingj.png",
     "99-Meta/0. Attachments/1726572508 - The network stackj.png",
     "99-Meta/0. Attachments/1730651695 - The Internet Protocol (IP)j.png",
