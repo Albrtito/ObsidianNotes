@@ -50,3 +50,9 @@ $$
 
 Para considerar un sistema de cifrado como válido, Kerckhoff propuso los [[1726519620 - Principios de Kerckhoff|Principios de Kerckhoff]]. 
 
+
+0 0 0 0 0 1 0 1 0 0 1 1 1 0 1 1  
+0 1 1 1 0 0 1 0 1 1 1 1 0 0 0 1  
+0 1 0 0 1 1 0 1 0 0 1 0 1 0 1 1  
+1 0 1 0 1 0 1 1 1 0 1 0 0 1 1 0  
+0 1 1 0 1 1 1 0 0 0 1 1 1 0 1 0
