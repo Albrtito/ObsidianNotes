@@ -6,8 +6,8 @@ tags:
   - Networks
 References: 
 cssclasses:
-sr-due: 2024-12-10
-sr-interval: 3
+sr-due: 2024-12-16
+sr-interval: 6
 sr-ease: 210
 ---
 # Protocol - Slotted ALOHA
@@ -20,7 +20,7 @@ sr-ease: 210
 + All frames  must have the same size
 + Time is divided into slots, each slot has the lenght equal to the time required to transmit 1 frame. 
 
-  #Duda: The propagation over one link could be different than other. And what if the transmission delay of one host is different form the others?
+  #Duda: The propagation over one link could be different than other. And what if the transmission delay of one host is different from the others?
 
 	+ Everyone can use the slots, however u need to transmit **at the beginning of the slot**
 

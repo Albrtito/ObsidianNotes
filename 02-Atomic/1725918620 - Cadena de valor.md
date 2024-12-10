@@ -6,8 +6,8 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-12-10
-sr-interval: 68
+sr-due: 2025-06-25
+sr-interval: 197
 sr-ease: 290
 ---
 # Cadena de valor
