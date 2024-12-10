@@ -7,8 +7,8 @@ tags:
   - Empresa
 References: 
 cssclasses: 
-sr-due: 2024-12-04
-sr-interval: 18
+sr-due: 2025-01-23
+sr-interval: 44
 sr-ease: 210
 ---
 # Estrategias competitivas de la empresa
@@ -26,7 +26,7 @@ Existen **dos tipos de estrategias competitivas:**
 
 **Remarks:Factores que ayudan a reducir costes**
 + Mayor especializaciópn en el sector
-+ ==Coste de recursos es menor==
++ Coste de recursos es menor
 + Estandarización de los diseños
 + ==Tiempo de aprendizaje== 
 + Economías de escala
@@ -41,4 +41,4 @@ Existen **dos tipos de estrategias competitivas:**
 
 **Remarks:**
 + Se crea valor para el cliente
-+ ==Se puede crear diferenciación **tangible e intangible**==
++ Se puede crear diferenciación **tangible e intangible**
