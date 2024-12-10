@@ -28,5 +28,4 @@ sr-ease: 225
 	+ **There is no collision while sending:** Nice, the frame was sent
 	+ **There is a collision:** Abort and send a jam signal (saying, I stopped because a collision was sensed)
 		+ ==Enter an **binary exponential backoff** → Based on the probability that retransmission will happen → Based on the number of hosts connected to the link.== 
-   * 
 ***
