@@ -11756,6 +11756,8 @@ progresivamente
 profundas
 profundizaci
 pertinente
+preferimos
+pare
 lineal
 la
 lo
@@ -38035,6 +38037,7 @@ faceta
 filtrar
 followed
 falsa
+formuila
 objetivo
 obtener
 of

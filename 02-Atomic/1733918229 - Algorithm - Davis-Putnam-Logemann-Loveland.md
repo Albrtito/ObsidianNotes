@@ -27,4 +27,10 @@ Este algoritmo es equivalente a realizar una búsqueda de [[1732114607 - Algorit
 > $$ t = \perp$$
 >  Se obtendría una fórmula verdadera
 >   ![[1733918229 - Algorithm - Davis-Putnam-Logemann-Lovelandj.png]]
+
+## Eficiencia: 
+**TIEMPO:** Exponencial 
+
+**MEMORIA:** Si se expande el arbol completo para encontrar todas las posibles soluciones se guardarán $2^n$ posibilidades nodos ()
+
 ***
