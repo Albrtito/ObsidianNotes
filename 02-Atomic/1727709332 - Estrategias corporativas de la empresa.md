@@ -7,9 +7,9 @@ tags:
   - Empresa
 References: 
 cssclasses:
-sr-due: 2024-12-11
-sr-interval: 39
-sr-ease: 230
+sr-due: 2024-12-31
+sr-interval: 20
+sr-ease: 210
 ---
 # Estrategias corporativas de la empresa
 
