@@ -31,6 +31,9 @@ Este algoritmo es equivalente a realizar una búsqueda de [[1732114607 - Algorit
 ## Eficiencia: 
 **TIEMPO:** Exponencial 
 
-**MEMORIA:** Si se expande el arbol completo para encontrar todas las posibles soluciones se guardarán $2^n$ posibilidades nodos ()
+**MEMORIA:** Si se expande el arbol completo para encontrar todas las posibles soluciones se guardarán $2^n$ posibilidades nodos (Lógica booleana => Dos posibles ramificaciones)
+$$
+O(2^n)
+$$
 
 ***

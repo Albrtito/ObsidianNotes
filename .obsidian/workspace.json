@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland.md",
+                "file": "00-References/Heuri_Resources_Problemas.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,7 +183,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland"
+              "title": "Graph of Heuri_Resources_Problemas"
             }
           },
           {
@@ -225,10 +225,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland.md"
+                "file": "00-References/Heuri_Resources_Problemas.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland"
+              "title": "Outline of Heuri_Resources_Problemas"
             }
           },
           {
@@ -313,15 +313,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "641a050f0d0b97fd",
+  "active": "1534c7b893b7c93b",
   "lastOpenFiles": [
+    "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md",
+    "02-Atomic/1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland.md",
     "02-Atomic/1730297192 - Problemas de satisfabilidad Lógica.md",
     "00-References/Heuri_Resources_Problemas.pdf",
-    "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md",
     "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md",
     "1730903400 - Problema de las n reinas.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
-    "02-Atomic/1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland.md",
     "99-Meta/0. Attachments/1733918229 - Algorithm - Davis-Putnam-Logemann-Lovelandj.png",
     "02-Atomic/1730301910 - Algoritmo de Davis-Putnam-Logemann-Loveland.md",
     "02-Atomic/1733917531 - Algorithm - Davis-Putnam.md",

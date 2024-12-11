@@ -17164,6 +17164,7 @@ routines
 reading
 rmulas
 requerir
+ramificaciones
 References
 Resoluci
 Rectas
@@ -29801,6 +29802,7 @@ Escasa
 Elegir
 Elegimos
 EXAM
+Exponencial
 vital
 variables
 vez
@@ -49187,6 +49189,7 @@ Trees
 Tomas
 Terceras
 Tras
+TIEMPO
 grafo
 guardan
 global
@@ -57569,6 +57572,7 @@ Modififaci
 Mov
 March
 Metodo
+MEMORIA
 Zivkovic
 Zo
 Zi
@@ -62319,6 +62323,7 @@ buscados
 backtracking
 beam
 buscaremos
+booleana
 Util
 Una
 UniZumo
