@@ -3,6 +3,11 @@ aliases:
   - Problemas de satisfabilidad logica
   - Problemas SAT
 tags:
+  - review
+  - Heuri
+sr-due: 2024-12-14
+sr-interval: 3
+sr-ease: 250
 ---
 # Problemas de satisfabilidad Lógica
 
@@ -63,11 +68,6 @@ $$(\overline{x_1} \lor x_2) \land (x_1 \lor \overline{x_3}) \space ...$$
 
 Para obtener el modelo podemos aplicar los siguientes métodos: 
 + Para problemas del primer tipo:  [[1733916831 - Metodo de resolución SAT|Resolucion SAT]]
-+ Para problemas del segundo tipo usaremos: [[1733917531 - Algorithm - Davis-Putnam|Algorithm - Davis-Putnam]] o 
-
-
-
-Una modificación de este algoritmo mucho más efectiva es la del [[1730301910 - Algoritmo de Davis-Putnam-Logemann-Loveland|Algoritmo de Davis-Putnam-Logemann-Loveland]].
-Estos algoritmos tienen una complejidad $O(2^n)$, ya que la propia naturaleza de un problema booleano es de complejidad exponencial.
++ Para problemas del segundo tipo usaremos: [[1733917531 - Algorithm - Davis-Putnam|Algorithm - Davis-Putnam]] o [[1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland|Algorithm - Davis-Putnam-Logemann-Loveland]]
 
 ***
