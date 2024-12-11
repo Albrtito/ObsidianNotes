@@ -46,6 +46,7 @@ aliases:
 + [[1730297192 - Problemas de satisfabilidad Lógica|Satisfacibilidad Lógica]]
 +  [[1730303159 - Problemas de satisfacción de restricciones|Satisfacción de restricciones]]
 + [[1731507348 - Problemas de busqueda|Problemas de búsqueda]]
++ 
 
 ## Ejercicios: 
 + [[1726763938 - Exercises - Programación Lineal|Ejercicios programación lineal]]
