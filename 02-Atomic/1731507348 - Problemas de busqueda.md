@@ -1,11 +1,11 @@
 ---
 aliases:
-  - Problemas de búsqueda
+  - Problemas de busqueda
 tags:
   - Heuri
   - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-02-04
 sr-interval: 57
 sr-ease: 248

@@ -258,22 +258,17 @@
         "type": "split",
         "children": [
           {
-            "id": "e7b68473099de705",
+            "id": "8d26b3fb94266351",
             "type": "tabs",
             "children": [
               {
-                "id": "1d408abc3d02d974",
+                "id": "6b68997b1155d3b5",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1727096148 - Cifrador de flujo.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "1727096148 - Cifrador de flujo"
+                  "title": "New tab"
                 }
               }
             ],
@@ -296,7 +291,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02-Atomic/1727096148 - Cifrador de flujo.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -372,7 +366,7 @@
                       "nodeSizeMultiplier": 2.79537653688525,
                       "lineSizeMultiplier": 1,
                       "collapse-forces": false,
-                      "centerStrength": 0.18373352165725,
+                      "centerStrength": 0.116525423728814,
                       "repelStrength": 20,
                       "linkStrength": 0.47411233053583,
                       "linkDistance": 52,
@@ -381,7 +375,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 1727096148 - Cifrador de flujo"
+                  "title": "Graph view"
                 }
               },
               {
@@ -422,11 +416,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "02-Atomic/1727096148 - Cifrador de flujo.md"
-                  },
+                  "state": {},
                   "icon": "lucide-list",
-                  "title": "Outline of 1727096148 - Cifrador de flujo"
+                  "title": "Outline"
                 }
               },
               {
@@ -462,11 +454,66 @@
                 "state": {
                   "type": "review-queue-list-view",
                   "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "3d0b5770bc7ae49c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "50da2e9edaf813f1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "1e86e2eb9de280dd",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "e00bef1a5eb801ed",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
                   "icon": "SpacedRepIcon",
                   "title": "Notes Review Queue"
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           },
           {
             "id": "d8523f2fbc4e9acf",
@@ -487,7 +534,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 282.5
+        "width": 282.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -504,8 +552,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "1d408abc3d02d974",
-      "mtime": "2024-12-10T10:32:38+01:00"
+      "active": "36d1a43796975b90",
+      "mtime": "2024-12-11T11:18:04+01:00"
     },
     "Config": {
       "main": {
@@ -3241,5 +3289,5 @@
       "mtime": "2024-12-07T15:20:16+01:00"
     }
   },
-  "active": "Recall"
+  "active": "Heuri"
 }

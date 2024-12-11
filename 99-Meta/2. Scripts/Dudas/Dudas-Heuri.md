@@ -44,7 +44,7 @@
 
 > [!duda] Duda 7
 > : El espacio de estados es simplemente el modelo? Luego la resolución la realizamos con un algoritmos de búsqueda (de los que hay en tipos de algoritmos?)
-> Encontrada en: [[1731507348 - Problemas de búsqueda]]
+> Encontrada en: [[1731507348 - Problemas de busqueda]]
 
 > [!check] Solución 7
 > Es una técnica de modelado, únicamente eso. 
