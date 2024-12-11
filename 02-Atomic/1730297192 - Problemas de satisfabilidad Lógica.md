@@ -6,7 +6,13 @@
 
 > [!example] Nomenglaturas: 
 >  - **CNF** : Forma Normal Conjuntiva
->  - $\neg$ :  Negación lógica 
+>  - $\neg$ :  Negación lógica, equivalente a $\hat{x}$.
+>  - $\perp$:  FALSE: Valor negativo **asignado a una variable**, cuando una variable toma este valor significa que toma un valor negativo
+>  - **T** :TRUE:  Valor positivo asignado a una variable 
+>  - **Conjunción lógica:** AND 
+>  - **Disjunción lógica:** OR
+>  - **Literal puro:** Un literal es puro en una fórmula si y solo si su negación lógica no aparece en la fórmula. 
+>    > por ejemplo: $(x\lor y) \land (\hat y \lor x)$ → x es puro pues $\hat x$ no aparece en la fórmula
 ##  Modelo:
 Un problema de satisfabilidad se define por una **fórmula lógica proposicional**: 
 $$
@@ -14,21 +20,25 @@ F = p \lor q \land r \rightarrow w
 $$
 Como trabajar con fórmulas de cualquier tipo es dificil y requeriría diferentes approaches **siempre utilizaremos la FORMA NORMAL CONJUNTIVA (CNF)** de la fórmula. 
 
-	$\hat{x}$
++ En lógica proposicional se tiende a usar $p \rightarrow q = p \lor q$, **disyunción de literales**.
 ### Forma Normal Conjuntiva (CNF):
 En la forma normal conjuntiva todas las cláusulas han de contener únicamente operadores de tipo OR y han de estar unidas por operadores de tipo AND:
 $$F=\Lambda_{i=1}^n C_i=\Lambda_{i=1}^n\left(V_{j=1}^n l_j\right)$$
-> por ejemplo: $(\neg x)$
+> por ejemplo: $(\hat x \lor y)\land (y \lor z)$
++ LLamamos cláusulas a los conjuntos de disjunciones unidos por las conjunciones
 
 > [!Attention] EXAM & PROBLEMS: 
 > De cara al examen y problemas de examen siempre obtendremos **directamente esta forma**, no buscaremos obtener una fórmula de ningun otro tipo. 
 
+### Creación del modelo:
 
-Las *proposiciones* que usaban los antiguos filósofos griegos se llaman ahora *variables*, tal que $x_1 = \text{True} = 1$ es una variable. Las variables pueden ser de negación tal que $\overline{x_1} = \text{False} = 0$.
+> [!NOTE] Modelo: 
+> Un modelo de satisfabilidad lógica es la **definición de variables de una fórmula para que dicha fórmula se cumpla.** 
++ 
 
-En lógica proposicional se tiende a usar $p \rightarrow q = p \lor q$, **disyunción de literales**.
+### Literal puro: 
 
-Una fórmula normal está en **forma normal conjuntiva** si: $\land_{i=1}^N \lor_{j=1}^N l_{ij}$
+
 
 Se denomina **modelo** $M$ a la definición de variables de una fórmula para que dicha fórmula se cumpla. Por ejemplo:
 $$M = x_1 = \perp, x_2 = T, ..., x_n = \perp/T$$
