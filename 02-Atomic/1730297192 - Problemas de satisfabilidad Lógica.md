@@ -1,14 +1,19 @@
 ---
 aliases:
   - Satisfacibilidad Lógica
+  - Problemas de satisfabilidad logica
 tags:
   - Heuri
   - Logic
-  - incomplete
 References: 
 cssclasses:
 ---
 # Satisfacibilidad Lógica
+
+> [!NOTE] Intro: 
+> Existe una gran cantidad de problemas que podemos modelar directamente como problemas de [[20240523 - 122919 - Propositional logic|Propositional logic]] 
+
+
 
 Las *proposiciones* que usaban los antiguos filósofos griegos se llaman ahora *variables*, tal que $x_1 = \text{True} = 1$ es una variable. Las variables pueden ser de negación tal que $\overline{x_1} = \text{False} = 0$.
 
