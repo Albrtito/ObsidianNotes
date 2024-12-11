@@ -1,18 +1,27 @@
----
-aliases:
-  - Satisfacibilidad Lógica
-  - Problemas de satisfabilidad logica
-tags:
-  - Heuri
-  - Logic
-References: 
-cssclasses:
----
-# Satisfacibilidad Lógica
+# Problemas de satisfabilidad Lógica
 
 > [!NOTE] Intro: 
-> Existe una gran cantidad de problemas que podemos modelar directamente como problemas de [[20240523 - 122919 - Propositional logic|Propositional logic]] 
+> Existe una gran cantidad de problemas que podemos modelar directamente como problemas de [[20240523 - 122919 - Propositional logic|Propositional logic]], este tipo de problemas son aquellos con **condiciones lógicas** → “Si pasa x entonces y | Si pasa x también pasa y”
+> En esta nota tocaremos formas de modelar y resovler este tipo de problemas. 
 
+> [!example] Nomenglaturas: 
+>  - **CNF** : Forma Normal Conjuntiva
+>  - $\neg$ :  Negación lógica 
+##  Modelo:
+Un problema de satisfabilidad se define por una **fórmula lógica proposicional**: 
+$$
+F = p \lor q \land r \rightarrow w
+$$
+Como trabajar con fórmulas de cualquier tipo es dificil y requeriría diferentes approaches **siempre utilizaremos la FORMA NORMAL CONJUNTIVA (CNF)** de la fórmula. 
+
+	$\hat{x}$
+### Forma Normal Conjuntiva (CNF):
+En la forma normal conjuntiva todas las cláusulas han de contener únicamente operadores de tipo OR y han de estar unidas por operadores de tipo AND:
+$$F=\Lambda_{i=1}^n C_i=\Lambda_{i=1}^n\left(V_{j=1}^n l_j\right)$$
+> por ejemplo: $(\neg x)$
+
+> [!Attention] EXAM & PROBLEMS: 
+> De cara al examen y problemas de examen siempre obtendremos **directamente esta forma**, no buscaremos obtener una fórmula de ningun otro tipo. 
 
 
 Las *proposiciones* que usaban los antiguos filósofos griegos se llaman ahora *variables*, tal que $x_1 = \text{True} = 1$ es una variable. Las variables pueden ser de negación tal que $\overline{x_1} = \text{False} = 0$.
