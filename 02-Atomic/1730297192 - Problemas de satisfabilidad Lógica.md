@@ -38,8 +38,9 @@ $$
 Como trabajar con fórmulas de cualquier tipo es dificil y requeriría diferentes approaches **siempre utilizaremos la FORMA NORMAL CONJUNTIVA (CNF)** de la fórmula. 
 
 + Una fórmula proposicional puede ser **o verdadera (T) o falsa $\perp$**
-+ En lógica proposicional se tiende a usar $p \rightarrow q = p \lor q$, **disyunción de literales**.
++ En lógica proposicional se  usa $p \rightarrow q = \hat p \lor q$, **disyunción de literales**.
 + **NOTA:** Si se tiene una fórmula verdadera y se quiere añadir un nuevo literal este literal debera tomar 1 o 0 para que la fórmula sea satisfacible y el contrario para que deje de serlo. 
++ **NOTA:** Al crear la formuila siempre preferimos tener **el menor número de variables posibles** para luego poder resolverlo más facilmente con alguno de los algoritmos propuestos a continuación.
 ### Forma Normal Conjuntiva (CNF):
 En la forma normal conjuntiva todas las cláusulas han de contener únicamente operadores de tipo OR y han de estar unidas por operadores de tipo AND:
 $$F=\Lambda_{i=1}^n C_i=\Lambda_{i=1}^n\left(V_{j=1}^n l_j\right)$$
