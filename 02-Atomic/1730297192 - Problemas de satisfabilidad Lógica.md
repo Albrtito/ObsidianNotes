@@ -31,7 +31,9 @@ F = p \lor q \land r \rightarrow w
 $$
 Como trabajar con fórmulas de cualquier tipo es dificil y requeriría diferentes approaches **siempre utilizaremos la FORMA NORMAL CONJUNTIVA (CNF)** de la fórmula. 
 
++ Una fórmula proposicional puede ser **o verdadera (T) o falsa $\perp$**
 + En lógica proposicional se tiende a usar $p \rightarrow q = p \lor q$, **disyunción de literales**.
++ **NOTA:** Si se tiene una fórmula verdadera y se quiere añadir un nuevo literal este literal debera tomar 1 o 0 para que la fórmula sea satisfacible y el contrario para que deje de serlo. 
 ### Forma Normal Conjuntiva (CNF):
 En la forma normal conjuntiva todas las cláusulas han de contener únicamente operadores de tipo OR y han de estar unidas por operadores de tipo AND:
 $$F=\Lambda_{i=1}^n C_i=\Lambda_{i=1}^n\left(V_{j=1}^n l_j\right)$$
@@ -61,10 +63,9 @@ $$(\overline{x_1} \lor x_2) \land (x_1 \lor \overline{x_3}) \space ...$$
 
 Para obtener el modelo podemos aplicar los siguientes métodos: 
 + Para problemas del primer tipo:  [[1733916831 - Metodo de resolución SAT|Resolucion SAT]]
-+ Para problemas del segundo tipo usaremos: [[Davis]]
-+ 
++ Para problemas del segundo tipo usaremos: [[1733917531 - Algorithm - Davis-Putnam|Algorithm - Davis-Putnam]] o 
 
-Para resolver problemas del tipo *exponencialmente difíciles* usaremos el [[1730301854 - Algoritmo de Davis-Putnam|Algoritmo de Davis-Putnam]]
+
 
 Una modificación de este algoritmo mucho más efectiva es la del [[1730301910 - Algoritmo de Davis-Putnam-Logemann-Loveland|Algoritmo de Davis-Putnam-Logemann-Loveland]].
 Estos algoritmos tienen una complejidad $O(2^n)$, ya que la propia naturaleza de un problema booleano es de complejidad exponencial.

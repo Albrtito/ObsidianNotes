@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1733917531 - Algorithm - Davis-Putnam.md",
+                "file": "02-Atomic/1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1733917531 - Algorithm - Davis-Putnam"
+              "title": "1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -57,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730297192 - Problemas de satisfabilidad Lógica.md",
+                "file": "02-Atomic/1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +157,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730297192 - Problemas de satisfabilidad Lógica"
+              "title": "Graph of 1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland"
             }
           },
           {
@@ -198,10 +199,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730297192 - Problemas de satisfabilidad Lógica.md"
+                "file": "02-Atomic/1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730297192 - Problemas de satisfabilidad Lógica"
+              "title": "Outline of 1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland"
             }
           },
           {
@@ -286,10 +287,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e46d42893c588fee",
+  "active": "2e7e47e8e964f983",
   "lastOpenFiles": [
     "02-Atomic/1733917531 - Algorithm - Davis-Putnam.md",
+    "02-Atomic/1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland.md",
     "02-Atomic/1730297192 - Problemas de satisfabilidad Lógica.md",
+    "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj-1.png",
+    "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj.png",
+    "02-Atomic/1733322593 - Algorithm - Beam Search.md",
+    "02-Atomic/1730301854 - Algoritmo de Davis-Putnam.md",
     "02-Atomic/1733916831 - Metodo de resolución SAT.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1730303159 - Satisfacción de restricciones.md",
@@ -312,9 +318,6 @@
     "01-Areas/1.UC3M/Networks.md",
     "02-Atomic/1732021285 - Protocol - ALOHA.md",
     "02-Atomic/1726498880 - Definition - Cifrador.md",
-    "02-Atomic/1726498694 - Definition - Criptografía.md",
-    "02-Atomic/1731419106 - Match-Plus-Action methods in forwarding.md",
-    "02-Atomic/1727709003 - Estrategias competitivas de la empresa.md",
     "99-Meta/0. Attachments/1732633633 - MarketingMix - Productoj.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-1.png",
@@ -332,8 +335,6 @@
     "99-Meta/0. Attachments/1731436877 - El plan de marketingj.png",
     "99-Meta/0. Attachments/1726572508 - The network stackj.png",
     "99-Meta/0. Attachments/1730651695 - The Internet Protocol (IP)j.png",
-    "99-Meta/0. Attachments/1731411683 - Procotol - IPv6j.png",
-    "99-Meta/0. Attachments/1730827988 - Subnetsj.png",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",

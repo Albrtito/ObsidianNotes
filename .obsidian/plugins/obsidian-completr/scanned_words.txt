@@ -2017,6 +2017,7 @@ ayudas
 annually
 aspect
 asignado
+anotando
 Creaci
 Crear
 Cuando
@@ -3844,6 +3845,7 @@ CNF
 Conjuntiva
 Conjunci
 CONJUNTIVA
+Complejdiad
 de
 due
 dar
@@ -5824,6 +5826,8 @@ deepening
 ditos
 devolverla
 disjunciones
+debera
+deje
 modelos
 modelo
 maximizar
@@ -9714,6 +9718,7 @@ expandimos
 estrella
 europa
 ecol
+entiempo
 programaci
 primer
 paso
@@ -18798,6 +18803,7 @@ RTYTN
 Renta
 RRSS
 Resuleta
+Res
 cssclasses
 correcto
 correcta
@@ -31401,6 +31407,7 @@ visitamos
 visited
 valocidad
 verdadera
+viendo
 no
 nuestras
 ndar
@@ -38023,6 +38030,7 @@ facetas
 faceta
 filtrar
 followed
+falsa
 objetivo
 obtener
 of
@@ -42906,6 +42914,7 @@ Anuncios
 Acuerdos
 Admisible
 Ayudas
+ANDS
 Floyd
 Foundations
 Funci
@@ -63821,6 +63830,7 @@ Usar
 Undirected
 UXV
 Utilizaci
+UNSAT
 QUE
 Que
 QE
