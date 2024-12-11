@@ -30,7 +30,7 @@ Una vez obtenidas las variables, función y restricciones podemos aplicar la res
 
 
 > [!BUG] Problema: 
-> Este método solo es util para casos que podamos representar en 2 o 3 dimensiones. El método estandarizado para n variables es el [[1727270270 - Method - SIMPLEX|Method - SIMPLEX]] 
+> Este método solo es util para casos que podamos representar en 2 o 3 dimensiones. El método estandarizado para n variables es el [[1727270270 - Method - Algorithm - SIMPLEX|Method - SIMPLEX]] 
 
 ## Tips: 
 + Siempre que se vea un **max, min**, apuntarlo para que no se pase ninguno. Va a ser siempre o la función beneficio o alguna de las restricciones 

@@ -2,6 +2,7 @@
 aliases:
   - Method - SIMPLEX
   - SIMPLEX
+  - Algorithm - SIMPLEX
 tags:
   - Heuri
   - review

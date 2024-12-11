@@ -7,7 +7,7 @@ References:
 cssclasses:
 ---
 # Ejemplos SIMPLEX
-Ejemplos del algoritmo  bien resueltos (con seguidad  de que no hay errres). Se imlementa el algorimo [[1727270270 - Method - SIMPLEX|SIMPLEX]]
+Ejemplos del algoritmo  bien resueltos (con seguidad  de que no hay errres). Se imlementa el algorimo [[1727270270 - Method - Algorithm - SIMPLEX|SIMPLEX]]
 ## Ejemplo clase magistral:
 
 $$

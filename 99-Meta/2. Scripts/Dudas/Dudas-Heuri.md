@@ -2,7 +2,7 @@
 
 > [!duda] Duda 1
 > : Pq importa el orden de las variables $x_i$ → Esto es lo que significa coger la variables i’ verdad?
-> Encontrada en: [[1727270270 - Method - SIMPLEX]]
+> Encontrada en: [[1727270270 - Method - Algorithm - SIMPLEX]]
 
 > [!check] Solución 1
 > 
