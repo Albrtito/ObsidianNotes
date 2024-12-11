@@ -51,18 +51,19 @@ $$F=\Lambda_{i=1}^n C_i=\Lambda_{i=1}^n\left(V_{j=1}^n l_j\right)$$
 > Decimos entonces que: 
 > **Una fórmula es satisfacible si y solo si existe un modelo para el cual la formula es verdadera**
 
-Para obtener el modelo podemos aplicar los siguientes métodos: 
+Según la complejidad de la fórmula obtener el modelo será mas o menos dificil: 
 
-
-$$Res(F, l) = \begin{cases}  F &  l \notin F \\ F \backslash l & l \in F \space \text{y l es puro} \\ (C_1 \lor C_2) & l \in F, \text{l no es puro}\end{cases}$$
-$$\text{F = Formula y l = Literal}$$
-
-Si $F = (x_1 \lor \overline{x_2} \land (\overline{x_1} \lor \overline{x_2} \lor x_3))$, entonces $Res(F, \overline{x_2}) = \emptyset$.     
-
-**1-SAT**: problema que se resuelve en tiempo lineal $O(n)$. Este problema tiene la forma de:
++ **1-SAT**: problema que se resuelve en tiempo lineal $O(n)$. Este problema tiene la forma de:
 $$x_1 \land \overline{x_2} \land \overline{x_1} \space ... \space \land x_n$$
-**2-SAT**: problema que se resuelve en tiempo cuadrático $O(n²)$
+	+  No contiene ANDS
++ **2-SAT**: problema que se resuelve en tiempo cuadrático $O(n²)$
 $$(\overline{x_1} \lor x_2) \land (x_1 \lor \overline{x_3}) \space ...$$
+
+Para obtener el modelo podemos aplicar los siguientes métodos: 
++ Para problemas del primer tipo:  [[1733916831 - Metodo de resolución SAT|Resolucion SAT]]
++ Para problemas del segundo tipo usaremos: [[Davis]]
++ 
+
 Para resolver problemas del tipo *exponencialmente difíciles* usaremos el [[1730301854 - Algoritmo de Davis-Putnam|Algoritmo de Davis-Putnam]]
 
 Una modificación de este algoritmo mucho más efectiva es la del [[1730301910 - Algoritmo de Davis-Putnam-Logemann-Loveland|Algoritmo de Davis-Putnam-Logemann-Loveland]].
