@@ -9,7 +9,11 @@ tags:
 References: 
 cssclasses:
 ---
-# Satisfacción de restricciones
+# Problemas de satisfacción de restricciones
+
+> [!NOTE] Intro: 
+> En esta nota veremos como se modelan y se resuelven los problemas de satisfacción de restricciones.  
+
 
 Una **red de restricciones** (una tarea de satisfacibilidad de restricciones) es $X_iD_iC$ donde:
 - $X = \{x_i\}_{i=1}^n$ son sus variables

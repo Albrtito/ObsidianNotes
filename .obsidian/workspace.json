@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "1730303159 - Problemas de satisfacción de restricciones"
             }
+          },
+          {
+            "id": "1534c7b893b7c93b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/Heuri_Resources_Problemas.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Heuri_Resources_Problemas"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md",
+                "file": "00-References/Heuri_Resources_Problemas.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -140,7 +153,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730303159 - Problemas de satisfacción de restricciones"
+              "title": "Graph of Heuri_Resources_Problemas"
             }
           },
           {
@@ -182,10 +195,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md"
+                "file": "00-References/Heuri_Resources_Problemas.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730303159 - Problemas de satisfacción de restricciones"
+              "title": "Outline of Heuri_Resources_Problemas"
             }
           },
           {
@@ -270,10 +283,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ee704942903eaf4d",
+  "active": "1534c7b893b7c93b",
   "lastOpenFiles": [
-    "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md",
     "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md",
+    "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md",
     "1730903400 - Problema de las n reinas.md",
     "02-Atomic/1730297192 - Problemas de satisfabilidad Lógica.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
