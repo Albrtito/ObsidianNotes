@@ -2016,6 +2016,7 @@ ascendentemente
 ayudas
 annually
 aspect
+asignado
 Creaci
 Crear
 Cuando
@@ -3839,6 +3840,10 @@ Computacionalmente
 Climbing
 Completo
 CLOSED
+CNF
+Conjuntiva
+Conjunci
+CONJUNTIVA
 de
 due
 dar
@@ -5818,6 +5823,7 @@ detengmos
 deepening
 ditos
 devolverla
+disjunciones
 modelos
 modelo
 maximizar
@@ -15268,6 +15274,7 @@ tanta
 titulaci
 transportes
 track
+tocaremos
 review
 resolver
 realizar
@@ -17147,6 +17154,8 @@ recibir
 recibe
 routines
 reading
+rmulas
+requerir
 References
 Resoluci
 Rectas
@@ -21028,6 +21037,9 @@ criterio
 consumo
 certiciado
 choices
+contener
+conjunciones
+cara
 sr
 se
 subproblemas
@@ -23033,6 +23045,7 @@ solicitar
 semester
 specify
 sete
+satisfacible
 interval
 importancia
 incorrecto
@@ -24942,6 +24955,7 @@ intensiva
 imacto
 incluido
 icamente
+independientemente
 un
 una
 utiliza
@@ -26502,6 +26516,7 @@ urbano
 utilidad
 usulas
 usula
+unidas
 hora
 hacemos
 hacia
@@ -29774,6 +29789,7 @@ Exclusiva
 Escasa
 Elegir
 Elegimos
+EXAM
 vital
 variables
 vez
@@ -31384,6 +31400,7 @@ vendr
 visitamos
 visited
 valocidad
+verdadera
 no
 nuestras
 ndar
@@ -32965,6 +32982,7 @@ nEp
 neas
 nom
 neamente
+ningun
 Identificar
 Intro
 Identificaci
@@ -36291,6 +36309,7 @@ Declive
 Dividida
 Disminuye
 Davis
+Disjunci
 funci
 fibonacci
 fica
@@ -39582,6 +39601,7 @@ ofrecidos
 optimista
 observaciones
 operative
+obtenci
 que
 queremos
 qD
@@ -60590,6 +60610,7 @@ Lbt
 Lealtad
 Logos
 Logo
+Literal
 bottom
 base
 brik
@@ -62276,6 +62297,7 @@ bitos
 buscados
 backtracking
 beam
+buscaremos
 Util
 Una
 UniZumo
@@ -74608,6 +74630,9 @@ NtWF
 NKp
 NCF
 Nuevo
+Nomenglaturas
+Negaci
+NORMAL
 Xr
 XObject
 Xw

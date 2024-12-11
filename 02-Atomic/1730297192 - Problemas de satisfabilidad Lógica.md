@@ -1,10 +1,17 @@
+---
+aliases:
+  - Problemas de satisfabilidad logica
+  - Problemas SAT
+tags:
+---
 # Problemas de satisfabilidad Lógica
 
 > [!NOTE] Intro: 
 > Existe una gran cantidad de problemas que podemos modelar directamente como problemas de [[20240523 - 122919 - Propositional logic|Propositional logic]], este tipo de problemas son aquellos con **condiciones lógicas** → “Si pasa x entonces y | Si pasa x también pasa y”
-> En esta nota tocaremos formas de modelar y resovler este tipo de problemas. 
+> En esta nota tocaremos la creación de las fórmulas y obtención de modelos para este tipo de problemas. 
 
 > [!example] Nomenglaturas: 
+> - **Expresiones atómicas:** Variables binarias que toman valores 1/0. Las llamaremos también variables
 >  - **CNF** : Forma Normal Conjuntiva
 >  - $\neg$ :  Negación lógica, equivalente a $\hat{x}$.
 >  - $\perp$:  FALSE: Valor negativo **asignado a una variable**, cuando una variable toma este valor significa que toma un valor negativo
@@ -13,7 +20,11 @@
 >  - **Disjunción lógica:** OR
 >  - **Literal puro:** Un literal es puro en una fórmula si y solo si su negación lógica no aparece en la fórmula. 
 >    > por ejemplo: $(x\lor y) \land (\hat y \lor x)$ → x es puro pues $\hat x$ no aparece en la fórmula
-##  Modelo:
+>   - **Tautología**: fórmula proposicional que siempre  es cierta independientemente del valor que tomen las variables.
+>    > por ejemplo:  $F = x_1 \lor \overline{x_1}$
+>    - **Contradicción**: algo que no puede ser cierto lógicamente (1 y 0) 
+>    > por ejemplo:  $F = x_1 \land \overline{x_1}$.  
+##  Fórmula:
 Un problema de satisfabilidad se define por una **fórmula lógica proposicional**: 
 $$
 F = p \lor q \land r \rightarrow w
@@ -30,25 +41,17 @@ $$F=\Lambda_{i=1}^n C_i=\Lambda_{i=1}^n\left(V_{j=1}^n l_j\right)$$
 > [!Attention] EXAM & PROBLEMS: 
 > De cara al examen y problemas de examen siempre obtendremos **directamente esta forma**, no buscaremos obtener una fórmula de ningun otro tipo. 
 
-### Creación del modelo:
-
+## Modelo:
 > [!NOTE] Modelo: 
 > Un modelo de satisfabilidad lógica es la **definición de variables de una fórmula para que dicha fórmula se cumpla.** 
-+ 
+> $$
+> M = \{x_i = T|\perp\}: \forall i \in X
+> $$
+> 
+> Decimos entonces que: 
+> **Una fórmula es satisfacible si y solo si existe un modelo para el cual la formula es verdadera**
 
-### Literal puro: 
-
-
-
-Se denomina **modelo** $M$ a la definición de variables de una fórmula para que dicha fórmula se cumpla. Por ejemplo:
-$$M = x_1 = \perp, x_2 = T, ..., x_n = \perp/T$$
-$$donde \perp = False \space \text{y T = True}$$
->[!NOTE]
->Un literal es puro si su negación no pertenece a la fórmula (si tenemos $x_1$, no podemos tener $\overline{x_1} \space \text{en el resto de la fórmula}$)
-
-**Tautología**: fórmula proposicional siempre cierta en cualquier asignación de sus expresiones atómicas tal que: $F = x_1 \lor \overline{x_1}$
-
-**Contradicción**: algo que no puede ser cierto, que no tiene sentido tal que: $F = x_1 \land \overline{x_1}$. Entonces $Res(F, x_1) = \emptyset \lor \emptyset = \{\emptyset\}$    
+Para obtener el modelo podemos aplicar los siguientes métodos: 
 
 
 $$Res(F, l) = \begin{cases}  F &  l \notin F \\ F \backslash l & l \in F \space \text{y l es puro} \\ (C_1 \lor C_2) & l \in F, \text{l no es puro}\end{cases}$$
