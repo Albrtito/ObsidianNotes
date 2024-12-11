@@ -37,7 +37,7 @@ Un problema clásico y una forma de resolverlo es el [[1730903400 - Problema de 
 >[!DANGER]
 >No es lo mismo verificar la arco-consistencia de $(x_i, x_j)$ que de $(x_j, x_i)$ (en el primer caso eliminamos dominios de $x_i$, mientras que en el segundo lo hacemos respecto a $x_j$). La Arco-Consistencia es **direccional**.
 
-**Camino-Consistencia**: útil para problemas con tres variables, somos capaces de resolver la insatisfacibilidad antes de computar todo el problema. $x_i$ y $x_j$ s(on camino-consistentes respecto de $x_k$ (variable de referencia) sí y solamente sí:
+**Camino-Consistencia**: útil para problemas con tres variables, somos capaces de resolver la insatisfacibilidad antes de computar todo el problema. $x_i$ y $x_j$ son camino-consistentes respecto de $x_k$ (variable de referencia) sí y solamente sí:
 $$\forall (a_i, a_j) \in R_{ij}; \space \exists \space d_k \in D_k; \space (a_i, a_k) \in D_{i, k}; \space (a_j, a_k) \in R_{jk}$$
 El Camino-Consistencia **no es direccional**.
  
