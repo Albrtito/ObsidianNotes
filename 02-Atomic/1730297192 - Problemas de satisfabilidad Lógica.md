@@ -2,6 +2,7 @@
 aliases:
   - Problemas de satisfabilidad logica
   - Problemas SAT
+  - SAT
 tags:
   - review
   - Heuri

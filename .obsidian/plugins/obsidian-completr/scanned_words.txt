@@ -23052,6 +23052,7 @@ semester
 specify
 sete
 satisfacible
+satisfaccion
 interval
 importancia
 incorrecto

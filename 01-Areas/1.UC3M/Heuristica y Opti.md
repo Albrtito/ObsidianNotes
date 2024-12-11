@@ -44,7 +44,7 @@ aliases:
 + [[1726825216 - Programación Dinámica|Programación Dinámica]]
 + [[1726759457 - Programación Lineal|Programación Lineal]]
 + [[1730297192 - Problemas de satisfabilidad Lógica|Satisfacibilidad Lógica]]
-+  [[1730303159 - Satisfacción de restricciones|Satisfacción de restricciones]]
++  [[1730303159 - Problemas de satisfacción de restricciones|Satisfacción de restricciones]]
 + [[1731507348 - Problemas de busqueda|Problemas de búsqueda]]
 
 ## Ejercicios: 

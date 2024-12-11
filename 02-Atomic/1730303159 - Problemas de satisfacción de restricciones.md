@@ -1,9 +1,10 @@
 ---
 aliases:
-  - Satisfacción de restricciones
+  - Problemas de satisfaccion de restricciones
+  - CSP
+  - Problemas CSP
 tags:
   - Heuri
-  - Logic
   - incomplete
 References: 
 cssclasses:

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1730303159 - Satisfacción de restricciones.md",
+                "file": "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1730303159 - Satisfacción de restricciones"
+              "title": "1730303159 - Problemas de satisfacción de restricciones"
             }
           }
         ]
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1730303159 - Satisfacción de restricciones.md",
+                "file": "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -140,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1730303159 - Satisfacción de restricciones"
+              "title": "Graph of 1730303159 - Problemas de satisfacción de restricciones"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730303159 - Satisfacción de restricciones.md"
+                "file": "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730303159 - Satisfacción de restricciones"
+              "title": "Outline of 1730303159 - Problemas de satisfacción de restricciones"
             }
           },
           {
@@ -272,9 +272,9 @@
   },
   "active": "ee704942903eaf4d",
   "lastOpenFiles": [
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
-    "02-Atomic/1730303159 - Satisfacción de restricciones.md",
     "02-Atomic/1730297192 - Problemas de satisfabilidad Lógica.md",
+    "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md",
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland.md",
     "99-Meta/0. Attachments/1733918229 - Algorithm - Davis-Putnam-Logemann-Lovelandj.png",
     "02-Atomic/1730301910 - Algoritmo de Davis-Putnam-Logemann-Loveland.md",
