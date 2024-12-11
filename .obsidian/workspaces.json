@@ -1071,25 +1071,68 @@
         "type": "split",
         "children": [
           {
-            "id": "a181a8d9a688f463",
+            "id": "6bc9cceeeaecbe3f",
             "type": "tabs",
             "children": [
               {
-                "id": "627546c0f3528120",
+                "id": "c773b82d7c627536",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "00-References/Net_Biblio_Kurose.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Net_Biblio_Kurose"
+                }
+              },
+              {
+                "id": "b0b1ba4ee2a29591",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/1732021285 - Protocol - ALOHA.md",
+                    "file": "02-Atomic/1727255580 - Loss and delay in Networks.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "1732021285 - Protocol - ALOHA"
+                  "title": "1727255580 - Loss and delay in Networks"
+                }
+              },
+              {
+                "id": "21b5832510ac3ae2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1732035034 - Protocol - Slotted ALOHA"
+                }
+              },
+              {
+                "id": "19ef658acea653be",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1732035034 - Protocol - Slotted ALOHA"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -1305,7 +1348,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 462
+        "width": 462,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -1322,8 +1366,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "627546c0f3528120",
-      "mtime": "2024-12-08T14:03:34+01:00"
+      "active": "b0b1ba4ee2a29591",
+      "mtime": "2024-12-11T10:07:27+01:00"
     },
     "Empresa": {
       "main": {
@@ -3197,5 +3241,5 @@
       "mtime": "2024-12-07T15:20:16+01:00"
     }
   },
-  "active": "Net"
+  "active": "Recall"
 }

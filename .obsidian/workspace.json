@@ -4,68 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "6bc9cceeeaecbe3f",
+        "id": "e7b68473099de705",
         "type": "tabs",
         "children": [
           {
-            "id": "c773b82d7c627536",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00-References/Net_Biblio_Kurose.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Net_Biblio_Kurose"
-            }
-          },
-          {
-            "id": "b0b1ba4ee2a29591",
+            "id": "1d408abc3d02d974",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1727255580 - Loss and delay in Networks.md",
+                "file": "02-Atomic/1727096148 - Cifrador de flujo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1727255580 - Loss and delay in Networks"
-            }
-          },
-          {
-            "id": "21b5832510ac3ae2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732035034 - Protocol - Slotted ALOHA"
-            }
-          },
-          {
-            "id": "19ef658acea653be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1732035034 - Protocol - Slotted ALOHA"
+              "title": "1727096148 - Cifrador de flujo"
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -84,9 +42,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732018095 - The network link layer.md",
+                "file": "02-Atomic/1727096148 - Cifrador de flujo.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -159,21 +117,21 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 2.79537653688525,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.0242737249838606,
-                  "repelStrength": 15.3311814073596,
+                  "collapse-forces": false,
+                  "centerStrength": 0.18373352165725,
+                  "repelStrength": 20,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.08922934559046299,
+                  "scale": 0.039029437649587606,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732018095 - The network link layer"
+              "title": "Graph of 1727096148 - Cifrador de flujo"
             }
           },
           {
-            "id": "b6e33d160bc51eb6",
+            "id": "fc17a30e900d6f8a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -190,7 +148,7 @@
             }
           },
           {
-            "id": "26c82695bfd12dda",
+            "id": "5277caa8de0cf553",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -211,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732018095 - The network link layer.md"
+                "file": "02-Atomic/1727096148 - Cifrador de flujo.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732018095 - The network link layer"
+              "title": "Outline of 1727096148 - Cifrador de flujo"
             }
           },
           {
@@ -233,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 334
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -246,18 +203,13 @@
         "dimension": 63.45609065155807,
         "children": [
           {
-            "id": "2dca472e18c0e06a",
+            "id": "25035ac93f5900cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Areas/1.UC3M/Networks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Networks"
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ]
@@ -281,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,8 +250,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b0b1ba4ee2a29591",
+  "active": "1d408abc3d02d974",
   "lastOpenFiles": [
+    "02-Atomic/1727255580 - Loss and delay in Networks.md",
     "02-Atomic/1732023041 - Protocol - Ethernet.md",
     "00-References/Net_Biblio_Kurose.pdf",
     "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
