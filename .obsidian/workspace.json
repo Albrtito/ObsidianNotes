@@ -63,9 +63,21 @@
               "icon": "lucide-file",
               "title": "1733926515 - Programacion dinamica"
             }
+          },
+          {
+            "id": "f758422b14869ed2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/Heuri_Resources_Problemas.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Heuri_Resources_Problemas"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -84,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1733926515 - Programacion dinamica.md",
+                "file": "00-References/Heuri_Resources_Problemas.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1733926515 - Programacion dinamica"
+              "title": "Graph of Heuri_Resources_Problemas"
             }
           },
           {
@@ -225,10 +237,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1733926515 - Programacion dinamica.md"
+                "file": "00-References/Heuri_Resources_Problemas.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1733926515 - Programacion dinamica"
+              "title": "Outline of Heuri_Resources_Problemas"
             }
           },
           {
@@ -313,7 +325,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "edc4693f831da253",
+  "active": "f758422b14869ed2",
   "lastOpenFiles": [
     "02-Atomic/1733926515 - Programacion dinamica.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
