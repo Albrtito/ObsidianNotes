@@ -48,5 +48,14 @@ Podemos ver como y cuando afecta cada uno de estos gastos en la siguiente gráfi
 
 + Para llegar a estos tres últimos escalones hemos de haber obtenido **ya el beneficio bruto(BAIT) después de restarle a los ingresos los gastos.**
 
-+ Si también restamos los dividentos obtendremos las **reservas o BENEFICIOS RETENIDOS**, eso ultimo será el objetivo al que se llega 
++ Si también restamos los dividentos obtendremos las **reservas o BENEFICIOS RETENIDOS**, eso ultimo será el objetivo al que se llega cuando realizamos la cuenta de resultados. 
+
+## Como realizar una cuenta de resultados: 
+![[1729598277 - Cuenta de resultadosj-1.png|center|500]]
+1. **Ingresos:** Sumar todos los ingresos de la empresa 
+2. **Gastos de explotación:** Suma de los gastos de la empresa, desglosados si se ve necesario 
+3. **BAIT: Beneficios antes de impuestos e intereses**: La resta directa de los ingresos menos los gastos 
+4. **BAT:** Beneficios antes de impuestos: El BAIT menos los intereses sobre el BAIT
+5. **BN:** Beneficio Neto: El beneficio de la empresa antes del cobro de divididentos. 
+6. **Beneficios retenidos del ejercicio:** El beneficio neto + los beneficios retenidos de otros ejercicios - los dividendos repartidos. 
 ***
