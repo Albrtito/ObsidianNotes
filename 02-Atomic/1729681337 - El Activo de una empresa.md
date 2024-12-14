@@ -15,23 +15,20 @@ sr-ease: 250
 
 > [!NOTE] Definición: 
 > Los **bienes y derechos** que tiene la empresa.
-> 
-
-Se divide en:
+> > Lo que tiene la empresa
 
 ## Activo no corriente (ANC):
 Cuentás que permanecen en la empresa **más de un año:**
 > Coches, inmoviliaria, patentes, marcas
-
 + Inmovilizado material
 + Inmovilizado inmaterial
 + Otro inmovilizado
+
 ## Activo corriente (AC):
 Cuentas que permanecen **menos de un año**
 > Existencias, clientes, cortos plazos
-
 + Existencias
-+ Clietnes
++ Clientes
 + Inversiones financieras c/p
 + Efectivo/tesorería/caja
 

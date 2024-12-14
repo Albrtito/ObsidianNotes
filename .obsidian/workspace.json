@@ -13,16 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1727105893 - La función financiera de la empresa.md",
+                "file": "02-Atomic/1729598149 - Balance de situacion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1727105893 - La función financiera de la empresa"
+              "title": "1729598149 - Balance de situacion"
+            }
+          },
+          {
+            "id": "612066601cf81e06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1729681337 - El Activo de una empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1729681337 - El Activo de una empresa"
+            }
+          },
+          {
+            "id": "7e29ccb3d089f606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1729681356 - El Pasivo de una empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1729681356 - El Pasivo de una empresa"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -41,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727105893 - La función financiera de la empresa.md",
+                "file": "02-Atomic/1729681356 - El Pasivo de una empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +157,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1727105893 - La función financiera de la empresa"
+              "title": "Graph of 1729681356 - El Pasivo de una empresa"
             }
           }
         ]
@@ -141,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1727105893 - La función financiera de la empresa.md"
+                "file": "02-Atomic/1729681356 - El Pasivo de una empresa.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1727105893 - La función financiera de la empresa"
+              "title": "Outline of 1729681356 - El Pasivo de una empresa"
             }
           },
           {
@@ -228,8 +259,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ce5cd5b122a5ced0",
+  "active": "7e29ccb3d089f606",
   "lastOpenFiles": [
+    "02-Atomic/1729681337 - El Activo de una empresa.md",
+    "02-Atomic/1729681356 - El Pasivo de una empresa.md",
+    "02-Atomic/1729598149 - Balance de situacion.md",
+    "02-Atomic/1727121162 - Contabilidad.md",
+    "02-Atomic/1727122369 - Estados contables.md",
+    "02-Atomic/1727105893 - La función financiera de la empresa.md",
     "01-Areas/1.UC3M/Empresa.md",
     "02-Atomic/1727105227 - Modelos de negocio de la empresa.md",
     "02-Atomic/1732622827 - Estrategias de segmentacion del mercado.md",
@@ -254,12 +291,6 @@
     "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj.png",
     "02-Atomic/1733322593 - Algorithm - Beam Search.md",
     "02-Atomic/1730301854 - Algoritmo de Davis-Putnam.md",
-    "02-Atomic/1733916831 - Metodo de resolución SAT.md",
-    "02-Atomic/1731507348 - Problemas de busqueda.md",
-    "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
-    "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
-    "02-Atomic/1726754186 - Criptosistemas modernos.md",
-    "02-Atomic/1732031831 - Link channel multiple access protocols.md",
     "00-References/Net_Biblio_Kurose.pdf",
     "99-Meta/0. Attachments/1732633633 - MarketingMix - Productoj.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png",
