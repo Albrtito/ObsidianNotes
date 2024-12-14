@@ -15,7 +15,6 @@ sr-ease: 250
 > [!NOTE] Definición: 
 > Bienes, derechos y obligaciones en **un momento determinado**. Se obtienen anualmente o en momentos puntuales 
 
-
 ### Ecuación fundamental de la contabilidad:
 Lo **mas importante** del balance de situación es que la **ecuación fundamental del patrimonio neto** se ha de cumplir. Esta ecuación es la siguiente:$$Activo = \text{Patrimonio Neto} + \text{Pasivo exigible}$$
   Con letritas: 
@@ -48,5 +47,6 @@ A la hora de colocar el pasivo en el balance se realiza de la siguiente forma:
 ### [[1729682380 - El patrimonio neto de una empresa|Patrimonio neto]]:
 Dentro del patrimonio neto hemos de tener en cuenta el **calculo de los beneficios retenidos**. Estos beneficios se obtendrán al realizar el cálculo de [[1729598277 - Cuenta de resultados#Los beneficios de la empresa|Los beneficios de la empresa]] en la cuenta de resultados. 
 
-
+### Ejemplo: 
+![[1729598149 - Balance de situacionj.png|center|500]]
 ***

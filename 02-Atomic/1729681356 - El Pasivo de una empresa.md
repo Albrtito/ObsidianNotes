@@ -15,12 +15,10 @@ sr-ease: 250
 
 > [!NOTE] Definición: 
 > Denominamos pasivo a los **métodos de financiación que ha usado la empresa**, lo que **aún debe** o esta **obligada a pagar**.
-> 
-
+> > Lo que debe
 ## Pasivo no corriente (PNC):
  Deudas a **largo plazo.** 
  + Deudas l/p
-
 ## Pasivo corriente (PC):
 Deudas a **corto plazo**
 + Deudas c/p

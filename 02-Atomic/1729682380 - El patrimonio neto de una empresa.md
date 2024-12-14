@@ -22,6 +22,6 @@ sr-ease: 230
 Se tendrá en cuenta como patrimonio neto:
 + ==capital==
 + Reservas 
-+ Resultado de ejercicios anteriores 
++ Resultado de ejercicios anteriores → Resultado de la [[1729598277 - Cuenta de resultados|Cuenta de resultados]] después de restar impuestos, intereses y dividendos.
 
 ***

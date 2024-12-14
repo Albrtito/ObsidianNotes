@@ -19,6 +19,7 @@ sr-ease: 250
 
 **Remarks:**
 + ==Se ha de realizar **antes que el balance de situación**==
++ El resultado de la cuenta de pérdidas y ganancias(Beneficios retenidos) se apunta como parte del balance de situación, como patrimonio neto. 
 ## Ingresos y Gastos:
 Lo primero que hemos de hacer es definir que es lo que veremos como ingreso y lo que veremos como gasto:
 
@@ -33,6 +34,8 @@ Lo primero que hemos de hacer es definir que es lo que veremos como ingreso y lo
 + Gastos de explotación
 + Gastos financieros
 + Costes de amortización
++ Salarios
++ Alquileres 
 
 ## Los beneficios de la empresa:
 Dentro de los gastos e ingresos de la empresa siempre existirán unos **gastos seguros** en forma de: 
@@ -45,5 +48,5 @@ Podemos ver como y cuando afecta cada uno de estos gastos en la siguiente gráfi
 
 + Para llegar a estos tres últimos escalones hemos de haber obtenido **ya el beneficio bruto(BAIT) después de restarle a los ingresos los gastos.**
 
-+ Si también restamos los dividentos obtendremos las **reservas o BENEFICIOS RETENIOS**
++ Si también restamos los dividentos obtendremos las **reservas o BENEFICIOS RETENIDOS**, eso ultimo será el objetivo al que se llega 
 ***
