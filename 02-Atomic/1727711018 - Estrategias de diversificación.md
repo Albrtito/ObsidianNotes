@@ -15,7 +15,7 @@ sr-ease: 130
 > [!NOTE] Definition:
 > Ofertar nuevos productos diferentes y **entrar con ellos en mercados diferentes**. 
 > 
-
+  
 **Motivos:**
 + ==Crecer==
 + ==Reducir/Diversificar riesgo==
