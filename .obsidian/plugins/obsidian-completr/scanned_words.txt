@@ -7697,6 +7697,7 @@ mapping
 motivation
 myth
 modelan
+mathrm
 en
 ease
 es
@@ -11758,6 +11759,7 @@ profundizaci
 pertinente
 preferimos
 pare
+producida
 lineal
 la
 lo
@@ -21050,6 +21052,7 @@ choices
 contener
 conjunciones
 cara
+cdot
 sr
 se
 subproblemas
@@ -26529,6 +26532,7 @@ usulas
 usula
 unidas
 unitaria
+unitario
 hora
 hacemos
 hacia
@@ -29803,6 +29807,7 @@ Elegir
 Elegimos
 EXAM
 Exponencial
+EMPEZAR
 vital
 variables
 vez
@@ -38040,6 +38045,7 @@ filtrar
 followed
 falsa
 formuila
+frac
 objetivo
 obtener
 of
@@ -49190,6 +49196,7 @@ Tomas
 Terceras
 Tras
 TIEMPO
+TENER
 grafo
 guardan
 global
@@ -50846,6 +50853,7 @@ guardaremos
 guard
 guardarlo
 gicamente
+ganados
 Programaci
 Para
 Problema
