@@ -5831,6 +5831,8 @@ deje
 dividendos
 desglosados
 divididentos
+dinamica
+dados
 modelos
 modelo
 maximizar
@@ -17171,6 +17173,7 @@ rmulas
 requerir
 ramificaciones
 regulaciones
+resuelva
 References
 Resoluci
 Rectas
