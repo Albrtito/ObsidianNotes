@@ -60,7 +60,8 @@ Podemos comprobar que:
    + Si x < a => b = 0
    + Si x > a => b = 
 2. En la segunda restricción: 
-   + Si x < a => 
+   + b = 0 => x ≥ a 
+   + b = {0,1} => 
 
 El único problema que nos quedaría por resolver es que necesitamos que todas las restricciones sean válidas para una [[1727270366 - Forma estandar|Forma estandar]] de un problema de programación lineal. → Solo restricciones de tipo ≥, ≤, =
 Para resolverlo se añade/substrae un valor infinitesimalmente pequeño. Manteniendo el caso anterior debemos de cambiar la restricción para el caso 1 a: 
