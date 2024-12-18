@@ -58,6 +58,13 @@ Manteniendo el caso de prueba podemos crear dos restricciones:
 Podemos comprobar que: 
 1. En la primera restricción: 
    + Si x < a => b = 0
-   + Si x > a => 
+   + Si x > a => b = 
+2. En la segunda restricción: 
+   + Si x < a => 
 
+El único problema que nos quedaría por resolver es que necesitamos que todas las restricciones sean válidas para una [[1727270366 - Forma estandar|Forma estandar]] de un problema de programación lineal. → Solo restricciones de tipo ≥, ≤, =
+Para resolverlo se añade/substrae un valor infinitesimalmente pequeño. Manteniendo el caso anterior debemos de cambiar la restricción para el caso 1 a: 
+$$
+x \leq a + M(1-b)-\epsilon
+$$
 ***
