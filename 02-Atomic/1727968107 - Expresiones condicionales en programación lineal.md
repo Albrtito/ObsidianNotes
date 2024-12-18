@@ -27,35 +27,26 @@ if x <a:
 	else b = 0
 ```
 
+![[1727968107 - Expresiones condicionales en programación linealj.png|center]]
++ Para modelizar este tipo de restricciones utilizaremos el **método BIG-M**
 
-+ Para modelizar este tipo de restricciones utilizaremos el método BIG-M
+Con este método queremos crear una restricción para el caso 1 y otra para el caso 2 de forma que se cumpla: 
++ **Para el caso 1:** $x<a \rightarrow b = 1$
++ **Para el caso 2:** $x\geq a \rightarrow b = 0$
 
-Para el caso del dibujo anterior queremos que pase una de las siguientes dos opciones:
+Las restricciones que podemos crear para cada caso varían. Pero cada restricción deberá de asegurar que **obliga a b a tomar un valor (0 o 1) y en el caso contrario la restricción se queda unbounded**
 
-> p.e: (En el caso anterior): Creamos la siguiente restricción:
-> $$ 20 \leq x_2 + M(1 - b)$$
-> M : **Constante = $\infty$**
-
-+ Vemos en remarks que esta restricción no es suficiente
-
-**Remarks:**
-Con estas restricciones tenemos que asegurarnos de que todos los casos se cumplen. 
-> p.e: (Siguiendo con el ejemplo):
-> Debemos de satisfacer cuatro casos: 
-> 1. $x_2 \geq 20 \rightarrow b = 1$
-> 2. $b = 1 \rightarrow x_2 \geq 20$
-> 3. $x_2 < 20 \rightarrow b = 0$
-> 4. $b = 0 \rightarrow x_2 < 20$
-
-+ Solo las restricciones 2 y 3 se cumplen con la primera restricción que hemos dado. Para solucionarlo introducioms una nueva restricción: 
-
-> p.e: (Siguiendo con el ejemplo anterior):
-> Introducimos una nueva restricción 
-> $$x_2 \leq 19 + Mb$$
-> Con esta nueva restricción **los dos casos (el 1 y 4) que antes no satisfacían ahora satisfacen.**
-> 
-
-
-
+Manteniendo el caso de prueba podemos crear dos restricciones: 
++ **Para el caso 1:**
+  $$
+  x < a + M(1-b)
+   $$
++ **Para el caso 2:**
+  $$
+  x \geq a - Mb
+   $$
+Podemos comprobar que: 
+1. En la primera restricción: 
+   + Si b = 1 
 
 ***
