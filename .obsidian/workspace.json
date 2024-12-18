@@ -186,6 +186,33 @@
               "icon": "lucide-git-fork",
               "title": "Graph of 1726825216 - Programación Dinámica"
             }
+          },
+          {
+            "id": "b28acf8aba4aa665",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "545c1d1d965d5a9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       },
@@ -246,8 +273,65 @@
               "icon": "lucide-file",
               "title": "Empresa"
             }
+          },
+          {
+            "id": "325b9f7cdcd933b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Atomic/1726825216 - Programación Dinámica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1726825216 - Programación Dinámica"
+            }
+          },
+          {
+            "id": "4db21cbb09ff5fec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-Atomic/1726825216 - Programación Dinámica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1726825216 - Programación Dinámica"
+            }
+          },
+          {
+            "id": "f85c8a5fd5efc62d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c04eb592db3951ef",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -286,7 +370,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8d215d9dab149ad0",
+  "active": "c04eb592db3951ef",
   "lastOpenFiles": [
     "02-Atomic/1733926515 - Programacion dinamica.md",
     "02-Atomic/1726825216 - Programación Dinámica.md",
