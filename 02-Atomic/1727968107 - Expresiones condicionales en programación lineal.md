@@ -11,7 +11,6 @@ sr-interval: 1
 sr-ease: 130
 ---
 # Expresiones condicionales en programación lineal
-#Duda: La nota entera
 
 > [!NOTE] Definition: 
 > Cuando nos encontramos con expresiones del tipo: 
@@ -20,11 +19,18 @@ sr-ease: 130
 >
 > tenemos ante nosotros una **expresión condicional.** 
 
-> p.e: $$x_2 \geq 20 \Leftrightarrow \text{Comprar aparato}$$
+> p.e: $$x_i < a \rightarrow b=1$$
+> $$x_i \geq a \rightarrow b = 0$$
+```python
+if x <a:
+	then b = 1
+	else b = 0
+```
 
 
-> [!Check] Solution: 
-> La solución es utilizar el método de **big-M** para definir una solución.
++ Para modelizar este tipo de restricciones utilizaremos el método BIG-M
+
+Para el caso del dibujo anterior queremos que pase una de las siguientes dos opciones:
 
 > p.e: (En el caso anterior): Creamos la siguiente restricción:
 > $$ 20 \leq x_2 + M(1 - b)$$
