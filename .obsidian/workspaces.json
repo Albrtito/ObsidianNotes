@@ -3024,7 +3024,8 @@
                   "title": "1727166266 - Movilidad no Europea"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -3043,7 +3044,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "01-Areas/1.UC3M/Movilidad.md",
+                    "file": "02-Atomic/1727166266 - Movilidad no Europea.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -3142,7 +3143,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Movilidad"
+                  "title": "Graph of 1727166266 - Movilidad no Europea"
                 }
               },
               {
@@ -3184,10 +3185,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "01-Areas/1.UC3M/Movilidad.md"
+                    "file": "02-Atomic/1727166266 - Movilidad no Europea.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Movilidad"
+                  "title": "Outline of 1727166266 - Movilidad no Europea"
                 }
               },
               {
@@ -3294,12 +3295,22 @@
                 "state": {
                   "type": "review-queue-list-view",
                   "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "c5b902d630da931a",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
                   "icon": "SpacedRepIcon",
                   "title": "Notes Review Queue"
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 6
           },
           {
             "id": "d8523f2fbc4e9acf",
@@ -3338,9 +3349,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "43a8945846ebea6f",
-      "mtime": "2024-12-07T15:20:16+01:00"
+      "active": "c5b902d630da931a",
+      "mtime": "2024-12-20T16:16:00+01:00"
     }
   },
-  "active": "Movilidad"
+  "active": "Heuri"
 }

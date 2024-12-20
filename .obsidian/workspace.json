@@ -4,68 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "59df783bbe67598e",
+        "id": "fabe814c139eca2a",
         "type": "tabs",
         "children": [
           {
-            "id": "43a8945846ebea6f",
+            "id": "ee704942903eaf4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Movilidad.md",
+                "file": "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movilidad"
+              "title": "1730303159 - Problemas de satisfacción de restricciones"
             }
           },
           {
-            "id": "6a7941b9175fa35f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1733500003 - Movilidad europea.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1733500003 - Movilidad europea"
-            }
-          },
-          {
-            "id": "26147c2c1efd536a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1727166266 - Movilidad no Europea.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1727166266 - Movilidad no Europea"
-            }
-          },
-          {
-            "id": "d28c261e50ada7c6",
+            "id": "1534c7b893b7c93b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf"
+                "file": "00-References/Heuri_Resources_Problemas.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "MovilidadInt_ListadoPlzOfertadas25"
+              "title": "Heuri_Resources_Problemas"
+            }
+          },
+          {
+            "id": "dc833d8c56e34db1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Heuristica y Opti"
+            }
+          },
+          {
+            "id": "edc4693f831da253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1733926515 - Programacion dinamica.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1733926515 - Programacion dinamica"
+            }
+          },
+          {
+            "id": "f758422b14869ed2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/Heuri_Resources_Problemas.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Heuri_Resources_Problemas"
+            }
+          },
+          {
+            "id": "5ce34102c3745a26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1732116599 - Algorithm - Profundizacion iterativa"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -84,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
+                "file": "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,12 +205,12 @@
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.05281790119329888,
+                  "scale": 0.09611498563436142,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of MovilidadInt_ListadoPlzOfertadas25"
+              "title": "Graph of 1732116599 - Algorithm - Profundizacion iterativa"
             }
           },
           {
@@ -225,10 +252,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf"
+                "file": "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of MovilidadInt_ListadoPlzOfertadas25"
+              "title": "Outline of 1732116599 - Algorithm - Profundizacion iterativa"
             }
           },
           {
@@ -272,75 +299,8 @@
               "icon": "lucide-file",
               "title": "Heuristica y Opti"
             }
-          },
-          {
-            "id": "ab18e04d6d07ee97",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Heuristica y Opti"
-            }
-          },
-          {
-            "id": "48b64c2d6dc49e36",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Heuristica y Opti"
-            }
-          },
-          {
-            "id": "0d900727d536ddd5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "91fae42f5f6cbc74",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "14e2095f55fe5f78",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -361,8 +321,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -379,12 +338,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d28c261e50ada7c6",
+  "active": "5ce34102c3745a26",
   "lastOpenFiles": [
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
+    "02-Atomic/1727166266 - Movilidad no Europea.md",
+    "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "01-Areas/1.UC3M/Movilidad.md",
     "02-Atomic/1726825216 - Programación Dinámica.md",
     "02-Atomic/1733926515 - Programacion dinamica.md",
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
     "99-Meta/0. Attachments/1727968107 - Expresiones condicionales en programación linealj.png",
     "00-References/Heuri_Resources_Problemas.pdf",
@@ -410,7 +371,6 @@
     "02-Atomic/1732633799 - MarketingMix - Distribucion.md",
     "02-Atomic/1727711018 - Estrategias de diversificación.md",
     "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md",
-    "02-Atomic/1730297192 - Problemas de satisfabilidad Lógica.md",
     "99-Meta/0. Attachments/1733918229 - Algorithm - Davis-Putnam-Logemann-Lovelandj.png",
     "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj-1.png",
     "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj.png",
@@ -426,7 +386,6 @@
     "99-Meta/2. Scripts/1727968107 - Expresiones condicionales en programación linealj-1.py",
     "99-Meta/2. Scripts/1727968107 - Expresiones condicionales en programación linealj.py",
     "99-Meta/2. Scripts/output.txt",
-    "99-Meta/2. Scripts/output",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
