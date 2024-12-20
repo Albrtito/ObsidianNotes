@@ -346,12 +346,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9b368185c000c248",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -390,7 +400,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bd9e0200d49d0df4",
+  "active": "9b368185c000c248",
   "lastOpenFiles": [
     "02-Atomic/1733926515 - Programacion dinamica.md",
     "02-Atomic/1726825216 - Programación Dinámica.md",
