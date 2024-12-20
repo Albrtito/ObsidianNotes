@@ -4,83 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "3fba0475cebb59d0",
+        "id": "59df783bbe67598e",
         "type": "tabs",
         "children": [
           {
-            "id": "ce5cd5b122a5ced0",
+            "id": "43a8945846ebea6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1729684964 - El BAIT,BAT y BN.md",
+                "file": "01-Areas/1.UC3M/Movilidad.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1729684964 - El BAIT,BAT y BN"
+              "title": "Movilidad"
             }
           },
           {
-            "id": "eb969e5a2ad60433",
+            "id": "6a7941b9175fa35f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "02-Atomic/1733500003 - Movilidad europea.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heuristica y Opti"
+              "title": "1733500003 - Movilidad europea"
             }
           },
           {
-            "id": "195e15230cefbe9b",
+            "id": "26147c2c1efd536a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
+                "file": "02-Atomic/1727166266 - Movilidad no Europea.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dudas-Heuri"
+              "title": "1727166266 - Movilidad no Europea"
             }
           },
           {
-            "id": "5a07a9d050cae221",
+            "id": "d28c261e50ada7c6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00-References/Heuri_Resources_Problemas.pdf"
+                "file": "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Heuri_Resources_Problemas"
-            }
-          },
-          {
-            "id": "8d215d9dab149ad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726825216 - Programación Dinámica.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726825216 - Programación Dinámica"
+              "title": "MovilidadInt_ListadoPlzOfertadas25"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,9 +84,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1726825216 - Programación Dinámica.md",
+                "file": "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -110,7 +95,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "tag:#incomplete  ",
@@ -167,28 +152,42 @@
                         "a": 1,
                         "rgb": 14048348
                       }
+                    },
+                    {
+                      "query": "tag:#Logic  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1328127
+                      }
+                    },
+                    {
+                      "query": "tag:#EDA  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16762880
+                      }
                     }
                   ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.79537653688525,
+                  "nodeSizeMultiplier": 2.39155888359428,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.0242737249838606,
+                  "centerStrength": 0.178748758689176,
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.07043488449702007,
+                  "scale": 0.05281790119329888,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1726825216 - Programación Dinámica"
+              "title": "Graph of MovilidadInt_ListadoPlzOfertadas25"
             }
           },
           {
-            "id": "b28acf8aba4aa665",
+            "id": "d984ccb5a50bcd56",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -205,7 +204,7 @@
             }
           },
           {
-            "id": "545c1d1d965d5a9e",
+            "id": "d6d22eeec0682472",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -226,10 +225,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1726825216 - Programación Dinámica.md"
+                "file": "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1726825216 - Programación Dinámica"
+              "title": "Outline of MovilidadInt_ListadoPlzOfertadas25"
             }
           },
           {
@@ -248,7 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 340
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -265,22 +264,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Empresa.md",
+                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Empresa"
+              "title": "Heuristica y Opti"
             }
           },
           {
-            "id": "325b9f7cdcd933b5",
+            "id": "ab18e04d6d07ee97",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/1726825216 - Programación Dinámica.md",
+                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,25 +289,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1726825216 - Programación Dinámica"
+              "title": "Backlinks for Heuristica y Opti"
             }
           },
           {
-            "id": "4db21cbb09ff5fec",
+            "id": "48b64c2d6dc49e36",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/1726825216 - Programación Dinámica.md",
+                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1726825216 - Programación Dinámica"
+              "title": "Outgoing links from Heuristica y Opti"
             }
           },
           {
-            "id": "f85c8a5fd5efc62d",
+            "id": "0d900727d536ddd5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -321,7 +320,7 @@
             }
           },
           {
-            "id": "c04eb592db3951ef",
+            "id": "91fae42f5f6cbc74",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -331,27 +330,7 @@
             }
           },
           {
-            "id": "3ddafed6a95383b4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "bd9e0200d49d0df4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "9b368185c000c248",
+            "id": "14e2095f55fe5f78",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -361,7 +340,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -382,7 +361,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363,
+    "width": 395,
     "collapsed": true
   },
   "left-ribbon": {
@@ -400,10 +379,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9b368185c000c248",
+  "active": "d28c261e50ada7c6",
   "lastOpenFiles": [
-    "02-Atomic/1733926515 - Programacion dinamica.md",
+    "01-Areas/1.UC3M/Movilidad.md",
     "02-Atomic/1726825216 - Programación Dinámica.md",
+    "02-Atomic/1733926515 - Programacion dinamica.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
     "99-Meta/0. Attachments/1727968107 - Expresiones condicionales en programación linealj.png",
@@ -431,7 +411,6 @@
     "02-Atomic/1727711018 - Estrategias de diversificación.md",
     "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md",
     "02-Atomic/1730297192 - Problemas de satisfabilidad Lógica.md",
-    "02-Atomic/1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland.md",
     "99-Meta/0. Attachments/1733918229 - Algorithm - Davis-Putnam-Logemann-Lovelandj.png",
     "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj-1.png",
     "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj.png",
