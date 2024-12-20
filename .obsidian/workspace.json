@@ -299,8 +299,65 @@
               "icon": "lucide-file",
               "title": "Heuristica y Opti"
             }
+          },
+          {
+            "id": "aebf1d13de48929c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1732116599 - Algorithm - Profundizacion iterativa"
+            }
+          },
+          {
+            "id": "ca74d6bac2442c37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1732116599 - Algorithm - Profundizacion iterativa"
+            }
+          },
+          {
+            "id": "6a46c2b3c64b3a5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7be52d8d2101d5d1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -338,7 +395,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5ce34102c3745a26",
+  "active": "7be52d8d2101d5d1",
   "lastOpenFiles": [
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1727166266 - Movilidad no Europea.md",
