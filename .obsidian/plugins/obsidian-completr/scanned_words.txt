@@ -2018,6 +2018,7 @@ annually
 aspect
 asignado
 anotando
+arrangements
 Creaci
 Crear
 Cuando
@@ -5833,6 +5834,7 @@ desglosados
 divididentos
 dinamica
 dados
+discard
 modelos
 modelo
 maximizar
@@ -17174,6 +17176,7 @@ requerir
 ramificaciones
 regulaciones
 resuelva
+repetitions
 References
 Resoluci
 Rectas
@@ -18818,6 +18821,7 @@ RRSS
 Resuleta
 Res
 RETENIDOS
+Result
 cssclasses
 correcto
 correcta
@@ -21061,6 +21065,9 @@ contener
 conjunciones
 cara
 cdot
+cardinality
+combinations
+counted
 sr
 se
 subproblemas
@@ -23068,6 +23075,9 @@ specify
 sete
 satisfacible
 satisfaccion
+spots
+subtract
+switched
 interval
 importancia
 incorrecto
@@ -38055,6 +38065,7 @@ followed
 falsa
 formuila
 frac
+factorial
 objetivo
 obtener
 of
@@ -52661,6 +52672,7 @@ Psicogr
 Profundidad
 Putnam
 Propone
+Permutations
 Biblio
 BitsPerComponent
 BI

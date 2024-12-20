@@ -26,12 +26,15 @@
             "id": "1534c7b893b7c93b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00-References/Heuri_Resources_Problemas.pdf"
+                "file": "02-Atomic/20240515 - 010953 - Permutations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Heuri_Resources_Problemas"
+              "icon": "lucide-file",
+              "title": "20240515 - 010953 - Permutations"
             }
           },
           {
@@ -90,9 +93,19 @@
               "icon": "lucide-file",
               "title": "1732116599 - Algorithm - Profundizacion iterativa"
             }
+          },
+          {
+            "id": "e4b3e83c2060c68c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
+                "file": "02-Atomic/20240515 - 010953 - Permutations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732116599 - Algorithm - Profundizacion iterativa"
+              "title": "Graph of 20240515 - 010953 - Permutations"
             }
           },
           {
@@ -252,10 +265,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md"
+                "file": "02-Atomic/20240515 - 010953 - Permutations.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732116599 - Algorithm - Profundizacion iterativa"
+              "title": "Outline of 20240515 - 010953 - Permutations"
             }
           },
           {
@@ -306,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
+                "file": "02-Atomic/20240515 - 010953 - Permutations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +329,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1732116599 - Algorithm - Profundizacion iterativa"
+              "title": "Backlinks for 20240515 - 010953 - Permutations"
             }
           },
           {
@@ -325,12 +338,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
+                "file": "02-Atomic/20240515 - 010953 - Permutations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1732116599 - Algorithm - Profundizacion iterativa"
+              "title": "Outgoing links from 20240515 - 010953 - Permutations"
             }
           },
           {
@@ -395,8 +408,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7be52d8d2101d5d1",
+  "active": "1534c7b893b7c93b",
   "lastOpenFiles": [
+    "00-References/Heuri_Resources_Problemas.pdf",
+    "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1727166266 - Movilidad no Europea.md",
     "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
@@ -405,7 +420,6 @@
     "02-Atomic/1733926515 - Programacion dinamica.md",
     "02-Atomic/1727968107 - Expresiones condicionales en programación lineal.md",
     "99-Meta/0. Attachments/1727968107 - Expresiones condicionales en programación linealj.png",
-    "00-References/Heuri_Resources_Problemas.pdf",
     "99-Meta/2. Scripts/Dudas/Dudas-Heuri.md",
     "02-Atomic/Recurrence relations.md",
     "02-Atomic/1733319298 - Analisis de la produccion en la empresa.md",
@@ -426,8 +440,6 @@
     "02-Atomic/1728921778 - La funcion de produccion de la empresa.md",
     "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
     "02-Atomic/1732633799 - MarketingMix - Distribucion.md",
-    "02-Atomic/1727711018 - Estrategias de diversificación.md",
-    "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md",
     "99-Meta/0. Attachments/1733918229 - Algorithm - Davis-Putnam-Logemann-Lovelandj.png",
     "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj-1.png",
     "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj.png",
