@@ -365,8 +365,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -378,9 +378,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "888fc5408defd690",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -418,7 +428,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1520c065af4ecdb",
+  "active": "888fc5408defd690",
   "lastOpenFiles": [
     "00-References/Heuri_Resources_Problemas.pdf",
     "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
