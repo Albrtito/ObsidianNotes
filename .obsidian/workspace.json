@@ -390,7 +390,7 @@
             }
           },
           {
-            "id": "c486d31d0fef9c79",
+            "id": "fb0226862970921d",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -438,7 +438,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c486d31d0fef9c79",
+  "active": "fb0226862970921d",
   "lastOpenFiles": [
     "00-References/Heuri_Resources_Problemas.pdf",
     "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
