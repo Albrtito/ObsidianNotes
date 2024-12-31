@@ -124,7 +124,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/20240515 - 010953 - Permutations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,7 +222,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 20240515 - 010953 - Permutations"
+              "title": "Graph view"
             }
           },
           {
@@ -264,11 +263,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02-Atomic/20240515 - 010953 - Permutations.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 20240515 - 010953 - Permutations"
+              "title": "Outline"
             }
           },
           {
@@ -448,8 +445,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1da328c74a71565f",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
+    "02-Atomic/20240515 - 010953 - Permutations.md",
     "00-References/Heuri_Resources_Problemas.pdf",
     "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
