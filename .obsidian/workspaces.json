@@ -805,91 +805,16 @@
             "type": "tabs",
             "children": [
               {
-                "id": "ee704942903eaf4d",
+                "id": "e4b3e83c2060c68c",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "1730303159 - Problemas de satisfacción de restricciones"
-                }
-              },
-              {
-                "id": "1534c7b893b7c93b",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00-References/Heuri_Resources_Problemas.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Heuri_Resources_Problemas"
-                }
-              },
-              {
-                "id": "dc833d8c56e34db1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Heuristica y Opti"
-                }
-              },
-              {
-                "id": "edc4693f831da253",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1733926515 - Programacion dinamica.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1733926515 - Programacion dinamica"
-                }
-              },
-              {
-                "id": "f758422b14869ed2",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00-References/Heuri_Resources_Problemas.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Heuri_Resources_Problemas"
-                }
-              },
-              {
-                "id": "5ce34102c3745a26",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Heuristica y Opti"
+                  "title": "New tab"
                 }
               }
-            ],
-            "currentTab": 5
+            ]
           }
         ],
         "direction": "vertical"
@@ -908,7 +833,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -1007,7 +931,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Heuristica y Opti"
+                  "title": "Graph view"
                 }
               },
               {
@@ -1048,11 +972,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "01-Areas/1.UC3M/Heuristica y Opti.md"
-                  },
+                  "state": {},
                   "icon": "lucide-list",
-                  "title": "Outline of Heuristica y Opti"
+                  "title": "Outline"
                 }
               },
               {
@@ -1076,49 +998,10 @@
       "right": {
         "id": "8881aa8c79e29157",
         "type": "split",
-        "children": [
-          {
-            "id": "5997a5c0c99a8696",
-            "type": "tabs",
-            "dimension": 63.45609065155807,
-            "children": [
-              {
-                "id": "2dca472e18c0e06a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Heuristica y Opti"
-                }
-              }
-            ]
-          },
-          {
-            "id": "d8523f2fbc4e9acf",
-            "type": "tabs",
-            "dimension": 36.54390934844192,
-            "children": [
-              {
-                "id": "1087055cabadd75b",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
+        "children": [],
         "direction": "horizontal",
-        "width": 395
+        "width": 395,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -1135,8 +1018,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "5ce34102c3745a26",
-      "mtime": "2024-12-13T22:42:52+01:00"
+      "active": "e4b3e83c2060c68c",
+      "mtime": "2025-01-02T19:18:39+01:00"
     },
     "Net": {
       "main": {
