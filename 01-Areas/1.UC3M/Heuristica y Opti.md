@@ -39,7 +39,8 @@ aliases:
 - Novo Sanjurjo, Vicente J.. Optimización: casos prácticos. Universidad Nacional de Educación a Distancia. 2000
 - Sixto Ríos Insua. Investigación Operativa. Optimización. Centro de estudios Ramón Areces. 1988
 + Marek V. Intro to logic mathematics of satisfability:[[HyO_Biblio_Marek V. Introduction to mathematics of satisfiability.pdf]]
-
+### Problemas propuestos: 
++ [[Heuri_Resources_Problemas.pdf]]
 ## Notas: 
 + [[1726825216 - Programación Dinámica|Programación Dinámica]]
 + [[1726759457 - Programación Lineal|Programación Lineal]]

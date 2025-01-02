@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "Heuristica y Opti"
             }
+          },
+          {
+            "id": "f74e026cfe7ddd7c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/Heuri_Resources_Problemas.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Heuri_Resources_Problemas"
+            }
           }
         ]
       }
@@ -35,114 +47,6 @@
         "id": "662098e0d908b3e6",
         "type": "tabs",
         "children": [
-          {
-            "id": "36d1a43796975b90",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#incomplete  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    },
-                    {
-                      "query": "tag:#DiffCalc  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8537055
-                      }
-                    },
-                    {
-                      "query": "tag:#Networks",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11392604
-                      }
-                    },
-                    {
-                      "query": "tag:#Discrete  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    },
-                    {
-                      "query": "tag:#Cripto",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084269
-                      }
-                    },
-                    {
-                      "query": "tag:#Heuri  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6073814
-                      }
-                    },
-                    {
-                      "query": "tag:#Empresa  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16775199
-                      }
-                    },
-                    {
-                      "query": "tag:#CalcI  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "tag:#Logic  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1328127
-                      }
-                    },
-                    {
-                      "query": "tag:#EDA  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16762880
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.39155888359428,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.178748758689176,
-                  "repelStrength": 15.3311814073596,
-                  "linkStrength": 0.47411233053583,
-                  "linkDistance": 52,
-                  "scale": 0.09611498563436142,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Heuristica y Opti"
-            }
-          },
           {
             "id": "d984ccb5a50bcd56",
             "type": "leaf",
@@ -209,7 +113,71 @@
   "right": {
     "id": "8881aa8c79e29157",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "214cbacf8d4eec11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ced961744fe600fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Heuristica y Opti"
+            }
+          },
+          {
+            "id": "5d8585d406a564d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Heuristica y Opti"
+            }
+          },
+          {
+            "id": "5fc532fcb6e3ede3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c3d7a735e4dc72ce",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
     "direction": "horizontal",
     "width": 395,
     "collapsed": true
@@ -231,10 +199,10 @@
   },
   "active": "e4b3e83c2060c68c",
   "lastOpenFiles": [
-    "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
     "00-References/Heuri_Resources_Problemas.pdf",
-    "02-Atomic/1733926515 - Programacion dinamica.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
+    "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
+    "02-Atomic/1733926515 - Programacion dinamica.md",
     "02-Atomic/20240515 - 010953 - Permutations.md",
     "02-Atomic/1730303159 - Problemas de satisfacción de restricciones.md",
     "02-Atomic/1727166266 - Movilidad no Europea.md",
