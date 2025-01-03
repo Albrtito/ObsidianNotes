@@ -50,21 +50,6 @@
             }
           },
           {
-            "id": "7c44839af65da272",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1727270366 - Forma estandar.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1727270366 - Forma estandar"
-            }
-          },
-          {
             "id": "10f5f5c7d34d9f59",
             "type": "leaf",
             "state": {
@@ -78,9 +63,24 @@
               "icon": "lucide-file",
               "title": "1729084911 - Dualidad en programacion lineal"
             }
+          },
+          {
+            "id": "945f94efc6ac5cf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1727270270 - Method - Algorithm - SIMPLEX"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,10 +132,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-References/Heuri_Resources_Problemas.pdf"
+                "file": "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Heuri_Resources_Problemas"
+              "title": "Outline of 1727270270 - Method - Algorithm - SIMPLEX"
             }
           },
           {
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-References/Heuri_Resources_Problemas.pdf",
+                "file": "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Heuri_Resources_Problemas"
+              "title": "Backlinks for 1727270270 - Method - Algorithm - SIMPLEX"
             }
           },
           {
@@ -189,12 +189,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-References/Heuri_Resources_Problemas.pdf",
+                "file": "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Heuri_Resources_Problemas"
+              "title": "Outgoing links from 1727270270 - Method - Algorithm - SIMPLEX"
             }
           },
           {
@@ -243,13 +243,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f74e026cfe7ddd7c",
+  "active": "945f94efc6ac5cf9",
   "lastOpenFiles": [
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
-    "00-References/Heuri_Resources_Problemas.pdf",
     "02-Atomic/1729087121 - Creación de informes en programación lineal.md",
     "02-Atomic/1727270366 - Forma estandar.md",
+    "00-References/Heuri_Resources_Problemas.pdf",
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1726759457 - Programación Lineal.md",
     "02-Atomic/1733926515 - Programacion dinamica.md",
     "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
@@ -275,7 +275,6 @@
     "02-Atomic/1727121162 - Contabilidad.md",
     "02-Atomic/1727122369 - Estados contables.md",
     "02-Atomic/1727105893 - La función financiera de la empresa.md",
-    "01-Areas/1.UC3M/Empresa.md",
     "99-Meta/0. Attachments/1733918229 - Algorithm - Davis-Putnam-Logemann-Lovelandj.png",
     "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj-1.png",
     "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj.png",
