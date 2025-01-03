@@ -34,7 +34,8 @@
               "title": "Heuri_Resources_Problemas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,10 +87,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md"
+                "file": "00-References/Heuri_Resources_Problemas.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of Heuristica y Opti"
+              "title": "Outline of Heuri_Resources_Problemas"
             }
           },
           {
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "00-References/Heuri_Resources_Problemas.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Heuristica y Opti"
+              "title": "Backlinks for Heuri_Resources_Problemas"
             }
           },
           {
@@ -143,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "00-References/Heuri_Resources_Problemas.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Heuristica y Opti"
+              "title": "Outgoing links from Heuri_Resources_Problemas"
             }
           },
           {
@@ -197,10 +198,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e4b3e83c2060c68c",
+  "active": "f74e026cfe7ddd7c",
   "lastOpenFiles": [
-    "00-References/Heuri_Resources_Problemas.pdf",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
+    "00-References/Heuri_Resources_Problemas.pdf",
     "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
     "02-Atomic/1733926515 - Programacion dinamica.md",
     "02-Atomic/20240515 - 010953 - Permutations.md",
