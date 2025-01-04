@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,10 +132,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md"
+                "file": "00-References/Heuri_Resources_Problemas.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1727270270 - Method - Algorithm - SIMPLEX"
+              "title": "Outline of Heuri_Resources_Problemas"
             }
           },
           {
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md",
+                "file": "00-References/Heuri_Resources_Problemas.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1727270270 - Method - Algorithm - SIMPLEX"
+              "title": "Backlinks for Heuri_Resources_Problemas"
             }
           },
           {
@@ -189,12 +189,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md",
+                "file": "00-References/Heuri_Resources_Problemas.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1727270270 - Method - Algorithm - SIMPLEX"
+              "title": "Outgoing links from Heuri_Resources_Problemas"
             }
           },
           {
@@ -243,8 +243,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "945f94efc6ac5cf9",
+  "active": "f74e026cfe7ddd7c",
   "lastOpenFiles": [
+    "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md",
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
     "02-Atomic/1729087121 - Creación de informes en programación lineal.md",
     "02-Atomic/1727270366 - Forma estandar.md",
