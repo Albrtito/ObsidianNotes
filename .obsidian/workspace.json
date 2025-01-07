@@ -78,9 +78,21 @@
               "icon": "lucide-file",
               "title": "1727270270 - Method - Algorithm - SIMPLEX"
             }
+          },
+          {
+            "id": "db5bb889f1cabc1a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "MovilidadInt_ListadoPlzOfertadas25"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,10 +144,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-References/Heuri_Resources_Problemas.pdf"
+                "file": "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of Heuri_Resources_Problemas"
+              "title": "Outline of MovilidadInt_ListadoPlzOfertadas25"
             }
           },
           {
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-References/Heuri_Resources_Problemas.pdf",
+                "file": "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Heuri_Resources_Problemas"
+              "title": "Backlinks for MovilidadInt_ListadoPlzOfertadas25"
             }
           },
           {
@@ -189,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-References/Heuri_Resources_Problemas.pdf",
+                "file": "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Heuri_Resources_Problemas"
+              "title": "Outgoing links from MovilidadInt_ListadoPlzOfertadas25"
             }
           },
           {
@@ -243,13 +255,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f74e026cfe7ddd7c",
+  "active": "db5bb889f1cabc1a",
   "lastOpenFiles": [
+    "00-References/Heuri_Resources_Problemas.pdf",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md",
     "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
     "02-Atomic/1729087121 - Creación de informes en programación lineal.md",
-    "00-References/Heuri_Resources_Problemas.pdf",
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
     "02-Atomic/1727270366 - Forma estandar.md",
     "02-Atomic/1726759457 - Programación Lineal.md",
