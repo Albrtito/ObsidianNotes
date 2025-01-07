@@ -11767,6 +11767,7 @@ pertinente
 preferimos
 pare
 producida
+perfecci
 lineal
 la
 lo
@@ -24988,6 +24989,7 @@ imacto
 incluido
 icamente
 independientemente
+importar
 un
 una
 utiliza
@@ -41186,6 +41188,7 @@ qqSn
 qebH
 quitarles
 quedan
+querr
 Algorith
 Algorithm
 All
