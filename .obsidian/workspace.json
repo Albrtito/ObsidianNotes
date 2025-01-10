@@ -26,12 +26,15 @@
             "id": "f74e026cfe7ddd7c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00-References/Heuri_Resources_Problemas.pdf"
+                "file": "02-Atomic/20240702 - 132355 - Host discovery with Nmap.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Heuri_Resources_Problemas"
+              "icon": "lucide-file",
+              "title": "20240702 - 132355 - Host discovery with Nmap"
             }
           },
           {
@@ -147,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-References/Heuri_Resources_Problemas.pdf"
+                "file": "02-Atomic/20240702 - 132355 - Host discovery with Nmap.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Heuri_Resources_Problemas"
+              "title": "Outline of 20240702 - 132355 - Host discovery with Nmap"
             }
           },
           {
@@ -185,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-References/Heuri_Resources_Problemas.pdf",
+                "file": "02-Atomic/20240702 - 132355 - Host discovery with Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +198,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Heuri_Resources_Problemas"
+              "title": "Backlinks for 20240702 - 132355 - Host discovery with Nmap"
             }
           },
           {
@@ -204,12 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-References/Heuri_Resources_Problemas.pdf",
+                "file": "02-Atomic/20240702 - 132355 - Host discovery with Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Heuri_Resources_Problemas"
+              "title": "Outgoing links from 20240702 - 132355 - Host discovery with Nmap"
             }
           },
           {
@@ -260,9 +263,10 @@
   },
   "active": "f74e026cfe7ddd7c",
   "lastOpenFiles": [
+    "02-Atomic/20240701 - 181920 - Nmap.md",
+    "00-References/Heuri_Resources_Problemas.pdf",
     "02-Atomic/1726825216 - Programación Dinámica.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
-    "00-References/Heuri_Resources_Problemas.pdf",
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
     "02-Atomic/1729087121 - Creación de informes en programación lineal.md",
     "02-Atomic/1727270318 - Forma canónica.md",
