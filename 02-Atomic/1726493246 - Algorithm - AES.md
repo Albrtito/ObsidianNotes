@@ -4,7 +4,6 @@ aliases:
   - AES
 tags:
   - Cripto
-  - incomplete
 References: 
 cssclasses:
 ---
@@ -32,7 +31,6 @@ Hay un total de 10 rondas, sin contar la inicial. En ellas se ejecutan hasta cua
 - [[1727808777 - ShiftRow|ShiftRow]]: desplazamiento de filas de un estado
 - [[1727808813 - MixColumns|MixColumns]]: mezcla de datos dentro de cada columna
 
-+ Imagen no importada
 
 ## Operaciones con bytes
 
