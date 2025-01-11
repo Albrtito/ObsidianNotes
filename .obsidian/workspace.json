@@ -273,7 +273,7 @@
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.08453350439622295,
+                  "scale": 0.038503975331436444,
                   "close": true
                 }
               },
@@ -381,7 +381,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aaaf56390103e05e",
+  "active": "36d1a43796975b90",
   "lastOpenFiles": [
     "02-Atomic/1726234693 - Intro a la seguridad informática.md",
     "02-Atomic/1728307154 - Funciones hash.md",

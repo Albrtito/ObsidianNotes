@@ -57,7 +57,7 @@ Las probabilidades de encontrar colisiones usando distintos ataques de fuerza br
 3. **Ataque de colisión:** $1\over 2^{n/2}$ → Ataque del cumpleaños
 
 Siendo n la longitud del hash.
-
+ 
 **Remark:**
 Como la manera más facil de atacar va a ser el ataque por colisión, esta propiedad es la que **marca como de seguro es el sistema**
 
