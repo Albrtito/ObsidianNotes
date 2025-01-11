@@ -58,7 +58,6 @@ Las probabilidades de encontrar colisiones usando distintos ataques de fuerza br
 
 Siendo n la longitud del hash.
 
-
 **Remark:**
 Como la manera más facil de atacar va a ser el ataque por colisión, esta propiedad es la que **marca como de seguro es el sistema**
 
