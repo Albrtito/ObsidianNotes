@@ -20,7 +20,7 @@ sr-ease: 270
 **Remarks:**
 + El cifrador **genera un cifrado**
 
-![[Screenshot 2024-09-13 at 3.58.36 PM.png]]
+![[Screenshot 2024-09-13 at 3.58.36 PM.png|center]]
 
 + **k:** Clave
 + **C:** Mensaje cifrado

@@ -15,14 +15,15 @@ sr-ease: 210
 ## Objetivos de seguridad:
 Los objetivos de seguridad se dividen en lo que llamamos la **triada CIA**: (CIA Triad)
 ![[Screenshot 2024-09-16 at 3.12.04 PM.png]]
-+ **Confidencialidad**: Conseguir que los datos se mantengan **secretos y privados**
-+ **Integridad:** Los datos han de estar **libres de alteraciones**
++ **Confidencialidad**: Conseguir que los datos se mantengan **secretos y privados**. Aquí es donde cogen importancia los algoritmos criptográficos de cifrado como [[1726493246 - Algorithm - AES|AES]] o [[1726510994 - ChaCha20|ChaCha20]]
++ **Integridad:** Los datos han de estar **libres de  alteraciones**, Se debe de poder comprobar si una alteración a ocurrido. El uso de [[1728309909 - MAC|MAC]] permite la integridad
 + **Aviabilidad:** Recursos tienen que estar siembre al alcance del usuario que los necesite. Hacer que algo deje de funcionar sería una rotura de este sistema.(Ataque DDOS)
-+ **Autenticación:**
-+ **No repudio:**
++ **Autenticación:** Poder comprobar que una entidad **es quien dice ser**. Para estso se usan Certificados y [[1731681118 - Firma digital|Firma digital]]
++ **No repudio:** Las actuaciones de una entidad han de poder ser trazadas, **poder “echar la culpa” de cada acto a la entidad correspondiente.** Para esto se utiliza la [[1731681118 - Firma digital|Firma digital]]
+
 **Remarks:**
  + Estos objetivos se han de cumplir en cualquier proyecto
-+ El objetivo se satisface a través de servicios. A su vez, el servicio cumple con la implementación de un mecanismo.
++ El objetivo se satisface a través de servicios, algunos ejemplos ya se han dado en las definiciones. A su vez, el servicio cumple con la implementación de un mecanismo.
 ## Amenazas y medidas: 
 ### Tipos de amenazas:
 Clasificamos las amenazas en 4 tipos: 

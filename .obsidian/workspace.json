@@ -83,6 +83,7 @@
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -102,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1726234693 - Intro a la seguridad informática.md",
+                "file": "02-Atomic/1726519620 - Principios de Kerckhoff.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,12 +183,12 @@
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.09229580869883151,
+                  "scale": 0.08453350439622295,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1726234693 - Intro a la seguridad informática"
+              "title": "Graph of 1726519620 - Principios de Kerckhoff"
             }
           }
         ]
@@ -290,13 +291,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "03cb95ef55f57c7a",
+  "active": "5aa930e938f17637",
   "lastOpenFiles": [
-    "02-Atomic/1726498694 - Definition - Criptografía.md",
     "02-Atomic/1726498880 - Definition - Cifrador.md",
+    "02-Atomic/1726498694 - Definition - Criptografía.md",
+    "02-Atomic/1726234693 - Intro a la seguridad informática.md",
     "02-Atomic/1726520589 - Definition - Criptosistema.md",
     "02-Atomic/1726519620 - Principios de Kerckhoff.md",
-    "02-Atomic/1726234693 - Intro a la seguridad informática.md",
     "02-Atomic/1731681118 - Firma digital.md",
     "02-Atomic/1731682077 - Algorithm - RSA.md",
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
