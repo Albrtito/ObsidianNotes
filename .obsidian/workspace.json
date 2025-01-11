@@ -4,101 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "fabe814c139eca2a",
+        "id": "3fba0475cebb59d0",
         "type": "tabs",
         "children": [
           {
-            "id": "e4b3e83c2060c68c",
+            "id": "03cb95ef55f57c7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726825216 - Programación Dinámica.md",
+                "file": "02-Atomic/1726234693 - Intro a la seguridad informática.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726825216 - Programación Dinámica"
+              "title": "1726234693 - Intro a la seguridad informática"
             }
           },
           {
-            "id": "f74e026cfe7ddd7c",
+            "id": "29876d6dba11b107",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/20240702 - 132355 - Host discovery with Nmap.md",
+                "file": "02-Atomic/1726498694 - Definition - Criptografía.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20240702 - 132355 - Host discovery with Nmap"
-            }
-          },
-          {
-            "id": "891e434bf00c0229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1729087121 - Creación de informes en programación lineal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1729087121 - Creación de informes en programación lineal"
-            }
-          },
-          {
-            "id": "10f5f5c7d34d9f59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1728047794 - Ejemplos SIMPLEX"
-            }
-          },
-          {
-            "id": "945f94efc6ac5cf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1727270270 - Method - Algorithm - SIMPLEX"
-            }
-          },
-          {
-            "id": "0931286eab789398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1729084911 - Dualidad en programacion lineal"
+              "title": "1726498694 - Definition - Criptografía"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -112,30 +53,97 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d984ccb5a50bcd56",
+            "id": "36d1a43796975b90",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "localgraph",
               "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#incomplete  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    },
+                    {
+                      "query": "tag:#DiffCalc  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8537055
+                      }
+                    },
+                    {
+                      "query": "tag:#Networks",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    },
+                    {
+                      "query": "tag:#Discrete  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084188
+                      }
+                    },
+                    {
+                      "query": "tag:#Cripto",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084269
+                      }
+                    },
+                    {
+                      "query": "tag:#Heuri  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6073814
+                      }
+                    },
+                    {
+                      "query": "tag:#Empresa  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16775199
+                      }
+                    },
+                    {
+                      "query": "tag:#CalcI  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 2.79537653688525,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.0242737249838606,
+                  "repelStrength": 15.3311814073596,
+                  "linkStrength": 0.47411233053583,
+                  "linkDistance": 52,
+                  "scale": 0.09229580869883151,
+                  "close": true
+                }
               },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "d6d22eeec0682472",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "icon": "lucide-git-fork",
+              "title": "Graph of 1731662455 - Practica - Routers"
             }
           }
         ]
@@ -150,10 +158,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/20240702 - 132355 - Host discovery with Nmap.md"
+                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 20240702 - 132355 - Host discovery with Nmap"
+              "title": "Outline of 1730827988 - Subnets"
             }
           },
           {
@@ -168,83 +176,60 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 340
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
     "type": "split",
     "children": [
       {
-        "id": "214cbacf8d4eec11",
+        "id": "5997a5c0c99a8696",
         "type": "tabs",
+        "dimension": 63.45609065155807,
         "children": [
           {
-            "id": "ced961744fe600fa",
+            "id": "2dca472e18c0e06a",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "markdown",
               "state": {
-                "file": "02-Atomic/20240702 - 132355 - Host discovery with Nmap.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "01-Areas/1.UC3M/Cripto.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 20240702 - 132355 - Host discovery with Nmap"
-            }
-          },
-          {
-            "id": "5d8585d406a564d9",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02-Atomic/20240702 - 132355 - Host discovery with Nmap.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 20240702 - 132355 - Host discovery with Nmap"
-            }
-          },
-          {
-            "id": "5fc532fcb6e3ede3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "c3d7a735e4dc72ce",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Cripto"
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "d8523f2fbc4e9acf",
+        "type": "tabs",
+        "dimension": 36.54390934844192,
+        "children": [
+          {
+            "id": "1087055cabadd75b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,17 +246,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f74e026cfe7ddd7c",
+  "active": "29876d6dba11b107",
   "lastOpenFiles": [
-    "02-Atomic/20240701 - 181920 - Nmap.md",
-    "00-References/Heuri_Resources_Problemas.pdf",
-    "02-Atomic/1726825216 - Programación Dinámica.md",
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
+    "02-Atomic/1726234693 - Intro a la seguridad informática.md",
+    "02-Atomic/1726498694 - Definition - Criptografía.md",
+    "02-Atomic/1731681118 - Firma digital.md",
+    "02-Atomic/1731682077 - Algorithm - RSA.md",
+    "00-References/Cripto_Resources_EjerciciosTodos.pdf",
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
-    "02-Atomic/1729087121 - Creación de informes en programación lineal.md",
-    "02-Atomic/1727270318 - Forma canónica.md",
     "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md",
     "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
+    "02-Atomic/1729087121 - Creación de informes en programación lineal.md",
+    "02-Atomic/1726825216 - Programación Dinámica.md",
+    "02-Atomic/20240702 - 132355 - Host discovery with Nmap.md",
+    "02-Atomic/20240701 - 181920 - Nmap.md",
+    "00-References/Heuri_Resources_Problemas.pdf",
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
+    "02-Atomic/1727270318 - Forma canónica.md",
     "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "02-Atomic/1727270366 - Forma estandar.md",
     "02-Atomic/1726759457 - Programación Lineal.md",
@@ -287,12 +278,7 @@
     "02-Atomic/Recurrence relations.md",
     "02-Atomic/1733319298 - Analisis de la produccion en la empresa.md",
     "02-Atomic/1729598277 - Cuenta de resultados.md",
-    "02-Atomic/1729684964 - El BAIT,BAT y BN.md",
-    "02-Atomic/1729682380 - El patrimonio neto de una empresa.md",
-    "02-Atomic/1729598149 - Balance de situacion.md",
     "99-Meta/0. Attachments/1729598277 - Cuenta de resultadosj-1.png",
-    "02-Atomic/1729681356 - El Pasivo de una empresa.md",
-    "02-Atomic/1729681337 - El Activo de una empresa.md",
     "99-Meta/0. Attachments/1729598149 - Balance de situacionj.png",
     "99-Meta/0. Attachments/1733918229 - Algorithm - Davis-Putnam-Logemann-Lovelandj.png",
     "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj-1.png",
@@ -308,7 +294,6 @@
     "99-Meta/2. Scripts/dudas_2.py",
     "99-Meta/2. Scripts/1727968107 - Expresiones condicionales en programación linealj-1.py",
     "99-Meta/2. Scripts/1727968107 - Expresiones condicionales en programación linealj.py",
-    "99-Meta/2. Scripts/output.txt",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",

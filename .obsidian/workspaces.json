@@ -805,18 +805,18 @@
             "type": "tabs",
             "children": [
               {
-                "id": "e4b3e83c2060c68c",
+                "id": "0931286eab789398",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                    "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Heuristica y Opti"
+                  "title": "1729084911 - Dualidad en programacion lineal"
                 }
               }
             ]
@@ -871,10 +871,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "01-Areas/1.UC3M/Heuristica y Opti.md"
+                    "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Heuristica y Opti"
+                  "title": "Outline of 1729084911 - Dualidad en programacion lineal"
                 }
               },
               {
@@ -898,7 +898,71 @@
       "right": {
         "id": "8881aa8c79e29157",
         "type": "split",
-        "children": [],
+        "children": [
+          {
+            "id": "214cbacf8d4eec11",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ced961744fe600fa",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 1729084911 - Dualidad en programacion lineal"
+                }
+              },
+              {
+                "id": "5d8585d406a564d9",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 1729084911 - Dualidad en programacion lineal"
+                }
+              },
+              {
+                "id": "5fc532fcb6e3ede3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "c3d7a735e4dc72ce",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Notes Review Queue"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
         "direction": "horizontal",
         "width": 395,
         "collapsed": true
@@ -918,312 +982,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "e4b3e83c2060c68c",
-      "mtime": "2025-01-02T19:24:20+01:00"
-    },
-    "Net": {
-      "main": {
-        "id": "17d7a5216cd24ae3",
-        "type": "split",
-        "children": [
-          {
-            "id": "6bc9cceeeaecbe3f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c773b82d7c627536",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00-References/Net_Biblio_Kurose.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Net_Biblio_Kurose"
-                }
-              },
-              {
-                "id": "b0b1ba4ee2a29591",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1727255580 - Loss and delay in Networks.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1727255580 - Loss and delay in Networks"
-                }
-              },
-              {
-                "id": "21b5832510ac3ae2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732035034 - Protocol - Slotted ALOHA"
-                }
-              },
-              {
-                "id": "19ef658acea653be",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732035034 - Protocol - Slotted ALOHA"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "145a221e0e2d66f9",
-        "type": "split",
-        "children": [
-          {
-            "id": "662098e0d908b3e6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "36d1a43796975b90",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "02-Atomic/1732018095 - The network link layer.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#incomplete  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16711680
-                          }
-                        },
-                        {
-                          "query": "tag:#DiffCalc  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 8537055
-                          }
-                        },
-                        {
-                          "query": "tag:#Networks",
-                          "color": {
-                            "a": 1,
-                            "rgb": 11392604
-                          }
-                        },
-                        {
-                          "query": "tag:#Discrete  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6084188
-                          }
-                        },
-                        {
-                          "query": "tag:#Cripto",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6084269
-                          }
-                        },
-                        {
-                          "query": "tag:#Heuri  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6073814
-                          }
-                        },
-                        {
-                          "query": "tag:#Empresa  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16775199
-                          }
-                        },
-                        {
-                          "query": "tag:#CalcI  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14048348
-                          }
-                        }
-                      ],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 2.79537653688525,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.0242737249838606,
-                      "repelStrength": 15.3311814073596,
-                      "linkStrength": 0.47411233053583,
-                      "linkDistance": 52,
-                      "scale": 0.08922934559046299,
-                      "close": true
-                    }
-                  },
-                  "icon": "lucide-git-fork",
-                  "title": "Graph of 1732018095 - The network link layer"
-                }
-              },
-              {
-                "id": "b6e33d160bc51eb6",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-search",
-                  "title": "Search"
-                }
-              },
-              {
-                "id": "26c82695bfd12dda",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {},
-                  "icon": "lucide-bookmark",
-                  "title": "Bookmarks"
-                }
-              }
-            ]
-          },
-          {
-            "id": "f340046a713a91df",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1223c0f85c541969",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "02-Atomic/1732018095 - The network link layer.md"
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline of 1732018095 - The network link layer"
-                }
-              },
-              {
-                "id": "b89f836cb1d8a8cd",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Files"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 279.5,
-        "collapsed": true
-      },
-      "right": {
-        "id": "8881aa8c79e29157",
-        "type": "split",
-        "children": [
-          {
-            "id": "5997a5c0c99a8696",
-            "type": "tabs",
-            "dimension": 63.45609065155807,
-            "children": [
-              {
-                "id": "2dca472e18c0e06a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01-Areas/1.UC3M/Networks.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Networks"
-                }
-              }
-            ]
-          },
-          {
-            "id": "d8523f2fbc4e9acf",
-            "type": "tabs",
-            "dimension": 36.54390934844192,
-            "children": [
-              {
-                "id": "1087055cabadd75b",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 462,
-        "collapsed": true
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "janitor:Janitor: scan vault": false,
-          "zk-prefixer:Create new unique note": true,
-          "switcher:Open quick switcher": true,
-          "canvas:Create new canvas": true,
-          "templates:Insert template": true,
-          "command-palette:Open command palette": true,
-          "obsidian-spaced-repetition:Review flashcards": true,
-          "templater-obsidian:Templater": true,
-          "omnisearch:Omnisearch": false,
-          "graph:Open graph view": false,
-          "workspaces:Manage workspace layouts": false
-        }
-      },
-      "active": "b0b1ba4ee2a29591",
-      "mtime": "2024-12-11T10:07:27+01:00"
+      "active": "0931286eab789398",
+      "mtime": "2025-01-11T19:54:14+01:00"
     },
     "Empresa": {
       "main": {
@@ -1562,257 +1322,6 @@
       "active": "bd9e0200d49d0df4",
       "mtime": "2024-12-20T11:21:56+01:00"
     },
-    "Net-Routers": {
-      "main": {
-        "id": "17d7a5216cd24ae3",
-        "type": "split",
-        "children": [
-          {
-            "id": "4578600667039acb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3011014efc3155f1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732043831 - Practica - Routers - 2.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732043831 - Practica - Routers - 2"
-                }
-              },
-              {
-                "id": "fbfdf04edad8fe4e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732043763 - Practica - Routers - 1.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732043763 - Practica - Routers - 1"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "145a221e0e2d66f9",
-        "type": "split",
-        "children": [
-          {
-            "id": "662098e0d908b3e6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "36d1a43796975b90",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "02-Atomic/1731662455 - Practica - Routers.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#incomplete  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16711680
-                          }
-                        },
-                        {
-                          "query": "tag:#DiffCalc  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 8537055
-                          }
-                        },
-                        {
-                          "query": "tag:#Networks",
-                          "color": {
-                            "a": 1,
-                            "rgb": 11392604
-                          }
-                        },
-                        {
-                          "query": "tag:#Discrete  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6084188
-                          }
-                        },
-                        {
-                          "query": "tag:#Cripto",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6084269
-                          }
-                        },
-                        {
-                          "query": "tag:#Heuri  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6073814
-                          }
-                        },
-                        {
-                          "query": "tag:#Empresa  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16775199
-                          }
-                        },
-                        {
-                          "query": "tag:#CalcI  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14048348
-                          }
-                        }
-                      ],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 2.79537653688525,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 0.0242737249838606,
-                      "repelStrength": 15.3311814073596,
-                      "linkStrength": 0.47411233053583,
-                      "linkDistance": 52,
-                      "scale": 0.09229580869883151,
-                      "close": true
-                    }
-                  },
-                  "icon": "lucide-git-fork",
-                  "title": "Graph of 1731662455 - Practica - Routers"
-                }
-              }
-            ]
-          },
-          {
-            "id": "f340046a713a91df",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1223c0f85c541969",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "02-Atomic/1730648938 - Input port processing in routers.md"
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline of 1730827988 - Subnets"
-                }
-              },
-              {
-                "id": "b89f836cb1d8a8cd",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Files"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal",
-        "width": 246,
-        "collapsed": true
-      },
-      "right": {
-        "id": "8881aa8c79e29157",
-        "type": "split",
-        "children": [
-          {
-            "id": "5997a5c0c99a8696",
-            "type": "tabs",
-            "dimension": 63.45609065155807,
-            "children": [
-              {
-                "id": "2dca472e18c0e06a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01-Areas/1.UC3M/Networks.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Networks"
-                }
-              }
-            ]
-          },
-          {
-            "id": "d8523f2fbc4e9acf",
-            "type": "tabs",
-            "dimension": 36.54390934844192,
-            "children": [
-              {
-                "id": "1087055cabadd75b",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 395,
-        "collapsed": true
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "janitor:Janitor: scan vault": false,
-          "zk-prefixer:Create new unique note": true,
-          "switcher:Open quick switcher": true,
-          "canvas:Create new canvas": true,
-          "templates:Insert template": true,
-          "command-palette:Open command palette": true,
-          "obsidian-spaced-repetition:Review flashcards": true,
-          "templater-obsidian:Templater": true,
-          "omnisearch:Omnisearch": false,
-          "graph:Open graph view": false,
-          "workspaces:Manage workspace layouts": false
-        }
-      },
-      "active": "fbfdf04edad8fe4e",
-      "mtime": "2024-11-28T17:28:32+01:00"
-    },
     "Cripto": {
       "main": {
         "id": "17d7a5216cd24ae3",
@@ -1853,7 +1362,26 @@
                 }
               }
             ],
+            "currentTab": 1,
             "stacked": true
+          },
+          {
+            "id": "5dac9b5e5976752a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "af427af5f3b78f36",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "00-References/Cripto_Resources_EjerciciosTodos.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Cripto_Resources_EjerciciosTodos"
+                }
+              }
+            ]
           }
         ],
         "direction": "vertical"
@@ -2060,698 +1588,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "03cb95ef55f57c7a",
-      "mtime": "2024-11-15T18:06:20+01:00"
-    },
-    "Net-Net": {
-      "main": {
-        "id": "17d7a5216cd24ae3",
-        "type": "split",
-        "children": [
-          {
-            "id": "7c1616cc8d54bde6",
-            "type": "split",
-            "dimension": 49.38692098092643,
-            "children": [
-              {
-                "id": "3fba0475cebb59d0",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "50ae9f418d541bb7",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02-Atomic/1730648938 - Input port processing in routers.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "1730648938 - Input port processing in routers"
-                    }
-                  }
-                ],
-                "stacked": true
-              },
-              {
-                "id": "62bb77f775aa2aba",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "67ff0774fc5ca113",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02-Atomic/1730567097 - The network layer control plane.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "1730567097 - The network layer control plane"
-                    }
-                  },
-                  {
-                    "id": "cd9c85548ee1d5ac",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02-Atomic/1728386212 - The network layer.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "1728386212 - The network layer"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
-          },
-          {
-            "id": "6ff7eaf30bb7c36a",
-            "type": "tabs",
-            "dimension": 50.61307901907357,
-            "children": [
-              {
-                "id": "6382853dda7bb417",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00-References/Net_Biblio_Kurose.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Net_Biblio_Kurose"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "145a221e0e2d66f9",
-        "type": "split",
-        "children": [
-          {
-            "id": "662098e0d908b3e6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "36d1a43796975b90",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "00-References/Net_Biblio_Kurose.pdf",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#incomplete  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16711680
-                          }
-                        },
-                        {
-                          "query": "tag:#DiffCalc  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 8537055
-                          }
-                        },
-                        {
-                          "query": "tag:#Networks",
-                          "color": {
-                            "a": 1,
-                            "rgb": 11392604
-                          }
-                        },
-                        {
-                          "query": "tag:#Discrete  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6084188
-                          }
-                        },
-                        {
-                          "query": "tag:#Cripto",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6084269
-                          }
-                        },
-                        {
-                          "query": "tag:#Heuri  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6073814
-                          }
-                        },
-                        {
-                          "query": "tag:#Empresa  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16775199
-                          }
-                        },
-                        {
-                          "query": "tag:#CalcI  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14048348
-                          }
-                        }
-                      ],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 2.79537653688525,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 0.0242737249838606,
-                      "repelStrength": 15.3311814073596,
-                      "linkStrength": 0.47411233053583,
-                      "linkDistance": 52,
-                      "scale": 0.07043488449702007,
-                      "close": true
-                    }
-                  },
-                  "icon": "lucide-git-fork",
-                  "title": "Graph of Net_Biblio_Kurose"
-                }
-              }
-            ]
-          },
-          {
-            "id": "f340046a713a91df",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1223c0f85c541969",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "00-References/Net_Biblio_Kurose.pdf"
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline of Net_Biblio_Kurose"
-                }
-              },
-              {
-                "id": "b89f836cb1d8a8cd",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Files"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 246
-      },
-      "right": {
-        "id": "8881aa8c79e29157",
-        "type": "split",
-        "children": [
-          {
-            "id": "5997a5c0c99a8696",
-            "type": "tabs",
-            "dimension": 63.45609065155807,
-            "children": [
-              {
-                "id": "2dca472e18c0e06a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1728386212 - The network layer.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1728386212 - The network layer"
-                }
-              }
-            ]
-          },
-          {
-            "id": "d8523f2fbc4e9acf",
-            "type": "tabs",
-            "dimension": 36.54390934844192,
-            "children": [
-              {
-                "id": "1087055cabadd75b",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 395
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "janitor:Janitor: scan vault": false,
-          "zk-prefixer:Create new unique note": true,
-          "switcher:Open quick switcher": true,
-          "canvas:Create new canvas": true,
-          "templates:Insert template": true,
-          "command-palette:Open command palette": true,
-          "obsidian-spaced-repetition:Review flashcards": true,
-          "templater-obsidian:Templater": true,
-          "omnisearch:Omnisearch": false,
-          "graph:Open graph view": false,
-          "workspaces:Manage workspace layouts": false
-        }
-      },
-      "active": "6382853dda7bb417",
-      "mtime": "2024-11-19T13:07:42+01:00"
-    },
-    "Plan de empresa": {
-      "main": {
-        "id": "17d7a5216cd24ae3",
-        "type": "split",
-        "children": [
-          {
-            "id": "cfc607d3325fb0fa",
-            "type": "tabs",
-            "dimension": 48.20038910505836,
-            "children": [
-              {
-                "id": "0053b91f7de10121",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732217639 - Practica - Plan de Empresa - 1.Inventar una empresa"
-                }
-              },
-              {
-                "id": "77006f10992dd9b2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732217706 - Practica - Plan de Empresa - 2.Analisis del sector.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732217706 - Practica - Plan de Empresa - 2.Analisis del sector"
-                }
-              },
-              {
-                "id": "3416a40cdbaa2777",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732217814 - Practica - Plan de Empresa - 3.Definir la empresa.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732217814 - Practica - Plan de Empresa - 3.Definir la empresa"
-                }
-              },
-              {
-                "id": "ad3c76f5e361b54d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732621572 - Practica - Plan de Empresa - 5.Plan de marketing.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732621572 - Practica - Plan de Empresa - 5.Plan de marketing"
-                }
-              },
-              {
-                "id": "322b94cd15d6c90e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1728936738 - Sistemas de produccion en masa.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1728936738 - Sistemas de produccion en masa"
-                }
-              },
-              {
-                "id": "cde1b0648b9d3f4f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1727709332 - Estrategias corporativas de la empresa.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1727709332 - Estrategias corporativas de la empresa"
-                }
-              },
-              {
-                "id": "07893856d16c26d4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732721937 - Gastos.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732721937 - Gastos"
-                }
-              }
-            ],
-            "currentTab": 6
-          },
-          {
-            "id": "3fba0475cebb59d0",
-            "type": "tabs",
-            "dimension": 51.79961089494164,
-            "children": [
-              {
-                "id": "921c8372dd03272b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1731438416 - Marketing estratégico.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1731438416 - Marketing estratégico"
-                }
-              },
-              {
-                "id": "b0a69722b35ebc6b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732633633 - MarketingMix - Producto.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732633633 - MarketingMix - Producto"
-                }
-              },
-              {
-                "id": "f90fee14a45a9e6c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732633799 - MarketingMix - Distribucion.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732633799 - MarketingMix - Distribucion"
-                }
-              },
-              {
-                "id": "eb9735b0551cdd86",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Atomic/1732648928 - MarketingMix - Comunicacion.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1732648928 - MarketingMix - Comunicacion"
-                }
-              }
-            ],
-            "stacked": true
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "145a221e0e2d66f9",
-        "type": "split",
-        "children": [
-          {
-            "id": "662098e0d908b3e6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "36d1a43796975b90",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "02-Atomic/1732721937 - Gastos.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#incomplete  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16711680
-                          }
-                        },
-                        {
-                          "query": "tag:#DiffCalc  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 8537055
-                          }
-                        },
-                        {
-                          "query": "tag:#Networks",
-                          "color": {
-                            "a": 1,
-                            "rgb": 11392604
-                          }
-                        },
-                        {
-                          "query": "tag:#Discrete  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6084188
-                          }
-                        },
-                        {
-                          "query": "tag:#Cripto",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6084269
-                          }
-                        },
-                        {
-                          "query": "tag:#Heuri  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6073814
-                          }
-                        },
-                        {
-                          "query": "tag:#Empresa  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16775199
-                          }
-                        },
-                        {
-                          "query": "tag:#CalcI  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14048348
-                          }
-                        }
-                      ],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 2.79537653688525,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 0.0242737249838606,
-                      "repelStrength": 15.3311814073596,
-                      "linkStrength": 0.47411233053583,
-                      "linkDistance": 52,
-                      "scale": 0.07043488449702007,
-                      "close": true
-                    }
-                  },
-                  "icon": "lucide-git-fork",
-                  "title": "Graph of 1732721937 - Gastos"
-                }
-              }
-            ]
-          },
-          {
-            "id": "f340046a713a91df",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1223c0f85c541969",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "02-Atomic/1732721937 - Gastos.md"
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline of 1732721937 - Gastos"
-                }
-              },
-              {
-                "id": "b89f836cb1d8a8cd",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Files"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 246,
-        "collapsed": true
-      },
-      "right": {
-        "id": "8881aa8c79e29157",
-        "type": "split",
-        "children": [
-          {
-            "id": "5997a5c0c99a8696",
-            "type": "tabs",
-            "dimension": 63.45609065155807,
-            "children": [
-              {
-                "id": "2dca472e18c0e06a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01-Areas/1.UC3M/Empresa.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Empresa"
-                }
-              }
-            ]
-          },
-          {
-            "id": "d8523f2fbc4e9acf",
-            "type": "tabs",
-            "dimension": 36.54390934844192,
-            "children": [
-              {
-                "id": "1087055cabadd75b",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 418,
-        "collapsed": true
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "janitor:Janitor: scan vault": false,
-          "zk-prefixer:Create new unique note": true,
-          "switcher:Open quick switcher": true,
-          "canvas:Create new canvas": true,
-          "templates:Insert template": true,
-          "command-palette:Open command palette": true,
-          "obsidian-spaced-repetition:Review flashcards": true,
-          "templater-obsidian:Templater": true,
-          "omnisearch:Omnisearch": false,
-          "graph:Open graph view": false,
-          "workspaces:Manage workspace layouts": false
-        }
-      },
-      "active": "07893856d16c26d4",
-      "mtime": "2024-11-28T16:14:09+01:00"
+      "active": "af427af5f3b78f36",
+      "mtime": "2025-01-11T19:59:27+01:00"
     },
     "Movilidad": {
       "main": {
@@ -3134,7 +1972,276 @@
       },
       "active": "c5b902d630da931a",
       "mtime": "2024-12-20T16:16:00+01:00"
+    },
+    "Cripto-Ejercicios": {
+      "main": {
+        "id": "17d7a5216cd24ae3",
+        "type": "split",
+        "children": [
+          {
+            "id": "3fba0475cebb59d0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "03cb95ef55f57c7a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1731681118 - Firma digital.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1731681118 - Firma digital"
+                }
+              },
+              {
+                "id": "29876d6dba11b107",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1731682077 - Algorithm - RSA.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1731682077 - Algorithm - RSA"
+                }
+              }
+            ],
+            "currentTab": 1,
+            "stacked": true
+          },
+          {
+            "id": "5dac9b5e5976752a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "af427af5f3b78f36",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "00-References/Cripto_Resources_EjerciciosTodos.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Cripto_Resources_EjerciciosTodos"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "145a221e0e2d66f9",
+        "type": "split",
+        "children": [
+          {
+            "id": "662098e0d908b3e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "36d1a43796975b90",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "02-Atomic/1731662455 - Practica - Routers.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#incomplete  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16711680
+                          }
+                        },
+                        {
+                          "query": "tag:#DiffCalc  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 8537055
+                          }
+                        },
+                        {
+                          "query": "tag:#Networks",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11392604
+                          }
+                        },
+                        {
+                          "query": "tag:#Discrete  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084188
+                          }
+                        },
+                        {
+                          "query": "tag:#Cripto",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084269
+                          }
+                        },
+                        {
+                          "query": "tag:#Heuri  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6073814
+                          }
+                        },
+                        {
+                          "query": "tag:#Empresa  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16775199
+                          }
+                        },
+                        {
+                          "query": "tag:#CalcI  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 2.79537653688525,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.0242737249838606,
+                      "repelStrength": 15.3311814073596,
+                      "linkStrength": 0.47411233053583,
+                      "linkDistance": 52,
+                      "scale": 0.09229580869883151,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of 1731662455 - Practica - Routers"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f340046a713a91df",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1223c0f85c541969",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02-Atomic/1730648938 - Input port processing in routers.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 1730827988 - Subnets"
+                }
+              },
+              {
+                "id": "b89f836cb1d8a8cd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 246,
+        "collapsed": true
+      },
+      "right": {
+        "id": "8881aa8c79e29157",
+        "type": "split",
+        "children": [
+          {
+            "id": "5997a5c0c99a8696",
+            "type": "tabs",
+            "dimension": 63.45609065155807,
+            "children": [
+              {
+                "id": "2dca472e18c0e06a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Areas/1.UC3M/Cripto.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cripto"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d8523f2fbc4e9acf",
+            "type": "tabs",
+            "dimension": 36.54390934844192,
+            "children": [
+              {
+                "id": "1087055cabadd75b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "janitor:Janitor: scan vault": false,
+          "zk-prefixer:Create new unique note": true,
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-spaced-repetition:Review flashcards": true,
+          "templater-obsidian:Templater": true,
+          "omnisearch:Omnisearch": false,
+          "graph:Open graph view": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "af427af5f3b78f36",
+      "mtime": "2025-01-11T19:59:40+01:00"
     }
   },
-  "active": "Heuri"
+  "active": "Cripto"
 }
