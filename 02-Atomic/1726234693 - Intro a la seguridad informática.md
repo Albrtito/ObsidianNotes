@@ -15,7 +15,11 @@ sr-ease: 210
 ## Objetivos de seguridad:
 Los objetivos de seguridad se dividen en lo que llamamos la **triada CIA**: (CIA Triad)
 ![[Screenshot 2024-09-16 at 3.12.04 PM.png]]
-+ ==Confidencialidad==
++ **Confidencialidad**: Conseguir que los datos se mantengan **secretos y privados**
++ **Integridad:** Los datos han de estar **libres de alteraciones**
++ **Aviabilidad:** Recursos tienen que estar siembre al alcance del usuario que los necesite. Hacer que algo deje de funcionar sería una rotura de este sistema.(Ataque DDOS)
++ **Autenticación:**
++ **No repudio:**
 **Remarks:**
  + Estos objetivos se han de cumplir en cualquier proyecto
 + El objetivo se satisface a través de servicios. A su vez, el servicio cumple con la implementación de un mecanismo.
@@ -38,5 +42,5 @@ Según cuando se utilizan las medidas de protección, las dividimos en tres grup
 **Según el tipo:**
 + Medidas **físicas**: Hay que **proteger el hardware** ademas del software. 
 + **Técnicas**/Software: **Cifrados**
-+ ==**Administrativas**:== 
++ **Administrativas**: 
 + **Legales**: **Medidas aplicadas en la ley**. En España tenemos la LOPD (Ley Orgánica de Protección de Datos)

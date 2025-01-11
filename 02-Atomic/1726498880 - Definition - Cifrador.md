@@ -39,20 +39,13 @@ $$
 K = \{k_1,k_2,...\}
 $$
 + **Familia de transformaciones de cifrado:** posibles transformaciones a realizar, utilizando una clave, a un mensaje para cifrarlo. 
-==$$==
-==e_k : m \rightarrow c==
-==$$==
-+ **familia de transformaciones de descifrado:** posibles transformaciones a realizar, utilizando una clave, a un mensaje para **descifrarlo**==
+==$$
+e_k : m \rightarrow c
+$$==
++ **familia de transformaciones de descifrado:** posibles transformaciones a realizar, utilizando una clave, a un mensaje para **descifrarlo**
 $$
 D_k: C \rightarrow M
 $$
 	+ Del cifrado(C) se obtiene el mensaje (M)
 
 Para considerar un sistema de cifrado como válido, Kerckhoff propuso los [[1726519620 - Principios de Kerckhoff|Principios de Kerckhoff]]. 
-
-
-0 0 0 0 0 1 0 1 0 0 1 1 1 0 1 1  
-0 1 1 1 0 0 1 0 1 1 1 1 0 0 0 1  
-0 1 0 0 1 1 0 1 0 0 1 0 1 0 1 1  
-1 0 1 0 1 0 1 1 1 0 1 0 0 1 1 0  
-0 1 1 0 1 1 1 0 0 0 1 1 1 0 1 0
