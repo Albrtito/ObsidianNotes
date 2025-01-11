@@ -22,13 +22,11 @@ cssclasses:
 > [!BUG] Problema: Colisiones 
 > Al ser el espacio de mensajes mucho mayor al espacio  
 
-#Duda: Pq no utilizar un segundo factor (como la fehca de cración de la contraseña) para hacer la función resumen mucho más única
-#Duda: Utiliza todo el mundo la misma función hash? Sino no es el tipo de función usada en si también parte de la seguridad?
 ## Pseudoaleatoriedad
 Las funciones hash han de cumplir las siguientes propiedades de **pseudoaleatoriedad basadas en [[1726507033 - Entropía y aleatoriedad|Entropía y aleatoriedad en criptografía]]**
 
 + **Difusión:** Cambio de 1 bit cambia al menos el 50%
-+ **Determinista:**
++ **Determinista:*
 + **Eficiencia:**
 
 ## Resistencia a preimagen:
@@ -39,9 +37,8 @@ Se debe de poder ir solo en una dirección de la función. No se debe de poder e
 ## Resistencia a segunda preimagen:
 **namely:** Resistencia debil a colisiones
 
-No debe de poder haber **dos mensajes con el mismo resumen**, DADO UN MENSAJE M inicial
-**Remark:**
-+ La diferencia con la siguiente propiedad está en esta última parte, tenemos un mensaje y queremos encontrar otro con el mismo resumen.
+No debe de poder haber **dos mensajes con el mismo resumen**.
+
 
 ## Resistente a colisiones:
 Es imposible encontrar **dos mensajes de nuestra elección** que tengan el mismo hash.
@@ -58,6 +55,9 @@ Las probabilidades de encontrar colisiones usando distintos ataques de fuerza br
 1. **Preimagen:** $1\over 2^n$
 2. **Segunda preimagen:** $1\over2^n$ 
 3. **Ataque de colisión:** $1\over 2^{n/2}$ → Ataque del cumpleaños
+
+Siendo n la longitud del hash.
+
 
 **Remark:**
 Como la manera más facil de atacar va a ser el ataque por colisión, esta propiedad es la que **marca como de seguro es el sistema**

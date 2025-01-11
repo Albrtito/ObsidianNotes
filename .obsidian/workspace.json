@@ -118,17 +118,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1727808685 - ByteSub.md",
+                "file": "02-Atomic/1726493246 - Algorithm - AES.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1727808685 - ByteSub"
+              "title": "1726493246 - Algorithm - AES"
+            }
+          },
+          {
+            "id": "6f76b57d8d1ee200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1727808813 - MixColumns.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1727808813 - MixColumns"
+            }
+          },
+          {
+            "id": "c4249727510c8791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1727808777 - ShiftRow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1727808777 - ShiftRow"
+            }
+          },
+          {
+            "id": "aaaf56390103e05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1728307154 - Funciones hash.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1728307154 - Funciones hash"
             }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 10,
         "stacked": true
       }
     ],
@@ -148,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1727808685 - ByteSub.md",
+                "file": "02-Atomic/1728307154 - Funciones hash.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -233,7 +278,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1727808685 - ByteSub"
+              "title": "Graph of 1728307154 - Funciones hash"
             }
           }
         ]
@@ -336,9 +381,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8e2895e11966169d",
+  "active": "aaaf56390103e05e",
   "lastOpenFiles": [
+    "02-Atomic/1726234693 - Intro a la seguridad informática.md",
+    "02-Atomic/1728307154 - Funciones hash.md",
     "02-Atomic/1726493246 - Algorithm - AES.md",
+    "02-Atomic/1727808813 - MixColumns.md",
+    "02-Atomic/1727808777 - ShiftRow.md",
+    "1727808685 - ByteSub.md",
+    "02-Atomic/1727808685 - ByteSub.md",
     "02-Atomic/1727808655 - AddRoundKey.md",
     "02-Atomic/1727808593 - Cifradores de bloque.md",
     "02-Atomic/1726520589 - Definition - Criptosistema.md",
@@ -349,7 +400,6 @@
     "02-Atomic/1726519620 - Principios de Kerckhoff.md",
     "02-Atomic/1726498880 - Definition - Cifrador.md",
     "02-Atomic/1726498694 - Definition - Criptografía.md",
-    "02-Atomic/1726234693 - Intro a la seguridad informática.md",
     "02-Atomic/1731681118 - Firma digital.md",
     "02-Atomic/1731682077 - Algorithm - RSA.md",
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
@@ -361,12 +411,7 @@
     "02-Atomic/20240702 - 132355 - Host discovery with Nmap.md",
     "02-Atomic/20240701 - 181920 - Nmap.md",
     "00-References/Heuri_Resources_Problemas.pdf",
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
-    "02-Atomic/1727270318 - Forma canónica.md",
     "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
-    "02-Atomic/1727270366 - Forma estandar.md",
-    "02-Atomic/1726759457 - Programación Lineal.md",
-    "02-Atomic/1733926515 - Programacion dinamica.md",
     "99-Meta/0. Attachments/1727968107 - Expresiones condicionales en programación linealj.png",
     "99-Meta/0. Attachments/1729598277 - Cuenta de resultadosj-1.png",
     "99-Meta/0. Attachments/1729598149 - Balance de situacionj.png",

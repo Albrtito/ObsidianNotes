@@ -2072,6 +2072,10 @@ aRT
 aWL
 aCx
 aOhY
+alteraciones
+alteraci
+actuaciones
+acto
 Creaci
 Crear
 Cuando
@@ -7904,6 +7908,7 @@ mcz
 mkFT
 mer
 mLS
+mantengan
 en
 ease
 es
@@ -9980,6 +9985,8 @@ eCQ
 ecZy
 eUsY
 ewaA
+estso
+echar
 programaci
 primer
 paso
@@ -15692,6 +15699,7 @@ tUO
 tdAG
 tUt
 tNz
+trazadas
 review
 resolver
 realizar
@@ -17636,6 +17644,7 @@ rqf
 rLBiI
 riN
 rsg
+rotura
 References
 Resoluci
 Rectas
@@ -21618,6 +21627,8 @@ cfuc
 ciu
 ceyD
 cRL
+cogen
+culpa
 sr
 se
 subproblemas
@@ -23691,6 +23702,8 @@ sü
 sAs
 sBY
 san
+secretos
+siembre
 interval
 importancia
 incorrecto
@@ -33902,6 +33915,7 @@ nKR
 nyAq
 ncl
 nbM
+necesite
 Identificar
 Intro
 Identificaci
@@ -37314,6 +37328,7 @@ DJN
 DRK
 DYz
 DVsRT
+DDOS
 funci
 fibonacci
 fica
@@ -40681,6 +40696,8 @@ ojt
 oPc
 oiZZ
 oHEv
+ocurrido
+ofuscaci
 que
 queremos
 qD
@@ -44072,6 +44089,7 @@ AIil
 AxN
 AfiGH
 AxH
+Aviabilidad
 Floyd
 Foundations
 Funci
