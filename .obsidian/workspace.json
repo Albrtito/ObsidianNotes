@@ -51,12 +51,15 @@
             "id": "af427af5f3b78f36",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00-References/Cripto_Resources_EjerciciosTodos.pdf"
+                "file": "02-Atomic/1726753991 - Criptosistemas clásicos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Cripto_Resources_EjerciciosTodos"
+              "icon": "lucide-file",
+              "title": "1726753991 - Criptosistemas clásicos"
             }
           }
         ]
@@ -269,8 +272,9 @@
   },
   "active": "af427af5f3b78f36",
   "lastOpenFiles": [
-    "02-Atomic/1728381448 - PRNGs.md",
+    "02-Atomic/1726496164 - Sustitución polialfabética periódica.md",
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
+    "02-Atomic/1728381448 - PRNGs.md",
     "02-Atomic/1728307154 - Funciones hash.md",
     "02-Atomic/1726493246 - Algorithm - AES.md",
     "02-Atomic/1726510122 - LFSR.md",
@@ -285,7 +289,6 @@
     "02-Atomic/1727808593 - Cifradores de bloque.md",
     "02-Atomic/1726520589 - Definition - Criptosistema.md",
     "02-Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
-    "02-Atomic/1726496164 - Sustitución polialfabética periódica.md",
     "02-Atomic/1726753991 - Criptosistemas clásicos.md",
     "02-Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
     "02-Atomic/1726519620 - Principios de Kerckhoff.md",
