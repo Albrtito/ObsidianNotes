@@ -13,137 +13,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1726234693 - Intro a la seguridad informática.md",
+                "file": "02-Atomic/1731681118 - Firma digital.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726234693 - Intro a la seguridad informática"
+              "title": "1731681118 - Firma digital"
             }
           },
           {
             "id": "29876d6dba11b107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726498694 - Definition - Criptografía.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726498694 - Definition - Criptografía"
-            }
-          },
-          {
-            "id": "776be8bc4b1a0ade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726498880 - Definition - Cifrador.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726498880 - Definition - Cifrador"
-            }
-          },
-          {
-            "id": "5aa930e938f17637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726519620 - Principios de Kerckhoff.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726519620 - Principios de Kerckhoff"
-            }
-          },
-          {
-            "id": "392cb1da44ad6e3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726520589 - Definition - Criptosistema.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726520589 - Definition - Criptosistema"
-            }
-          },
-          {
-            "id": "95b83d4cf403fe33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726753991 - Criptosistemas clásicos.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726753991 - Criptosistemas clásicos"
-            }
-          },
-          {
-            "id": "0c25bec4100fb62e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726497421 - Sustitución polialfabética no-periódica"
-            }
-          },
-          {
-            "id": "8e2895e11966169d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1726493246 - Algorithm - AES.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1726493246 - Algorithm - AES"
-            }
-          },
-          {
-            "id": "6f76b57d8d1ee200",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1727808813 - MixColumns.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1727808813 - MixColumns"
-            }
-          },
-          {
-            "id": "c4249727510c8791",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,25 +36,28 @@
               "icon": "lucide-file",
               "title": "1727808777 - ShiftRow"
             }
-          },
-          {
-            "id": "aaaf56390103e05e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1728307154 - Funciones hash.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1728307154 - Funciones hash"
-            }
           }
         ],
-        "currentTab": 10,
+        "currentTab": 1,
         "stacked": true
+      },
+      {
+        "id": "5dac9b5e5976752a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af427af5f3b78f36",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/Cripto_Resources_EjerciciosTodos.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Cripto_Resources_EjerciciosTodos"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1728307154 - Funciones hash.md",
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,12 +156,12 @@
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.038503975331436444,
+                  "scale": 0.09229580869883151,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1728307154 - Funciones hash"
+              "title": "Graph of 1731662455 - Practica - Routers"
             }
           }
         ]
@@ -316,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -363,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -381,13 +264,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36d1a43796975b90",
+  "active": "af427af5f3b78f36",
   "lastOpenFiles": [
-    "02-Atomic/1726234693 - Intro a la seguridad informática.md",
-    "02-Atomic/1728307154 - Funciones hash.md",
-    "02-Atomic/1726493246 - Algorithm - AES.md",
-    "02-Atomic/1727808813 - MixColumns.md",
     "02-Atomic/1727808777 - ShiftRow.md",
+    "02-Atomic/1726493246 - Algorithm - AES.md",
+    "02-Atomic/1731682077 - Algorithm - RSA.md",
+    "00-References/Cripto_Resources_EjerciciosTodos.pdf",
+    "02-Atomic/1728307154 - Funciones hash.md",
+    "02-Atomic/1726234693 - Intro a la seguridad informática.md",
+    "02-Atomic/1727808813 - MixColumns.md",
     "1727808685 - ByteSub.md",
     "02-Atomic/1727808685 - ByteSub.md",
     "02-Atomic/1727808655 - AddRoundKey.md",
@@ -401,15 +286,12 @@
     "02-Atomic/1726498880 - Definition - Cifrador.md",
     "02-Atomic/1726498694 - Definition - Criptografía.md",
     "02-Atomic/1731681118 - Firma digital.md",
-    "02-Atomic/1731682077 - Algorithm - RSA.md",
-    "00-References/Cripto_Resources_EjerciciosTodos.pdf",
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
     "02-Atomic/1727270270 - Method - Algorithm - SIMPLEX.md",
     "02-Atomic/1728047794 - Ejemplos SIMPLEX.md",
     "02-Atomic/1729087121 - Creación de informes en programación lineal.md",
     "02-Atomic/1726825216 - Programación Dinámica.md",
     "02-Atomic/20240702 - 132355 - Host discovery with Nmap.md",
-    "02-Atomic/20240701 - 181920 - Nmap.md",
     "00-References/Heuri_Resources_Problemas.pdf",
     "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "99-Meta/0. Attachments/1727968107 - Expresiones condicionales en programación linealj.png",

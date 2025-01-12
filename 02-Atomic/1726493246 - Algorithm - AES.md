@@ -9,7 +9,7 @@ cssclasses:
 ---
 # Algorithm - AES
 Implementa criptografía simétrica. Usa la tecnología de los [[1727808593 - Cifradores de bloque|Cifradores de bloque]]. 
-- Opera sobre bloques de 16 bytes (128 bytes)
+- Opera sobre bloques de 16 bytes (128 bits)
 
 Acepta tres longitudes de clave: 128, 192 (menos usado) y 256 bits. Se generar siempre subclaves o claves internas de 128 bits.**
 
@@ -26,10 +26,10 @@ La *Matriz Estado* se carga inicialmente con los bytes del bloque de entrada de 
 ## Esquema de propagación
 
 Hay un total de 10 rondas, sin contar la inicial. En ellas se ejecutan hasta cuatro funciones para cifrar. A la hora de descifrar, se usan las inversas de dichas funciones:
-- [[1727808655 - AddRoundKey|AddRoundKey]]: añadimos una clave de vuelta al estado
 - [[1727808685 - ByteSub|ByteSub]]: sustitución de un byte usando una *tabla S-Box*
 - [[1727808777 - ShiftRow|ShiftRow]]: desplazamiento de filas de un estado
 - [[1727808813 - MixColumns|MixColumns]]: mezcla de datos dentro de cada columna
+- [[1727808655 - AddRoundKey|AddRoundKey]]: añadimos una clave de vuelta al estado
 
 
 ## Operaciones con bytes
