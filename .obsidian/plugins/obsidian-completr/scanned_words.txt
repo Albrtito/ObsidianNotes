@@ -12072,6 +12072,7 @@ pnD
 pwib
 pKE
 pprF
+pital
 lineal
 la
 lo
@@ -55634,6 +55635,7 @@ Bky
 BuY
 BOZq
 BGI
+Bernoully
 Steven
 Skiena
 Serie
