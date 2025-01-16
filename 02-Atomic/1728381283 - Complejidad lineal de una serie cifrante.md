@@ -5,7 +5,7 @@ tags:
   - review
   - Cripto
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-17
 sr-interval: 42
 sr-ease: 230
