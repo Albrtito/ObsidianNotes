@@ -164,6 +164,33 @@
               "icon": "lucide-git-fork",
               "title": "Graph of 1731662455 - Practica - Routers"
             }
+          },
+          {
+            "id": "f711782e507bc62d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "387311d8b57452b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       },
@@ -226,8 +253,65 @@
               "icon": "lucide-file",
               "title": "Cripto"
             }
+          },
+          {
+            "id": "a1b24587277c8347",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-References/Cripto_Resources_EjerciciosTodos.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cripto_Resources_EjerciciosTodos"
+            }
+          },
+          {
+            "id": "fb91f9036a191da8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-References/Cripto_Resources_EjerciciosTodos.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cripto_Resources_EjerciciosTodos"
+            }
+          },
+          {
+            "id": "35bd53cd7a3e2639",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "82287dd79af01957",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -266,7 +350,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "af427af5f3b78f36",
+  "active": "82287dd79af01957",
   "lastOpenFiles": [
     "02-Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
