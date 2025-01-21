@@ -6,7 +6,6 @@
       {
         "id": "3fba0475cebb59d0",
         "type": "tabs",
-        "dimension": 19.900497512437813,
         "children": [
           {
             "id": "03cb95ef55f57c7a",
@@ -40,25 +39,6 @@
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "5dac9b5e5976752a",
-        "type": "tabs",
-        "dimension": 80.09950248756219,
-        "children": [
-          {
-            "id": "af427af5f3b78f36",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00-References/Cripto_Resources_EjerciciosTodos.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Cripto_Resources_EjerciciosTodos"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -260,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-References/Cripto_Resources_EjerciciosTodos.pdf",
+                "file": "02-Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +250,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cripto_Resources_EjerciciosTodos"
+              "title": "Backlinks for 1728381283 - Complejidad lineal de una serie cifrante"
             }
           },
           {
@@ -279,12 +259,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-References/Cripto_Resources_EjerciciosTodos.pdf",
+                "file": "02-Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cripto_Resources_EjerciciosTodos"
+              "title": "Outgoing links from 1728381283 - Complejidad lineal de una serie cifrante"
             }
           },
           {
@@ -350,10 +330,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "82287dd79af01957",
+  "active": "03cb95ef55f57c7a",
   "lastOpenFiles": [
-    "02-Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
+    "02-Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
     "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/20240616 - 155016 - Theorem - L'Hôpital-Bernoully rule.md",
     "02-Atomic/1728917414 - Orden gaussiano.md",
