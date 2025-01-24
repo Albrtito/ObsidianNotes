@@ -3956,6 +3956,7 @@ CDs
 CApR
 COOQ
 Ckh
+Camp
 de
 due
 dar
@@ -9987,6 +9988,7 @@ eUsY
 ewaA
 estso
 echar
+escultas
 programaci
 primer
 paso
@@ -12073,6 +12075,8 @@ pwib
 pKE
 pprF
 pital
+pudiendo
+prado
 lineal
 la
 lo
@@ -13830,6 +13834,7 @@ lfPs
 lFE
 lwc
 lbF
+lleida
 tags
 tres
 todos
@@ -15701,6 +15706,7 @@ tdAG
 tUt
 tNz
 trazadas
+tratada
 review
 resolver
 realizar
@@ -19340,6 +19346,9 @@ RqC
 RLS
 Rvi
 RÄ
+Recuperar
+Restauraci
+Refujio
 cssclasses
 correcto
 correcta
@@ -21630,6 +21639,9 @@ ceyD
 cRL
 cogen
 culpa
+caro
+cocinan
+comida
 sr
 se
 subproblemas
@@ -30642,6 +30654,7 @@ EbN
 EIj
 EfC
 EthS
+Entender
 vital
 variables
 vez
@@ -32291,6 +32304,8 @@ vKMe
 vHKq
 vsB
 vfp
+valle
+viv
 no
 nuestras
 ndar
@@ -37330,6 +37345,7 @@ DRK
 DYz
 DVsRT
 DDOS
+Dormir
 funci
 fibonacci
 fica
@@ -39081,6 +39097,7 @@ fQXB
 fyl
 fgfF
 fCr
+fuente
 objetivo
 obtener
 of
@@ -44091,6 +44108,8 @@ AxN
 AfiGH
 AxH
 Aviabilidad
+Agua
+Ave
 Floyd
 Foundations
 Funci
@@ -50541,6 +50560,9 @@ Tgi
 TyTiX
 TsLj
 TSI
+Tiendas
+Transporte
+Taxi
 grafo
 guardan
 global
@@ -55636,6 +55658,7 @@ BuY
 BOZq
 BGI
 Bernoully
+Barcelona
 Steven
 Skiena
 Serie
@@ -57416,6 +57439,8 @@ SNHx
 SajL
 ScJL
 Siendo
+Servicio
+Sort
 Manual
 Modelar
 Millones
@@ -59163,6 +59188,8 @@ MLibJ
 MLi
 MUF
 MCs
+Museo
+Marc
 Zivkovic
 Zo
 Zi
@@ -62304,6 +62331,7 @@ Lcr
 LeUG
 LOMn
 Lid
+Lleida
 bottom
 base
 brik
@@ -64041,6 +64069,8 @@ bUgVx
 bYnW
 bkf
 bzs
+barranco
+bastante
 Util
 Una
 UniZumo
@@ -68822,6 +68852,7 @@ OOp
 OtWs
 OXn
 Ogn
+Ocupado
 ximo
 xrL
 xFQ

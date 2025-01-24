@@ -282,12 +282,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c378e05491e9641b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -326,7 +336,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "18d1bfa202309170",
+  "active": "c378e05491e9641b",
   "lastOpenFiles": [
     "02-Atomic/1737463651 - Servicio en Lleida .md",
     "02-Atomic/1728917414 - Orden gaussiano.md",
