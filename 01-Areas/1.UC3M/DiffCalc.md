@@ -8,13 +8,33 @@ tags:
 cssclasses:
 ---
 # DiffCalc Course: 
-During this course the main focus will be on solving differential equations of different types and finding applications for them in some real world examples
-## Intro to the course: 
-+ [DiffCalc_Theory_Ch 0_Intro](../../02%20-%20Atomic/DiffCalc_Theory_Ch%200_Intro.md)
 
----
+> [!NOTE] Objetivo:
+>  
++ **Grupo:** (MAG) 89M
+	+ Reducidas: 89
++ **Coordinador:**
++ **Profesores y contactos:**
 
-## Course Program: 
+## Criterios de evaluación: 
++ **Continua:** 40%
+	+ 10% → First partial
+	+ 30% → Second partial
++ **Final:** 60%
+
+## Biblio:
+- Boyce, William E.. Elementary differential equations and boundary value problems . John Wiley & Sons,.
+- Simmons, George Finlay. Differential equations with applications and historical notes.. McGraw-Hill.
+- Zill, Dennis G.. Ecuaciones diferenciales con aplicaciones de modelado . International Thomson.
+
+![Recursos electrónicos](https://aplicaciones.uc3m.es/cpa/web/imagenes/ARROBA.gif)Electronic Resources *
+
+- Manuel Carretero, Luis L. Bonilla, Filippo Terragni, Segei Iakunin, Rocío Vega · Curse OCW-UC3M Applied Differential Calculus : [http://ocw.uc3m.es/matematicas/applied-differential-calculus](http://ocw.uc3m.es/matematicas/applied-differential-calculus)
+
+### Recursos online: Cursos UC3M DiffCalc
+https://ocw.uc3m.es/mod/page/view.php?id=3120
+[El curso de Filippo](https://ocw.uc3m.es/mod/page/view.php?id=3076)
+## Notas:
 1. [[20240208 - 000000 - Definition - Differential Equations|Differential Equations]]
 2. [[20240307 - 000000 - ODEs|ODEs]]
 5. [Systems of First-Order ODEs](../../02%20-%20Atomic/Systems%20of%20First-Order%20ODEs.md)
@@ -22,3 +42,11 @@ During this course the main focus will be on solving differential equations of d
 7. [[20240418 - 190338 - Fourier series|Fourier series]]
 9. [The Heat Conduction Eq.](../../02%20-%20Atomic/20240418%20-%20194138%20-%20The%20Heat%20Conduction%20Equation.md)
 10. [[20240507 - 153848 - The wave Equation|The wave equation]]
+
+## Ejercicios: 
+> Estan dentro de las propias notas
+
+**Collection of prev exams problems:**[DiffCalc_Exercises_All_ExamExercises](../00.References/DiffCalc_Exercises_All_ExamExercises.pdf)
+
+
+---

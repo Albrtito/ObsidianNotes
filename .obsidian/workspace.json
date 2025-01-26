@@ -11,30 +11,39 @@
             "id": "6b97c4432b4c2b29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "18d1bfa202309170",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1737463651 - Servicio en Lleida .md",
+                "file": "02-Atomic/Distribuidos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1737463651 - Servicio en Lleida"
+              "title": "Distribuidos"
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
+      },
+      {
+        "id": "13c1293e118b4540",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68b33fc7e63be378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Heuristica y Opti"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1731662455 - Practica - Routers.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,34 +147,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1731662455 - Practica - Routers"
-            }
-          },
-          {
-            "id": "f711782e507bc62d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "387311d8b57452b1",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Graph of Distribuidos"
             }
           }
         ]
@@ -203,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -221,83 +202,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Cripto.md",
+                "file": "01-Areas/1.UC3M/DiffCalc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cripto"
-            }
-          },
-          {
-            "id": "a1b24587277c8347",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02-Atomic/1737463651 - Servicio en Lleida .md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 1737463651 - Servicio en Lleida"
-            }
-          },
-          {
-            "id": "fb91f9036a191da8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02-Atomic/1737463651 - Servicio en Lleida .md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 1737463651 - Servicio en Lleida"
-            }
-          },
-          {
-            "id": "35bd53cd7a3e2639",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "82287dd79af01957",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c378e05491e9641b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "DiffCalc"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -318,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -336,13 +249,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c378e05491e9641b",
+  "active": "6b97c4432b4c2b29",
   "lastOpenFiles": [
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
+    "02-Atomic/Distribuidos.md",
+    "01-Areas/1.UC3M/DiffCalc.md",
+    "01-Areas/1.UC3M/Files&DB.md",
+    "02-Atomic/DiffCalc_Theory_Ch 0_Intro.md",
+    "02-Atomic/Introduction to Databases.md",
+    "02-Atomic/20240517 - 163856 - Files.md",
+    "02-Atomic/Creating and deleting Tables.md",
+    "02-Atomic/MySQL.md",
+    "02-Atomic/Create and select a database.md",
+    "01-Areas/1.UC3M/Cripto.md",
     "02-Atomic/1737463651 - Servicio en Lleida .md",
     "02-Atomic/1728917414 - Orden gaussiano.md",
     "02-Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/20240616 - 155016 - Theorem - L'Hôpital-Bernoully rule.md",
     "02-Atomic/1728919808 - Logaritmos discretos.md",
     "02-Atomic/1726510122 - LFSR.md",
@@ -355,16 +278,6 @@
     "02-Atomic/1727808777 - ShiftRow.md",
     "02-Atomic/1731681118 - Firma digital.md",
     "02-Atomic/1731682077 - Algorithm - RSA.md",
-    "02-Atomic/1726234693 - Intro a la seguridad informática.md",
-    "02-Atomic/1727808813 - MixColumns.md",
-    "02-Atomic/1727808685 - ByteSub.md",
-    "02-Atomic/1727808655 - AddRoundKey.md",
-    "02-Atomic/1727808593 - Cifradores de bloque.md",
-    "02-Atomic/1726520589 - Definition - Criptosistema.md",
-    "02-Atomic/1726497421 - Sustitución polialfabética no-periódica.md",
-    "02-Atomic/1726494310 - Sustitución monoalfabeto monográfica.md",
-    "02-Atomic/1726519620 - Principios de Kerckhoff.md",
-    "02-Atomic/1726498880 - Definition - Cifrador.md",
     "00-References/Heuri_Resources_Problemas.pdf",
     "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "99-Meta/0. Attachments/1727968107 - Expresiones condicionales en programación linealj.png",
