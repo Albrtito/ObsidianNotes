@@ -1,6 +1,7 @@
 ---
 aliases:
   - DB
+  - Files&DB
 tags:
   - FilesAndDB
 References: 

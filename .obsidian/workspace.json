@@ -4,37 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "10b0575a715cf807",
+        "id": "3fba0475cebb59d0",
         "type": "tabs",
         "children": [
           {
-            "id": "6b97c4432b4c2b29",
+            "id": "03cb95ef55f57c7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/DiffCalc.md",
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DiffCalc"
+              "title": "1731662455 - Practica - Routers"
             }
           },
           {
-            "id": "1648b34dd77b5b1b",
+            "id": "531ccf78f47e325b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1737921128 - IA.md",
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1737921128 - IA"
+              "title": "1731662455 - Practica - Routers"
             }
           }
         ],
@@ -58,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1737921128 - IA.md",
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +143,34 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1737921128 - IA"
+              "title": "Graph of 1731662455 - Practica - Routers"
+            }
+          },
+          {
+            "id": "a0fa9aed2a33cf5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c291bb5e0c9c7340",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -198,16 +225,73 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/DiffCalc.md",
+                "file": "01-Areas/1.UC3M/Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DiffCalc"
+              "title": "Networks"
+            }
+          },
+          {
+            "id": "d55a8694fb92ccd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1731662455 - Practica - Routers"
+            }
+          },
+          {
+            "id": "899cbf79ff0c432a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1731662455 - Practica - Routers"
+            }
+          },
+          {
+            "id": "f26a672fc4616b52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c32b3c7f608b1a52",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -245,20 +329,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1648b34dd77b5b1b",
+  "active": "c32b3c7f608b1a52",
   "lastOpenFiles": [
-    "02-Atomic/1737921128 - IA.md",
-    "01-Areas/1.UC3M/DiffCalc.md",
-    "02-Atomic/Distribuidos.md",
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
+    "02-Atomic/Filo 101.md",
     "01-Areas/1.UC3M/Files&DB.md",
-    "02-Atomic/DiffCalc_Theory_Ch 0_Intro.md",
-    "02-Atomic/Introduction to Databases.md",
+    "01-Areas/1.UC3M/Cripto.md",
     "02-Atomic/20240517 - 163856 - Files.md",
+    "02-Atomic/Introduction to Databases.md",
+    "02-Atomic/IA.md",
+    "02-Atomic/Distribuidos.md",
+    "01-Areas/1.UC3M/DiffCalc.md",
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
+    "02-Atomic/DiffCalc_Theory_Ch 0_Intro.md",
     "02-Atomic/Creating and deleting Tables.md",
     "02-Atomic/MySQL.md",
     "02-Atomic/Create and select a database.md",
-    "01-Areas/1.UC3M/Cripto.md",
     "02-Atomic/1737463651 - Servicio en Lleida .md",
     "02-Atomic/1728917414 - Orden gaussiano.md",
     "02-Atomic/1728381283 - Complejidad lineal de una serie cifrante.md",
@@ -273,7 +358,6 @@
     "02-Atomic/1726493246 - Algorithm - AES.md",
     "1727808685 - ByteSub.md",
     "02-Atomic/1727808777 - ShiftRow.md",
-    "02-Atomic/1731681118 - Firma digital.md",
     "00-References/Heuri_Resources_Problemas.pdf",
     "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "99-Meta/0. Attachments/1727968107 - Expresiones condicionales en programación linealj.png",

@@ -1719,13 +1719,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/Introduction to Databases.md",
+                    "file": "01-Areas/1.UC3M/Files&DB.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Introduction to Databases"
+                  "title": "Files&DB"
                 }
               }
             ],
@@ -1748,7 +1748,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "01-Areas/1.UC3M/Cripto.md",
+                    "file": "01-Areas/1.UC3M/Files&DB.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -1833,7 +1833,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Cripto"
+                  "title": "Graph of Files&DB"
                 }
               },
               {
@@ -1915,13 +1915,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01-Areas/1.UC3M/Cripto.md",
+                    "file": "01-Areas/1.UC3M/Files&DB.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Cripto"
+                  "title": "Files&DB"
                 }
               }
             ]
@@ -1962,8 +1962,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "2dca472e18c0e06a",
-      "mtime": "2025-01-26T13:01:41+01:00"
+      "active": "6b97c4432b4c2b29",
+      "mtime": "2025-01-26T20:57:06+01:00"
     },
     "DiffCalc": {
       "main": {
@@ -2431,7 +2431,502 @@
       },
       "active": "2dca472e18c0e06a",
       "mtime": "2025-01-26T20:51:40+01:00"
+    },
+    "IA": {
+      "main": {
+        "id": "17d7a5216cd24ae3",
+        "type": "split",
+        "children": [
+          {
+            "id": "10b0575a715cf807",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1648b34dd77b5b1b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/IA.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "IA"
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "145a221e0e2d66f9",
+        "type": "split",
+        "children": [
+          {
+            "id": "662098e0d908b3e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "36d1a43796975b90",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "02-Atomic/IA.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#incomplete  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16711680
+                          }
+                        },
+                        {
+                          "query": "tag:#DiffCalc  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 8537055
+                          }
+                        },
+                        {
+                          "query": "tag:#Networks",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11392604
+                          }
+                        },
+                        {
+                          "query": "tag:#Discrete  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084188
+                          }
+                        },
+                        {
+                          "query": "tag:#Cripto",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084269
+                          }
+                        },
+                        {
+                          "query": "tag:#Heuri  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6073814
+                          }
+                        },
+                        {
+                          "query": "tag:#Empresa  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16775199
+                          }
+                        },
+                        {
+                          "query": "tag:#CalcI  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 2.79537653688525,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.0242737249838606,
+                      "repelStrength": 15.3311814073596,
+                      "linkStrength": 0.47411233053583,
+                      "linkDistance": 52,
+                      "scale": 0.09229580869883151,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of IA"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f340046a713a91df",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1223c0f85c541969",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02-Atomic/1730648938 - Input port processing in routers.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 1730827988 - Subnets"
+                }
+              },
+              {
+                "id": "b89f836cb1d8a8cd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 246
+      },
+      "right": {
+        "id": "8881aa8c79e29157",
+        "type": "split",
+        "children": [
+          {
+            "id": "5997a5c0c99a8696",
+            "type": "tabs",
+            "dimension": 63.45609065155807,
+            "children": [
+              {
+                "id": "2dca472e18c0e06a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/IA.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "IA"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d8523f2fbc4e9acf",
+            "type": "tabs",
+            "dimension": 36.54390934844192,
+            "children": [
+              {
+                "id": "1087055cabadd75b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "janitor:Janitor: scan vault": false,
+          "zk-prefixer:Create new unique note": true,
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-spaced-repetition:Review flashcards": true,
+          "templater-obsidian:Templater": true,
+          "omnisearch:Omnisearch": false,
+          "graph:Open graph view": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "1648b34dd77b5b1b",
+      "mtime": "2025-01-26T20:53:54+01:00"
+    },
+    "Filo": {
+      "main": {
+        "id": "17d7a5216cd24ae3",
+        "type": "split",
+        "children": [
+          {
+            "id": "10b0575a715cf807",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6b97c4432b4c2b29",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/Filo 101.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Filo 101"
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "145a221e0e2d66f9",
+        "type": "split",
+        "children": [
+          {
+            "id": "662098e0d908b3e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "36d1a43796975b90",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "02-Atomic/Filo 101.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#incomplete  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16711680
+                          }
+                        },
+                        {
+                          "query": "tag:#DiffCalc  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 8537055
+                          }
+                        },
+                        {
+                          "query": "tag:#Networks",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11392604
+                          }
+                        },
+                        {
+                          "query": "tag:#Discrete  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084188
+                          }
+                        },
+                        {
+                          "query": "tag:#Cripto",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084269
+                          }
+                        },
+                        {
+                          "query": "tag:#Heuri  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6073814
+                          }
+                        },
+                        {
+                          "query": "tag:#Empresa  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16775199
+                          }
+                        },
+                        {
+                          "query": "tag:#CalcI  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 2.79537653688525,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.0242737249838606,
+                      "repelStrength": 15.3311814073596,
+                      "linkStrength": 0.47411233053583,
+                      "linkDistance": 52,
+                      "scale": 0.09229580869883151,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Filo 101"
+                }
+              },
+              {
+                "id": "f711782e507bc62d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "387311d8b57452b1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f340046a713a91df",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1223c0f85c541969",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02-Atomic/1730648938 - Input port processing in routers.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 1730827988 - Subnets"
+                }
+              },
+              {
+                "id": "b89f836cb1d8a8cd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 246
+      },
+      "right": {
+        "id": "8881aa8c79e29157",
+        "type": "split",
+        "children": [
+          {
+            "id": "5997a5c0c99a8696",
+            "type": "tabs",
+            "dimension": 63.45609065155807,
+            "children": [
+              {
+                "id": "2dca472e18c0e06a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/Filo 101.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Filo 101"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d8523f2fbc4e9acf",
+            "type": "tabs",
+            "dimension": 36.54390934844192,
+            "children": [
+              {
+                "id": "1087055cabadd75b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "janitor:Janitor: scan vault": false,
+          "zk-prefixer:Create new unique note": true,
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-spaced-repetition:Review flashcards": true,
+          "templater-obsidian:Templater": true,
+          "omnisearch:Omnisearch": false,
+          "graph:Open graph view": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "6b97c4432b4c2b29",
+      "mtime": "2025-01-26T21:00:48+01:00"
     }
   },
-  "active": "DiffCalc"
+  "active": "Main"
 }

@@ -11,8 +11,8 @@ cssclasses:
 > [!NOTE] Objetivo:
 > 
 
-+ **Grupo:** (MAG)
-	+ Reducido:
++ **Grupo:** (MAG) 84,85
+	+ Reducido: 85
 + **Coordinadora:**
 + **Profesores y contactos**
 
