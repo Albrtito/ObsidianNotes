@@ -19398,6 +19398,7 @@ Readable
 Read
 Restrictions
 Reducidas
+Reducido
 cssclasses
 correcto
 correcta

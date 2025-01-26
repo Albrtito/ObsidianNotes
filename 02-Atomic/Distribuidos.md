@@ -11,5 +11,20 @@ cssclasses:
 > [!NOTE] Objetivo:
 > 
 
-+ **Grupo:**
++ **Grupo:** (MAG)
+	+ Reducido:
++ **Coordinadora:**
++ **Profesores y contactos**
+
+## Evaluación:
++ **Continua:**
++ **Final:**
+
+## Biblio:
+
+## Notas:
+
+## Ejercicios:
+
+
 ***

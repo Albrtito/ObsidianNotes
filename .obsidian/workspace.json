@@ -13,37 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Distribuidos.md",
+                "file": "01-Areas/1.UC3M/DiffCalc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distribuidos"
+              "title": "DiffCalc"
             }
-          }
-        ]
-      },
-      {
-        "id": "13c1293e118b4540",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "68b33fc7e63be378",
+            "id": "1648b34dd77b5b1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "02-Atomic/1737921128 - IA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heuristica y Opti"
+              "title": "1737921128 - IA"
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -62,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/Distribuidos.md",
+                "file": "02-Atomic/1737921128 - IA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +143,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Distribuidos"
+              "title": "Graph of 1737921128 - IA"
             }
           }
         ]
@@ -249,11 +245,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b97c4432b4c2b29",
+  "active": "1648b34dd77b5b1b",
   "lastOpenFiles": [
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
-    "02-Atomic/Distribuidos.md",
+    "02-Atomic/1737921128 - IA.md",
     "01-Areas/1.UC3M/DiffCalc.md",
+    "02-Atomic/Distribuidos.md",
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "01-Areas/1.UC3M/Files&DB.md",
     "02-Atomic/DiffCalc_Theory_Ch 0_Intro.md",
     "02-Atomic/Introduction to Databases.md",
@@ -277,7 +274,6 @@
     "1727808685 - ByteSub.md",
     "02-Atomic/1727808777 - ShiftRow.md",
     "02-Atomic/1731681118 - Firma digital.md",
-    "02-Atomic/1731682077 - Algorithm - RSA.md",
     "00-References/Heuri_Resources_Problemas.pdf",
     "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
     "99-Meta/0. Attachments/1727968107 - Expresiones condicionales en programación linealj.png",
