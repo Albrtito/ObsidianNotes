@@ -12,9 +12,13 @@ cssclasses:
 > [!NOTE]  Objetivo:
 
 + **Grupo:** (MAG) 89M
-	* Reducidas: 89
+	+ Reducidas: 89
 + **Coordinador:** Francisco Javier, Calle Gomez
+	+ Oficina: 2.1.C.11
+	+ Mail: fcalle@inf.uc3m.es
 + **Profesores y contactos:** 
+	+ **Magistrales:** 
+	+ **Reducidas:**
 
 ## Criterios evaluación:
 + **Continua:** 50%
