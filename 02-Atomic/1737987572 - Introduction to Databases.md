@@ -50,10 +50,19 @@ What are we actually doing with the data once we get it into the database? The s
 + **Erase/Delete** 
 + **Retrieve/Queries:** Look at the data, check what there is stored
 ### Static vs Dynamic:
+The data and its organisation can change in time. We define the **data that varies in time as dynamic** while the **invariant data or fixed data is called static**
 
 
 ## Design: 
-Designing a database is, after all, creating the data model, with the semantics and syntax it conlleva.
+
+> [!NOTE] What is design?
+> Designing a database is, after all, creating the data model, with the semantics and syntax it conlleva.
+> + **Given some needs → Create the solution**
+
+Architecture of databases, three levels: 
++ **Internal level:**  What the admins see, **what is coded.**
++ **Conceptual level:** → Conceptual Schema (Semantics), what the designers see. **What is designed on paper.** 
++ **External level:** Whatever the **users** see
 
 
 
