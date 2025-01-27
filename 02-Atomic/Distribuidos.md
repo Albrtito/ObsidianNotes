@@ -27,12 +27,16 @@ cssclasses:
   + Por parte de [[Networks]]: [[1727428451 - Definition - TCP|TCP]], [[1730651695 - The Internet Protocol (IP)|IP]]
 ## Evaluación:
 > [!ATTENTION]
-> **NOTA MIN DE 4 EN TODO**
+> **NOTA MIN DE 4 EN TODO + ENTREGAR TODO**:
+> + Para ejercicios se hace media entre todos
+> + Suele flojear el primer ejercicio de programación: Darle el trabajo pq merece la pena paara los otros dos.
+> + El **diseño suele ser parte de los exámenes finales**
+
 
 + **Continua:** 80%
   Calendario de evaluación continua [aquí](https://aulaglobal.uc3m.es/pluginfile.php/7486279/mod_resource/content/16/planificacion-ssdd-2024_25-G84-85-86.pdf)
-	+ Ejercicios + programming projects: 40%
-	+ Lab project: 40%
+	+ 3 Ejercicios programación, 1 diseño: 40%
+	+ Práctica: 40%
 	 
 + **Final:** 20%
   Incluye conceptos teóricos y prácticos. 
