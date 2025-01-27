@@ -21,9 +21,25 @@ cssclasses:
 5. **Access type:** 
 
 ## Types of storage:
-Information can be saved in order to precess it or in order to store it (among others). 
+We can classify storage and therfore databases by purpose, type of data they store, data semantics…
+
+Based on **purpose** information can be saved in order to precess it or in order to store it (among others). 
 + **Inmediate storage:** Aimed for **processing**
 + **Long term storage:** Aimed for **storage**
+
+
+
+
+
+## Data operations: 
+What are we actually doing with the data once we get it into the database? The same basic operations repeat on all storing systems.
++ **Add**
++ **Edit**
++ **Erase/Delete** 
++ **Retrieve/Queries:** Look at the data, check what there is stored
+
+
+
 
 
 
