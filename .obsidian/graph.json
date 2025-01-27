@@ -90,6 +90,13 @@
         "a": 1,
         "rgb": 14048429
       }
+    },
+    {
+      "query": "tag:#Distri  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
     }
   ],
   "collapse-display": true,

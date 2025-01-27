@@ -9,14 +9,22 @@ cssclasses:
 # Distribuidos
 
 > [!NOTE] Objetivo:
-> 
+> Uso de **sockets, llamadas a procedimientos remotos, métodos remotos, servicios web, colas de mensajes**
+> Aprendizaje del despliege de servicios
+> Evaluación del rendimiento: Merece la pena distribuir? Tiene sentido?
 
 + **Grupo:** (MAG) 84,85
-	+ Reducido: 85 (86??)
+	+ Reducido: 86
 + **Coordinadora:** Felix, García Carballeira
 + **Profesores y contactos**:
-	+ 
-
+	+ **Magistrales:** Carlos Gomez: rgcarras@inf.uc3m.es
+	+ **Reducido**: Javier Prieto
+	+ Alejandro Calderón
+## Conceptos básicos: 
++ **Lenguajes de programación:** C y Python
++ **Conceptos básicos:** 
+  + Por parte de [[Operating Systems]]: [[20240411 - 131522 -Processes and threads|Processes and threads]], [[Concurrency]], [[20240504 - 162427 -POSIX|POSIX]]
+  + Por parte de [[Networks]]: [[1727428451 - Definition - TCP|TCP]], [[1730651695 - The Internet Protocol (IP)|IP]]
 ## Evaluación:
 > [!ATTENTION]
 > **NOTA MIN DE 4 EN TODO**

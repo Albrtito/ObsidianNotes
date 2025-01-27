@@ -3980,6 +3980,7 @@ CONSTRAINTS
 Constrains
 Characteristics
 Carballeira
+Calder
 de
 due
 dar
@@ -17720,6 +17721,7 @@ reduced
 realistically
 referential
 ricos
+rgcarras
 References
 Resoluci
 Rectas
@@ -44275,6 +44277,7 @@ ALL
 Attributes
 Anything
 Aimed
+Alejandro
 Floyd
 Foundations
 Funci
@@ -54300,6 +54303,7 @@ Pointed
 Protection
 Permanent
 Profesores
+Prieto
 Biblio
 BitsPerComponent
 BI

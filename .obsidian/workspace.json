@@ -41,7 +41,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/Distribuidos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -109,6 +108,13 @@
                         "a": 1,
                         "rgb": 14048348
                       }
+                    },
+                    {
+                      "query": "tag:#Distri  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6149724
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -126,7 +132,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Distribuidos"
+              "title": "Graph view"
             }
           }
         ]
@@ -228,8 +234,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2dca472e18c0e06a",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
+    "02-Atomic/Distribuidos.md",
     "02-Atomic/1737987572 - Introduction to Databases.md",
     "02-Atomic/Relational Model.md",
     "02-Atomic/Introduction to Databases.md",
@@ -237,7 +244,6 @@
     "02-Atomic/Filo 101.md",
     "02-Atomic/IA.md",
     "01-Areas/1.UC3M/DiffCalc.md",
-    "02-Atomic/Distribuidos.md",
     "02-Atomic/1731662455 - Practica - Routers.md",
     "01-Areas/1.UC3M/Cripto.md",
     "02-Atomic/20240517 - 163856 - Files.md",
