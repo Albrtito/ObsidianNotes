@@ -21,14 +21,22 @@ cssclasses:
 5. **Access type:** 
 
 ## Types of storage:
-We can classify storage and therfore databases by purpose, type of data they store, data semantics…
+We can classify storage and therfore databases by purpose, type of data they store, data semantics, data syntax…
 
 Based on **purpose** information can be saved in order to precess it or in order to store it (among others). 
 + **Inmediate storage:** Aimed for **processing**
 + **Long term storage:** Aimed for **storage**
 
+Defining the database with some **syntax and semantics** will create a **data model**. Based on these models we identify several types of databases.
++ **Serial organisation:** Elements that are similar, doesn’t matter if we take one or another
+  > bread in a bakery
+  
++ **Sequential organization:** For sorted elements. 
+	+ Search through a binary search
 
-
++ **Hasshing:** Know where everything exactly goes 
++ **Indexed organization:** Point to where elements are 
+	+ **We like this for databases**
 
 
 ## Data operations: 
@@ -37,7 +45,8 @@ What are we actually doing with the data once we get it into the database? The s
 + **Edit**
 + **Erase/Delete** 
 + **Retrieve/Queries:** Look at the data, check what there is stored
-
+### Static 
+These operations can be done 
 
 
 
