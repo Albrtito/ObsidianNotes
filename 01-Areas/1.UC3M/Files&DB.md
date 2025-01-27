@@ -13,12 +13,12 @@ cssclasses:
 
 + **Grupo:** (MAG) 89M
 	* Reducidas: 89
-+ **Coordinador:**
-+ **Profesores y contactos:**
++ **Coordinador:** Francisco Javier, Calle Gomez
++ **Profesores y contactos:** 
 
 ## Criterios evaluación:
-+ **Continua:**
-+ **Final:**
++ **Continua:** 50%
++ **Final:** 50%
 
 ## Biblio:
 
