@@ -38,6 +38,10 @@ Defining the database with some **syntax and semantics** will create a **data mo
 + **Indexed organization:** Point to where elements are 
 	+ **We like this for databases**
 
+Based on whether there is an actual data model or not we can say that the storage is:
++ **Structured:** Has a design, several types of data
++ **Non-Structured:** No design, only one type of data
++ **Semi-Structured:** Combination between the two → Metadata
 
 ## Data operations: 
 What are we actually doing with the data once we get it into the database? The same basic operations repeat on all storing systems.
@@ -45,8 +49,12 @@ What are we actually doing with the data once we get it into the database? The s
 + **Edit**
 + **Erase/Delete** 
 + **Retrieve/Queries:** Look at the data, check what there is stored
-### Static 
-These operations can be done 
+### Static vs Dynamic:
+
+
+## Design: 
+Designing a database is, after all, creating the data model, with the semantics and syntax it conlleva.
+
 
 
 
