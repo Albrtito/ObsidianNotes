@@ -13,7 +13,7 @@ cssclasses:
 >  
 + **Grupo:** (MAG) 89M
 	+ Reducidas: 89
-+ **Coordinador:**
++ **Coordinador:** Filippo, Terragni
 + **Profesores y contactos:**
 
 ## Criterios de evaluación: 
