@@ -1,9 +1,31 @@
 ---
-Date: 2024-02-25
+aliases:
+  - Introduction to Databases
 tags:
+  - incomplete
   - FilesAndDB
-"References:":
+References: 
+cssclasses:
 ---
+# Introduction to Databases
+
+> [!NOTE] Why databases: 
+>  Information is usefull
+
++ 
+## Characteristics of storage:
+1. **Perdurability:** How **long** the info will last
+2. **Capacity:** How **much** info it’ll contain
+3. **Speed:** How **long it’ll take** to access
+4. **Range:** From where and how many people will acces the info
+5. **Access type:** 
+
+
+
+
+
+
+***
 **Properties of storage:** 
 + Perdurability: For how long can be stored
 + Capacity: how much can be stored
@@ -45,7 +67,4 @@ There are types of analytic processing: **ROLAP, MOLAP, HOLAP, WOLAP...** during
 databases (relational databases) and MOLAP databases. 
 
 
-
----
-### Summary
-Highlight ==what’s important!==
+***

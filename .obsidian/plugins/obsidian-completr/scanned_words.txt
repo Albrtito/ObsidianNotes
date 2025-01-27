@@ -17694,6 +17694,7 @@ rotura
 retrieve
 relational
 restrictions
+reduced
 References
 Resoluci
 Rectas
@@ -35696,6 +35697,7 @@ Integrity
 Isolation
 Identifier
 Iakunin
+Inverted
 Definir
 Din
 Design
@@ -37448,6 +37450,7 @@ Deleting
 Dennis
 Distribuidos
 Distri
+Databases
 funci
 fibonacci
 fica
@@ -44221,6 +44224,7 @@ Atomicity
 Analytic
 Accessed
 Allocate
+Assignments
 Floyd
 Foundations
 Funci

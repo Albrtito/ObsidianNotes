@@ -25,7 +25,10 @@ cssclasses:
 	+ Guía orientativa de prácticas y continua: [aquí](https://aulaglobal.uc3m.es/pluginfile.php/7469759/mod_resource/content/0/chrono%20lab%20students.pdf)
 	+ Theory test: 10%
 	+ Practical exam: 15%
-	+ T
+		+ **Min:** 4
+	+ Assignments: 25%
+		+ **Min:** 2
+	+ **Inverted classes for reduced groups**
 + **Final:** 50%
 
 ## Biblio:
