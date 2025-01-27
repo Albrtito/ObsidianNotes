@@ -2082,6 +2082,8 @@ attributes
 attribute
 age
 aplicaciones
+assertion
+alternative
 Creaci
 Crear
 Cuando
@@ -3973,6 +3975,10 @@ Carretero
 Curse
 Cursos
 Calle
+Candidate
+CONSTRAINTS
+Constrains
+Characteristics
 de
 due
 dar
@@ -6014,6 +6020,8 @@ designers
 details
 downloading
 diferenciales
+discontinuously
+departing
 modelos
 modelo
 maximizar
@@ -7933,6 +7941,9 @@ mLS
 mantengan
 metadata
 mysql
+marked
+misunderstood
+maintain
 en
 ease
 es
@@ -10018,6 +10029,8 @@ effectiveness
 effect
 efficiently
 exam
+explains
+explicitly
 programaci
 primer
 paso
@@ -12111,6 +12124,10 @@ peripheral
 partitions
 password
 prev
+primary
+pointing
+people
+precess
 lineal
 la
 lo
@@ -13871,6 +13888,7 @@ lbF
 lleida
 locate
 levels
+logically
 tags
 tres
 todos
@@ -15746,6 +15764,7 @@ tratada
 translates
 transactions
 transaction
+told
 review
 resolver
 realizar
@@ -17695,6 +17714,8 @@ retrieve
 relational
 restrictions
 reduced
+realistically
+referential
 References
 Resoluci
 Rectas
@@ -19401,6 +19422,7 @@ Read
 Restrictions
 Reducidas
 Reducido
+Representation
 cssclasses
 correcto
 correcta
@@ -21700,6 +21722,9 @@ constrains
 committed
 calls
 contaco
+coverage
+comments
+candidate
 sr
 se
 subproblemas
@@ -23787,6 +23812,9 @@ storages
 sessions
 setup
 singular
+semantic
+superkey
+statement
 interval
 importancia
 incorrecto
@@ -25749,6 +25777,7 @@ icj
 interactivity
 interest
 installing
+intermediary
 un
 una
 utiliza
@@ -27365,6 +27394,9 @@ uniquely
 uncomfortable
 unsafe
 update
+univocally
+underlined
+usefull
 hora
 hacemos
 hacia
@@ -30742,6 +30774,8 @@ ExamExercises
 Elementary
 Ecuaciones
 Estan
+EXPLICIT
+Explicit
 vital
 variables
 vez
@@ -35698,6 +35732,9 @@ Isolation
 Identifier
 Iakunin
 Inverted
+IMPLICIT
+Implicit
+Inmediate
 Definir
 Din
 Design
@@ -37451,6 +37488,7 @@ Dennis
 Distribuidos
 Distri
 Databases
+Database
 funci
 fibonacci
 fica
@@ -39205,6 +39243,7 @@ fCr
 fuente
 focused
 fcalle
+foreign
 objetivo
 obtener
 of
@@ -40825,6 +40864,7 @@ ocurrido
 ofuscaci
 operation
 orientativa
+optional
 que
 queremos
 qD
@@ -44225,6 +44265,12 @@ Analytic
 Accessed
 Allocate
 Assignments
+Association
+Associations
+ALL
+Attributes
+Anything
+Aimed
 Floyd
 Foundations
 Funci
@@ -47403,6 +47449,7 @@ WtV
 WOLAP
 William
 Wiley
+Writing
 Heuri
 Hecho
 HyO
@@ -50693,6 +50740,7 @@ Things
 Transaction
 Thomson
 Terragni
+Taxonomy
 grafo
 guardan
 global
@@ -57588,6 +57636,10 @@ Showing
 Sons
 Simmons
 Segei
+SEPARE
+STATEMENT
+START
+Speed
 Manual
 Modelar
 Millones
@@ -59341,6 +59393,7 @@ Model
 MOLAP
 MAG
 Manuel
+Minimal
 Zivkovic
 Zo
 Zi
@@ -62488,6 +62541,8 @@ Logical
 Line
 Location
 Luis
+Linking
+Long
 bottom
 base
 brik
@@ -64231,6 +64286,7 @@ batching
 besides
 birthdate
 boundary
+bridging
 Util
 Una
 UniZumo
@@ -69018,6 +69074,8 @@ OLTP
 OLAP
 Organization
 Operations
+Optional
+Observed
 ximo
 xrL
 xFQ
@@ -83207,6 +83265,7 @@ jWg
 jeO
 jfV
 jFc
+junction
 wA
 wo
 wpMuB
@@ -84816,6 +84875,8 @@ wwwwwww
 wastes
 workbench
 writing
+worst
+wasn
 kL
 kMZ
 kC
@@ -86388,6 +86449,7 @@ klW
 kLsj
 ktQM
 kCm
+keys
 YUV
 YN
 Yt

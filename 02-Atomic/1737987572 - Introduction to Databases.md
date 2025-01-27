@@ -20,7 +20,10 @@ cssclasses:
 4. **Range:** From where and how many people will acces the info
 5. **Access type:** 
 
-
+## Types of storage:
+Information can be saved in order to precess it or in order to store it (among others). 
++ **Inmediate storage:** Aimed for **processing**
++ **Long term storage:** Aimed for **storage**
 
 
 
