@@ -12,12 +12,12 @@ cssclasses:
 > 
 + **Grupo:** (MAG) 88,89,121
 	+ Reducidas: 89
-+ **Coordinadora:**
-+ **Profesores y contactos:**
++ **Coordinadora:** Jose Manuel, Molina Lopez
++ **Profesores y contactos:** 
 
 ## Criterios evaluación:
-+ **Continua:**
-+ **Final:**
++ **Continua:** 40%
++ **Final:** 60%
 
 ## Biblio:
 
