@@ -190,10 +190,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
+                "file": "02-Atomic/1737987572 - Introduction to Databases.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730827988 - Subnets"
+              "title": "Outline of 1737987572 - Introduction to Databases"
             }
           },
           {
@@ -208,8 +208,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,7 +276,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "72d411c7df7c2395",
+  "active": "1223c0f85c541969",
   "lastOpenFiles": [
     "02-Atomic/Relational Model.md",
     "02-Atomic/1737987572 - Introduction to Databases.md",

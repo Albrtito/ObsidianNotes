@@ -64,6 +64,12 @@ Architecture of databases, three levels:
 + **Conceptual level:** → Conceptual Schema (Semantics), what the designers see. **What is designed on paper.** 
 + **External level:** Whatever the **users** see
 
+## Managing the databases: (DBMS)
+DMBS or Data Base Managing System are the systems that provide description, manipulation and utilization.  
++ **Description:** Creation of the model, the design. 
++ **Manipulation:** Edits on the model and operation of itself
++ **Utilization:** Support, Queries, API 
+
 
 
 
