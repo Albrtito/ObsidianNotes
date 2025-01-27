@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72d411c7df7c2395",
+            "id": "6b97c4432b4c2b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1737987572 - Introduction to Databases.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1737987572 - Introduction to Databases"
-            }
-          },
-          {
-            "id": "9409571279996a32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/Relational Model.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Relational Model"
+              "title": "Distribuidos"
             }
           }
         ]
@@ -56,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1737987572 - Introduction to Databases.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,13 +109,6 @@
                         "a": 1,
                         "rgb": 14048348
                       }
-                    },
-                    {
-                      "query": "tag:#FilesAndDB  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048429
-                      }
                     }
                   ],
                   "collapse-display": true,
@@ -148,34 +126,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1737987572 - Introduction to Databases"
-            }
-          },
-          {
-            "id": "f711782e507bc62d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "387311d8b57452b1",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Graph of Distribuidos"
             }
           }
         ]
@@ -190,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1737987572 - Introduction to Databases.md"
+                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1737987572 - Introduction to Databases"
+              "title": "Outline of 1730827988 - Subnets"
             }
           },
           {
@@ -208,7 +159,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,13 +181,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Files&DB.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Files&DB"
+              "title": "Distribuidos"
             }
           }
         ]
@@ -276,10 +228,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1223c0f85c541969",
+  "active": "2dca472e18c0e06a",
   "lastOpenFiles": [
-    "02-Atomic/Relational Model.md",
     "02-Atomic/1737987572 - Introduction to Databases.md",
+    "02-Atomic/Relational Model.md",
     "02-Atomic/Introduction to Databases.md",
     "01-Areas/1.UC3M/Files&DB.md",
     "02-Atomic/Filo 101.md",
