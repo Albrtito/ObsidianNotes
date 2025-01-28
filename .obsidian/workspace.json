@@ -21,21 +21,6 @@
               "icon": "lucide-file",
               "title": "Advanced Excel"
             }
-          },
-          {
-            "id": "531ccf78f47e325b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1731662455 - Practica - Routers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1731662455 - Practica - Routers"
-            }
           }
         ],
         "stacked": true
@@ -57,7 +42,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/Advanced Excel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +126,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Advanced Excel"
+              "title": "Graph view"
             }
           }
         ]
@@ -245,10 +229,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "03cb95ef55f57c7a",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
-    "02-Atomic/1731662455 - Practica - Routers.md",
     "02-Atomic/Advanced Excel.md",
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
+    "02-Atomic/1731662455 - Practica - Routers.md",
     "01-Areas/1.UC3M/Networks.md",
     "02-Atomic/Distribuidos.md",
     "02-Atomic/1737987572 - Introduction to Databases.md",
@@ -260,7 +245,6 @@
     "01-Areas/1.UC3M/DiffCalc.md",
     "01-Areas/1.UC3M/Cripto.md",
     "02-Atomic/20240517 - 163856 - Files.md",
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/DiffCalc_Theory_Ch 0_Intro.md",
     "02-Atomic/Creating and deleting Tables.md",
     "02-Atomic/MySQL.md",
