@@ -22,7 +22,7 @@ cssclasses:
 		+ Tutorías: Martes depués de las clases (7pm) y Jueves a partir de las 5
 	+ Alejandro Calderón
 ## Conceptos básicos: 
-+ **Lenguajes de programación:** C y Python
++ **Lenguajes de programación:** C y Python: [[1738080627 - Lenguaje C|Lenguaje C]]
 + **Conceptos básicos:** 
   + Por parte de [[Operating Systems]]: [[20240411 - 131522 -Processes and threads|Processes and threads]], [[Concurrency]], [[20240504 - 162427 -POSIX|POSIX]]
   + Por parte de [[Networks]]: [[1727428451 - Definition - TCP|TCP]], [[1730651695 - The Internet Protocol (IP)|IP]]
