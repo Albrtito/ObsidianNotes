@@ -3986,6 +3986,7 @@ Carballeira
 Calder
 Cell
 Concatenation
+Conceptos
 de
 due
 dar
@@ -6035,6 +6036,8 @@ dividing
 disappear
 dealing
 danger
+despliege
+distribuir
 modelos
 modelo
 maximizar
@@ -12150,6 +12153,9 @@ precess
 projects
 project
 polynomial
+procedimientos
+paara
+programar
 lineal
 la
 lo
@@ -13913,6 +13919,7 @@ levels
 logically
 leftmost
 larger
+llamadas
 tags
 tres
 todos
@@ -17751,6 +17758,7 @@ row
 ruin
 reaching
 reducing
+remotos
 References
 Resoluci
 Rectas
@@ -21772,6 +21780,7 @@ conjugates
 cubic
 compiles
 closer
+coincidir
 sr
 se
 subproblemas
@@ -30841,6 +30850,7 @@ Estan
 EXPLICIT
 Explicit
 Essential
+ENTREGAR
 vital
 variables
 vez
@@ -37561,6 +37571,7 @@ Database
 Dany
 Dates
 Defs
+Darle
 funci
 fibonacci
 fica
@@ -39319,6 +39330,7 @@ foreign
 formats
 factored
 fterragni
+flojear
 objetivo
 obtener
 of
@@ -44357,6 +44369,7 @@ Advanced
 Analog
 Analyzing
 Arranged
+Aprendizaje
 Floyd
 Foundations
 Funci
@@ -57763,6 +57776,7 @@ Sheet
 Shows
 Satisfying
 Sandwich
+Suele
 Manual
 Modelar
 Millones
@@ -62679,6 +62693,7 @@ Limits
 LIMIT
 List
 Lagrange
+Lenguajes
 bottom
 base
 brik
