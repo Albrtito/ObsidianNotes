@@ -2084,6 +2084,7 @@ age
 aplicaciones
 assertion
 alternative
+alphanumeric
 Creaci
 Crear
 Cuando
@@ -3981,6 +3982,8 @@ Constrains
 Characteristics
 Carballeira
 Calder
+Cell
+Concatenation
 de
 due
 dar
@@ -7948,6 +7951,8 @@ misunderstood
 maintain
 minute
 missing
+manipulation
+merged
 en
 ease
 es
@@ -13895,6 +13900,7 @@ lleida
 locate
 levels
 logically
+leftmost
 tags
 tres
 todos
@@ -15771,6 +15777,7 @@ translates
 transactions
 transaction
 told
+timestapms
 review
 resolver
 realizar
@@ -17724,6 +17731,7 @@ realistically
 referential
 ricos
 rgcarras
+row
 References
 Resoluci
 Rectas
@@ -19432,6 +19440,8 @@ Reducidas
 Reducido
 Representation
 Reilly
+Rows
+Refered
 cssclasses
 correcto
 correcta
@@ -21734,6 +21744,11 @@ contaco
 coverage
 comments
 candidate
+characters
+cells
+columns
+column
+cell
 sr
 se
 subproblemas
@@ -23824,6 +23839,12 @@ singular
 semantic
 superkey
 statement
+spreadsheets
+separation
+spreadsheet
+sheets
+sheet
+syntax
 interval
 importancia
 incorrecto
@@ -25787,6 +25808,7 @@ interactivity
 interest
 installing
 intermediary
+interpreted
 un
 una
 utiliza
@@ -35745,6 +35767,7 @@ Inverted
 IMPLICIT
 Implicit
 Inmediate
+Intersection
 Definir
 Din
 Design
@@ -37500,6 +37523,8 @@ Distri
 Databases
 Database
 Dany
+Dates
+Defs
 funci
 fibonacci
 fica
@@ -39255,6 +39280,7 @@ fuente
 focused
 fcalle
 foreign
+formats
 objetivo
 obtener
 of
@@ -40876,6 +40902,8 @@ ofuscaci
 operation
 orientativa
 optional
+obtanied
+organized
 que
 queremos
 qD
@@ -44287,6 +44315,7 @@ Alejandro
 Advanced
 Analog
 Analyzing
+Arranged
 Floyd
 Foundations
 Funci
@@ -47472,6 +47501,7 @@ Walkenbach
 Willey
 Wayne
 Winston
+Would
 Heuri
 Hecho
 HyO
@@ -50765,6 +50795,8 @@ Transaction
 Thomson
 Terragni
 Taxonomy
+Timestapms
+Timestamps
 grafo
 guardan
 global
@@ -52469,6 +52501,7 @@ ghq
 gamIs
 gic
 gqh
+guide
 Programaci
 Para
 Problema
@@ -55875,6 +55908,7 @@ Bonilla
 Bible
 Borg
 Busquets
+Book
 Steven
 Skiena
 Serie
@@ -57672,6 +57706,9 @@ START
 Speed
 Schaich
 Statistics
+Spreadsheet
+Sheet
+Shows
 Manual
 Modelar
 Millones
@@ -59430,6 +59467,7 @@ Matthew
 Maconal
 Mastering
 MAX
+Merging
 Zivkovic
 Zo
 Zi
@@ -62580,6 +62618,7 @@ Luis
 Linking
 Long
 Lab
+LibreOffice
 bottom
 base
 brik
@@ -69115,6 +69154,7 @@ Optional
 Observed
 Objective
 Online
+OpenOffice
 ximo
 xrL
 xFQ
@@ -75351,6 +75391,7 @@ GExT
 GWym
 George
 Gomez
+GoogleSheets
 Nota
 Novo
 Nacional
@@ -84919,6 +84960,7 @@ workbench
 writing
 worst
 wasn
+whas
 kL
 kMZ
 kC

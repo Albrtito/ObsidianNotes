@@ -2,8 +2,8 @@
 aliases:
   - Spreadsheet
 tags:
-  - incomplete
   - Excel
+  - review
 References: 
 cssclasses:
 ---
