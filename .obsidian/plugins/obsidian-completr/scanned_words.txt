@@ -2085,6 +2085,8 @@ aplicaciones
 assertion
 alternative
 alphanumeric
+advance
+approximation
 Creaci
 Crear
 Cuando
@@ -6027,6 +6029,12 @@ downloading
 diferenciales
 discontinuously
 departing
+distance
+determined
+dividing
+disappear
+dealing
+danger
 modelos
 modelo
 maximizar
@@ -10040,6 +10048,8 @@ efficiently
 exam
 explains
 explicitly
+expressed
+express
 programaci
 primer
 paso
@@ -12139,6 +12149,7 @@ people
 precess
 projects
 project
+polynomial
 lineal
 la
 lo
@@ -13901,6 +13912,7 @@ locate
 levels
 logically
 leftmost
+larger
 tags
 tres
 todos
@@ -15778,6 +15790,10 @@ transactions
 transaction
 told
 timestapms
+tends
+tend
+taylor
+trigo
 review
 resolver
 realizar
@@ -17732,6 +17748,9 @@ referential
 ricos
 rgcarras
 row
+ruin
+reaching
+reducing
 References
 Resoluci
 Rectas
@@ -21749,6 +21768,10 @@ cells
 columns
 column
 cell
+conjugates
+cubic
+compiles
+closer
 sr
 se
 subproblemas
@@ -23845,6 +23868,11 @@ spreadsheet
 sheets
 sheet
 syntax
+since
+strategies
+smart
+suggestions
+squares
 interval
 importancia
 incorrecto
@@ -25809,6 +25837,9 @@ interest
 installing
 intermediary
 interpreted
+infty
+indeterminate
+implies
 un
 una
 utiliza
@@ -29013,6 +29044,7 @@ hJX
 hcD
 hides
 historical
+happy
 Es
 Este
 Ejemplos
@@ -34087,6 +34119,8 @@ ncl
 nbM
 necesite
 names
+near
+notate
 Identificar
 Intro
 Identificaci
@@ -35768,6 +35802,7 @@ IMPLICIT
 Implicit
 Inmediate
 Intersection
+Infty
 Definir
 Din
 Design
@@ -39281,6 +39316,7 @@ focused
 fcalle
 foreign
 formats
+factored
 objetivo
 obtener
 of
@@ -40904,6 +40940,8 @@ orientativa
 optional
 obtanied
 organized
+oscillate
+oscillation
 que
 queremos
 qD
@@ -42490,6 +42528,7 @@ qHK
 qJwx
 qDbj
 quiz
+quotients
 Algorith
 Algorithm
 All
@@ -45905,6 +45944,7 @@ Filippo
 Filo
 Felix
 Felienne
+Formally
 Warshall
 Width
 We
@@ -47502,6 +47542,8 @@ Willey
 Wayne
 Winston
 Would
+Working
+Well
 Heuri
 Hecho
 HyO
@@ -50797,6 +50839,10 @@ Terragni
 Taxonomy
 Timestapms
 Timestamps
+TENDS
+Turning
+Trigo
+Taylor
 grafo
 guardan
 global
@@ -52502,6 +52548,7 @@ gamIs
 gic
 gqh
 guide
+greatest
 Programaci
 Para
 Problema
@@ -54355,6 +54402,7 @@ Profesores
 Prieto
 Project
 Performed
+Power
 Biblio
 BitsPerComponent
 BI
@@ -55909,6 +55957,8 @@ Bible
 Borg
 Busquets
 Book
+Bounded
+Binomial
 Steven
 Skiena
 Serie
@@ -57709,6 +57759,8 @@ Statistics
 Spreadsheet
 Sheet
 Shows
+Satisfying
+Sandwich
 Manual
 Modelar
 Millones
@@ -59468,6 +59520,7 @@ Maconal
 Mastering
 MAX
 Merging
+McLaurin
 Zivkovic
 Zo
 Zi
@@ -62619,6 +62672,11 @@ Linking
 Long
 Lab
 LibreOffice
+Limit
+Limits
+LIMIT
+List
+Lagrange
 bottom
 base
 brik
@@ -64363,6 +64421,7 @@ besides
 birthdate
 boundary
 bridging
+bunch
 Util
 Una
 UniZumo
@@ -72214,6 +72273,7 @@ zzW
 zHl
 zlS
 zBROH
+zone
 Variables
 Vicent
 Vicente
@@ -84961,6 +85021,7 @@ writing
 worst
 wasn
 whas
+whose
 kL
 kMZ
 kC
