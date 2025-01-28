@@ -57,7 +57,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +141,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 20240208 - 000000 - Definition - Differential Equations"
+              "title": "Graph view"
             }
           }
         ]
@@ -245,8 +244,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b97c4432b4c2b29",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
+    "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/Definition - Limits.md",
     "02-Atomic/Advanced Excel.md",
@@ -272,7 +272,6 @@
     "02-Atomic/MySQL.md",
     "02-Atomic/Create and select a database.md",
     "02-Atomic/1737463651 - Servicio en Lleida .md",
-    "02-Atomic/1728917414 - Orden gaussiano.md",
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
     "00-References/Heuri_Resources_Problemas.pdf",
     "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
