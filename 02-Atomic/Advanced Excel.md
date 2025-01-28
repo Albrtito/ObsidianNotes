@@ -41,6 +41,7 @@ cssclasses:
 + Jaime Busquets · Excel : https://www.edx.org/course/excel-upvalenciax-xls101x-1
 + Wayne Winston · Essential Statistics for Data Analysis using Excel: https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-0
 ## Notas: 
++ [[1738067209 - Spreadsheet|Spreadsheet]]
 
 ## Ejercicios: 
 

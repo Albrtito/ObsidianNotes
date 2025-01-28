@@ -7946,6 +7946,8 @@ mysql
 marked
 misunderstood
 maintain
+minute
+missing
 en
 ease
 es
@@ -19429,6 +19431,7 @@ Restrictions
 Reducidas
 Reducido
 Representation
+Reilly
 cssclasses
 correcto
 correcta
@@ -30782,6 +30785,7 @@ Ecuaciones
 Estan
 EXPLICIT
 Explicit
+Essential
 vital
 variables
 vez
@@ -37495,6 +37499,7 @@ Distribuidos
 Distri
 Databases
 Database
+Dany
 funci
 fibonacci
 fica
@@ -42456,6 +42461,7 @@ qlYe
 qHK
 qJwx
 qDbj
+quiz
 Algorith
 Algorithm
 All
@@ -44279,6 +44285,8 @@ Anything
 Aimed
 Alejandro
 Advanced
+Analog
+Analyzing
 Floyd
 Foundations
 Funci
@@ -45867,6 +45875,7 @@ Finlay
 Filippo
 Filo
 Felix
+Felienne
 Warshall
 Width
 We
@@ -47459,6 +47468,10 @@ WOLAP
 William
 Wiley
 Writing
+Walkenbach
+Willey
+Wayne
+Winston
 Heuri
 Hecho
 HyO
@@ -49039,6 +49052,8 @@ HLI
 Hsx
 HOLAP
 Have
+Hoter
+Hermans
 TODOS
 The
 Trabajo
@@ -54305,6 +54320,8 @@ Protection
 Permanent
 Profesores
 Prieto
+Project
+Performed
 Biblio
 BitsPerComponent
 BI
@@ -55855,6 +55872,9 @@ Barcelona
 Bytes
 Boyce
 Bonilla
+Bible
+Borg
+Busquets
 Steven
 Skiena
 Serie
@@ -57650,6 +57670,8 @@ SEPARE
 STATEMENT
 START
 Speed
+Schaich
+Statistics
 Manual
 Modelar
 Millones
@@ -59404,6 +59426,10 @@ MOLAP
 MAG
 Manuel
 Minimal
+Matthew
+Maconal
+Mastering
+MAX
 Zivkovic
 Zo
 Zi
@@ -69088,6 +69114,7 @@ Operations
 Optional
 Observed
 Objective
+Online
 ximo
 xrL
 xFQ
@@ -73727,6 +73754,7 @@ VFX
 VWm
 Views
 Vega
+Visualizing
 Grupo
 Get
 GWgw
@@ -81706,6 +81734,8 @@ JEQJ
 JKIu
 John
 Javier
+Jana
+Jaime
 jj
 jL
 jC
