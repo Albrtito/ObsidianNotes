@@ -4,40 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "10b0575a715cf807",
+        "id": "8d26b3fb94266351",
         "type": "tabs",
         "children": [
           {
-            "id": "6b97c4432b4c2b29",
+            "id": "6b68997b1155d3b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Distribuidos.md",
+                "file": "02-Atomic/1725895664 - Naturaleza y de la empresa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distribuidos"
-            }
-          },
-          {
-            "id": "9c47b3003715bbfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1738080627 - Lenguaje C.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1738080627 - Lenguaje C"
+              "title": "1725895664 - Naturaleza y de la empresa"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -56,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/Distribuidos.md",
+                "file": "02-Atomic/1725895664 - Naturaleza y de la empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -67,7 +53,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "tag:#incomplete  ",
@@ -124,13 +110,6 @@
                         "a": 1,
                         "rgb": 14048348
                       }
-                    },
-                    {
-                      "query": "tag:#Distri  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6149724
-                      }
                     }
                   ],
                   "collapse-display": true,
@@ -139,19 +118,50 @@
                   "nodeSizeMultiplier": 2.79537653688525,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.0242737249838606,
-                  "repelStrength": 15.3311814073596,
+                  "centerStrength": 0.116525423728814,
+                  "repelStrength": 20,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.09229580869883151,
+                  "scale": 0.04720385129123739,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Distribuidos"
+              "title": "Graph of 1725895664 - Naturaleza y de la empresa"
+            }
+          },
+          {
+            "id": "1e86e2eb9de280dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1af1c1b664b62043",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#review  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "f340046a713a91df",
@@ -163,10 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
+                "file": "02-Atomic/1725895664 - Naturaleza y de la empresa.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730827988 - Subnets"
+              "title": "Outline of 1725895664 - Naturaleza y de la empresa"
             }
           },
           {
@@ -181,12 +191,11 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 334
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -198,18 +207,13 @@
         "dimension": 63.45609065155807,
         "children": [
           {
-            "id": "2dca472e18c0e06a",
+            "id": "25035ac93f5900cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/Distribuidos.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Distribuidos"
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ]
@@ -233,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,11 +254,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b97c4432b4c2b29",
+  "active": "6b68997b1155d3b5",
   "lastOpenFiles": [
+    "02-Atomic/1727711018 - Estrategias de diversificación.md",
+    "02-Atomic/Distribuidos.md",
     "02-Atomic/1738080627 - Lenguaje C.md",
     "02-Atomic/20240605 - 171753 - Methods for solving limits.md",
-    "02-Atomic/Distribuidos.md",
     "02-Atomic/Definition - Limits.md",
     "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "01-Areas/1.UC3M/DiffCalc.md",
@@ -277,7 +282,6 @@
     "02-Atomic/DiffCalc_Theory_Ch 0_Intro.md",
     "02-Atomic/Creating and deleting Tables.md",
     "02-Atomic/MySQL.md",
-    "02-Atomic/Create and select a database.md",
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
     "00-References/Heuri_Resources_Problemas.pdf",
     "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
