@@ -45,3 +45,4 @@ close
 closed
 closely
 closest
+mac
