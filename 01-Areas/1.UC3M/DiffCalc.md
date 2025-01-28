@@ -14,6 +14,8 @@ cssclasses:
 + **Grupo:** (MAG) 89M
 	+ Reducidas: 89
 + **Coordinador:** Filippo, Terragni
+	+ fterragni@ing.uc3m.es
+	+ 2.1.D12
 + **Profesores y contactos:**
 
 ## Criterios de evaluación: 
@@ -24,7 +26,7 @@ cssclasses:
 + **Final:** 60%
 
 ## Biblio:
-- Boyce, William E.. Elementary differential equations and boundary value problems . John Wiley & Sons,.
+- **Reference book for the course:**  Boyce, William E.. Elementary differential equations and boundary value problems . John Wiley & Sons,.
 - Simmons, George Finlay. Differential equations with applications and historical notes.. McGraw-Hill.
 - Zill, Dennis G.. Ecuaciones diferenciales con aplicaciones de modelado . International Thomson.
 
