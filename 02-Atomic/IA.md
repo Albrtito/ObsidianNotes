@@ -26,6 +26,8 @@ cssclasses:
 ## Criterios evaluación:
 + **Continua:** 60%
   Calendario de evaluación continua [aquí](https://aulaglobal.uc3m.es/pluginfile.php/7426894/mod_resource/content/5/Schedule-IA-2025.pdf)
+	+ Exámenes parciales: 30%
+	+ Projecto final: 30%
 + **Final:** 40%
 
 ## Biblio:
