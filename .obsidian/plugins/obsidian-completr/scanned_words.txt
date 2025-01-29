@@ -37582,6 +37582,7 @@ Dates
 Defs
 Darle
 Despacho
+Delcare
 funci
 fibonacci
 fica
@@ -54434,6 +54435,7 @@ Prieto
 Project
 Performed
 Power
+Projecto
 Biblio
 BitsPerComponent
 BI

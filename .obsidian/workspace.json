@@ -42,6 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/IA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of IA"
             }
           }
         ]
@@ -228,8 +229,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1087055cabadd75b",
+  "active": "1648b34dd77b5b1b",
   "lastOpenFiles": [
+    "02-Atomic/1738162902 - - Untitled Suffix.md",
     "02-Atomic/IA.md",
     "02-Atomic/Filo 101.md",
     "02-Atomic/1725895664 - Naturaleza y de la empresa.md",
@@ -255,7 +257,6 @@
     "01-Areas/1.UC3M/Cripto.md",
     "02-Atomic/20240517 - 163856 - Files.md",
     "02-Atomic/DiffCalc_Theory_Ch 0_Intro.md",
-    "02-Atomic/Creating and deleting Tables.md",
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
     "00-References/Heuri_Resources_Problemas.pdf",
     "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
