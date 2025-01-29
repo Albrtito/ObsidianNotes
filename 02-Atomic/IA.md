@@ -14,9 +14,13 @@ cssclasses:
 	+ Reducidas: 89
 + **Coordinadora:** Jose Manuel, Molina Lopez
 + **Profesores y contactos:** 
-	+ Susana
+	+ **Magistrales**: Susana Fernández Arregui
+		+ sfarregu@inf.uc3m.es
+		+ 2.1.B10
+	+ **Reducidas:** Luis Arranz
+		+ larranz@inf.uc3m.es
 
-> [!NOTE] Attention: 
+> [!attention]  Remarks: 
 >  + Preguntas al mail
 
 ## Criterios evaluación:

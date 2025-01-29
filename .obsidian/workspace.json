@@ -42,7 +42,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/IA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +126,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of IA"
+              "title": "Graph view"
             }
           }
         ]
@@ -229,8 +228,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1648b34dd77b5b1b",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
+    "02-Atomic/IA.md",
     "02-Atomic/Filo 101.md",
     "02-Atomic/1725895664 - Naturaleza y de la empresa.md",
     "02-Atomic/1727711018 - Estrategias de diversificación.md",
@@ -252,7 +252,6 @@
     "02-Atomic/Relational Model.md",
     "02-Atomic/Introduction to Databases.md",
     "01-Areas/1.UC3M/Files&DB.md",
-    "02-Atomic/IA.md",
     "01-Areas/1.UC3M/Cripto.md",
     "02-Atomic/20240517 - 163856 - Files.md",
     "02-Atomic/DiffCalc_Theory_Ch 0_Intro.md",
