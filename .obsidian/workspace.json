@@ -8,22 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1648b34dd77b5b1b",
+            "id": "6b97c4432b4c2b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/IA.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IA"
+              "title": "Distribuidos"
+            }
+          },
+          {
+            "id": "9c47b3003715bbfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1738080627 - Lenguaje C.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1738080627 - Lenguaje C"
+            }
+          },
+          {
+            "id": "8982488670a34d95",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/C_Guia.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "C_Guia"
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/IA.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -110,6 +137,13 @@
                         "a": 1,
                         "rgb": 14048348
                       }
+                    },
+                    {
+                      "query": "tag:#Distri  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6149724
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -127,7 +161,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of IA"
+              "title": "Graph of Distribuidos"
             }
           }
         ]
@@ -165,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -182,13 +217,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/IA.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IA"
+              "title": "Distribuidos"
             }
           }
         ]
@@ -229,14 +264,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1648b34dd77b5b1b",
+  "active": "9c47b3003715bbfb",
   "lastOpenFiles": [
-    "02-Atomic/1738162902 - - Untitled Suffix.md",
+    "02-Atomic/Distribuidos.md",
+    "00-References/C_Guia.pdf",
     "02-Atomic/IA.md",
+    "02-Atomic/1738162902 - - Untitled Suffix.md",
     "02-Atomic/Filo 101.md",
     "02-Atomic/1725895664 - Naturaleza y de la empresa.md",
     "02-Atomic/1727711018 - Estrategias de diversificación.md",
-    "02-Atomic/Distribuidos.md",
     "02-Atomic/1738080627 - Lenguaje C.md",
     "02-Atomic/20240605 - 171753 - Methods for solving limits.md",
     "02-Atomic/Definition - Limits.md",
@@ -256,7 +292,6 @@
     "01-Areas/1.UC3M/Files&DB.md",
     "01-Areas/1.UC3M/Cripto.md",
     "02-Atomic/20240517 - 163856 - Files.md",
-    "02-Atomic/DiffCalc_Theory_Ch 0_Intro.md",
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
     "00-References/Heuri_Resources_Problemas.pdf",
     "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",
@@ -276,7 +311,6 @@
     "99-Meta/2. Scripts/dudas_2.py~",
     "99-Meta/2. Scripts/dudas_2.py",
     "99-Meta/2. Scripts/1727968107 - Expresiones condicionales en programación linealj-1.py",
-    "99-Meta/2. Scripts/1727968107 - Expresiones condicionales en programación linealj.py",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
