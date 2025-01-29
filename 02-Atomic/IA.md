@@ -22,6 +22,7 @@ cssclasses:
 
 > [!attention]  Remarks: 
 >  + Preguntas al mail
+>  + **When using IA → Delcare it**
 
 ## Criterios evaluación:
 + **Continua:** 60%
