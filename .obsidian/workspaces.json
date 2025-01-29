@@ -267,13 +267,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/1727711018 - Estrategias de diversificación.md",
+                    "file": "02-Atomic/1725895664 - Naturaleza y de la empresa.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "1727711018 - Estrategias de diversificación"
+                  "title": "1725895664 - Naturaleza y de la empresa"
                 }
               }
             ],
@@ -296,7 +296,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02-Atomic/1727711018 - Estrategias de diversificación.md",
+                    "file": "02-Atomic/1725895664 - Naturaleza y de la empresa.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -381,16 +381,29 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 1727711018 - Estrategias de diversificación"
+                  "title": "Graph of 1725895664 - Naturaleza y de la empresa"
                 }
               },
               {
-                "id": "fc17a30e900d6f8a",
+                "id": "1e86e2eb9de280dd",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "1af1c1b664b62043",
                 "type": "leaf",
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "",
+                    "query": "tag:#review  ",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -400,18 +413,9 @@
                   "icon": "lucide-search",
                   "title": "Search"
                 }
-              },
-              {
-                "id": "5277caa8de0cf553",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {},
-                  "icon": "lucide-bookmark",
-                  "title": "Bookmarks"
-                }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "f340046a713a91df",
@@ -423,10 +427,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "02-Atomic/1727711018 - Estrategias de diversificación.md"
+                    "file": "02-Atomic/1725895664 - Naturaleza y de la empresa.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of 1727711018 - Estrategias de diversificación"
+                  "title": "Outline of 1725895664 - Naturaleza y de la empresa"
                 }
               },
               {
@@ -462,66 +466,11 @@
                 "state": {
                   "type": "review-queue-list-view",
                   "state": {},
-                  "icon": "lucide-file",
-                  "title": "Plugin no longer active"
-                }
-              },
-              {
-                "id": "3d0b5770bc7ae49c",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks"
-                }
-              },
-              {
-                "id": "50da2e9edaf813f1",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "Outgoing links"
-                }
-              },
-              {
-                "id": "1e86e2eb9de280dd",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  },
-                  "icon": "lucide-tags",
-                  "title": "Tags"
-                }
-              },
-              {
-                "id": "e00bef1a5eb801ed",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {},
                   "icon": "SpacedRepIcon",
                   "title": "Notes Review Queue"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "d8523f2fbc4e9acf",
@@ -560,7 +509,7 @@
         }
       },
       "active": "6b68997b1155d3b5",
-      "mtime": "2024-12-14T16:08:34+01:00"
+      "mtime": "2025-01-29T13:11:27+01:00"
     },
     "Config": {
       "main": {
@@ -3265,5 +3214,5 @@
       "mtime": "2025-01-28T15:02:48+01:00"
     }
   },
-  "active": "Recall"
+  "active": "Filo"
 }
