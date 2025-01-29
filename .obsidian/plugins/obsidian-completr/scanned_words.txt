@@ -19471,6 +19471,7 @@ Representation
 Reilly
 Rows
 Refered
+Russell
 cssclasses
 correcto
 correcta
@@ -35819,6 +35820,7 @@ Implicit
 Inmediate
 Intersection
 Infty
+Intelligence
 Definir
 Din
 Design
@@ -44379,6 +44381,7 @@ Aprendizaje
 Anne
 Asistencia
 Absentismo
+Artificial
 Floyd
 Foundations
 Funci
@@ -59549,6 +59552,7 @@ Merging
 McLaurin
 Martes
 Moran
+Molina
 Zivkovic
 Zo
 Zi
@@ -77175,6 +77179,7 @@ NEg
 NjKDN
 Njh
 NThLE
+Norvig
 Xr
 XObject
 Xw
@@ -81872,6 +81877,7 @@ Javier
 Jana
 Jaime
 Jueves
+Jose
 jj
 jL
 jC

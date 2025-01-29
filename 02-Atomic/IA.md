@@ -14,6 +14,10 @@ cssclasses:
 	+ Reducidas: 89
 + **Coordinadora:** Jose Manuel, Molina Lopez
 + **Profesores y contactos:** 
+	+ Susana
+
+> [!NOTE] Attention: 
+>  + Preguntas al mail
 
 ## Criterios evaluación:
 + **Continua:** 60%
