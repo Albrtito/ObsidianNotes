@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1738080627 - Lenguaje C.md",
+                "file": "00-References/C_Guia.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1738080627 - Lenguaje C"
+              "title": "Graph of C_Guia"
             }
           },
           {
@@ -304,12 +304,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9c47b3003715bbfb",
+  "active": "8982488670a34d95",
   "lastOpenFiles": [
+    "02-Atomic/1738080627 - Lenguaje C.md",
     "02-Atomic/Distribuidos.md",
     "00-References/C_IntroDistri.pdf",
     "00-References/C_Guia.pdf",
-    "02-Atomic/1738080627 - Lenguaje C.md",
     "99-Meta/0. Attachments/1738080627 - Lenguaje Cj.png",
     "02-Atomic/Filo 101.md",
     "02-Atomic/IA.md",

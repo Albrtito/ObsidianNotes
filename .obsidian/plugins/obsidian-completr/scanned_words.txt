@@ -4110,6 +4110,7 @@ ChF
 CcM
 Classics
 Compilador
+Compilaci
 de
 due
 dar
@@ -6208,6 +6209,7 @@ dvEK
 dqcc
 dwD
 dVU
+digos
 modelos
 modelo
 maximizar
@@ -10330,6 +10332,8 @@ eOW
 ermP
 exQ
 estructurada
+ejecutables
+ejecutable
 programaci
 primer
 paso
@@ -14320,6 +14324,8 @@ lWT
 lvyyi
 lVNVV
 lenguaje
+linkear
+linkea
 tags
 tres
 todos
@@ -22410,6 +22416,8 @@ cKJ
 cMVn
 ciN
 cabecera
+compilaci
+compilar
 sr
 se
 subproblemas
@@ -26607,6 +26615,8 @@ iVYU
 ilcC
 ipC
 implementaciones
+indentado
+indentar
 un
 una
 utiliza
@@ -38729,6 +38739,7 @@ DkZ
 DcZ
 DuJ
 Depurador
+Devuelve
 funci
 fibonacci
 fica
@@ -42222,6 +42233,8 @@ oyl
 oMsu
 olR
 oral
+ordenar
+objeto
 que
 queremos
 qD
@@ -57738,6 +57751,7 @@ Bey
 BWIC
 Bco
 ByZ
+Buenas
 Steven
 Skiena
 Serie
@@ -77892,6 +77906,7 @@ GybV
 GuUX
 GANzv
 Groups
+GCC
 Nota
 Novo
 Nacional
