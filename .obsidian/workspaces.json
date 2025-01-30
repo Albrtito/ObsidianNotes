@@ -2228,14 +2228,28 @@
                 "id": "8982488670a34d95",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
+                  "type": "pdf",
+                  "state": {
+                    "file": "00-References/C_Guia.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "C_Guia"
+                }
+              },
+              {
+                "id": "516ec09ab3f96b8d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "00-References/C_IntroDistri.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "C_IntroDistri"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -2348,6 +2362,33 @@
                   "icon": "lucide-git-fork",
                   "title": "Graph of Distribuidos"
                 }
+              },
+              {
+                "id": "29e3a00ba6e74a87",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "03da6c1b94246574",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
               }
             ]
           },
@@ -2410,8 +2451,19 @@
                   "icon": "lucide-file",
                   "title": "Distribuidos"
                 }
+              },
+              {
+                "id": "c17a7fb780f81d2e",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Notes Review Queue"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "d8523f2fbc4e9acf",
@@ -2449,8 +2501,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "2dca472e18c0e06a",
-      "mtime": "2025-01-28T18:33:58+01:00"
+      "active": "516ec09ab3f96b8d",
+      "mtime": "2025-01-30T15:43:45+01:00"
     },
     "IA": {
       "main": {
@@ -2945,7 +2997,7 @@
         }
       },
       "active": "6b97c4432b4c2b29",
-      "mtime": "2025-01-29T15:11:37+01:00"
+      "mtime": "2025-01-30T15:43:48+01:00"
     },
     "Excel": {
       "main": {
