@@ -4109,6 +4109,7 @@ CFkgL
 ChF
 CcM
 Classics
+Compilador
 de
 due
 dar
@@ -8196,6 +8197,7 @@ mMuUeEyYi
 mRS
 mzucd
 mDy
+mecanismos
 en
 ease
 es
@@ -10327,6 +10329,7 @@ ermU
 eOW
 ermP
 exQ
+estructurada
 programaci
 primer
 paso
@@ -14316,6 +14319,7 @@ lvGN
 lWT
 lvyyi
 lVNVV
+lenguaje
 tags
 tres
 todos
@@ -22405,6 +22409,7 @@ caJ
 cKJ
 cMVn
 ciN
+cabecera
 sr
 se
 subproblemas
@@ -24575,6 +24580,7 @@ sDy
 sGx
 slabande
 subiendo
+sentencias
 interval
 importancia
 incorrecto
@@ -26600,6 +26606,7 @@ iLR
 iVYU
 ilcC
 ipC
+implementaciones
 un
 una
 utiliza
@@ -28269,6 +28276,7 @@ uEnM
 ufI
 ube
 uVyw
+utilizadas
 hora
 hacemos
 hacia
@@ -31760,6 +31768,8 @@ EQo
 ErM
 Ewc
 EIA
+Editor
+Enlazador
 vital
 variables
 vez
@@ -38718,6 +38728,7 @@ Dcc
 DkZ
 DcZ
 DuJ
+Depurador
 funci
 fibonacci
 fica
@@ -47416,6 +47427,8 @@ FpT
 Fswf
 FXK
 Feb
+Ficheros
+Fichero
 Warshall
 Width
 We
@@ -49069,6 +49082,7 @@ WzP
 WTVVRe
 WEU
 Warburton
+World
 Heuri
 Hecho
 HyO
@@ -50704,6 +50718,7 @@ HEvD
 HEE
 HJhr
 HIiQ
+Hello
 TODOS
 The
 Trabajo
@@ -66459,6 +66474,7 @@ bnTK
 bRF
 bty
 bibliograf
+biblioteca
 Util
 Una
 UniZumo

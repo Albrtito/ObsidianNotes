@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/Distribuidos.md",
+                "file": "02-Atomic/1738080627 - Lenguaje C.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Distribuidos"
+              "title": "Graph of 1738080627 - Lenguaje C"
             }
           },
           {
@@ -286,7 +286,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -303,13 +304,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1087055cabadd75b",
+  "active": "9c47b3003715bbfb",
   "lastOpenFiles": [
+    "02-Atomic/Distribuidos.md",
     "00-References/C_IntroDistri.pdf",
-    "02-Atomic/Filo 101.md",
     "00-References/C_Guia.pdf",
     "02-Atomic/1738080627 - Lenguaje C.md",
-    "02-Atomic/Distribuidos.md",
+    "99-Meta/0. Attachments/1738080627 - Lenguaje Cj.png",
+    "02-Atomic/Filo 101.md",
     "02-Atomic/IA.md",
     "02-Atomic/1738162902 - - Untitled Suffix.md",
     "02-Atomic/1725895664 - Naturaleza y de la empresa.md",
@@ -345,7 +347,6 @@
     "99-Meta/0. Attachments/1732633633 - MarketingMix - Productoj.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png",
     "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-1.png",
-    "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj.png",
     "99-Meta/2. Scripts/buscar_dudas.py",
     "99-Meta/2. Scripts/Dudas",
     "99-Meta/2. Scripts/dudas_2.py~",
