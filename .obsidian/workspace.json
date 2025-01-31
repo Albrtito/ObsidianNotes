@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "20240620 - 174329 - Integration in one variable"
             }
+          },
+          {
+            "id": "d8cbe4faf21d70b4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/References_Derivatives&Integrals.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "References_Derivatives&Integrals"
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -229,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,10 +259,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "eaebb17d58f0c031",
+  "active": "d8cbe4faf21d70b4",
   "lastOpenFiles": [
-    "02-Atomic/20240620 - 201418 - Improper Integrals.md",
     "02-Atomic/20240620 - 174329 - Integration in one variable.md",
+    "02-Atomic/20240620 - 201418 - Improper Integrals.md",
     "02-Atomic/20240605 - 171753 - Methods for solving limits.md",
     "02-Atomic/1738259991 - C Data Types.md",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj.png",
