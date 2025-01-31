@@ -24,6 +24,7 @@ f.e: Basic eq.
 	y - 1/y = 2x \Rightarrow 
 	$$
 	y’s at one side, x’s at the other
+	
 f.e: Diff eq. 
 	For the DiffEq: 
 	$$
