@@ -2191,24 +2191,30 @@
         "type": "split",
         "children": [
           {
-            "id": "10b0575a715cf807",
+            "id": "373e5a52fd843a08",
             "type": "tabs",
             "children": [
               {
-                "id": "6b97c4432b4c2b29",
+                "id": "33bb6a67dab7622f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/Distribuidos.md",
+                    "file": "02-Atomic/1738259991 - C Data Types.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Distribuidos"
+                  "title": "1738259991 - C Data Types"
                 }
-              },
+              }
+            ]
+          },
+          {
+            "id": "10b0575a715cf807",
+            "type": "tabs",
+            "children": [
               {
                 "id": "9c47b3003715bbfb",
                 "type": "leaf",
@@ -2249,7 +2255,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -2268,7 +2274,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02-Atomic/Distribuidos.md",
+                    "file": "02-Atomic/1738259991 - C Data Types.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -2360,7 +2366,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Distribuidos"
+                  "title": "Graph of 1738259991 - C Data Types"
                 }
               },
               {
@@ -2451,19 +2457,8 @@
                   "icon": "lucide-file",
                   "title": "Distribuidos"
                 }
-              },
-              {
-                "id": "c17a7fb780f81d2e",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {},
-                  "icon": "SpacedRepIcon",
-                  "title": "Notes Review Queue"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "d8523f2fbc4e9acf",
@@ -2484,7 +2479,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 395
+        "width": 395,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -2501,8 +2497,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "516ec09ab3f96b8d",
-      "mtime": "2025-01-30T15:43:45+01:00"
+      "active": "33bb6a67dab7622f",
+      "mtime": "2025-01-31T13:44:34+01:00"
     },
     "IA": {
       "main": {
@@ -3266,5 +3262,5 @@
       "mtime": "2025-01-28T15:02:48+01:00"
     }
   },
-  "active": "Distri"
+  "active": "DiffCalc"
 }

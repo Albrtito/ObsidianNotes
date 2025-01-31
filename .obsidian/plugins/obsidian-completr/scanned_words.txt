@@ -2148,6 +2148,9 @@ aox
 aEZj
 aCS
 april
+advancing
+approximated
+axis
 Creaci
 Crear
 Cuando
@@ -4111,6 +4114,7 @@ CcM
 Classics
 Compilador
 Compilaci
+Computing
 de
 due
 dar
@@ -6210,6 +6214,9 @@ dqcc
 dwD
 dVU
 digos
+definite
+delimited
+dimensional
 modelos
 modelo
 maximizar
@@ -12505,6 +12512,7 @@ pZMl
 pxS
 pMv
 presentation
+primitive
 lineal
 la
 lo
@@ -14326,6 +14334,8 @@ lVNVV
 lenguaje
 linkear
 linkea
+lengths
+lines
 tags
 tres
 todos
@@ -16256,6 +16266,7 @@ tPwU
 tsr
 tTl
 tcey
+tightly
 review
 resolver
 realizar
@@ -18283,6 +18294,7 @@ rMEX
 rAYs
 rVg
 recommendation
+rectangles
 References
 Resoluci
 Rectas
@@ -20047,6 +20059,7 @@ Rpb
 RGux
 RgR
 Routledge
+Rotation
 cssclasses
 correcto
 correcta
@@ -22418,6 +22431,9 @@ ciN
 cabecera
 compilaci
 compilar
+curved
+cross
+curves
 sr
 se
 subproblemas
@@ -33500,6 +33516,7 @@ vftwf
 vbo
 vJSRv
 vMd
+volumes
 no
 nuestras
 ndar
@@ -36923,6 +36940,7 @@ IqQa
 IsYi
 ION
 IKUK
+Integral
 Definir
 Din
 Design
@@ -38740,6 +38758,7 @@ DcZ
 DuJ
 Depurador
 Devuelve
+Definite
 funci
 fibonacci
 fica
@@ -45777,6 +45796,7 @@ AhK
 AAAADJ
 AAAADN
 AAAADQ
+Areas
 Floyd
 Foundations
 Funci
@@ -47442,6 +47462,7 @@ FXK
 Feb
 Ficheros
 Fichero
+Fundamental
 Warshall
 Width
 We
@@ -64696,6 +64717,7 @@ LKTM
 LUhC
 LvGn
 London
+Lengths
 bottom
 base
 brik
@@ -76251,6 +76273,7 @@ Vkh
 VWx
 VyJq
 Vad
+Volumes
 Grupo
 Get
 GWgw
