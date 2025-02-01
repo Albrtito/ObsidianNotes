@@ -2157,6 +2157,7 @@ adbL
 apE
 aCxI
 abong
+arquitectura
 Creaci
 Crear
 Cuando
@@ -10378,6 +10379,8 @@ eKSH
 eQk
 esR
 eGlmOL
+ejecute
+escribe
 programaci
 primer
 paso
@@ -14381,6 +14384,7 @@ lines
 lRH
 lLW
 lnA
+librer
 tags
 tres
 todos
@@ -16314,6 +16318,7 @@ tcey
 tightly
 tOP
 tcV
+tipado
 review
 resolver
 realizar
@@ -18345,6 +18350,7 @@ rectangles
 rgväS
 rSF
 rKX
+relaciona
 References
 Resoluci
 Rectas
@@ -66718,6 +66724,7 @@ bibliograf
 biblioteca
 bDxe
 blQ
+barra
 Util
 Una
 UniZumo
