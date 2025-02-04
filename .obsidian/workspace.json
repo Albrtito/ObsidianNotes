@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "1738259991 - C Data Types"
             }
+          },
+          {
+            "id": "9c46d1c108676766",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/References_Derivatives&Integrals.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "References_Derivatives&Integrals"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "10b0575a715cf807",
@@ -310,8 +323,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "33bb6a67dab7622f",
+  "active": "9c46d1c108676766",
   "lastOpenFiles": [
+    "02-Atomic/1738259991 - C Data Types.md",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj-1.png",
     "02-Atomic/20240620 - 174329 - Integration in one variable.md",
     "02-Atomic/20240528 - 110528 - Separable ODEs.md",
@@ -319,7 +333,6 @@
     "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/20240620 - 201418 - Improper Integrals.md",
     "02-Atomic/20240605 - 171753 - Methods for solving limits.md",
-    "02-Atomic/1738259991 - C Data Types.md",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj.png",
     "00-References/C_Guia.pdf",
     "02-Atomic/1738080627 - Lenguaje C.md",
@@ -354,7 +367,6 @@
     "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj.png",
     "00-References/Net_Biblio_Kurose.pdf",
     "99-Meta/0. Attachments/1732633633 - MarketingMix - Productoj.png",
-    "99-Meta/0. Attachments/1732621572 - Practica - Plan de Empresa - 5.Plan de marketingj-2.png",
     "99-Meta/2. Scripts/buscar_dudas.py",
     "99-Meta/2. Scripts/Dudas",
     "99-Meta/2. Scripts/dudas_2.py~",
