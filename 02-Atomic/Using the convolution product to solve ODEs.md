@@ -1,9 +1,8 @@
 ---
 Date: 2024-03-19
 tags:
-  - review
   - DiffCalc
-"References:":
+"References:": 
 sr-due: 2024-12-28
 sr-interval: 207
 sr-ease: 230

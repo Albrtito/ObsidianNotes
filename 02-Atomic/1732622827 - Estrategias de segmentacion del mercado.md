@@ -4,7 +4,6 @@ aliases:
   - Estrategia de segmentacion
 tags:
   - Empresa
-  - review
 References: 
 cssclasses:
 ---

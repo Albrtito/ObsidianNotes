@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8d26b3fb94266351",
+        "id": "a5866c36eb7045d0",
         "type": "tabs",
         "children": [
           {
-            "id": "6b68997b1155d3b5",
+            "id": "a75bdbf4a6661bdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1732193684 - Algoritmos de busqueda por fuerza bruta"
+              "title": "New tab"
             }
           }
         ],
@@ -42,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md",
+                "file": "02-Atomic/1731662455 - Practica - Routers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -53,7 +48,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "tag:#incomplete  ",
@@ -118,37 +113,19 @@
                   "nodeSizeMultiplier": 2.79537653688525,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.116525423728814,
-                  "repelStrength": 20,
+                  "centerStrength": 0.0242737249838606,
+                  "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.04720385129123739,
+                  "scale": 0.09229580869883151,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1732193684 - Algoritmos de busqueda por fuerza bruta"
-            }
-          },
-          {
-            "id": "0f92d65666692db7",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:review",
-                "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              "title": "Graph of 1731662455 - Practica - Routers"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f340046a713a91df",
@@ -160,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md"
+                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1732193684 - Algoritmos de busqueda por fuerza bruta"
+              "title": "Outline of 1730827988 - Subnets"
             }
           },
           {
@@ -178,11 +155,13 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 334
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -194,30 +173,21 @@
         "dimension": 63.45609065155807,
         "children": [
           {
-            "id": "25035ac93f5900cb",
+            "id": "2dca472e18c0e06a",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "025fd26697c36c2e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
+              "type": "markdown",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "01-Areas/1.UC3M/Networks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "icon": "lucide-file",
+              "title": "Networks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -238,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 395,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,34 +226,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b68997b1155d3b5",
+  "active": "a75bdbf4a6661bdb",
   "lastOpenFiles": [
+    "02-Atomic/1731662455 - Practica - Routers.md",
+    "02-Atomic/1728309909 - MAC.md",
+    "02-Atomic/1726510122 - LFSR.md",
+    "02-Atomic/1728307154 - Funciones hash.md",
+    "02-Atomic/1730567598 - Routing function of the network layer.md",
+    "02-Atomic/1730567097 - The network layer control plane.md",
+    "02-Atomic/1738068458 - Intro to spreadsheets.md",
+    "02-Atomic/1727808593 - Cifradores de bloque.md",
+    "02-Atomic/1728317931 - Valor actual neto de una inversión.md",
+    "02-Atomic/1733325377 - Algorithm - Iterative-deepening A*.md",
+    "02-Atomic/Using the convolution product to solve ODEs.md",
+    "02-Atomic/Complex numbers (set C).md",
+    "02-Atomic/1738067209 - Spreadsheet.md",
+    "02-Atomic/1733918229 - Algorithm - Davis-Putnam-Logemann-Loveland.md",
+    "02-Atomic/1733917531 - Algorithm - Davis-Putnam.md",
+    "02-Atomic/1733916831 - Metodo de resolución SAT.md",
+    "02-Atomic/1733319298 - Analisis de la produccion en la empresa.md",
+    "02-Atomic/1732632985 - Posicionamiento de un producto en marketing.md",
+    "02-Atomic/1732193365 - Algoritmos de busqueda.md",
+    "02-Atomic/1732623287 - Proceso de segmentacion de mercados.md",
+    "02-Atomic/1732622827 - Estrategias de segmentacion del mercado.md",
+    "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md",
     "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
     "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
     "02-Atomic/1732037327 - Protocol - CSMA-CD.md",
-    "02-Atomic/1732035070 - Protocol - Pure ALOHA.md",
-    "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
-    "02-Atomic/1732031831 - Link channel multiple access protocols.md",
-    "02-Atomic/1732023041 - Protocol - Ethernet.md",
-    "02-Atomic/1732022695 - Protocol - CSMA.md",
-    "02-Atomic/1732021285 - Protocol - ALOHA.md",
-    "02-Atomic/1732020800 - Protocol - FDMA.md",
-    "02-Atomic/1732020527 - Protocol - TDMA.md",
-    "02-Atomic/1732018095 - The network link layer.md",
-    "02-Atomic/1731507784 - Modelado de un espacio de estados.md",
-    "02-Atomic/1731507348 - Problemas de busqueda.md",
-    "02-Atomic/1731438416 - Marketing estratégico.md",
-    "02-Atomic/1731419106 - Match-Plus-Action methods in forwarding.md",
-    "02-Atomic/1731418961 - Generalized forwarding.md",
-    "02-Atomic/1731411013 - Network Address Translation (NAT).md",
-    "02-Atomic/1731409972 - Protocol - DHCP.md",
-    "02-Atomic/1730827988 - Subnets.md",
-    "02-Atomic/1730826735 - Protocol - IPv4 protocol.md",
-    "02-Atomic/1730651695 - The Internet Protocol (IP).md",
-    "02-Atomic/1730650392 - Types of switching fabrics.md",
-    "02-Atomic/1730624725 - Router.md",
-    "02-Atomic/1730567584 - Forwarding function of the network layer.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj-1.png",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj.png",

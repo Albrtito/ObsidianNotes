@@ -6,7 +6,6 @@ aliases:
   - Apalancamiento operativo
 tags:
   - Empresa
-  - review
 References: 
 cssclasses:
 ---

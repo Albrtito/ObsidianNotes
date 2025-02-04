@@ -3,7 +3,6 @@ aliases:
   - Spreadsheet
 tags:
   - Excel
-  - review
 References: 
 cssclasses:
 ---

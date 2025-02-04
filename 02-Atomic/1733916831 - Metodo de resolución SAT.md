@@ -4,7 +4,6 @@ aliases:
   - Resolucion SAT
 tags:
   - Heuri
-  - review
 References: 
 cssclasses:
 ---

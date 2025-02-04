@@ -3,7 +3,6 @@ aliases:
   - Proceso de segmentacion de mercados
 tags:
   - Empresa
-  - review
 References: 
 cssclasses:
 ---

@@ -4,7 +4,6 @@ aliases:
   - Iterative-deepening A*
   - IDA*
 tags:
-  - incomplete
   - Heuri
 References: 
 cssclasses:

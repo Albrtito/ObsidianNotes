@@ -5,9 +5,8 @@ aliases:
   - DPLL
 tags:
   - Heuri
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-13
 sr-interval: 2
 sr-ease: 248

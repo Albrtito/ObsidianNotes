@@ -3,7 +3,6 @@ aliases:
   - Algorithm - Davis-Putnam
 tags:
   - Heuri
-  - review
 References: 
 cssclasses:
 ---

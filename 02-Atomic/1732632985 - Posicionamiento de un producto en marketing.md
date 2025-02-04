@@ -4,7 +4,6 @@ aliases:
   - Posicionamiento de producto
 tags:
   - Empresa
-  - review
 References: 
 cssclasses:
 ---

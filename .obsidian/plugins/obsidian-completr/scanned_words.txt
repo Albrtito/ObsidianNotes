@@ -4140,6 +4140,8 @@ Courses
 Chaining
 Chained
 Classes
+Complex
+Convolution
 de
 due
 dar
@@ -10408,6 +10410,8 @@ eGlmOL
 ejecute
 escribe
 embalses
+eliminar
+elimina
 programaci
 primer
 paso
@@ -22560,6 +22564,9 @@ clipboard
 chispas
 correspondent
 cuestiones
+contengan
+clausulas
+convolution
 sr
 se
 subproblemas
@@ -24748,6 +24755,8 @@ subsection
 styling
 substrae
 supone
+sustituir
+stands
 interval
 importancia
 incorrecto
@@ -38973,6 +38982,7 @@ Depends
 Dificultad
 Dominio
 Derivadas
+Dadas
 funci
 fibonacci
 fica
@@ -52788,6 +52798,7 @@ TWS
 Tvg
 Tiatordos
 TIRs
+Transforms
 grafo
 guardan
 global
@@ -56459,6 +56470,7 @@ PrintHello
 PrintAdios
 Periodicad
 Potencias
+Practice
 Biblio
 BitsPerComponent
 BI
@@ -59941,6 +59953,7 @@ Simetr
 Syntax
 Sobrescobio
 Selectors
+Satisfies
 Manual
 Modelar
 Millones

@@ -3,9 +3,8 @@ aliases:
   - Algoritmos de busqueda
 tags:
   - Heuri
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-12
 sr-interval: 3
 sr-ease: 210
