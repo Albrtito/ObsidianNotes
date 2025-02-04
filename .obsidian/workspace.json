@@ -33,9 +33,19 @@
               "icon": "lucide-file-text",
               "title": "References_Derivatives&Integrals"
             }
+          },
+          {
+            "id": "7726b0cfc5bd651a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "10b0575a715cf807",
@@ -323,14 +333,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9c46d1c108676766",
+  "active": "7726b0cfc5bd651a",
   "lastOpenFiles": [
+    "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/1738259991 - C Data Types.md",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj-1.png",
     "02-Atomic/20240620 - 174329 - Integration in one variable.md",
     "02-Atomic/20240528 - 110528 - Separable ODEs.md",
     "02-Atomic/20240528 - 104744 - Definition - Separable Equations.md",
-    "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/20240620 - 201418 - Improper Integrals.md",
     "02-Atomic/20240605 - 171753 - Methods for solving limits.md",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj.png",
