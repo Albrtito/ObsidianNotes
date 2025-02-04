@@ -3,9 +3,8 @@ aliases:
   - Protocol - Pure ALOHA
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-06
 sr-interval: 12
 sr-ease: 250

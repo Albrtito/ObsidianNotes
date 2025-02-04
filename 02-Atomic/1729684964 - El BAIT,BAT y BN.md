@@ -3,9 +3,8 @@ aliases:
   - El BAIT,BAT y BN
 tags:
   - Empresa
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-17
 sr-interval: 28
 sr-ease: 250

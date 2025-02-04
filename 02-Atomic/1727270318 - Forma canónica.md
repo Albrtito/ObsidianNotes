@@ -3,7 +3,6 @@ aliases:
   - Forma canónica
   - Forma simétrica
 tags:
-  - review
   - Heuri
 References: 
 cssclasses: 

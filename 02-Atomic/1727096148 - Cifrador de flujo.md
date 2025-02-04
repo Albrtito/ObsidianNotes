@@ -2,10 +2,9 @@
 aliases:
   - Cifrador de flujo
 tags:
-  - review
   - Cripto
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-01
 sr-interval: 29
 sr-ease: 230

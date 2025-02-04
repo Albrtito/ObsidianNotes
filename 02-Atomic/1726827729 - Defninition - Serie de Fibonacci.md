@@ -3,10 +3,9 @@ aliases:
   - Defninition - Serie de Fibonacci
   - Serie de Fibonacci
 tags:
-  - review
   - Heuri
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-03
 sr-interval: 48
 sr-ease: 290

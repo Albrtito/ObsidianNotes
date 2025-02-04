@@ -2,10 +2,9 @@
 aliases:
   - Protocol - Slotted ALOHA
 tags:
-  - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-16
 sr-interval: 6
 sr-ease: 210

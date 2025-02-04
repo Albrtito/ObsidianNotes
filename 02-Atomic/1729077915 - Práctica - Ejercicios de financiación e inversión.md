@@ -3,9 +3,8 @@ aliases:
   - Práctica - Ejercicios de financiación e inversión
 tags:
   - Empresa
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-24
 sr-interval: 52
 sr-ease: 250

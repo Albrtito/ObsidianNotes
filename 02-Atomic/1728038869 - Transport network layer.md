@@ -3,10 +3,9 @@ aliases:
   - Transport network layer
   - Transport layer
 tags:
-  - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-02-09
 sr-interval: 64
 sr-ease: 208

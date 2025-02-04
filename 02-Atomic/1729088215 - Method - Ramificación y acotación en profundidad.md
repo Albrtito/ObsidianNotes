@@ -3,9 +3,8 @@ aliases:
   - Method - Ramificación y acotación en profundidad
 tags:
   - Heuri
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-14
 sr-interval: 56
 sr-ease: 232

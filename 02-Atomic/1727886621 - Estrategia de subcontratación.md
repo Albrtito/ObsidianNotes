@@ -2,10 +2,9 @@
 aliases:
   - Estrategia de subcontratación
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-03-25
 sr-interval: 126
 sr-ease: 270

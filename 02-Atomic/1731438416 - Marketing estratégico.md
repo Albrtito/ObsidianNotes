@@ -3,7 +3,6 @@ aliases:
   - Marketing estratégico
 tags:
   - Empresa
-  - review
 References: 
 cssclasses:
 ---

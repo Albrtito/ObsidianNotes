@@ -2,10 +2,9 @@
 aliases:
   - Circuit switcing
 tags:
-  - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-10
 sr-interval: 69
 sr-ease: 270

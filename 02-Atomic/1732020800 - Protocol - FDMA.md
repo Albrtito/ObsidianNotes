@@ -5,9 +5,8 @@ aliases:
   - FDMA
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-02
 sr-interval: 10
 sr-ease: 288

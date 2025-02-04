@@ -3,9 +3,8 @@ aliases:
   - Resolucion de sistemas lineales
 tags:
   - Algebra
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-18
 sr-interval: 45
 sr-ease: 290

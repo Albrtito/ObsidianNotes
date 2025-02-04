@@ -2,10 +2,9 @@
 aliases:
   - Loss and delay in Networks
 tags:
-  - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-19
 sr-interval: 30
 sr-ease: 205

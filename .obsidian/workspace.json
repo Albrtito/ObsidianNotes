@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/20240524 - 190723 - HTML IDs.md",
+                "file": "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20240524 - 190723 - HTML IDs"
+              "title": "1732193684 - Algoritmos de busqueda por fuerza bruta"
             }
           }
         ],
@@ -42,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/20240524 - 190723 - HTML IDs.md",
+                "file": "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 20240524 - 190723 - HTML IDs"
+              "title": "Graph of 1732193684 - Algoritmos de busqueda por fuerza bruta"
             }
           },
           {
@@ -136,10 +136,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#review",
+                "query": "tag:review",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/20240524 - 190723 - HTML IDs.md"
+                "file": "02-Atomic/1732193684 - Algoritmos de busqueda por fuerza bruta.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 20240524 - 190723 - HTML IDs"
+              "title": "Outline of 1732193684 - Algoritmos de busqueda por fuerza bruta"
             }
           },
           {
@@ -255,34 +255,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0f92d65666692db7",
+  "active": "6b68997b1155d3b5",
   "lastOpenFiles": [
-    "02-Atomic/20240524 - 190013 - HTML Classes.md",
-    "02-Atomic/20240524 - 185631 - CSS Syntax.md",
-    "02-Atomic/20240524 - 184531 - CSS.md",
-    "02-Atomic/20240524 - 184256 - Odin - Fundations Course.md",
-    "02-Atomic/20240524 - 184049 - The Odin Project.md",
-    "02-Atomic/1726825216 - Programación Dinámica.md",
-    "02-Atomic/Parque Natural de Redes.md",
-    "02-Atomic/20240705 - 175359 - Equipo Chispas.md",
-    "02-Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
-    "02-Atomic/pbcopy.md",
-    "02-Atomic/caffeinate.md",
-    "02-Atomic/Clases Sigrid.md",
-    "02-Atomic/20240619 - 145219 - Definition - Static Method.md",
-    "02-Atomic/1726315729 - Problem - Problema de agente.md",
-    "02-Atomic/1726315564 - Definition - Cooperativa.md",
-    "02-Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
-    "02-Atomic/1726241677 - Definition - Empresas sociales.md",
-    "02-Atomic/1726241219 - Definition - Empresas Individuales.md",
-    "02-Atomic/1726234693 - Intro a la seguridad informática.md",
-    "02-Atomic/1726067427 - Tipos de empresas.md",
-    "02-Atomic/1726049888 - Protocol - Net protocols.md",
-    "02-Atomic/1726049339 - Definition - Packet switches.md",
-    "02-Atomic/1726049178 - Definition - Communication links.md",
-    "02-Atomic/1725968193 - Intro to networking.md",
-    "02-Atomic/1725918620 - Cadena de valor.md",
-    "02-Atomic/1725918135 - Teoría económica de la empresa.md",
+    "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
+    "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
+    "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
+    "02-Atomic/1732037327 - Protocol - CSMA-CD.md",
+    "02-Atomic/1732035070 - Protocol - Pure ALOHA.md",
+    "02-Atomic/1732035034 - Protocol - Slotted ALOHA.md",
+    "02-Atomic/1732031831 - Link channel multiple access protocols.md",
+    "02-Atomic/1732023041 - Protocol - Ethernet.md",
+    "02-Atomic/1732022695 - Protocol - CSMA.md",
+    "02-Atomic/1732021285 - Protocol - ALOHA.md",
+    "02-Atomic/1732020800 - Protocol - FDMA.md",
+    "02-Atomic/1732020527 - Protocol - TDMA.md",
+    "02-Atomic/1732018095 - The network link layer.md",
+    "02-Atomic/1731507784 - Modelado de un espacio de estados.md",
+    "02-Atomic/1731507348 - Problemas de busqueda.md",
+    "02-Atomic/1731438416 - Marketing estratégico.md",
+    "02-Atomic/1731419106 - Match-Plus-Action methods in forwarding.md",
+    "02-Atomic/1731418961 - Generalized forwarding.md",
+    "02-Atomic/1731411013 - Network Address Translation (NAT).md",
+    "02-Atomic/1731409972 - Protocol - DHCP.md",
+    "02-Atomic/1730827988 - Subnets.md",
+    "02-Atomic/1730826735 - Protocol - IPv4 protocol.md",
+    "02-Atomic/1730651695 - The Internet Protocol (IP).md",
+    "02-Atomic/1730650392 - Types of switching fabrics.md",
+    "02-Atomic/1730624725 - Router.md",
+    "02-Atomic/1730567584 - Forwarding function of the network layer.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj-1.png",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj.png",

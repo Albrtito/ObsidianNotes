@@ -2,10 +2,9 @@
 aliases:
   - Method - Resolución gráfica de modelos lineales
 tags:
-  - review
   - Heuri
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-11-25
 sr-interval: 41
 sr-ease: 250

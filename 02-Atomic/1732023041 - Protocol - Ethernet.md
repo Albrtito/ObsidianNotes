@@ -4,9 +4,8 @@ aliases:
   - Ethernet
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-01
 sr-interval: 23
 sr-ease: 225

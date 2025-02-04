@@ -5,9 +5,8 @@ aliases:
   - Classless Interdomain Routing
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-02-01
 sr-interval: 56
 sr-ease: 290

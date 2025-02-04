@@ -4,9 +4,8 @@ aliases:
   - IPv4
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-11-28
 sr-interval: 6
 sr-ease: 250

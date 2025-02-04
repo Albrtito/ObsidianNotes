@@ -4,9 +4,8 @@ aliases:
   - Tipos de sistemas productivos
 tags:
   - Empresa
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-05
 sr-interval: 57
 sr-ease: 243

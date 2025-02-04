@@ -5,9 +5,8 @@ aliases:
   - switching
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-17
 sr-interval: 40
 sr-ease: 270

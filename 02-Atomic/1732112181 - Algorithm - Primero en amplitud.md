@@ -4,7 +4,6 @@ aliases:
   - Primero en amplitud
 tags:
   - Heuri
-  - review
 References: 
 cssclasses: 
 sr-due: 2024-11-24

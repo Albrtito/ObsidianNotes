@@ -3,10 +3,9 @@ aliases:
   - Sustitución polialfabética no-periódica
   - Método de Vernam
 tags:
-  - review
   - Cripto
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-21
 sr-interval: 77
 sr-ease: 269

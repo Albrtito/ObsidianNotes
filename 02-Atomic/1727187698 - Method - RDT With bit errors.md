@@ -2,7 +2,6 @@
 aliases:
   - Method - RDT With bit errors
 tags:
-  - review
   - Networks
 References: 
 cssclasses: 

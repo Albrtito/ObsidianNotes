@@ -2,10 +2,9 @@
 aliases:
   - Expresiones condicionales en programación lineal
 tags:
-  - review
   - Heuri
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-11-23
 sr-interval: 1
 sr-ease: 130

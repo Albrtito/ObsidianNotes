@@ -3,7 +3,6 @@ aliases:
   - Best effort services
   - best-effort service
 tags:
-  - review
   - Networks
 References: 
 cssclasses: 

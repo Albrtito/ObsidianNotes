@@ -5,9 +5,8 @@ aliases:
   - Patrimonio neto
 tags:
   - Empresa
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-07
 sr-interval: 18
 sr-ease: 230

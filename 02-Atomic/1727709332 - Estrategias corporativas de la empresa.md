@@ -3,10 +3,9 @@ aliases:
   - Estrategias corporativas de la empresa
   - Estrategias corporativas
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-31
 sr-interval: 20
 sr-ease: 210

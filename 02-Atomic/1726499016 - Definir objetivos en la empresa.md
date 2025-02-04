@@ -2,10 +2,9 @@
 aliases:
   - Definir objetivos en la empresa
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-12
 sr-interval: 64
 sr-ease: 250

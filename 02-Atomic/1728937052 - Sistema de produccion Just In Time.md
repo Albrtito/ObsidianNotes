@@ -2,10 +2,9 @@
 aliases:
   - Sistema de produccion Just In Time
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-11-25
 sr-interval: 23
 sr-ease: 230

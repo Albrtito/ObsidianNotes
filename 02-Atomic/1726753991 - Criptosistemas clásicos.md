@@ -2,10 +2,9 @@
 aliases:
   - Criptosistemas clásicos
 tags:
-  - review
   - Cripto
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-02
 sr-interval: 30
 sr-ease: 204

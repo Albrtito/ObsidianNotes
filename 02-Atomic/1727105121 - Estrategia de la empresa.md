@@ -2,10 +2,9 @@
 aliases:
   - Estrategia de la empresa
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-04-28
 sr-interval: 155
 sr-ease: 290

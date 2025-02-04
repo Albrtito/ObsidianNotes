@@ -3,9 +3,8 @@ aliases:
   - Types of switching fabrics
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-03
 sr-interval: 11
 sr-ease: 288

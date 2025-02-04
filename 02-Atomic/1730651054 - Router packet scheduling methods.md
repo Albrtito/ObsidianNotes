@@ -4,9 +4,8 @@ aliases:
   - Packet scheduling
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-01
 sr-interval: 9
 sr-ease: 268

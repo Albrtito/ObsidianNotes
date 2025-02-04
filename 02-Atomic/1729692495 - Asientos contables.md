@@ -3,9 +3,8 @@ aliases:
   - Asientos
 tags:
   - Empresa
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-30
 sr-interval: 53
 sr-ease: 250

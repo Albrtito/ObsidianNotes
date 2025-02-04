@@ -2,10 +2,9 @@
 aliases:
   - Sistemas de produccion flexibles
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-27
 sr-interval: 20
 sr-ease: 170

@@ -2,10 +2,9 @@
 aliases:
   - Entorno y competencia de la empresa
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-26
 sr-interval: 54
 sr-ease: 190

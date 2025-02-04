@@ -4,9 +4,8 @@ aliases:
   - PASIVO
 tags:
   - Empresa
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-18
 sr-interval: 55
 sr-ease: 250

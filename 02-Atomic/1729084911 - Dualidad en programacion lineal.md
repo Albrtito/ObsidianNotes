@@ -3,9 +3,8 @@ aliases:
   - Dualidad en programacion lineal
 tags:
   - Heuri
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-25
 sr-interval: 18
 sr-ease: 174

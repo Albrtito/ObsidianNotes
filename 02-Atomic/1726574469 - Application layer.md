@@ -2,10 +2,9 @@
 aliases:
   - Application layer
 tags:
-  - review
   - Networks
 References: "[[Net_References_s2_1.pdf]]"
-cssclasses:
+cssclasses: 
 sr-due: 2025-03-04
 sr-interval: 85
 sr-ease: 230

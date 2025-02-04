@@ -2,10 +2,9 @@
 aliases:
   - Postulados de Golomb
 tags:
-  - review
   - Cripto
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-11-30
 sr-interval: 28
 sr-ease: 230

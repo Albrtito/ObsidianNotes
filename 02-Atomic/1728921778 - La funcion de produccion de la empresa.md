@@ -3,7 +3,6 @@ aliases:
   - La funcion de produccion de la empresa
 tags:
   - Empresa
-  - review
 References: 
 cssclasses: 
 sr-due: 2024-12-07

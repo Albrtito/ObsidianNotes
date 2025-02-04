@@ -3,10 +3,9 @@ aliases:
   - Definición - Saldo de la balanza comercial
   - Saldo de la balanza comercial
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-15
 sr-interval: 24
 sr-ease: 270

@@ -2,10 +2,9 @@
 aliases:
   - Sustitución monoalfabeto monográfica
 tags:
-  - review
   - Cripto
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-13
 sr-interval: 52
 sr-ease: 269

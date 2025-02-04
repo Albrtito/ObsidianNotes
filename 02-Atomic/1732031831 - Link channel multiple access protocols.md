@@ -5,7 +5,6 @@ aliases:
   - MAC Protocols
 tags:
   - Networks
-  - review
 References: 
 cssclasses: 
 sr-due: 2024-12-06

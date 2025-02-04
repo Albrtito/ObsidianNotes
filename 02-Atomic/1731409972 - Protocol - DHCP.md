@@ -5,9 +5,8 @@ aliases:
   - Dinamic Host Configuration Protocol
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-11
 sr-interval: 35
 sr-ease: 270

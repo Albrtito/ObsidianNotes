@@ -2,10 +2,9 @@
 aliases:
   - Method - RDT Sliding window
 tags:
-  - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-05
 sr-interval: 33
 sr-ease: 205

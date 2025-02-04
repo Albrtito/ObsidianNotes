@@ -4,10 +4,9 @@ aliases:
   - Las 5 fuerzas de Porter
   - Análisis de Porter
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-23
 sr-interval: 51
 sr-ease: 250

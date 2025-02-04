@@ -2,10 +2,9 @@
 aliases:
   - Method - RDT Over reliable channel
 tags:
-  - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-07-13
 sr-interval: 218
 sr-ease: 310

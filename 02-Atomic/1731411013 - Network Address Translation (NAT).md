@@ -4,9 +4,8 @@ aliases:
   - NAT
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-13
 sr-interval: 21
 sr-ease: 270

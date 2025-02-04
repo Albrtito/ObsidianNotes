@@ -4,9 +4,8 @@ aliases:
   - IP
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-02-02
 sr-interval: 57
 sr-ease: 290

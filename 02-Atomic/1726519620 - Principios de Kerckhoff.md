@@ -2,10 +2,9 @@
 aliases:
   - Principios de Kerckhoff
 tags:
-  - review
   - Cripto
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-15
 sr-interval: 74
 sr-ease: 250

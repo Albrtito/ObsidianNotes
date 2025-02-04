@@ -2,7 +2,6 @@
 aliases:
   - Estrategia de globalización
 tags:
-  - review
   - Empresa
 References: 
 cssclasses: 

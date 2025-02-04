@@ -3,9 +3,8 @@ aliases:
   - Creación de informes en programación lineal
 tags:
   - Heuri
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-21
 sr-interval: 14
 sr-ease: 211

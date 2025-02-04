@@ -3,10 +3,9 @@ aliases:
   - Definition - Criptografía
   - Criptografía
 tags:
-  - review
   - Cripto
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-29
 sr-interval: 19
 sr-ease: 190

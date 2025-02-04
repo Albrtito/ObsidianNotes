@@ -4,10 +4,9 @@ aliases:
   - TLS
   - Transport Layer Security
 tags:
-  - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-29
 sr-interval: 88
 sr-ease: 270

@@ -2,10 +2,9 @@
 aliases:
   - Criptosistemas modernos
 tags:
-  - review
   - Cripto
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-03-15
 sr-interval: 94
 sr-ease: 263

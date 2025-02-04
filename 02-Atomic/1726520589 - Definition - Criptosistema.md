@@ -3,7 +3,6 @@ aliases:
   - Definition - Criptosistema
   - Criptosistema
 tags:
-  - review
   - Cripto
 References: 
 cssclasses: 

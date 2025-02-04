@@ -2,10 +2,9 @@
 aliases:
   - Programación Lineal
 tags:
-  - review
   - Heuri
 References: 
-cssclasses: []
+cssclasses: 
 sr-due: 2025-03-05
 sr-interval: 109
 sr-ease: 272

@@ -3,9 +3,8 @@ aliases:
   - Generalized forwarding
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-02-03
 sr-interval: 57
 sr-ease: 270

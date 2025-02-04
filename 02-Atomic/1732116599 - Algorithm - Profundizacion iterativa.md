@@ -3,9 +3,8 @@ aliases:
   - Algorithm - Profundizacion iterativa
 tags:
   - Heuri
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-26
 sr-interval: 19
 sr-ease: 228

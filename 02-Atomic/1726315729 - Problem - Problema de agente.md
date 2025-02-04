@@ -3,10 +3,9 @@ aliases:
   - Problem - Problema de agente
   - Problema de agente
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-02-25
 sr-interval: 115
 sr-ease: 270

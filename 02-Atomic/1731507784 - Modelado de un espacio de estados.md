@@ -3,9 +3,8 @@ aliases:
   - Modelado de un espacio de estados
 tags:
   - Heuri
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-29
 sr-interval: 22
 sr-ease: 230

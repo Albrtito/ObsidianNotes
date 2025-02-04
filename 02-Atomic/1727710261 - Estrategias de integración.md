@@ -2,7 +2,6 @@
 aliases:
   - Estrategias de integración
 tags:
-  - review
   - Empresa
 References: 
 cssclasses: 

@@ -3,10 +3,9 @@ aliases:
   - UDP
   - Definition - UDP
 tags:
-  - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-12
 sr-interval: 40
 sr-ease: 230

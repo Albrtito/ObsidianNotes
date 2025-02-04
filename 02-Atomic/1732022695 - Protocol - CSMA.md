@@ -4,9 +4,8 @@ aliases:
   - CSMA
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-11-27
 sr-interval: 6
 sr-ease: 243

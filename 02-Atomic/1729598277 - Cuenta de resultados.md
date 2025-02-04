@@ -4,9 +4,8 @@ aliases:
   - Cuenta de pérdidas y ganancias
 tags:
   - Empresa
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-19
 sr-interval: 30
 sr-ease: 250

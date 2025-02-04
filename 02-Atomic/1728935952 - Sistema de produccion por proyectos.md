@@ -2,10 +2,9 @@
 aliases:
   - Sistema de produccion por proyectos
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-04
 sr-interval: 43
 sr-ease: 210

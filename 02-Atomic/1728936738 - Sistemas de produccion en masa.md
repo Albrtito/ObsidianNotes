@@ -2,10 +2,9 @@
 aliases:
   - Sistemas de produccion en masa
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-18
 sr-interval: 29
 sr-ease: 190

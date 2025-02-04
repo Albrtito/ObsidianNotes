@@ -2,11 +2,10 @@
 aliases:
   - Restos potenciales
 tags:
-  - review
   - Discrete
   - Cripto
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-19
 sr-interval: 40
 sr-ease: 250

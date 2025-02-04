@@ -2,10 +2,9 @@
 aliases:
   - The three way handshake
 tags:
-  - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-02
 sr-interval: 61
 sr-ease: 248

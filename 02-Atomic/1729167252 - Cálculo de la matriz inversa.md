@@ -5,9 +5,8 @@ aliases:
 tags:
   - Heuri
   - Algebra
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-28
 sr-interval: 70
 sr-ease: 290

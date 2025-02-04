@@ -5,7 +5,6 @@ aliases:
   - Algorithm - SIMPLEX
 tags:
   - Heuri
-  - review
 References: 
 cssclasses: 
 sr-due: 2024-11-23

@@ -3,9 +3,8 @@ aliases:
   - Algoritmos de busqueda por fuerza bruta
 tags:
   - Heuri
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-25
 sr-interval: 49
 sr-ease: 250

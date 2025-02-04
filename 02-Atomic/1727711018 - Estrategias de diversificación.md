@@ -2,7 +2,6 @@
 aliases:
   - Estrategias de diversificación
 tags:
-  - review
   - Empresa
 References: 
 cssclasses: 

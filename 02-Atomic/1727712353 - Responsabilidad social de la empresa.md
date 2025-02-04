@@ -2,10 +2,9 @@
 aliases:
   - Responsabilidad social de la empresa
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-02-10
 sr-interval: 63
 sr-ease: 270

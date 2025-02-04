@@ -3,7 +3,6 @@ aliases:
   - Estrategias competitivas de la empresa
   - Estrategias competitivas
 tags:
-  - review
   - Empresa
 References: 
 cssclasses: 

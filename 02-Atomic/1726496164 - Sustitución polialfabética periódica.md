@@ -2,10 +2,9 @@
 aliases:
   - Sustitución polialfabética periódica
 tags:
-  - review
   - Cripto
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-02-27
 sr-interval: 98
 sr-ease: 249

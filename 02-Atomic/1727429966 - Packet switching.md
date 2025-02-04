@@ -2,10 +2,9 @@
 aliases:
   - Packet switching
 tags:
-  - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-26
 sr-interval: 48
 sr-ease: 208

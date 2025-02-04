@@ -2,7 +2,6 @@
 aliases:
   - Complejidad lineal de una serie cifrante
 tags:
-  - review
   - Cripto
 References: 
 cssclasses: 

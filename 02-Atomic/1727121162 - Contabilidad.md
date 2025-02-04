@@ -3,9 +3,8 @@ aliases:
   - Contabilidad
 tags:
   - Empresa
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-07
 sr-interval: 49
 sr-ease: 270

@@ -2,7 +2,6 @@
 aliases:
   - Creación de modelos en programación lineal
 tags:
-  - review
   - Heuri
 References: 
 cssclasses: 

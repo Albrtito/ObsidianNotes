@@ -3,7 +3,6 @@ aliases:
   - RDT With errors and loss
   - Method - RDT With errors and loss
 tags:
-  - review
   - Networks
 References: 
 cssclasses: 

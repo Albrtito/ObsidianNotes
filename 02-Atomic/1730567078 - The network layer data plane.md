@@ -4,7 +4,6 @@ aliases:
   - Data plane
 tags:
   - Networks
-  - review
 References: 
 cssclasses: 
 sr-due: 2025-07-20

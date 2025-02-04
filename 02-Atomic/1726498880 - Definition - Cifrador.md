@@ -3,10 +3,9 @@ aliases:
   - Definition - Cifrador
   - Cifrador
 tags:
-  - review
   - Cripto
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-02-26
 sr-interval: 116
 sr-ease: 270

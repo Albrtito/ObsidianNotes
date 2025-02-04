@@ -3,10 +3,9 @@ aliases:
   - Closing a TCP connection
   - Closing TCP
 tags:
-  - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-03
 sr-interval: 62
 sr-ease: 250

@@ -3,9 +3,8 @@ aliases:
   - Estados contables
 tags:
   - Empresa
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-01
 sr-interval: 15
 sr-ease: 230

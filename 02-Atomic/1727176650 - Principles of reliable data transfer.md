@@ -2,10 +2,9 @@
 aliases:
   - Principles of reliable data transfer
 tags:
-  - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-12
 sr-interval: 54
 sr-ease: 248

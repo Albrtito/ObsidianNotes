@@ -4,7 +4,6 @@ aliases:
   - Indicador de Euler
   - Eulers totient function
 tags:
-  - review
   - Cripto
   - Discrete
 References: 

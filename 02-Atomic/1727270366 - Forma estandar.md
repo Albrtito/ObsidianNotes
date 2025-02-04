@@ -2,10 +2,9 @@
 aliases:
   - Forma estandar
 tags:
-  - review
   - Heuri
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-06-11
 sr-interval: 221
 sr-ease: 270

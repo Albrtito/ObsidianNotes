@@ -4,9 +4,8 @@ aliases:
   - ACTIVO
 tags:
   - Empresa
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-09
 sr-interval: 46
 sr-ease: 250

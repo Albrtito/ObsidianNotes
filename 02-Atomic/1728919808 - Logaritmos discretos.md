@@ -2,10 +2,9 @@
 aliases:
   - Logaritmos discretos
 tags:
-  - review
   - Cripto
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-11-27
 sr-interval: 25
 sr-ease: 246

@@ -4,9 +4,8 @@ aliases:
   - El proceso de transformación
 tags:
   - Empresa
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-22
 sr-interval: 15
 sr-ease: 207

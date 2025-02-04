@@ -4,7 +4,6 @@ aliases:
   - Problemas SAT
   - SAT
 tags:
-  - review
   - Heuri
 sr-due: 2024-12-14
 sr-interval: 3

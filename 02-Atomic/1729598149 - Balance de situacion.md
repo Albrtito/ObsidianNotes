@@ -3,9 +3,8 @@ aliases:
   - Balance de situacion
 tags:
   - Empresa
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-16
 sr-interval: 27
 sr-ease: 250

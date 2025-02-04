@@ -5,9 +5,8 @@ aliases:
   - CSMA/CD
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-11-28
 sr-interval: 4
 sr-ease: 210

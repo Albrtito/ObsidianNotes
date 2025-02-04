@@ -2162,6 +2162,7 @@ acu
 alter
 alert
 alters
+ade
 Creaci
 Crear
 Cuando
@@ -6256,6 +6257,8 @@ derivadas
 deportivas
 development
 div
+dura
+durar
 modelos
 modelo
 maximizar
@@ -8257,6 +8260,7 @@ middlepoints
 moves
 multiply
 motor
+modelizar
 en
 ease
 es
@@ -12591,6 +12595,10 @@ piping
 parque
 pathways
 purple
+plantea
+packback
+ptimos
+preocuparse
 lineal
 la
 lo
@@ -14421,6 +14429,7 @@ librer
 libre
 lago
 learn
+lidas
 tags
 tres
 todos
@@ -16356,6 +16365,7 @@ tOP
 tcV
 tipado
 tochas
+tuviese
 review
 resolver
 realizar
@@ -18391,6 +18401,7 @@ relaciona
 resourece
 recreativo
 repeats
+repartidos
 References
 Resoluci
 Rectas
@@ -22548,6 +22559,7 @@ caffeinate
 clipboard
 chispas
 correspondent
+cuestiones
 sr
 se
 subproblemas
@@ -24734,6 +24746,8 @@ selects
 snippet
 subsection
 styling
+substrae
+supone
 interval
 importancia
 incorrecto
@@ -26772,6 +26786,8 @@ iDf
 ixf
 introduced
 intervalos
+infinitesimalmente
+igualandao
 un
 una
 utiliza
@@ -28448,6 +28464,7 @@ ubh
 ujh
 uwX
 unread
+unbounded
 hora
 hacemos
 hacia
@@ -33683,6 +33700,7 @@ vTlQ
 vXNL
 vivac
 veh
+vans
 no
 nuestras
 ndar
@@ -40778,6 +40796,7 @@ fpF
 fEr
 fono
 foundations
+forzar
 objetivo
 obtener
 of
@@ -42467,6 +42486,8 @@ ocn
 oiw
 outputting
 odin
+obliga
+ofertas
 que
 queremos
 qD
@@ -52766,6 +52787,7 @@ Tfl
 TWS
 Tvg
 Tiatordos
+TIRs
 grafo
 guardan
 global
@@ -54525,6 +54547,7 @@ gHj
 gtQQ
 gUs
 ggh
+groupps
 Programaci
 Para
 Problema
@@ -61745,6 +61768,7 @@ MBz
 Mmh
 Mqw
 MyClass
+Manteniendo
 Zivkovic
 Zo
 Zi
@@ -68449,6 +68473,7 @@ UTU
 UfN
 UXn
 UJB
+Utilziar
 QUE
 Que
 QE
@@ -71787,6 +71812,7 @@ ObP
 Oggi
 OUW
 Odin
+OSOPANDA
 ximo
 xrL
 xFQ

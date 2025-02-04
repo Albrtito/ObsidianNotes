@@ -3,7 +3,6 @@ aliases:
   - Problemas de busqueda
 tags:
   - Heuri
-  - review
 References: 
 cssclasses: 
 sr-due: 2025-02-04

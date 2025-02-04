@@ -5,9 +5,8 @@ aliases:
   - The link layer
 tags:
   - Networks
-  - review
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-19
 sr-interval: 8
 sr-ease: 210
