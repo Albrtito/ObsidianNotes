@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "IA"
             }
+          },
+          {
+            "id": "94901d05080a7158",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/IA_Biblio_Russell_Norvig.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "IA_Biblio_Russell_Norvig"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -42,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/IA.md",
+                "file": "00-References/IA_Biblio_Russell_Norvig.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of IA"
+              "title": "Graph of IA_Biblio_Russell_Norvig"
             }
           }
         ]
@@ -229,8 +242,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1648b34dd77b5b1b",
+  "active": "94901d05080a7158",
   "lastOpenFiles": [
+    "02-Atomic/IA.md",
+    "00-References/IA_Biblio_Russell_Norvig.pdf",
     "02-Atomic/1731662455 - Practica - Routers.md",
     "02-Atomic/1728309909 - MAC.md",
     "02-Atomic/1726510122 - LFSR.md",
@@ -256,7 +271,6 @@
     "02-Atomic/1732116599 - Algorithm - Profundizacion iterativa.md",
     "02-Atomic/1732114607 - Algorithm - Primero en profundidad.md",
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
-    "02-Atomic/1732037327 - Protocol - CSMA-CD.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj-1.png",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj.png",
@@ -276,7 +290,6 @@
     "99-Meta/0. Attachments/1732633633 - MarketingMix - Productoj.png",
     "99-Meta/2. Scripts/buscar_dudas.py",
     "99-Meta/2. Scripts/Dudas",
-    "99-Meta/2. Scripts/dudas_2.py~",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
