@@ -2,10 +2,9 @@
 aliases:
   - Definition - Empresa
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-03-16
 sr-interval: 117
 sr-ease: 250

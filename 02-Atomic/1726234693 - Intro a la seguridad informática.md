@@ -2,10 +2,9 @@
 aliases:
   - Intro a la seguridad informática
 tags:
-  - review
   - Cripto
 References: https://aulaglobal.uc3m.es/pluginfile.php/7291371/mod_resource/content/1/M1_Intro_Ciber_Cifrado_2425.pdf
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-20
 sr-interval: 48
 sr-ease: 210

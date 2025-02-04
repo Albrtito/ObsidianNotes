@@ -2,7 +2,6 @@
 aliases:
   - Teoría socio-económica de la empresa
 tags:
-  - review
   - Empresa
 References: 
 cssclasses: 

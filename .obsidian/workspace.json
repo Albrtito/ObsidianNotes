@@ -4,94 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "373e5a52fd843a08",
+        "id": "8d26b3fb94266351",
         "type": "tabs",
         "children": [
           {
-            "id": "33bb6a67dab7622f",
+            "id": "6b68997b1155d3b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1738259991 - C Data Types.md",
+                "file": "02-Atomic/20240524 - 190723 - HTML IDs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1738259991 - C Data Types"
-            }
-          },
-          {
-            "id": "9c46d1c108676766",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00-References/References_Derivatives&Integrals.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "References_Derivatives&Integrals"
-            }
-          },
-          {
-            "id": "7726b0cfc5bd651a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20240524 - 190723 - HTML IDs"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "10b0575a715cf807",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9c47b3003715bbfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1738080627 - Lenguaje C.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1738080627 - Lenguaje C"
-            }
-          },
-          {
-            "id": "8982488670a34d95",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00-References/C_Guia.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "C_Guia"
-            }
-          },
-          {
-            "id": "516ec09ab3f96b8d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00-References/C_IntroDistri.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "C_IntroDistri"
-            }
-          }
-        ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -110,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1738259991 - C Data Types.md",
+                "file": "02-Atomic/20240524 - 190723 - HTML IDs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +53,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "tag:#incomplete  ",
@@ -178,13 +110,6 @@
                         "a": 1,
                         "rgb": 14048348
                       }
-                    },
-                    {
-                      "query": "tag:#Distri  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6149724
-                      }
                     }
                   ],
                   "collapse-display": true,
@@ -193,25 +118,25 @@
                   "nodeSizeMultiplier": 2.79537653688525,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.0242737249838606,
-                  "repelStrength": 15.3311814073596,
+                  "centerStrength": 0.116525423728814,
+                  "repelStrength": 20,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.09229580869883151,
+                  "scale": 0.04720385129123739,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1738259991 - C Data Types"
+              "title": "Graph of 20240524 - 190723 - HTML IDs"
             }
           },
           {
-            "id": "29e3a00ba6e74a87",
+            "id": "0f92d65666692db7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#review",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,18 +146,9 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "03da6c1b94246574",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f340046a713a91df",
@@ -244,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
+                "file": "02-Atomic/20240524 - 190723 - HTML IDs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730827988 - Subnets"
+              "title": "Outline of 20240524 - 190723 - HTML IDs"
             }
           },
           {
@@ -262,13 +178,11 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 334
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -280,21 +194,30 @@
         "dimension": 63.45609065155807,
         "children": [
           {
-            "id": "2dca472e18c0e06a",
+            "id": "25035ac93f5900cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "025fd26697c36c2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {
-                "file": "02-Atomic/Distribuidos.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "sortOrder": "frequency",
+                "useHierarchy": true
               },
-              "icon": "lucide-file",
-              "title": "Distribuidos"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -315,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,39 +255,40 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7726b0cfc5bd651a",
+  "active": "0f92d65666692db7",
   "lastOpenFiles": [
+    "02-Atomic/20240524 - 190013 - HTML Classes.md",
+    "02-Atomic/20240524 - 185631 - CSS Syntax.md",
+    "02-Atomic/20240524 - 184531 - CSS.md",
+    "02-Atomic/20240524 - 184256 - Odin - Fundations Course.md",
+    "02-Atomic/20240524 - 184049 - The Odin Project.md",
+    "02-Atomic/1726825216 - Programación Dinámica.md",
+    "02-Atomic/Parque Natural de Redes.md",
+    "02-Atomic/20240705 - 175359 - Equipo Chispas.md",
+    "02-Atomic/20240527 - 190732 - Theorem - Solution of a non-homogeneous recurrence relation.md",
+    "02-Atomic/pbcopy.md",
+    "02-Atomic/caffeinate.md",
+    "02-Atomic/Clases Sigrid.md",
+    "02-Atomic/20240619 - 145219 - Definition - Static Method.md",
+    "02-Atomic/1726315729 - Problem - Problema de agente.md",
+    "02-Atomic/1726315564 - Definition - Cooperativa.md",
+    "02-Atomic/1726242484 - Definition - Sociedad anónima (S.A).md",
+    "02-Atomic/1726241677 - Definition - Empresas sociales.md",
+    "02-Atomic/1726241219 - Definition - Empresas Individuales.md",
+    "02-Atomic/1726234693 - Intro a la seguridad informática.md",
+    "02-Atomic/1726067427 - Tipos de empresas.md",
+    "02-Atomic/1726049888 - Protocol - Net protocols.md",
+    "02-Atomic/1726049339 - Definition - Packet switches.md",
+    "02-Atomic/1726049178 - Definition - Communication links.md",
+    "02-Atomic/1725968193 - Intro to networking.md",
+    "02-Atomic/1725918620 - Cadena de valor.md",
+    "02-Atomic/1725918135 - Teoría económica de la empresa.md",
     "00-References/References_Derivatives&Integrals.pdf",
-    "02-Atomic/1738259991 - C Data Types.md",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj-1.png",
-    "02-Atomic/20240620 - 174329 - Integration in one variable.md",
-    "02-Atomic/20240528 - 110528 - Separable ODEs.md",
-    "02-Atomic/20240528 - 104744 - Definition - Separable Equations.md",
-    "02-Atomic/20240620 - 201418 - Improper Integrals.md",
-    "02-Atomic/20240605 - 171753 - Methods for solving limits.md",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj.png",
     "00-References/C_Guia.pdf",
-    "02-Atomic/1738080627 - Lenguaje C.md",
     "00-References/C_IntroDistri.pdf",
-    "02-Atomic/Distribuidos.md",
     "99-Meta/0. Attachments/1738080627 - Lenguaje Cj.png",
-    "02-Atomic/Filo 101.md",
-    "02-Atomic/IA.md",
-    "02-Atomic/1738162902 - - Untitled Suffix.md",
-    "02-Atomic/1725895664 - Naturaleza y de la empresa.md",
-    "02-Atomic/1727711018 - Estrategias de diversificación.md",
-    "02-Atomic/Definition - Limits.md",
-    "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
-    "01-Areas/1.UC3M/DiffCalc.md",
-    "02-Atomic/Advanced Excel.md",
-    "02-Atomic/1738068458 - Intro to spreadsheets.md",
-    "02-Atomic/20240605 - 165543 - Infty indeterminate forms.md",
-    "02-Atomic/20240620 - 154721 - Taylor Polynomial.md",
-    "02-Atomic/1738067209 - Spreadsheet.md",
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
-    "02-Atomic/1731662455 - Practica - Routers.md",
-    "01-Areas/1.UC3M/Networks.md",
-    "02-Atomic/1737987572 - Introduction to Databases.md",
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
     "00-References/Heuri_Resources_Problemas.pdf",
     "00-References/MovilidadInt_ListadoPlzOfertadas25.pdf",

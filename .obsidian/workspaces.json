@@ -2236,8 +2236,31 @@
                   "icon": "lucide-file",
                   "title": "1738259991 - C Data Types"
                 }
+              },
+              {
+                "id": "9c46d1c108676766",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "00-References/References_Derivatives&Integrals.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "References_Derivatives&Integrals"
+                }
+              },
+              {
+                "id": "7726b0cfc5bd651a",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "10b0575a715cf807",
@@ -2459,8 +2482,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 246,
-        "collapsed": true
+        "width": 246
       },
       "right": {
         "id": "8881aa8c79e29157",
@@ -2525,8 +2547,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "33bb6a67dab7622f",
-      "mtime": "2025-01-31T13:44:34+01:00"
+      "active": "7726b0cfc5bd651a",
+      "mtime": "2025-02-04T18:31:44+01:00"
     },
     "IA": {
       "main": {
@@ -3290,5 +3312,5 @@
       "mtime": "2025-01-28T15:02:48+01:00"
     }
   },
-  "active": "Distri"
+  "active": "Recall"
 }

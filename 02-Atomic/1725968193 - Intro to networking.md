@@ -2,10 +2,9 @@
 aliases:
   - Intro to networking
 tags:
-  - review
   - Networks
 References: "[[Net_Biblio_Kurose.pdf#page=28]]"
-cssclasses:
+cssclasses: 
 sr-due: 2025-02-16
 sr-interval: 87
 sr-ease: 230

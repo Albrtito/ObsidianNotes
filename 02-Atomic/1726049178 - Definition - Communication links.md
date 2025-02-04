@@ -3,10 +3,9 @@ aliases:
   - Definition - Communication links
   - Communication links
 tags:
-  - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-07-25
 sr-interval: 230
 sr-ease: 328

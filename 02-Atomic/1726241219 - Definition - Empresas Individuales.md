@@ -3,10 +3,9 @@ aliases:
   - Definition - Empresas Individuales
   - Empresas Individuales
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-22
 sr-interval: 61
 sr-ease: 250

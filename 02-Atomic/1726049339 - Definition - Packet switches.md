@@ -3,7 +3,6 @@ aliases:
   - Definition - Packet switches
   - Packet switches
 tags:
-  - review
   - Networks
 References: 
 cssclasses: 

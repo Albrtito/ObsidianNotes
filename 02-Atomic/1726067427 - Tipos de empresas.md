@@ -2,10 +2,9 @@
 aliases:
   - Tipos de empresas
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-12
 sr-interval: 23
 sr-ease: 150

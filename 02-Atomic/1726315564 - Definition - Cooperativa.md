@@ -3,10 +3,9 @@ aliases:
   - Definition - Cooperativa
   - Cooperativa
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-03-30
 sr-interval: 143
 sr-ease: 290

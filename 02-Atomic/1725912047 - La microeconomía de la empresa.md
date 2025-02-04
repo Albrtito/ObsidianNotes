@@ -2,10 +2,9 @@
 aliases:
   - La microeconomía de la empresa
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-04-20
 sr-interval: 162
 sr-ease: 290

@@ -2,7 +2,6 @@
 aliases:
   - Naturaleza de la empresa
 tags:
-  - review
   - Empresa
 References: 
 cssclasses: 

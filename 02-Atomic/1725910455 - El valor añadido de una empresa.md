@@ -2,10 +2,9 @@
 aliases:
   - Valor añadido de una empresa
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-31
 sr-interval: 109
 sr-ease: 290

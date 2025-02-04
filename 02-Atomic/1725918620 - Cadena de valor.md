@@ -2,10 +2,9 @@
 aliases:
   - Cadena de valor
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-06-25
 sr-interval: 197
 sr-ease: 290

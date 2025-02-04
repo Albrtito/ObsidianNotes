@@ -4,10 +4,9 @@ aliases:
   - Sociedad anónima (S.A)
   - (S.A)
 tags:
-  - review
   - Empresa
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2025-01-02
 sr-interval: 25
 sr-ease: 170

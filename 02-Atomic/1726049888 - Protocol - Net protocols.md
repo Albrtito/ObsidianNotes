@@ -2,10 +2,9 @@
 aliases:
   - Net protocols
 tags:
-  - review
   - Networks
 References: 
-cssclasses:
+cssclasses: 
 sr-due: 2024-12-21
 sr-interval: 60
 sr-ease: 250
