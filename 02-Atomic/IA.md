@@ -35,7 +35,7 @@ cssclasses:
 + S. Russell, P. Norvig . Artificial Intelligence. Prentice Hall . 2009
 
 ## Notas:
-
++ jj
 ## Ejercicios:
 
 ***
