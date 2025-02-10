@@ -2263,6 +2263,7 @@ aQxVxJ
 ahB
 aff
 admins
+asociadas
 Creaci
 Crear
 Cuando
@@ -4345,6 +4346,7 @@ CXrI
 CUQ
 CMMp
 Combination
+Concurrency
 de
 due
 dar
@@ -13172,6 +13174,7 @@ pYH
 pzwW
 psg
 ptKSG
+punteros
 lineal
 la
 lo
@@ -17153,6 +17156,7 @@ tUk
 tEE
 tFXYyY
 therfore
+threads
 review
 resolver
 realizar
@@ -19284,6 +19288,7 @@ rsjA
 rnb
 rRf
 rAqp
+resource
 References
 Resoluci
 Rectas
@@ -23685,6 +23690,7 @@ cSO
 cfe
 classify
 coded
+concurrency
 sr
 se
 subproblemas
@@ -41040,6 +41046,7 @@ Defining
 Designing
 DBMS
 DMBS
+Dining
 funci
 fibonacci
 fica
@@ -59511,6 +59518,7 @@ PLA
 PlTg
 PGUW
 Production
+Philosophers
 Biblio
 BitsPerComponent
 BI
@@ -63194,6 +63202,7 @@ Sequential
 Semi
 Semantics
 Support
+Synchronisation
 Manual
 Modelar
 Millones
@@ -70505,6 +70514,7 @@ bDu
 brPL
 bread
 bakery
+brings
 Util
 Una
 UniZumo
