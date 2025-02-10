@@ -44,7 +44,13 @@ cssclasses:
 > + Mutex/Semáforos
 
 ![[1739203641 - Comunicación y sincronización entre procesosj.png|center|500]]
-Se utilizan los threads para paralelizar procesos
+
+Se utilizan los threads para paralelizar procesos, aplicar la estrategia de divide y venceras y poder modularizar una aplicación. 
++ Maximizamos uso de recursos
++ Ejecutar mientras que se ejecutan actividades I/O que bloquean. Un hilo se queda bloqueado mientras que otro se mantiene ejecutando. 
+
+Un ejemplo claro de uso de threads para paralelizar procesos es en servidores: [[20240509 - 142155 -Server concurrency|Server concurrency]]
+
 
 
 

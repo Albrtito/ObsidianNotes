@@ -2266,6 +2266,7 @@ admins
 asociadas
 advantage
 abiertos
+admission
 Creaci
 Crear
 Cuando
@@ -6572,6 +6573,8 @@ dUT
 ddGZa
 dxCb
 distribuidos
+discussed
+demand
 modelos
 modelo
 maximizar
@@ -8668,6 +8671,7 @@ mQG
 mclfSy
 moX
 messaging
+modularizar
 en
 ease
 es
@@ -13188,6 +13192,10 @@ ptKSG
 punteros
 programs
 paralelizar
+prototypes
+pool
+passed
+pending
 lineal
 la
 lo
@@ -17173,6 +17181,7 @@ tFXYyY
 therfore
 threads
 transistors
+thread
 review
 resolver
 realizar
@@ -19308,6 +19317,8 @@ resource
 resolves
 rescursos
 rquicamente
+reception
+receives
 References
 Resoluci
 Rectas
@@ -21199,6 +21210,7 @@ Retrieve
 Race
 Readers
 Reside
+Reply
 cssclasses
 correcto
 correcta
@@ -23725,6 +23737,8 @@ comunican
 cooperan
 comparte
 coass
+cost
+copy
 sr
 se
 subproblemas
@@ -26040,6 +26054,10 @@ sxEzg
 sQU
 sorted
 sincronizaci
+simulation
+served
+startup
+servidores
 interval
 importancia
 incorrecto
@@ -35502,6 +35520,7 @@ vcs
 vam
 vRCf
 vvG
+venceras
 no
 nuestras
 ndar
@@ -37297,6 +37316,7 @@ nuK
 nZSL
 nVL
 nzwq
+needing
 Identificar
 Intro
 Identificaci
@@ -43009,6 +43029,7 @@ fHs
 fnJg
 fLI
 foros
+focusses
 objetivo
 obtener
 of
@@ -46536,6 +46557,7 @@ qoeW
 qXYA
 qwd
 qqU
+quality
 Algorith
 Algorithm
 All
@@ -48541,6 +48563,7 @@ AzuA
 AJH
 AfB
 AZj
+Although
 Floyd
 Foundations
 Funci
@@ -55671,6 +55694,7 @@ TFcQtl
 TkUj
 Thread
 Temporizadores
+Threads
 grafo
 guardan
 global
@@ -59570,6 +59594,7 @@ Production
 Philosophers
 Possible
 Programa
+Pool
 Biblio
 BitsPerComponent
 BI
@@ -63257,6 +63282,8 @@ Synchronisation
 Since
 Shared
 Semaphores
+Simulations
+Simulation
 Manual
 Modelar
 Millones
@@ -65194,6 +65221,8 @@ Mrp
 MlT
 Manipulation
 Mutex
+Must
+Maximizamos
 Zivkovic
 Zo
 Zi
@@ -70571,6 +70600,7 @@ bread
 bakery
 brings
 bloqueado
+bloquean
 Util
 Una
 UniZumo
@@ -82738,6 +82768,7 @@ GrYUu
 Gsr
 GrB
 Gestionado
+Generic
 Nota
 Novo
 Nacional
