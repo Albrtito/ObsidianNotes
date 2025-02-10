@@ -2262,6 +2262,7 @@ aCn
 aQxVxJ
 ahB
 aff
+admins
 Creaci
 Crear
 Cuando
@@ -4343,6 +4344,7 @@ CtQ
 CXrI
 CUQ
 CMMp
+Combination
 de
 due
 dar
@@ -17150,6 +17152,7 @@ tIYm
 tUk
 tEE
 tFXYyY
+therfore
 review
 resolver
 realizar
@@ -21168,6 +21171,7 @@ RRp
 Rxfq
 RZBiq
 RbIO
+Retrieve
 cssclasses
 correcto
 correcta
@@ -23679,6 +23683,8 @@ cze
 cFL
 cSO
 cfe
+classify
+coded
 sr
 se
 subproblemas
@@ -25992,6 +25998,7 @@ sfzLf
 sHF
 sxEzg
 sQU
+sorted
 interval
 importancia
 incorrecto
@@ -28137,6 +28144,7 @@ iQE
 icm
 ivYA
 iNOE
+invariant
 un
 una
 utiliza
@@ -29902,6 +29910,7 @@ ukEA
 uTW
 uGmV
 umx
+utilization
 hora
 hacemos
 hacia
@@ -33622,6 +33631,8 @@ EWW
 Eat
 ExH
 EFQ
+Edit
+Edits
 vital
 variables
 vez
@@ -41025,6 +41036,10 @@ Dok
 DMK
 DAn
 DRP
+Defining
+Designing
+DBMS
+DMBS
 funci
 fibonacci
 fica
@@ -44736,6 +44751,7 @@ ohm
 otF
 oUm
 oAI
+organization
 que
 queremos
 qD
@@ -53738,6 +53754,7 @@ HLU
 HmmI
 HSR
 HMo
+Hasshing
 TODOS
 The
 Trabajo
@@ -63172,6 +63189,11 @@ SaUA
 SOl
 SLy
 SjmJ
+Serial
+Sequential
+Semi
+Semantics
+Support
 Manual
 Modelar
 Millones
@@ -65107,6 +65129,7 @@ MhC
 MuW
 Mrp
 MlT
+Manipulation
 Zivkovic
 Zo
 Zi
@@ -70480,6 +70503,8 @@ bsx
 bdGg
 bDu
 brPL
+bread
+bakery
 Util
 Una
 UniZumo
@@ -72215,6 +72240,7 @@ UfF
 Uvl
 UOgg
 Ugc
+Utilization
 QUE
 Que
 QE
@@ -74011,6 +74037,7 @@ QSPSU
 Qbn
 QTMQT
 QDgv
+Queries
 Obtener
 Opti
 Objetivo
