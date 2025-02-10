@@ -2275,6 +2275,9 @@ ate
 awt
 aVtF
 atributo
+answers
+arrived
+acquire
 Creaci
 Crear
 Cuando
@@ -6599,6 +6602,7 @@ dOdf
 dCe
 dIG
 detachstate
+deviate
 modelos
 modelo
 maximizar
@@ -15209,6 +15213,8 @@ leQ
 loI
 lZL
 lSvD
+lock
+locked
 tags
 tres
 todos
@@ -17259,6 +17265,7 @@ tUfdd
 tRe
 txa
 tcm
+themselves
 review
 resolver
 realizar
@@ -19411,6 +19418,8 @@ rGA
 rOc
 rRbv
 remark
+reaaaly
+releases
 References
 Resoluci
 Rectas
@@ -23853,6 +23862,8 @@ comand
 conf
 counts
 comunicarse
+causing
+convenient
 sr
 se
 subproblemas
@@ -26193,6 +26204,12 @@ snYN
 svgf
 shown
 systemd
+signalling
+semaphoreName
+semWait
+semSignal
+subtracts
+synchronization
 interval
 importancia
 incorrecto
@@ -28355,6 +28372,9 @@ iafn
 ivLz
 iBL
 independiente
+initialising
+initialise
+initialised
 un
 una
 utiliza
@@ -30127,6 +30147,9 @@ uBun
 uMMT
 uSi
 uyr
+unlock
+unblock
+unlocked
 hora
 hacemos
 hacia
@@ -37501,6 +37524,7 @@ nnoK
 nGM
 ngj
 nnx
+notice
 Identificar
 Intro
 Identificaci
@@ -39362,6 +39386,9 @@ ILq
 IMeE
 IbN
 Iniciar
+Initialisation
+Initialise
+Indicate
 Definir
 Din
 Design
@@ -45038,6 +45065,7 @@ oUey
 oaG
 owO
 oukq
+onwards
 que
 queremos
 qD
@@ -57856,6 +57884,7 @@ gJAH
 ggcy
 gGB
 gup
+gains
 Programaci
 Para
 Problema
@@ -63601,6 +63630,8 @@ SqV
 Seteando
 STDOUT
 STDIN
+Semaphore
+Signal
 Manual
 Modelar
 Millones
@@ -65548,6 +65579,7 @@ MARE
 MhZT
 MoZ
 Mygg
+Mutes
 Zivkovic
 Zo
 Zi
@@ -72702,6 +72734,8 @@ UVXe
 UXg
 UQF
 UDQ
+Unlock
+Unblocks
 QUE
 Que
 QE
@@ -88470,6 +88504,7 @@ yVKFz
 yfGH
 yeU
 ypN
+yourself
 JFIF
 Jn
 Jg
@@ -93776,6 +93811,7 @@ wiO
 wtx
 wxo
 wpL
+wether
 kL
 kMZ
 kC

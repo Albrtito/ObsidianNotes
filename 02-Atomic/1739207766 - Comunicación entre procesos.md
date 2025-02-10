@@ -12,4 +12,6 @@ Para comunicarse entre procesos existen distintos métodos:
 + memoria compartida 
 + paso de mensajes 
 	+ Utilizando cola de mensajes para procesos en la misma máquina
+	+ Utilizando sockets si los procesos no están en la misma máquina 
+	+ 
 ***

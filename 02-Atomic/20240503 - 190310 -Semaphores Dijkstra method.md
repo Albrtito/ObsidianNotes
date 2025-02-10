@@ -22,7 +22,7 @@ A process can get the resource if **there is no process running and the count is
 **Remarks:**
 + #Duda : Semaphores are implemented in hardware so that their operations can be atomic? In the test of the OS course two opposite answers are given. 
 
-f.e: If there are 4 processes, all require the same resource. 
+>f.e: If there are 4 processes, all require the same resource. 
 	1. Semaphore is created → **semaphoreName = 0** 
 	2. P1 get’s the resource → **semaphoreName = -1**
 	3. P2 want’s to get it but it can’t as there is another process using it, so it waits → **semaphoreName = -2**
@@ -36,7 +36,7 @@ f.e: If there are 4 processes, all require the same resource.
 	11. P3 gets the resource
 	12. P3 finishes → **semaphoreName = 0**
 	
-	**Remark:** See that there is no order specified, P4 can get the resource first even though P3 arrived first.
++ **Remark:** See that there is no order specified, P4 can get the resource first even though P3 arrived first.
 
 ## Things to have in mind when implementing semaphores:
 

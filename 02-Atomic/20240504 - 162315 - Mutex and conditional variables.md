@@ -22,7 +22,6 @@ Then an implementation with critical sections would be:
 lock(m); /*entry into critical section */
 <critical section>
 unlock(s); /*exit from critical section */
-
 ```
 **Remarks:**
 + Unlock operation must be performed by the thread that locked.
