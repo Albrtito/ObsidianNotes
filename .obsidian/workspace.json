@@ -43,16 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/20240509 - 142155 -Server concurrency.md",
+                "file": "02-Atomic/20240504 - 162427 -POSIX.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20240509 - 142155 -Server concurrency"
+              "title": "20240504 - 162427 -POSIX"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1739203641 - Comunicación y sincronización entre procesos.md",
+                "file": "02-Atomic/20240504 - 162427 -POSIX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +164,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1739203641 - Comunicación y sincronización entre procesos"
+              "title": "Graph of 20240504 - 162427 -POSIX"
             }
           },
           {
@@ -294,12 +295,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "516ec09ab3f96b8d",
+  "active": "63982da0ec08d3e6",
   "lastOpenFiles": [
-    "00-References/C_IntroDistri.pdf",
-    "02-Atomic/1739203641 - Comunicación y sincronización entre procesos.md",
     "02-Atomic/20240509 - 142155 -Server concurrency.md",
     "02-Atomic/Concurrency.md",
+    "02-Atomic/1739203641 - Comunicación y sincronización entre procesos.md",
+    "00-References/C_IntroDistri.pdf",
     "02-Atomic/Threads.md",
     "99-Meta/0. Attachments/1739203641 - Comunicación y sincronización entre procesosj.png",
     "02-Atomic/Distribuidos.md",

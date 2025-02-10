@@ -4355,6 +4355,7 @@ Cooperating
 Competing
 Consumer
 Contador
+Conditional
 de
 due
 dar
@@ -26058,6 +26059,9 @@ simulation
 served
 startup
 servidores
+standards
+society
+shells
 interval
 importancia
 incorrecto
@@ -39170,6 +39174,7 @@ IQmr
 Independent
 Interactions
 Instrucciones
+IEEE
 Definir
 Din
 Design
@@ -48564,6 +48569,7 @@ AJH
 AfB
 AZj
 Although
+APIs
 Floyd
 Foundations
 Funci
@@ -59595,6 +59601,7 @@ Philosophers
 Possible
 Programa
 Pool
+Portable
 Biblio
 BitsPerComponent
 BI
@@ -75886,6 +75893,7 @@ Oni
 OAs
 Oxe
 Oae
+Operating
 ximo
 xrL
 xFQ
