@@ -24,6 +24,7 @@ The last main advantage is on the usage of IO. Concurrency lets the CPU work on 
 Processes run without interaction between them. **The easy way of doing concurrency**
 + No communication 
 + No synchronisation
+
 ## Cooperating: 
 Process that run concurrently with some interaction.Something about one of the process is needed for the other one. 
 This is **way harder** than independent concurrency as managing the interaction gets really complicated. 
