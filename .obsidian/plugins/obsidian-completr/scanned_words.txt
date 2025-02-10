@@ -2264,6 +2264,7 @@ ahB
 aff
 admins
 asociadas
+advantage
 Creaci
 Crear
 Cuando
@@ -4347,6 +4348,10 @@ CUQ
 CMMp
 Combination
 Concurrency
+CPUs
+Cooperating
+Competing
+Consumer
 de
 due
 dar
@@ -6564,6 +6569,7 @@ dTw
 dUT
 ddGZa
 dxCb
+distribuidos
 modelos
 modelo
 maximizar
@@ -8659,6 +8665,7 @@ mKs
 mQG
 mclfSy
 moX
+messaging
 en
 ease
 es
@@ -10901,6 +10908,7 @@ eHQ
 euR
 edeCe
 ejmW
+experience
 programaci
 primer
 paso
@@ -13175,6 +13183,7 @@ pzwW
 psg
 ptKSG
 punteros
+programs
 lineal
 la
 lo
@@ -15118,6 +15127,7 @@ lsL
 lIWOp
 lJaL
 lzH
+late
 tags
 tres
 todos
@@ -17157,6 +17167,7 @@ tEE
 tFXYyY
 therfore
 threads
+transistors
 review
 resolver
 realizar
@@ -19289,6 +19300,8 @@ rnb
 rRf
 rAqp
 resource
+resolves
+rescursos
 References
 Resoluci
 Rectas
@@ -21177,6 +21190,8 @@ Rxfq
 RZBiq
 RbIO
 Retrieve
+Race
+Readers
 cssclasses
 correcto
 correcta
@@ -23691,6 +23706,16 @@ cfe
 classify
 coded
 concurrency
+concurrent
+cores
+core
+concurrently
+complicated
+compete
+concurrence
+conecctados
+comunican
+cooperan
 sr
 se
 subproblemas
@@ -26005,6 +26030,7 @@ sHF
 sxEzg
 sQU
 sorted
+sincronizaci
 interval
 importancia
 incorrecto
@@ -28151,6 +28177,7 @@ icm
 ivYA
 iNOE
 invariant
+initially
 un
 una
 utiliza
@@ -39108,6 +39135,9 @@ IUMB
 IgH
 Ixy
 IQmr
+Independent
+Interactions
+Instrucciones
 Definir
 Din
 Design
@@ -44759,6 +44789,7 @@ otF
 oUm
 oAI
 organization
+overheating
 que
 queremos
 qD
@@ -52022,6 +52053,7 @@ WrJ
 WwJs
 WiC
 Wzu
+Writers
 Heuri
 Hecho
 HyO
@@ -59519,6 +59551,8 @@ PlTg
 PGUW
 Production
 Philosophers
+Possible
+Programa
 Biblio
 BitsPerComponent
 BI
@@ -63203,6 +63237,9 @@ Semi
 Semantics
 Support
 Synchronisation
+Since
+Shared
+Semaphores
 Manual
 Modelar
 Millones
@@ -98416,6 +98453,7 @@ KWn
 KLT
 Kff
 KiR
+Kinds
 ÜL
 ÜI
 Ün

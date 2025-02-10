@@ -48,7 +48,7 @@ cssclasses:
 ## Biblio:
 
 ## Notas:
-+  
++  [[1739203641 - Comunicación y sincronización entre procesos|Comunicación y sincronización entre procesos]]
 
 ## Ejercicios:
 
