@@ -25,6 +25,10 @@ Processes run without interaction between them. **The easy way of doing concurre
 + No communication 
 + No synchronisation
 
+> [!Attention] Remakr:
+> + Comparten recuros de hardware
+> + Siguen compitiendo por los recursos al tenerlos compartidos
+
 ## Cooperating: 
 Process that run concurrently with some interaction.Something about one of the process is needed for the other one. 
 This is **way harder** than independent concurrency as managing the interaction gets really complicated. 
@@ -32,12 +36,13 @@ This is **way harder** than independent concurrency as managing the interaction 
 + Possible synchronisation (they have to finish together at one time)
 
 ### Interactions between processes: 
-+ Shared resource
++ **Shared resource**
 	Both processes use the same data or compete for that data. Competing for the data happens in a [Race condition](Race%20condition.md)
-+ Communication 
++ **Communication** 
 	Shared global variables or some messaging between processes
-+ Synchronisation: 
-	A process having to wait for events in other processes. This is using resources until the other process ends. In order to ensure synchronisation the [20240503 - 190310 -Semaphores Dijkstra method](20240503%20-%20190310%20-Semaphores%20Dijkstra%20method.md) is used
++ **Synchronisation:** 
+	A process having to wait for events in other processes. This is using resources until the other process ends. In order to ensure synchronisation methods such as [[20240503 - 190310 -Semaphores Dijkstra method|Semaphores]] or [[20240504 - 162315 - Mutex and conditional variables|Mutex and conditional variables]] are used.
+	+ Other methods such as an [[20240408 - 164250 -Atomic Execution|atomic code snippet]] can be used. 
 
 # Algorithms to solve problems. 
 Based on all explained for this chapter two possible algorithms appear in order to solve process concurrence. This algorithms are explained from the point of view of the problem they are created to solve. 

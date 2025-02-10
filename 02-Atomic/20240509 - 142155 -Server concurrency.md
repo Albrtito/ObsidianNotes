@@ -37,10 +37,7 @@ This means an **excessive use of resources**
 	+ Problems with quality
 
 #### Simulations: 
-![Implementation-Process based server](20240509%20-%20155121%20-%20Simulation%20-%20Process%20based%20server.md)
-
-
-
++ [[20240509 - 155121 - Simulation - Process based server|Implementation-Process based server]]
 
 ### Thread server:
 The thread per-request solution focusses on creating a new thread each time a request is received. This creation of threads can be done in two ways: 
@@ -60,10 +57,7 @@ The thread per-request solution focusses on creating a new thread each time a re
 	+ **Must be a copy of the request**
 
 ##### Simulation:
-![Simulation - Threads on-demand server](20240509%20-%20161400%20-%20Simulation%20-%20Threads%20on-demand%20server.md)
-
-
-
++ [[20240509 - 161400 - Simulation - Threads on-demand server|Simulation - Threads on-demand server]]
 
 
 #### Thread pool server: 
@@ -71,4 +65,4 @@ The thread per-request solution focusses on creating a new thread each time a re
 + A queue of pending request is created to feed the threads. 
 + All threads wait until some request is in the queue.
 ##### Simulation:
-![Simulation - Thread Pool Server](20240509%20-%20191823%20-%20Simulation%20-%20Thread%20Pool%20Server.md)
++ [[20240509 - 191823 - Simulation - Thread Pool Server|Simulation - Thread Pool Server]]
