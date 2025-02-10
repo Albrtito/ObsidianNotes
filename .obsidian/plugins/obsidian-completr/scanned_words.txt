@@ -2265,6 +2265,7 @@ aff
 admins
 asociadas
 advantage
+abiertos
 Creaci
 Crear
 Cuando
@@ -4352,6 +4353,7 @@ CPUs
 Cooperating
 Competing
 Consumer
+Contador
 de
 due
 dar
@@ -10909,6 +10911,7 @@ euR
 edeCe
 ejmW
 experience
+ejecutando
 programaci
 primer
 paso
@@ -13184,6 +13187,7 @@ psg
 ptKSG
 punteros
 programs
+paralelizar
 lineal
 la
 lo
@@ -15128,6 +15132,7 @@ lIWOp
 lJaL
 lzH
 late
+listo
 tags
 tres
 todos
@@ -19302,6 +19307,7 @@ rAqp
 resource
 resolves
 rescursos
+rquicamente
 References
 Resoluci
 Rectas
@@ -21192,6 +21198,7 @@ RbIO
 Retrieve
 Race
 Readers
+Reside
 cssclasses
 correcto
 correcta
@@ -23716,6 +23723,8 @@ concurrence
 conecctados
 comunican
 cooperan
+comparte
+coass
 sr
 se
 subproblemas
@@ -31682,6 +31691,9 @@ hhe
 hhda
 hkI
 hJLK
+hilo
+hilos
+hijos
 Es
 Este
 Ejemplos
@@ -42996,6 +43008,7 @@ fmpK
 fHs
 fnJg
 fLI
+foros
 objetivo
 obtener
 of
@@ -53794,6 +53807,7 @@ HmmI
 HSR
 HMo
 Hasshing
+Hilo
 TODOS
 The
 Trabajo
@@ -55655,6 +55669,8 @@ TTh
 TwK
 TFcQtl
 TkUj
+Thread
+Temporizadores
 grafo
 guardan
 global
@@ -57529,6 +57545,7 @@ grUZ
 gpz
 gEo
 gBBJ
+globales
 Programaci
 Para
 Problema
@@ -65176,6 +65193,7 @@ MuW
 Mrp
 MlT
 Manipulation
+Mutex
 Zivkovic
 Zo
 Zi
@@ -70552,6 +70570,7 @@ brPL
 bread
 bakery
 brings
+bloqueado
 Util
 Una
 UniZumo
@@ -82718,6 +82737,7 @@ Gdz
 GrYUu
 Gsr
 GrB
+Gestionado
 Nota
 Novo
 Nacional
@@ -91477,6 +91497,7 @@ jRHo
 jvZd
 jTS
 jgE
+jer
 wA
 wo
 wpMuB
