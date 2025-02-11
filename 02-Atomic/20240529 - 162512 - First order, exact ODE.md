@@ -59,7 +59,7 @@ Where g(x) is the **integration constant**
 
 Both options in order based on the las step:
 
-+ Now derive partially over u. Knowing that it has to be equal to N
+1. Now derive partially over u. Knowing that it has to be equal to N
 $$
 \begin{gather}
 \frac{\partial f}{\partial u} = \frac{g(u) + \int [M(x,u)]dx }{\partial u}\\
@@ -75,7 +75,7 @@ g(u) = \int g(u)' du
 $$
 Finally this value is inputted in f(x,u) to obtain the complete form of the function.
 
-+ Now derive partially over x Knowing that it has to be equal to M
+2. Now derive partially over x Knowing that it has to be equal to M
 
 $$
 \begin{gather}

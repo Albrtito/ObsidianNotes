@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -306,14 +306,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d8cbe4faf21d70b4",
+  "active": "423d918eaea6f521",
   "lastOpenFiles": [
+    "02-Atomic/20240528 - 110528 - Separable ODEs.md",
+    "02-Atomic/20240529 - 162512 - First order, exact ODE.md",
+    "02-Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-    "02-Atomic/20240529 - 162512 - First order, exact ODE.md",
-    "02-Atomic/20240528 - 110528 - Separable ODEs.md",
     "02-Atomic/20240307 - 000000 - ODEs.md",
-    "02-Atomic/20240528 - 121302 - First order, Linear  ODE.md",
     "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/20240620 - 174329 - Integration in one variable.md",
