@@ -59,14 +59,28 @@ Always, when looking for solutions, an essential part is to look for [[20240528 
 ## ODEs and PDEs
 When analysing a differential equation, the resulting function we find can be of two types: 
 Lets say that the function is f(x):
-1. IF the function **only depends on one independent variable**: $f(x) → The differential equation is an **Ordinary Differential Equation** or [[20240307 - 000000 - ODEs|ODE]]
+1. IF the function **only depends on one independent variable**: $f(x)$ → The differential equation is an **Ordinary Differential Equation** or [[20240307 - 000000 - ODEs|ODE]]
 	+ The derivatives of f(x) are **ordinary derivatives**
    
 2. IF the function **depends on more than one independent variable:** $f(x_1,x_2,...,x_n)$. 
    Then the differential equation is a **Partial Differential Equation** or [[20240418 - 193416 - Partial Differential Equations (PDEs)|PDEs]]
    The derivatives of $f(x_1,x_2,…,x_n)$ are partial derivatives. 
 ### Properties:
-There are two import
+There are two important properties of DEs: 
+
+> [!NOTE] Order: 
+> Highest order deriative in the equation.
+> > f(x) + 3 f'(x) + f``(x) = 3: Order 2
+> > f(x) + 3f'(x) = 3: Order 1
+
+> [!NOTE] Linearity: 
+> An DE is linear when the unknown and its derivatives satisfy:
+> 1. Their exponent is equal to 1
+> 2. No products or ratios between them
+> 3. They are not composed with other functions
+>
+> > -y + yy' = 3: Non linear. Product between solution and its derivative
+
 
 ## Solving methods: 
 

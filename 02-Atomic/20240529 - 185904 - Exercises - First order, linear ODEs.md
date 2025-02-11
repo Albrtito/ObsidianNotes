@@ -4,7 +4,7 @@ aliases:
 tags:
   - DiffCalc
 "References:":
-  - "[[20240528 - 121302 - First order, Linear  ODE|First order, Linear  ODE]]"
+  - "[[20240528 - 121302 - First order linear  ODE|First order, Linear  ODE]]"
 cssclasses:
   - page-manila
 sr-due: 2024-10-17

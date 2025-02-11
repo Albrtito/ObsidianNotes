@@ -6603,6 +6603,7 @@ dCe
 dIG
 detachstate
 deviate
+deriative
 modelos
 modelo
 maximizar
@@ -10963,6 +10964,7 @@ ePS
 eLes
 eNG
 espere
+explican
 programaci
 primer
 paso
@@ -13257,6 +13259,7 @@ pCtg
 pMc
 padre
 pies
+products
 lineal
 la
 lo
@@ -41334,6 +41337,7 @@ DCIG
 DFE
 DFL
 DETACHED
+Diferential
 funci
 fibonacci
 fica
@@ -54125,6 +54129,7 @@ HhY
 HpHrI
 HNnllTZ
 HHRb
+Highest
 TODOS
 The
 Trabajo
@@ -59918,6 +59923,7 @@ PPmU
 PaQ
 Prdr
 PTHREAD
+Product
 Biblio
 BitsPerComponent
 BI
