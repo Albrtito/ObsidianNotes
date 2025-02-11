@@ -15,8 +15,15 @@ sr-ease: 190
 > **Conditions:**
 > + Order 1
 > + linear
-> **Method:**
-> 
+> **Estandar form:**
+>$$
+> \frac{dy}{dx} + P(x) y = f(x)
+>$$ 
+>**Method:**
+> 1. Obtain integration factor: $$u = e^{\int P(x)}$$
+> 2. Solution given by: $$\frac{d[u*y]}{dx} = f(x)*u$$
+> 3. Integration at both sides: $$ \int\frac{d[u*y]}{dx} dx = \int f(x)*u \space dx$$ 
+> 4. Solve right side integral: (Left side goes away by FTC): $$ u*y = \int f(x)*u \space dx$$
 
 
 
