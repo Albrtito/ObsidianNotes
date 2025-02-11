@@ -17,6 +17,7 @@ Collection of notes and concepts about the computation of integrals in one varia
 The first thing to see is how to compute the value of the primitive integrals and all the methods that we can use to do so. These methods are collected in the following note:
 + [[20240620 - 174413 - Calculus of primitive integrals|Calculus of primitive integrals]]
 
+
 The computation of integrals can be done without any knowledge of what actually is an integral. In order to understand that concept we need to explain what the **fundamental theorem of calculus** is: 
 
 ## Fundamental theorem of calculus:
