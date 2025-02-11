@@ -8,125 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b97c4432b4c2b29",
+            "id": "72d411c7df7c2395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/20240307 - 000000 - ODEs.md",
+                "file": "02-Atomic/1737987572 - Introduction to Databases.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20240307 - 000000 - ODEs"
+              "title": "1737987572 - Introduction to Databases"
             }
           },
           {
-            "id": "eaebb17d58f0c031",
+            "id": "9409571279996a32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+                "file": "02-Atomic/Relational Model.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20240208 - 000000 - Definition - Differential Equations"
+              "title": "Relational Model"
             }
           },
           {
-            "id": "d8cbe4faf21d70b4",
+            "id": "47d4dd3a39593bd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
+                "file": "02-Atomic/1739196838 - DB Relational dynamics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20240528 - 121302 - First order linear  ODE"
-            }
-          },
-          {
-            "id": "dfa1ad2de610e9c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240528 - 110528 - Separable ODEs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20240528 - 110528 - Separable ODEs"
-            }
-          },
-          {
-            "id": "423d918eaea6f521",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240529 - 162512 - First order, exact ODE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20240529 - 162512 - First order, exact ODE"
-            }
-          },
-          {
-            "id": "a60df8b58e613f57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20240529 - 180146 - First order, homogeneous, substitutions ODEs"
-            }
-          },
-          {
-            "id": "65e313af893cd976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/Order 2 linear ODE's.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Order 2 linear ODE's"
-            }
-          },
-          {
-            "id": "f42836ecf599813d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00-References/References_Derivatives&Integrals.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "References_Derivatives&Integrals"
+              "title": "1739196838 - DB Relational dynamics"
             }
           }
         ],
-        "currentTab": 7,
-        "stacked": true
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/20240605 - 171753 - Methods for solving limits.md",
+                "file": "02-Atomic/1739196838 - DB Relational dynamics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,6 +140,13 @@
                         "a": 1,
                         "rgb": 14048348
                       }
+                    },
+                    {
+                      "query": "tag:#FilesAndDB  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048429
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -230,7 +164,34 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 20240605 - 171753 - Methods for solving limits"
+              "title": "Graph of 1739196838 - DB Relational dynamics"
+            }
+          },
+          {
+            "id": "f711782e507bc62d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "387311d8b57452b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -245,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
+                "file": "02-Atomic/1739196838 - DB Relational dynamics.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730827988 - Subnets"
+              "title": "Outline of 1739196838 - DB Relational dynamics"
             }
           },
           {
@@ -263,13 +224,11 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -286,13 +245,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+                "file": "01-Areas/1.UC3M/Files&DB.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20240208 - 000000 - Definition - Differential Equations"
+              "title": "Files&DB"
             }
           }
         ]
@@ -333,8 +292,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f42836ecf599813d",
+  "active": "47d4dd3a39593bd8",
   "lastOpenFiles": [
+    "02-Atomic/20240529 - 162512 - First order exact ODE.md",
+    "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
     "02-Atomic/Order 2 linear ODE's.md",
     "02-Atomic/Distribuidos.md",
@@ -343,11 +304,9 @@
     "02-Atomic/20240307 - 000000 - ODEs.md",
     "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02-Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-    "02-Atomic/20240529 - 162512 - First order, exact ODE.md",
     "02-Atomic/20240528 - 110528 - Separable ODEs.md",
     "02-Atomic/20240620 - 174329 - Integration in one variable.md",
     "01-Areas/1.UC3M/DiffCalc.md",
-    "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
     "02-Atomic/1739207766 - Comunicación entre procesos.md",
     "02-Atomic/20240509 - 142155 -Server concurrency.md",
@@ -365,7 +324,6 @@
     "00-References/C_Guia.pdf",
     "02-Atomic/1738080627 - Lenguaje C.md",
     "02-Atomic/1739196838 - DB Relational dynamics.md",
-    "02-Atomic/1737987572 - Introduction to Databases.md",
     "00-References/IA_Biblio_Russell_Norvig.pdf",
     "00-References/Filo_Biblio_APlatoReader.pdf",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj-1.png",

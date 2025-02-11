@@ -1,7 +1,7 @@
 ---
 aliases:
   - Exact ODE
-  - First order, exact ODE
+  - First order exact ODE
 tags:
   - DiffCalc
 "References:": 
@@ -10,7 +10,7 @@ sr-due: 2024-10-12
 sr-interval: 4
 sr-ease: 150
 ---
-# First order, exact ODEs:
+# First order exact ODEs:
 Exact ODEs are those that can be written in the form: 
 #Duda : Esto es así con f solo derivada en x? No me cuadra si luego utilizamos la parcial solo en x para resolver. 
 $$
