@@ -111,9 +111,21 @@
               "icon": "lucide-file",
               "title": "Order 2 linear ODE's"
             }
+          },
+          {
+            "id": "f42836ecf599813d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/References_Derivatives&Integrals.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "References_Derivatives&Integrals"
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -321,14 +333,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d8cbe4faf21d70b4",
+  "active": "f42836ecf599813d",
   "lastOpenFiles": [
+    "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
     "02-Atomic/Order 2 linear ODE's.md",
     "02-Atomic/Distribuidos.md",
     "02-Atomic/20240504 - 162315 - Mutex and conditional variables.md",
     "02-Atomic/1738259991 - C Data Types.md",
     "02-Atomic/20240307 - 000000 - ODEs.md",
-    "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
     "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02-Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
     "02-Atomic/20240529 - 162512 - First order, exact ODE.md",
