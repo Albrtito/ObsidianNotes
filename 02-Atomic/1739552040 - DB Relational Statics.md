@@ -10,12 +10,13 @@ cssclasses:
 
 > [!NOTE] Intro: 
 > The static part of the Relational Model creates the tables, relations between them, what to do when something related changes and static constraints. 
-> These relations are based on [[Binary Relations]]
-> 
 
-**Remarks:** 
+# Relation:
+The relations are based on [[Binary Relations]], with the following characteristics:
+
 + Each related element has a **domain**
 + A relation is the **cartesian product of n domains**
+
 > f.e: Given the DNIs and Names sets: 
 > + DNIs: Have a domain given by the properties they must follow.
 > + Names: Have a domain given by their type (CHAR)
@@ -26,6 +27,23 @@ cssclasses:
 > 
 
 + Each of the elements/sets of the relation is called an attribute. 
+
+> [!attention] Remark: 
+> + All tuples must be unique. → Every row must be identifiable somehow
+
+
++ Relations can be swown implicitly(**intensive**), with a graph that defines the general foirm of it. Or explicitly(**extensive**) with all tuples that it contains. 
+
+> [!NOTE] Relation degree: 
+> Number of columns
+
+
+> [!NOTE] Relation cardinality: 
+> Number or rows / elements 
+
+
+
+
 
 
 

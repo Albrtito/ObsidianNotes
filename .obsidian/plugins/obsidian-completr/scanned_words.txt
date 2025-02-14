@@ -4532,6 +4532,7 @@ CASCADE
 Cartesion
 Cartesian
 Composition
+CHAR
 de
 due
 dar
@@ -6836,6 +6837,7 @@ defineresource
 defining
 designing
 discrete
+domains
 modelos
 modelo
 maximizar
@@ -11322,6 +11324,8 @@ endcodespacerange
 endbfchar
 endcmap
 extended
+elations
+encloses
 programaci
 primer
 paso
@@ -27099,6 +27103,7 @@ safO
 saN
 sTT
 subset
+swown
 interval
 importancia
 incorrecto
@@ -29330,6 +29335,8 @@ iJa
 ijX
 iYO
 item
+implicitly
+intensive
 un
 una
 utiliza
@@ -42779,6 +42786,7 @@ DVU
 DwlIgw
 Dvf
 DSD
+DNIs
 funci
 fibonacci
 fica
@@ -44767,6 +44775,7 @@ fkNR
 fHc
 fjfV
 findresource
+foirm
 objetivo
 obtener
 of
