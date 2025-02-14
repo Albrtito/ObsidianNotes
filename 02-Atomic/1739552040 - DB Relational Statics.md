@@ -11,6 +11,7 @@ cssclasses:
 > [!NOTE] Intro: 
 > The static part of the Relational Model creates the tables, relations between them, what to do when something related changes and static constraints. 
 
+This note will define the concepts and rules needed to create a **theoretical model**. All the tools needed to them 
 # Relation:
 The relations are based on [[Binary Relations]], with the following characteristics:
 
@@ -27,6 +28,7 @@ The relations are based on [[Binary Relations]], with the following characterist
 > 
 
 + Each of the elements/sets of the relation is called an attribute. 
+	+ The order of these attributes does not matter
 
 > [!attention] Remark: 
 > + All tuples must be unique. → Every row must be identifiable somehow
@@ -42,6 +44,7 @@ The relations are based on [[Binary Relations]], with the following characterist
 > Number or rows / elements 
 
 
+## Naming convention:
 
 
 
