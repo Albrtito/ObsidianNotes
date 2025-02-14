@@ -15,14 +15,14 @@ This note will define the concepts and rules needed to create a **theoretical mo
 
 
 > [!example] Naming convention: 
-> + **attribute:** A set of the relation 
+> + **attribute:** A set of the relation
+> 	+ **key:** Same thing as an attribute
 > + **domain:** All possible values that an attribute can take
 > + **relation:** The cartesian product of n attributes 
 > + **relation degree:** The number of attributes it has
 > + **relation cardinality:** Number of unique tuples in the relation
 > + **individual:** An specific tuple of the relation
-> + 
-
+>
 # Relation:
 The relations are based on [[Binary Relations]], with the following characteristics:
 
@@ -59,7 +59,10 @@ The relations are based on [[Binary Relations]], with the following characterist
 > [!NOTE] Intro: 
 > An attribute of a relation can be the same attribute of another relation. Instead of having them separately, a conection between the relations can be created:
 
-> $R_1
+> $R_1$ : VxU 
+> $R_2$ : VxW → V is related to $R_1$ 
+
+However, in order to create this relations the shared attribute must be **unique** in one of the two tables. That table pasa a ser la tabla “padre” mientras que la otra será la tabla “hija”
 
 
 ## Naming special keys:
