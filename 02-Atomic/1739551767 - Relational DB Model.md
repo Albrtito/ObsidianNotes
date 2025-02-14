@@ -1,13 +1,24 @@
 ---
+aliases:
+  - Relational DB Model
 tags:
   - FilesAndDB
-"References:": https://www.youtube.com/watch?v=ymb9gsl_x1U
+References: 
+cssclasses:
 ---
+# Relational DB Model
 
-Can also be called **Database Schema**
-This model states the design that'll be followed previous to the implementation.
-+ A **semantic coverage is needed** to explain and give comments on the nature of the design. The coverage is not something easy but needs to explain all that cannot be specified with sql or constrains. 
-**For example:** If using an assertion, that should be specified in the semantic coverage #Duda 
+> [!NOTE] Intro: 
+> The relational model of a database or is an schema used for defining the relations between the data. This schema contains two different relations: 
+> + [[1739196838 - DB Relational dynamics|DB Relational dynamics]]
+> + [[1739552040 - DB Relational Statics|DB Relational Statics]]
+
+**Remarks:**
++ Comments to further explain the model are needed. Without themn there is not enough coverage. 
+
+
+--- 
+
 
 ## Tables: 
 The tables that are specified in the model must have a name and some attributes of the table. 
@@ -66,3 +77,4 @@ This is really important as it really explains you what is a possible thing to d
 
 ## [Referential Integrity](Referential%20Integrity.md)
 In order to maintain the referential integrity all relations must have some  [Integrity rules](Integrity%20rules.md) 
+***
