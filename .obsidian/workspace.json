@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1739196838 - DB Relational dynamics.md",
+                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1739196838 - DB Relational dynamics"
+              "title": "1739552040 - DB Relational Statics"
             }
           },
           {
@@ -58,16 +58,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
+                "file": "02-Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1739552040 - DB Relational Statics"
+              "title": "20240415 - 110638 - Definition 122 - Binary Relations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1739551767 - Relational DB Model.md",
+                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1739551767 - Relational DB Model"
+              "title": "Graph of 1739552040 - DB Relational Statics"
             }
           },
           {
@@ -220,10 +221,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1739551767 - Relational DB Model.md"
+                "file": "02-Atomic/1739552040 - DB Relational Statics.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1739551767 - Relational DB Model"
+              "title": "Outline of 1739552040 - DB Relational Statics"
             }
           },
           {
@@ -308,12 +309,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "72d411c7df7c2395",
+  "active": "47d4dd3a39593bd8",
   "lastOpenFiles": [
-    "02-Atomic/1737987572 - Introduction to Databases.md",
-    "02-Atomic/1739551767 - Relational DB Model.md",
+    "02-Atomic/Binary Relations.md",
     "02-Atomic/1739552040 - DB Relational Statics.md",
     "02-Atomic/1739196838 - DB Relational dynamics.md",
+    "02-Atomic/1739551767 - Relational DB Model.md",
+    "02-Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
+    "02-Atomic/Foreign Key.md",
+    "02-Atomic/Referential Integrity.md",
+    "02-Atomic/Integrity rules.md",
+    "02-Atomic/1737987572 - Introduction to Databases.md",
     "ROLAP.md",
     "00-References/Files_Theory_Ch1_IntroToDB.pdf",
     "99-Meta/1. Templates/NoteTemplate.md",
@@ -333,11 +339,6 @@
     "02-Atomic/20240620 - 174329 - Integration in one variable.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/20240503 - 190310 -Semaphores Dijkstra method.md",
-    "02-Atomic/1739207766 - Comunicación entre procesos.md",
-    "02-Atomic/20240509 - 142155 -Server concurrency.md",
-    "02-Atomic/1739203641 - Comunicación y sincronización entre procesos.md",
-    "02-Atomic/20240504 - 162427 -POSIX.md",
-    "02-Atomic/Concurrency.md",
     "00-References/OS_Theory_Concurrent-Servers.pdf",
     "00-References/C_IntroDistri.pdf",
     "99-Meta/0. Attachments/1739203641 - Comunicación y sincronización entre procesosj.png",

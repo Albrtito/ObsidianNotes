@@ -2350,6 +2350,7 @@ adq
 abZ
 aihE
 aTj
+association
 Creaci
 Crear
 Cuando
@@ -4527,6 +4528,10 @@ CMapName
 CMapType
 CMap
 Comments
+CASCADE
+Cartesion
+Cartesian
+Composition
 de
 due
 dar
@@ -6829,6 +6834,8 @@ dTu
 dOR
 defineresource
 defining
+designing
+discrete
 modelos
 modelo
 maximizar
@@ -8989,6 +8996,7 @@ mIm
 mwj
 mDM
 mHSk
+multi
 en
 ease
 es
@@ -11313,6 +11321,7 @@ ewMj
 endcodespacerange
 endbfchar
 endcmap
+extended
 programaci
 primer
 paso
@@ -13682,6 +13691,8 @@ pLH
 pyPj
 pqc
 pptx
+prevented
+painting
 lineal
 la
 lo
@@ -17812,6 +17823,7 @@ tTb
 tMtmt
 tWE
 tkB
+themn
 review
 resolver
 realizar
@@ -20053,6 +20065,8 @@ royU
 rXwZ
 rEK
 rmKmK
+referencial
+rollback
 References
 Resoluci
 Rectas
@@ -22017,6 +22031,9 @@ RFyE
 RnS
 RmuK
 Rjj
+Restrict
+REMAKR
+Reflexivity
 cssclasses
 correcto
 correcta
@@ -24652,6 +24669,10 @@ cJYMsv
 chS
 ceJ
 currentdict
+cohesion
+cascade
+cartesian
+constraints
 sr
 se
 subproblemas
@@ -27077,6 +27098,7 @@ sba
 safO
 saN
 sTT
+subset
 interval
 importancia
 incorrecto
@@ -35037,6 +35059,7 @@ Eiy
 EvDvG
 Epip
 EDM
+Existent
 vital
 variables
 vez
@@ -42755,6 +42778,7 @@ DaQ
 DVU
 DwlIgw
 Dvf
+DSD
 funci
 fibonacci
 fica
@@ -50499,6 +50523,7 @@ AAfW
 AZL
 AdRH
 AQS
+Antisymmetry
 Floyd
 Foundations
 Funci
@@ -52352,6 +52377,7 @@ FiEZ
 FjKy
 FFFF
 FSDB
+Foreign
 Warshall
 Width
 We
@@ -54211,6 +54237,7 @@ WPG
 WfHN
 WGl
 WxI
+Without
 Heuri
 Hecho
 HyO
@@ -57968,6 +57995,7 @@ TgB
 TVq
 TYx
 TjL
+Transitivity
 grafo
 guardan
 global
@@ -62009,6 +62037,8 @@ Pkjw
 PKi
 PNAy
 PowerPoint
+Points
+Property
 Biblio
 BitsPerComponent
 BI
@@ -63786,6 +63816,7 @@ Bkr
 BeBP
 BeAlUv
 BOB
+Binary
 Steven
 Skiena
 Serie
@@ -65873,6 +65904,7 @@ Six
 SbJ
 SEd
 Statics
+Symmetry
 Manual
 Modelar
 Millones
@@ -67905,6 +67937,7 @@ MbV
 MHh
 MTD
 MGK
+Multi
 Zivkovic
 Zo
 Zi
@@ -75350,6 +75383,8 @@ UHL
 UHe
 UiUY
 UCS
+USED
+USD
 QUE
 Que
 QE
@@ -84437,6 +84472,7 @@ VXZY
 VIV
 VfT
 VGo
+Venn
 Grupo
 Get
 GWgw
@@ -88216,6 +88252,7 @@ NgP
 NpPo
 Nqf
 Nzg
+Null
 Xr
 XObject
 Xw

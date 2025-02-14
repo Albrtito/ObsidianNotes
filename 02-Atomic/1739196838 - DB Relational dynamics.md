@@ -8,4 +8,7 @@ cssclasses:
 ---
 # DB Relational dynamics
 
+> [!NOTE] Intro: 
+>  
+
 ***
