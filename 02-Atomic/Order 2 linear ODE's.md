@@ -11,7 +11,7 @@ $$
 
 
 > [!NOTE] Theorem: Superposition
-> If there are two solutions $y_1$  and $y_2$ then $C_1y_1(t) + C_2y_2(t)$ is also a solution. $\forall C_1, C_2 \in \mathbbR$
+> If there are two solutions $y_1$  and $y_2$ then $C_1y_1(t) + C_2y_2(t)$ is also a solution. $\forall C_1, C_2 \in \mathbb{R}$
 
 
 > [!NOTE] General solution 
