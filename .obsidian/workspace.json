@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -336,7 +336,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1087055cabadd75b",
+  "active": "65e313af893cd976",
   "lastOpenFiles": [
     "02-Atomic/20240529 - 162512 - First order exact ODE.md",
     "02-Atomic/1739196838 - DB Relational dynamics.md",
