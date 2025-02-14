@@ -11,7 +11,18 @@ cssclasses:
 > [!NOTE] Intro: 
 > The static part of the Relational Model creates the tables, relations between them, what to do when something related changes and static constraints. 
 
-This note will define the concepts and rules needed to create a **theoretical model**. All the tools needed to them 
+This note will define the concepts and rules needed to create a **theoretical model**. All the tools needed to then implement this model will be gathered at: [[1739554013 - SQL Relational Model Implementation|SQL Relational Model Implementation]]
+
+
+> [!example] Naming convention: 
+> + **attribute:** A set of the relation 
+> + **domain:** All possible values that an attribute can take
+> + **relation:** The cartesian product of n attributes 
+> + **relation degree:** The number of attributes it has
+> + **relation cardinality:** Number of unique tuples in the relation
+> + **individual:** An specific tuple of the relation
+> + 
+
 # Relation:
 The relations are based on [[Binary Relations]], with the following characteristics:
 
@@ -43,9 +54,15 @@ The relations are based on [[Binary Relations]], with the following characterist
 > [!NOTE] Relation cardinality: 
 > Number or rows / elements 
 
+## Relation to a relation:
 
-## Naming convention:
+> [!NOTE] Intro: 
+> An attribute of a relation can be the same attribute of another relation. Instead of having them separately, a conection between the relations can be created:
 
+> $R_1
+
+
+## Naming special keys:
 
 
 

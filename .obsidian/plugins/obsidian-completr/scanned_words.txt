@@ -4533,6 +4533,7 @@ Cartesion
 Cartesian
 Composition
 CHAR
+Command
 de
 due
 dar
@@ -22038,6 +22039,7 @@ Rjj
 Restrict
 REMAKR
 Reflexivity
+Removal
 cssclasses
 correcto
 correcta
@@ -27104,6 +27106,7 @@ saN
 sTT
 subset
 swown
+schemas
 interval
 importancia
 incorrecto
@@ -29337,6 +29340,7 @@ iYO
 item
 implicitly
 intensive
+identifiable
 un
 una
 utiliza
@@ -36977,6 +36981,7 @@ vci
 vAR
 vcM
 vcVj
+views
 no
 nuestras
 ndar
@@ -40788,6 +40793,7 @@ IrJNA
 IRSX
 INk
 IsE
+Insert
 Definir
 Din
 Design
@@ -50533,6 +50539,8 @@ AZL
 AdRH
 AQS
 Antisymmetry
+Amendment
+Assertions
 Floyd
 Foundations
 Funci
@@ -59948,6 +59956,7 @@ gIc
 gKp
 gqe
 gTGOk
+gathered
 Programaci
 Para
 Problema
@@ -65914,6 +65923,7 @@ SbJ
 SEd
 Statics
 Symmetry
+SQLplus
 Manual
 Modelar
 Millones
@@ -67947,6 +67957,7 @@ MHh
 MTD
 MGK
 Multi
+MySQL
 Zivkovic
 Zo
 Zi
@@ -79105,6 +79116,7 @@ OTe
 OyNg
 OkcW
 OpN
+Oracle
 ximo
 xrL
 xFQ
@@ -88262,6 +88274,7 @@ NpPo
 Nqf
 Nzg
 Null
+Naming
 Xr
 XObject
 Xw
