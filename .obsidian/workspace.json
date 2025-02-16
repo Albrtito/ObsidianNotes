@@ -4,97 +4,89 @@
     "type": "split",
     "children": [
       {
+        "id": "373e5a52fd843a08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33bb6a67dab7622f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1738259991 - C Data Types.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1738259991 - C Data Types"
+            }
+          },
+          {
+            "id": "9c46d1c108676766",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-References/References_Derivatives&Integrals.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "References_Derivatives&Integrals"
+            }
+          },
+          {
+            "id": "7726b0cfc5bd651a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
         "id": "10b0575a715cf807",
         "type": "tabs",
         "children": [
           {
-            "id": "72d411c7df7c2395",
+            "id": "9c47b3003715bbfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1739551767 - Relational DB Model.md",
+                "file": "02-Atomic/1738080627 - Lenguaje C.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1739551767 - Relational DB Model"
+              "title": "1738080627 - Lenguaje C"
             }
           },
           {
-            "id": "47d4dd3a39593bd8",
+            "id": "8982488670a34d95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "00-References/C_Guia.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1739552040 - DB Relational Statics"
+              "icon": "lucide-file-text",
+              "title": "C_Guia"
             }
           },
           {
-            "id": "8538b16c7db0b9e7",
+            "id": "516ec09ab3f96b8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02-Atomic/1737987572 - Introduction to Databases.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "00-References/C_IntroDistri.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1737987572 - Introduction to Databases"
-            }
-          },
-          {
-            "id": "a2f5abec0c9322d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20240415 - 110638 - Definition 122 - Binary Relations"
-            }
-          },
-          {
-            "id": "41a788ef50dc16c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1739554013 - SQL Relational Model Implementation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1739554013 - SQL Relational Model Implementation"
-            }
-          },
-          {
-            "id": "11b1a35197324322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/SQLplus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQLplus"
+              "icon": "lucide-file-text",
+              "title": "C_IntroDistri"
             }
           }
         ],
@@ -117,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,10 +179,10 @@
                       }
                     },
                     {
-                      "query": "tag:#FilesAndDB  ",
+                      "query": "tag:#Distri  ",
                       "color": {
                         "a": 1,
-                        "rgb": 14048429
+                        "rgb": 6149724
                       }
                     }
                   ],
@@ -209,11 +201,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1739552040 - DB Relational Statics"
+              "title": "Graph of Distribuidos"
             }
           },
           {
-            "id": "f711782e507bc62d",
+            "id": "29e3a00ba6e74a87",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -230,7 +222,7 @@
             }
           },
           {
-            "id": "387311d8b57452b1",
+            "id": "03da6c1b94246574",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -251,10 +243,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1739552040 - DB Relational Statics.md"
+                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1739552040 - DB Relational Statics"
+              "title": "Outline of 1730827988 - Subnets"
             }
           },
           {
@@ -269,12 +261,12 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -291,13 +283,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Files&DB.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Files&DB"
+              "title": "Distribuidos"
             }
           }
         ]
@@ -321,8 +313,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 643.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -339,11 +330,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "47d4dd3a39593bd8",
+  "active": "2dca472e18c0e06a",
   "lastOpenFiles": [
+    "02-Atomic/1738259991 - C Data Types.md",
+    "02-Atomic/1739552040 - DB Relational Statics.md",
     "02-Atomic/1739551767 - Relational DB Model.md",
     "02-Atomic/SQLplus.md",
-    "02-Atomic/1739552040 - DB Relational Statics.md",
     "02-Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
     "02-Atomic/Creating and deleting Tables.md",
     "02-Atomic/MySQL.md",
@@ -366,7 +358,6 @@
     "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
     "02-Atomic/Distribuidos.md",
     "02-Atomic/20240504 - 162315 - Mutex and conditional variables.md",
-    "02-Atomic/1738259991 - C Data Types.md",
     "02-Atomic/20240307 - 000000 - ODEs.md",
     "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "00-References/OS_Theory_Concurrent-Servers.pdf",
