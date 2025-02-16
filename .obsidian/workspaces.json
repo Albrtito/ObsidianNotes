@@ -2429,7 +2429,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02-Atomic/1738259991 - C Data Types.md",
+                    "file": "02-Atomic/Distribuidos.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -2521,7 +2521,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 1738259991 - C Data Types"
+                  "title": "Graph of Distribuidos"
                 }
               },
               {
@@ -2633,8 +2633,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 395,
-        "collapsed": true
+        "width": 643.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -2651,8 +2650,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "33bb6a67dab7622f",
-      "mtime": "2025-02-11T11:45:53+01:00"
+      "active": "2dca472e18c0e06a",
+      "mtime": "2025-02-16T17:45:20+01:00"
     },
     "IA": {
       "main": {
@@ -3791,5 +3790,5 @@
       "mtime": "2025-02-11T11:47:38+01:00"
     }
   },
-  "active": "Distri"
+  "active": "DiffCalc"
 }

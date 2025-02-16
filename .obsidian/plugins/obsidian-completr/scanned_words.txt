@@ -4534,6 +4534,7 @@ Cartesian
 Composition
 CHAR
 Command
+Cos
 de
 due
 dar
@@ -6839,6 +6840,7 @@ defining
 designing
 discrete
 domains
+derivations
 modelos
 modelo
 maximizar
@@ -20072,6 +20074,8 @@ rEK
 rmKmK
 referencial
 rollback
+reformulate
+racism
 References
 Resoluci
 Rectas
@@ -22040,6 +22044,7 @@ Restrict
 REMAKR
 Reflexivity
 Removal
+REDUCING
 cssclasses
 correcto
 correcta
@@ -24679,6 +24684,7 @@ cohesion
 cascade
 cartesian
 constraints
+cosine
 sr
 se
 subproblemas
@@ -27107,6 +27113,7 @@ sTT
 subset
 swown
 schemas
+statements
 interval
 importancia
 incorrecto
@@ -40794,6 +40801,8 @@ IRSX
 INk
 IsE
 Insert
+INSTEAD
+INSIDE
 Definir
 Din
 Design
@@ -52395,6 +52404,7 @@ FjKy
 FFFF
 FSDB
 Foreign
+FORMULA
 Warshall
 Width
 We
@@ -58013,6 +58023,9 @@ TVq
 TYx
 TjL
 Transitivity
+Trigonometric
+Tan
+TRIGFUNC
 grafo
 guardan
 global
@@ -62057,6 +62070,7 @@ PNAy
 PowerPoint
 Points
 Property
+POWER
 Biblio
 BitsPerComponent
 BI
@@ -65924,6 +65938,9 @@ SEd
 Statics
 Symmetry
 SQLplus
+Subtract
+SUMS
+SOME
 Manual
 Modelar
 Millones
@@ -97332,6 +97349,7 @@ wzwvwnw
 wywMwCw
 wMd
 wno
+whoole
 kL
 kMZ
 kC
