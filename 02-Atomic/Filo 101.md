@@ -34,5 +34,5 @@ cssclasses:
 + **General recommendation:** Nigel Warburton, Philosophy. The Classics, Routledge, London 1998
 
 ## Notas:
-
++ 
 ***
