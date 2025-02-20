@@ -2937,8 +2937,19 @@
                   "icon": "lucide-file",
                   "title": "Filo 101"
                 }
+              },
+              {
+                "id": "54e212a4d0a39175",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
               }
             ],
+            "currentTab": 1,
             "stacked": true
           }
         ],
@@ -2958,7 +2969,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02-Atomic/Filo 101.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -3043,7 +3053,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Filo 101"
+                  "title": "Graph view"
                 }
               },
               {
@@ -3172,8 +3182,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "6b97c4432b4c2b29",
-      "mtime": "2025-02-05T11:50:01+01:00"
+      "active": "54e212a4d0a39175",
+      "mtime": "2025-02-20T20:05:05+01:00"
     },
     "Excel": {
       "main": {
@@ -3817,5 +3827,5 @@
       "mtime": "2025-02-11T11:47:38+01:00"
     }
   },
-  "active": "Filo"
+  "active": "IA"
 }

@@ -8,32 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b97c4432b4c2b29",
+            "id": "1648b34dd77b5b1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Filo 101.md",
+                "file": "02-Atomic/1731511534 - ADT - Graf.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Filo 101"
-            }
-          },
-          {
-            "id": "54e212a4d0a39175",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1731511534 - ADT - Graf"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -53,6 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/1731511534 - ADT - Graf.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,34 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "f711782e507bc62d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "387311d8b57452b1",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Graph of 1731511534 - ADT - Graf"
             }
           }
         ]
@@ -219,13 +182,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Filo 101.md",
+                "file": "02-Atomic/IA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Filo 101"
+              "title": "IA"
             }
           }
         ]
@@ -266,8 +229,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "54e212a4d0a39175",
+  "active": "1648b34dd77b5b1b",
   "lastOpenFiles": [
+    "02-Atomic/20240515 - 020755 - Graph theory.md",
+    "02-Atomic/1738764683 - Production systems.md",
     "02-Atomic/Filo 101.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/20240603 - 171608 - Trigonometric relations.md",
@@ -294,8 +259,6 @@
     "02-Atomic/1739551787 - - Untitled Suffix.md",
     "02-Atomic/Relational Model.md",
     "02-Atomic/20240529 - 162512 - First order exact ODE.md",
-    "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
-    "02-Atomic/20240504 - 162315 - Mutex and conditional variables.md",
     "00-References/OS_Theory_Concurrent-Servers.pdf",
     "00-References/C_IntroDistri.pdf",
     "99-Meta/0. Attachments/1739203641 - Comunicación y sincronización entre procesosj.png",
