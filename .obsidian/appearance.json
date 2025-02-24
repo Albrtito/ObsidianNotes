@@ -19,5 +19,6 @@
     "Center_Tables"
   ],
   "showViewHeader": true,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "showRibbon": false
 }

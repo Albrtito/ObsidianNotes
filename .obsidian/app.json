@@ -18,6 +18,5 @@
   "spellcheck": false,
   "newLinkFormat": "shortest",
   "livePreview": true,
-  "showInlineTitle": false,
-  "showRibbon": false
+  "showInlineTitle": false
 }
