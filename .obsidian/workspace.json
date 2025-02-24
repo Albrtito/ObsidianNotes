@@ -64,7 +64,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1731511534 - ADT - Graf.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +148,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1731511534 - ADT - Graf"
+              "title": "Graph view"
             }
           },
           {
@@ -305,9 +304,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "279304e9d8830931",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "d8523f2fbc4e9acf",
