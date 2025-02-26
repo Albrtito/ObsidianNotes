@@ -2362,8 +2362,17 @@
                   "state": {
                     "file": "02-Atomic/1738259991 - C Data Types.md",
                     "mode": "source",
+                    "source": false,
                     "backlinks": true,
-                    "source": false
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
                   "title": "1738259991 - C Data Types"
@@ -2602,7 +2611,8 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical"
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
                   },
                   "icon": "lucide-folder-closed",
                   "title": "Files"
@@ -2632,8 +2642,17 @@
                   "state": {
                     "file": "02-Atomic/Distribuidos.md",
                     "mode": "source",
+                    "source": false,
                     "backlinks": true,
-                    "source": false
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
                   "title": "Distribuidos"
@@ -2678,7 +2697,7 @@
         }
       },
       "active": "2dca472e18c0e06a",
-      "mtime": "2025-02-16T17:45:20+01:00"
+      "mtime": "2025-02-26T17:45:22+01:00"
     },
     "IA": {
       "main": {
@@ -2695,16 +2714,38 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/1738764683 - Production systems.md",
+                    "file": "02-Atomic/1731511534 - ADT - Graf.md",
                     "mode": "source",
+                    "source": false,
                     "backlinks": true,
-                    "source": false
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
-                  "title": "1738764683 - Production systems"
+                  "title": "1731511534 - ADT - Graf"
+                }
+              },
+              {
+                "id": "f79f42bbcdc8300d",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.8.7"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.8.7"
                 }
               }
             ],
+            "currentTab": 1,
             "stacked": true
           }
         ],
@@ -2724,7 +2765,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02-Atomic/1738764683 - Production systems.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -2809,7 +2849,34 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 1738764683 - Production systems"
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "4835545dcb24cbdc",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "35e0fc66fc4d40dc",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
                 }
               }
             ]
@@ -2836,7 +2903,8 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical"
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
                   },
                   "icon": "lucide-folder-closed",
                   "title": "Files"
@@ -2866,14 +2934,90 @@
                   "state": {
                     "file": "02-Atomic/IA.md",
                     "mode": "source",
+                    "source": false,
                     "backlinks": true,
-                    "source": false
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
                   "title": "IA"
                 }
+              },
+              {
+                "id": "89f5fac7cc7d4cfd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "c612609c82825ac5",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "53114993ec7299b0",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "1542a0153d5280a8",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Notes Review Queue"
+                }
+              },
+              {
+                "id": "279304e9d8830931",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Notes Review Queue"
+                }
               }
-            ]
+            ],
+            "currentTab": 5
           },
           {
             "id": "d8523f2fbc4e9acf",
@@ -2911,8 +3055,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "1648b34dd77b5b1b",
-      "mtime": "2025-02-10T15:13:06+01:00"
+      "active": "f79f42bbcdc8300d",
+      "mtime": "2025-02-26T17:45:16+01:00"
     },
     "Filo": {
       "main": {
@@ -3827,5 +3971,5 @@
       "mtime": "2025-02-11T11:47:38+01:00"
     }
   },
-  "active": "IA"
+  "active": "DiffCalc"
 }
