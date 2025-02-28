@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b97c4432b4c2b29",
+            "id": "1648b34dd77b5b1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Filo 101.md",
+                "file": "02-Atomic/1731511534 - ADT - Graf.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,20 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Filo 101"
+              "title": "1731511534 - ADT - Graf"
             }
           },
           {
-            "id": "54e212a4d0a39175",
+            "id": "f79f42bbcdc8300d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -61,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/Filo 101.md",
+                "file": "02-Atomic/IA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,11 +149,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Filo 101"
+              "title": "Graph of IA"
             }
           },
           {
-            "id": "f711782e507bc62d",
+            "id": "4835545dcb24cbdc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -167,7 +170,7 @@
             }
           },
           {
-            "id": "387311d8b57452b1",
+            "id": "35e0fc66fc4d40dc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -229,7 +232,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Filo 101.md",
+                "file": "02-Atomic/IA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,10 +247,69 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Filo 101"
+              "title": "IA"
+            }
+          },
+          {
+            "id": "f14c48f40ce621c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Atomic/IA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for IA"
+            }
+          },
+          {
+            "id": "3ff7f04316623263",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-Atomic/IA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from IA"
+            }
+          },
+          {
+            "id": "d9a3a208ed3fa735",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8f42ed2c3d4c448f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -285,13 +347,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b97c4432b4c2b29",
+  "active": "8f42ed2c3d4c448f",
   "lastOpenFiles": [
+    "02-Atomic/Filo 101.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/Distribuidos.md",
     "02-Atomic/20240515 - 020755 - Graph theory.md",
     "02-Atomic/1738764683 - Production systems.md",
-    "02-Atomic/Filo 101.md",
     "02-Atomic/20240603 - 171608 - Trigonometric relations.md",
     "02-Atomic/Order 2 linear ODE's.md",
     "02-Atomic/1738259991 - C Data Types.md",
