@@ -5,6 +5,7 @@ tags:
   - IA
 References: 
 cssclasses:
+  - center-images
 ---
 # IA
 
@@ -36,6 +37,7 @@ cssclasses:
 
 ## Notas:
 + [[1738764683 - Production systems|Production systems]]
++ 
 ## Ejercicios:
 
 ***
