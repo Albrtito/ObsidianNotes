@@ -64,7 +64,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/IA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,34 +148,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of IA"
-            }
-          },
-          {
-            "id": "4835545dcb24cbdc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "35e0fc66fc4d40dc",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Graph view"
             }
           }
         ]
@@ -191,10 +163,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730827988 - Subnets"
+              "title": "Outline"
             }
           },
           {
@@ -210,8 +184,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,67 +222,8 @@
               "icon": "lucide-file",
               "title": "IA"
             }
-          },
-          {
-            "id": "f14c48f40ce621c7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02-Atomic/IA.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for IA"
-            }
-          },
-          {
-            "id": "3ff7f04316623263",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02-Atomic/IA.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from IA"
-            }
-          },
-          {
-            "id": "d9a3a208ed3fa735",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "8f42ed2c3d4c448f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -347,8 +261,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8f42ed2c3d4c448f",
+  "active": "f79f42bbcdc8300d",
   "lastOpenFiles": [
+    "02-Atomic/1731511534 - ADT - Graf.md",
+    "Untitled.md",
+    "02-Atomic/IA.md",
     "02-Atomic/Filo 101.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/Distribuidos.md",
@@ -374,8 +291,6 @@
     "ROLAP.md",
     "00-References/Files_Theory_Ch1_IntroToDB.pdf",
     "99-Meta/1. Templates/NoteTemplate.md",
-    "02-Atomic/1739551787 - - Untitled Suffix.md",
-    "02-Atomic/Relational Model.md",
     "00-References/OS_Theory_Concurrent-Servers.pdf",
     "00-References/C_IntroDistri.pdf",
     "99-Meta/0. Attachments/1739203641 - Comunicación y sincronización entre procesosj.png",

@@ -18,5 +18,9 @@
   "spellcheck": false,
   "newLinkFormat": "shortest",
   "livePreview": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "99-Meta/"
+  ]
 }
