@@ -23,7 +23,8 @@ This note will define the concepts and rules needed to create a **theoretical mo
 > + **relation cardinality:** Number of unique tuples in the relation
 > + **individual:** An specific tuple of the relation
 >
-# Relation:
+
+## Relation:
 The relations are based on [[Binary Relations]], with the following characteristics:
 
 + Each related element has a **domain**
@@ -109,7 +110,7 @@ This part is really the worst part of computer science, the client. The way to g
 This is really important as it really explains you what is a possible thing to do and what is just not realistically.
 
 
-**Implicit semantics are those that can be derived form the model**
+**Implicit semantics are those that can be derived from the model**
 (the semantics u had in mind but where not told during the statement)
 + Attributes added that where not explicitly mentioned in the text are required to appear here
 + Anything that does not directly appear in the text goes here

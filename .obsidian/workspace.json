@@ -260,7 +260,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1739552040 - DB Relational Statics.md"
+                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of 1739552040 - DB Relational Statics"
@@ -282,8 +285,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -339,7 +341,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,9 +359,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2dca472e18c0e06a",
+  "active": "47d4dd3a39593bd8",
   "lastOpenFiles": [
     "02-Atomic/1739552040 - DB Relational Statics.md",
+    "01-Areas/1.UC3M/Files&DB.md",
     "02-Atomic/Filo 101.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
@@ -384,7 +388,6 @@
     "02-Atomic/Foreign Key.md",
     "02-Atomic/Referential Integrity.md",
     "02-Atomic/Integrity rules.md",
-    "02-Atomic/1737987572 - Introduction to Databases.md",
     "00-References/Files_Theory_Ch1_IntroToDB.pdf",
     "00-References/OS_Theory_Concurrent-Servers.pdf",
     "00-References/C_IntroDistri.pdf",
