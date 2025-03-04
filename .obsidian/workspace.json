@@ -121,107 +121,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36d1a43796975b90",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "01-Areas/1.UC3M/Files&DB.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#incomplete  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    },
-                    {
-                      "query": "tag:#DiffCalc  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8537055
-                      }
-                    },
-                    {
-                      "query": "tag:#Networks",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11392604
-                      }
-                    },
-                    {
-                      "query": "tag:#Discrete  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    },
-                    {
-                      "query": "tag:#Cripto",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084269
-                      }
-                    },
-                    {
-                      "query": "tag:#Heuri  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6073814
-                      }
-                    },
-                    {
-                      "query": "tag:#Empresa  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16775199
-                      }
-                    },
-                    {
-                      "query": "tag:#CalcI  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "tag:#FilesAndDB  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048429
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.79537653688525,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.0242737249838606,
-                  "repelStrength": 15.3311814073596,
-                  "linkStrength": 0.47411233053583,
-                  "linkDistance": 52,
-                  "scale": 0.09229580869883151,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Files&DB"
-            }
-          },
-          {
             "id": "f711782e507bc62d",
             "type": "leaf",
             "state": {
@@ -260,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Areas/1.UC3M/Files&DB.md",
+                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Files&DB"
+              "title": "Outline of 1739552040 - DB Relational Statics"
             }
           },
           {
@@ -358,10 +257,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2dca472e18c0e06a",
+  "active": "47d4dd3a39593bd8",
   "lastOpenFiles": [
-    "02-Atomic/1739552040 - DB Relational Statics.md",
     "01-Areas/1.UC3M/Files&DB.md",
+    "02-Atomic/1739552040 - DB Relational Statics.md",
     "02-Atomic/Filo 101.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
