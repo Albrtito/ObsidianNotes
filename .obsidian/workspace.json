@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
+                "file": "01-Areas/1.UC3M/Files&DB.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,7 +218,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1739552040 - DB Relational Statics"
+              "title": "Graph of Files&DB"
             }
           },
           {
@@ -260,13 +260,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
+                "file": "01-Areas/1.UC3M/Files&DB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1739552040 - DB Relational Statics"
+              "title": "Outline of Files&DB"
             }
           },
           {
@@ -341,8 +341,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -359,7 +358,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "47d4dd3a39593bd8",
+  "active": "2dca472e18c0e06a",
   "lastOpenFiles": [
     "02-Atomic/1739552040 - DB Relational Statics.md",
     "01-Areas/1.UC3M/Files&DB.md",
