@@ -2375,13 +2375,22 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+                    "file": "01-Areas/1.UC3M/DiffCalc.md",
                     "mode": "source",
+                    "source": false,
                     "backlinks": true,
-                    "source": false
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
-                  "title": "20240208 - 000000 - Definition - Differential Equations"
+                  "title": "DiffCalc"
                 }
               }
             ]
@@ -2405,8 +2414,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 395,
-        "collapsed": true
+        "width": 395
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -2423,8 +2431,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "7f1b88f6a5b2ac6a",
-      "mtime": "2025-02-28T13:16:15+01:00"
+      "active": "2dca472e18c0e06a",
+      "mtime": "2025-03-04T14:30:34+01:00"
     },
     "Distri": {
       "main": {
@@ -3323,7 +3331,7 @@
         }
       },
       "active": "6b97c4432b4c2b29",
-      "mtime": "2025-02-28T13:44:52+01:00"
+      "mtime": "2025-03-04T14:30:37+01:00"
     },
     "Excel": {
       "main": {
@@ -3967,5 +3975,5 @@
       "mtime": "2025-02-11T11:47:38+01:00"
     }
   },
-  "active": "DiffCalc"
+  "active": "FilesDB"
 }
