@@ -109,6 +109,8 @@ Associations are represented with a directed arrow departing from the foreign ke
 This part is really the worst part of computer science, the client. The way to go with this is to **SEPARE ALL THE STATEMENT IN IMPLICIT AND EXPLICIT CONSTRAINTS FROM THE START**
 This is really important as it really explains you what is a possible thing to do and what is just not realistically.
 
+**Explicit semantic assumption:**
+The directly derived information from the client
 
 **Implicit semantics are those that can be derived from the model**
 (the semantics u had in mind but where not told during the statement)
