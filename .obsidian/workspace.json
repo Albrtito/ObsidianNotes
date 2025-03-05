@@ -218,8 +218,67 @@
               "icon": "lucide-file",
               "title": "Files&DB"
             }
+          },
+          {
+            "id": "90d3fcb5968111c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1739552040 - DB Relational Statics"
+            }
+          },
+          {
+            "id": "7213e3b43f5fba66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1739552040 - DB Relational Statics"
+            }
+          },
+          {
+            "id": "ba602a5e63e4f89b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "86c5bf1c575283fc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -257,7 +316,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "47d4dd3a39593bd8",
+  "active": "86c5bf1c575283fc",
   "lastOpenFiles": [
     "01-Areas/1.UC3M/Files&DB.md",
     "02-Atomic/1739552040 - DB Relational Statics.md",
