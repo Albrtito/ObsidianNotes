@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1739551767 - Relational DB Model.md",
+                "file": "02-Atomic/1739196838 - DB Relational dynamics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1739551767 - Relational DB Model"
+              "title": "1739196838 - DB Relational dynamics"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1739551767 - Relational DB Model.md",
+                "file": "02-Atomic/1739196838 - DB Relational dynamics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1739551767 - Relational DB Model"
+              "title": "Outline of 1739196838 - DB Relational dynamics"
             }
           },
           {
@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -202,87 +203,8 @@
               "icon": "lucide-file",
               "title": "Files&DB"
             }
-          },
-          {
-            "id": "90d3fcb5968111c0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 1739552040 - DB Relational Statics"
-            }
-          },
-          {
-            "id": "7213e3b43f5fba66",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 1739552040 - DB Relational Statics"
-            }
-          },
-          {
-            "id": "ba602a5e63e4f89b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "86c5bf1c575283fc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c7f72c03e0015ee7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "eb300a1fdba9491c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -320,10 +242,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "eb300a1fdba9491c",
+  "active": "72d411c7df7c2395",
   "lastOpenFiles": [
-    "02-Atomic/1739552040 - DB Relational Statics.md",
+    "02-Atomic/1739551767 - Relational DB Model.md",
     "01-Areas/1.UC3M/Files&DB.md",
+    "02-Atomic/1739552040 - DB Relational Statics.md",
     "02-Atomic/Filo 101.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
@@ -337,7 +260,6 @@
     "02-Atomic/20240603 - 171608 - Trigonometric relations.md",
     "02-Atomic/Order 2 linear ODE's.md",
     "02-Atomic/1738259991 - C Data Types.md",
-    "02-Atomic/1739551767 - Relational DB Model.md",
     "02-Atomic/SQLplus.md",
     "02-Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
     "02-Atomic/Creating and deleting Tables.md",

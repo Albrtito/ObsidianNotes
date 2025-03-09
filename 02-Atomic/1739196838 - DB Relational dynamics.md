@@ -9,6 +9,6 @@ cssclasses:
 # DB Relational dynamics
 
 > [!NOTE] Intro: 
->  
+>  The relat
 
 ***

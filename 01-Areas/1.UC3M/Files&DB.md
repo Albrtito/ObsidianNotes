@@ -33,7 +33,6 @@ cssclasses:
 + **Final:** 50%
 
 ## Biblio:
-+ 
 
 ## Notas: 
 + [[Introduction to Databases]]
