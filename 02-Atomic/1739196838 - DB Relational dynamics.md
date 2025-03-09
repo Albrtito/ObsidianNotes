@@ -57,30 +57,36 @@ Bin. compatible operatores of relational Algebra: Set operators.
 1. **Union:** Obtain all non-repeated tuples from both tables. 
    + Both tables must be compatible
 $$
-	\cup
+	   RelationA \space \cup \space RelationB
 $$
 2. **Intersection:** Obtain all repeated tuples (both relations have them) from both tables.
 	+ Both tables must be compatible
 $$
-	\cap
+	   RelationA \space \cap \space RelationB
 $$
 
 3. **Difference:** Obtain that appear on the first relation but are not present on the second one.
 $$
--
+	   RelationA \space - \space RelationB
 $$
 
 Binary operators or Join operators. Require two tables but those tables must not be compatible or meet any criteria. 
 
 1. **Cartesian product:** Obtain every combination of tuples of both relations. 
 	$$
-	   X
+	   RelationA \space X \space RelationB
 	$$
 2. **Join:** Subset of the cartesian product where a condition is met. 
 $$
-   \leq | \geq | =
+   RelationA \space \O\leq | \geq | =
 $$
 	1. **Natural join:** A particular case of the join operator, where the applied condition is the equality. 
 	   $$
+	  RelationA \text { * }_{\text{attribute}} \text{ RelationB}
 	   $$
 	   
+	   This can be used in three ways:
+	   + Without the attribute name: Then it is assumed that the only common attribute is used
+	   + With an hourglass symbol instead. Meaning that a foreign key is taken. 
+	   + With a conditional expression
+

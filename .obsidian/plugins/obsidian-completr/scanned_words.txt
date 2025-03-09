@@ -13749,6 +13749,7 @@ peAc
 psc
 pcyG
 pSyI
+present
 lineal
 la
 lo
@@ -22119,6 +22120,7 @@ RWf
 RJH
 RbL
 RWjK
+Require
 cssclasses
 correcto
 correcta
@@ -24765,6 +24767,7 @@ cjB
 cSn
 cjzY
 cjE
+criteria
 sr
 se
 subproblemas
@@ -42946,6 +42949,7 @@ DvXp
 DuBK
 DunK
 Declarative
+Difference
 funci
 fibonacci
 fica
@@ -46827,6 +46831,7 @@ ouLf
 oySY
 oqO
 owU
+operatores
 que
 queremos
 qD
@@ -66150,6 +66155,7 @@ Sqf
 SCeM
 Selection
 Selects
+Subset
 Manual
 Modelar
 Millones
@@ -75662,6 +75668,7 @@ Uiw
 UPOU
 Uojr
 Unary
+Union
 QUE
 Que
 QE
@@ -93995,6 +94002,7 @@ JGy
 Jzi
 JiJ
 Jwryy
+Join
 jj
 jL
 jC
