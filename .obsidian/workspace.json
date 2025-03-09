@@ -158,13 +158,15 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -244,6 +246,9 @@
   "active": "72d411c7df7c2395",
   "lastOpenFiles": [
     "02-Atomic/1739551767 - Relational DB Model.md",
+    "02-Atomic/1739196838 - DB Relational dynamics.md",
+    "02-Atomic/Greek Alphabet.md",
+    "99-Meta/0. Attachments/Greek-Alphabet.png",
     "01-Areas/1.UC3M/Files&DB.md",
     "02-Atomic/1739552040 - DB Relational Statics.md",
     "02-Atomic/Filo 101.md",
@@ -265,11 +270,8 @@
     "02-Atomic/MySQL.md",
     "02-Atomic/Create and select a database.md",
     "02-Atomic/1739554013 - SQL Relational Model Implementation.md",
-    "02-Atomic/1739196838 - DB Relational dynamics.md",
     "02-Atomic/Binary Relations.md",
     "02-Atomic/Foreign Key.md",
-    "02-Atomic/Referential Integrity.md",
-    "02-Atomic/Integrity rules.md",
     "00-References/Files_Theory_Ch1_IntroToDB.pdf",
     "00-References/OS_Theory_Concurrent-Servers.pdf",
     "00-References/C_IntroDistri.pdf",
@@ -288,7 +290,6 @@
     "99-Meta/0. Attachments/1729598149 - Balance de situacionj.png",
     "99-Meta/0. Attachments/1733918229 - Algorithm - Davis-Putnam-Logemann-Lovelandj.png",
     "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj-1.png",
-    "99-Meta/0. Attachments/1733917531 - Algorithm - Davis-Putnamj.png",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
