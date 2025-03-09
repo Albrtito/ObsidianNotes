@@ -30,7 +30,7 @@ Operators are classified into unary and binary.
 + **Binary operators:** Applied to two relation 
 + **Bin. Compatible:** Applied to two relations but:
 	+ Must have the same degree
-	+ Must have the same data nature (two by two). We call this being compatible
+	+ Must have the same data nature (two by two). We call this being compatible.
 Unary operators of relational Algebra: 
 1. **Selection:**
 $$
@@ -52,7 +52,35 @@ $$
 $$
 S \equiv Expression
 $$
+
 Bin. compatible operatores of relational Algebra: Set operators.
 1. **Union:** Obtain all non-repeated tuples from both tables. 
    + Both tables must be compatible
-***
+$$
+	\cup
+$$
+2. **Intersection:** Obtain all repeated tuples (both relations have them) from both tables.
+	+ Both tables must be compatible
+$$
+	\cap
+$$
+
+3. **Difference:** Obtain that appear on the first relation but are not present on the second one.
+$$
+-
+$$
+
+Binary operators or Join operators. Require two tables but those tables must not be compatible or meet any criteria. 
+
+1. **Cartesian product:** Obtain every combination of tuples of both relations. 
+	$$
+	   X
+	$$
+2. **Join:** Subset of the cartesian product where a condition is met. 
+$$
+   \leq | \geq | =
+$$
+	1. **Natural join:** A particular case of the join operator, where the applied condition is the equality. 
+	   $$
+	   $$
+	   
