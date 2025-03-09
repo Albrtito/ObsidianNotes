@@ -42950,6 +42950,7 @@ DuBK
 DunK
 Declarative
 Difference
+Deriv
 funci
 fibonacci
 fica

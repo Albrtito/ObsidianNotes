@@ -31,12 +31,24 @@ Operators are classified into unary and binary.
 + **Bin. Compatible:** Applied to two relations but:
 	+ Must have the same degree
 	+ Must have the same data nature (two by two). We call this being compatible.
+
+This operators can also be divided between primitive/primary or derived:
++ **Primitive:** Cannot be obtained from others
++ **Derived:** Can be obtained from others:
+	+ Intersecction
+	+ join
+	+ Natural Join
+	+ division
+	+ Semi-join
+	+ Anti-join
+	+ Outer-join
+	+ 
 Unary operators of relational Algebra: 
 1. **Selection:**
 $$
-\sigma_{\text{predicate}} = \text{<value>} \text{(Relation)}
+\sigma_{\text{predicate}}  \text{(Relation)}
 $$
-Selects all values of the selected relation where the given predicate takes the value chosen. 
+Selects all values of the selected relation where the given attribute complies with some conditions. 
 
  2. **Projection:** 
 $$
@@ -78,7 +90,7 @@ Binary operators or Join operators. Require two tables but those tables must not
 	$$
 2. **Join:** Subset of the cartesian product where a condition is met. 
 $$
-   RelationA \space \O\leq | \geq | =
+   RelationA \space \Theta \space attrib1 \space \leq | \geq | = \space attrib2 \space RelationB
 $$
 	1. **Natural join:** A particular case of the join operator, where the applied condition is the equality. 
 	   $$
