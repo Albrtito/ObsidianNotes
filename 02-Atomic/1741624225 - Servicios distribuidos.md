@@ -60,8 +60,17 @@ El servidor realizza un muestreo periódico de todas las máquinas para pedirles
 > 
 
 Esto se define con el **algoritmo de Lamport:**
+![[1741624225 - Servicios distribuidosj-2.png]]
 
+No obstante esstos relojes solo te dan una ordenación parcialmente pues el número RL(a) no identifica el proceso del que procede. Aquí es donde entran los relojes vectoriales. 
 
+### Relojes vectoriales:
 
+> [!attention] EXAMEN:
+> ESTO SIEMPRE CAE EN EXAMEN 
+
+> [!NOTE] Rel Vec. 
+> Desarrollado independientemente for Fidge, Mattern y Shmuck.
+>  
 
 ***
