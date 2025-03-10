@@ -15,6 +15,13 @@ cssclasses:
 
 Dados dos procesos en un servicio distribuido se puede decir que: 
 + Son concurrentes o que un ocurre antes que otro. 
+Esto se ve a través de los diagramas de espacio-tiempo:
+![[1741624225 - Servicios distribuidosj.png]]
 
+Un modelo distribuido puede ser **asíncrono o síncrono:**
++ **Asíncronos:** Aquellos en los que **no hay reloj común.**
+	+ No suponemoss nada sobre la velocidad de un proceso
+	+ Canales fiables sin límietes: Hay latencia sin límite
+	+ Comunicación entre procesos es la única forma de sincronización. 
 
 ***
