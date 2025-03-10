@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10b0575a715cf807",
+        "id": "373e5a52fd843a08",
         "type": "tabs",
         "children": [
           {
-            "id": "72d411c7df7c2395",
+            "id": "7726b0cfc5bd651a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1739196838 - DB Relational dynamics.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,119 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1739196838 - DB Relational dynamics"
+              "title": "Distribuidos"
             }
           },
           {
-            "id": "8538b16c7db0b9e7",
+            "id": "5866990030591eb9",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "99-Meta/0. Attachments/Greek-Alphabet.png"
-              },
-              "icon": "lucide-image",
-              "title": "Greek-Alphabet"
-            }
-          },
-          {
-            "id": "a2f5abec0c9322d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20240415 - 110638 - Definition 122 - Binary Relations"
-            }
-          },
-          {
-            "id": "41a788ef50dc16c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1739554013 - SQL Relational Model Implementation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1739554013 - SQL Relational Model Implementation"
-            }
-          },
-          {
-            "id": "11b1a35197324322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/SQLplus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SQLplus"
-            }
-          },
-          {
-            "id": "71f000f29df971dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1741617249 - File structures.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1741617249 - File structures"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +56,107 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f711782e507bc62d",
+            "id": "36d1a43796975b90",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#incomplete  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    },
+                    {
+                      "query": "tag:#DiffCalc  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8537055
+                      }
+                    },
+                    {
+                      "query": "tag:#Networks",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    },
+                    {
+                      "query": "tag:#Discrete  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084188
+                      }
+                    },
+                    {
+                      "query": "tag:#Cripto",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084269
+                      }
+                    },
+                    {
+                      "query": "tag:#Heuri  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6073814
+                      }
+                    },
+                    {
+                      "query": "tag:#Empresa  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16775199
+                      }
+                    },
+                    {
+                      "query": "tag:#CalcI  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#Distri  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6149724
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 2.79537653688525,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.0242737249838606,
+                  "repelStrength": 15.3311814073596,
+                  "linkStrength": 0.47411233053583,
+                  "linkDistance": 52,
+                  "scale": 0.09229580869883151,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "29e3a00ba6e74a87",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -171,7 +173,7 @@
             }
           },
           {
-            "id": "387311d8b57452b1",
+            "id": "03da6c1b94246574",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -192,13 +194,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1741617249 - File structures.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1741617249 - File structures"
+              "title": "Outline of 1730827988 - Subnets"
             }
           },
           {
@@ -219,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5,
+    "width": 246,
     "collapsed": true
   },
   "right": {
@@ -237,7 +236,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Files&DB.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -252,7 +251,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Files&DB"
+              "title": "Distribuidos"
             }
           }
         ]
@@ -276,7 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
+    "width": 259,
     "collapsed": true
   },
   "left-ribbon": {
@@ -294,8 +293,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "71f000f29df971dd",
+  "active": "5866990030591eb9",
   "lastOpenFiles": [
+    "02-Atomic/Distribuidos.md",
+    "00-References/References_Derivatives&Integrals.pdf",
+    "00-References/C_IntroDistri.pdf",
+    "00-References/C_Guia.pdf",
+    "02-Atomic/1738080627 - Lenguaje C.md",
+    "02-Atomic/1738259991 - C Data Types.md",
     "02-Atomic/1741617249 - File structures.md",
     "02-Atomic/1739196838 - DB Relational dynamics.md",
     "02-Atomic/1739551767 - Relational DB Model.md",
@@ -310,25 +315,18 @@
     "02-Atomic/Filo 101.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
-    "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/IA.md",
     "02-Atomic/1738764683 - Production systems.md",
     "02-Atomic/1731511534 - ADT - Graf.md",
     "Untitled.md",
-    "02-Atomic/Distribuidos.md",
     "02-Atomic/20240515 - 020755 - Graph theory.md",
     "02-Atomic/20240603 - 171608 - Trigonometric relations.md",
     "02-Atomic/Order 2 linear ODE's.md",
-    "02-Atomic/1738259991 - C Data Types.md",
     "02-Atomic/Creating and deleting Tables.md",
     "02-Atomic/MySQL.md",
-    "02-Atomic/Create and select a database.md",
-    "02-Atomic/Binary Relations.md",
     "00-References/Files_Theory_Ch1_IntroToDB.pdf",
     "00-References/OS_Theory_Concurrent-Servers.pdf",
-    "00-References/C_IntroDistri.pdf",
     "99-Meta/0. Attachments/1739203641 - Comunicación y sincronización entre procesosj.png",
-    "00-References/C_Guia.pdf",
     "00-References/IA_Biblio_Russell_Norvig.pdf",
     "00-References/Filo_Biblio_APlatoReader.pdf",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj-1.png",
