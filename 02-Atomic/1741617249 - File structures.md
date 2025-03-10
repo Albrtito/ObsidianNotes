@@ -59,4 +59,29 @@ Buckets also have some other parameters such as:
 
 ## Physical Design of the Logical record:
 
+THe record design for the file is created using the following concepts: 
+
++ **Data element**: Smallest, Indivisible unit. 
+$$
+field\_name \space \space Type(size)
+$$
+	+ If the field_name is optional it will be bracketed. 
++ **Data aggregation:** Arrangement of elements. (groupings) 
+	+ **Vector:** Fixed number of elements that jointly define a concept. 
+	  $$
+	  (element_1; element_2;...;element_n)
+	  $$
+	+ **Repeating group:** An element or group of them that reap themselfs based on some rule. The notation an rules are given by:
+	  $$
+	  (element)^* : \text{for 0...N occurrences}
+	  $$
+	  $$
+	  (element)^+ : \text{for 1...N occurrences}
+	  $$
+	  $$
+	  (element)^k : \text{for k times}
+	  $$
+
+Based on this concepts we define the logical view of the record. 
+> 
 ***
