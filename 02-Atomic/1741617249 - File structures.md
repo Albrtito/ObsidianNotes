@@ -83,5 +83,35 @@ $$
 	  $$
 
 Based on this concepts we define the logical view of the record. 
-> 
+
+> An example of this logical record design would be:
+> $$
+> \begin{array}{lll}
+\text { Title } & \mathrm{C}(42) & \\
+\text { Year } & \mathrm{N}(4) & \\
+\text { Producer } & \mathrm{C}(20) & \\
+\text { Genre } & \mathrm{C}(9) & \\
+\text { Director } & \text { (name } \mathrm{C}(20), \text { surname } & \mathrm{C}(20) \text { ) } \\
+\text { Stars } & \text { (name } \mathrm{C}(20), \text { surname } & \mathrm{C}(20))^{+5} \\
+{\left[\begin{array}{ll}
+\text { ST. Author } & \text { (name } \\
+\quad \mathrm{C}(20), \text { surname } & \mathrm{C}(20)), \\
+\text { Format } & \left.\mathrm{C}(3)^{* 3}\right]
+\end{array}\right.} &
+\end{array}
+> $$
+
+### Finding the efficient method: 
+If we try to store the max number of bytes for each element (in case we have that amount) we’ll be adding a ton of padding. This is called **worst design**. To find a better design we use concept of **data density:**
+Data density is used to analyze how good is the storage usage. In order to calculate it we use:
++ **Volume:** the characers required for some record, in the general case
++ **Occupation:** The characters that are actually being usefull, not padding.
+
+The density then:
+$$
+
+$$
+> **GAP:** Explain here how density analyzes the records saving efficiency. (Slide 15)
+ 
+Then, in order to 
 ***
