@@ -42,7 +42,7 @@ This operators can also be divided between primitive/primary or derived:
 	+ Semi-join
 	+ Anti-join
 	+ Outer-join
-	+ 
+
 Unary operators of relational Algebra: 
 1. **Selection:**
 $$
