@@ -35,10 +35,24 @@
             "id": "5866990030591eb9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1741624225 - Servicios distribuidos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1741624225 - Servicios distribuidos"
             }
           }
         ],
@@ -61,6 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/1741624225 - Servicios distribuidos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +167,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1741624225 - Servicios distribuidos"
             }
           },
           {
@@ -295,6 +310,7 @@
   },
   "active": "5866990030591eb9",
   "lastOpenFiles": [
+    "02-Atomic/1741624225 - Servicios distribuidos.md",
     "02-Atomic/Distribuidos.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "00-References/C_IntroDistri.pdf",
