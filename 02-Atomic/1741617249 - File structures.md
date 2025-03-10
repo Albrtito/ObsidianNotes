@@ -117,6 +117,8 @@ $$
 Then, in order to increase the density we need to reduce the real volume of the record, but keep the readability (somehow now whre something ends an the next thing beggins). 
 In order to solve this we’ll add some extra bytes to each data elements to store.
 1. **Existence:** For optional elements
+   + Existence bytes can be dispense of if the null value and empty string are not different. As leng = 0 will be equal to having an existence byte. 
+     > **Oracle:** Does not distinguish.
 2. **Lenght:** How many bytes being used
    + Looses the max lenght 
    + Can take as big as a byte lets it
@@ -128,7 +130,23 @@ In order to solve this we’ll add some extra bytes to each data elements to sto
    + Deciding the end of filed character is however challenging as it needs to be different to all symbols. Large numbers of bytes are used.
 
 There are also other **recod marks** used for other things besides efficiency.
-1. **End | Beggining of Record:** Sho
+1. **End | Beggining of Record:** Shows where a record begins | ends. 
+2. **Typo:** The type of the next record
+3. **Bitmap:** Shows all the occurring optinal elements. Join all optional bytes together. 
+
+### Field coding:
+
+> [!NOTE] Intro: 
+> Changing some values for other ones in order to save space. 
+> > Ex: Yes | NO trasnformed into 1 | 0  
+
+There are several types of field coding:
+1. **Numeric Coding:** ASCII into bytes base 26
+2. 
+
+
+
+
 
 
 ***
