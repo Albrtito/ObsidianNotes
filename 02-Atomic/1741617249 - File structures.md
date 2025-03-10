@@ -141,8 +141,18 @@ There are also other **recod marks** used for other things besides efficiency.
 > > Ex: Yes | NO trasnformed into 1 | 0  
 
 There are several types of field coding:
-1. **Numeric Coding:** ASCII into bytes base 26
-2. 
+1. **Numeric Coding:** 
+	1. ASCII into bytes base 256. 
+	2. Using a lower bound to obtain smaller numbers.
+2. **Enumerated:**
+	1. For list of possible values for some given value, each of those possible values are enumerated. 
+	2. **Pseudoenumerated:** Save one value for “odd” values that we do not know. The output for any odd value is explicitly given within the record.
+3. **Dates:** 
+   For most dates using two bytes is enough (it can save up to 180 years). However the first mentioned option, known as extended dates can also be used.
+   > **Oracle:** Uses extended dates
+   
+	1.  Use the number of days passed since some base date (similar to the lower bound method)
+
 
 
 
