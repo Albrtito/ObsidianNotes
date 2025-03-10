@@ -108,10 +108,27 @@ Data density is used to analyze how good is the storage usage. In order to calcu
 + **Occupation:** The characters that are actually being usefull, not padding.
 
 The density then:
++ Higher is better
 $$
 
 $$
 > **GAP:** Explain here how density analyzes the records saving efficiency. (Slide 15)
  
-Then, in order to 
+Then, in order to increase the density we need to reduce the real volume of the record, but keep the readability (somehow now whre something ends an the next thing beggins). 
+In order to solve this we’ll add some extra bytes to each data elements to store.
+1. **Existence:** For optional elements
+2. **Lenght:** How many bytes being used
+   + Looses the max lenght 
+   + Can take as big as a byte lets it
+    > Ex: This byte is used in the VARCHAR2 type but not used in the CHAR type
+    
+    
+3. **Reitereation:** For repeating groups, marks the number of occurrences
+4. **End-of-field:** If an element has an undefined lenght a character for the end-of-field is used. 
+   + Deciding the end of filed character is however challenging as it needs to be different to all symbols. Large numbers of bytes are used.
+
+There are also other **recod marks** used for other things besides efficiency.
+1. **End | Beggining of Record:** Sho
+
+
 ***
