@@ -44,6 +44,24 @@ Como obtener este tiempo de transmisión es algo complicado se utiliza una meida
 El problema es que en. un sistema asíncrono el tiempo de transmisión entre nodos no esta acotado, no hay un máximo ni mínimo. 
 
 ### Algoritmo de Cristian:
-Se utiliza un servidor externo de tiempo 
+Se utiliza un servidor externo de tiempo al que se le pide el tiempo.
+![[1741624225 - Servicios distribuidosj-1.png]]
+Se cuenta la petición y la respuesta y se tiene en cuenta sumándolo al tiempo obtenido del servidor. 
+
+### Algoritmo de Berkeley:
+El servidor realizza un muestreo periódico de todas las máquinas para pedirles el tiempo. Luego calcula **un tiempo promedio** y le indica el cambio necesario a cada máquina. 
++ **APLICA UNA SINCRONIZACIÓN INTERNA**
+
+
+## Sincronización de relojes lógicos: 
+
+> [!NOTE] Def: 
+> SE definen a través de la relación de causa-efecto entre dos procesos. Esto se usa con un send(m) y un recieve(m). Sabemos siempre que si un proceso lanza un send(m) y otro lo recibe entonces el send fue antes que el recibe. 
+> 
+
+Esto se define con el **algoritmo de Lamport:**
+
+
+
 
 ***
