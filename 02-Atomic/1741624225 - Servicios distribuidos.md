@@ -32,6 +32,18 @@ Par obtener el tiempo actual en unsistema linux podemos utilizar.
 +`clock_monotonic` : Obtiene el código sin actualizar (el código de la máquina.)
 
 ## Sincronización de relojes físicos: 
-Para un sistema distribuido **cad nodo posee un reloj físico NO SINCRONIZADO.**
+Para un sistema distribuido **cad nodo posee un reloj físico NO SINCRONIZADO.** este reloj puede obtener la hora a través del satélite pues casi todo lo tecnológico posee un GPS. 
+Utilizándo este me´todo podemos tener dos tipos de sincronización: 
++ **Externa:**  Equipos sincronizados con la misma fuente externa
++ **Interna:** Equipos sincronizados entre ellos poniendose de acuerdo en un mismo timestamp. 
+
+Para plicar tenemos varios métodos: 
+### En un sistema síncrono: 
+En un sistema síncrono, siempre y cuando conozca el tiempo de transmisión se puede mandar un mensaje de P1 a P2 con el timestamp y añadirle el tiempo de transmisión. 
+Como obtener este tiempo de transmisión es algo complicado se utiliza una meida entre el máximo y mínimo tiempo posible para esa transmisión. 
+El problema es que en. un sistema asíncrono el tiempo de transmisión entre nodos no esta acotado, no hay un máximo ni mínimo. 
+
+### Algoritmo de Cristian:
+Se utiliza un servidor externo de tiempo 
 
 ***
