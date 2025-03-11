@@ -2399,12 +2399,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "33bb6a67dab7622f",
+                "id": "7726b0cfc5bd651a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/1738259991 - C Data Types.md",
+                    "file": "02-Atomic/Distribuidos.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -2419,74 +2419,31 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "1738259991 - C Data Types"
+                  "title": "Distribuidos"
                 }
               },
               {
-                "id": "9c46d1c108676766",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00-References/References_Derivatives&Integrals.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "References_Derivatives&Integrals"
-                }
-              },
-              {
-                "id": "7726b0cfc5bd651a",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          },
-          {
-            "id": "10b0575a715cf807",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9c47b3003715bbfb",
+                "id": "5866990030591eb9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/1738080627 - Lenguaje C.md",
+                    "file": "02-Atomic/1741624225 - Servicios distribuidos.md",
                     "mode": "source",
+                    "source": false,
                     "backlinks": true,
-                    "source": false
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
-                  "title": "1738080627 - Lenguaje C"
-                }
-              },
-              {
-                "id": "8982488670a34d95",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00-References/C_Guia.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "C_Guia"
-                }
-              },
-              {
-                "id": "516ec09ab3f96b8d",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "00-References/C_IntroDistri.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "C_IntroDistri"
+                  "title": "1741624225 - Servicios distribuidos"
                 }
               }
             ],
@@ -2509,7 +2466,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02-Atomic/Distribuidos.md",
+                    "file": "02-Atomic/1741624225 - Servicios distribuidos.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -2601,7 +2558,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Distribuidos"
+                  "title": "Graph of 1741624225 - Servicios distribuidos"
                 }
               },
               {
@@ -2667,7 +2624,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 246
+        "width": 246,
+        "collapsed": true
       },
       "right": {
         "id": "8881aa8c79e29157",
@@ -2723,7 +2681,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 643.5
+        "width": 259,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -2740,8 +2699,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "2dca472e18c0e06a",
-      "mtime": "2025-02-26T17:45:22+01:00"
+      "active": "5866990030591eb9",
+      "mtime": "2025-03-11T13:46:18+01:00"
     },
     "IA": {
       "main": {
@@ -3930,5 +3889,5 @@
       "mtime": "2025-02-11T11:47:38+01:00"
     }
   },
-  "active": "Distri"
+  "active": "DiffCalc"
 }
