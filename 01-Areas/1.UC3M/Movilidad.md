@@ -18,6 +18,8 @@ En todas las movilidades y prácitas se han de presentar los certificados de idi
 
 ## Movilidad europea:
 + Link de referencia de la uc3m: [aquí](https://www.uc3m.es/secretaria-virtual/convocatoria-erasmusplus-grado)
+### ISLANDIA 2024: 
++ 
 
 ## Programas de prácticas: 
 ### Erasmus + prácticas:

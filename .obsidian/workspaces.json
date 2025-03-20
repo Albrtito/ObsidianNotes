@@ -2320,40 +2320,8 @@
         "type": "split",
         "children": [
           {
-            "id": "5997a5c0c99a8696",
-            "type": "tabs",
-            "dimension": 63.45609065155807,
-            "children": [
-              {
-                "id": "2dca472e18c0e06a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01-Areas/1.UC3M/DiffCalc.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "DiffCalc"
-                }
-              }
-            ]
-          },
-          {
             "id": "d8523f2fbc4e9acf",
             "type": "tabs",
-            "dimension": 36.54390934844192,
             "children": [
               {
                 "id": "1087055cabadd75b",
@@ -2386,8 +2354,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "2dca472e18c0e06a",
-      "mtime": "2025-03-04T14:30:34+01:00"
+      "active": "1087055cabadd75b",
+      "mtime": "2025-03-20T14:02:22+01:00"
     },
     "Distri": {
       "main": {
@@ -3889,5 +3857,5 @@
       "mtime": "2025-02-11T11:47:38+01:00"
     }
   },
-  "active": "DiffCalc"
+  "active": "Movilidad"
 }
