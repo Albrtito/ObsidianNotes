@@ -11,7 +11,7 @@ cssclasses:
 > [!NOTE] Info: 
 > Link de referencia básica a movilidad europea en la UC3M. [[1733500003 - Movilidad europea|Movilidad europea]] 
 
-## Reun con TAI: 
+## Reu con TAI: 
 + Lorena Gonzalez Manzano
 	+ Para hablar con ella siempre escribirla en el mismo correo (para generar un hilo de correos)
 	+ CON ASUNTO: **E+ 2025/2026 - UNIVERSIDAD DESTINO - ALBERTO PASCAU SÁEZ**
