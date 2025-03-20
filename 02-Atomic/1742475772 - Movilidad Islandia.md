@@ -49,6 +49,7 @@ El número de créditos de cada asignatura deben de tener exáctamente o parecid
 	+ Esto se puede hacer pero toca esperarse al periodo de cambios. 
 
 ## Calendario: 
+**Fechas UC3M:**
 + Febrero/Abril: Primera versión del contrato de estudios
 + Julio: COntrato para matrícula hasta mediados de julio 
 + OCtubre: Ultiomo momento para cmabiar primer cuatrimestre
@@ -57,6 +58,6 @@ El número de créditos de cada asignatura deben de tener exáctamente o parecid
 + Marzo: Último momento para cambiar segundo cuatri 
 
 > [!ATTENTION] LAS FECHAS NO SON LAS MISMAS:
-> ESTAS SON LAS FECHAS UC3M, pero las de la  
+> ESTAS SON LAS FECHAS UC3M, pero las de ISLANDIA PUEDEN SER DIFERENTES. 
 
 ***
