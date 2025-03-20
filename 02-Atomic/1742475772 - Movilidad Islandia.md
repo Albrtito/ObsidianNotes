@@ -31,6 +31,14 @@ Para hacer el contrato de asignaturas se tiene que **rellenar un excel que la TA
 Para la movilidad de un año: 
 + Tienen que ser un mínimo de 24 ECTS y un máximo de 80 ECTS. 
 
-Para las asignaturas, se debe de parecer un 80% de la asignatura. Esto lo decide la TAI. Y lo hace leyendo las asignaturas. **Para esto hay que no solo mirar el título sino también el contenido de la asignatura.** 
-+ Para las optativas, 
+Para las asignaturas, se debe de parecer un 80% de la asignatura. Esto lo decide la TAI. Y lo hace leyendo las asignaturas. **Para esto hay que no solo mirar el título sino también el contenido de la asignatura.**  (Esto para las obligatorias)
++ Para las optativas, es super flexible. 
++ Un curso de idiomas cuenta como humanidad. 
+
+El número de créditos de cada asignatura deben de tener exáctamente o parecidos el número de créditos. (variación máxima del 5%)
++ Para esto ver cual es el número de créditos anuales de esa uni y compararlos con los 60 de la UC3M. Se pueden mirar en horas también. 
+## Contrato de estudios:
++ Utilizar la plantilla de EXCEL proporcionada 
++ NOmbre del documento: **E+\_2025/26_UC3M_AlbertoPascauSaez_VERSIÓN.xsl**
++ En el 
 ***
