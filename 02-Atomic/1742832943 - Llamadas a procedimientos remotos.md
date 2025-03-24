@@ -51,7 +51,54 @@ Requiere tres tipos de parámetros:
 2. de **salida (out)**
 3. de **entrada/salida (inout)**
 
-Para transferir estos parámetros hace falta **aplanar los datos**, esto significa pasarlos a texto, normalmente dentro de un esquema de representación de datos (XML, JSON, XDR …)
+Para transferir estos parámetros hace falta **aplanar los datos**, esto significa pasarlos a texto, normalmente dentro de un esquema de representación de datos (XML, JSON, XDR, CDR)
+
+Para enviarse estos datos hace falta un protocolo que establezca: 
++ Formato de mensajes 
++ Formato de representación 
+
+Tiene en cuenta la conversión de datos que puede ser: 
++ Simétrica
++ Asimétrica
+
+Tiene en cuenta el tipado: 
++ Explicito 
++ Implicito 
+
+Crea un servidio de enlace. Permite establecer la conexión, esto implica. 
++ Encontrar al servidor por parte del cliente
++ El servidor tiene que registrarse en algún lado con su IP y puerto abierto relacionados con un nombre. Esto lo guarda en el binder, una tabla de traducciones de nombres de servicio a dirección/puerto. 
+Este servicio de enlace lo implementa el enlazador dinámico, junto a las interfaces que el servicio define. 
+![[1742832943 - Llamadas a procedimientos remotosj.png]]
+
+Se define el tipo de enlace que se genera entre cliente y servidor, que puede ser: 
++ No persistente 
+	+ Tolera fallos
++ Persistente
+	+ Tolera menos fallos
++ Híbrido 
+
+## Fallos: 
+
+> [!bug] Cliente no encuentra servidor 
+> + El servidor puede estar caido 
+> + Versión antigua del server en uso 
+> El servidor le devuelve un -1 (ERROR) como error al cliente en estos casos.
+
+
+> [!bug] Perdida del mensaje del cliente 
+> + Se usa un timer, si se pasa se repite el mensaje 
+
+
+> [!bug] Pérdida de respuesta:
+> + Con operaciones que se pueden repetir las veces que sea (idempotentes) no pasa nada
+> + Para las que no son idempotentes se ha de comprobar de alguna forma si esa respuesta se mando
+
+
+> [!bug] Fallos en server 
+>  
+
+
 
 
 ***
