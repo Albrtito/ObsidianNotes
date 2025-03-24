@@ -41,6 +41,15 @@ The relations are based on [[Binary Relations]], with the following characterist
 > $$ (DNI_i, NAME_j) $$
 > 
 
++ Relations can be swown implicitly(**intensive**), with a graph that defines the general form of it. Or explicitly(**extensive**) with all tuples that it contains. 
+
+> [!NOTE] Relation degree: 
+> Number of columns
+
+
+> [!NOTE] Relation cardinality: 
+> Number or rows / elements 
+
 ### Inherent restrictions:
 These are restrictions that **come with the relational nature of this theoretical model.**
 1. The order of attributes does not matter
@@ -55,18 +64,13 @@ These are restrictions that **come with the relational nature of this theoretica
 We can also define those **restrictions required for the integrity of the model**:
 1. **Integrity of entity:** Each row is unique
 	1. No attribute from primary key can take null value
-> [!attention] Remark: 
-> + All tuples must be unique. → Every row must be identifiable somehow
-
-
-+ Relations can be swown implicitly(**intensive**), with a graph that defines the general form of it. Or explicitly(**extensive**) with all tuples that it contains. 
-
-> [!NOTE] Relation degree: 
-> Number of columns
-
-
-> [!NOTE] Relation cardinality: 
-> Number or rows / elements 
+2. **Referential Integrity:** Anything referenced allways exists. So all Foreign Keys mus reference something that exists. 
+	1. If it’s null. The reference check is skipped. 
+	2. For several attributes. The check can be done in one of the following ways.
+	   + **COMPLETE:** All attributes work as one
+	   + **PARTIAL:** No check for null part
+	   + **WEAK:** If there is a null value, no check. #Duda Does this also mean that if an attribute is not there it is seen as null?
+	
 
 ### Relation to a relation:
 
@@ -80,7 +84,9 @@ However, in order to create this relations the shared attribute must be **unique
 
 
 ### Naming special keys:
-
++ Attributes that **can take null** → Use *
++ **Foreign keys** → <u>Underlined</u> and with an arrow to the referenced key
+	+ Same number of keys as the PK of the referenced relation, see referential integrity with [[#Inherent restrictions]] in order to see how this is checked.
 
 
 
