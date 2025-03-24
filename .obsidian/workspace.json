@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1739551767 - Relational DB Model.md",
+                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1739551767 - Relational DB Model"
+              "title": "1739552040 - DB Relational Statics"
             }
           }
         ],
@@ -212,8 +212,10 @@
   },
   "active": "6d73d5786963263c",
   "lastOpenFiles": [
-    "02-Atomic/1739196838 - DB Relational dynamics.md",
+    "1739554013 - SQL Relational Model Implementation.md",
+    "02-Atomic/1739552040 - DB Relational Statics.md",
     "02-Atomic/1739551767 - Relational DB Model.md",
+    "02-Atomic/1739196838 - DB Relational dynamics.md",
     "02-Atomic/1737987572 - Introduction to Databases.md",
     "01-Areas/1.UC3M/Files&DB.md",
     "Introduction to Databases.md",
@@ -244,8 +246,6 @@
     "02-Atomic/1738080627 - Lenguaje C.md",
     "02-Atomic/1738259991 - C Data Types.md",
     "02-Atomic/Greek Alphabet.md",
-    "02-Atomic/1739552040 - DB Relational Statics.md",
-    "02-Atomic/Filo 101.md",
     "00-References/Files_Theory_Ch1_IntroToDB.pdf",
     "00-References/OS_Theory_Concurrent-Servers.pdf",
     "99-Meta/0. Attachments/1739203641 - Comunicación y sincronización entre procesosj.png",

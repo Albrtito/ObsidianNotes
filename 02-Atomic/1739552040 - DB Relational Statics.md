@@ -11,7 +11,7 @@ cssclasses:
 > [!NOTE] Intro: 
 > The static part of the Relational Model creates the tables, relations between them, what to do when something related changes and static constraints. 
 
-This note will define the concepts and rules needed to create a **theoretical model**. All the tools needed to then implement this model will be gathered at: [[1739554013 - SQL Relational Model Implementation|SQL Relational Model Implementation]]
+This note will define the concepts and rules needed to create a **theoretical model**.
 
 
 > [!example] Naming convention: 
@@ -29,6 +29,8 @@ The relations are based on [[Binary Relations]], with the following characterist
 
 + Each related element has a **domain**
 + A relation is the **cartesian product of n domains**
++ Each related element is called an **attribute**
++ Each set of related elements is called a **tuple**
 
 > f.e: Given the DNIs and Names sets: 
 > + DNIs: Have a domain given by the properties they must follow.
@@ -39,14 +41,25 @@ The relations are based on [[Binary Relations]], with the following characterist
 > $$ (DNI_i, NAME_j) $$
 > 
 
-+ Each of the elements/sets of the relation is called an attribute. 
-	+ The order of these attributes does not matter
+### Inherent restrictions:
+These are restrictions that **come with the relational nature of this theoretical model.**
+1. The order of attributes does not matter
+2. The order of tuples does not matter
+3. There are **no two identical tuples**
+4. Individuals(tuples) are of the same nature.
+	* They share the same attribute number (arity)
+   + Attributes are single-value and atomic
+	   + Single-value: One domain
+	   + Atomic: Non-divisible for their aim. #Duda: An example of this and why it is a defined property?
 
+We can also define those **restrictions required for the integrity of the model**:
+1. **Integrity of entity:** Each row is unique
+	1. No attribute from primary key can take null value
 > [!attention] Remark: 
 > + All tuples must be unique. → Every row must be identifiable somehow
 
 
-+ Relations can be swown implicitly(**intensive**), with a graph that defines the general foirm of it. Or explicitly(**extensive**) with all tuples that it contains. 
++ Relations can be swown implicitly(**intensive**), with a graph that defines the general form of it. Or explicitly(**extensive**) with all tuples that it contains. 
 
 > [!NOTE] Relation degree: 
 > Number of columns
@@ -55,7 +68,7 @@ The relations are based on [[Binary Relations]], with the following characterist
 > [!NOTE] Relation cardinality: 
 > Number or rows / elements 
 
-## Relation to a relation:
+### Relation to a relation:
 
 > [!NOTE] Intro: 
 > An attribute of a relation can be the same attribute of another relation. Instead of having them separately, a conection between the relations can be created:
@@ -66,7 +79,7 @@ The relations are based on [[Binary Relations]], with the following characterist
 However, in order to create this relations the shared attribute must be **unique** in one of the two tables. That table pasa a ser la tabla “padre” mientras que la otra será la tabla “hija”
 
 
-## Naming special keys:
+### Naming special keys:
 
 
 
