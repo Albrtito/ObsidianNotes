@@ -9,6 +9,12 @@ cssclasses:
 ```RPC
 program programName {
 	version programVersion{
-		int 
+		int serviceName(params) = opNum;
+		int serviceName(params) = opNum;
+		...
+		} = versionNum;
+	} = programNum;
 ```
+
+> **PRÁCTICA:** Usar el NIA como número de programa para que, si usando guernika, no haya conflictos 
 ***
