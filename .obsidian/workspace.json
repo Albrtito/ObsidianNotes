@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "1742832943 - Llamadas a procedimientos remotos"
             }
+          },
+          {
+            "id": "cce6c1751b2e3dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1742836324 - Programacion con RPC de Sun-ONC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1742836324 - Programacion con RPC de Sun-ONC"
+            }
+          },
+          {
+            "id": "89e2656f25485473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1742836514 - Definicion de interfaces con RPCs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1742836514 - Definicion de interfaces con RPCs"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -332,12 +380,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9cd047a080d4ff3f",
+  "active": "89e2656f25485473",
   "lastOpenFiles": [
+    "02-Atomic/1742836514 - Definicion de interfaces con RPCs.md",
+    "02-Atomic/1742836324 - Programacion con RPC de Sun-ONC.md",
+    "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
+    "02-Atomic/1742836309 -.md",
     "99-Meta/0. Attachments/1742832943 - Llamadas a procedimientos remotosj.png",
     "02-Atomic/1741624225 - Servicios distribuidos.md",
     "02-Atomic/Distribuidos.md",
-    "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
     "02-Atomic/1741617249 - File structures.md",
     "02-Atomic/1739552040 - DB Relational Statics.md",
     "1739554013 - SQL Relational Model Implementation.md",
@@ -361,13 +412,11 @@
     "02-Atomic/1730651695 - The Internet Protocol (IP).md",
     "02-Atomic/The Laplace transform.md",
     "01-Areas/1.UC3M/DiffCalc.md",
-    "02-Atomic/Convolution product.md",
     "99-Meta/0. Attachments/1741624225 - Servicios distribuidosj-2.png",
     "99-Meta/0. Attachments/1741624225 - Servicios distribuidosj-1.png",
     "99-Meta/0. Attachments/1741624225 - Servicios distribuidosj.png",
     "00-References/C_IntroDistri.pdf",
     "00-References/C_Guia.pdf",
-    "02-Atomic/1738080627 - Lenguaje C.md",
     "00-References/Files_Theory_Ch1_IntroToDB.pdf",
     "00-References/OS_Theory_Concurrent-Servers.pdf",
     "99-Meta/0. Attachments/1739203641 - Comunicación y sincronización entre procesosj.png",
@@ -379,7 +428,6 @@
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
     "00-References/Heuri_Resources_Problemas.pdf",
     "99-Meta/0. Attachments/1727968107 - Expresiones condicionales en programación linealj.png",
-    "99-Meta/0. Attachments/1729598277 - Cuenta de resultadosj-1.png",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",

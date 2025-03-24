@@ -10,6 +10,8 @@ cssclasses:
 ---
 # Llamadas a procedimientos remotos
 
+> CASO ESPECÍFICO: Programacion con RPC de Sun/ONC
+
 
 > [!NOTE] Objetivo: 
 > Poder programar lo distribuido como si no lo fuese.
@@ -96,9 +98,13 @@ Se define el tipo de enlace que se genera entre cliente y servidor, que puede se
 
 
 > [!bug] Fallos en server 
->  
+> … 
 
 
+
+> [!bug] Fallos en cliente: 
+> + Si no se recibe respuesta reenviar (incluir identifiación de petición)
+> + Usar la identifiación de petición para reenviar respuestas no idempotentes. 
 
 
 ***
