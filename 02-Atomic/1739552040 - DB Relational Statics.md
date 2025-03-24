@@ -60,10 +60,10 @@ These are restrictions that **come with the relational nature of this theoretica
    + Attributes are single-value and atomic
 	   + Single-value: One domain
 	   + Atomic: Non-divisible for their aim. #Duda: An example of this and why it is a defined property?
-
+#### Referential integrity:
 We can also define those **restrictions required for the integrity of the model**:
 1. **Integrity of entity:** Each row is unique
-	1. No attribute from primary key can take null value
+	1. No attribute from primary key can take null value #DUda: With a primary key defined by several attributes, null means all null or just only one of them null cannot be permitted?
 2. **Referential Integrity:** Anything referenced allways exists. So all Foreign Keys mus reference something that exists. 
 	1. If it’s null. The reference check is skipped. 
 	2. For several attributes. The check can be done in one of the following ways.
@@ -72,22 +72,15 @@ We can also define those **restrictions required for the integrity of the model*
 	   + **WEAK:** If there is a null value, no check. #Duda Does this also mean that if an attribute is not there it is seen as null?
 	
 
-### Relation to a relation:
+### Special keys:
+When we create a relation/table we have different types of attributes, these are:
 
-> [!NOTE] Intro: 
-> An attribute of a relation can be the same attribute of another relation. Instead of having them separately, a conection between the relations can be created:
++ **PRIMARY KEYS (PK)**: Identifying keys, must be unique and not null → <u>Underlined</u> 
++ **NULLABLE:** Attributes that **can take null** → Use *
++ **FOREIGN KEYS (FK)**: Identify associations → <u>Underlined</u> and with an arrow to the referenced key
+	+ Same number of keys as the PK of the referenced relation, see referential integrity with [[#Referential integrity]] in order to see how this is checked.
 
-> $R_1$ : VxU 
-> $R_2$ : VxW → V is related to $R_1$ 
-
-However, in order to create this relations the shared attribute must be **unique** in one of the two tables. That table pasa a ser la tabla “padre” mientras que la otra será la tabla “hija”
-
-
-### Naming special keys:
-+ Attributes that **can take null** → Use *
-+ **Foreign keys** → <u>Underlined</u> and with an arrow to the referenced key
-	+ Same number of keys as the PK of the referenced relation, see referential integrity with [[#Inherent restrictions]] in order to see how this is checked.
-
+## 
 
 
 
