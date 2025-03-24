@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59df783bbe67598e",
+        "id": "10b0575a715cf807",
         "type": "tabs",
         "children": [
           {
-            "id": "43a8945846ebea6f",
+            "id": "72d411c7df7c2395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Movilidad.md",
+                "file": "02-Atomic/1739196838 - DB Relational dynamics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,40 +28,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Movilidad"
+              "title": "1739196838 - DB Relational dynamics"
             }
           },
           {
-            "id": "6a7941b9175fa35f",
+            "id": "8538b16c7db0b9e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "02-Atomic/1733500003 - Movilidad europea.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "99-Meta/0. Attachments/Greek-Alphabet.png"
               },
-              "icon": "lucide-file",
-              "title": "1733500003 - Movilidad europea"
+              "icon": "lucide-image",
+              "title": "Greek-Alphabet"
             }
           },
           {
-            "id": "26147c2c1efd536a",
+            "id": "a2f5abec0c9322d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1733500003 - Movilidad europea.md",
+                "file": "02-Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +64,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1733500003 - Movilidad europea"
+              "title": "20240415 - 110638 - Definition 122 - Binary Relations"
             }
           },
           {
-            "id": "e5614a53cc30fd36",
+            "id": "41a788ef50dc16c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1742475772 - Movilidad Islandia.md",
+                "file": "02-Atomic/1739554013 - SQL Relational Model Implementation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +88,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1742475772 - Movilidad Islandia"
+              "title": "1739554013 - SQL Relational Model Implementation"
+            }
+          },
+          {
+            "id": "11b1a35197324322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/SQLplus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SQLplus"
+            }
+          },
+          {
+            "id": "71f000f29df971dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1741617249 - File structures.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1741617249 - File structures"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -118,115 +154,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36d1a43796975b90",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "02-Atomic/1742475772 - Movilidad Islandia.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#incomplete  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    },
-                    {
-                      "query": "tag:#DiffCalc  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8537055
-                      }
-                    },
-                    {
-                      "query": "tag:#Networks",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11392604
-                      }
-                    },
-                    {
-                      "query": "tag:#Discrete  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    },
-                    {
-                      "query": "tag:#Cripto",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084269
-                      }
-                    },
-                    {
-                      "query": "tag:#Heuri  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6073814
-                      }
-                    },
-                    {
-                      "query": "tag:#Empresa  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16775199
-                      }
-                    },
-                    {
-                      "query": "tag:#CalcI  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "tag:#Logic  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1328127
-                      }
-                    },
-                    {
-                      "query": "tag:#EDA  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16762880
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.39155888359428,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.178748758689176,
-                  "repelStrength": 15.3311814073596,
-                  "linkStrength": 0.47411233053583,
-                  "linkDistance": 52,
-                  "scale": 0.05281790119329888,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of 1742475772 - Movilidad Islandia"
-            }
-          },
-          {
-            "id": "d984ccb5a50bcd56",
+            "id": "f711782e507bc62d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -243,7 +171,7 @@
             }
           },
           {
-            "id": "d6d22eeec0682472",
+            "id": "387311d8b57452b1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -264,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1742475772 - Movilidad Islandia.md",
+                "file": "02-Atomic/1741617249 - File structures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1742475772 - Movilidad Islandia"
+              "title": "Outline of 1741617249 - File structures"
             }
           },
           {
@@ -279,17 +207,19 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 340,
+    "width": 443.5,
     "collapsed": true
   },
   "right": {
@@ -307,93 +237,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "01-Areas/1.UC3M/Files&DB.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Heuristica y Opti"
-            }
-          },
-          {
-            "id": "ab18e04d6d07ee97",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Heuristica y Opti"
-            }
-          },
-          {
-            "id": "48b64c2d6dc49e36",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Heuristica y Opti"
-            }
-          },
-          {
-            "id": "0d900727d536ddd5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "91fae42f5f6cbc74",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "14e2095f55fe5f78",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c5b902d630da931a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "Files&DB"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -432,10 +294,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e5614a53cc30fd36",
+  "active": "71f000f29df971dd",
   "lastOpenFiles": [
-    "02-Atomic/1733500003 - Movilidad europea.md",
+    "00-References/DB_Resources_Lab2_Statement.pdf",
     "02-Atomic/1742475772 - Movilidad Islandia.md",
+    "02-Atomic/1733500003 - Movilidad europea.md",
     "01-Areas/1.UC3M/Movilidad.md",
     "02-Atomic/1727166266 - Movilidad no Europea.md",
     "00-References/References_Derivatives&Integrals.pdf",
@@ -466,7 +329,6 @@
     "02-Atomic/Filo 101.md",
     "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02-Atomic/IA.md",
-    "02-Atomic/1738764683 - Production systems.md",
     "00-References/Files_Theory_Ch1_IntroToDB.pdf",
     "00-References/OS_Theory_Concurrent-Servers.pdf",
     "99-Meta/0. Attachments/1739203641 - Comunicación y sincronización entre procesosj.png",
