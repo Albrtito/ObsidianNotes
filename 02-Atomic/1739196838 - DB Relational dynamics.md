@@ -11,7 +11,7 @@ cssclasses:
 > [!NOTE] Intro: 
 >  The relational dynamics of a model are responsible of **changing the state of the set of relations that create the database.**
 >  + Changes are done in some time
->  + In order to perform the changes a language in required
+>  + In order to perform the changes a language is required
 >  + Operators can either inspect or change.
 
 ## Relational languages: 

@@ -14,7 +14,8 @@ cssclasses:
 > + [[1739552040 - DB Relational Statics|DB Relational Statics]]
 
 **Remarks:**
-+ Comments to further explain the model are needed. Without themn there is not enough coverage. 
++ Comments to further explain the model are needed. Without them there is not enough coverage. 
+
 
 
 --- 
