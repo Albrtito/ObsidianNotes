@@ -96,42 +96,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f340046a713a91df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1223c0f85c541969",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "02-Atomic/1743006292 - SQL DDL.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 1743006292 - SQL DDL"
-            }
-          },
-          {
-            "id": "b89f836cb1d8a8cd",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e2bfdeca7930a501",
+        "id": "2d86015ffa188866",
         "type": "tabs",
         "children": [
           {
@@ -172,11 +137,44 @@
             }
           }
         ]
+      },
+      {
+        "id": "f340046a713a91df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1223c0f85c541969",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02-Atomic/1743006292 - SQL DDL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1743006292 - SQL DDL"
+            }
+          },
+          {
+            "id": "b89f836cb1d8a8cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 443.5,
-    "collapsed": true
+    "width": 443.5
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -250,7 +248,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d3f9c66256185751",
+  "active": "1223c0f85c541969",
   "lastOpenFiles": [
     "02-Atomic/1743006119 - SQL.md",
     "02-Atomic/1743006292 - SQL DDL.md",
