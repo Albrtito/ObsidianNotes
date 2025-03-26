@@ -134,8 +134,7 @@
               "title": "1743010495 - SQL DML"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,11 +153,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1743010495 - SQL DML.md",
+                "file": "02-Atomic/1743006119 - SQL.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -185,12 +184,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5458857379191286,
+                  "scale": 0.42800317273603583,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1743010495 - SQL DML"
+              "title": "Graph of 1743006119 - SQL"
             }
           }
         ]
@@ -205,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1743010495 - SQL DML.md",
+                "file": "02-Atomic/1743006119 - SQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1743010495 - SQL DML"
+              "title": "Outline of 1743006119 - SQL"
             }
           },
           {
@@ -305,13 +304,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7935804913522f8f",
+  "active": "fcc4716cffbfe5b8",
   "lastOpenFiles": [
-    "99-Meta/0. Attachments/1743010495 - SQL DMLj.png",
-    "02-Atomic/1743006292 - SQL DDL.md",
+    "1739551767 - Relational DB Model.md",
     "02-Atomic/1743006119 - SQL.md",
     "02-Atomic/1743010495 - SQL DML.md",
     "02-Atomic/1739196838 - DB Relational dynamics.md",
+    "99-Meta/0. Attachments/1743010495 - SQL DMLj.png",
+    "02-Atomic/1743006292 - SQL DDL.md",
     "01-Areas/1.UC3M/Files&DB.md",
     "02-Atomic/1739552040 - DB Relational Statics.md",
     "02-Atomic/1739551767 - Relational DB Model.md",
@@ -350,7 +350,6 @@
     "00-References/IA_Biblio_Russell_Norvig.pdf",
     "00-References/Filo_Biblio_APlatoReader.pdf",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj-1.png",
-    "99-Meta/0. Attachments/1738259991 - C Data Typesj.png",
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
     "00-References/Heuri_Resources_Problemas.pdf",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
