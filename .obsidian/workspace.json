@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "1741617249 - File structures"
             }
+          },
+          {
+            "id": "bb96ac96a713d17e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/SQLplus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SQLplus"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,39 +113,6 @@
     "id": "145a221e0e2d66f9",
     "type": "split",
     "children": [
-      {
-        "id": "662098e0d908b3e6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f711782e507bc62d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "387311d8b57452b1",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
-      },
       {
         "id": "f340046a713a91df",
         "type": "tabs",
@@ -156,11 +147,26 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "ece4560af1271785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "071f7ce815fc4b01",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 443.5,
-    "collapsed": true
+    "width": 443.5
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -216,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,8 +239,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6d73d5786963263c",
+  "active": "b89f836cb1d8a8cd",
   "lastOpenFiles": [
+    "02-Atomic/SQLplus.md",
+    "02-Atomic/1739552040 - DB Relational Statics.md",
     "01-Areas/1.UC3M/Files&DB.md",
     "02-Atomic/1741617249 - File structures.md",
     "02-Atomic/Filo 101.md",
@@ -247,7 +254,6 @@
     "02-Atomic/1742836514 - Definicion de interfaces con RPCs.md",
     "02-Atomic/1742836309 -.md",
     "99-Meta/0. Attachments/1742832943 - Llamadas a procedimientos remotosj.png",
-    "02-Atomic/1739552040 - DB Relational Statics.md",
     "1739554013 - SQL Relational Model Implementation.md",
     "02-Atomic/1739551767 - Relational DB Model.md",
     "02-Atomic/1739196838 - DB Relational dynamics.md",
@@ -258,7 +264,6 @@
     "99-Meta/0. Attachments/Greek-Alphabet.png",
     "02-Atomic/20240415 - 110638 - Definition 122 - Binary Relations.md",
     "02-Atomic/1739554013 - SQL Relational Model Implementation.md",
-    "02-Atomic/SQLplus.md",
     "00-References/DB_Resources_Lab2_Statement.pdf",
     "02-Atomic/1742475772 - Movilidad Islandia.md",
     "02-Atomic/1733500003 - Movilidad europea.md",
