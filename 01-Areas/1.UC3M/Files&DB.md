@@ -36,7 +36,9 @@ cssclasses:
 
 ## Notas: 
 + [[1737987572 - Introduction to Databases|Introduction to Databases]]
-+ 
++ [[1739552040 - DB Relational Statics|DB Relational Statics]]
++ [[1739196838 - DB Relational dynamics|DB Relational dynamics]]
++ [[1743006119 - SQL|SQL]]
 
 ## Ejercicios:
 

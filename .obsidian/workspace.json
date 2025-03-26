@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1739551767 - Relational DB Model.md",
+                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1739551767 - Relational DB Model"
+              "title": "1739552040 - DB Relational Statics"
+            }
+          },
+          {
+            "id": "3ec9b158dc9d7726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1739196838 - DB Relational dynamics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1739196838 - DB Relational dynamics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "10b0575a715cf807",
@@ -84,9 +109,33 @@
               "icon": "lucide-file",
               "title": "1743006292 - SQL DDL"
             }
+          },
+          {
+            "id": "7935804913522f8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1743010495 - SQL DML.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1743010495 - SQL DML"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1739551767 - Relational DB Model.md",
+                "file": "02-Atomic/1743010495 - SQL DML.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -116,8 +165,16 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#FilesAndDB  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048429
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -129,11 +186,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.5458857379191286,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1739551767 - Relational DB Model"
+              "title": "Graph of 1743010495 - SQL DML"
             }
           }
         ]
@@ -148,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1739551767 - Relational DB Model.md",
+                "file": "02-Atomic/1743010495 - SQL DML.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1739551767 - Relational DB Model"
+              "title": "Outline of 1743010495 - SQL DML"
             }
           },
           {
@@ -248,14 +305,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6d73d5786963263c",
+  "active": "7935804913522f8f",
   "lastOpenFiles": [
+    "02-Atomic/1743006292 - SQL DDL.md",
+    "02-Atomic/1743010495 - SQL DML.md",
+    "02-Atomic/1743006119 - SQL.md",
+    "02-Atomic/1739196838 - DB Relational dynamics.md",
+    "01-Areas/1.UC3M/Files&DB.md",
     "02-Atomic/1739552040 - DB Relational Statics.md",
     "02-Atomic/1739551767 - Relational DB Model.md",
-    "02-Atomic/1743006292 - SQL DDL.md",
-    "02-Atomic/1743006119 - SQL.md",
     "99-Meta/0. Attachments/1743006292 - SQL DDLj.png",
-    "01-Areas/1.UC3M/Files&DB.md",
     "02-Atomic/1741617249 - File structures.md",
     "02-Atomic/SQLplus.md",
     "02-Atomic/The Pickers.md",
@@ -274,7 +333,6 @@
     "02-Atomic/1742836309 -.md",
     "99-Meta/0. Attachments/1742832943 - Llamadas a procedimientos remotosj.png",
     "1739554013 - SQL Relational Model Implementation.md",
-    "02-Atomic/1739196838 - DB Relational dynamics.md",
     "02-Atomic/1737987572 - Introduction to Databases.md",
     "Introduction to Databases.md",
     "02-Atomic/20240517 - 163856 - Files.md",

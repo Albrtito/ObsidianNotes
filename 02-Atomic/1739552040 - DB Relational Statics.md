@@ -10,7 +10,7 @@ cssclasses:
 
 > [!NOTE] Intro: 
 > The static part of the Relational Model creates the tables, relations between them, what to do when something related changes and static constraints.
-> + The set of all this info is called **Relational Schema and is represented in a Relational Graph**
+> + The set of all this info is called **Relational Schema/Model and is represented in a Relational Graph**
 
 This note will define the concepts and rules needed to create a **theoretical model**.
 
@@ -111,4 +111,10 @@ Apply **on the whole DB** and **concerns several elements.**
 + Independendly implemented
 + Usually not implemented as it requires high computational costs
 
+## Design documentation:
+The whole design must be completed by adding documentation that details several aspects of the model and can be separated into:
 
++ **Explicit semantica assumption:** any requirement **provided by the client** 
++ **Non-observed explicit semantic assumption:** What is **not included in the proposed design**.
+	+ A possible solution may be given 
++ **Implicit semantic assumptions:** Info **not provided by the client** but taken into account as it is needed for the design.
