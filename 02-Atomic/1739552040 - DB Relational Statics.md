@@ -9,7 +9,8 @@ cssclasses:
 # DB Relational Statics
 
 > [!NOTE] Intro: 
-> The static part of the Relational Model creates the tables, relations between them, what to do when something related changes and static constraints. 
+> The static part of the Relational Model creates the tables, relations between them, what to do when something related changes and static constraints.
+> + The set of all this info is called **Relational Schema and is represented in a Relational Graph**
 
 This note will define the concepts and rules needed to create a **theoretical model**.
 
