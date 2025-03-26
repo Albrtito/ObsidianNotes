@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b97c4432b4c2b29",
+            "id": "72d411c7df7c2395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Filo 101.md",
+                "file": "01-Areas/1.UC3M/Files&DB.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Filo 101"
+              "title": "Files&DB"
             }
           },
           {
-            "id": "54e212a4d0a39175",
+            "id": "6d73d5786963263c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1739552040 - DB Relational Statics"
+            }
+          },
+          {
+            "id": "fcc4716cffbfe5b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1741617249 - File structures.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1741617249 - File structures"
             }
           }
         ],
-        "stacked": true
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,100 +93,6 @@
         "id": "662098e0d908b3e6",
         "type": "tabs",
         "children": [
-          {
-            "id": "36d1a43796975b90",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "02-Atomic/Filo 101.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#incomplete  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    },
-                    {
-                      "query": "tag:#DiffCalc  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8537055
-                      }
-                    },
-                    {
-                      "query": "tag:#Networks",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11392604
-                      }
-                    },
-                    {
-                      "query": "tag:#Discrete  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    },
-                    {
-                      "query": "tag:#Cripto",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084269
-                      }
-                    },
-                    {
-                      "query": "tag:#Heuri  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6073814
-                      }
-                    },
-                    {
-                      "query": "tag:#Empresa  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16775199
-                      }
-                    },
-                    {
-                      "query": "tag:#CalcI  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.79537653688525,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.0242737249838606,
-                  "repelStrength": 15.3311814073596,
-                  "linkStrength": 0.47411233053583,
-                  "linkDistance": 52,
-                  "scale": 0.09229580869883151,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Filo 101"
-            }
-          },
           {
             "id": "f711782e507bc62d",
             "type": "leaf",
@@ -188,10 +132,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
+                "file": "02-Atomic/1741617249 - File structures.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730827988 - Subnets"
+              "title": "Outline of 1741617249 - File structures"
             }
           },
           {
@@ -212,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 443.5,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -229,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Filo 101.md",
+                "file": "01-Areas/1.UC3M/Files&DB.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,7 +192,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Filo 101"
+              "title": "Files&DB"
             }
           }
         ]
@@ -268,7 +216,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 395,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,8 +234,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b97c4432b4c2b29",
+  "active": "fcc4716cffbfe5b8",
   "lastOpenFiles": [
+    "02-Atomic/Filo 101.md",
     "02-Atomic/1742836324 - Programacion con RPC de Sun-ONC.md",
     "99-Meta/0. Attachments/1742836324 - Programacion con RPC de Sun-ONCj.png",
     "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
