@@ -80,7 +80,25 @@ When we create a relation/table we have different types of attributes, these are
 + **FOREIGN KEYS (FK)**: Identify associations → <u>Underlined</u> and with an arrow to the referenced key
 	+ Same number of keys as the PK of the referenced relation, see referential integrity with [[#Referential integrity]] in order to see how this is checked.
 
-## Protecting referential integrity 
+## Protecting integrity 
+
+### Protecting referential integrity:
+> [!NOTE] Idea: 
+> When deleting a reference to other relation the referential integrity rules state that no reference can be left orphan, or if so (is set to null) it must be said directly. 
+> 
+> Referential integrity **is in danger when delete or update operations are performed**. There are several options when this happens. 
+
++ **Restrict:** Any operation on fathers with children is prevented
++ **No Action:** Execution is prevented when it breaks the integrity
++ **Cascade:** The operation will be extended to the tuples containing old non-valid values.
+	+ → Father dies, related  children die
++ **Set Null:** When the father dies, all childrens references point to null
++ **Set Default:** A default value is set if the father dies.
+
+### Restrictions in the semantic:
+
+> [!NOTE] Idea: 
+> Restrict the  
 
 
 
