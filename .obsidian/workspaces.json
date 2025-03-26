@@ -2408,9 +2408,81 @@
                   "icon": "lucide-file",
                   "title": "1741624225 - Servicios distribuidos"
                 }
+              },
+              {
+                "id": "9cd047a080d4ff3f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "1742832943 - Llamadas a procedimientos remotos"
+                }
+              },
+              {
+                "id": "cce6c1751b2e3dde",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1742836324 - Programacion con RPC de Sun-ONC.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "1742836324 - Programacion con RPC de Sun-ONC"
+                }
+              },
+              {
+                "id": "89e2656f25485473",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1742836514 - Definicion de interfaces con RPCs.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "1742836514 - Definicion de interfaces con RPCs"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -2662,8 +2734,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "5866990030591eb9",
-      "mtime": "2025-03-11T13:46:18+01:00"
+      "active": "cce6c1751b2e3dde",
+      "mtime": "2025-03-26T13:11:16+01:00"
     },
     "IA": {
       "main": {
@@ -3852,5 +3924,5 @@
       "mtime": "2025-02-11T11:47:38+01:00"
     }
   },
-  "active": "Distri"
+  "active": "Filo"
 }
