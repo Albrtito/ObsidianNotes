@@ -80,7 +80,8 @@ When we create a relation/table we have different types of attributes, these are
 + **FOREIGN KEYS (FK)**: Identify associations → <u>Underlined</u> and with an arrow to the referenced key
 	+ Same number of keys as the PK of the referenced relation, see referential integrity with [[#Referential integrity]] in order to see how this is checked.
 
-## 
+## Protecting referential integrity 
+
 
 
 

@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,8 +234,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fcc4716cffbfe5b8",
+  "active": "6d73d5786963263c",
   "lastOpenFiles": [
+    "01-Areas/1.UC3M/Files&DB.md",
+    "02-Atomic/1741617249 - File structures.md",
     "02-Atomic/Filo 101.md",
     "02-Atomic/1742836324 - Programacion con RPC de Sun-ONC.md",
     "99-Meta/0. Attachments/1742836324 - Programacion con RPC de Sun-ONCj.png",
@@ -245,13 +247,11 @@
     "02-Atomic/1742836514 - Definicion de interfaces con RPCs.md",
     "02-Atomic/1742836309 -.md",
     "99-Meta/0. Attachments/1742832943 - Llamadas a procedimientos remotosj.png",
-    "02-Atomic/1741617249 - File structures.md",
     "02-Atomic/1739552040 - DB Relational Statics.md",
     "1739554013 - SQL Relational Model Implementation.md",
     "02-Atomic/1739551767 - Relational DB Model.md",
     "02-Atomic/1739196838 - DB Relational dynamics.md",
     "02-Atomic/1737987572 - Introduction to Databases.md",
-    "01-Areas/1.UC3M/Files&DB.md",
     "Introduction to Databases.md",
     "02-Atomic/20240517 - 163856 - Files.md",
     "02-Atomic/Find files and directories.md",
