@@ -37,8 +37,15 @@ Para aplicar a la uni inicialmente (primer periodo en el calendario hace falta):
 ### Que es un semestre de 12+3 semanas:
 
 > [!NOTE] Info:
-> En RU los cursos de 
+> En RU los cursos del departamento de CS son de 12 semanas o de 3 semanas. Primero los de 12 hasta noviembre que se vuelven de 3. 
+> + Los cursos de 3 semanas son **intensivos**
+> + Los cursos de 12 semanas tienen sus exámenes **antes de empezar los cursos de 3**
+> + **Solo se puede coger UN CURSO DE 3 SEMANAS**
 
-**Examenes:**
+### Exámenes:
++ **18 AGO - 7 NOV**: Clases (12 semanas) primer cuatri
++ **NOV 10 - 21:** Exámenes primer cuatri (12 semanas)
++ **24 NOV - 12 DEC:** Clases (3 semanas) primer cuatri
++ **15 - 16 DEC:** Exámenes (3 semanas)
 
 ***
