@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "26147c2c1efd536a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1733500003 - Movilidad europea.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1733500003 - Movilidad europea"
-            }
-          },
-          {
             "id": "e5614a53cc30fd36",
             "type": "leaf",
             "state": {
@@ -149,6 +125,30 @@
               },
               "icon": "lucide-file",
               "title": "1743086372 - IS - Contrato de estudios"
+            }
+          },
+          {
+            "id": "ace4b0b2c31702cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1743086642 - IS - Calendario de fechas limite.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1743086642 - IS - Calendario de fechas limite"
             }
           }
         ],
@@ -480,11 +480,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fc051d6436b35ee1",
+  "active": "2107ba1738d3e2cc",
   "lastOpenFiles": [
-    "02-Atomic/1743086372 - IS - Contrato de estudios.md",
     "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
     "02-Atomic/1742475772 - Movilidad Islandia.md",
+    "02-Atomic/1733500003 - Movilidad europea.md",
+    "01-Areas/1.UC3M/Movilidad.md",
+    "02-Atomic/1743086642 - IS - Calendario de fechas limite.md",
+    "02-Atomic/1743086372 - IS - Contrato de estudios.md",
     "02-Atomic/1743006119 - SQL.md",
     "1739551767 - Relational DB Model.md",
     "02-Atomic/1743010495 - SQL DML.md",
@@ -508,9 +511,6 @@
     "99-Meta/0. Attachments/1742836324 - Programacion con RPC de Sun-ONCj.png",
     "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
     "02-Atomic/1741624225 - Servicios distribuidos.md",
-    "02-Atomic/Distribuidos.md",
-    "02-Atomic/1742836514 - Definicion de interfaces con RPCs.md",
-    "02-Atomic/1742836309 -.md",
     "99-Meta/0. Attachments/1742832943 - Llamadas a procedimientos remotosj.png",
     "99-Meta/0. Attachments/Greek-Alphabet.png",
     "00-References/DB_Resources_Lab2_Statement.pdf",

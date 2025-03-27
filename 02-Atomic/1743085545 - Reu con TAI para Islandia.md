@@ -16,7 +16,7 @@ cssclasses:
 > [!NOTE] Labor de la TAI:
 > La labor de la TAI es **generar el contrato de asignaturas a convalidar** → [[1743086372 - IS - Contrato de estudios|IS - Contrato de estudios]]. Nada más y nada menos que eso.
 + Es muy importante que todo lo que se acuerde se suba bien a SIGMA. 
-+ Todo lo que se trabaja es personal, la TAI únicamente revisa lo que cada uno ha trabajado. Hay que proponer una serie de convalidacioneos y ella ya te dice. 
++ Todo lo que se trabaja es personal, la TAI únicamente revisa lo que cada uno ha trabajado. Hay que proponer una serie de convalidacioneos y ella ya te dice.
 
 > [!ATTENTION] LO PRIMERO: LOS PLAZOS Y LEER
 > Que no se le pasen los plazos a nadie, apuntar bien los plazos y leer todo atentamente sobre la uni de destino. 
