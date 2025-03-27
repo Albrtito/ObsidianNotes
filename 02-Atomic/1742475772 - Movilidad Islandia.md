@@ -8,9 +8,13 @@ cssclasses:
 ---
 # Movilidad Islandia
 
-> [!NOTE] Info: 
-> Link de referencia básica a movilidad europea en la UC3M. [[1733500003 - Movilidad europea|Movilidad europea]] 
+> [!NOTE] Info: Links e info básica
+ > + Link de referencia básica a movilidad europea en la UC3M. [[1733500003 - Movilidad europea|Movilidad europea]] 
+ > + Toda la información que da la universidad de islandia: [Incoming Exchange Students](https://reykjavik.instructure.com/courses/1435/pages/incoming-exchange-students)
+
+**Notas asociadas:**
 + [[1743085545 - Reu con TAI para Islandia|Reu con TAI para Islandia]]
++ 
 ## Calendario: 
 ### Fechas UC3M:
 + **FEBRERO/ABRIL:** Primera versión del contrato de estudios
@@ -24,5 +28,7 @@ cssclasses:
 > ESTAS SON LAS FECHAS UC3M, pero las de ISLANDIA PUEDEN SER DIFERENTES. 
 
 ### Fechas Reykjavik:
-+ **MARZO 15 - ABRIL 30**: 
++ **MARZO 15 - ABRIL 30**: Periodo de aplicación
++ **HASTA 15 MAYO:** Selección de cursos
+
 ***

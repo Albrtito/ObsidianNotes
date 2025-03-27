@@ -14,7 +14,7 @@ cssclasses:
 	+ CON ASUNTO: **E+ 2025/2026 - UNIVERSIDAD DESTINO - ALBERTO PASCAU SÁEZ**
 
 > [!NOTE] Labor de la TAI:
-> La labor de la TAI es **generar el contrato de asignaturas a convalidar**. Nada más y nada menos que eso.
+> La labor de la TAI es **generar el contrato de asignaturas a convalidar** → [[1743086372 - IS - Contrato de estudios|IS - Contrato de estudios]]. Nada más y nada menos que eso.
 + Es muy importante que todo lo que se acuerde se suba bien a SIGMA. 
 + Todo lo que se trabaja es personal, la TAI únicamente revisa lo que cada uno ha trabajado. Hay que proponer una serie de convalidacioneos y ella ya te dice. 
 
@@ -34,15 +34,6 @@ Para las asignaturas, se debe de parecer un 80% de la asignatura. Esto lo decide
 
 El número de créditos de cada asignatura deben de tener exáctamente o parecidos el número de créditos. (variación máxima del 5%)
 + Para esto ver cual es el número de créditos anuales de esa uni y compararlos con los 60 de la UC3M. Se pueden mirar en horas también. 
-## Contrato de estudios:
-+ Utilizar la plantilla de EXCEL proporcionada 
-+ NOmbre del documento: **E+\_2025/26_UC3M_AlbertoPascauSaez_VERSIÓN.xsl**
-+ En el nombre de la asignatura hace falta poner el link de la asignatura
-+ Luego en la descripción se dice lo que se ve en la UC3M y lo que se ve en la otra asignatura
-+ Máximo de 5 versiones entre el alumno y tai
-+ Nunca se borra nada del EXCEL. Se dejan las denegadas y solo se suben lluego las aprobadas a sigma
-+ Solo poner una asignatura de destino por cada una de la UC3M
-+ Las asignaturas suspendidas en el primer cuatri no se pueden poner. **NO se pueden poner asignaturas de las que estes matriculados en el curso actual**
-	+ Esto se puede hacer pero toca esperarse al periodo de cambios. 
+
 
 ***

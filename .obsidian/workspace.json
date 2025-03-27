@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "1743085545 - Reu con TAI para Islandia"
             }
+          },
+          {
+            "id": "2107ba1738d3e2cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1743086372 - IS - Contrato de estudios.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1743086372 - IS - Contrato de estudios"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -456,8 +480,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e5614a53cc30fd36",
+  "active": "fc051d6436b35ee1",
   "lastOpenFiles": [
+    "02-Atomic/1743086372 - IS - Contrato de estudios.md",
     "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
     "02-Atomic/1742475772 - Movilidad Islandia.md",
     "02-Atomic/1743006119 - SQL.md",
@@ -487,7 +512,6 @@
     "02-Atomic/1742836514 - Definicion de interfaces con RPCs.md",
     "02-Atomic/1742836309 -.md",
     "99-Meta/0. Attachments/1742832943 - Llamadas a procedimientos remotosj.png",
-    "1739554013 - SQL Relational Model Implementation.md",
     "99-Meta/0. Attachments/Greek-Alphabet.png",
     "00-References/DB_Resources_Lab2_Statement.pdf",
     "00-References/References_Derivatives&Integrals.pdf",
