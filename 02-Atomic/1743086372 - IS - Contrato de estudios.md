@@ -34,8 +34,13 @@ cssclasses:
 + Catálogo de cursos islandeses [aquí](https://www.ru.is/en/namid/um-namid/kennsluskra)
 + 70% de los cursos tienen que ser del departamento de computer science.
 
-> [!bug] PROBLEMA:
+> [!bug] PROBLEMA → BUENO, POSIBLE:
  Para seleccionar asignaturas de master hacen falta 180 → Al final de este cuatri solo tendré 150
+ > (**EXCEPTION FOR CS STUDENTS**)
+
+> [!bug] POSIBLE PROBLEMA:
+> El documento de conversion de notas que debería de estar [aquí](https://en.ru.is/studies/studying-at-ru/#grades) no existe. Quiero estar seguro de que no hay problema con mi media. 
+
 
 
 

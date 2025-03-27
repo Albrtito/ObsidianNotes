@@ -23,4 +23,7 @@ Para aplicar a la uni inicialmente (primer periodo en el calendario hace falta):
 + **Certificado de ingles**
 + **Listado de los cursos que se estan cursando en el cuatrimestre actual**
 
+## Calendario académico: 
+
+
 ***
