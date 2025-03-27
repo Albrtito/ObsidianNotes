@@ -24,6 +24,21 @@ Para aplicar a la uni inicialmente (primer periodo en el calendario hace falta):
 + **Listado de los cursos que se estan cursando en el cuatrimestre actual**
 
 ## Calendario académico: 
++ [Calendario académico proporcionado por RU](https://www.ru.is/en/namid/um-namid/academic-calendar#2025---2026)
 
+> [!attention] Fechas importantes:
+> 
+> + **AGOSTO 13-15:** Orientación
+> + **AGOSTO 18:** Empezar clases
+> + **AGOSTO 24:** Último día para añadir cursos 
+> + **SEPT 14:** Último día para dejar un curso 
+> + **NOV 7:** Último día para cambiar cosas de cursos de 3 semanas. 
+
+### Que es un semestre de 12+3 semanas:
+
+> [!NOTE] Info:
+> En RU los cursos de 
+
+**Examenes:**
 
 ***
