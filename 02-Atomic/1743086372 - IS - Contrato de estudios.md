@@ -14,10 +14,10 @@ cssclasses:
 > La UC3M tiene una página dedicada a esto [aquí](https://www.uc3m.es/ss/Satellite/SecretariaVirtual/es/TextoMixta/1371211194976/Contrato_de_Estudios_Learning_Agreement#2asignaturas)
 + El contrato se hace **oblicatoriamente sobre** un [excel](https://www.uc3m.es/secretaria-virtual/media/secretaria-virtual/doc/archivo/plantilla-excel-tais/plantilla-excel-tais.xls)
 + El nombre del excel tiene que ser:
-```
-E+_2025/26_UC
-```
-+ NOmbre del documento: **E+\_2025/26_UC3M_AlbertoPascauSaez_VERSIÓN.xsl**
+  
+**E+2025_26-Háskólinn í Reykjavík-Pascau Saez Alberto-VERSION.xsl**
+
+### Sobre como rellenar el contrato:
 + En el nombre de la asignatura hace falta poner el link de la asignatura
 + Luego en la descripción se dice lo que se ve en la UC3M y lo que se ve en la otra asignatura
 + Máximo de 5 versiones entre el alumno y tai
