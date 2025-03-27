@@ -32,6 +32,11 @@ cssclasses:
 > El catálogo de cursos todavía no esta completamente terminado.  
 
 + Catálogo de cursos islandeses [aquí](https://www.ru.is/en/namid/um-namid/kennsluskra)
-+ 70% de los cursos tienen que ser del departamento de computer science. 
++ 70% de los cursos tienen que ser del departamento de computer science.
+
+> [!bug] PROBLEMA:
+ Para seleccionar asignaturas de master hacen falta 180 → Al final de este cuatri solo tendré 150
+
+
 
 ***
