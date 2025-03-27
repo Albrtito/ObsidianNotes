@@ -17,7 +17,7 @@ cssclasses:
   
 **E+2025_26-Háskólinn í Reykjavík-Pascau Saez Alberto-VERSION.xsl**
 
-### Sobre como rellenar el contrato:
+## Sobre como rellenar el contrato:
 + En el nombre de la asignatura hace falta poner el link de la asignatura
 + Luego en la descripción se dice lo que se ve en la UC3M y lo que se ve en la otra asignatura
 + Máximo de 5 versiones entre el alumno y tai
@@ -25,4 +25,13 @@ cssclasses:
 + Solo poner una asignatura de destino por cada una de la UC3M
 + Las asignaturas suspendidas en el primer cuatri no se pueden poner. **NO se pueden poner asignaturas de las que estes matriculados en el curso actual**
 	+ Esto se puede hacer pero toca esperarse al periodo de cambios. 
+
+## Selección de cursos: 
+
+> [!attention] Todavía no: 
+> El catálogo de cursos todavía no esta completamente terminado.  
+
++ Catálogo de cursos islandeses [aquí](https://www.ru.is/en/namid/um-namid/kennsluskra)
++ 70% de los cursos tienen que ser del departamento de computer science. 
+
 ***
