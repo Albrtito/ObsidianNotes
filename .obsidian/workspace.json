@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "f1e3482179eb597b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "fc051d6436b35ee1",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -436,12 +448,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2006c08c8dfe8988",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -480,7 +502,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e5614a53cc30fd36",
+  "active": "2006c08c8dfe8988",
   "lastOpenFiles": [
     "02-Atomic/1733500003 - Movilidad europea.md",
     "01-Areas/1.UC3M/Movilidad.md",
