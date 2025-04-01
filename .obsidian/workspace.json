@@ -55,8 +55,7 @@
               "title": "1743516696 - Sockets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -308,7 +307,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4f09d1365bebaf22",
+  "active": "7726b0cfc5bd651a",
   "lastOpenFiles": [
     "02-Atomic/1743516696 - Sockets.md",
     "02-Atomic/Distribuidos.md",

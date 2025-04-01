@@ -46,6 +46,7 @@ cssclasses:
   + Se da el API de python y C, pero hay que programar en el examen final. (a papel, obv)
 
 ## Biblio:
+Para esta asignatura el [github de caldero](https://github.com/acaldero/uc3m_sd/blob/main/transparencias/ssdd_sockets.md)n es lo mejor que hay. Coger código de aquí directamente está permitido, además de que todo lo necesario está directamente explicado.
 
 ## Notas:
 + [[1739203641 - Comunicación y sincronización entre procesos|Comunicación y sincronización entre procesos]]
