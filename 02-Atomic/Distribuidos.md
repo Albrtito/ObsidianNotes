@@ -48,8 +48,9 @@ cssclasses:
 ## Biblio:
 
 ## Notas:
-+  [[1739203641 - Comunicación y sincronización entre procesos|Comunicación y sincronización entre procesos]]
++ [[1739203641 - Comunicación y sincronización entre procesos|Comunicación y sincronización entre procesos]]
 + [[1742832943 - Llamadas a procedimientos remotos|Llamadas a procedimientos remotos]]
++ 
 ## Ejercicios:
 
 

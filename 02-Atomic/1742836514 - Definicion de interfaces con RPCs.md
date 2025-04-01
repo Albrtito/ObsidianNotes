@@ -2,7 +2,8 @@
 aliases:
   - Definicion de interfaces con RPCs
 tags:
-References:
+  - Distri
+References: 
 cssclasses:
 ---
 # Definicion de interfaces con RPCs

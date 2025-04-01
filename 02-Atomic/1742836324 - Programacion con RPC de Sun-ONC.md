@@ -2,7 +2,8 @@
 aliases:
   - Programacion con RPC de Sun-ONC
 tags:
-References:
+  - Distri
+References: 
 cssclasses:
 ---
 # Programacion con RPC de Sun-ONC
