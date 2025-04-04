@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "373e5a52fd843a08",
+        "id": "600a68a6ede27702",
         "type": "tabs",
         "children": [
           {
-            "id": "7726b0cfc5bd651a",
+            "id": "6d73d5786963263c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Distribuidos.md",
+                "file": "02-Atomic/1739552040 - DB Relational Statics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Distribuidos"
+              "title": "1739552040 - DB Relational Statics"
             }
           },
           {
-            "id": "4f09d1365bebaf22",
+            "id": "3ec9b158dc9d7726",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1743516696 - Sockets.md",
+                "file": "02-Atomic/1739196838 - DB Relational dynamics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,86 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1743516696 - Sockets"
+              "title": "1739196838 - DB Relational dynamics"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "10b0575a715cf807",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcc4716cffbfe5b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1743006119 - SQL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1743006119 - SQL"
+            }
+          },
+          {
+            "id": "d3f9c66256185751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1743006292 - SQL DDL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1743006292 - SQL DDL"
+            }
+          },
+          {
+            "id": "7935804913522f8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1743010495 - SQL DML.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1743010495 - SQL DML"
             }
           }
         ]
@@ -65,18 +144,18 @@
     "type": "split",
     "children": [
       {
-        "id": "662098e0d908b3e6",
+        "id": "2d86015ffa188866",
         "type": "tabs",
         "children": [
           {
-            "id": "36d1a43796975b90",
+            "id": "ce9960074125b408",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1741624225 - Servicios distribuidos.md",
+                "file": "02-Atomic/1743006119 - SQL.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -88,112 +167,29 @@
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
-                      "query": "tag:#incomplete  ",
+                      "query": "tag:#FilesAndDB  ",
                       "color": {
                         "a": 1,
-                        "rgb": 16711680
-                      }
-                    },
-                    {
-                      "query": "tag:#DiffCalc  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8537055
-                      }
-                    },
-                    {
-                      "query": "tag:#Networks",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11392604
-                      }
-                    },
-                    {
-                      "query": "tag:#Discrete  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    },
-                    {
-                      "query": "tag:#Cripto",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084269
-                      }
-                    },
-                    {
-                      "query": "tag:#Heuri  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6073814
-                      }
-                    },
-                    {
-                      "query": "tag:#Empresa  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16775199
-                      }
-                    },
-                    {
-                      "query": "tag:#CalcI  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "tag:#Distri  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6149724
+                        "rgb": 14048429
                       }
                     }
                   ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.79537653688525,
+                  "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.0242737249838606,
-                  "repelStrength": 15.3311814073596,
-                  "linkStrength": 0.47411233053583,
-                  "linkDistance": 52,
-                  "scale": 0.09229580869883151,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.42800317273603583,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1741624225 - Servicios distribuidos"
-            }
-          },
-          {
-            "id": "29e3a00ba6e74a87",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "03da6c1b94246574",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Graph of 1743006119 - SQL"
             }
           }
         ]
@@ -208,10 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
+                "file": "02-Atomic/1743006119 - SQL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730827988 - Subnets"
+              "title": "Outline of 1743006119 - SQL"
             }
           },
           {
@@ -227,12 +226,11 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 246,
+    "width": 443.5,
     "collapsed": true
   },
   "right": {
@@ -250,7 +248,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Distribuidos.md",
+                "file": "01-Areas/1.UC3M/Files&DB.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -265,7 +263,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Distribuidos"
+              "title": "Files&DB"
             }
           }
         ]
@@ -289,7 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259,
+    "width": 395,
     "collapsed": true
   },
   "left-ribbon": {
@@ -307,10 +305,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7726b0cfc5bd651a",
+  "active": "fcc4716cffbfe5b8",
   "lastOpenFiles": [
-    "02-Atomic/1743516696 - Sockets.md",
     "02-Atomic/Distribuidos.md",
+    "02-Atomic/1743516696 - Sockets.md",
     "02-Atomic/1741624225 - Servicios distribuidos.md",
     "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
     "02-Atomic/1742836324 - Programacion con RPC de Sun-ONC.md",
