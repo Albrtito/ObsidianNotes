@@ -6,6 +6,7 @@
       {
         "id": "600a68a6ede27702",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "6d73d5786963263c",
@@ -61,6 +62,7 @@
       {
         "id": "10b0575a715cf807",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "fcc4716cffbfe5b8",
@@ -287,8 +289,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 221
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,8 +306,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fcc4716cffbfe5b8",
+  "active": "3ec9b158dc9d7726",
   "lastOpenFiles": [
+    "01-Areas/1.UC3M/Files&DB.md",
+    "02-Atomic/1739196838 - DB Relational dynamics.md",
+    "02-Atomic/1743006119 - SQL.md",
     "02-Atomic/Distribuidos.md",
     "02-Atomic/1743516696 - Sockets.md",
     "02-Atomic/1741624225 - Servicios distribuidos.md",
@@ -319,13 +323,10 @@
     "02-Atomic/1743086642 - IS - Calendario de fechas limite.md",
     "02-Atomic/1743086372 - IS - Contrato de estudios.md",
     "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
-    "02-Atomic/1743006119 - SQL.md",
     "1739551767 - Relational DB Model.md",
     "02-Atomic/1743010495 - SQL DML.md",
-    "02-Atomic/1739196838 - DB Relational dynamics.md",
     "99-Meta/0. Attachments/1743010495 - SQL DMLj.png",
     "02-Atomic/1743006292 - SQL DDL.md",
-    "01-Areas/1.UC3M/Files&DB.md",
     "02-Atomic/1739552040 - DB Relational Statics.md",
     "02-Atomic/1739551767 - Relational DB Model.md",
     "99-Meta/0. Attachments/1743006292 - SQL DDLj.png",
