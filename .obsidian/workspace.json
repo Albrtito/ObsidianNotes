@@ -193,6 +193,33 @@
               "icon": "lucide-git-fork",
               "title": "Graph of 1743006119 - SQL"
             }
+          },
+          {
+            "id": "cf0ef8485bd10094",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0b55b68feda4c4df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       },
@@ -267,8 +294,67 @@
               "icon": "lucide-file",
               "title": "Files&DB"
             }
+          },
+          {
+            "id": "12994119b3073b9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Atomic/1739196838 - DB Relational dynamics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1739196838 - DB Relational dynamics"
+            }
+          },
+          {
+            "id": "f82827320001b3d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-Atomic/1739196838 - DB Relational dynamics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1739196838 - DB Relational dynamics"
+            }
+          },
+          {
+            "id": "d6c36bf6e83aec1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "292d1871de707430",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -306,7 +392,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3ec9b158dc9d7726",
+  "active": "292d1871de707430",
   "lastOpenFiles": [
     "01-Areas/1.UC3M/Files&DB.md",
     "02-Atomic/1739196838 - DB Relational dynamics.md",
