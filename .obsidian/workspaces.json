@@ -1743,6 +1743,7 @@
           {
             "id": "600a68a6ede27702",
             "type": "tabs",
+            "dimension": 50,
             "children": [
               {
                 "id": "6d73d5786963263c",
@@ -1798,6 +1799,7 @@
           {
             "id": "10b0575a715cf807",
             "type": "tabs",
+            "dimension": 50,
             "children": [
               {
                 "id": "fcc4716cffbfe5b8",
@@ -1928,6 +1930,33 @@
                   "icon": "lucide-git-fork",
                   "title": "Graph of 1743006119 - SQL"
                 }
+              },
+              {
+                "id": "cf0ef8485bd10094",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "0b55b68feda4c4df",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
               }
             ]
           },
@@ -2002,8 +2031,77 @@
                   "icon": "lucide-file",
                   "title": "Files&DB"
                 }
+              },
+              {
+                "id": "12994119b3073b9e",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02-Atomic/1739196838 - DB Relational dynamics.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 1739196838 - DB Relational dynamics"
+                }
+              },
+              {
+                "id": "f82827320001b3d0",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "02-Atomic/1739196838 - DB Relational dynamics.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 1739196838 - DB Relational dynamics"
+                }
+              },
+              {
+                "id": "d6c36bf6e83aec1f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "292d1871de707430",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Notes Review Queue"
+                }
+              },
+              {
+                "id": "0367b1f1d1c86ebb",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Notes Review Queue"
+                }
               }
-            ]
+            ],
+            "currentTab": 5
           },
           {
             "id": "d8523f2fbc4e9acf",
@@ -2024,8 +2122,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 395,
-        "collapsed": true
+        "width": 221
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -2042,8 +2139,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "fcc4716cffbfe5b8",
-      "mtime": "2025-03-27T15:24:36+01:00"
+      "active": "3ec9b158dc9d7726",
+      "mtime": "2025-04-10T19:29:33+02:00"
     },
     "DiffCalc": {
       "main": {
@@ -4029,5 +4126,5 @@
       "mtime": "2025-02-11T11:47:38+01:00"
     }
   },
-  "active": "FilesDB"
+  "active": "Heuri"
 }
