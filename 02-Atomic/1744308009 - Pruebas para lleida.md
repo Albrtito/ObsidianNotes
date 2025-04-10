@@ -34,8 +34,26 @@ En orden para las pruebas:
 
 **
 
+*** 
 ## 1. Gastronomía de lleida
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 
 
@@ -50,8 +68,26 @@ En orden para las pruebas:
 
 
 
+*** 
 ## 2. Fauna y flora
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 
 
@@ -64,7 +100,26 @@ En orden para las pruebas:
 
 
 
-## 9. 
+*** 
+## 9. Servicio en un comedor social. 
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 
 
@@ -79,13 +134,13 @@ En orden para las pruebas:
 
 
 
-
+*** 
 ## 3. Menú: 
 A vuestro alrededor tenéis tiendas y comercios que seguro que venden cosas riquísimas. Vuestro objetivo es crear el menú perfecto para un día con todo aquello a lo que podáis hacerle una foto. Si no hay foto, no sirve. 
 Tiene que haber, un desayuno, aperitivo, comida, merienda y cena. 
 
 
-
+*** 
 ## 4. Etapas de un proyecto. 
 Las etapas de un proyecto son… 
 
@@ -102,6 +157,7 @@ Una vez las hayáis rellenado tendréis que separaros en dos grupos, cada person
 
 
 
+*** 
 ## 5. Remember el MckRosco
 
 Con la r: 
@@ -123,10 +179,18 @@ Con la  :
 
 
 
+*** 
 ## 6. MS: 
 En la acampada estuvimos trabajando en la historia del marco simbólico, había un señor al que los naufragos le gustaban y los iba recogiendo… seguro que alguno del equipo estaba en esa acampada y os puede hacer un resumen a los que no estuvísteis. 
 
 Aunque conseguimos llegar a un acuerdo sobre que iba a ser la historia no llegamos a escribir nada. Vuestro reto para esta prueba es escribir un pequeño párrafo de introducción.
+
+.
+.
+.
+.
+.
+.
 
 
 
@@ -144,17 +208,24 @@ Si sois el primer equipo no encontraréis nada, sino esperamos que el resto de e
 
 
 
+*** 
 ## 8. Esquifes, esquifes, esquifes: 
 En honor al killer de la ruta de la acampada de grupo vamos a aprovechar esta prueba para hacer un nuevo killer! 
 Cada una de vosotras tendrá que escribir una acción para el killer en un trocito de papel y volverla a meter a este sobre. Al final de esta actividad cogeremos todos los papelitos y los repartiremos, tened en cuenta que deben de ser actividades que se puedan hacer por la tarde en lleida y durante el tren de vuelta. 
 
 
+
+
+*** 
 ## 10. Diario de campamento:
 Antes de seguir leyendo cada persona del grupo ha de elegir un objeto que se encuentre a su alrededor. Los tenéis? Perfecto, seguir leyendo
 
 
+Como recordaréis, durante algunas de las reuniones del proyecto estuvimos haciendo pequeños textos de resumen con todas las actualizaciones que se iban haciendo. 
 
-Para esta prueba tendréis que escribir un pequeño texto en forma de diario que relate todo lo que nos ha pasado durante el campamento, las increibles duchas con la manguera, lo mucho que llorásteis en el consejo de progresion o 
+
+Para esta prueba tendréis que escribir un pequeño texto en forma de diario que relate todo lo que nos ha pasado durante el campamento, las increibles duchas con la manguera, lo mucho que llorásteis en el consejo de progresion o lo bien que nos lo hemos pasado en el pajar.
+El mejor texto será elegido por los scouters para subirse junto al post del campamento en instagram. 
 
 
 
