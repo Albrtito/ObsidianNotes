@@ -352,9 +352,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "0367b1f1d1c86ebb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -392,7 +402,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "292d1871de707430",
+  "active": "3ec9b158dc9d7726",
   "lastOpenFiles": [
     "01-Areas/1.UC3M/Files&DB.md",
     "02-Atomic/1739196838 - DB Relational dynamics.md",
