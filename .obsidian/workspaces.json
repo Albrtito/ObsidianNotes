@@ -740,8 +740,17 @@
                   "state": {
                     "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
                     "mode": "source",
+                    "source": false,
                     "backlinks": true,
-                    "source": false
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
                   "title": "1729084911 - Dualidad en programacion lineal"
@@ -799,7 +808,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md"
+                    "file": "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
                   "icon": "lucide-list",
                   "title": "Outline of 1729084911 - Dualidad en programacion lineal"
@@ -911,7 +923,7 @@
         }
       },
       "active": "0931286eab789398",
-      "mtime": "2025-01-11T19:54:14+01:00"
+      "mtime": "2025-04-17T20:09:14+02:00"
     },
     "Empresa": {
       "main": {
@@ -4126,5 +4138,5 @@
       "mtime": "2025-02-11T11:47:38+01:00"
     }
   },
-  "active": "Heuri"
+  "active": "Movilidad"
 }

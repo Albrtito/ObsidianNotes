@@ -9,7 +9,7 @@ sr-due: 2024-12-25
 sr-interval: 18
 sr-ease: 174
 ---
-	# Dualidad en programacion lineal
+# Dualidad en programacion lineal
 Existe algún problema en programación lineal relacionado directamente con el problema que se esta intentando resolver. 
 
 Definimos la **forma simétrica de un problema de programación lineal** igual que la forma canónica: [[1727270318 - Forma canónica|Forma simétrica]] 
