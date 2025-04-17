@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Contrato de estudios de islandia
-  - IS-ContratoEstudios
-tags: 
-References: 
+  - Contrato de estudios islandia
+tags:
+References:
 cssclasses:
 ---
-# IS - Contrato de estudios
-
+# Contrato de estudios islandia
 > [!NOTE] Info básica: 
 > El contrato de estudios define las asignaturas que se van a convalidar durante la movilidad, el estudiante propone unas cuantas, si, es el estudiante el que se lo mira, y el tutor las acepta o no. 
 > La UC3M tiene una página dedicada a esto [aquí](https://www.uc3m.es/ss/Satellite/SecretariaVirtual/es/TextoMixta/1371211194976/Contrato_de_Estudios_Learning_Agreement#2asignaturas)
@@ -34,8 +32,7 @@ cssclasses:
 + 70% de los cursos tienen que ser del departamento de computer science.
 
 > [!bug] PROBLEMA → BUENO, POSIBLE:
- Para seleccionar asignaturas de master hacen falta 180 → Al final de este cuatri solo tendré 150
- > (**EXCEPTION FOR CS STUDENTS**)
+>Para seleccionar asignaturas de master hacen falta 180 → Al final de este cuatri solo tendré 150
+> (**EXCEPTION FOR CS STUDENTS**)
 
-***
 ***

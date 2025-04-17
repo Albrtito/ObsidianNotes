@@ -14,7 +14,7 @@ cssclasses:
 	+ CON ASUNTO: **E+ 2025/2026 - UNIVERSIDAD DESTINO - ALBERTO PASCAU SÁEZ**
 
 > [!NOTE] Labor de la TAI:
-> La labor de la TAI es **generar el contrato de asignaturas a convalidar** → [[1744914305 - IS - Contrato de estudios|Contrato de estudios de islandia]]. Nada más y nada menos que eso.
+> La labor de la TAI es **generar el contrato de asignaturas a convalidar** → [[1744914534 - Contrato de estudios islandia|Contrato de estudios islandia]]. Nada más y nada menos que eso.
 + Es muy importante que todo lo que se acuerde se suba bien a SIGMA. 
 + Todo lo que se trabaja es personal, la TAI únicamente revisa lo que cada uno ha trabajado. Hay que proponer una serie de convalidacioneos y ella ya te dice.
 
