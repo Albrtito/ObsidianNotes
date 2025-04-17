@@ -1,9 +1,8 @@
 ---
 aliases:
-  - IS - Contrato de estudios
-  - Contrato de estudio
-tags:
-  - Mov
+  - Contrato de estudios de islandia
+  - IS-ContratoEstudios
+tags: 
 References: 
 cssclasses:
 ---
@@ -38,10 +37,5 @@ cssclasses:
  Para seleccionar asignaturas de master hacen falta 180 → Al final de este cuatri solo tendré 150
  > (**EXCEPTION FOR CS STUDENTS**)
 
-> [!bug] POSIBLE PROBLEMA:
-> El documento de conversion de notas que debería de estar [aquí](https://en.ru.is/studies/studying-at-ru/#grades) no existe. Quiero estar seguro de que no hay problema con mi media. 
-
-
-
-
+***
 ***

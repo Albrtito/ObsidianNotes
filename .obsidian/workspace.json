@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "6a7941b9175fa35f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "e5614a53cc30fd36",
             "type": "leaf",
             "state": {
@@ -90,7 +80,7 @@
             }
           },
           {
-            "id": "7f49e23de93a02a5",
+            "id": "8bb688f2d8949877",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -124,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -453,10 +443,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7f49e23de93a02a5",
+  "active": "8bb688f2d8949877",
   "lastOpenFiles": [
-    "02-Atomic/1743086372 - IS - Contrato de estudios.md",
+    "02-Atomic/1744914305 - IS - Contrato de estudios.md",
     "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
+    "01-Areas/1.UC3M/Movilidad.md",
+    "02-Atomic/1744914197 - IS - Contrato de estudios.md",
+    "02-Atomic/nvim",
+    "02-Atomic/1743086372 - IS - Contrato de estudios.md",
     "02-Atomic/1733500003 - Movilidad europea.md",
     "02-Atomic/1742475772 - Movilidad Islandia.md",
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
@@ -470,7 +464,6 @@
     "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
     "02-Atomic/1742836324 - Programacion con RPC de Sun-ONC.md",
     "02-Atomic/1742836514 - Definicion de interfaces con RPCs.md",
-    "01-Areas/1.UC3M/Movilidad.md",
     "02-Atomic/1743086642 - IS - Calendario de fechas limite.md",
     "1739551767 - Relational DB Model.md",
     "02-Atomic/1743010495 - SQL DML.md",
@@ -481,8 +474,6 @@
     "99-Meta/0. Attachments/1743006292 - SQL DDLj.png",
     "02-Atomic/1741617249 - File structures.md",
     "02-Atomic/SQLplus.md",
-    "02-Atomic/The Pickers.md",
-    "02-Atomic/Pickers creating a relational model.md",
     "99-Meta/0. Attachments/1742836324 - Programacion con RPC de Sun-ONCj.png",
     "99-Meta/0. Attachments/1742832943 - Llamadas a procedimientos remotosj.png",
     "99-Meta/0. Attachments/Greek-Alphabet.png",
@@ -500,7 +491,6 @@
     "00-References/Filo_Biblio_APlatoReader.pdf",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj-1.png",
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
-    "00-References/Heuri_Resources_Problemas.pdf",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
