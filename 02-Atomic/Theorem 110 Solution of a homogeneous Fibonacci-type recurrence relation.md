@@ -33,9 +33,9 @@ sr-ease: 270
 > + Known initial conditions
 > 
 > **Solutions:**
-$$
+>$$
 > a_n= \begin{cases}K_1 \alpha^n+K_2 \beta^n & \text { if } \alpha \neq \beta \\ \left(K_1+n K_2\right) \alpha^n & \text { if } \alpha=\beta\end{cases}
-$$
+>$$
 
 **Remark:**
 + In order to get the value of K1 and K2 we'll use a system with the initial conditions by substitution of the n value in the obtained relation. 
