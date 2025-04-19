@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59df783bbe67598e",
+        "id": "10b0575a715cf807",
         "type": "tabs",
         "children": [
           {
-            "id": "43a8945846ebea6f",
+            "id": "6b97c4432b4c2b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Movilidad.md",
+                "file": "02-Atomic/Filo 101.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Movilidad"
+              "title": "Filo 101"
             }
           },
           {
-            "id": "e5614a53cc30fd36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1742475772 - Movilidad Islandia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1742475772 - Movilidad Islandia"
-            }
-          },
-          {
-            "id": "fc051d6436b35ee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1743085545 - Reu con TAI para Islandia"
-            }
-          },
-          {
-            "id": "b813af79e6160f5d",
+            "id": "54e212a4d0a39175",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -88,33 +40,8 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "ace4b0b2c31702cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1743086642 - IS - Calendario de fechas limite.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1743086642 - IS - Calendario de fechas limite"
-            }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -134,9 +61,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1742475772 - Movilidad Islandia.md",
+                "file": "02-Atomic/Filo 101.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -145,7 +72,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "tag:#incomplete  ",
@@ -202,42 +129,28 @@
                         "a": 1,
                         "rgb": 14048348
                       }
-                    },
-                    {
-                      "query": "tag:#Logic  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1328127
-                      }
-                    },
-                    {
-                      "query": "tag:#EDA  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16762880
-                      }
                     }
                   ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.39155888359428,
+                  "nodeSizeMultiplier": 2.79537653688525,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.178748758689176,
+                  "centerStrength": 0.0242737249838606,
                   "repelStrength": 15.3311814073596,
                   "linkStrength": 0.47411233053583,
                   "linkDistance": 52,
-                  "scale": 0.05281790119329888,
+                  "scale": 0.09229580869883151,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1742475772 - Movilidad Islandia"
+              "title": "Graph of Filo 101"
             }
           },
           {
-            "id": "d984ccb5a50bcd56",
+            "id": "f711782e507bc62d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -254,7 +167,7 @@
             }
           },
           {
-            "id": "d6d22eeec0682472",
+            "id": "387311d8b57452b1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -275,13 +188,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1742475772 - Movilidad Islandia.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1742475772 - Movilidad Islandia"
+              "title": "Outline of 1730827988 - Subnets"
             }
           },
           {
@@ -290,18 +200,19 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 340,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -318,93 +229,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "02-Atomic/Filo 101.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Heuristica y Opti"
-            }
-          },
-          {
-            "id": "ab18e04d6d07ee97",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Heuristica y Opti"
-            }
-          },
-          {
-            "id": "48b64c2d6dc49e36",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Heuristica y Opti"
-            }
-          },
-          {
-            "id": "0d900727d536ddd5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "91fae42f5f6cbc74",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "14e2095f55fe5f78",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c5b902d630da931a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Filo 101"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -425,8 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
-    "collapsed": true
+    "width": 395
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -443,8 +285,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b813af79e6160f5d",
+  "active": "6b97c4432b4c2b29",
   "lastOpenFiles": [
+    "00-References/Filo_Biblio_APlatoReader.pdf",
+    "02-Atomic/Filo 101.md",
     "02-Atomic/1742475772 - Movilidad Islandia.md",
     "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
     "02-Atomic/1744914534 - Contrato de estudios islandia.md",
@@ -471,8 +315,6 @@
     "02-Atomic/1743010495 - SQL DML.md",
     "99-Meta/0. Attachments/1743010495 - SQL DMLj.png",
     "02-Atomic/1743006292 - SQL DDL.md",
-    "02-Atomic/1739552040 - DB Relational Statics.md",
-    "02-Atomic/1739551767 - Relational DB Model.md",
     "99-Meta/0. Attachments/1743006292 - SQL DDLj.png",
     "99-Meta/0. Attachments/1742836324 - Programacion con RPC de Sun-ONCj.png",
     "99-Meta/0. Attachments/1742832943 - Llamadas a procedimientos remotosj.png",
@@ -488,7 +330,6 @@
     "00-References/OS_Theory_Concurrent-Servers.pdf",
     "99-Meta/0. Attachments/1739203641 - Comunicación y sincronización entre procesosj.png",
     "00-References/IA_Biblio_Russell_Norvig.pdf",
-    "00-References/Filo_Biblio_APlatoReader.pdf",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj-1.png",
     "00-References/Cripto_Resources_EjerciciosTodos.pdf",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
