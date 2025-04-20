@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b97c4432b4c2b29",
+            "id": "1648b34dd77b5b1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1745167664 - TFG.md",
+                "file": "02-Atomic/IA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1745167664 - TFG"
-            }
-          },
-          {
-            "id": "54e212a4d0a39175",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IA"
             }
           }
         ],
@@ -61,6 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/IA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,34 +136,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "f711782e507bc62d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "387311d8b57452b1",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Graph of IA"
             }
           }
         ]
@@ -187,10 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
+                "file": "02-Atomic/IA.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1730827988 - Subnets"
+              "title": "Outline of IA"
             }
           },
           {
@@ -206,8 +173,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,7 +194,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Filo 101.md",
+                "file": "02-Atomic/IA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -243,7 +209,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Filo 101"
+              "title": "IA"
             }
           }
         ]
@@ -284,7 +250,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1087055cabadd75b",
+  "active": "1648b34dd77b5b1b",
   "lastOpenFiles": [
     "02-Atomic/1745167664 - TFG.md",
     "02-Atomic/Filo 101.md",
