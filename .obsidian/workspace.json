@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10b0575a715cf807",
+        "id": "373e5a52fd843a08",
         "type": "tabs",
         "children": [
           {
-            "id": "1648b34dd77b5b1b",
+            "id": "7726b0cfc5bd651a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/IA.md",
+                "file": "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IA"
+              "title": "1742832943 - Llamadas a procedimientos remotos"
+            }
+          },
+          {
+            "id": "4f09d1365bebaf22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1743516696 - Sockets.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1743516696 - Sockets"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/IA.md",
+                "file": "02-Atomic/1741624225 - Servicios distribuidos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -119,6 +142,13 @@
                         "a": 1,
                         "rgb": 14048348
                       }
+                    },
+                    {
+                      "query": "tag:#Distri  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6149724
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -136,7 +166,34 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of IA"
+              "title": "Graph of 1741624225 - Servicios distribuidos"
+            }
+          },
+          {
+            "id": "29e3a00ba6e74a87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "03da6c1b94246574",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -151,13 +208,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/IA.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of IA"
+              "title": "Outline of 1730827988 - Subnets"
             }
           },
           {
@@ -173,11 +227,13 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -194,7 +250,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/IA.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -209,10 +265,69 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IA"
+              "title": "Distribuidos"
+            }
+          },
+          {
+            "id": "bc3593f893b0d72e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Atomic/Distribuidos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Distribuidos"
+            }
+          },
+          {
+            "id": "117b257b966cd7fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-Atomic/Distribuidos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Distribuidos"
+            }
+          },
+          {
+            "id": "2b296c73cecbee5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "25da21c2fca3e858",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -233,7 +348,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 259,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,8 +366,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1648b34dd77b5b1b",
+  "active": "7726b0cfc5bd651a",
   "lastOpenFiles": [
+    "02-Atomic/Distribuidos.md",
+    "02-Atomic/IA.md",
     "02-Atomic/1745167664 - TFG.md",
     "02-Atomic/Filo 101.md",
     "00-References/Filo_Biblio_APlatoReader.pdf",
@@ -270,7 +388,6 @@
     "02-Atomic/1739196838 - DB Relational dynamics.md",
     "01-Areas/1.UC3M/Files&DB.md",
     "02-Atomic/1743006119 - SQL.md",
-    "02-Atomic/Distribuidos.md",
     "02-Atomic/1743516696 - Sockets.md",
     "02-Atomic/1741624225 - Servicios distribuidos.md",
     "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
@@ -280,7 +397,6 @@
     "1739551767 - Relational DB Model.md",
     "02-Atomic/1743010495 - SQL DML.md",
     "99-Meta/0. Attachments/1743010495 - SQL DMLj.png",
-    "02-Atomic/1743006292 - SQL DDL.md",
     "99-Meta/0. Attachments/1743006292 - SQL DDLj.png",
     "99-Meta/0. Attachments/1742836324 - Programacion con RPC de Sun-ONCj.png",
     "99-Meta/0. Attachments/1742832943 - Llamadas a procedimientos remotosj.png",
