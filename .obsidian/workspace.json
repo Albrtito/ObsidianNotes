@@ -61,7 +61,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745167664 - TFG.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +145,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745167664 - TFG"
+              "title": "Graph view"
             }
           },
           {
@@ -285,10 +284,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b97c4432b4c2b29",
+  "active": "1087055cabadd75b",
   "lastOpenFiles": [
-    "02-Atomic/Filo 101.md",
     "02-Atomic/1745167664 - TFG.md",
+    "02-Atomic/Filo 101.md",
     "00-References/Filo_Biblio_APlatoReader.pdf",
     "02-Atomic/1742475772 - Movilidad Islandia.md",
     "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
