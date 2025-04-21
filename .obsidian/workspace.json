@@ -102,30 +102,6 @@
               "icon": "lucide-file",
               "title": "1745247124 - Citas y Referencias"
             }
-          },
-          {
-            "id": "546718cc2f3dc12e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745247155 - Estilo de citacion IEEE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745247155 - Estilo de citacion IEEE"
-            }
           }
         ],
         "currentTab": 3
@@ -441,6 +417,7 @@
   "active": "eb06606226adc170",
   "lastOpenFiles": [
     "02-Atomic/1745247155 - Estilo de citacion IEEE.md",
+    "02-Atomic/1745247542 - RefWorks.md",
     "02-Atomic/1745247124 - Citas y Referencias.md",
     "01-Areas/1.UC3M/Comp. Dig..md",
     "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
@@ -468,7 +445,6 @@
     "02-Atomic/1744308009 - Pruebas para lleida.md",
     "02-Atomic/1739196838 - DB Relational dynamics.md",
     "01-Areas/1.UC3M/Files&DB.md",
-    "02-Atomic/1743006119 - SQL.md",
     "99-Meta/0. Attachments/1743010495 - SQL DMLj.png",
     "99-Meta/0. Attachments/1743006292 - SQL DDLj.png",
     "99-Meta/0. Attachments/1742836324 - Programacion con RPC de Sun-ONCj.png",
