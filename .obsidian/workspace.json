@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
+                "file": "01-Areas/3.Scout/GS Matterhorn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1742832943 - Llamadas a procedimientos remotos"
+              "title": "GS Matterhorn"
             }
           },
           {
@@ -54,8 +54,33 @@
               "icon": "lucide-file",
               "title": "1743516696 - Sockets"
             }
+          },
+          {
+            "id": "3fd291be0ee24103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745243815 - Reflexión sobre la promesa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745243815 - Reflexión sobre la promesa"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1741624225 - Servicios distribuidos.md",
+                "file": "02-Atomic/1745243815 - Reflexión sobre la promesa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1741624225 - Servicios distribuidos"
+              "title": "Graph of 1745243815 - Reflexión sobre la promesa"
             }
           },
           {
@@ -232,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -366,8 +390,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7726b0cfc5bd651a",
+  "active": "3fd291be0ee24103",
   "lastOpenFiles": [
+    "02-Atomic/1745243815 - Reflexión sobre la promesa.md",
+    "01-Areas/3.Scout/GS Matterhorn.md",
+    "02-Atomic/1743516696 - Sockets.md",
+    "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
+    "01-Areas/3.Scout",
     "02-Atomic/Distribuidos.md",
     "02-Atomic/IA.md",
     "02-Atomic/1745167664 - TFG.md",
@@ -388,14 +417,10 @@
     "02-Atomic/1739196838 - DB Relational dynamics.md",
     "01-Areas/1.UC3M/Files&DB.md",
     "02-Atomic/1743006119 - SQL.md",
-    "02-Atomic/1743516696 - Sockets.md",
     "02-Atomic/1741624225 - Servicios distribuidos.md",
-    "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
     "02-Atomic/1742836324 - Programacion con RPC de Sun-ONC.md",
     "02-Atomic/1742836514 - Definicion de interfaces con RPCs.md",
     "02-Atomic/1743086642 - IS - Calendario de fechas limite.md",
-    "1739551767 - Relational DB Model.md",
-    "02-Atomic/1743010495 - SQL DML.md",
     "99-Meta/0. Attachments/1743010495 - SQL DMLj.png",
     "99-Meta/0. Attachments/1743006292 - SQL DDLj.png",
     "99-Meta/0. Attachments/1742836324 - Programacion con RPC de Sun-ONCj.png",
@@ -413,7 +438,6 @@
     "99-Meta/0. Attachments/1739203641 - Comunicación y sincronización entre procesosj.png",
     "00-References/IA_Biblio_Russell_Norvig.pdf",
     "99-Meta/0. Attachments/1738259991 - C Data Typesj-1.png",
-    "00-References/Cripto_Resources_EjerciciosTodos.pdf",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
