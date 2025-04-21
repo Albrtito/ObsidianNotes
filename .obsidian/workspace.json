@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745248836 - Licencia Creative Commons.md",
+                "file": "02-Atomic/1745248165 - Plagio.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +297,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745248836 - Licencia Creative Commons"
+              "title": "Graph of 1745248165 - Plagio"
             }
           },
           {
@@ -496,17 +496,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6db61ecc1d40f7bd",
+  "active": "1033a7ddbc7e9ff2",
   "lastOpenFiles": [
+    "02-Atomic/1745247124 - Citas y Referencias.md",
+    "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
+    "01-Areas/1.UC3M/Comp. Dig..md",
+    "01-Areas/3.Scout/GS Matterhorn.md",
     "02-Atomic/1745248836 - Licencia Creative Commons.md",
     "02-Atomic/1745248684 - Propiedad intelectual.md",
     "02-Atomic/1745248165 - Plagio.md",
     "02-Atomic/1745247155 - Estilo de citacion IEEE.md",
-    "02-Atomic/1745247124 - Citas y Referencias.md",
     "02-Atomic/1745247542 - RefWorks.md",
-    "01-Areas/1.UC3M/Comp. Dig..md",
-    "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
-    "01-Areas/3.Scout/GS Matterhorn.md",
     "02-Atomic/1743516696 - Sockets.md",
     "02-Atomic/1745243815 - Reflexión sobre la promesa.md",
     "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",

@@ -11,4 +11,8 @@ La licencia creative commons aparece como forma de que el autor pueda dar derech
 
 + **BY:** (Personita) By: Este campo obliga a cualquiera usando esta obra a reconocer y nombrar al autor original
 + **NC:** (Dollar) No comercial: Este campo no permite el uso de esta obra con usos comerciales
++ **SA** (repeat) Same License: La distribución de la obra por terceros debe de estar hecha con el mismo tipo de licencia que esta
++ **ND** (equal) Sin obra derivada/No derivates: No se permite la creación de obras derivadas de esta
+
+Las licencias creative commons se pueden crear directamente desde la página: https://creativecommons.org/
 ***
