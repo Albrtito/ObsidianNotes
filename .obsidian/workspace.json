@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "4f09d1365bebaf22",
+            "id": "ec737c6237cd6ef5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1743516696 - Sockets.md",
+                "file": "01-Areas/1.UC3M/Comp. Dig..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1743516696 - Sockets"
+              "title": "Comp. Dig."
             }
           },
           {
-            "id": "3fd291be0ee24103",
+            "id": "7737b96d3105ba95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1745243815 - Reflexión sobre la promesa.md",
+                "file": "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1745243815 - Reflexión sobre la promesa"
+              "title": "1745246274 - Uso de la biblioteca UC3M"
             }
           }
         ],
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745243815 - Reflexión sobre la promesa.md",
+                "file": "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745243815 - Reflexión sobre la promesa"
+              "title": "Graph of 1745246274 - Uso de la biblioteca UC3M"
             }
           },
           {
@@ -390,11 +390,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3fd291be0ee24103",
+  "active": "7737b96d3105ba95",
   "lastOpenFiles": [
-    "02-Atomic/1745243815 - Reflexión sobre la promesa.md",
+    "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
+    "01-Areas/1.UC3M/Comp. Dig..md",
     "01-Areas/3.Scout/GS Matterhorn.md",
     "02-Atomic/1743516696 - Sockets.md",
+    "02-Atomic/1745243815 - Reflexión sobre la promesa.md",
     "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
     "01-Areas/3.Scout",
     "02-Atomic/Distribuidos.md",
@@ -419,8 +421,6 @@
     "02-Atomic/1743006119 - SQL.md",
     "02-Atomic/1741624225 - Servicios distribuidos.md",
     "02-Atomic/1742836324 - Programacion con RPC de Sun-ONC.md",
-    "02-Atomic/1742836514 - Definicion de interfaces con RPCs.md",
-    "02-Atomic/1743086642 - IS - Calendario de fechas limite.md",
     "99-Meta/0. Attachments/1743010495 - SQL DMLj.png",
     "99-Meta/0. Attachments/1743006292 - SQL DDLj.png",
     "99-Meta/0. Attachments/1742836324 - Programacion con RPC de Sun-ONCj.png",
