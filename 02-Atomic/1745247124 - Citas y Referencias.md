@@ -8,7 +8,9 @@ cssclasses:
 # Citas y Referencias
 
 > [!NOTE] Intro: 
->  Se cita para **atribuir mérito y correspondencia a aquel que tuvo una idea o dijo-**
+>  Se cita para **atribuir mérito y correspondencia a aquel que tuvo una idea o dijo/escribió algo**. Cualquier idea, texto o contenido que se pueda atribuir a otro autor debe de estar citado, **EN CASO CNTRARIO SE CONSIDERARÁ PLAGIO**
+
++ 
 
 ## Estilos: 
 + En el campo de la ingeniería se utiliza el estilo [[1745247155 - Estilo de citacion IEEE|IEEE]]
