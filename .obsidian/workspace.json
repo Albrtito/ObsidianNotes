@@ -150,9 +150,43 @@
               "icon": "lucide-file",
               "title": "1745248684 - Propiedad intelectual"
             }
+          },
+          {
+            "id": "391d2847ed8a3de9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6db61ecc1d40f7bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745248836 - Licencia Creative Commons.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745248836 - Licencia Creative Commons"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -171,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745248684 - Propiedad intelectual.md",
+                "file": "02-Atomic/1745248836 - Licencia Creative Commons.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +297,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745248684 - Propiedad intelectual"
+              "title": "Graph of 1745248836 - Licencia Creative Commons"
             }
           },
           {
@@ -462,8 +496,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "814a0f7097bdba7a",
+  "active": "6db61ecc1d40f7bd",
   "lastOpenFiles": [
+    "02-Atomic/1745248836 - Licencia Creative Commons.md",
     "02-Atomic/1745248684 - Propiedad intelectual.md",
     "02-Atomic/1745248165 - Plagio.md",
     "02-Atomic/1745247155 - Estilo de citacion IEEE.md",
@@ -492,7 +527,6 @@
     "02-Atomic/1743086372 - IS - Contrato de estudios.md",
     "02-Atomic/1733500003 - Movilidad europea.md",
     "02-Atomic/1729084911 - Dualidad en programacion lineal.md",
-    "02-Atomic/1744308009 - Pruebas para lleida.md",
     "99-Meta/0. Attachments/1743010495 - SQL DMLj.png",
     "99-Meta/0. Attachments/1743006292 - SQL DDLj.png",
     "99-Meta/0. Attachments/1742836324 - Programacion con RPC de Sun-ONCj.png",
