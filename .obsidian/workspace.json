@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1745247124 - Citas y Referencias.md",
+                "file": "02-Atomic/1745247542 - RefWorks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1745247124 - Citas y Referencias"
+              "title": "1745247542 - RefWorks"
             }
           },
           {
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745247124 - Citas y Referencias.md",
+                "file": "02-Atomic/1745247542 - RefWorks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +297,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745247124 - Citas y Referencias"
+              "title": "Graph of 1745247542 - RefWorks"
             }
           },
           {
@@ -498,8 +498,8 @@
   },
   "active": "1033a7ddbc7e9ff2",
   "lastOpenFiles": [
-    "02-Atomic/1745247155 - Estilo de citacion IEEE.md",
     "02-Atomic/1745247124 - Citas y Referencias.md",
+    "02-Atomic/1745247155 - Estilo de citacion IEEE.md",
     "02-Atomic/1745248165 - Plagio.md",
     "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
     "01-Areas/1.UC3M/Comp. Dig..md",
