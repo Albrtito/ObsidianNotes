@@ -4107,8 +4107,163 @@
                   "icon": "lucide-file",
                   "title": "GS Matterhorn"
                 }
+              },
+              {
+                "id": "ec737c6237cd6ef5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Areas/1.UC3M/Comp. Dig..md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Comp. Dig."
+                }
+              },
+              {
+                "id": "7737b96d3105ba95",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "1745246274 - Uso de la biblioteca UC3M"
+                }
+              },
+              {
+                "id": "eb06606226adc170",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1745247124 - Citas y Referencias.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "1745247124 - Citas y Referencias"
+                }
+              },
+              {
+                "id": "1033a7ddbc7e9ff2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1745247542 - RefWorks.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "1745247542 - RefWorks"
+                }
+              },
+              {
+                "id": "814a0f7097bdba7a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1745248684 - Propiedad intelectual.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "1745248684 - Propiedad intelectual"
+                }
+              },
+              {
+                "id": "391d2847ed8a3de9",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              },
+              {
+                "id": "6db61ecc1d40f7bd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Atomic/1745248836 - Licencia Creative Commons.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "1745248836 - Licencia Creative Commons"
+                }
               }
-            ]
+            ],
+            "currentTab": 7
           }
         ],
         "direction": "vertical"
@@ -4127,7 +4282,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "01-Areas/3.Scout/GS Matterhorn.md",
+                    "file": "02-Atomic/1745248836 - Licencia Creative Commons.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -4219,7 +4374,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of GS Matterhorn"
+                  "title": "Graph of 1745248836 - Licencia Creative Commons"
                 }
               },
               {
@@ -4418,9 +4573,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "7726b0cfc5bd651a",
-      "mtime": "2025-04-21T16:35:38+02:00"
+      "active": "6db61ecc1d40f7bd",
+      "mtime": "2025-04-22T15:15:59+02:00"
     }
   },
-  "active": "Scout"
+  "active": "DiffCalc"
 }
