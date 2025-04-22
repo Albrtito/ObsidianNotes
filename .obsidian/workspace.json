@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "1745247124 - Citas y Referencias"
             }
+          },
+          {
+            "id": "de4f5694f04045d4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -51,7 +62,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745247124 - Citas y Referencias.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +146,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745247124 - Citas y Referencias"
+              "title": "Graph view"
             }
           },
           {
@@ -275,13 +285,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "54e212a4d0a39175",
+  "active": "de4f5694f04045d4",
   "lastOpenFiles": [
+    "02-Atomic/1745247124 - Citas y Referencias.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/1745248836 - Licencia Creative Commons.md",
     "02-Atomic/1745247542 - RefWorks.md",
-    "02-Atomic/1745247124 - Citas y Referencias.md",
     "02-Atomic/1745247155 - Estilo de citacion IEEE.md",
     "02-Atomic/1745248165 - Plagio.md",
     "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
