@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b97c4432b4c2b29",
+            "id": "54e212a4d0a39175",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/20240307 - 000000 - ODEs.md",
+                "file": "02-Atomic/1745247124 - Citas y Referencias.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,215 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20240307 - 000000 - ODEs"
-            }
-          },
-          {
-            "id": "eaebb17d58f0c031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20240208 - 000000 - Definition - Differential Equations"
-            }
-          },
-          {
-            "id": "d8cbe4faf21d70b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20240528 - 121302 - First order linear  ODE"
-            }
-          },
-          {
-            "id": "dfa1ad2de610e9c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240528 - 110528 - Separable ODEs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20240528 - 110528 - Separable ODEs"
-            }
-          },
-          {
-            "id": "423d918eaea6f521",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240529 - 162512 - First order exact ODE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20240529 - 162512 - First order exact ODE"
-            }
-          },
-          {
-            "id": "a60df8b58e613f57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20240529 - 180146 - First order, homogeneous, substitutions ODEs"
-            }
-          },
-          {
-            "id": "65e313af893cd976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/Order 2 linear ODE's.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Order 2 linear ODE's"
-            }
-          },
-          {
-            "id": "f42836ecf599813d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240529 - 162512 - First order exact ODE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20240529 - 162512 - First order exact ODE"
-            }
-          },
-          {
-            "id": "d00db31f0505c259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/20240603 - 171608 - Trigonometric relations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20240603 - 171608 - Trigonometric relations"
-            }
-          },
-          {
-            "id": "7f1b88f6a5b2ac6a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00-References/References_Derivatives&Integrals.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "References_Derivatives&Integrals"
+              "title": "1745247124 - Citas y Referencias"
             }
           }
         ],
-        "currentTab": 9,
         "stacked": true
       }
     ],
@@ -256,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-Areas/1.UC3M/DiffCalc.md",
+                "file": "02-Atomic/1745247124 - Citas y Referencias.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,7 +136,34 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of DiffCalc"
+              "title": "Graph of 1745247124 - Citas y Referencias"
+            }
+          },
+          {
+            "id": "f711782e507bc62d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "387311d8b57452b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -387,16 +209,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6aafbc4db9406f11",
+        "id": "5997a5c0c99a8696",
         "type": "tabs",
+        "dimension": 63.45609065155807,
         "children": [
           {
-            "id": "7fc23b5bc0cd71b0",
+            "id": "2dca472e18c0e06a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/DiffCalc.md",
+                "file": "02-Atomic/Filo 101.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -411,7 +234,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DiffCalc"
+              "title": "Filo 101"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d8523f2fbc4e9acf",
+        "type": "tabs",
+        "dimension": 36.54390934844192,
+        "children": [
+          {
+            "id": "1087055cabadd75b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -435,8 +275,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7fc23b5bc0cd71b0",
+  "active": "54e212a4d0a39175",
   "lastOpenFiles": [
+    "01-Areas/1.UC3M/DiffCalc.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/1745248836 - Licencia Creative Commons.md",
     "02-Atomic/1745247542 - RefWorks.md",

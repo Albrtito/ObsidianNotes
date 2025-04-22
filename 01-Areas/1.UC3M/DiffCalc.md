@@ -20,7 +20,7 @@ cssclasses:
 
 ## Criterios de evaluación: 
 + **Continua:** 40%
-  Calendario de continua [aquí](https://aulaglobal.uc3m.es/pluginfile.php/7435714/mod_resource/content/1/weekly_planning_2024-2025.pdf)
+  Calendario de continua [aquí](https://aulaglobal.uc4m.es/pluginfile.php/7435714/mod_resource/content/1/weekly_planning_2024-2025.pdf)
 	+ 10% → First partial
 	+ 30% → Second partial
 + **Final:** 60%

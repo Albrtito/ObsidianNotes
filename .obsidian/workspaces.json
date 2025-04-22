@@ -2375,7 +2375,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02-Atomic/20240605 - 171753 - Methods for solving limits.md",
+                    "file": "01-Areas/1.UC3M/DiffCalc.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -2460,7 +2460,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 20240605 - 171753 - Methods for solving limits"
+                  "title": "Graph of DiffCalc"
                 }
               }
             ]
@@ -2487,7 +2487,8 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical"
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
                   },
                   "icon": "lucide-folder-closed",
                   "title": "Files"
@@ -2498,25 +2499,38 @@
           }
         ],
         "direction": "horizontal",
-        "width": 246,
-        "collapsed": true
+        "width": 246
       },
       "right": {
         "id": "8881aa8c79e29157",
         "type": "split",
         "children": [
           {
-            "id": "d8523f2fbc4e9acf",
+            "id": "6aafbc4db9406f11",
             "type": "tabs",
             "children": [
               {
-                "id": "1087055cabadd75b",
+                "id": "7fc23b5bc0cd71b0",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Areas/1.UC3M/DiffCalc.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "DiffCalc"
                 }
               }
             ]
@@ -2540,8 +2554,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "1087055cabadd75b",
-      "mtime": "2025-03-20T14:02:22+01:00"
+      "active": "7fc23b5bc0cd71b0",
+      "mtime": "2025-04-22T16:39:16+02:00"
     },
     "Distri": {
       "main": {
@@ -4577,5 +4591,5 @@
       "mtime": "2025-04-22T15:15:59+02:00"
     }
   },
-  "active": "DiffCalc"
+  "active": "Filo"
 }
