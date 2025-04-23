@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10b0575a715cf807",
+        "id": "373e5a52fd843a08",
         "type": "tabs",
         "children": [
           {
-            "id": "54e212a4d0a39175",
+            "id": "7726b0cfc5bd651a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1745247124 - Citas y Referencias.md",
+                "file": "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1745247124 - Citas y Referencias"
+              "title": "1742832943 - Llamadas a procedimientos remotos"
+            }
+          },
+          {
+            "id": "4f09d1365bebaf22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1743516696 - Sockets.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1743516696 - Sockets"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745247124 - Citas y Referencias.md",
+                "file": "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -119,6 +142,13 @@
                         "a": 1,
                         "rgb": 14048348
                       }
+                    },
+                    {
+                      "query": "tag:#Distri  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6149724
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -136,11 +166,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745247124 - Citas y Referencias"
+              "title": "Graph of 1741624225 - Servicios distribuidos"
             }
           },
           {
-            "id": "f711782e507bc62d",
+            "id": "29e3a00ba6e74a87",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -157,7 +187,7 @@
             }
           },
           {
-            "id": "387311d8b57452b1",
+            "id": "03da6c1b94246574",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -202,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -219,7 +250,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Filo 101.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -234,10 +265,69 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Filo 101"
+              "title": "Distribuidos"
+            }
+          },
+          {
+            "id": "bc3593f893b0d72e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Atomic/Distribuidos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Distribuidos"
+            }
+          },
+          {
+            "id": "117b257b966cd7fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-Atomic/Distribuidos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Distribuidos"
+            }
+          },
+          {
+            "id": "2b296c73cecbee5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "25da21c2fca3e858",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -258,7 +348,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395
+    "width": 259,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,8 +366,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "54e212a4d0a39175",
+  "active": "7726b0cfc5bd651a",
   "lastOpenFiles": [
+    "02-Atomic/Distribuidos.md",
     "02-Atomic/1745247124 - Citas y Referencias.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "00-References/References_Derivatives&Integrals.pdf",
@@ -292,7 +384,6 @@
     "02-Atomic/1745243815 - Reflexión sobre la promesa.md",
     "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
     "01-Areas/3.Scout",
-    "02-Atomic/Distribuidos.md",
     "02-Atomic/IA.md",
     "02-Atomic/1745167664 - TFG.md",
     "02-Atomic/Filo 101.md",
