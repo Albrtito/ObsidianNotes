@@ -342,9 +342,33 @@
               "icon": "lucide-file",
               "title": "1745510100 - Bayesian inference"
             }
+          },
+          {
+            "id": "5bfbe95598ca1e49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745512462 - Fuzzy logic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745512462 - Fuzzy logic"
+            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 14,
         "stacked": true
       }
     ],
@@ -364,7 +388,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745503838 - Use of probabilities in AI.md",
+                "file": "02-Atomic/1745512462 - Fuzzy logic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -449,7 +473,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745503838 - Use of probabilities in AI"
+              "title": "Graph of 1745512462 - Fuzzy logic"
             }
           }
         ]
@@ -464,13 +488,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1745503838 - Use of probabilities in AI.md",
+                "file": "02-Atomic/1745512462 - Fuzzy logic.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1745503838 - Use of probabilities in AI"
+              "title": "Outline of 1745512462 - Fuzzy logic"
             }
           },
           {
@@ -565,11 +589,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "719ffd67c13007dc",
+  "active": "5bfbe95598ca1e49",
   "lastOpenFiles": [
-    "02-Atomic/1745510100 - Bayesian inference.md",
+    "02-Atomic/1745512462 - Fuzzy logic.md",
     "02-Atomic/IA.md",
     "02-Atomic/1745503838 - Use of probabilities in AI.md",
+    "02-Atomic/1745510100 - Bayesian inference.md",
     "02-Atomic/1745508118 - Bayesian network.md",
     "02-Atomic/1745503976 - Inference.md",
     "02-Atomic/1732190592 - FIFO.md",
@@ -593,7 +618,6 @@
     "02-Atomic/1745247124 - Citas y Referencias.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "00-References/References_Derivatives&Integrals.pdf",
-    "02-Atomic/1745248836 - Licencia Creative Commons.md",
     "01-Areas/3.Scout",
     "00-References/Filo_Biblio_APlatoReader.pdf",
     "02-Atomic/nvim",
