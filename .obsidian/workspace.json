@@ -294,16 +294,6 @@
               "icon": "lucide-file",
               "title": "1745508118 - Bayesian network"
             }
-          },
-          {
-            "id": "069a31d9a121dd8e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
         "currentTab": 11,
@@ -529,15 +519,15 @@
   },
   "active": "df2365321ee54ffe",
   "lastOpenFiles": [
+    "02-Atomic/1745503587 - Theorem - Bayes rule.md",
     "02-Atomic/1745508118 - Bayesian network.md",
+    "02-Atomic/1745501224 - Theorem - Conditional probability.md",
     "02-Atomic/1745507844 - Conditional independence.md",
     "02-Atomic/1745503838 - Use of probabilities in AI.md",
-    "02-Atomic/1745501224 - Theorem - Conditional probability.md",
     "02-Atomic/1745504803 - Probabilistic variable independence.md",
     "02-Atomic/1745500044 - Random variables.md",
     "02-Atomic/1745503976 - Inference.md",
     "02-Atomic/1745499861 - Probabilities.md",
-    "02-Atomic/1745503587 - Theorem - Bayes rule.md",
     "99-Meta/1. Templates/NoteTemplate.md",
     "02-Atomic/1745503400 - Probability product rule.md",
     "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
