@@ -10,8 +10,7 @@ cssclasses:
 > A Bayesian network is a probabilistic method based on [[1745507844 - Conditional independence|Conditional independence]] that is used to obtain the probability of some state given the probability of previous states.
 > It represents “graphically” the conditional independence idea, where a **previous state** will be used as the condition for the next state probability. 
 
-+ THey are really compact wich is great as it has **lower parameters and easier computation**
-+ 
++ THey are really compact wich is great as it has **lower parameters and easier computation** therefore a more efficient way of performing inference, in the form of [[1745510100 - Bayesian inference|Bayesian inference]]
 The formal definition of the probability of one particular case in the bayesian tree can be defined by the joint probability distribution but also by the product of local distributions. 
 $$
 \begin{aligned}

@@ -318,9 +318,33 @@
               "icon": "lucide-file",
               "title": "1745503976 - Inference"
             }
+          },
+          {
+            "id": "633338e4d1cc769b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745510100 - Bayesian inference.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745510100 - Bayesian inference"
+            }
           }
         ],
-        "currentTab": 12,
+        "currentTab": 11,
         "stacked": true
       }
     ],
@@ -340,7 +364,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745503976 - Inference.md",
+                "file": "02-Atomic/1745508118 - Bayesian network.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -425,7 +449,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745503976 - Inference"
+              "title": "Graph of 1745508118 - Bayesian network"
             }
           }
         ]
@@ -440,13 +464,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1745503976 - Inference.md",
+                "file": "02-Atomic/1745508118 - Bayesian network.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1745503976 - Inference"
+              "title": "Outline of 1745508118 - Bayesian network"
             }
           },
           {
@@ -541,9 +565,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2fc27b967ce2cafe",
+  "active": "df2365321ee54ffe",
   "lastOpenFiles": [
+    "02-Atomic/1745510100 - Bayesian inference.md",
     "02-Atomic/1745508118 - Bayesian network.md",
+    "02-Atomic/1745503976 - Inference.md",
     "02-Atomic/1732190592 - FIFO.md",
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
     "02-Atomic/1745503587 - Theorem - Bayes rule.md",
@@ -552,7 +578,6 @@
     "02-Atomic/1745503838 - Use of probabilities in AI.md",
     "02-Atomic/1745504803 - Probabilistic variable independence.md",
     "02-Atomic/1745500044 - Random variables.md",
-    "02-Atomic/1745503976 - Inference.md",
     "02-Atomic/1745499861 - Probabilities.md",
     "99-Meta/1. Templates/NoteTemplate.md",
     "02-Atomic/1745503400 - Probability product rule.md",
@@ -569,7 +594,6 @@
     "01-Areas/1.UC3M/DiffCalc.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/1745248836 - Licencia Creative Commons.md",
-    "02-Atomic/1745247542 - RefWorks.md",
     "01-Areas/3.Scout",
     "00-References/Filo_Biblio_APlatoReader.pdf",
     "02-Atomic/nvim",
