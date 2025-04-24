@@ -8,462 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1648b34dd77b5b1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/IA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "IA"
-            }
-          },
-          {
-            "id": "98f3d6e286e69cca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745503838 - Use of probabilities in AI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745503838 - Use of probabilities in AI"
-            }
-          },
-          {
-            "id": "4029460e5ac746b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745499420 - Uncertainty.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745499420 - Uncertainty"
-            }
-          },
-          {
-            "id": "23125e627bd34a74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745499861 - Probabilities.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745499861 - Probabilities"
-            }
-          },
-          {
-            "id": "719ffd67c13007dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745503838 - Use of probabilities in AI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745503838 - Use of probabilities in AI"
-            }
-          },
-          {
-            "id": "a51824cf4df88445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745501401 - Theorem - Total probabilty theorem"
-            }
-          },
-          {
-            "id": "0ab96cd9b3818467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745507844 - Conditional independence.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745507844 - Conditional independence"
-            }
-          },
-          {
-            "id": "d323ca0c256d05da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745503400 - Probability product rule.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745503400 - Probability product rule"
-            }
-          },
-          {
-            "id": "501b34be8997380f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745503587 - Theorem - Bayes rule.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745503587 - Theorem - Bayes rule"
-            }
-          },
-          {
-            "id": "3c7ac6fe1e4cafef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745503838 - Use of probabilities in AI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745503838 - Use of probabilities in AI"
-            }
-          },
-          {
-            "id": "618d4f101d2da7e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745503976 - Inference.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745503976 - Inference"
-            }
-          },
-          {
-            "id": "74a27fc257381521",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745504803 - Probabilistic variable independence.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745504803 - Probabilistic variable independence"
-            }
-          },
-          {
-            "id": "df2365321ee54ffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745508118 - Bayesian network.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745508118 - Bayesian network"
-            }
-          },
-          {
-            "id": "2fc27b967ce2cafe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745503976 - Inference.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745503976 - Inference"
-            }
-          },
-          {
-            "id": "633338e4d1cc769b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745510100 - Bayesian inference.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745510100 - Bayesian inference"
-            }
-          },
-          {
-            "id": "5bfbe95598ca1e49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745512462 - Fuzzy logic.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745512462 - Fuzzy logic"
-            }
-          },
-          {
-            "id": "f5eddb76e38f9509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745514024 - Fuzzy sets.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745514024 - Fuzzy sets"
-            }
-          },
-          {
-            "id": "2b230d6648be6ac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745515714 - Fuzzy rules.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745515714 - Fuzzy rules"
-            }
-          },
-          {
-            "id": "ccdebc34e587e1ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745516082 - Fuzzy systems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745516082 - Fuzzy systems"
-            }
-          },
-          {
             "id": "81ba947f6881c8c0",
             "type": "leaf",
             "state": {
@@ -488,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 18,
         "stacked": true
       }
     ],
@@ -508,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745516082 - Fuzzy systems.md",
+                "file": "02-Atomic/1745516400 - Madani fuzzy system.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -593,7 +136,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745516082 - Fuzzy systems"
+              "title": "Graph of 1745516400 - Madani fuzzy system"
             }
           }
         ]
@@ -608,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1745516082 - Fuzzy systems.md",
+                "file": "02-Atomic/1745516400 - Madani fuzzy system.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1745516082 - Fuzzy systems"
+              "title": "Outline of 1745516400 - Madani fuzzy system"
             }
           },
           {
@@ -709,37 +252,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ccdebc34e587e1ed",
+  "active": "81ba947f6881c8c0",
   "lastOpenFiles": [
     "02-Atomic/1745516400 - Madani fuzzy system.md",
+    "02-Atomic/1745515714 - Fuzzy rules.md",
+    "02-Atomic/1745514024 - Fuzzy sets.md",
+    "02-Atomic/1745512462 - Fuzzy logic.md",
+    "02-Atomic/1745510100 - Bayesian inference.md",
+    "02-Atomic/1745503976 - Inference.md",
+    "02-Atomic/1745508118 - Bayesian network.md",
+    "02-Atomic/1745504803 - Probabilistic variable independence.md",
+    "02-Atomic/1745503838 - Use of probabilities in AI.md",
+    "02-Atomic/1745503587 - Theorem - Bayes rule.md",
+    "02-Atomic/1745503400 - Probability product rule.md",
+    "02-Atomic/1745507844 - Conditional independence.md",
+    "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
+    "02-Atomic/1745499861 - Probabilities.md",
+    "02-Atomic/1745499420 - Uncertainty.md",
+    "02-Atomic/IA.md",
+    "02-Atomic/1745516082 - Fuzzy systems.md",
     "99-Meta/0. Attachments/1745516400 - Madani fuzzy systemj-2.png",
     "99-Meta/0. Attachments/1745516400 - Madani fuzzy systemj-1.png",
     "99-Meta/0. Attachments/1745516400 - Madani fuzzy systemj.png",
-    "02-Atomic/IA.md",
-    "02-Atomic/1745512462 - Fuzzy logic.md",
-    "02-Atomic/1745503838 - Use of probabilities in AI.md",
-    "02-Atomic/1745516082 - Fuzzy systems.md",
-    "02-Atomic/1745514024 - Fuzzy sets.md",
-    "02-Atomic/1745499420 - Uncertainty.md",
     "02-Atomic/1745499725 - Fuzzy logic.md",
-    "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
-    "02-Atomic/1745508118 - Bayesian network.md",
-    "02-Atomic/1745503400 - Probability product rule.md",
-    "02-Atomic/1745503976 - Inference.md",
-    "02-Atomic/1745510100 - Bayesian inference.md",
     "99-Meta/0. Attachments/1745516082 - Fuzzy systemsj.png",
-    "02-Atomic/1745515714 - Fuzzy rules.md",
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj-2.png",
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj-1.png",
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj.png",
     "02-Atomic/1732190592 - FIFO.md",
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
-    "02-Atomic/1745503587 - Theorem - Bayes rule.md",
     "02-Atomic/1745501224 - Theorem - Conditional probability.md",
-    "02-Atomic/1745507844 - Conditional independence.md",
-    "02-Atomic/1745504803 - Probabilistic variable independence.md",
     "02-Atomic/1745500044 - Random variables.md",
-    "02-Atomic/1745499861 - Probabilities.md",
     "99-Meta/1. Templates/NoteTemplate.md",
     "02-Atomic/1745501051 - Conditional distribution.md",
     "02-Atomic/1745500070 - - Untitled Suffix.md",
