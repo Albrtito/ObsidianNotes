@@ -2572,7 +2572,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/Distribuidos.md",
+                    "file": "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -2587,7 +2587,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Distribuidos"
+                  "title": "1742832943 - Llamadas a procedimientos remotos"
                 }
               },
               {
@@ -2925,8 +2925,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "25da21c2fca3e858",
-      "mtime": "2025-04-04T14:57:34+02:00"
+      "active": "7726b0cfc5bd651a",
+      "mtime": "2025-04-24T14:53:34+02:00"
     },
     "IA": {
       "main": {
@@ -4606,5 +4606,5 @@
       "mtime": "2025-04-22T15:15:59+02:00"
     }
   },
-  "active": "Distri"
+  "active": "IA"
 }
