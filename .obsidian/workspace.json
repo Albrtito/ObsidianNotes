@@ -390,9 +390,33 @@
               "icon": "lucide-file",
               "title": "1745514024 - Fuzzy sets"
             }
+          },
+          {
+            "id": "2b230d6648be6ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745515714 - Fuzzy rules.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745515714 - Fuzzy rules"
+            }
           }
         ],
-        "currentTab": 15,
+        "currentTab": 14,
         "stacked": true
       }
     ],
@@ -412,7 +436,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745514024 - Fuzzy sets.md",
+                "file": "02-Atomic/1745512462 - Fuzzy logic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -497,7 +521,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745514024 - Fuzzy sets"
+              "title": "Graph of 1745512462 - Fuzzy logic"
             }
           }
         ]
@@ -512,13 +536,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1745514024 - Fuzzy sets.md",
+                "file": "02-Atomic/1745512462 - Fuzzy logic.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1745514024 - Fuzzy sets"
+              "title": "Outline of 1745512462 - Fuzzy logic"
             }
           },
           {
@@ -613,10 +637,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f5eddb76e38f9509",
+  "active": "5bfbe95598ca1e49",
   "lastOpenFiles": [
-    "02-Atomic/1745512462 - Fuzzy logic.md",
+    "02-Atomic/1745515714 - Fuzzy rules.md",
     "02-Atomic/1745514024 - Fuzzy sets.md",
+    "02-Atomic/1745512462 - Fuzzy logic.md",
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj-2.png",
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj-1.png",
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj.png",
@@ -643,7 +668,6 @@
     "02-Atomic/1738764683 - Production systems.md",
     "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
     "02-Atomic/Distribuidos.md",
-    "02-Atomic/1745247124 - Citas y Referencias.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "01-Areas/3.Scout",
     "00-References/Filo_Biblio_APlatoReader.pdf",
