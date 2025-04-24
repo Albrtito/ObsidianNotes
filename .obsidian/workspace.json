@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1745501224 - Conditional probability.md",
+                "file": "02-Atomic/1745501224 - Theorem - Conditional probability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,69 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1745501224 - Conditional probability"
+              "title": "1745501224 - Theorem - Conditional probability"
+            }
+          },
+          {
+            "id": "d323ca0c256d05da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745503400 - Probability product rule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745503400 - Probability product rule"
+            }
+          },
+          {
+            "id": "501b34be8997380f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745503587 - Theorem - Bayes rule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745503587 - Theorem - Bayes rule"
+            }
+          },
+          {
+            "id": "2287f958d20b6ff2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -172,7 +230,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745501224 - Conditional probability.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +314,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745501224 - Conditional probability"
+              "title": "Graph view"
             }
           }
         ]
@@ -272,13 +329,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1745501224 - Conditional probability.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1745501224 - Conditional probability"
+              "title": "Outline"
             }
           },
           {
@@ -373,12 +429,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0ab96cd9b3818467",
+  "active": "2287f958d20b6ff2",
   "lastOpenFiles": [
-    "02-Atomic/1745501051 - Conditional distribution.md",
+    "02-Atomic/1745503587 - Theorem - Bayes rule.md",
+    "02-Atomic/1745501224 - Theorem - Conditional probability.md",
+    "02-Atomic/1745503400 - Probability product rule.md",
     "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
+    "02-Atomic/1745501051 - Conditional distribution.md",
     "02-Atomic/1745499861 - Probabilities.md",
-    "02-Atomic/1745501224 - Conditional probability.md",
     "99-Meta/1. Templates/NoteTemplate.md",
     "02-Atomic/1745500044 - Random variables.md",
     "02-Atomic/1745500070 - - Untitled Suffix.md",
@@ -400,9 +458,7 @@
     "01-Areas/3.Scout/GS Matterhorn.md",
     "02-Atomic/1745248684 - Propiedad intelectual.md",
     "02-Atomic/1743516696 - Sockets.md",
-    "02-Atomic/1745243815 - Reflexión sobre la promesa.md",
     "01-Areas/3.Scout",
-    "02-Atomic/1745167664 - TFG.md",
     "00-References/Filo_Biblio_APlatoReader.pdf",
     "02-Atomic/nvim",
     "99-Meta/0. Attachments/1743010495 - SQL DMLj.png",

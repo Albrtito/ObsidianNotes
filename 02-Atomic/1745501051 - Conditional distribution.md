@@ -9,7 +9,7 @@ cssclasses:
 # Conditional distribution
 
 > [!NOTE] Intro: 
-> The conditional distribution of two [[1745500044 - Random variables|Random variables]] is given as a vector of vectors with the value of one of the variables and the conditional probabilty of the other once that value has been observed, see [[1745501224 - Conditional probability|Conditional probability]]
+> The conditional distribution of two [[1745500044 - Random variables|Random variables]] is given as a vector of vectors with the value of one of the variables and the conditional probabilty of the other once that value has been observed, see [[1745501224 - Theorem - Conditional probability|Conditional probability]]
 
 Going further into the idea of a vector of vectors..
 As we can see in [[1745500044 - Random variables|Random variables]], the random variable is represented as a variable with a set of possible values it can take and the set of probabilities attached to those values.
