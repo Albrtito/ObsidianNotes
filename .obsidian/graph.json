@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -97,6 +97,13 @@
         "a": 1,
         "rgb": 6084188
       }
+    },
+    {
+      "query": "tag:#IA  ",
+      "color": {
+        "a": 1,
+        "rgb": 15499089
+      }
     }
   ],
   "collapse-display": false,
@@ -109,6 +116,6 @@
   "repelStrength": 13.7452919020716,
   "linkStrength": 0.756002824858757,
   "linkDistance": 105,
-  "scale": 0.023601461556844783,
+  "scale": 0.06326640441054854,
   "close": true
 }

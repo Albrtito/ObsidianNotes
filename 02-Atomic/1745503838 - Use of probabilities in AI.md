@@ -13,6 +13,6 @@ cssclasses:
 Some key aspects of the usage of probabilities in AI are: 
 + **Use the [[1745503400 - Probability product rule|Probability product rule]] recursively to compute joint probabilities only using conditional probabilities**
 + Use of [[1745503976 - Inference|Inference]] in order to classify or obtain the probability of something based on some evidence. 
-+ 
++ Use of [[1745507844 - Conditional independence|Conditional independence]] in order to **reduce the number of variables and make the process more EFFICIENT**
 
 ***
