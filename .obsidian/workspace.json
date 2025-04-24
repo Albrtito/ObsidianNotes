@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "98f3d6e286e69cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745503838 - Use of probabilities in AI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745503838 - Use of probabilities in AI"
+            }
+          },
+          {
             "id": "4029460e5ac746b3",
             "type": "leaf",
             "state": {
@@ -464,7 +488,7 @@
             }
           }
         ],
-        "currentTab": 18,
+        "currentTab": 19,
         "stacked": true
       }
     ],
@@ -687,9 +711,11 @@
   },
   "active": "81ba947f6881c8c0",
   "lastOpenFiles": [
-    "02-Atomic/1745516082 - Fuzzy systems.md",
+    "02-Atomic/IA.md",
     "02-Atomic/1745512462 - Fuzzy logic.md",
+    "02-Atomic/1745503838 - Use of probabilities in AI.md",
     "02-Atomic/1745516400 - Madani fuzzy system.md",
+    "02-Atomic/1745516082 - Fuzzy systems.md",
     "02-Atomic/1745514024 - Fuzzy sets.md",
     "02-Atomic/1745499420 - Uncertainty.md",
     "02-Atomic/1745499725 - Fuzzy logic.md",
@@ -703,8 +729,6 @@
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj-2.png",
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj-1.png",
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj.png",
-    "02-Atomic/IA.md",
-    "02-Atomic/1745503838 - Use of probabilities in AI.md",
     "02-Atomic/1732190592 - FIFO.md",
     "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
     "02-Atomic/1745503587 - Theorem - Bayes rule.md",

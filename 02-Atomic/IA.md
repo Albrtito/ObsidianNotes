@@ -40,6 +40,7 @@ cssclasses:
 ## Notas:
 + [[1738764683 - Production systems|Production systems]]
 + [[1745503838 - Use of probabilities in AI|Use of probabilities in AI]]
++ [[1745512462 - Fuzzy logic|Fuzzy logic]]
 ## Ejercicios:
 
 ***
