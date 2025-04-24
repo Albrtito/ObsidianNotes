@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1745500044 - Random variables.md",
+                "file": "02-Atomic/1745503838 - Use of probabilities in AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1745500044 - Random variables"
+              "title": "1745503838 - Use of probabilities in AI"
             }
           },
           {
@@ -246,9 +246,33 @@
               "icon": "lucide-file",
               "title": "1745503976 - Inference"
             }
+          },
+          {
+            "id": "74a27fc257381521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745504803 - Probabilistic variable independence.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745504803 - Probabilistic variable independence"
+            }
           }
         ],
-        "currentTab": 9,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -268,7 +292,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745503976 - Inference.md",
+                "file": "02-Atomic/1745501224 - Theorem - Conditional probability.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -353,7 +377,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745503976 - Inference"
+              "title": "Graph of 1745501224 - Theorem - Conditional probability"
             }
           }
         ]
@@ -368,13 +392,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1745503976 - Inference.md",
+                "file": "02-Atomic/1745501224 - Theorem - Conditional probability.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1745503976 - Inference"
+              "title": "Outline of 1745501224 - Theorem - Conditional probability"
             }
           },
           {
@@ -469,15 +493,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "618d4f101d2da7e8",
+  "active": "0ab96cd9b3818467",
   "lastOpenFiles": [
+    "02-Atomic/1745504803 - Probabilistic variable independence.md",
+    "02-Atomic/1745501224 - Theorem - Conditional probability.md",
+    "02-Atomic/1745503838 - Use of probabilities in AI.md",
     "02-Atomic/1745500044 - Random variables.md",
     "02-Atomic/1745503976 - Inference.md",
-    "02-Atomic/1745503838 - Use of probabilities in AI.md",
     "02-Atomic/1745499861 - Probabilities.md",
     "02-Atomic/1745503587 - Theorem - Bayes rule.md",
     "99-Meta/1. Templates/NoteTemplate.md",
-    "02-Atomic/1745501224 - Theorem - Conditional probability.md",
     "02-Atomic/1745503400 - Probability product rule.md",
     "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
     "02-Atomic/1745501051 - Conditional distribution.md",
@@ -497,7 +522,6 @@
     "02-Atomic/1745248165 - Plagio.md",
     "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
     "01-Areas/1.UC3M/Comp. Dig..md",
-    "01-Areas/3.Scout/GS Matterhorn.md",
     "01-Areas/3.Scout",
     "00-References/Filo_Biblio_APlatoReader.pdf",
     "02-Atomic/nvim",

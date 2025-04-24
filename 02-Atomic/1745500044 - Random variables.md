@@ -26,6 +26,7 @@ cssclasses:
 ## Probabilty distribution:
 The probability distribution is given by some function $P(3): \forall e \in \Omega$. 
 + If this function is not defined and the variables are three, independent, then the probability of the event that combines all three variables will be obtained by knowing all the possible combinations of these three variables, or in other words, a [[20240515 - 010953 - Permutations|Permutations]]
++ Another important thing is to know whether the variables are [[1745504803 - Probabilistic variable independence|Probabilistic independence]] or not. If they are the **size of the probabilistic distribution can be drastically reduced**
 
 ## Conditional distribution:
 
