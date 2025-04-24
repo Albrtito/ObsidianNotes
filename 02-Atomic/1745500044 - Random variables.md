@@ -17,7 +17,16 @@ cssclasses:
 + These probabilies define a **probability distribution**
 
 > [!exercise] Dictionary: 
-> +  **sample space: ($\omega$)** The domain of a random variable
-> + **atomic event: (e)** A possible situation of the variable, a po
+> +  **sample space: ($\Omega$)** The domain of a random variable
+> + **atomic event: (e)** A possible situation of the variable: X = 3
+> + **probability distribution:** Function $P(e)$ that assigns a number to each $e\in \omega$
+> 	+ Usually represented as a vector
+> + 
+
+## Probabilty distribution:
+The probability distribution is given by some function $P(3): \forall e \in \Omega$. 
++ If this function is not defined and the variables are three, independent, then the probability of the event that combines all three variables will be obtained by knowing all the possible combinations of these three variables, or in other words, a [[20240515 - 010953 - Permutations|Permutations]]
+
+## Conditional distribution:
 
 ***
