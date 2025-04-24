@@ -14,7 +14,7 @@ cssclasses:
 > f.e: The wheather tomorrow, it wont be either true or false but “raining with some percent chance”
 
 The solutions proposed to this problem are of two types: 
-1. We can omit the uncertainty and act as if it was never there. This is what [[1745499725 - Fuzzy logic|Fuzzy logic]] does
+1. We can omit the uncertainty and act as if it was never there. This is what [[1745512462 - Fuzzy logic|Fuzzy logic]] does
 2. We can join different results into categories, so that it is either one category or the other
 3. We can use [[1745499861 - Probabilities|Probabilities]]. This is what probabilistic reasoning and bayesian networks are all about. 
 

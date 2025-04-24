@@ -63,5 +63,6 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-sapphire",
-  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "anuppuccin-theme-settings@@h2-size": 1.3
 }

@@ -445,7 +445,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1745516400 - Fuzzy inference.md",
+                "file": "02-Atomic/1745516400 - Madani fuzzy system.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -460,21 +460,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1745516400 - Fuzzy inference"
-            }
-          },
-          {
-            "id": "723429702c461a25",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "1745516400 - Madani fuzzy system"
             }
           }
         ],
-        "currentTab": 19,
+        "currentTab": 18,
         "stacked": true
       }
     ],
@@ -494,6 +484,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/1745516400 - Madani fuzzy system.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -578,7 +569,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1745516400 - Madani fuzzy system"
             }
           }
         ]
@@ -593,12 +584,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02-Atomic/1745516400 - Madani fuzzy system.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1745516400 - Madani fuzzy system"
             }
           },
           {
@@ -693,19 +685,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "723429702c461a25",
+  "active": "81ba947f6881c8c0",
   "lastOpenFiles": [
+    "02-Atomic/1745516082 - Fuzzy systems.md",
     "02-Atomic/1745512462 - Fuzzy logic.md",
+    "02-Atomic/1745516400 - Madani fuzzy system.md",
+    "02-Atomic/1745514024 - Fuzzy sets.md",
+    "02-Atomic/1745499420 - Uncertainty.md",
+    "02-Atomic/1745499725 - Fuzzy logic.md",
     "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
     "02-Atomic/1745508118 - Bayesian network.md",
     "02-Atomic/1745503400 - Probability product rule.md",
     "02-Atomic/1745503976 - Inference.md",
     "02-Atomic/1745510100 - Bayesian inference.md",
-    "02-Atomic/1745516082 - Fuzzy systems.md",
-    "02-Atomic/1745516400 - Fuzzy inference.md",
     "99-Meta/0. Attachments/1745516082 - Fuzzy systemsj.png",
     "02-Atomic/1745515714 - Fuzzy rules.md",
-    "02-Atomic/1745514024 - Fuzzy sets.md",
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj-2.png",
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj-1.png",
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj.png",
@@ -722,8 +716,6 @@
     "99-Meta/1. Templates/NoteTemplate.md",
     "02-Atomic/1745501051 - Conditional distribution.md",
     "02-Atomic/1745500070 - - Untitled Suffix.md",
-    "02-Atomic/1745499420 - Uncertainty.md",
-    "02-Atomic/1745499725 - Fuzzy logic.md",
     "02-Atomic/1738764683 - Production systems.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "01-Areas/3.Scout",
