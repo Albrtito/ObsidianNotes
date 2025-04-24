@@ -344,7 +344,7 @@
             }
           }
         ],
-        "currentTab": 11,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -364,7 +364,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745508118 - Bayesian network.md",
+                "file": "02-Atomic/1745503838 - Use of probabilities in AI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -449,7 +449,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745508118 - Bayesian network"
+              "title": "Graph of 1745503838 - Use of probabilities in AI"
             }
           }
         ]
@@ -464,13 +464,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1745508118 - Bayesian network.md",
+                "file": "02-Atomic/1745503838 - Use of probabilities in AI.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1745508118 - Bayesian network"
+              "title": "Outline of 1745503838 - Use of probabilities in AI"
             }
           },
           {
@@ -565,9 +565,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "df2365321ee54ffe",
+  "active": "719ffd67c13007dc",
   "lastOpenFiles": [
     "02-Atomic/1745510100 - Bayesian inference.md",
+    "02-Atomic/IA.md",
+    "02-Atomic/1745503838 - Use of probabilities in AI.md",
     "02-Atomic/1745508118 - Bayesian network.md",
     "02-Atomic/1745503976 - Inference.md",
     "02-Atomic/1732190592 - FIFO.md",
@@ -575,7 +577,6 @@
     "02-Atomic/1745503587 - Theorem - Bayes rule.md",
     "02-Atomic/1745501224 - Theorem - Conditional probability.md",
     "02-Atomic/1745507844 - Conditional independence.md",
-    "02-Atomic/1745503838 - Use of probabilities in AI.md",
     "02-Atomic/1745504803 - Probabilistic variable independence.md",
     "02-Atomic/1745500044 - Random variables.md",
     "02-Atomic/1745499861 - Probabilities.md",
@@ -586,7 +587,6 @@
     "02-Atomic/1745500070 - - Untitled Suffix.md",
     "02-Atomic/1745499420 - Uncertainty.md",
     "02-Atomic/1745499725 - Fuzzy logic.md",
-    "02-Atomic/IA.md",
     "02-Atomic/1738764683 - Production systems.md",
     "02-Atomic/1742832943 - Llamadas a procedimientos remotos.md",
     "02-Atomic/Distribuidos.md",
