@@ -2,7 +2,8 @@
 aliases:
   - Probability product rule
 tags:
-References:
+  - IA
+References: 
 cssclasses:
 ---
 # Probability product rule

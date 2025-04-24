@@ -2,7 +2,8 @@
 aliases:
   - Theorem - Total probabilty theorem
 tags:
-References:
+  - IA
+References: 
 cssclasses:
 ---
 # Theorem - Total probabilty theorem

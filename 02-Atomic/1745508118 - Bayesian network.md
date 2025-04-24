@@ -2,7 +2,8 @@
 aliases:
   - Bayesian network
 tags:
-References:
+  - IA
+References: 
 cssclasses:
 ---
 # Bayesian network (BN)

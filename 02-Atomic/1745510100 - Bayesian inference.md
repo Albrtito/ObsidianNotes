@@ -2,7 +2,8 @@
 aliases:
   - Bayesian inference
 tags:
-References:
+  - IA
+References: 
 cssclasses:
 ---
 # Bayesian inference
