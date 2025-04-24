@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "1745499861 - Probabilities"
             }
+          },
+          {
+            "id": "719ffd67c13007dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745500044 - Random variables.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745500044 - Random variables"
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -100,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745499420 - Uncertainty.md",
+                "file": "02-Atomic/1745500044 - Random variables.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +209,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745499420 - Uncertainty"
+              "title": "Graph of 1745500044 - Random variables"
             }
           }
         ]
@@ -200,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1745499420 - Uncertainty.md",
+                "file": "02-Atomic/1745500044 - Random variables.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1745499420 - Uncertainty"
+              "title": "Outline of 1745500044 - Random variables"
             }
           },
           {
@@ -301,8 +325,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4029460e5ac746b3",
+  "active": "719ffd67c13007dc",
   "lastOpenFiles": [
+    "99-Meta/1. Templates/NoteTemplate.md",
+    "02-Atomic/1745500044 - Random variables.md",
+    "02-Atomic/1745500070 - - Untitled Suffix.md",
     "02-Atomic/1745499861 - Probabilities.md",
     "02-Atomic/1745499420 - Uncertainty.md",
     "02-Atomic/1745499725 - Fuzzy logic.md",
@@ -329,9 +356,6 @@
     "00-References/Filo_Biblio_APlatoReader.pdf",
     "02-Atomic/1742475772 - Movilidad Islandia.md",
     "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
-    "02-Atomic/1744914534 - Contrato de estudios islandia.md",
-    "1744914305 - IS - Contrato de estudios.md",
-    "02-Atomic/1744914305 - IS - Contrato de estudios.md",
     "02-Atomic/nvim",
     "99-Meta/0. Attachments/1743010495 - SQL DMLj.png",
     "99-Meta/0. Attachments/1743006292 - SQL DDLj.png",
