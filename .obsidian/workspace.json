@@ -488,7 +488,7 @@
             }
           }
         ],
-        "currentTab": 19,
+        "currentTab": 18,
         "stacked": true
       }
     ],
@@ -508,7 +508,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745516400 - Madani fuzzy system.md",
+                "file": "02-Atomic/1745516082 - Fuzzy systems.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -593,7 +593,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745516400 - Madani fuzzy system"
+              "title": "Graph of 1745516082 - Fuzzy systems"
             }
           }
         ]
@@ -608,13 +608,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1745516400 - Madani fuzzy system.md",
+                "file": "02-Atomic/1745516082 - Fuzzy systems.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1745516400 - Madani fuzzy system"
+              "title": "Outline of 1745516082 - Fuzzy systems"
             }
           },
           {
@@ -709,12 +709,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "81ba947f6881c8c0",
+  "active": "ccdebc34e587e1ed",
   "lastOpenFiles": [
+    "02-Atomic/1745516400 - Madani fuzzy system.md",
+    "99-Meta/0. Attachments/1745516400 - Madani fuzzy systemj-2.png",
+    "99-Meta/0. Attachments/1745516400 - Madani fuzzy systemj-1.png",
+    "99-Meta/0. Attachments/1745516400 - Madani fuzzy systemj.png",
     "02-Atomic/IA.md",
     "02-Atomic/1745512462 - Fuzzy logic.md",
     "02-Atomic/1745503838 - Use of probabilities in AI.md",
-    "02-Atomic/1745516400 - Madani fuzzy system.md",
     "02-Atomic/1745516082 - Fuzzy systems.md",
     "02-Atomic/1745514024 - Fuzzy sets.md",
     "02-Atomic/1745499420 - Uncertainty.md",
@@ -740,7 +743,6 @@
     "99-Meta/1. Templates/NoteTemplate.md",
     "02-Atomic/1745501051 - Conditional distribution.md",
     "02-Atomic/1745500070 - - Untitled Suffix.md",
-    "02-Atomic/1738764683 - Production systems.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "01-Areas/3.Scout",
     "00-References/Filo_Biblio_APlatoReader.pdf",
@@ -748,10 +750,7 @@
     "99-Meta/0. Attachments/1743010495 - SQL DMLj.png",
     "99-Meta/0. Attachments/1743006292 - SQL DDLj.png",
     "99-Meta/0. Attachments/1742836324 - Programacion con RPC de Sun-ONCj.png",
-    "99-Meta/0. Attachments/1742832943 - Llamadas a procedimientos remotosj.png",
-    "99-Meta/0. Attachments/Greek-Alphabet.png",
     "00-References/DB_Resources_Lab2_Statement.pdf",
-    "99-Meta/0. Attachments/1741624225 - Servicios distribuidosj-2.png",
     "00-References/C_IntroDistri.pdf",
     "00-References/C_Guia.pdf",
     "00-References/Files_Theory_Ch1_IntroToDB.pdf",

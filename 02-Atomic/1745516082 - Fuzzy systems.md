@@ -15,6 +15,11 @@ cssclasses:
 
 + [[1745516400 - Madani fuzzy system|Madani fuzzy system]]
 
+## Properties:
++ Fuzzy systems usually require fine tuning of the system 
++ It is hard to determine membership functions
++ It is **really simple**
++ **Performs good**
 
 
 ***
