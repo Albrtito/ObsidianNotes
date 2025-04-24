@@ -14,6 +14,6 @@ cssclasses:
 $$
 P(A|B) = \frac{P(A,B)}{P(B)} : P(B) \not = 0
 $$
-
-
++ With the given formula we are asking, what is the probability of A knowing the probability of B?
++ We can ask ourselves what is the probability of A for any value that Y can take, then we’ll obtain the [[1745501051 - Conditional distribution|Conditional distribution]] of X knowing Y. 
 ***

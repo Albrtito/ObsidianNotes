@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1745501224 - Conditional probability.md",
+                "file": "02-Atomic/1745501051 - Conditional distribution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1745501224 - Conditional probability"
+              "title": "1745501051 - Conditional distribution"
             }
           }
         ],
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745501224 - Conditional probability.md",
+                "file": "02-Atomic/1745501051 - Conditional distribution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745501224 - Conditional probability"
+              "title": "Graph of 1745501051 - Conditional distribution"
             }
           }
         ]
@@ -272,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1745501224 - Conditional probability.md",
+                "file": "02-Atomic/1745501051 - Conditional distribution.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1745501224 - Conditional probability"
+              "title": "Outline of 1745501051 - Conditional distribution"
             }
           },
           {
@@ -375,8 +375,8 @@
   },
   "active": "c61c945cc3a812c9",
   "lastOpenFiles": [
-    "02-Atomic/1745501051 - Conditional distribution.md",
     "02-Atomic/1745501224 - Conditional probability.md",
+    "02-Atomic/1745501051 - Conditional distribution.md",
     "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
     "99-Meta/1. Templates/NoteTemplate.md",
     "02-Atomic/1745500044 - Random variables.md",
