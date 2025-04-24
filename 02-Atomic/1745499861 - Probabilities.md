@@ -21,5 +21,6 @@ What is probability?
 ## Theorems:
 + [[1745501224 - Theorem - Conditional probability|Conditional probability]]
 + [[1745501401 - Theorem - Total probabilty theorem|Theorem - Total probabilty theorem]]
-+ 
++ [[1745503587 - Theorem - Bayes rule|Theorem - Bayes rule]]
+
 ***
