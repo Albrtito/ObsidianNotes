@@ -2938,12 +2938,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "1648b34dd77b5b1b",
+                "id": "81ba947f6881c8c0",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Atomic/IA.md",
+                    "file": "02-Atomic/1745516400 - Madani fuzzy system.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -2958,7 +2958,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "IA"
+                  "title": "1745516400 - Madani fuzzy system"
                 }
               }
             ],
@@ -2981,7 +2981,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "02-Atomic/IA.md",
+                    "file": "02-Atomic/1745516400 - Madani fuzzy system.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -3066,7 +3066,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of IA"
+                  "title": "Graph of 1745516400 - Madani fuzzy system"
                 }
               }
             ]
@@ -3081,13 +3081,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "02-Atomic/IA.md",
+                    "file": "02-Atomic/1745516400 - Madani fuzzy system.md",
                     "followCursor": true,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of IA"
+                  "title": "Outline of 1745516400 - Madani fuzzy system"
                 }
               },
               {
@@ -3107,7 +3107,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 246
+        "width": 246,
+        "collapsed": true
       },
       "right": {
         "id": "8881aa8c79e29157",
@@ -3163,7 +3164,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 395
+        "width": 395,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -3180,8 +3182,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "1648b34dd77b5b1b",
-      "mtime": "2025-04-20T21:00:20+02:00"
+      "active": "81ba947f6881c8c0",
+      "mtime": "2025-04-25T19:09:38+02:00"
     },
     "Filo": {
       "main": {
@@ -4606,5 +4608,5 @@
       "mtime": "2025-04-22T15:15:59+02:00"
     }
   },
-  "active": "IA"
+  "active": "Scout"
 }

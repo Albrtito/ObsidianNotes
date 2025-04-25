@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10b0575a715cf807",
+        "id": "373e5a52fd843a08",
         "type": "tabs",
         "children": [
           {
-            "id": "81ba947f6881c8c0",
+            "id": "7726b0cfc5bd651a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1745516400 - Madani fuzzy system.md",
+                "file": "01-Areas/3.Scout/GS Matterhorn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,165 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1745516400 - Madani fuzzy system"
+              "title": "GS Matterhorn"
+            }
+          },
+          {
+            "id": "ec737c6237cd6ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Areas/1.UC3M/Comp. Dig..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comp. Dig."
+            }
+          },
+          {
+            "id": "7737b96d3105ba95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745246274 - Uso de la biblioteca UC3M"
+            }
+          },
+          {
+            "id": "eb06606226adc170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745247124 - Citas y Referencias.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745247124 - Citas y Referencias"
+            }
+          },
+          {
+            "id": "1033a7ddbc7e9ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745247542 - RefWorks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745247542 - RefWorks"
+            }
+          },
+          {
+            "id": "814a0f7097bdba7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745248684 - Propiedad intelectual.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745248684 - Propiedad intelectual"
+            }
+          },
+          {
+            "id": "391d2847ed8a3de9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6db61ecc1d40f7bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Atomic/1745248836 - Licencia Creative Commons.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1745248836 - Licencia Creative Commons"
             }
           }
         ],
-        "stacked": true
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -51,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745516400 - Madani fuzzy system.md",
+                "file": "02-Atomic/1745248836 - Licencia Creative Commons.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -119,6 +273,13 @@
                         "a": 1,
                         "rgb": 14048348
                       }
+                    },
+                    {
+                      "query": "tag:#Distri  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6149724
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -136,7 +297,34 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745516400 - Madani fuzzy system"
+              "title": "Graph of 1745248836 - Licencia Creative Commons"
+            }
+          },
+          {
+            "id": "29e3a00ba6e74a87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "03da6c1b94246574",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -151,13 +339,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/1745516400 - Madani fuzzy system.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "02-Atomic/1730648938 - Input port processing in routers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1745516400 - Madani fuzzy system"
+              "title": "Outline of 1730827988 - Subnets"
             }
           },
           {
@@ -173,12 +358,12 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "8881aa8c79e29157",
@@ -195,7 +380,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/IA.md",
+                "file": "02-Atomic/Distribuidos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -210,10 +395,69 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IA"
+              "title": "Distribuidos"
+            }
+          },
+          {
+            "id": "bc3593f893b0d72e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Atomic/Distribuidos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Distribuidos"
+            }
+          },
+          {
+            "id": "117b257b966cd7fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-Atomic/Distribuidos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Distribuidos"
+            }
+          },
+          {
+            "id": "2b296c73cecbee5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "25da21c2fca3e858",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "d8523f2fbc4e9acf",
@@ -234,7 +478,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395,
+    "width": 259,
     "collapsed": true
   },
   "left-ribbon": {
@@ -252,8 +496,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "81ba947f6881c8c0",
+  "active": "6db61ecc1d40f7bd",
   "lastOpenFiles": [
+    "02-Atomic/1745600980 - - Untitled Suffix.md",
+    "02-Atomic/1745248836 - Licencia Creative Commons.md",
     "02-Atomic/1745516400 - Madani fuzzy system.md",
     "02-Atomic/1745515714 - Fuzzy rules.md",
     "02-Atomic/1745514024 - Fuzzy sets.md",
@@ -285,7 +531,6 @@
     "02-Atomic/1745500044 - Random variables.md",
     "99-Meta/1. Templates/NoteTemplate.md",
     "02-Atomic/1745501051 - Conditional distribution.md",
-    "02-Atomic/1745500070 - - Untitled Suffix.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "01-Areas/3.Scout",
     "00-References/Filo_Biblio_APlatoReader.pdf",
