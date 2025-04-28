@@ -255,8 +255,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7fc23b5bc0cd71b0",
+  "active": "9933ffd3bb96ff01",
   "lastOpenFiles": [
+    "02-Atomic/1745873449 - Sometitle.md",
+    "02-Atomic/The Laplace transform.md",
+    "01-Areas/1.UC3M/DiffCalc.md",
     "99-Meta/1. Templates/NoteFolderTemplate.md",
     "99-Meta/1. Templates/NoteTemplate.md",
     "99-Meta/1. Templates",
@@ -288,7 +291,6 @@
     "02-Atomic/1745865053-PLHW.md",
     "00-References/DiffCalc_Exercises_All_ExamExercises.pdf",
     "00-References/DiffCalc_Exercises_S1.pdf",
-    "02-Atomic/The Laplace transform.md",
     "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
     "02-Atomic/20240528 - 110528 - Separable ODEs.md",
@@ -298,8 +300,6 @@
     "02-Atomic/20240603 - 171608 - Trigonometric relations.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "02-Atomic/20240307 - 000000 - ODEs.md",
-    "01-Areas/1.UC3M/DiffCalc.md",
-    "02-Atomic/1745248836 - Licencia Creative Commons.md",
     "01-Areas/3.Scout",
     "00-References/Filo_Biblio_APlatoReader.pdf",
     "02-Atomic/nvim",
