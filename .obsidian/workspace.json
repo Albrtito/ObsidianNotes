@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "373e5a52fd843a08",
+        "id": "10b0575a715cf807",
         "type": "tabs",
         "children": [
           {
-            "id": "7726b0cfc5bd651a",
+            "id": "6b97c4432b4c2b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/3.Scout/GS Matterhorn.md",
+                "file": "02-Atomic/The Laplace transform.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,131 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GS Matterhorn"
+              "title": "The Laplace transform"
             }
           },
           {
-            "id": "ec737c6237cd6ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Areas/1.UC3M/Comp. Dig..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Comp. Dig."
-            }
-          },
-          {
-            "id": "7737b96d3105ba95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745246274 - Uso de la biblioteca UC3M.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745246274 - Uso de la biblioteca UC3M"
-            }
-          },
-          {
-            "id": "eb06606226adc170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745247124 - Citas y Referencias.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745247124 - Citas y Referencias"
-            }
-          },
-          {
-            "id": "1033a7ddbc7e9ff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745247542 - RefWorks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745247542 - RefWorks"
-            }
-          },
-          {
-            "id": "814a0f7097bdba7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745248684 - Propiedad intelectual.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745248684 - Propiedad intelectual"
-            }
-          },
-          {
-            "id": "391d2847ed8a3de9",
+            "id": "9933ffd3bb96ff01",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,33 +40,10 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "6db61ecc1d40f7bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/1745248836 - Licencia Creative Commons.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1745248836 - Licencia Creative Commons"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -205,7 +62,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1745248836 - Licencia Creative Commons.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,13 +129,6 @@
                         "a": 1,
                         "rgb": 14048348
                       }
-                    },
-                    {
-                      "query": "tag:#Distri  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6149724
-                      }
                     }
                   ],
                   "collapse-display": true,
@@ -297,34 +146,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1745248836 - Licencia Creative Commons"
-            }
-          },
-          {
-            "id": "29e3a00ba6e74a87",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "03da6c1b94246574",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Graph view"
             }
           }
         ]
@@ -370,17 +192,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5997a5c0c99a8696",
+        "id": "6aafbc4db9406f11",
         "type": "tabs",
-        "dimension": 63.45609065155807,
         "children": [
           {
-            "id": "2dca472e18c0e06a",
+            "id": "7fc23b5bc0cd71b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/Distribuidos.md",
+                "file": "01-Areas/1.UC3M/DiffCalc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -395,91 +216,14 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Distribuidos"
-            }
-          },
-          {
-            "id": "bc3593f893b0d72e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02-Atomic/Distribuidos.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Distribuidos"
-            }
-          },
-          {
-            "id": "117b257b966cd7fb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02-Atomic/Distribuidos.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Distribuidos"
-            }
-          },
-          {
-            "id": "2b296c73cecbee5e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "25da21c2fca3e858",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "d8523f2fbc4e9acf",
-        "type": "tabs",
-        "dimension": 36.54390934844192,
-        "children": [
-          {
-            "id": "1087055cabadd75b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "DiffCalc"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 259,
-    "collapsed": true
+    "width": 395
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -496,10 +240,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6db61ecc1d40f7bd",
+  "active": "9933ffd3bb96ff01",
   "lastOpenFiles": [
-    "02-Atomic/1745600980 - - Untitled Suffix.md",
+    "02-Atomic/The Laplace transform.md",
+    "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
+    "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
+    "02-Atomic/20240528 - 110528 - Separable ODEs.md",
+    "02-Atomic/20240529 - 162512 - First order exact ODE.md",
+    "02-Atomic/20240529 - 180146 - First order, homogeneous, substitutions ODEs.md",
+    "02-Atomic/Order 2 linear ODE's.md",
+    "02-Atomic/20240603 - 171608 - Trigonometric relations.md",
+    "00-References/References_Derivatives&Integrals.pdf",
+    "02-Atomic/20240307 - 000000 - ODEs.md",
+    "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/1745248836 - Licencia Creative Commons.md",
+    "02-Atomic/1745600980 - - Untitled Suffix.md",
     "02-Atomic/1745516400 - Madani fuzzy system.md",
     "02-Atomic/1745515714 - Fuzzy rules.md",
     "02-Atomic/1745514024 - Fuzzy sets.md",
@@ -514,24 +269,13 @@
     "02-Atomic/1745507844 - Conditional independence.md",
     "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
     "02-Atomic/1745499861 - Probabilities.md",
-    "02-Atomic/1745499420 - Uncertainty.md",
-    "02-Atomic/IA.md",
-    "02-Atomic/1745516082 - Fuzzy systems.md",
     "99-Meta/0. Attachments/1745516400 - Madani fuzzy systemj-2.png",
     "99-Meta/0. Attachments/1745516400 - Madani fuzzy systemj-1.png",
     "99-Meta/0. Attachments/1745516400 - Madani fuzzy systemj.png",
-    "02-Atomic/1745499725 - Fuzzy logic.md",
     "99-Meta/0. Attachments/1745516082 - Fuzzy systemsj.png",
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj-2.png",
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj-1.png",
     "99-Meta/0. Attachments/1745512462 - Fuzzy logicj.png",
-    "02-Atomic/1732190592 - FIFO.md",
-    "02-Atomic/1732112181 - Algorithm - Primero en amplitud.md",
-    "02-Atomic/1745501224 - Theorem - Conditional probability.md",
-    "02-Atomic/1745500044 - Random variables.md",
-    "99-Meta/1. Templates/NoteTemplate.md",
-    "02-Atomic/1745501051 - Conditional distribution.md",
-    "00-References/References_Derivatives&Integrals.pdf",
     "01-Areas/3.Scout",
     "00-References/Filo_Biblio_APlatoReader.pdf",
     "02-Atomic/nvim",
