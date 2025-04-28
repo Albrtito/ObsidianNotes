@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Integration by parts
-tags:
-  - DiffCalc
-"References:": 
-cssclasses:
+id: 20240529 - 132751 - Method -Integration by parts
+aliases: []
+tags: []
 ---
 Integration by parts is a method used to integrate expressions for which there is no possible substitution. 
 The method realises a conversion in the following way: 
@@ -20,4 +17,5 @@ $$
 $$
 \int x e^x dx 
 $$
-Its going to be integration by parts 
+Its going to be integration by parts
+

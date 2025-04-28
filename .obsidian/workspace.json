@@ -35,12 +35,24 @@
             "id": "9933ffd3bb96ff01",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00-References/DiffCalc_Exercises_All_ExamExercises.pdf"
+                "file": "01-Areas/1.UC3M/DiffCalc.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "DiffCalc_Exercises_All_ExamExercises"
+              "icon": "lucide-file",
+              "title": "DiffCalc"
             }
           }
         ],
@@ -64,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-References/DiffCalc_Exercises_All_ExamExercises.pdf",
+                "file": "01-Areas/1.UC3M/DiffCalc.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +161,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of DiffCalc_Exercises_All_ExamExercises"
+              "title": "Graph of DiffCalc"
             }
           }
         ]
@@ -245,6 +257,7 @@
   },
   "active": "9933ffd3bb96ff01",
   "lastOpenFiles": [
+    "00-References/DiffCalc_Exercises_All_ExamExercises.pdf",
     "00-References/DiffCalc_Exercises_S1.pdf",
     "02-Atomic/The Laplace transform.md",
     "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
@@ -290,7 +303,6 @@
     "00-References/C_Guia.pdf",
     "00-References/Files_Theory_Ch1_IntroToDB.pdf",
     "00-References/OS_Theory_Concurrent-Servers.pdf",
-    "00-References/IA_Biblio_Russell_Norvig.pdf",
     "01-Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01 - Areas/2. HTB/HTB_Linux Fundamentals.canvas",
     "01.Areas/1.UC3M/Movilidad.canvas",
