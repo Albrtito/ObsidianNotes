@@ -1,10 +1,9 @@
 ---
+id: Filo 101
 aliases:
   - Filo 101
 tags:
   - Filo
-References: 
-cssclasses:
 ---
 # Filo 101
 
@@ -29,6 +28,7 @@ cssclasses:
 ## Biblio:
 + La bibliografía general se irá subiendo a aula global 
   One reading per week.
+
 	+ Allegory of the cavern, Plato, The Republic, Book VII: [[Filo_Biblio_APlatoReader.pdf]]
 
 + **General recommendation:** Nigel Warburton, Philosophy. The Classics, Routledge, London 1998
