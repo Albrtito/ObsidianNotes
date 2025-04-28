@@ -1,4 +1,6 @@
 ---
+id: Empresa
+aliases: []
 tags:
   - Empresa
 ---
@@ -40,4 +42,5 @@ tags:
 1. [[1726071498 - Práctica - Elevator pitch|Práctica - Elevator pitch]]
 2. [[1727112501 - Practica - Análisis MAPFRE|Practica - Análisis MAPFRE]]
 3. [[1729076642 - Practica - Ejercicios de rantabilidades y apalancamiento financiero|Practica - Ejercicios de rantabilidades y apalancamiento financiero]]
+
 
