@@ -1,13 +1,12 @@
 ---
+id: 1725910842 - Definition - Empresa
 aliases:
   - Definition - Empresa
 tags:
   - Empresa
-References: 
-cssclasses: 
-sr-due: 2025-03-16
-sr-interval: 117
+sr-due: "2025-03-16"
 sr-ease: 250
+sr-interval: 117
 ---
 # Definition - Empresa
 > [!NOTE] Empresa
