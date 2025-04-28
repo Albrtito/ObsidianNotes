@@ -35,10 +35,12 @@
             "id": "9933ffd3bb96ff01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "00-References/DiffCalc_Exercises_All_ExamExercises.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DiffCalc_Exercises_All_ExamExercises"
             }
           }
         ],
@@ -62,6 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00-References/DiffCalc_Exercises_All_ExamExercises.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +149,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of DiffCalc_Exercises_All_ExamExercises"
             }
           }
         ]
@@ -242,6 +245,7 @@
   },
   "active": "9933ffd3bb96ff01",
   "lastOpenFiles": [
+    "00-References/DiffCalc_Exercises_S1.pdf",
     "02-Atomic/The Laplace transform.md",
     "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
     "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
@@ -268,7 +272,6 @@
     "02-Atomic/1745503400 - Probability product rule.md",
     "02-Atomic/1745507844 - Conditional independence.md",
     "02-Atomic/1745501401 - Theorem - Total probabilty theorem.md",
-    "02-Atomic/1745499861 - Probabilities.md",
     "99-Meta/0. Attachments/1745516400 - Madani fuzzy systemj-2.png",
     "99-Meta/0. Attachments/1745516400 - Madani fuzzy systemj-1.png",
     "99-Meta/0. Attachments/1745516400 - Madani fuzzy systemj.png",
