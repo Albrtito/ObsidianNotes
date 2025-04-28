@@ -1,19 +1,18 @@
 ---
+id: 1725910455 - El valor añadido de una empresa
 aliases:
   - Valor añadido de una empresa
 tags:
   - Empresa
-References: 
-cssclasses: 
-sr-due: 2025-01-31
-sr-interval: 109
+sr-due: "2025-01-31"
 sr-ease: 290
+sr-interval: 109
 ---
 # El valor añadido de una empresa
 Al realizar una actividad empresarial, cualquier empresa tiene la capacidad de generar valor añadido. Esto es un sinónimo de crear/generar riqueza.
 
 > [!attention] 
-> > IDEA: **Crear riqueza a través del valor añadido**
+> IDEA: **Crear riqueza a través del valor añadido**
 
 Llamamos valor añadido de la empresa a la diferencia entre el coste inicial la materia prima/capital invertido y la ganancia final obtenida. 
 
