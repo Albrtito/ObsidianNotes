@@ -1,15 +1,14 @@
 ---
+id: 1729682380 - El patrimonio neto de una empresa
 aliases:
   - El patrimonio neto de una empresa
   - El patrimonio neto
   - Patrimonio neto
 tags:
   - Empresa
-References: 
-cssclasses: 
-sr-due: 2024-12-07
-sr-interval: 18
+sr-due: "2024-12-07"
 sr-ease: 230
+sr-interval: 18
 ---
 # El patrimonio neto de una empresa
 
