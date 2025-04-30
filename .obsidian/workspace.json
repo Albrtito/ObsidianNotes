@@ -56,7 +56,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -76,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-Areas/1.UC3M/DiffCalc.md",
+                "file": "02-Atomic/The Laplace transform.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +160,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of DiffCalc"
+              "title": "Graph of The Laplace transform"
             }
           }
         ]
@@ -255,11 +254,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9933ffd3bb96ff01",
+  "active": "6b97c4432b4c2b29",
   "lastOpenFiles": [
+    "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/1745873449 - Sometitle.md",
     "02-Atomic/The Laplace transform.md",
-    "01-Areas/1.UC3M/DiffCalc.md",
     "99-Meta/1. Templates/NoteFolderTemplate.md",
     "99-Meta/1. Templates/NoteTemplate.md",
     "99-Meta/1. Templates",
