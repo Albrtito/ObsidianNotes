@@ -18,7 +18,7 @@ $$
 $$
 
 **Remarks:**
-+ f is the function to be transformed (input)
+========+ f is the function to be transformed (input)
 + F(s) is the output of the transformation. What is called Laplace transform
 + s is the variable on which the new function depends on. (Parameter of the transform)
 + $e^{-st}$ is called **kernel**
