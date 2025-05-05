@@ -27,4 +27,4 @@ Hacer una visita se plantea para solucionar temas logísticos, pero también se 
 - [[GS Matterhorn]]
 
 ### Down:
-- [[Picos 
+- [[[1746469377-picos-escultas--clan-2025|Picos escultas + clan 2025]]
