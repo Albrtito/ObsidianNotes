@@ -1,11 +1,8 @@
 ---
-Date: 2024-03-19
+id: Monotonicity of sequences
+aliases: []
 tags:
-  - CalcI
-"References:": 
-sr-due: 2024-11-18
-sr-interval: 230
-sr-ease: 310
+  - "-CalcI"
 ---
 Monotonicity defines how the sequence changes when increasing the value of n. A sequence may grow with time with some constant rate, or maybe it changes between growth and decreasing. 
 ![Definition - Monotone increasing and decreasing](Definition%20-%20Monotone%20increasing%20and%20decreasing.md)

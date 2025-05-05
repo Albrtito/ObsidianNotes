@@ -1,7 +1,8 @@
 ---
 id: DiffCalc
 aliases: []
-tags: []
+tags:
+  - DiffCalc
 ---
 # DiffCalc Course: 
 

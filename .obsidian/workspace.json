@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/The Laplace transform.md",
+                "file": "02-Atomic/Theorem 3  Monotonicity + Boundedness = Convergence?.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Laplace transform"
+              "title": "Theorem 3  Monotonicity + Boundedness = Convergence?"
             }
           },
           {
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/The Laplace transform.md",
+                "file": "02-Atomic/Theorem 3  Monotonicity + Boundedness = Convergence?.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Laplace transform"
+              "title": "Graph of Theorem 3  Monotonicity + Boundedness = Convergence?"
             }
           },
           {
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Atomic/The Laplace transform.md",
+                "file": "02-Atomic/Theorem 3  Monotonicity + Boundedness = Convergence?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Laplace transform"
+              "title": "Backlinks for Theorem 3  Monotonicity + Boundedness = Convergence?"
             }
           },
           {
@@ -285,12 +285,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Atomic/The Laplace transform.md",
+                "file": "02-Atomic/Theorem 3  Monotonicity + Boundedness = Convergence?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Laplace transform"
+              "title": "Outgoing links from Theorem 3  Monotonicity + Boundedness = Convergence?"
             }
           },
           {
@@ -342,8 +342,8 @@
   },
   "active": "6b97c4432b4c2b29",
   "lastOpenFiles": [
-    "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/The Laplace transform.md",
+    "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/1746013846-gastos-abril.md",
     "02-Atomic/1745873449 - Sometitle.md",
     "99-Meta/1. Templates/NoteFolderTemplate.md",
