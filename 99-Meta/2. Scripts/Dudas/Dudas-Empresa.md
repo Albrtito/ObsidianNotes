@@ -1,3 +1,9 @@
+---
+id: Dudas-Empresa
+aliases: []
+tags: []
+---
+
 # Dudas Empresa
 
 > [!duda] Duda 1
@@ -6,7 +12,7 @@
 
 > [!check] Solución 1
 > 
-
+[[Empresa]]
 > [!duda] Duda 2
 >  En una SA los socios no podrían realizar trabajo? Los socios no son los que tienen las acciones? Serían entonces los socios los organizativos y los accionistas otros diferentes?
 > Encontrada en: [[1732217814 - Practica - Plan de Empresa - 3.Definir la empresa]]

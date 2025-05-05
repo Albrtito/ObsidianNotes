@@ -1,11 +1,7 @@
 ---
-aliases:
-  - DiffCalc
-  - Calculus III
-tags:
-  - DiffCalc
-"References:": 
-cssclasses:
+id: DiffCalc
+aliases: []
+tags: []
 ---
 # DiffCalc Course: 
 

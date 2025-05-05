@@ -1,4 +1,6 @@
 ---
+id: Order 2 linear ODE's
+aliases: []
 tags:
   - DiffCalc
 ---

@@ -1,3 +1,9 @@
+---
+id: Theorem syst,first order, linear ODE
+aliases: []
+tags: []
+---
+
 
 > [!NOTE] Theorem
 > Let $X^1,...,X^n$ be n solutions of a system of first order linear ODEs such that $detX(t) \not = 0$ , for some $t \in I$, where: 
@@ -13,3 +19,4 @@
 + The family of sol. given by $c_1x^1+ ...+ c_nx^n (c_1,..., c_n \in \mathbb{R})$ includes **all** sol. of the system. (**general solution**)
 + {$x^1,...,x^n$} is a fundamental set of sol. (in I)
 + 
+

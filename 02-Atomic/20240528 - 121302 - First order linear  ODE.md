@@ -1,13 +1,7 @@
 ---
-aliases:
-  - First order linear ODE
-tags:
-  - DiffCalc
-"References:": 
-cssclasses: 
-sr-due: 2024-10-22
-sr-interval: 14
-sr-ease: 190
+id: 20240528 - 121302 - First order linear  ODE
+aliases: []
+tags: []
 ---
 # First order linear ODE 
 

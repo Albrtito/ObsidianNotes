@@ -1,9 +1,8 @@
 ---
+id: 1744914534 - Contrato de estudios islandia
 aliases:
   - Contrato de estudios islandia
-tags:
-References:
-cssclasses:
+tags: []
 ---
 # Contrato de estudios islandia
 > [!NOTE] Info básica: 
