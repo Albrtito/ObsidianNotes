@@ -15,12 +15,16 @@ Hacer una visita se plantea para solucionar temas logísticos, pero también se 
 - La **visita** debería de ser para 17-18 de mayo, según cordi
 - La **ruta** tiene que estar para el domingo 11 de mayo
     - Las unidades mayores lo tendrán para esta fecha y la tropa/unidades pequeñas tienen que intentarlo también para ver si es realista que lo trabajen.
+- Los **contactos** son para el 18 de mayo, hay que contactar la semana del 12 de mayo.
+
 
 ## Cosas a tener en cuenta:
 - Hay que mirarse las legislaciones para saber como es lo de dormir haciendo bivac, tiendas u otros casos. Teniendo en cuenta que los permisos cambian según el número de personas que son. 
 - Tenemos que ponernos de acuerdo entre unidades para saber que cuando coincidimos durmiendo en el mismo sitio no somos demasiados. 
 
-
 ***
-## Up:
+### Up:
 - [[GS Matterhorn]]
+
+### Down:
+- [[Picos 
