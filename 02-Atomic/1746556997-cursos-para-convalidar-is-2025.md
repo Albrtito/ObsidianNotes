@@ -27,19 +27,19 @@ Para la presentación de cursos a convalidar hay que tener en cuenta que los cur
 
 **Cursos obligatorios cuarto:**
 
-1. Arquitectura de datos 
+- [x] 1. Arquitectura de datos 
     - 6 ECTS
-2. Dirección de proyectos de desarrollo de software
+- [ ] 2. Dirección de proyectos de desarrollo de software
     - 6 ECTS
-3. Ingeniería  de la ciberseguridad
+- [x] 3. Ingeniería  de la ciberseguridad
     - 6 ECTS
-4. Redes de neuronas artificiales
+- [x] 4. Redes de neuronas artificiales 
     - 6 ECTS
-5. Habilidades profesionales interpersonales 
+- [x] 5. Habilidades profesionales interpersonales 
     - 3 ECTS
-6. Desarrollo y operacion de sistemas software
+- [x] 6. Desarrollo y operacion de sistemas software
     - 6 ECTS
-7. Fundamentos de internet de las cosas 
+- [x] 7. Fundamentos de internet de las cosas 
     - 6 ECTS
 
 
@@ -58,12 +58,13 @@ Para la presentación de cursos a convalidar hay que tener en cuenta que los cur
 **Optativas cuarto: (aprox 9 ECTS)**
 1. Programación concurrente y paralela
     - 6 ECTS
-2. 
+2. Tecnologías para la privacidad
+    - 3 ECTS
 
 | Nombre | Convalidación | Convalidación Raul| Créditos | Cuatri | 3 Week?|
 | ------------- | -------------- | -------------- |-------------- |-------------- |-------------- |
 |1 | Advanced topics in Distributed Systems - 6 ECTS |  |6 | 1|YES |
-|1 |Computer Security: Defence Agains the Dark Arts | |8 |1 | ?|
+|2 |Computer Security: Defence Agains the Dark Arts | |8 |1 | ?|
 |1| Game Engine Architecture - 6 ECTS| |6 |2 | NO|
 | | Virtual enviroments | | 8| 1| NO|
 |1  | Cyberwarfare and Criminality | |6 |1 | NO |
