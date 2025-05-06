@@ -1,7 +1,8 @@
 ---
 id: Convolution product
-aliases: []
-tags: []
+aliases: 
+tags:
+  - DiffCalc
 ---
 # Intro: 
 Suppose that we've the [The Laplace transform](The%20Laplace%20transform.md) H(s) = $\zeta\{h(t)\}$ , with H(s) = F(s) G(s) where F(s) = $\zeta\{f(t)\}, G(s) = \zeta\{g(t)\}$ (f,g known)

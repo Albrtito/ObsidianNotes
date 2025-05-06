@@ -1,6 +1,7 @@
 ---
 id: 20240529 - 132751 - Method -Integration by parts
-aliases: []
+aliases:
+  - Method-Integration-by-parts
 tags: []
 ---
 Integration by parts is a method used to integrate expressions for which there is no possible substitution. 
