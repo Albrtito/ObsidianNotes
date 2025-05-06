@@ -22,6 +22,7 @@ tags: []
 + Las asignaturas suspendidas en el primer cuatri no se pueden poner. **NO se pueden poner asignaturas de las que estes matriculados en el curso actual**
 	+ Esto se puede hacer pero toca esperarse al periodo de cambios. 
 
+
 ## Selección de cursos: 
 
 > [!attention] Todavía no: 
