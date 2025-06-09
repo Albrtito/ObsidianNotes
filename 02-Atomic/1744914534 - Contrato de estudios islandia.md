@@ -35,4 +35,7 @@ tags: []
 >Para seleccionar asignaturas de master hacen falta 180 → Al final de este cuatri solo tendré 150
 > (**EXCEPTION FOR CS STUDENTS**)
 
+### Down
+- [[1746556997-cursos-para-convalidar-is-2025|Cursos para convalidar IS 2025]]
+
 ***

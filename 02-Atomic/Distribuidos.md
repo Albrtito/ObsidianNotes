@@ -1,10 +1,10 @@
 ---
+id: Distribuidos
 aliases:
   - Distribuidos
+  - Distri
 tags:
   - Distri
-References: 
-cssclasses:
 ---
 # Distribuidos
 
@@ -51,7 +51,8 @@ Para esta asignatura el [github de caldero](https://github.com/acaldero/uc3m_sd/
 ## Notas:
 + [[1739203641 - Comunicación y sincronización entre procesos|Comunicación y sincronización entre procesos]]
 + [[1742832943 - Llamadas a procedimientos remotos|Llamadas a procedimientos remotos]]
-+ 
++ [[1747756642-sistema-tolerante-a-fallos|Sistema tolerante a fallos]]
+- [[1747918319-diseo-de-un-sistema-distribuido|Diseño de un sistema distribuido]]
 ## Ejercicios:
 
 

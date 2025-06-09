@@ -44,10 +44,5 @@ cssclasses:
 
 ## Ejercicios:
 
-```sql
-create table mytable;
-someattribute varchar2(49)
-;
-```
 
 ***

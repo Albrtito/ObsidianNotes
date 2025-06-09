@@ -41,6 +41,11 @@ Para la presentación de cursos a convalidar hay que tener en cuenta que los cur
     - 6 ECTS
 - [x] 7. Fundamentos de internet de las cosas 
     - 6 ECTS
+- [x] 8. Inteligencia Artificial en las organizaciones
+    - 6 ECTS
+
+
+
 
 
 
@@ -72,4 +77,6 @@ Para la presentación de cursos a convalidar hay que tener en cuenta que los cur
 
 
 
+### Up: 
+- [[1744914534 - Contrato de estudios islandia|Contrato de estudios islandia]]
 

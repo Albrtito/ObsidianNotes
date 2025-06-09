@@ -11,12 +11,24 @@
             "id": "1fb8f621d6c2b820",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "1743085545 - Reu con TAI para Islandia"
             }
           }
         ],
@@ -39,6 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +136,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1743085545 - Reu con TAI para Islandia"
             }
           },
           {
@@ -287,8 +300,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -300,9 +313,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "ca33246054361f46",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -323,7 +346,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f3067cd3173d0228",
+  "active": "1fb8f621d6c2b820",
   "lastOpenFiles": [
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/20240529 - 132751 - Method -Integration by parts.md",

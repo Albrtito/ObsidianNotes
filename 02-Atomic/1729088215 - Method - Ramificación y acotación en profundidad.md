@@ -1,13 +1,12 @@
 ---
+id: 1729088215 - Method - Ramificación y acotación en profundidad
 aliases:
   - Method - Ramificación y acotación en profundidad
 tags:
   - Heuri
-References: 
-cssclasses: 
-sr-due: 2025-01-14
-sr-interval: 56
+sr-due: "2025-01-14"
 sr-ease: 232
+sr-interval: 56
 ---
 # Method - Ramificación y acotación en profundidad
 
@@ -21,10 +20,9 @@ Cuando tenemos que resolver un problmea lineal buscando únicamente números ent
 + Inicializamos la variable B (valor de la función objetivo en la solución encontrada) a $-\infty$
 
 1. Se resuelve el simplex para la región, esperando que alguna solución de las que tengamos sea entera. 
-   + **Si $x^* \in \mathbb{N}$, HALT
-2. En el caso de que la solución factible no sea entera, reducimos el conjunto factible a dos subconjuntos. La división la hacemos sobre una de las variables → Aquí hay varios métodos para hacerlo.  
+   + **Si $x^* \in \mathbb{N}$, HALT**
+2. En el caso de que la solución factible no sea entera, reducimos el conjunto factible a dos subconjuntos. La división la hacemos sobre una de las variables → Aquí hay varios métodos para hacerlo.   
    Esto **ramifica y va creando un grafo con el resultado por simplex para las subregiones creadas**
-   **
    
 3. Volvemos a calcular el simplex en **cada uno de los conjuntos, esto lo hacemos por profundidad** y vemos si alguno de ellos es entero. 
    
