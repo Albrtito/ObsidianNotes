@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
+                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1743085545 - Reu con TAI para Islandia"
+              "title": "Heuristica y Opti"
             }
           }
         ],
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
+                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1743085545 - Reu con TAI para Islandia"
+              "title": "Graph of Heuristica y Opti"
             }
           },
           {
@@ -310,8 +310,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -323,9 +323,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "f463fee3d1a5645f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -348,6 +358,10 @@
   },
   "active": "1fb8f621d6c2b820",
   "lastOpenFiles": [
+    "02-Atomic/1726763938 - Exercises - Programación Lineal.md",
+    "02-Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
+    "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/20240529 - 132751 - Method -Integration by parts.md",
     "02-Atomic/The Laplace transform.md",
@@ -384,12 +398,8 @@
     "02-Atomic/1745868159-testnotes.md",
     "01-Areas/1.UC3M/1745865808-definition-la-empresa.md",
     "01-Areas/1.UC3M/1745865785-definition-la-empresa.md",
-    "02-Atomic/1745865300-testtitle.md",
-    "02-Atomic/1745865053-PLHW.md",
     "00-References/DiffCalc_Exercises_All_ExamExercises.pdf",
     "00-References/DiffCalc_Exercises_S1.pdf",
-    "02-Atomic/20240208 - 000000 - Definition - Differential Equations.md",
-    "02-Atomic/20240528 - 121302 - First order linear  ODE.md",
     "00-References/References_Derivatives&Integrals.pdf",
     "01-Areas/3.Scout",
     "00-References/Filo_Biblio_APlatoReader.pdf",

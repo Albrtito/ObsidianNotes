@@ -1,13 +1,12 @@
 ---
+id: 1728936738 - Sistemas de produccion en masa
 aliases:
   - Sistemas de produccion en masa
 tags:
   - Empresa
-References: 
-cssclasses: 
-sr-due: 2024-12-18
-sr-interval: 29
+sr-due: "2024-12-18"
 sr-ease: 190
+sr-interval: 29
 ---
 # Sistemas de produccion en masa
 
@@ -30,6 +29,7 @@ Esto conlleva las siguientes características:
 + Poco tiempo de producción
 + Poca dificultad de trabajo
 + ==Facilita la sustitución de trabajadores==
+
 ==**CONS:**==
 + Los trabajadores no saben na
 + Posibles problemas fisico-mentales en los que trabajan → aburrimiento,insatisfacción, desmotivación. (Quien quiere estar todo el rato haciendo lo mismo?)

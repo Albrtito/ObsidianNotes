@@ -1,7 +1,8 @@
 ---
-tags:
-  - Heuri
+id: Heuristica y Opti
 aliases:
+  - Heuri
+tags:
   - Heuri
 ---
 # Heuristica y Opti
@@ -39,9 +40,13 @@ aliases:
 - Novo Sanjurjo, Vicente J.. Optimización: casos prácticos. Universidad Nacional de Educación a Distancia. 2000
 - Sixto Ríos Insua. Investigación Operativa. Optimización. Centro de estudios Ramón Areces. 1988
 + Marek V. Intro to logic mathematics of satisfability:[[HyO_Biblio_Marek V. Introduction to mathematics of satisfiability.pdf]]
+
 ### Problemas propuestos: 
+
 + [[Heuri_Resources_Problemas.pdf]]
+
 ## Notas: 
+
 + [[1726825216 - Programación Dinámica|Programación Dinámica]]
 + [[1726759457 - Programación Lineal|Programación Lineal]]
 + [[1730297192 - Problemas de satisfabilidad Lógica|Satisfacibilidad Lógica]]
@@ -49,10 +54,12 @@ aliases:
 + [[1731507348 - Problemas de busqueda|Problemas de búsqueda]]
 
 ## Ejercicios: 
+
 + [[1726763938 - Exercises - Programación Lineal|Ejercicios programación lineal]]
 	+ [[1728047794 - Ejemplos SIMPLEX|Ejemplos SIMPLEX]]
 + [[1730997423 - Exercises - Satisfabilidad|Ejercicios satisfabilidad]]
 
 ## Prácticas: 
+
 + [[1727969475 - Practica - Primera practica Heuristica|Primera práctica heuristica]]
 + [[1730996237 - Practica - Segunda práctica heuristica|Segunda practia heuristica]]

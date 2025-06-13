@@ -1,13 +1,12 @@
 ---
+id: 1728936361 - Sistemas de produccion flexibles
 aliases:
   - Sistemas de produccion flexibles
 tags:
   - Empresa
-References: 
-cssclasses: 
-sr-due: 2024-12-27
-sr-interval: 20
+sr-due: "2024-12-27"
 sr-ease: 170
+sr-interval: 20
 ---
 # Sistemas de produccion flexibles
 
@@ -26,6 +25,7 @@ Esto conlleva las siguientes características:
 + **Cualificación**: Alta y Polivalente, se necesita del trabajo en equipo
 + **Maquinaria:** De uso general 
 + **Costes variables:** Altos 
++ **Planificación**: Más facil que la de por proyectos porque se suele hacer el mismo tipo de trabajo constantemente. 
 
 
 ## Distribución en planta: Funcional o por procesos:
@@ -42,7 +42,7 @@ La disposición en planta agrupa zonas en las que esta toda la maquinaria necesa
 
 **CONS:**
 + Distancia entre funciones
-+ Desperdicios de transported
++ Desperdicios de transporte entre zonas
 + No hay un flujo entre zonas 
 + Alto nivel de todo, no se busca la optimización de los materiales
 

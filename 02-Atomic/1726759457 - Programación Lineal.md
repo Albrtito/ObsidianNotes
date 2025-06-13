@@ -1,13 +1,12 @@
 ---
+id: 1726759457 - Programación Lineal
 aliases:
   - Programación Lineal
 tags:
   - Heuri
-References: 
-cssclasses: 
-sr-due: 2025-03-05
-sr-interval: 109
+sr-due: "2025-03-05"
 sr-ease: 272
+sr-interval: 109
 ---
 # Programación Lineal
 
@@ -63,20 +62,24 @@ Según la forma en la que se exprese la función y las restricciones podemos rep
 Para transformar el problema a forma canónica/estandar, utilizamos las siguientes transformaciones:
 
 + Para convertir una función de minimización en otra de maximización **multiplicamos por -1**
+
 $$
 \min z = c^TX \triangleq \max z' = -c^TX
-$$[^1]
+$$
 
+[^1]
 
 + Cambiar de signo al vector de recursos es lo mismo que multiplicar por -1. Lo que le da la vuelta a la inequality.
 + Para convertir una igualdad en desigualdad debemos de **introducir una variable de holgura** (sumando o restando).
+
 $$
 \begin{gather}
 \sum_{j=1}^{n}a_{ij}x_j \leq b_i  \triangleq \sum_{j=1}^{n}a_{ij}x_j + s_i = b_i\\
 \sum_{j=1}^{n}a_{ij}x_j \geq b_i  \triangleq \sum_{j=1}^{n}a_{ij}x_j - s_i = b_i\\
 \end{gather}
 $$
-	+ $s_i$ es una **variable más**: Normalmente no pondremos s sino $x_i$ donde i será la siguiente variable usable. 
+
++ $s_i$ es una **variable más**: Normalmente no pondremos s sino $x_i$ donde i será la siguiente variable usable. 
 
 + Si una variable de decisión $x_i$ **puede tomar valores negativos** se pone entonces como la diferencia de dos variables no negativas restringidas: 
 
@@ -86,8 +89,11 @@ $$
 + Para modelar una condicion condicional usamos el siguiente [[1727968107 - Expresiones condicionales en programación lineal|método]].
 
 + Para convertir una restricción definida por un igual en otras definidas a partir de inequaciones realizamos la siguiente transformación:
-  $$\sum_{j=1}^na_{ij}x_j=b_i \Rightarrow $$
-  $$\begin{gather}
+  
+$$\sum_{j=1}^na_{ij}x_j=b_i \Rightarrow $$
+
+$$
+\begin{gather}
 \sum_{j=1}^na_{ij}x_j\leq b_i\\-\sum_{j=1}^na_{ij}x_j\leq-b_i
 \end{gather}
 $$

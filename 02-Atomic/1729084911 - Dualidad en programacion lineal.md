@@ -1,13 +1,12 @@
 ---
+id: 1729084911 - Dualidad en programacion lineal
 aliases:
   - Dualidad en programacion lineal
 tags:
   - Heuri
-References: 
-cssclasses: 
-sr-due: 2024-12-25
-sr-interval: 18
+sr-due: "2024-12-25"
 sr-ease: 174
+sr-interval: 18
 ---
 # Dualidad en programacion lineal
 Existe algún problema en programación lineal relacionado directamente con el problema que se esta intentando resolver. 
@@ -20,7 +19,7 @@ Entonces podemos definir la **forma dual de un problema de programación lineal 
 
 
 > [!ATTENTION] Examen: 
-> + En los examenes se suele pedir esto como ==**la contribución por unidad de recurso de la función objetivo**==
+> + En los examenes se suele pedir esto como **la contribución por unidad de recurso de la función objetivo**
 >   
 > + Cuando en examen se pregunta por un análisis de estos problemas (y en general para dar un informe de un problema de este estilo) se han de dar indiscutiblemente las siguientes respuestas: [[1729087121 - Creación de informes en programación lineal|Creación de informes en programación lineal]]
 >   
@@ -29,6 +28,7 @@ Entonces podemos definir la **forma dual de un problema de programación lineal 
 + Las inequaciones cambian de lado (menor o igual a mayor o igual)
 + Se transpone la matriz de coeficientes
 + Se cambia el vector de coeficientes de la función objetivo por el vector de recursos
+
 **Remarks:**
  + El valor de la inecuación diciendo que los valores de las variables no pueden ser negativos no cambiaría pues es el único que debe de seguir cumpliéndose siempre.
 
@@ -76,8 +76,9 @@ x_1'+ 2x_2' + 3x_3' - x_4' \geq -2 \\
 
 
 **Remarks:**
-+ Si el primal tiene una solución correspondiente a la base B, entonces $$x’^{*^T} = C_B^t B^-$$
-  Esto quiere decir que no hace falta que recalculemos todo, al estar unidos podemos obtener directamente el problema.La solución del dual se calcula directamente desde la solución del primal.
++ Si el primal tiene una solución correspondiente a la base B, entonces 
+$$x’^{*^T} = C_B^t B^-$$
+Esto quiere decir que no hace falta que recalculemos todo, al estar unidos podemos obtener directamente el problema. La solución del dual se calcula directamente desde la solución del primal.
   + C → El vector de coeficientes de la base
   + B → La base de la última iteración del simplex que resuelve el problema primal
 

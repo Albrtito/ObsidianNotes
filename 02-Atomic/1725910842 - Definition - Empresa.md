@@ -9,13 +9,14 @@ sr-ease: 250
 sr-interval: 117
 ---
 # Definition - Empresa
+
 > [!NOTE] Empresa
 > La empresa se ocupa de transformar un input en bienes o servicios con el fin de generar un  [[1725910455 - El valor añadido de una empresa|Valor añadido]]
 
 **Inputs:**
 + Capital: Todo aquello en lo que ha **invertido** la empresa (f.e: maquinaria)
 + Trabajo
-+ ==Materia prima:== 
++ Materia prima
 
 **Outputs:** → Tienen valor económico
 + Bienes: Lo tangible
@@ -27,9 +28,11 @@ sr-interval: 117
 
 **Remark:**
 No hay una diferencia clara, la propia org/empresa se define a si misma. 
+
 + Pueden estar ganando dinero pero que no sea su fin final 
 
 ## Análisis de la empresa en diferentes ámbitos: 
+
 1. Ámbito **técnico**: De input a output
 2. Ámbito **económico**: Conseguir pasta
 3. Ámbito **socio-político**: Por el trabajo que se hace dentro (la gente)

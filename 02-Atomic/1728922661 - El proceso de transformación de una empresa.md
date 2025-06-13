@@ -1,14 +1,13 @@
 ---
+id: 1728922661 - El proceso de transformación de una empresa
 aliases:
   - El proceso de transformación de una empresa
   - El proceso de transformación
 tags:
   - Empresa
-References: 
-cssclasses: 
-sr-due: 2024-12-22
-sr-interval: 15
+sr-due: "2024-12-22"
 sr-ease: 207
+sr-interval: 15
 ---
 # El proceso de transformación de una empresa
 
@@ -27,7 +26,7 @@ sr-ease: 207
 
 ## Factores: 
 
-Hay uns sere de factores que afectan al proceso de transformación:
+Hay una serie de factores que afectan al proceso de transformación:
 + **Creativos**: #Duda: Cuales son estos?
 + **Directivos**: Se centran en la dirección del proceso productivo para garantizar el buen funcionamiento de dicho proceso. Incluye labores de planificación, organización y control. 
 + **Elementales**: Son los inputs **necesarios para obtener el output**: Capital, mano de obra y materias primas

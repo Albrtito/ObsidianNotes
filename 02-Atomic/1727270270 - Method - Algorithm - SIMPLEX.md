@@ -1,15 +1,14 @@
 ---
+id: 1727270270 - Method - Algorithm - SIMPLEX
 aliases:
   - Method - SIMPLEX
   - SIMPLEX
   - Algorithm - SIMPLEX
 tags:
   - Heuri
-References: 
-cssclasses: 
-sr-due: 2024-11-23
-sr-interval: 1
+sr-due: "2024-11-23"
 sr-ease: 130
+sr-interval: 1
 ---
 # Method - SIMPLEX:
 
@@ -71,20 +70,22 @@ Una vez tenemos **el problema en [[1727270366 - Forma estandar|Forma estandar]]*
       - **Remark:** Las variables que no aparezcan en la base tomarán un valor de 0.
 	2. Calcular el **valor de la función objetivo:**
 	   $$z = C_B^T \cdot x_B$$
+
 ### Regla de entrada:
+
 3. ==**Regla de entrada:** En este paso calcularemos cual de las variables que no se encuentra en la base aporta mas entrando en ella. Esto lo sabremos calculando:==
    $$\min \{z_j-C_j\}$$
    + Donde: 
 	  $$z_j = C_B^Ty_j \rightarrow y_j = B^-A_j$$
    Entonces la j para la que se obtenga el minimo valor de esta expresión será el índice de la variable que entra $x_j$
+
    + Probamos **solo con las variables que no están ya dentro de la base**
    + **Una variable que acaba de salir no va a volver a entrar,** pero podemos calcular igualmente el valor de la exprsión para asegurarnos de que da positivo. (si da positivo significa que estamos haciendo las cosas bien)
 
 	**CONDICIÓN PARA IR AL PASO 4:**
-	+ **HALT:** Si todas las variables toman valores positivos la solución actual será la final y óptima. En este caso también se ha de cumplir que.
-		+ **Todas las variables artificiales toman valor 0**
+	+ **HALT:** Si todas las variables toman valores positivos la solución actual será la final y óptima. En este caso también se ha de cumplir que **todas las variables artificiales toman valor 0**
 		  
-	+ **CONTINUE:** En cuanto una de las variables tome valor negativo pasamos al paso 3
+	+ **CONTINUE:** En cuanto una de las variables tome valor negativo pasamos al paso 4
 
 ### Regla de salida:
 

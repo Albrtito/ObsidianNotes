@@ -20,7 +20,7 @@ Para cada elemento $a_{ij}$ de la matriz A:
 - Multiplicar por $(-1)^{i+j}$ para obtener el cofactor $C_{ij}$
 
 La fórmula del cofactor es:
-$C_{ij} = (-1)^{i+j} \det(M_{ij})$
+$C_{ij} = (-1)^{i+j} \det(M_{ij})
 
 ### 2. Construir la matriz adjunta
 La matriz de cofactores C tiene la siguiente forma:

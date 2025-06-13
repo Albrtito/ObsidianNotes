@@ -1,13 +1,12 @@
 ---
+id: 1728921778 - La funcion de produccion de la empresa
 aliases:
   - La funcion de produccion de la empresa
 tags:
   - Empresa
-References: 
-cssclasses: 
-sr-due: 2024-12-07
-sr-interval: 35
+sr-due: "2024-12-07"
 sr-ease: 224
+sr-interval: 35
 ---
 # La funcion de produccion de la empresa
 
@@ -20,7 +19,6 @@ sr-ease: 224
 
 + Esta función necesita de una **retroalimentación** para evaluar el proceso de producción.
 
-![[1728921778 - La funcion de produccion de la empresaj.png]]
 
 ## Objetivos: 
 Dentro del proceso productivo tenemos 4 objetivos.
@@ -43,7 +41,7 @@ Dentro del proceso productivo tenemos 4 objetivos.
 
 Según las respuestas a estas preguntas se elegirá un [[1728935315 - Tipos de sistemas productivos de la empresa|Tipos de sistemas productivos]].
 
-Para el análisis del sistema de producción elegido se utilizarán 
+
 ### Otras decisiones:
 Además del tipo de sistema productivo que se utilizará hemos de tener en cuenta:
 

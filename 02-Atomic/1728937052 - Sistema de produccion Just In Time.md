@@ -1,13 +1,9 @@
 ---
+id: 1728937052 - Sistema de produccion Just In Time
 aliases:
   - Sistema de produccion Just In Time
 tags:
   - Empresa
-References: 
-cssclasses: 
-sr-due: 2024-11-25
-sr-interval: 23
-sr-ease: 230
 ---
 # Sistema de produccion Just In Time
 
@@ -16,7 +12,6 @@ sr-ease: 230
 + Aparece en Japón con poco espacio
 + Se podría considerar una mezcla entre la producción flexible y la producción en masa. 
 
-Esto conlleva las siguientes características:
 ## Características:
 + Células de trabajo
 + Control de defectos
@@ -25,6 +20,6 @@ Esto conlleva las siguientes características:
 + Sistema kanban
 
 ### Objetivos:
-Conseguir un cero todo: **defectos, averías, papel, inventarios, retrasos o plazos**
+Conseguir un cero todo: **defectos, averías, papel, inventarios, retrasos** -> D.A.P.I.R.
 
 ***

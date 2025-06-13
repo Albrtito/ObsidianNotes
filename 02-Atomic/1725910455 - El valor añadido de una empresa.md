@@ -9,17 +9,14 @@ sr-ease: 290
 sr-interval: 109
 ---
 # El valor añadido de una empresa
-Al realizar una actividad empresarial, cualquier empresa tiene la capacidad de generar valor añadido. Esto es un sinónimo de crear/generar riqueza.
 
-> [!attention] 
-> IDEA: **Crear riqueza a través del valor añadido**
+> [!NOTE] Que es el valor añadido?:
+> La empresa crea riqueza para si misma y por lo consecuente para el país a, esta riqueza creada será el valor añadido. 
+> Podemos calcular el valor añadido como la diferencia entre lo gastado por la empresa para producir un producto y el precio final de este. 
 
-Llamamos valor añadido de la empresa a la diferencia entre el coste inicial la materia prima/capital invertido y la ganancia final obtenida. 
 
-> [!example] Ejemplo:
 > **p.e:** La madera+tornillería+pintura que cuesta 15 se vende como mesa completa por 50 generando 35 de riqueza. Suma todas las mesas y tienes el valor añadido de la empresa de mesería.
-> 
 
-**Remarks:**
+### Down
 
-+ El PIB será la suma del valor añadido de todas las empresas.
+- [[1749648331-producto-interior-bruto-pib|Producto Interior Bruto PIB]]
