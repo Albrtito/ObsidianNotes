@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "02-Atomic/1726825216 - Programación Dinámica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Heuristica y Opti"
+              "title": "1726825216 - Programación Dinámica"
             }
           }
         ],
@@ -51,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-Areas/1.UC3M/Heuristica y Opti.md",
+                "file": "02-Atomic/1726825216 - Programación Dinámica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Heuristica y Opti"
+              "title": "Graph of 1726825216 - Programación Dinámica"
             }
           },
           {
@@ -358,9 +358,9 @@
   },
   "active": "1fb8f621d6c2b820",
   "lastOpenFiles": [
+    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1726763938 - Exercises - Programación Lineal.md",
     "02-Atomic/1729169017 - Exercises - Resolucion gráfica y modelado de programacion lineal.md",
-    "01-Areas/1.UC3M/Heuristica y Opti.md",
     "02-Atomic/1743085545 - Reu con TAI para Islandia.md",
     "01-Areas/1.UC3M/DiffCalc.md",
     "02-Atomic/20240529 - 132751 - Method -Integration by parts.md",

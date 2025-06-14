@@ -1,4 +1,6 @@
 00-References
 .trash
-"99-Meta/2. Scripts/"
+"99-Meta/2-scripts/"
 **/.DS_Store
+# Ignore all files in the external folder. Cloned repos are in there so no need to get them into this personal obsidian repo. 
+03-ext
